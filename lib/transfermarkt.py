@@ -1,3 +1,5 @@
+# utility functions for accessing transfermarkt.com
+
 from urllib2 import urlopen, Request
 from bs4 import BeautifulSoup
 from pandas import DataFrame
