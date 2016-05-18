@@ -24,7 +24,7 @@ def getClubsFromLeagueId(id, season=2015):
     return [{'clubId': cp.find("a")["id"], 'name': cp.getText()} for cp in elements]
 
 def getPlayersFromClubId(id, season=2015):
-    bs = BeautifulSoup(urlopen(Request(getUrlFromClubId(id), headers={'User-Agent': useragent})))
+    bs = BeautifulSoup(urlopen(Request(getUrlFromClubId(id, season), headers={'User-Agent': useragent})))
     elements = bs.find(id='yw1').find_all("span",class_="hide-for-small")
     return [{'playerId': cp.find("a", class_="spielprofil_tooltip")["id"], 
              'name': cp.getText()} for cp in elements if cp.find("a", class_="spielprofil_tooltip")]
