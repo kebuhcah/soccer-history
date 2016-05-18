@@ -21,10 +21,26 @@ def getUrlFromPlayerId(id):
 def getClubsFromLeagueId(id, season=2015):
     bs = BeautifulSoup(urlopen(Request(getUrlFromLeagueId(id, season), headers={'User-Agent': useragent})))
     elements = bs.find(id='yw1').find_all("td",class_="hauptlink no-border-links hide-for-small hide-for-pad")
-    return [{'clubId': cp.find("a")["id"], 'name': cp.getText()} for cp in elements]
+    return [{'clubId': e.find("a")["id"], 'name': e.getText()} for e in elements]
 
 def getPlayersFromClubId(id, season=2015):
     bs = BeautifulSoup(urlopen(Request(getUrlFromClubId(id, season), headers={'User-Agent': useragent})))
     elements = bs.find(id='yw1').find_all("span",class_="hide-for-small")
-    return [{'playerId': cp.find("a", class_="spielprofil_tooltip")["id"], 
-             'name': cp.getText()} for cp in elements if cp.find("a", class_="spielprofil_tooltip")]
+    return [{'playerId': e.find("a", class_="spielprofil_tooltip")["id"], 
+             'name': e.getText()} for e in elements if e.find("a", class_="spielprofil_tooltip")]
+
+def getTransfersFromPlayerId(id):
+    bs = BeautifulSoup(urlopen(Request(getUrlFromPlayerId(id), headers={'User-Agent': useragent})))
+    elements = bs.find(class_="transferhistorie").find_all("tr",class_="zeile-transfer")
+    dicts = [{'seasonDate': "  ".join([td.getText() for td in e.findAll("td")[:2]]),
+      'mv': e.find("td",class_="zelle-mw").getText(),
+      'fee': e.find("td",class_="zelle-abloese").getText(),
+      'teams': dict(zip(['from','to'],([{'teamId': team.find("a")["id"], 'name': team.getText()}
+                                    for team in e.find_all("td", class_="hauptlink no-border-links hide-for-small vereinsname")])))} for e in elements]
+    return [{'season': d['seasonDate'].split("  ")[0],
+       'date': d['seasonDate'].split("  ")[1],
+       'mv': d['mv'], 'fee': d['fee'],
+       'fromTeamId': d['teams']['from']['teamId'],
+       'fromTeamName': d['teams']['from']['name'].lstrip(),
+       'toTeamId': d['teams']['to']['teamId'],
+       'toTeamName': d['teams']['to']['name'].lstrip()} for d in dicts]
