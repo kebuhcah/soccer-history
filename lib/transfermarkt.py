@@ -9,28 +9,28 @@ useragent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
 # "lol" can be anything - transfermarkt ignores it/uses it for semantic url
 urlprefix = 'http://www.transfermarkt.com/lol/'
 
-def getUrlForLeagueId(id, season=2015):
+def getUrlByLeagueId(id, season=2015):
     return urlprefix + 'startseite/wettbewerb/' + id + '/saison_id/' + str(season)
 
-def getUrlForClubId(id, season=2015):
+def getUrlByClubId(id, season=2015):
     return urlprefix + 'startseite/verein/' + str(id) + '/saison_id/' + str(season)
 
-def getUrlForPlayerId(id):
+def getUrlByPlayerId(id):
     return urlprefix + 'profil/spieler/' + str(id)
 
-def getClubsForLeagueId(id, season=2015):
-    bs = BeautifulSoup(urlopen(Request(getUrlForLeagueId(id, season), headers={'User-Agent': useragent})))
+def getClubsByLeagueId(id, season=2015):
+    bs = BeautifulSoup(urlopen(Request(getUrlByLeagueId(id, season), headers={'User-Agent': useragent})))
     elements = bs.find(id='yw1').find_all("td",class_="hauptlink no-border-links hide-for-small hide-for-pad")
     return [{'clubId': e.find("a")["id"], 'name': e.getText()} for e in elements]
 
-def getPlayersForClubId(id, season=2015):
-    bs = BeautifulSoup(urlopen(Request(getUrlForClubId(id, season), headers={'User-Agent': useragent})))
+def getPlayersByClubId(id, season=2015):
+    bs = BeautifulSoup(urlopen(Request(getUrlByClubId(id, season), headers={'User-Agent': useragent})))
     elements = bs.find(id='yw1').find_all("span",class_="hide-for-small")
     return [{'playerId': e.find("a", class_="spielprofil_tooltip")["id"], 
              'name': e.getText()} for e in elements if e.find("a", class_="spielprofil_tooltip")]
 
-def getTransfersForPlayerId(id):
-    bs = BeautifulSoup(urlopen(Request(getUrlForPlayerId(id), headers={'User-Agent': useragent})))
+def getTransfersByPlayerId(id):
+    bs = BeautifulSoup(urlopen(Request(getUrlByPlayerId(id), headers={'User-Agent': useragent})))
     elements = bs.find(class_="transferhistorie").find_all("tr",class_="zeile-transfer")
     dicts = [{'seasonDate': "  ".join([td.getText() for td in e.findAll("td")[:2]]),
       'mv': e.find("td",class_="zelle-mw").getText(),
