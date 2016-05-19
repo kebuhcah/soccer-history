@@ -76,8 +76,8 @@ def getPlayerData(id):
         result3["Player's agent id"] = result3["Player's agent"].split("/")[-1].strip()
         result3["Player's agent"] = result3["Player's agent"].split("HREFs:")[0].strip()
     if "Place of birth" in result3:
-        result3["Place of birth"] = result3["Place of birth"].split("COUNTRY:")[0].strip()
         result3["Country of birth"] = result3["Place of birth"].split("COUNTRY:")[-1].strip()
+        result3["Place of birth"] = result3["Place of birth"].split("COUNTRY:")[0].strip()
     result3["Nationality"] = re.sub('\s+', ' ', result3["Nationality"])
     if "on loan from" in result3:
         result3["on loan from club id"] = result3["on loan from"].split("/verein/")[-1].strip()
