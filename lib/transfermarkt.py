@@ -88,7 +88,7 @@ def getPlayerData(id):
             if platform in socialmedia:
                 result3[platform]=socialmedia[platform]
         if len([x for x in socialmedia if not x in ['twitter', 'facebook', 'instagram']]) > 0:
-            result3['website']=socialmedia[[x for x in socialmedia if not x in ['twitter', 'facebook', 'instagram']][0]].split("//")[-1]
+            result3['website']=socialmedia[[x for x in socialmedia if not x in ['twitter', 'facebook', 'instagram']][0]]
         del result3["Social media"]    
     
     return result3
