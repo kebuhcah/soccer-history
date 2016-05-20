@@ -4,6 +4,8 @@ from urllib2 import urlopen, Request
 from bs4 import BeautifulSoup
 from pandas import DataFrame
 import re
+import os.path 
+import datetime 
 
 # transfermarkt blocks default useragent
 useragent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'
@@ -25,7 +27,7 @@ def getUrlByAgentId(id):
 def getClubsByLeagueId(id, season=2015):
     bs = BeautifulSoup(urlopen(Request(getUrlByLeagueId(id, season), headers={'User-Agent': useragent})))
     elements = bs.find(id='yw1').find_all("td",class_="hauptlink no-border-links hide-for-small hide-for-pad")
-    return [{'clubId': e.find("a")["id"], 'name': e.getText()} for e in elements]
+    return [{'clubId': e.find("a")["id"], 'name': e.getText().strip(u'\xa0 ')} for e in elements]
 
 def getPlayersByClubId(id, season=2015):
     bs = BeautifulSoup(urlopen(Request(getUrlByClubId(id, season), headers={'User-Agent': useragent})))
@@ -72,6 +74,8 @@ def getPlayerData(id):
         result3["Outfitter"] = result3["Outfitter"].split("HREFs:")[0].strip()
     if "Shoe model" in result3:
         result3["Shoe model"] = result3["Shoe model"].split("HREFs:")[0].strip()
+    if "Glove" in result3:
+        result3["Glove"] = result3["Glove"].split("HREFs:")[0].strip()
     if "Player's agent" in result3:
         result3["Player's agent id"] = result3["Player's agent"].split("/")[-1].strip()
         result3["Player's agent"] = result3["Player's agent"].split("HREFs:")[0].strip()
@@ -82,6 +86,9 @@ def getPlayerData(id):
     if "on loan from" in result3:
         result3["on loan from club id"] = result3["on loan from"].split("/verein/")[-1].strip()
         result3["on loan from"] = result3["on loan from"].split("HREFs:")[0].strip()
+    if "2nd club" in result3:
+        result3["2nd club id"] = result3["2nd club"].split("/verein/")[-1].strip()
+        result3["2nd club"] = result3["2nd club"].split("HREFs:")[0].strip()
     if "Social media" in result3:    
         socialmedia = dict([(url.split("//")[-1].split("/")[0].split(".")[-2], url) for url in result3["Social media"].split(" ") if url.startswith("http")])    
         for platform in ['twitter', 'facebook', 'instagram']:
