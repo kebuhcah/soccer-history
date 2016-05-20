@@ -13,5 +13,5 @@ for season in range(2001,2016)[::-1]:
                 DataFrame([player for club in getClubsByLeagueId(league,season) \
                             for player in getPlayersByClubId(club['clubId'],season)]).to_excel(filename)
                 print str(datetime.datetime.now()), "done"
-            except Exception:
-                print str(datetime.datetime.now()), "error"
+            except Exception as e:
+                print str(datetime.datetime.now()), "error", e
