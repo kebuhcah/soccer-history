@@ -2,7 +2,7 @@
 
 from urllib2 import urlopen, Request
 from bs4 import BeautifulSoup
-from pandas import DataFrame
+from pandas import DataFrame, read_excel
 import re
 import os.path 
 import datetime 
