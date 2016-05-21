@@ -4,9 +4,10 @@ from urllib2 import urlopen, Request
 from bs4 import BeautifulSoup
 from pandas import DataFrame
 import pandas as pd
+import numpy as np
 import re
-import os.path 
-import datetime 
+import os.path
+import datetime
 
 # transfermarkt blocks default useragent
 useragent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'
@@ -36,7 +37,7 @@ def getClubsByLeagueId(id, season=2015):
 def getPlayersByClubId(id, season=2015):
     bs = BeautifulSoup(urlopen(Request(getUrlByClubId(id, season), headers={'User-Agent': useragent})))
     elements = bs.find(id='yw1').find_all("span",class_="hide-for-small")
-    return [{'playerId': e.find("a", class_="spielprofil_tooltip")["id"], 
+    return [{'playerId': e.find("a", class_="spielprofil_tooltip")["id"],
              'name': e.getText()} for e in elements if e.find("a", class_="spielprofil_tooltip")]
 
 def getTransfersFromBs(bs):
@@ -60,27 +61,29 @@ def getTransfersFromBs(bs):
         'playerName': bs.find("h1").getText()} for d in dicts]
 
 def getPlayerDataFromBs(bs):
-    elements = bs.find(class_="spielerdaten").find_all("tr") 
-    result1 = [{'key': e.find("th").getText().strip().rstrip(':'),'value': e.find("td").getText().strip(), 
+    elements = bs.find(class_="spielerdaten").find_all("tr")
+    result1 = [{'key': e.find("th").getText().strip().rstrip(':'),'value': e.find("td").getText().strip(),
             'country': (e.find('img',class_="flaggenrahmen").get("title")) if e.find('img',class_="flaggenrahmen") else "",
             'hrefs' : [a.get("href") for a in e.findAll("a")]} for e in elements]
 
-    result2 = [{'key':e['key'], 'value': (e['value'] 
+    result2 = [{'key':e['key'], 'value': (e['value']
            + (" COUNTRY:" + e['country'] if e['key'] == 'Place of birth' else '')
            + (" HREFs: " + " ".join(e['hrefs']) if len(e['hrefs']) > 0 else '')).strip()
           } for e in result1]
 
     result3 = dict([(e['key'],e['value']) for e in result2])
-    
+
     result3["Display name"] = bs.find("h1").getText()
     print "now processing " + result3["Display name"].encode('utf-8')
     if bs.find("div",class_="detailpositionen"):
         result3["Detailed position"] = re.sub('\s+', ' ',bs.find("div",class_="detailpositionen").getText().strip())
     if bs.find("span",itemprop="birthDate"):
         result3["birthDate"] = re.sub('\s+', ' ',bs.find("span",itemprop="birthDate").getText().strip())
-    result3["Date of birth"] = result3["Date of birth"].split("HREFs:")[0].strip()
-    result3["Current club id"] = result3["Current club"].split("/verein/")[-1]
-    result3["Current club"] = result3["Current club"].split("HREFs:")[0].strip()
+    if "Date of birth" in result3:
+        result3["Date of birth"] = result3["Date of birth"].split("HREFs:")[0].strip()
+    if "Current club" in result3:
+        result3["Current club id"] = result3["Current club"].split("/verein/")[-1]
+        result3["Current club"] = result3["Current club"].split("HREFs:")[0].strip()
     if "Outfitter" in result3:
         result3["Outfitter"] = result3["Outfitter"].split("HREFs:")[0].strip()
     if "Shoe model" in result3:
@@ -100,8 +103,8 @@ def getPlayerDataFromBs(bs):
     if "2nd club" in result3:
         result3["2nd club id"] = result3["2nd club"].split("/verein/")[-1].strip()
         result3["2nd club"] = result3["2nd club"].split("HREFs:")[0].strip()
-    if "Social media" in result3:    
-        socialmedia = dict([(url.split("//")[-1].split("/")[0].split(".")[-2], url) for url in result3["Social media"].split(" ") if url.startswith("http")])    
+    if "Social media" in result3:
+        socialmedia = dict([(url.split("//")[-1].split("/")[0].split(".")[-2], url) for url in result3["Social media"].split(" ") if url.startswith("http")])
         for platform in ['twitter', 'facebook', 'instagram']:
             if platform in socialmedia:
                 result3[platform]=socialmedia[platform]
@@ -112,5 +115,5 @@ def getPlayerDataFromBs(bs):
     if nationalTeamLinks:
         result3['Intl caps/goals'] = '/'.join([a.getText() for a in nationalTeamLinks])
         result3['National team id'] = nationalTeamLinks[0].get("href").split("/")[-1]
-    
+
     return result3
