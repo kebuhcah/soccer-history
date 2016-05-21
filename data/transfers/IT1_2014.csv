@@ -1,0 +1,757 @@
+date,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jun 30, 2016",End of loan,Italy,4718,Virtus Lanciano ,12907,"1,30 Mill. €",Alessio Cragno,15/16,Italy,1390,Cagliari Calcio 
+"Jan 26, 2016",Loan,Italy,1390,Cagliari Calcio ,12907,"1,30 Mill. €",Alessio Cragno,15/16,Italy,4718,Virtus Lanciano 
+"Jul 12, 2014","1,60 Mill. €",Italy,19,Brescia ,12907,"1,80 Mill. €",Alessio Cragno,14/15,Italy,1390,Cagliari Calcio 
+"Jul 1, 2012",-,Italy,14829,Brescia U19 ,12907,200 Th. €,Alessio Cragno,12/13,Italy,19,Brescia 
+"Jul 1, 2011",-,Italy,29345,Brescia Jugend ,12907,300 Th. €,Alessio Cragno,11/12,Italy,14829,Brescia U19 
+"Sep 9, 2014",-,Italy,515,Unattached ,22285,25 Th. €,Maurizio Pugliesi,14/15,,749,FC Empoli 
+"Jul 1, 2014",-,Italy,4172,AC Pisa ,22285,25 Th. €,Maurizio Pugliesi,14/15,,515,Unattached 
+"Jul 1, 2010",Free transfer,Italy,4111,AC Rimini ,22285,125 Th. €,Maurizio Pugliesi,10/11,Italy,4172,AC Pisa 
+"Jul 1, 2004",Free transfer,Italy,2921,Pescara ,22285,-,Maurizio Pugliesi,04/05,Italy,4111,AC Rimini 
+"Jul 1, 2003",?,Italy,4333,Grosseto ,22285,-,Maurizio Pugliesi,03/04,Italy,2921,Pescara 
+"Jul 1, 2002",?,Italy,4515,US Poggibonsi ,22285,-,Maurizio Pugliesi,02/03,Italy,4333,Grosseto 
+"Jul 1, 2001",?,Italy,2921,Pescara ,22285,-,Maurizio Pugliesi,01/02,Italy,4515,US Poggibonsi 
+"Jan 1, 2001",?,Italy,4339,Montevarchi Calcio Aquila 1902 ,22285,-,Maurizio Pugliesi,00/01,Italy,2921,Pescara 
+"Jul 1, 2000",?,Italy,14888,Pontedera ,22285,-,Maurizio Pugliesi,00/01,Italy,4339,Montevarchi Calcio Aquila 1902 
+"Jul 1, 1995",-,Italy,27566,Pontedera B. ,22285,-,Maurizio Pugliesi,95/96,Italy,14888,Pontedera 
+"Jul 3, 2012",Free transfer,Italy,10118,Sorrento ,22749,250 Th. €,Daniele Croce,12/13,Italy,749,FC Empoli 
+"Jul 1, 2011",?,Italy,2721,Alessandria ,22749,300 Th. €,Daniele Croce,11/12,Italy,10118,Sorrento 
+"Sep 1, 2010",Free transfer,Italy,14918,Arezzo Berretti ,22749,150 Th. €,Daniele Croce,10/11,Italy,2721,Alessandria 
+"Jun 30, 2008",End of loan,Italy,1429,AC Cesena ,22749,450 Th. €,Daniele Croce,07/08,Italy,14918,Arezzo Berretti 
+"Aug 1, 2007",Loan,Italy,4255,Arezzo ,22749,400 Th. €,Daniele Croce,07/08,Italy,1429,AC Cesena 
+"Aug 1, 2006",?,Italy,2921,Pescara ,22749,400 Th. €,Daniele Croce,06/07,Italy,4255,Arezzo 
+"Jun 30, 2004",End of loan,Italy,4093,Taranto ,22749,-,Daniele Croce,03/04,Italy,2921,Pescara 
+"Jul 1, 2003",Loan,Italy,2921,Pescara ,22749,-,Daniele Croce,03/04,Italy,4093,Taranto 
+"Jul 1, 2001",-,Italy,8525,Pescara ,22749,-,Daniele Croce,01/02,Italy,2921,Pescara 
+"Jul 14, 2014",200 Th. €,Italy,2331,AS Avellino ,32113,800 Th. €,Armando Izzo,14/15,Italy,252,Genoa 
+"Jan 1, 2012",90 Th. €,Italy,6195,SSC Napoli ,32113,175 Th. €,Armando Izzo,11/12,Italy,2331,AS Avellino 
+"Dec 1, 2011",End of loan,Italy,4271,Triestina ,32113,100 Th. €,Armando Izzo,11/12,Italy,6195,SSC Napoli 
+"Jul 1, 2011",Loan,Italy,12819,Napoli U19 ,32113,100 Th. €,Armando Izzo,11/12,Italy,4271,Triestina 
+"Jul 23, 2015",Free transfer,Italy,1429,AC Cesena ,38582,200 Th. €,Walter Bressan,15/16,Italy,862,Chievo Verona 
+"Jul 28, 2014",Free transfer,Italy,4361,Varese ,38582,200 Th. €,Walter Bressan,14/15,Italy,1429,AC Cesena 
+"Aug 2, 2012",?,Italy,6574,Sassuolo ,38582,900 Th. €,Walter Bressan,12/13,Italy,4361,Varese 
+"Jun 30, 2012",End of loan,Italy,4361,Varese ,38582,900 Th. €,Walter Bressan,11/12,Italy,6574,Sassuolo 
+"Aug 1, 2011",Loan,Italy,6574,Sassuolo ,38582,800 Th. €,Walter Bressan,11/12,Italy,4361,Varese 
+"Jul 1, 2008",?,Italy,4333,Grosseto ,38582,50 Th. €,Walter Bressan,08/09,Italy,6574,Sassuolo 
+"Jul 1, 2007",?,Italy,4255,Arezzo ,38582,50 Th. €,Walter Bressan,07/08,Italy,4333,Grosseto 
+"Jul 1, 2005",?,Italy,5174,Pavia ,38582,-,Walter Bressan,05/06,Italy,4255,Arezzo 
+"Jul 1, 2003",?,Italy,2251,Treviso ,38582,-,Walter Bressan,03/04,Italy,5174,Pavia 
+"Jul 1, 2002",?,Italy,3522,Spezia Calcio ,38582,-,Walter Bressan,02/03,Italy,2251,Treviso 
+"Jul 1, 2001",?,Italy,800,Atalanta ,38582,-,Walter Bressan,01/02,Italy,3522,Spezia Calcio 
+"Jul 1, 1998",-,Italy,11998,Atalanta ,38582,-,Walter Bressan,98/99,Italy,800,Atalanta 
+"Jul 2, 2015","2,50 Mill. €",Italy,12,AS Roma ,41112,"2,00 Mill. €",José Holebas,15/16,England,1010,Watford 
+"Aug 30, 2014","1,00 Mill. €",Greece,683,Olympiacos ,41112,"2,50 Mill. €",José Holebas,14/15,Italy,12,AS Roma 
+"Jul 13, 2010",900 Th. €,Germany,72,1860 Munich ,41112,"1,00 Mill. €",José Holebas,10/11,Greece,683,Olympiacos 
+"Jul 1, 2006",-,Germany,73,1860 München II ,41112,-,José Holebas,07/08,Germany,72,1860 Munich 
+"Jul 1, 2006",Free transfer,Germany,4915,Viktoria Kahl ,41112,-,José Holebas,06/07,Germany,73,1860 München II 
+"Jul 1, 2005",Free transfer,Germany,4520,SV Damm ,41112,-,José Holebas,05/06,Germany,4915,Viktoria Kahl 
+"Jul 1, 2002",-,Germany,2113,career break ,41112,-,José Holebas,02/03,,4520,SV Damm 
+"Jul 1, 2001",-,Germany,29147,Teutonia Obernau U19 ,41112,-,José Holebas,01/02,,2113,career break 
+"Jun 30, 2015",End of loan,Italy,130,Parma ,47435,"1,00 Mill. €",Andi Lila,14/15,Greece,2671,PAS Giannina 
+"Jan 8, 2015",Loan,Greece,2671,PAS Giannina ,47435,800 Th. €,Andi Lila,14/15,Italy,130,Parma 
+"Jul 1, 2011",Free transfer,Albania,2049,KF Tirana ,47435,800 Th. €,Andi Lila,11/12,Greece,2671,PAS Giannina 
+"Jul 1, 2008",Free transfer,Albania,739,KS Besa Kavajë ,47435,150 Th. €,Andi Lila,08/09,Albania,2049,KF Tirana 
+"Jul 1, 2007",Free transfer,Greece,47,Iraklis ,47435,150 Th. €,Andi Lila,07/08,Albania,739,KS Besa Kavajë 
+"Jul 1, 2006",150 Th. €,Albania,739,KS Besa Kavajë ,47435,-,Andi Lila,06/07,Greece,47,Iraklis 
+"Jul 1, 2003",-,Albania,27084,Besa Kavajë U19 ,47435,-,Andi Lila,03/04,Albania,739,KS Besa Kavajë 
+"Jun 30, 2016",End of loan,Mexico,2407,Monterrey ,55997,"2,20 Mill. €",José María Basanta,15/16,Italy,430,Fiorentina 
+"Aug 31, 2015",Loan,Italy,430,Fiorentina ,55997,"2,80 Mill. €",José María Basanta,15/16,Mexico,2407,Monterrey 
+"Aug 1, 2014","2,60 Mill. €",Mexico,2407,Monterrey ,55997,"3,50 Mill. €",José María Basanta,14/15,Italy,430,Fiorentina 
+"Jul 1, 2008",850 Th. €,Argentina,288,Estudiantes ,55997,850 Th. €,José María Basanta,08/09,Mexico,2407,Monterrey 
+"Jun 30, 2007",End of loan,Argentina,7468,Olimpo ,55997,-,José María Basanta,06/07,Argentina,288,Estudiantes 
+"Jul 1, 2006",Loan,Argentina,288,Estudiantes ,55997,-,José María Basanta,06/07,Argentina,7468,Olimpo 
+"Jul 1, 2003",-,Argentina,15115,ELP U20 ,55997,-,José María Basanta,03/04,Argentina,288,Estudiantes 
+"Jun 30, 2016",End of loan,Italy,2921,Pescara ,61751,900 Th. €,Antonio Mazzotta,15/16,Italy,1429,AC Cesena 
+"Feb 1, 2016",Loan,Italy,1429,AC Cesena ,61751,900 Th. €,Antonio Mazzotta,15/16,Italy,2921,Pescara 
+"Jun 30, 2015",End of loan,Italy,1627,Catania ,61751,900 Th. €,Antonio Mazzotta,14/15,Italy,1429,AC Cesena 
+"Jan 21, 2015",Loan fee:100 Th. €,Italy,1429,AC Cesena ,61751,"1,20 Mill. €",Antonio Mazzotta,14/15,Italy,1627,Catania 
+"Sep 1, 2014",500 Th. €,Italy,4083,Crotone ,61751,"1,50 Mill. €",Antonio Mazzotta,14/15,Italy,1429,AC Cesena 
+"Sep 3, 2012",?,Italy,1005,Lecce ,61751,500 Th. €,Antonio Mazzotta,12/13,Italy,4083,Crotone 
+"Jun 30, 2012",End of loan,Italy,4083,Crotone ,61751,500 Th. €,Antonio Mazzotta,11/12,Italy,1005,Lecce 
+"Aug 1, 2011",Loan,Italy,1005,Lecce ,61751,600 Th. €,Antonio Mazzotta,11/12,Italy,4083,Crotone 
+"Jun 30, 2011",End of loan,Italy,4083,Crotone ,61751,600 Th. €,Antonio Mazzotta,10/11,Italy,1005,Lecce 
+"Jan 1, 2011",Loan,Italy,1005,Lecce ,61751,700 Th. €,Antonio Mazzotta,10/11,Italy,4083,Crotone 
+"Dec 31, 2010",End of loan,Italy,2921,Pescara ,61751,700 Th. €,Antonio Mazzotta,10/11,Italy,1005,Lecce 
+"Jul 1, 2010",Loan,Italy,1005,Lecce ,61751,800 Th. €,Antonio Mazzotta,10/11,Italy,2921,Pescara 
+"Aug 1, 2009",?,Italy,458,US Palermo ,61751,-,Antonio Mazzotta,09/10,Italy,1005,Lecce 
+"Jul 1, 2009",-,Italy,11493,Palermo ,61751,-,Antonio Mazzotta,09/10,Italy,458,US Palermo 
+"Jul 1, 2006",?,Italy,28695,ASD Kamarat ,61751,-,Antonio Mazzotta,06/07,Italy,11493,Palermo 
+"Jan 1, 2016",600 Th. €,Czech Republic,197,Sparta Praha ,63899,"2,00 Mill. €",Josef Husbauer,15/16,Czech Republic,62,Slavia Prag 
+"Jun 30, 2015",End of loan,Italy,1390,Cagliari Calcio ,63899,"3,00 Mill. €",Josef Husbauer,15/16,Czech Republic,197,Sparta Praha 
+"Jan 10, 2015","Loan fee:1,00 Mill. €",Czech Republic,197,Sparta Praha ,63899,"3,00 Mill. €",Josef Husbauer,14/15,Italy,1390,Cagliari Calcio 
+"Aug 1, 2011",?,Czech Republic,377,Banik Ostrava ,63899,350 Th. €,Josef Husbauer,11/12,Czech Republic,197,Sparta Praha 
+"Jul 1, 2010",Free transfer,Czech Republic,2598,1.FK Pribram ,63899,225 Th. €,Josef Husbauer,10/11,Czech Republic,377,Banik Ostrava 
+"Jul 1, 2009",50 Th. €,Czech Republic,892,Viktoria Zizkov ,63899,225 Th. €,Josef Husbauer,09/10,Czech Republic,2598,1.FK Pribram 
+"Jul 1, 2008",Free transfer,Czech Republic,7975,FC Vysocina ,63899,-,Josef Husbauer,08/09,Czech Republic,892,Viktoria Zizkov 
+"Jul 1, 2007",?,Czech Republic,12795,Sparta Prag U19 ,63899,-,Josef Husbauer,07/08,Czech Republic,7975,FC Vysocina 
+"Jun 30, 2014",End of loan,Italy,4084,Cittadella ,67556,300 Th. €,Milan Djuric,13/14,Italy,1429,AC Cesena 
+"Jan 31, 2014",Loan,Italy,1429,AC Cesena ,67556,300 Th. €,Milan Djuric,13/14,Italy,4084,Cittadella 
+"Jan 30, 2014",End of loan,Italy,4331,Trapani ,67556,300 Th. €,Milan Djuric,13/14,Italy,1429,AC Cesena 
+"Jul 15, 2013",Loan,Italy,1429,AC Cesena ,67556,300 Th. €,Milan Djuric,13/14,Italy,4331,Trapani 
+"Jun 30, 2013",End of loan,Italy,2239,Cremonese ,67556,300 Th. €,Milan Djuric,12/13,Italy,1429,AC Cesena 
+"Jul 18, 2012",Loan,Italy,1429,AC Cesena ,67556,750 Th. €,Milan Djuric,12/13,Italy,2239,Cremonese 
+"Jul 1, 2012",?,Italy,130,Parma ,67556,750 Th. €,Milan Djuric,12/13,Italy,1429,AC Cesena 
+"Jun 30, 2012",End of loan,Italy,4083,Crotone ,67556,750 Th. €,Milan Djuric,11/12,Italy,130,Parma 
+"Jan 1, 2011",Loan,Italy,130,Parma ,67556,"1,00 Mill. €",Milan Djuric,10/11,Italy,4083,Crotone 
+"Dec 1, 2010",End of loan,Italy,408,Ascoli ,67556,"1,00 Mill. €",Milan Djuric,10/11,Italy,130,Parma 
+"Aug 1, 2010",Loan fee:130 Th. €,Italy,130,Parma ,67556,"1,50 Mill. €",Milan Djuric,10/11,Italy,408,Ascoli 
+"Jul 1, 2010",300 Th. €,Italy,1429,AC Cesena ,67556,"1,50 Mill. €",Milan Djuric,10/11,Italy,130,Parma 
+"Jul 1, 2007",-,Italy,20106,Cesena ,67556,-,Milan Djuric,07/08,Italy,1429,AC Cesena 
+"Jul 31, 2015",Free transfer,Italy,276,Hellas Verona ,73048,500 Th. €,Ivan Martic,15/16,Italy,3522,Spezia Calcio 
+"Jul 1, 2014",Free transfer,Switzerland,257,FC St. Gallen ,73048,500 Th. €,Ivan Martic,14/15,Italy,276,Hellas Verona 
+"Jun 30, 2010",End of loan,Switzerland,1277,FC Schaffhausen ,73048,150 Th. €,Ivan Martic,09/10,Switzerland,257,FC St. Gallen 
+"Feb 1, 2010",Loan,Switzerland,257,FC St. Gallen ,73048,50 Th. €,Ivan Martic,09/10,Switzerland,1277,FC Schaffhausen 
+"Jul 1, 2009",-,Switzerland,9178,St. Gallen U21 ,73048,-,Ivan Martic,09/10,Switzerland,257,FC St. Gallen 
+"Jul 1, 2008",-,Switzerland,9248,FCSG U18 ,73048,-,Ivan Martic,08/09,Switzerland,9178,St. Gallen U21 
+"Jan 6, 2015",?,Denmark,190,FC Copenhagen ,74821,"1,50 Mill. €",Franco Mussis,14/15,Argentina,1775,San Lorenzo 
+"Jan 5, 2015",End of loan,Italy,252,Genoa ,74821,"1,50 Mill. €",Franco Mussis,14/15,Denmark,190,FC Copenhagen 
+"Aug 23, 2014",Loan,Denmark,190,FC Copenhagen ,74821,"1,50 Mill. €",Franco Mussis,14/15,Italy,252,Genoa 
+"Jul 1, 2014","1,90 Mill. €",Argentina,1106,Gimnasia ,74821,-,Franco Mussis,14/15,Denmark,190,FC Copenhagen 
+"Jul 1, 2013",-,Argentina,15114,Gimnasia U19 ,74821,-,Franco Mussis,13/14,Argentina,1106,Gimnasia 
+"Jan 26, 2016",?,Italy,862,Chievo Verona ,77259,500 Th. €,Anders Christiansen,15/16,Sweden,496,Malmö FF 
+"Jan 15, 2015",750 Th. €,Denmark,2778,Nordsjaelland ,77259,900 Th. €,Anders Christiansen,14/15,Italy,862,Chievo Verona 
+"Jul 25, 2012",270 Th. €,Denmark,369,Lyngby BK ,77259,600 Th. €,Anders Christiansen,12/13,Denmark,2778,Nordsjaelland 
+"Jul 1, 2008",-,Denmark,14363,Lyngby BK U19 ,77259,-,Anders Christiansen,08/09,Denmark,369,Lyngby BK 
+"Sep 7, 2015",?,Italy,749,FC Empoli ,84751,150 Th. €,Luca Martinelli,15/16,Italy,1104,ACR Messina 
+"Jun 30, 2015",End of loan,Italy,6692,Novara ,84751,150 Th. €,Luca Martinelli,14/15,Italy,749,FC Empoli 
+"Sep 1, 2014",Loan,Italy,749,FC Empoli ,84751,150 Th. €,Luca Martinelli,14/15,Italy,6692,Novara 
+"Jan 30, 2014",?,Italy,862,Chievo Verona ,84751,200 Th. €,Luca Martinelli,13/14,Italy,749,FC Empoli 
+"Jan 29, 2014",End of loan,Italy,5587,Juve Stabia ,84751,200 Th. €,Luca Martinelli,13/14,Italy,862,Chievo Verona 
+"Aug 29, 2013",Loan,Italy,862,Chievo Verona ,84751,250 Th. €,Luca Martinelli,13/14,Italy,5587,Juve Stabia 
+"Aug 28, 2013",?,Italy,5587,Juve Stabia ,84751,250 Th. €,Luca Martinelli,13/14,Italy,862,Chievo Verona 
+"Jan 31, 2013",?,Italy,4084,Cittadella ,84751,200 Th. €,Luca Martinelli,12/13,Italy,5587,Juve Stabia 
+"Jul 1, 2011",?,Italy,5514,Lecco ,84751,-,Luca Martinelli,11/12,Italy,4084,Cittadella 
+"Jun 30, 2009",End of loan,Italy,19109,AC Mezzocorona ,84751,-,Luca Martinelli,08/09,Italy,5514,Lecco 
+"Jan 1, 2009",Loan,Italy,5514,Lecco ,84751,-,Luca Martinelli,08/09,Italy,19109,AC Mezzocorona 
+"Jul 1, 2008",-,Italy,19918,Lecco Berretti ,84751,-,Luca Martinelli,08/09,Italy,5514,Lecco 
+"Jul 12, 2013",gratuito,Italy,3037,Padova ,84845,600 Th. €,Francesco Renzetti,13/14,Italy,1429,AC Cesena 
+"Jul 1, 2009",?,Italy,4541,UC AlbinoLeffe ,84845,500 Th. €,Francesco Renzetti,09/10,Italy,3037,Padova 
+"Jul 1, 2008",?,Italy,1253,Lucchese ,84845,-,Francesco Renzetti,08/09,Italy,14861,AlbinoLeffe 
+"Jul 1, 2006",?,Italy,252,Genoa ,84845,-,Francesco Renzetti,06/07,Italy,1253,Lucchese 
+"Jul 1, 2005",-,Italy,8517,FC Genoa ,84845,-,Francesco Renzetti,05/06,Italy,252,Genoa 
+"Jul 1, 2015","5,50 Mill. €",Italy,749,FC Empoli ,84903,"6,00 Mill. €",Mirko Valdifiori,15/16,Italy,6195,SSC Napoli 
+"Jul 1, 2008",?,Italy,4550,Legnano AC ,84903,-,Mirko Valdifiori,08/09,Italy,749,FC Empoli 
+"Jul 1, 2007",?,Italy,5174,Pavia ,84903,-,Mirko Valdifiori,07/08,Italy,4550,Legnano AC 
+"Jul 1, 2006",?,Italy,1429,AC Cesena ,84903,-,Mirko Valdifiori,06/07,Italy,5174,Pavia 
+"Jul 1, 2004",-,Italy,20106,Cesena ,84903,-,Mirko Valdifiori,04/05,Italy,1429,AC Cesena 
+"Jun 30, 2016",End of loan,England,358,Charlton ,87162,"1,50 Mill. €",Simon Makienok,15/16,Italy,458,US Palermo 
+"Jul 1, 2015",Loan,Italy,458,US Palermo ,87162,"1,50 Mill. €",Simon Makienok,15/16,England,358,Charlton 
+"Aug 30, 2014","2,30 Mill. €",Denmark,206,Bröndby IF ,87162,"1,75 Mill. €",Simon Makienok,14/15,Italy,458,US Palermo 
+"Jan 1, 2012",470 Th. €,Denmark,23297,HB Köge ,87162,600 Th. €,Simon Makienok,11/12,Denmark,206,Bröndby IF 
+"Jul 1, 2009",-,Denmark,15635,Herfölge BK U19 ,87162,50 Th. €,Simon Makienok,09/10,Denmark,23297,HB Köge 
+"Jul 1, 2014",Free transfer,Italy,130,Parma ,87884,900 Th. €,Mário Rui,14/15,Italy,749,FC Empoli 
+"Jun 30, 2014",End of loan,Italy,749,FC Empoli ,87884,900 Th. €,Mário Rui,13/14,Italy,130,Parma 
+"Jul 1, 2013",Loan,Italy,130,Parma ,87884,800 Th. €,Mário Rui,13/14,Italy,749,FC Empoli 
+"Jun 30, 2013",End of loan,Italy,3522,Spezia Calcio ,87884,800 Th. €,Mário Rui,12/13,Italy,130,Parma 
+"Jul 1, 2012",Loan,Italy,130,Parma ,87884,"1,00 Mill. €",Mário Rui,12/13,Italy,3522,Spezia Calcio 
+"Jun 30, 2012",End of loan,Italy,4326,AS Gubbio ,87884,"1,00 Mill. €",Mário Rui,11/12,Italy,130,Parma 
+"Aug 1, 2011",Loan,Italy,130,Parma ,87884,250 Th. €,Mário Rui,11/12,Italy,4326,AS Gubbio 
+"Jul 1, 2011",Free transfer,Portugal,294,Benfica ,87884,250 Th. €,Mário Rui,11/12,Italy,130,Parma 
+"Jun 30, 2011",End of loan,Portugal,6987,Fátima ,87884,250 Th. €,Mário Rui,10/11,Portugal,294,Benfica 
+"Jul 1, 2010",Loan,Portugal,8889,Benfica U19 ,87884,-,Mário Rui,10/11,Portugal,6987,Fátima 
+"Jan 1, 2009",?,Spain,6182,V. Mestalla ,87884,-,Mário Rui,08/09,Portugal,8889,Benfica U19 
+"Jul 1, 2008",?,Portugal,48365,Sporting Sub17 ,87884,-,Mário Rui,08/09,Spain,6182,V. Mestalla 
+"Jul 13, 2012",?,Italy,4102,Carpi ,94936,325 Th. €,Vincent Laurini,12/13,Italy,749,FC Empoli 
+"Jul 1, 2010",?,Italy,27535,Fossombrone ,94936,-,Vincent Laurini,10/11,Italy,4102,Carpi 
+"Jul 1, 2008",?,France,10881,CS Sedan-Ardennes U19 ,94936,-,Vincent Laurini,08/09,Italy,27535,Fossombrone 
+"Jul 1, 2014",gratuito,Switzerland,116,FC Aarau ,98888,800 Th. €,Artur Ionita,14/15,Italy,276,Hellas Verona 
+"Jul 1, 2009",200 Th. €,Moldova,21717,Iskra-Stali ,98888,-,Artur Ionita,09/10,Switzerland,116,FC Aarau 
+"Jan 1, 2008",?,Moldova,2714,Zimbru Chisinau ,98888,-,Artur Ionita,07/08,Moldova,21717,Iskra-Stali 
+"Jun 30, 2016",End of loan,France,14171,Évian ,103674,"1,75 Mill. €",Gustavo Campanharo,15/16,Brazil,8793,Bragantino 
+"Aug 1, 2015",Loan,Brazil,8793,Bragantino ,103674,600 Th. €,Gustavo Campanharo,15/16,France,14171,Évian 
+"Jun 30, 2015",End of loan,Italy,276,Hellas Verona ,103674,600 Th. €,Gustavo Campanharo,14/15,Brazil,8793,Bragantino 
+"Aug 27, 2014",Loan,Brazil,8793,Bragantino ,103674,-,Gustavo Campanharo,14/15,Italy,276,Hellas Verona 
+"Jul 1, 2013",Free transfer,Brazil,10492,Juventude ,103674,-,Gustavo Campanharo,13/14,Brazil,8793,Bragantino 
+"Jun 30, 2012",End of loan,Italy,8505,Fiorentina U19 ,103674,100 Th. €,Gustavo Campanharo,11/12,Brazil,10492,Juventude 
+"Aug 1, 2011",Loan,Brazil,10492,Juventude ,103674,100 Th. €,Gustavo Campanharo,11/12,Italy,8505,Fiorentina U19 
+"Jan 1, 2009",-,Brazil,15069,Esporte Clube Juventude U19 ,103674,-,Gustavo Campanharo,08/09,Brazil,10492,Juventude 
+"Jun 30, 2015",End of loan,Italy,4102,Carpi ,108119,"1,00 Mill. €",Aljaz Struna,14/15,Italy,458,US Palermo 
+"Aug 29, 2014",Loan,Italy,458,US Palermo ,108119,400 Th. €,Aljaz Struna,14/15,Italy,4102,Carpi 
+"Jun 30, 2013",End of loan,Italy,4361,Varese ,108119,600 Th. €,Aljaz Struna,12/13,Italy,458,US Palermo 
+"Jul 4, 2012",Loan,Italy,458,US Palermo ,108119,750 Th. €,Aljaz Struna,12/13,Italy,4361,Varese 
+"Jul 1, 2012",300 Th. €,Slovenia,433,FC Koper ,108119,750 Th. €,Aljaz Struna,12/13,Italy,458,US Palermo 
+"Jul 1, 2009",-,Slovenia,14965,FC Luka Koper U19 ,108119,-,Aljaz Struna,09/10,Slovenia,433,FC Koper 
+"Feb 2, 2015",?,Italy,749,FC Empoli ,113797,75 Th. €,Matteo Bachini,14/15,Italy,36745,Tuttocuoio 
+"Jan 29, 2015",End of loan,Italy,1253,Lucchese ,113797,75 Th. €,Matteo Bachini,14/15,Italy,749,FC Empoli 
+"Aug 29, 2014",Loan,Italy,8492,Empoli ,113797,75 Th. €,Matteo Bachini,14/15,Italy,1253,Lucchese 
+"Jul 1, 2012",-,Italy,14431,Empoli Youth ,113797,-,Matteo Bachini,12/13,Italy,8492,Empoli 
+"Jul 1, 2014",Free transfer,Sweden,496,Malmö FF ,125314,"1,75 Mill. €",Pontus Jansson,14/15,Italy,416,Torino 
+"Jan 1, 2009",-,Sweden,7917,Malmö FF U19 ,125314,-,Pontus Jansson,08/09,Sweden,496,Malmö FF 
+"Jun 30, 2016",End of loan,Italy,1429,AC Cesena ,130353,500 Th. €,Hördur Magnússon,15/16,Italy,506,Juventus 
+"Jul 25, 2014",Loan,Italy,506,Juventus ,130353,400 Th. €,Hördur Magnússon,14/15,Italy,1429,AC Cesena 
+"Jul 24, 2014",?,Italy,3522,Spezia Calcio ,130353,400 Th. €,Hördur Magnússon,14/15,Italy,506,Juventus 
+"Aug 5, 2013","1,00 Mill. €",Italy,11008,Juventus U19 ,130353,100 Th. €,Hördur Magnússon,13/14,Italy,3522,Spezia Calcio 
+"Jul 1, 2012",?,Iceland,3832,Fram Reykjavík ,130353,50 Th. €,Hördur Magnússon,12/13,Italy,11008,Juventus U19 
+"Jun 30, 2012",End of loan,Italy,11008,Juventus U19 ,130353,50 Th. €,Hördur Magnússon,11/12,Iceland,3832,Fram Reykjavík 
+"Jan 1, 2011",Loan,Iceland,3832,Fram Reykjavík ,130353,-,Hördur Magnússon,10/11,Italy,11008,Juventus U19 
+"Jul 18, 2015","1,20 Mill. €",Uruguay,1306,Danubio FC ,131098,"1,60 Mill. €",Salvador Ichazo,15/16,Italy,416,Torino 
+"Jun 30, 2015",End of loan,Italy,416,Torino ,131098,"1,50 Mill. €",Salvador Ichazo,14/15,Uruguay,1306,Danubio FC 
+"Jan 28, 2015",Loan,Uruguay,1306,Danubio FC ,131098,"1,00 Mill. €",Salvador Ichazo,14/15,Italy,416,Torino 
+"Aug 1, 2011",-,Uruguay,20352,Danubio U19 ,131098,-,Salvador Ichazo,11/12,Uruguay,1306,Danubio FC 
+"Jun 30, 2016",End of loan,Italy,1210,AS Livorno ,136142,"1,70 Mill. €",Armando Vajushi,15/16,Italy,862,Chievo Verona 
+"Aug 19, 2015",Loan,Italy,862,Chievo Verona ,136142,"1,80 Mill. €",Armando Vajushi,15/16,Italy,1210,AS Livorno 
+"Feb 2, 2015",?,Bulgaria,271,Litex Lovetch ,136142,"2,00 Mill. €",Armando Vajushi,14/15,Italy,862,Chievo Verona 
+"Jan 1, 2012",110 Th. €,Albania,8671,KF Vllaznia ,136142,125 Th. €,Armando Vajushi,11/12,Bulgaria,271,Litex Lovetch 
+"Jul 1, 2008",-,Albania,21805,KF Vllaznia U19 ,136142,-,Armando Vajushi,08/09,Albania,8671,KF Vllaznia 
+"Jun 30, 2016",End of loan,Italy,1038,Sampdoria ,136605,"3,00 Mill. €",Carlos Carbonero,15/16,Uruguay,3829,CA Fénix 
+"Aug 27, 2015",Loan,Uruguay,3829,CA Fénix ,136605,"3,00 Mill. €",Carlos Carbonero,15/16,Italy,1038,Sampdoria 
+"Jul 1, 2015",?,Argentina,288,Estudiantes ,136605,"3,00 Mill. €",Carlos Carbonero,15/16,Uruguay,3829,CA Fénix 
+"Jun 30, 2015",End of loan,Italy,1429,AC Cesena ,136605,"3,00 Mill. €",Carlos Carbonero,14/15,Argentina,288,Estudiantes 
+"Aug 28, 2014",Loan,Argentina,288,Estudiantes ,136605,"3,00 Mill. €",Carlos Carbonero,14/15,Italy,1429,AC Cesena 
+"Jun 30, 2014",End of loan,Argentina,209,River Plate ,136605,"3,00 Mill. €",Carlos Carbonero,13/14,Argentina,288,Estudiantes 
+"Jul 17, 2013",Loan,Argentina,288,Estudiantes ,136605,"2,75 Mill. €",Carlos Carbonero,13/14,Argentina,209,River Plate 
+"Jun 30, 2013",End of loan,Argentina,4673,Ars. de Sarandí ,136605,"2,75 Mill. €",Carlos Carbonero,12/13,Argentina,288,Estudiantes 
+"Jan 1, 2012",Loan,Argentina,288,Estudiantes ,136605,50 Th. €,Carlos Carbonero,11/12,Argentina,4673,Ars. de Sarandí 
+"Jul 1, 2011",?,Colombia,6984,Once Caldas ,136605,-,Carlos Carbonero,11/12,Argentina,288,Estudiantes 
+"Jan 1, 2011",?,Colombia,14583,Atlético Huila ,136605,-,Carlos Carbonero,10/11,Colombia,6984,Once Caldas 
+"Jan 1, 2010",?,Colombia,14428,Academia FC ,136605,-,Carlos Carbonero,09/10,Colombia,14583,Atlético Huila 
+"Jul 1, 2014",700 Th. €,Italy,4361,Varese ,139173,500 Th. €,Achraf Lazaar,14/15,Italy,458,US Palermo 
+"Jun 30, 2014",End of loan,Italy,458,US Palermo ,139173,500 Th. €,Achraf Lazaar,13/14,Italy,4361,Varese 
+"Jan 31, 2014",Loan fee:300 Th. €,Italy,4361,Varese ,139173,500 Th. €,Achraf Lazaar,13/14,Italy,458,US Palermo 
+"Jul 1, 2011",-,Italy,26331,Varese U19 ,139173,150 Th. €,Achraf Lazaar,11/12,Italy,4361,Varese 
+"Jul 1, 2009",-,Italy,29442,AS Varese Jugend ,139173,-,Achraf Lazaar,09/10,Italy,26331,Varese U19 
+"Sep 1, 2014","2,00 Mill. €",Brazil,221,Santos FC ,148751,600 Th. €,Bruno Peres,14/15,Italy,416,Torino 
+"Jan 1, 2013",?,Brazil,16083,GO Audax ,148751,750 Th. €,Bruno Peres,12/13,Brazil,221,Santos FC 
+"Dec 31, 2012",End of loan,Brazil,221,Santos FC ,148751,750 Th. €,Bruno Peres,12/13,Brazil,16083,GO Audax 
+"Jul 1, 2012",Loan,Brazil,16083,GO Audax ,148751,-,Bruno Peres,12/13,Brazil,221,Santos FC 
+"Jun 30, 2012",End of loan,Brazil,1755,Guarani ,148751,-,Bruno Peres,11/12,Brazil,16083,GO Audax 
+"May 1, 2011",Loan,Brazil,16083,GO Audax ,148751,-,Bruno Peres,10/11,Brazil,1755,Guarani 
+"Aug 31, 2010",End of loan,Brazil,8793,Bragantino ,148751,-,Bruno Peres,10/11,Brazil,16083,GO Audax 
+"May 1, 2010",Loan,Brazil,16083,GO Audax ,148751,-,Bruno Peres,09/10,Brazil,8793,Bragantino 
+"Jul 1, 2016","5,00 Mill. €",Croatia,419,Dinamo Zagreb ,156617,"15,00 Mill. €",Marcelo Brozovic,16/17,Italy,46,Inter 
+"Jun 30, 2016",End of loan,Italy,46,Inter ,156617,"15,00 Mill. €",Marcelo Brozovic,15/16,Croatia,419,Dinamo Zagreb 
+"Jan 26, 2015","Loan fee:3,00 Mill. €",Croatia,419,Dinamo Zagreb ,156617,"5,50 Mill. €",Marcelo Brozovic,14/15,Italy,46,Inter 
+"Aug 31, 2012","2,40 Mill. €",Croatia,11194,NK Lokomotiva ,156617,600 Th. €,Marcelo Brozovic,12/13,Croatia,419,Dinamo Zagreb 
+"Jul 1, 2011",300 Th. €,Croatia,485,Hrv Dragovoljac ,156617,350 Th. €,Marcelo Brozovic,11/12,Croatia,11194,NK Lokomotiva 
+"Jul 1, 2010",-,Croatia,15845,NK Hrvatski Dragovoljac U19 ,156617,-,Marcelo Brozovic,10/11,Croatia,485,Hrv Dragovoljac 
+"Jul 1, 2009",-,Croatia,41266,Dragovoljac U17 ,156617,-,Marcelo Brozovic,09/10,Croatia,15845,NK Hrvatski Dragovoljac U19 
+"Jul 1, 2007",-,Croatia,41265,Dragovoljac Jgd ,156617,-,Marcelo Brozovic,07/08,Croatia,41266,Dragovoljac U17 
+"Jul 1, 2014","3,00 Mill. €",Switzerland,452,BSC Young Boys ,162569,"1,25 Mill. €",Josef Martínez,14/15,Italy,416,Torino 
+"Dec 31, 2013",End of loan,Switzerland,938,FC Thun ,162569,"1,00 Mill. €",Josef Martínez,13/14,Switzerland,452,BSC Young Boys 
+"Jul 1, 2013",Loan,Switzerland,452,BSC Young Boys ,162569,500 Th. €,Josef Martínez,13/14,Switzerland,938,FC Thun 
+"Jan 1, 2012",?,Venezuela,531,Caracas FC ,162569,-,Josef Martínez,11/12,Switzerland,452,BSC Young Boys 
+"Jul 1, 2010",-,Venezuela,20343,Caracas FC B ,162569,-,Josef Martínez,10/11,Venezuela,531,Caracas FC 
+"Jun 30, 2015",End of loan,Italy,749,FC Empoli ,162959,"7,50 Mill. €",Daniele Rugani,14/15,Italy,506,Juventus 
+"Feb 2, 2015",Loan,Italy,506,Juventus ,162959,"7,50 Mill. €",Daniele Rugani,14/15,Italy,749,FC Empoli 
+"Feb 1, 2015","5,00 Mill. €",Italy,749,FC Empoli ,162959,"7,50 Mill. €",Daniele Rugani,14/15,Italy,506,Juventus 
+"Jul 1, 2013",-,Italy,8492,Empoli ,162959,200 Th. €,Daniele Rugani,13/14,Italy,749,FC Empoli 
+"Jun 30, 2013",End of loan,Italy,11008,Juventus U19 ,162959,200 Th. €,Daniele Rugani,12/13,Italy,8492,Empoli 
+"Aug 4, 2012",Loan,Italy,8492,Empoli ,162959,200 Th. €,Daniele Rugani,12/13,Italy,11008,Juventus U19 
+"Jul 1, 2011",-,Italy,14431,Empoli Youth ,162959,-,Daniele Rugani,11/12,Italy,8492,Empoli 
+"Jul 1, 2012",?,Italy,27568,Gavorrano ,163683,300 Th. €,Manuel Pucciarelli,12/13,Italy,749,FC Empoli 
+"Jan 1, 2012",?,Italy,749,FC Empoli ,163683,100 Th. €,Manuel Pucciarelli,11/12,Italy,27568,Gavorrano 
+"Jul 1, 2011",-,Italy,8492,Empoli ,163683,100 Th. €,Manuel Pucciarelli,11/12,Italy,749,FC Empoli 
+"Jul 16, 2015",?,Italy,22045,Latina Calcio ,163689,75 Th. €,Irakli Shekiladze,15/16,Italy,36745,Tuttocuoio 
+"Jun 30, 2015",End of loan,Italy,4554,Südtirol ,163689,75 Th. €,Irakli Shekiladze,14/15,Italy,22045,Latina Calcio 
+"Feb 2, 2015",Loan,Italy,22045,Latina Calcio ,163689,100 Th. €,Irakli Shekiladze,14/15,Italy,4554,Südtirol 
+"Jan 12, 2015",?,Italy,749,FC Empoli ,163689,100 Th. €,Irakli Shekiladze,14/15,Italy,22045,Latina Calcio 
+"Jul 1, 2011",-,Italy,8492,Empoli ,163689,100 Th. €,Irakli Shekiladze,11/12,Italy,749,FC Empoli 
+"Jun 30, 2016",End of loan,Italy,1103,Ternana ,163690,400 Th. €,Franco Signorelli,15/16,Italy,749,FC Empoli 
+"Aug 31, 2015",Loan,Italy,749,FC Empoli ,163690,500 Th. €,Franco Signorelli,15/16,Italy,1103,Ternana 
+"Jul 1, 2010",-,Italy,8492,Empoli ,163690,-,Franco Signorelli,10/11,Italy,749,FC Empoli 
+"Jun 30, 2016",End of loan,Germany,79,VfB Stuttgart ,165873,"1,80 Mill. €",Federico Barba,15/16,Italy,749,FC Empoli 
+"Feb 1, 2016","Loan fee:1,00 Mill. €",Italy,749,FC Empoli ,165873,"1,80 Mill. €",Federico Barba,15/16,Germany,79,VfB Stuttgart 
+"Aug 14, 2013",300 Th. €,Italy,12,AS Roma ,165873,500 Th. €,Federico Barba,13/14,Italy,749,FC Empoli 
+"Aug 13, 2013",400 Th. €,Italy,4333,Grosseto ,165873,500 Th. €,Federico Barba,13/14,Italy,12,AS Roma 
+"Jul 1, 2013",200 Th. €,Italy,12,AS Roma ,165873,450 Th. €,Federico Barba,13/14,Italy,4333,Grosseto 
+"Jun 30, 2013",End of loan,Italy,4333,Grosseto ,165873,450 Th. €,Federico Barba,12/13,Italy,12,AS Roma 
+"Jul 16, 2012",Loan,Italy,11997,Roma Primavera ,165873,100 Th. €,Federico Barba,12/13,Italy,4333,Grosseto 
+"Aug 18, 2015","7,50 Mill. €",Italy,458,US Palermo ,167727,"5,00 Mill. €",Andrea Belotti,15/16,Italy,416,Torino 
+"Jul 1, 2014","5,50 Mill. €",Italy,4541,UC AlbinoLeffe ,167727,"2,50 Mill. €",Andrea Belotti,14/15,Italy,458,US Palermo 
+"Jun 30, 2014",End of loan,Italy,458,US Palermo ,167727,"2,50 Mill. €",Andrea Belotti,13/14,Italy,4541,UC AlbinoLeffe 
+"Sep 2, 2013",Loan fee:500 Th. €,Italy,4541,UC AlbinoLeffe ,167727,800 Th. €,Andrea Belotti,13/14,Italy,458,US Palermo 
+"Mar 1, 2012",-,Italy,14861,AlbinoLeffe ,167727,50 Th. €,Andrea Belotti,11/12,Italy,4541,UC AlbinoLeffe 
+"Jul 1, 2015",-,Italy,12001,Sampdoria ,168416,75 Th. €,David Ivan,15/16,Italy,1038,Sampdoria 
+"Jul 1, 2012",-,Italy,29354,Sampdoria Youth ,168416,-,David Ivan,12/13,Italy,12001,Sampdoria 
+"Aug 13, 2011",130 Th. €,Slovakia,24343,Nitra U19 ,168416,-,David Ivan,11/12,Italy,29354,Sampdoria Youth 
+"Dec 31, 2016",End of loan,Brazil,609,Cruzeiro ,169249,"2,80 Mill. €",Juan Sánchez Miño,16/17,Italy,416,Torino 
+"Jan 5, 2016",Loan,Italy,416,Torino ,169249,"2,80 Mill. €",Juan Sánchez Miño,15/16,Brazil,609,Cruzeiro 
+"Dec 31, 2015",End of loan,Argentina,288,Estudiantes ,169249,"2,80 Mill. €",Juan Sánchez Miño,15/16,Italy,416,Torino 
+"Feb 10, 2015",Loan,Italy,416,Torino ,169249,"2,80 Mill. €",Juan Sánchez Miño,14/15,Argentina,288,Estudiantes 
+"Aug 30, 2014","3,20 Mill. €",Argentina,189,Boca Juniors ,169249,"3,00 Mill. €",Juan Sánchez Miño,14/15,Italy,416,Torino 
+"Jul 1, 2009",-,Argentina,14831,Boca II ,169249,-,Juan Sánchez Miño,09/10,Argentina,189,Boca Juniors 
+"Jul 1, 2008",-,Argentina,15098,Boca U20 ,169249,-,Juan Sánchez Miño,08/09,Argentina,14831,Boca II 
+"Jun 30, 2016",End of loan,Italy,1047,Como ,171307,400 Th. €,Joshua Brillante,15/16,Italy,430,Fiorentina 
+"Aug 28, 2015",Loan,Italy,430,Fiorentina ,171307,600 Th. €,Joshua Brillante,15/16,Italy,1047,Como 
+"Aug 27, 2015",End of loan,Italy,749,FC Empoli ,171307,600 Th. €,Joshua Brillante,15/16,Italy,430,Fiorentina 
+"Jan 23, 2015",Loan,Italy,430,Fiorentina ,171307,"1,00 Mill. €",Joshua Brillante,14/15,Italy,749,FC Empoli 
+"Jul 14, 2014","1,00 Mill. €",Australia,5551,Newcastle ,171307,350 Th. €,Joshua Brillante,14/15,Italy,430,Fiorentina 
+"Jul 1, 2012",gratuito,Australia,15889,Gold Coast Utd. ,171307,100 Th. €,Joshua Brillante,12/13,Australia,5551,Newcastle 
+"Jul 1, 2011",-,Australia,26207,GC Utd U21 ,171307,-,Joshua Brillante,11/12,Australia,15889,Gold Coast Utd. 
+"Jul 10, 2015","5,50 Mill. €",Italy,800,Atalanta ,173859,"5,50 Mill. €",Davide Zappacosta,15/16,Italy,416,Torino 
+"Jul 2, 2014",?,Italy,2331,AS Avellino ,173859,"1,30 Mill. €",Davide Zappacosta,14/15,Italy,800,Atalanta 
+"Jul 12, 2012",?,Italy,800,Atalanta ,173859,225 Th. €,Davide Zappacosta,12/13,Italy,2331,AS Avellino 
+"Jun 30, 2012",End of loan,Italy,2331,AS Avellino ,173859,225 Th. €,Davide Zappacosta,11/12,Italy,800,Atalanta 
+"Aug 1, 2011",Loan,Italy,11998,Atalanta ,173859,75 Th. €,Davide Zappacosta,11/12,Italy,2331,AS Avellino 
+"Jan 1, 2011",?,Italy,22051,Isola Liri ,173859,-,Davide Zappacosta,10/11,Italy,11998,Atalanta 
+"Jan 1, 2010",-,Italy,26807,Liri Berretti ,173859,-,Davide Zappacosta,09/10,Italy,22051,Isola Liri 
+"Jun 30, 2016",End of loan,Italy,1429,AC Cesena ,176130,900 Th. €,Lorenzo Rosseti,15/16,Italy,506,Juventus 
+"Jul 21, 2015",Loan,Italy,506,Juventus ,176130,900 Th. €,Lorenzo Rosseti,15/16,Italy,1429,AC Cesena 
+"Jun 30, 2015",End of loan,Italy,800,Atalanta ,176130,"1,00 Mill. €",Lorenzo Rosseti,14/15,Italy,506,Juventus 
+"Aug 8, 2014",Loan,Italy,506,Juventus ,176130,"1,20 Mill. €",Lorenzo Rosseti,14/15,Italy,800,Atalanta 
+"Aug 5, 2014",Free transfer,Italy,1387,Siena ,176130,"1,20 Mill. €",Lorenzo Rosseti,14/15,Italy,506,Juventus 
+"Jul 1, 2013",-,Italy,12863,Siena ,176130,125 Th. €,Lorenzo Rosseti,13/14,Italy,1387,AC Siena 
+"Jan 1, 2011",-,Italy,29342,AC Siena Jugend ,176130,-,Lorenzo Rosseti,10/11,Italy,12863,Siena 
+"Jun 30, 2016",End of loan,Poland,5689,Cracovia Kraków ,186393,200 Th. €,Tomas Vestenicky,15/16,Italy,12,AS Roma 
+"Feb 19, 2016",Loan,Italy,12,AS Roma ,186393,200 Th. €,Tomas Vestenicky,15/16,Poland,5689,Cracovia Kraków 
+"Jan 22, 2016",End of loan,Italy,1385,Modena FC ,186393,200 Th. €,Tomas Vestenicky,15/16,Italy,12,AS Roma 
+"Aug 4, 2015",Loan,Italy,12,AS Roma ,186393,200 Th. €,Tomas Vestenicky,15/16,Italy,1385,Modena FC 
+"Jul 1, 2015",?,Slovakia,1562,FC Nitra ,186393,200 Th. €,Tomas Vestenicky,15/16,Italy,12,AS Roma 
+"Jun 30, 2015",End of loan,Italy,11997,Roma Primavera ,186393,200 Th. €,Tomas Vestenicky,14/15,Slovakia,1562,FC Nitra 
+"Jan 30, 2014",Loan fee:300 Th. €,Slovakia,1562,FC Nitra ,186393,100 Th. €,Tomas Vestenicky,13/14,Italy,11997,Roma Primavera 
+"Sep 1, 2013",-,Slovakia,24343,Nitra U19 ,186393,-,Tomas Vestenicky,13/14,Slovakia,1562,FC Nitra 
+"Jun 30, 2016",End of loan,Italy,839,Perugia ,189410,"1,40 Mill. €",Rodrigo Aguirre,15/16,Italy,410,Udinese Calcio 
+"Feb 1, 2016",Loan,Italy,410,Udinese Calcio ,189410,"1,40 Mill. €",Rodrigo Aguirre,15/16,Italy,839,Perugia 
+"Jan 17, 2015",End of loan,Italy,749,FC Empoli ,189410,"1,50 Mill. €",Rodrigo Aguirre,14/15,Italy,410,Udinese Calcio 
+"Jul 3, 2014",Loan,Italy,410,Udinese Calcio ,189410,"1,50 Mill. €",Rodrigo Aguirre,14/15,Italy,749,FC Empoli 
+"Jul 1, 2014","4,00 Mill. €",Uruguay,10663,Liverpool FC ,189410,"1,50 Mill. €",Rodrigo Aguirre,14/15,Italy,410,Udinese Calcio 
+"Jul 1, 2011",-,Uruguay,20354,Liverpool U19 ,189410,-,Rodrigo Aguirre,11/12,Uruguay,10663,Liverpool FC 
+"Jul 21, 2014","2,30 Mill. €",Uruguay,2619,Defensor ,189452,"1,00 Mill. €",Gastón Silva,14/15,Italy,416,Torino 
+"Jul 1, 2012",-,Uruguay,16541,Defensor U19 ,189452,-,Gastón Silva,12/13,Uruguay,2619,Defensor 
+"Jan 27, 2016","8,00 Mill. €",Italy,800,Atalanta ,197473,"2,00 Mill. €",Alberto Grassi,15/16,Italy,6195,SSC Napoli 
+"Jul 1, 2014",-,Italy,11998,Atalanta ,197473,100 Th. €,Alberto Grassi,14/15,Italy,800,Atalanta 
+"Jul 1, 2011",-,Italy,29344,Atalanta Youth ,197473,-,Alberto Grassi,11/12,Italy,11998,Atalanta 
+"Jun 30, 2016",End of loan,Italy,408,Ascoli ,198116,600 Th. €,Federico Dimarco,15/16,Italy,46,Inter 
+"Jan 27, 2016",Loan,Italy,46,Inter ,198116,600 Th. €,Federico Dimarco,15/16,Italy,408,Ascoli 
+"Jul 1, 2015",-,Italy,5380,Inter ,198116,300 Th. €,Federico Dimarco,15/16,Italy,46,Inter 
+"Jul 1, 2014",-,Italy,24432,Inter Youth ,198116,-,Federico Dimarco,14/15,Italy,5380,Inter 
+"Aug 2, 2015","5,00 Mill. €",Italy,749,FC Empoli ,200056,"4,50 Mill. €",Elseid Hysaj,15/16,Italy,6195,SSC Napoli 
+"Jul 1, 2012",-,Italy,8492,Empoli ,200056,100 Th. €,Elseid Hysaj,12/13,Italy,749,FC Empoli 
+"Jul 1, 2011",-,Italy,14431,Empoli Youth ,200056,-,Elseid Hysaj,11/12,Italy,8492,Empoli 
+"Jul 1, 2009",50 Th. €,Albania,35665,KF Vllaznia U17 ,200056,-,Elseid Hysaj,09/10,Italy,14431,Empoli Youth 
+"Jun 30, 2016",End of loan,Italy,4172,AC Pisa ,200653,100 Th. €,Dávid Forgács,15/16,Italy,800,Atalanta 
+"Jul 24, 2015",Loan,Italy,11998,Atalanta ,200653,50 Th. €,Dávid Forgács,15/16,Italy,4172,AC Pisa 
+"Jul 1, 2013",-,Italy,29344,Atalanta Youth ,200653,-,Dávid Forgács,13/14,Italy,11998,Atalanta 
+"May 29, 2015",Loan,Chile,15952,San Felipe ,203150,75 Th. €,Ignacio Jeraldino,14/15,Chile,20514,La Calera 
+"Jan 26, 2015",End of loan,Italy,5243,Parma U19 ,203150,75 Th. €,Ignacio Jeraldino,14/15,Chile,15952,San Felipe 
+"Jul 7, 2014",Loan,Chile,15952,San Felipe ,203150,50 Th. €,Ignacio Jeraldino,14/15,Italy,5243,Parma U19 
+"Jun 30, 2016",End of loan,Sweden,1059,Hammarby IF ,203773,"1,00 Mill. €",Melker Hallberg,16/17,Italy,410,Udinese Calcio 
+"Jan 1, 2016",Loan,Italy,410,Udinese Calcio ,203773,"1,00 Mill. €",Melker Hallberg,15/16,Sweden,1059,Hammarby IF 
+"Dec 31, 2015",End of loan,Norway,76,Valerenga ,203773,"1,00 Mill. €",Melker Hallberg,15/16,Italy,410,Udinese Calcio 
+"Aug 6, 2015",Loan,Italy,410,Udinese Calcio ,203773,"1,40 Mill. €",Melker Hallberg,15/16,Norway,76,Valerenga 
+"Aug 8, 2014","1,50 Mill. €",Sweden,3654,Kalmar FF ,203773,900 Th. €,Melker Hallberg,14/15,Italy,410,Udinese Calcio 
+"Dec 1, 2012",-,Sweden,9338,Kalmar FF U19 ,203773,500 Th. €,Melker Hallberg,12/13,Sweden,3654,Kalmar FF 
+"Jul 18, 2014","2,00 Mill. €",Sweden,272,AIK Solna ,206542,700 Th. €,Robin Quaison,14/15,Italy,458,US Palermo 
+"Jan 1, 2012",-,Sweden,16574,AIK Solna U19 ,206542,-,Robin Quaison,11/12,Sweden,272,AIK Solna 
+"Dec 1, 2011",End of loan,Sweden,8877,AFC United ,206542,-,Robin Quaison,11/12,Sweden,272,AIK Solna 
+"Feb 1, 2011",Loan,Sweden,272,AIK Solna ,206542,-,Robin Quaison,10/11,Sweden,8877,AFC United 
+"Jun 30, 2016",End of loan,Italy,332,Bari ,208690,900 Th. €,George Puscas,15/16,Italy,46,Inter 
+"Aug 2, 2015",Loan,Italy,46,Inter ,208690,"1,00 Mill. €",George Puscas,15/16,Italy,332,Bari 
+"Jan 1, 2015",-,Italy,5380,Inter ,208690,700 Th. €,George Puscas,14/15,Italy,46,Inter 
+"Jul 1, 2014",600 Th. €,Romania,35677,Liberty Oradea ,208690,200 Th. €,George Puscas,14/15,Italy,5380,Inter 
+"Jun 30, 2014",End of loan,Italy,5380,Inter ,208690,200 Th. €,George Puscas,13/14,Romania,35677,Liberty Oradea 
+"Jul 4, 2013",Loan,Romania,35677,Liberty Oradea ,208690,50 Th. €,George Puscas,13/14,Italy,5380,Inter 
+"Jun 30, 2013",End of loan,Romania,1497,Bihor Oradea ,208690,50 Th. €,George Puscas,12/13,Romania,35677,Liberty Oradea 
+"Jul 1, 2012",Loan,Romania,35677,Liberty Oradea ,208690,50 Th. €,George Puscas,12/13,Romania,1497,Bihor Oradea 
+"Jul 1, 2015",?,Italy,26333,Alessandria U19 ,209048,75 Th. €,Luca Checchin,15/16,Italy,16996,Hellas Verona 
+"Jun 30, 2015",End of loan,Italy,16996,Hellas Verona ,209048,75 Th. €,Luca Checchin,14/15,Italy,26333,Alessandria U19 
+"Jul 9, 2014",Loan,Italy,29436,Alessandria Jugend ,209048,-,Luca Checchin,14/15,Italy,16996,Hellas Verona 
+"Jun 30, 2016",End of loan,Italy,13562,Savona ,214635,150 Th. €,Claudio Morra,15/16,Italy,416,Torino 
+"Jan 29, 2016",Loan,Italy,416,Torino ,214635,150 Th. €,Claudio Morra,15/16,Italy,13562,Savona 
+"Jan 28, 2016",End of loan,Italy,4085,Fidelis Andria ,214635,150 Th. €,Claudio Morra,15/16,Italy,416,Torino 
+"Aug 5, 2015",Loan,Italy,416,Torino ,214635,150 Th. €,Claudio Morra,15/16,Italy,4085,Fidelis Andria 
+"Jul 1, 2015",-,Italy,12130,FC Turin ,214635,150 Th. €,Claudio Morra,15/16,Italy,416,Torino 
+"Jul 1, 2013",?,Italy,16996,Hellas Verona ,214635,50 Th. €,Claudio Morra,13/14,Italy,12130,FC Turin 
+"Jun 30, 2013",End of loan,Italy,29351,Torino Youth ,214635,50 Th. €,Claudio Morra,12/13,Italy,16996,Hellas Verona 
+"Jan 31, 2013",Loan,Italy,16996,Hellas Verona ,214635,50 Th. €,Claudio Morra,12/13,Italy,29351,Torino Youth 
+"Mar 1, 2012",-,Italy,14920,Hellas Youth ,214635,-,Claudio Morra,11/12,Italy,16996,Hellas Verona 
+"Jun 30, 2016",End of loan,Italy,4031,Cosenza ,220686,300 Th. €,Antonio Vutov,15/16,Italy,410,Udinese Calcio 
+"Jul 22, 2015",Loan,Italy,10959,Udinese U19 ,220686,300 Th. €,Antonio Vutov,15/16,Italy,4031,Cosenza 
+"Jan 9, 2014",600 Th. €,Bulgaria,156,Levski Sofia ,220686,300 Th. €,Antonio Vutov,13/14,Italy,10959,Udinese U19 
+"Apr 1, 2012",-,Bulgaria,31099,Levski Sofia II ,220686,-,Antonio Vutov,11/12,Bulgaria,156,Levski Sofia 
+"Jan 23, 2016",?,Italy,21474,Maceratese ,222905,50 Th. €,Badara Sarr,15/16,Italy,4103,Lumezzane 
+"Jul 21, 2015",Free transfer,Italy,130,Parma ,222905,75 Th. €,Badara Sarr,15/16,Italy,21474,Maceratese 
+"Jun 30, 2015",End of loan,Italy,4097,Catanzaro ,222905,75 Th. €,Badara Sarr,14/15,Italy,130,Parma 
+"Feb 2, 2015",Loan,Italy,130,Parma ,222905,100 Th. €,Badara Sarr,14/15,Italy,4097,Catanzaro 
+"Jun 30, 2014",End of loan,Italy,4326,AS Gubbio ,222905,50 Th. €,Badara Sarr,13/14,Italy,130,Parma 
+"Jan 1, 2014",Loan,Italy,5243,Parma U19 ,222905,50 Th. €,Badara Sarr,13/14,Italy,4326,AS Gubbio 
+"Mar 1, 2012",?,Italy,75,Unknown ,222905,-,Badara Sarr,11/12,,5243,Parma U19 
+"Feb 2, 2015",?,Croatia,14446,NK Zagreb U19 ,226080,-,Anton Kresic,14/15,Italy,11998,Atalanta 
+"Jul 1, 2013",-,Croatia,36357,NK Zagreb U17 ,226080,-,Anton Kresic,13/14,Croatia,14446,NK Zagreb U19 
+"Jul 1, 2011",-,Croatia,36356,NK Zagreb Jgd ,226080,-,Anton Kresic,11/12,Croatia,36357,NK Zagreb U17 
+"Jan 9, 2015","8,20 Mill. €",Argentina,288,Estudiantes ,227081,"8,00 Mill. €",Joaquín Correa,14/15,Italy,1038,Sampdoria 
+"Jan 1, 2012",-,Argentina,15115,ELP U20 ,227081,-,Joaquín Correa,11/12,Argentina,288,Estudiantes 
+"Jun 30, 2016",End of loan,Italy,4331,Trapani ,231381,100 Th. €,Andrea Fulignati,15/16,Italy,458,US Palermo 
+"Jul 20, 2015",Loan,Italy,458,US Palermo ,231381,100 Th. €,Andrea Fulignati,15/16,Italy,4331,Trapani 
+"Jul 1, 2013",?,Italy,27517,AS Sestese ,231381,100 Th. €,Andrea Fulignati,13/14,Italy,458,US Palermo 
+"Jun 30, 2013",End of loan,Italy,11493,Palermo ,231381,100 Th. €,Andrea Fulignati,12/13,Italy,27517,AS Sestese 
+"Jul 2, 2012",Loan,Italy,27517,AS Sestese ,231381,-,Andrea Fulignati,12/13,Italy,11493,Palermo 
+"Jul 1, 2011",-,Italy,27518,Sestese Jun. ,231381,-,Andrea Fulignati,11/12,Italy,27517,AS Sestese 
+"Jun 30, 2016",End of loan,Italy,36745,Tuttocuoio ,235923,175 Th. €,Mattia Muroni,15/16,Italy,1390,Cagliari Calcio 
+"Jul 16, 2015",Loan,Italy,1390,Cagliari Calcio ,235923,150 Th. €,Mattia Muroni,15/16,Italy,36745,Tuttocuoio 
+"Jul 1, 2014",-,Italy,11676,Cagliari ,235923,50 Th. €,Mattia Muroni,14/15,Italy,1390,Cagliari Calcio 
+"Jul 1, 2012",-,Italy,5663,Cagliari Youth ,235923,-,Mattia Muroni,12/13,Italy,11676,Cagliari 
+"Jun 30, 2016",End of loan,Italy,4111,AC Rimini ,238951,275 Th. €,Davide Di Molfetta,15/16,Italy,5,AC Milan 
+"Jan 29, 2016",Loan,Italy,5,AC Milan ,238951,275 Th. €,Davide Di Molfetta,15/16,Italy,4111,AC Rimini 
+"Jan 28, 2016",End of loan,Italy,4171,Benevento ,238951,275 Th. €,Davide Di Molfetta,15/16,Italy,5,AC Milan 
+"Jul 30, 2015",Loan,Italy,10958,AC Milan U19 ,238951,300 Th. €,Davide Di Molfetta,15/16,Italy,4171,Benevento 
+"Jul 1, 2012",-,Italy,25828,Milan Youth ,238951,-,Davide Di Molfetta,12/13,Italy,10958,AC Milan U19 
+"Jun 30, 2016",End of loan,Italy,2250,Prato ,238977,300 Th. €,Gabriele Moncini,15/16,Italy,1429,AC Cesena 
+"Jan 7, 2016",Loan,Italy,1429,AC Cesena ,238977,300 Th. €,Gabriele Moncini,15/16,Italy,2250,Prato 
+"Jul 1, 2015",-,Italy,20106,Cesena ,238977,250 Th. €,Gabriele Moncini,15/16,Italy,1429,AC Cesena 
+"Jan 30, 2014","1,75 Mill. €",Italy,11008,Juventus U19 ,238977,75 Th. €,Gabriele Moncini,13/14,Italy,20106,Cesena 
+"Jan 29, 2014",End of loan,Italy,20106,Cesena ,238977,75 Th. €,Gabriele Moncini,13/14,Italy,11008,Juventus U19 
+"Aug 15, 2013",Loan,Italy,5232,Juventus Youth ,238977,-,Gabriele Moncini,13/14,Italy,20106,Cesena 
+"Jun 30, 2016",End of loan,Italy,1210,AS Livorno ,238980,250 Th. €,Andrea Palazzi,15/16,Italy,46,Inter 
+"Jul 3, 2015",Loan,Italy,5380,Inter ,238980,250 Th. €,Andrea Palazzi,15/16,Italy,1210,AS Livorno 
+"Jul 1, 2013",-,Italy,24432,Inter Youth ,238980,-,Andrea Palazzi,13/14,Italy,5380,Inter 
+"Jun 30, 2016",End of loan,Italy,24898,Renate ,238992,150 Th. €,Giacomo Sciacca,15/16,Italy,46,Inter 
+"Jul 21, 2015",Loan,Italy,5380,Inter ,238992,150 Th. €,Giacomo Sciacca,15/16,Italy,24898,Renate 
+"Jul 1, 2013",-,Italy,24432,Inter Youth ,238992,-,Giacomo Sciacca,13/14,Italy,5380,Inter 
+"Jul 7, 2015",Free transfer,Italy,5243,Parma U19 ,239941,175 Th. €,Lukas Haraslin,15/16,Poland,4000,Lechia Gdansk 
+"Jul 1, 2013",?,Slovakia,19858,Bratislava U19 ,239941,-,Lukas Haraslin,13/14,Italy,5243,Parma U19 
+"Jun 30, 2016",End of loan,Czech Republic,715,Bohemians 1905 ,240252,400 Th. €,Karlo Lulic,15/16,Italy,1038,Sampdoria 
+"Sep 17, 2015",Loan,Italy,1038,Sampdoria ,240252,800 Th. €,Karlo Lulic,15/16,Czech Republic,715,Bohemians 1905 
+"Jul 1, 2015",-,Italy,12001,Sampdoria ,240252,800 Th. €,Karlo Lulic,15/16,Italy,1038,Sampdoria 
+"Sep 23, 2014",Free transfer,Croatia,327,NK Osijek ,240252,"1,00 Mill. €",Karlo Lulic,14/15,Italy,12001,Sampdoria 
+"Jul 1, 2013",-,Croatia,36353,NK Osijek U17 ,240252,-,Karlo Lulic,13/14,Croatia,327,NK Osijek 
+"Jul 1, 2011",-,Croatia,36426,NK Osijek Jgd ,240252,-,Karlo Lulic,11/12,Croatia,36353,NK Osijek U17 
+"Jul 28, 2010",?,Croatia,11102,Mladost Cernik ,240252,-,Karlo Lulic,10/11,Croatia,36426,NK Osijek Jgd 
+"Jun 30, 2016",End of loan,Italy,380,Salernitana ,240260,150 Th. €,Franjo Prce,15/16,Italy,398,Lazio 
+"Jan 13, 2016",Loan,Italy,398,Lazio ,240260,150 Th. €,Franjo Prce,15/16,Italy,380,Salernitana 
+"Jul 1, 2015",-,Italy,12816,Lazio Primavera ,240260,150 Th. €,Franjo Prce,15/16,Italy,398,Lazio 
+"Aug 21, 2014",300 Th. €,Croatia,11032,Hajduk U19 ,240260,-,Franjo Prce,14/15,Italy,12816,Lazio Primavera 
+"Jul 1, 2013",-,Croatia,36344,Hajduk U17 ,240260,-,Franjo Prce,13/14,Croatia,11032,Hajduk U19 
+"Feb 1, 2016","1,80 Mill. €",Italy,12,AS Roma ,240365,400 Th. €,Michele Somma,15/16,Italy,19,Brescia 
+"Jan 31, 2016",End of loan,Italy,19,Brescia ,240365,400 Th. €,Michele Somma,15/16,Italy,12,AS Roma 
+"Jul 10, 2015",Loan,Italy,12,AS Roma ,240365,400 Th. €,Michele Somma,15/16,Italy,19,Brescia 
+"Jun 30, 2015",End of loan,Italy,749,FC Empoli ,240365,200 Th. €,Michele Somma,14/15,Italy,12,AS Roma 
+"Feb 2, 2015",Loan,Italy,12,AS Roma ,240365,200 Th. €,Michele Somma,14/15,Italy,749,FC Empoli 
+"Sep 1, 2014",-,Italy,11997,Roma Primavera ,240365,100 Th. €,Michele Somma,14/15,Italy,12,AS Roma 
+"Aug 13, 2012",?,Italy,5232,Juventus Youth ,240365,-,Michele Somma,12/13,Italy,11997,Roma Primavera 
+"Jul 1, 2014",-,Italy,10959,Udinese U19 ,240414,250 Th. €,Alex Meret,14/15,Italy,410,Udinese Calcio 
+"Jul 1, 2013",-,Italy,28874,Udinese Youth ,240414,-,Alex Meret,13/14,Italy,10959,Udinese U19 
+"Jul 8, 2015",?,Italy,19114,Sassuolo ,240657,25 Th. €,Lorenzo Caselli,15/16,Italy,4097,Catanzaro 
+"Jul 1, 2012",?,Italy,29464,SPAL Jugend ,240657,-,Lorenzo Caselli,12/13,Italy,19114,Sassuolo 
+"Jun 30, 2017",End of loan,Italy,19,Brescia ,240897,300 Th. €,Arturo Calabresi,16/17,Italy,12,AS Roma 
+"Jan 15, 2016",Loan,Italy,12,AS Roma ,240897,300 Th. €,Arturo Calabresi,15/16,Italy,19,Brescia 
+"Jan 5, 2016",End of loan,Italy,1210,AS Livorno ,240897,300 Th. €,Arturo Calabresi,15/16,Italy,12,AS Roma 
+"Jul 12, 2015",Loan,Italy,11997,Roma Primavera ,240897,300 Th. €,Arturo Calabresi,15/16,Italy,1210,AS Livorno 
+"Jul 1, 2012",-,Italy,25545,AS Rom Jugend ,240897,-,Arturo Calabresi,12/13,Italy,11997,Roma Primavera 
+"Jul 6, 2015",Free transfer,Italy,130,Parma ,240958,"6,00 Mill. €",José Mauri,15/16,Italy,5,AC Milan 
+"Jul 1, 2013",-,Italy,25804,Parma Youth ,240958,-,José Mauri,13/14,Italy,130,Parma 
+"Jun 30, 2016",End of loan,Italy,24898,Renate ,241074,100 Th. €,Giovanni Graziano,15/16,Italy,416,Torino 
+"Aug 7, 2015",Loan,Italy,12130,FC Turin ,241074,100 Th. €,Giovanni Graziano,15/16,Italy,24898,Renate 
+"Mar 25, 2012",-,Italy,29351,Torino Youth ,241074,-,Giovanni Graziano,12/13,Italy,12130,FC Turin 
+"Jul 20, 2015",Free transfer,Italy,5243,Parma U19 ,242257,25 Th. €,Davide Zuccolini,15/16,Italy,38561,Correggese 
+"Jun 30, 2013",End of loan,Italy,19170,Sampolese ,242257,50 Th. €,Davide Zuccolini,12/13,Italy,5243,Parma U19 
+"Jan 5, 2013",Loan,Italy,5243,Parma U19 ,242257,50 Th. €,Davide Zuccolini,12/13,Italy,19170,Sampolese 
+"Jul 1, 2012",-,Italy,25804,Parma Youth ,242257,-,Davide Zuccolini,12/13,Italy,5243,Parma U19 
+"Jul 1, 2014",-,Italy,12001,Sampdoria ,242537,50 Th. €,Samuele Massolo,14/15,Italy,1038,Sampdoria 
+"Jul 1, 2012",-,Italy,29354,Sampdoria Youth ,242537,-,Samuele Massolo,12/13,Italy,12001,Sampdoria 
+"Jun 30, 2016",End of loan,Switzerland,2790,FC Lugano ,243606,650 Th. €,Anastasios Donis,15/16,Italy,506,Juventus 
+"Jul 20, 2015",Loan,Italy,506,Juventus ,243606,300 Th. €,Anastasios Donis,15/16,Switzerland,2790,FC Lugano 
+"Jun 30, 2015",End of loan,Italy,6574,Sassuolo ,243606,300 Th. €,Anastasios Donis,14/15,Italy,506,Juventus 
+"Feb 2, 2015",Loan,Italy,506,Juventus ,243606,300 Th. €,Anastasios Donis,14/15,Italy,6574,Sassuolo 
+"Jan 1, 2015",-,Italy,11008,Juventus U19 ,243606,300 Th. €,Anastasios Donis,14/15,Italy,506,Juventus 
+"Jul 1, 2013",-,Italy,49567,Juventus U17 ,243606,-,Anastasios Donis,13/14,Italy,11008,Juventus U19 
+"Jan 18, 2013",300 Th. €,Greece,6626,PAO U20 ,243606,-,Anastasios Donis,12/13,Italy,49567,Juventus U17 
+"Jul 1, 2014",Free transfer,England,985,Manchester Utd. ,244192,-,Pierluigi Gollini,14/15,Italy,276,Hellas Verona 
+"Jul 1, 2012",-,England,5242,Man Utd U18 ,244192,-,Pierluigi Gollini,12/13,England,985,Manchester Utd. 
+"Mar 19, 2012",?,Italy,12812,Fiorentina Yth. ,244192,-,Pierluigi Gollini,11/12,England,5242,Man Utd U18 
+"Aug 28, 2015",?,Italy,10958,AC Milan U19 ,244491,150 Th. €,Stefano Gori,15/16,Italy,332,Bari 
+"Jan 31, 2014","1,10 Mill. €",Italy,14829,Brescia U19 ,244491,75 Th. €,Stefano Gori,13/14,Italy,10958,AC Milan U19 
+"Jul 1, 2013",-,Italy,29345,Brescia Jugend ,244491,-,Stefano Gori,13/14,Italy,14829,Brescia U19 
+"Jan 26, 2016",End of loan,Italy,1047,Como ,244927,800 Th. €,Accursio Bentivegna,15/16,Italy,458,US Palermo 
+"Aug 31, 2015",Loan,Italy,458,US Palermo ,244927,800 Th. €,Accursio Bentivegna,15/16,Italy,1047,Como 
+"Jul 1, 2014",-,Italy,11493,Palermo ,244927,300 Th. €,Accursio Bentivegna,14/15,Italy,458,US Palermo 
+"Jul 1, 2012",-,Italy,12820,Palermo Youth ,244927,-,Accursio Bentivegna,12/13,Italy,11493,Palermo 
+"Jun 30, 2016",End of loan,Italy,4331,Trapani ,247247,50 Th. €,Andrea Accardi,15/16,Italy,458,US Palermo 
+"Jul 7, 2015",Loan,Italy,11493,Palermo ,247247,50 Th. €,Andrea Accardi,15/16,Italy,4331,Trapani 
+"Jul 1, 2012",-,Italy,12820,Palermo Youth ,247247,-,Andrea Accardi,12/13,Italy,11493,Palermo 
+"Jul 1, 2012",-,Italy,12812,Fiorentina Yth. ,247376,-,Luzayadio Bangu,12/13,Italy,8505,Fiorentina U19 
+"Jul 1, 2011",?,Italy,29344,Atalanta Youth ,247376,-,Luzayadio Bangu,11/12,Italy,12812,Fiorentina Yth. 
+"Jun 30, 2016",End of loan,Italy,4106,Casertana ,247377,150 Th. €,Kevin Bonifazi,15/16,Italy,416,Torino 
+"Jan 14, 2016",Loan,Italy,416,Torino ,247377,150 Th. €,Kevin Bonifazi,15/16,Italy,4106,Casertana 
+"Jan 13, 2016",End of loan,Italy,4171,Benevento ,247377,150 Th. €,Kevin Bonifazi,15/16,Italy,416,Torino 
+"Jul 21, 2015",Loan,Italy,12130,FC Turin ,247377,150 Th. €,Kevin Bonifazi,15/16,Italy,4171,Benevento 
+"Aug 9, 2014",Free transfer,Italy,12863,Siena ,247377,75 Th. €,Kevin Bonifazi,14/15,Italy,12130,FC Turin 
+"Jul 1, 2012",-,Italy,29342,AC Siena Jugend ,247377,-,Kevin Bonifazi,12/13,Italy,12863,Siena 
+"Jun 30, 2016",End of loan,Italy,19,Brescia ,248333,300 Th. €,Simone Rosso,15/16,Italy,416,Torino 
+"Aug 6, 2015",Loan,Italy,12130,FC Turin ,248333,200 Th. €,Simone Rosso,15/16,Italy,19,Brescia 
+"Feb 1, 2013",-,Italy,29351,Torino Youth ,248333,-,Simone Rosso,12/13,Italy,12130,FC Turin 
+"Jun 30, 2016",End of loan,Spain,21550,Granada CF B ,248395,-,Pawel Bochniewicz,15/16,Italy,10959,Udinese U19 
+"Jul 8, 2015",Loan,Italy,10959,Udinese U19 ,248395,250 Th. €,Pawel Bochniewicz,15/16,Spain,21550,Granada CF B 
+"Jul 1, 2014","1,20 Mill. €",Italy,1386,Reggina ,248395,75 Th. €,Pawel Bochniewicz,14/15,Italy,10959,Udinese U19 
+"Jul 1, 2013",-,Italy,12000,Reggina U19 ,248395,75 Th. €,Pawel Bochniewicz,13/14,Italy,1386,Reggina 
+"Feb 20, 2013",-,Italy,29355,Reggina U17 ,248395,-,Pawel Bochniewicz,12/13,Italy,12000,Reggina U19 
+"Aug 31, 2012",?,Poland,28683,Mielec U19 ,248395,-,Pawel Bochniewicz,12/13,Italy,29355,Reggina U17 
+"Jun 30, 2016",End of loan,Italy,380,Salernitana ,248483,200 Th. €,Christopher Oikonomidis,15/16,Italy,398,Lazio 
+"Jan 13, 2016",Loan,Italy,398,Lazio ,248483,200 Th. €,Christopher Oikonomidis,15/16,Italy,380,Salernitana 
+"Jul 1, 2015",-,Italy,12816,Lazio Primavera ,248483,200 Th. €,Christopher Oikonomidis,15/16,Italy,398,Lazio 
+"Aug 8, 2013",Free transfer,Italy,11998,Atalanta ,248483,75 Th. €,Christopher Oikonomidis,13/14,Italy,12816,Lazio Primavera 
+"Jul 1, 2012",-,Italy,29344,Atalanta Youth ,248483,-,Christopher Oikonomidis,12/13,Italy,11998,Atalanta 
+"Aug 1, 2014",?,Italy,12000,Reggina U19 ,250921,200 Th. €,Mauro Coppolaro,14/15,Italy,10959,Udinese U19 
+"Nov 5, 2012",-,Italy,29355,Reggina U17 ,250921,-,Mauro Coppolaro,12/13,Italy,12000,Reggina U19 
+"Jul 11, 2014","2,00 Mill. €",Bulgaria,208,CSKA Sofia ,252767,"2,00 Mill. €",Ivaylo Chochev,14/15,Italy,458,US Palermo 
+"Dec 19, 2012",350 Th. €,Bulgaria,26639,FC Chavdar ,252767,100 Th. €,Ivaylo Chochev,12/13,Bulgaria,208,CSKA Sofia 
+"Jun 30, 2016",End of loan,Italy,42308,Noale ,253012,50 Th. €,Matteo Franchetti,15/16,Italy,16996,Hellas Verona 
+"Jan 8, 2016",Loan,Italy,16996,Hellas Verona ,253012,50 Th. €,Matteo Franchetti,15/16,Italy,42308,Noale 
+"Aug 31, 2015",?,Italy,8517,FC Genoa ,253012,50 Th. €,Matteo Franchetti,15/16,Italy,16996,Hellas Verona 
+"Jul 1, 2014",Free transfer,Italy,15099,Padova U19 ,253012,50 Th. €,Matteo Franchetti,14/15,Italy,8517,FC Genoa 
+"Jul 1, 2013",-,Italy,19919,Padova U17 ,253012,-,Matteo Franchetti,13/14,Italy,15099,Padova U19 
+"Jul 1, 2015",-,Italy,8492,Empoli ,253857,300 Th. €,Alessandro Piu,15/16,Italy,749,FC Empoli 
+"Jul 1, 2013",-,Italy,14431,Empoli Youth ,253857,-,Alessandro Piu,13/14,Italy,8492,Empoli 
+"Jun 30, 2016",End of loan,Italy,33734,Monopoli  ,256008,300 Th. €,Facundo Lescano,15/16,Italy,416,Torino 
+"Jan 14, 2016",Loan,Italy,416,Torino ,256008,300 Th. €,Facundo Lescano,15/16,Italy,33734,Monopoli  
+"Jan 13, 2016",End of loan,Italy,10670,AS Melfi ,256008,300 Th. €,Facundo Lescano,15/16,Italy,416,Torino 
+"Aug 31, 2015",Loan,Italy,416,Torino ,256008,300 Th. €,Facundo Lescano,15/16,Italy,10670,AS Melfi 
+"Jul 1, 2015",-,Italy,12130,FC Turin ,256008,300 Th. €,Facundo Lescano,15/16,Italy,416,Torino 
+"Jul 10, 2014",?,Italy,8517,FC Genoa ,256008,50 Th. €,Facundo Lescano,14/15,Italy,12130,FC Turin 
+"Jun 30, 2014",End of loan,Italy,4558,Martina Franca ,256008,50 Th. €,Facundo Lescano,13/14,Italy,8517,FC Genoa 
+"Jan 21, 2014",Loan,Italy,8517,FC Genoa ,256008,50 Th. €,Facundo Lescano,13/14,Italy,4558,Martina Franca 
+"Jul 1, 2013",-,Italy,29349,Genoa Youth ,256008,-,Facundo Lescano,13/14,Italy,8517,FC Genoa 
+"Jul 1, 2015",-,Italy,11008,Juventus U19 ,256339,175 Th. €,Emil Audero,15/16,Italy,506,Juventus 
+"Jul 1, 2013",-,Italy,49567,Juventus U17 ,256339,-,Emil Audero,13/14,Italy,11008,Juventus U19 
+"Jun 30, 2016",End of loan,Italy,2921,Pescara ,256361,900 Th. €,Daniele Verde,15/16,Italy,12,AS Roma 
+"Jan 27, 2016",Loan,Italy,12,AS Roma ,256361,900 Th. €,Daniele Verde,15/16,Italy,2921,Pescara 
+"Jan 5, 2016",End of loan,Italy,8970,Frosinone ,256361,900 Th. €,Daniele Verde,15/16,Italy,12,AS Roma 
+"Jul 9, 2015",Loan,Italy,12,AS Roma ,256361,"1,00 Mill. €",Daniele Verde,15/16,Italy,8970,Frosinone 
+"Jan 1, 2015",-,Italy,11997,Roma Primavera ,256361,50 Th. €,Daniele Verde,14/15,Italy,12,AS Roma 
+"Jul 1, 2013",-,Italy,25545,AS Rom Jugend ,256361,-,Daniele Verde,13/14,Italy,11997,Roma Primavera 
+"Jun 30, 2016",End of loan,Italy,2250,Prato ,256371,75 Th. €,Lorenzo Bardini,15/16,Italy,430,Fiorentina 
+"Jul 15, 2015",Loan,Italy,8505,Fiorentina U19 ,256371,75 Th. €,Lorenzo Bardini,15/16,Italy,2250,Prato 
+"Jul 1, 2013",-,Italy,12812,Fiorentina Yth. ,256371,-,Lorenzo Bardini,13/14,Italy,8505,Fiorentina U19 
+"Jun 30, 2016",End of loan,Italy,839,Perugia ,256448,125 Th. €,Gianluca Mancini,15/16,Italy,430,Fiorentina 
+"Jul 10, 2015",Loan,Italy,8505,Fiorentina U19 ,256448,125 Th. €,Gianluca Mancini,15/16,Italy,839,Perugia 
+"Jul 1, 2013",-,Italy,12812,Fiorentina Yth. ,256448,-,Gianluca Mancini,13/14,Italy,8505,Fiorentina U19 
+"Jun 30, 2016",End of loan,Italy,130,Parma ,261041,125 Th. €,Alessio Agrifogli,15/16,Italy,749,FC Empoli 
+"Aug 27, 2015",Loan,Italy,749,FC Empoli ,261041,125 Th. €,Alessio Agrifogli,15/16,Italy,130,Parma 
+"Aug 26, 2015",End of loan,Italy,36745,Tuttocuoio ,261041,125 Th. €,Alessio Agrifogli,15/16,Italy,749,FC Empoli 
+"Feb 2, 2015",Loan,Italy,8492,Empoli ,261041,100 Th. €,Alessio Agrifogli,14/15,Italy,36745,Tuttocuoio 
+"Mar 25, 2013",-,Italy,14431,Empoli Youth ,261041,-,Alessio Agrifogli,12/13,Italy,8492,Empoli 
+"Jul 1, 2013",-,Italy,24432,Inter Youth ,262521,-,Enrico Baldini,13/14,Italy,5380,Inter 
+"Aug 19, 2011",?,Italy,29465,Spezia Jugend ,262521,-,Enrico Baldini,11/12,Italy,24432,Inter Youth 
+"Jul 1, 2015",-,Italy,10958,AC Milan U19 ,262523,150 Th. €,Davide Calabria,15/16,Italy,5,AC Milan 
+"Jul 1, 2013",-,Italy,25828,Milan Youth ,262523,-,Davide Calabria,13/14,Italy,10958,AC Milan U19 
+"Feb 1, 2016",-,Italy,3522,Spezia Calcio ,263065,75 Th. €,Marijan Coric,15/16,,515,Unattached 
+"Jul 13, 2015",-,Italy,515,Unattached ,263065,75 Th. €,Marijan Coric,15/16,,3522,Spezia Calcio 
+"Mar 11, 2015",-,Italy,130,Parma ,263065,100 Th. €,Marijan Coric,14/15,,515,Unattached 
+"Jul 1, 2014",20 Th. €,Croatia,32480,Istra 1961 U19 ,263065,50 Th. €,Marijan Coric,14/15,Italy,130,Parma 
+"Jun 30, 2014",End of loan,Italy,5243,Parma U19 ,263065,50 Th. €,Marijan Coric,13/14,Croatia,32480,Istra 1961 U19 
+"Aug 31, 2013",Loan,Croatia,32480,Istra 1961 U19 ,263065,-,Marijan Coric,13/14,Italy,5243,Parma U19 
+"Jul 1, 2012",-,Croatia,36349,Istra 1961 U17 ,263065,-,Marijan Coric,12/13,Croatia,32480,Istra 1961 U19 
+"Jul 1, 2010",-,Croatia,41355,Istra 1961 Jgd ,263065,-,Marijan Coric,10/11,Croatia,36349,Istra 1961 U17 
+"Feb 3, 2006",?,Croatia,34343,NK Vodnjan ,263065,-,Marijan Coric,05/06,Croatia,41355,Istra 1961 Jgd 
+"Jul 1, 2013",-,Italy,25828,Milan Youth ,264485,-,Ivan De Santis,13/14,Italy,10958,AC Milan U19 
+"Jul 1, 2015",-,Italy,49567,Juventus U17 ,265079,-,Mattia Del Favero,15/16,Italy,11008,Juventus U19 
+"Jul 1, 2014",?,Italy,26780,Prato Berretti ,265079,-,Mattia Del Favero,14/15,Italy,49567,Juventus U17 
+"Jun 30, 2014",End of loan,Italy,49567,Juventus U17 ,265079,-,Mattia Del Favero,13/14,Italy,26780,Prato Berretti 
+"Aug 6, 2013",Loan,Italy,26780,Prato Berretti ,265079,-,Mattia Del Favero,13/14,Italy,49567,Juventus U17 
+"Jul 1, 2015",Loan,Paraguay,1214,Cerro Porteño ,265590,600 Th. €,Danilo Ortíz,15/16,Argentina,12574,Godoy Cruz 
+"Jun 30, 2015",End of loan,Italy,458,US Palermo ,265590,800 Th. €,Danilo Ortíz,14/15,Paraguay,1214,Cerro Porteño 
+"Jan 31, 2015",Loan,Paraguay,1214,Cerro Porteño ,265590,-,Danilo Ortíz,14/15,Italy,458,US Palermo 
+"Jun 30, 2015",End of loan,Italy,430,Fiorentina ,269469,300 Th. €,Octávio,14/15,Brazil,537,Botafogo 
+"Jul 7, 2014",Loan,Brazil,537,Botafogo ,269469,400 Th. €,Octávio,14/15,Italy,430,Fiorentina 
+"Jun 30, 2014",End of loan,Brazil,7209,ABC ,269469,400 Th. €,Octávio,14/15,Brazil,537,Botafogo 
+"Mar 1, 2014",Loan,Brazil,537,Botafogo ,269469,150 Th. €,Octávio,14/15,Brazil,7209,ABC 
+"Jan 1, 2013",-,Brazil,16653,Botafogo U20 ,269469,-,Octávio,12/13,Brazil,537,Botafogo 
+"Jun 30, 2016",End of loan,Greece,265,Panathinaikos ,270188,"3,00 Mill. €",Lucas Evangelista,15/16,Italy,410,Udinese Calcio 
+"Jan 20, 2016",Loan fee:120 Th. €,Italy,410,Udinese Calcio ,270188,"3,00 Mill. €",Lucas Evangelista,15/16,Greece,265,Panathinaikos 
+"Aug 28, 2014","4,00 Mill. €",Brazil,585,São Paulo ,270188,"1,00 Mill. €",Lucas Evangelista,14/15,Italy,410,Udinese Calcio 
+"Sep 1, 2012",?,Brazil,17300,Desp. Brasil ,270188,-,Lucas Evangelista,12/13,Brazil,585,São Paulo 
+"Jul 1, 2015",-,Italy,12819,Napoli U19 ,278531,150 Th. €,Sebastiano Luperto,15/16,Italy,6195,SSC Napoli 
+"Jul 1, 2014",490 Th. €,Italy,5618,Lecce U19 ,278531,100 Th. €,Sebastiano Luperto,14/15,Italy,12819,Napoli U19 
+"Jun 30, 2014",End of loan,Italy,12819,Napoli U19 ,278531,100 Th. €,Sebastiano Luperto,13/14,Italy,5618,Lecce U19 
+"Aug 23, 2013",Loan fee:50 Th. €,Italy,5618,Lecce U19 ,278531,-,Sebastiano Luperto,13/14,Italy,12819,Napoli U19 
+"Jun 30, 2016",End of loan,Italy,9690,Bassano ,280039,50 Th. €,Marco Soprano,15/16,Italy,252,Genoa 
+"Feb 1, 2016",Loan,Italy,252,Genoa ,280039,50 Th. €,Marco Soprano,15/16,Italy,9690,Bassano 
+"Jan 31, 2016",End of loan,Italy,4031,Cosenza ,280039,50 Th. €,Marco Soprano,15/16,Italy,252,Genoa 
+"Jul 15, 2015",Loan,Italy,8517,FC Genoa ,280039,50 Th. €,Marco Soprano,15/16,Italy,4031,Cosenza 
+"Jul 1, 2013",-,Italy,29349,Genoa Youth ,280039,-,Marco Soprano,13/14,Italy,8517,FC Genoa 
+"Jun 30, 2016",End of loan,Italy,1385,Modena FC ,285920,400 Th. €,Gaston Camara,15/16,Italy,46,Inter 
+"Jan 28, 2016",Loan,Italy,46,Inter ,285920,400 Th. €,Gaston Camara,15/16,Italy,1385,Modena FC 
+"Jan 27, 2016",End of loan,Italy,332,Bari ,285920,400 Th. €,Gaston Camara,15/16,Italy,46,Inter 
+"Aug 2, 2015",Loan,Italy,5380,Inter ,285920,500 Th. €,Gaston Camara,15/16,Italy,332,Bari 
+"Jan 30, 2014",?,Italy,27526,Santarcang. U19 ,285920,50 Th. €,Gaston Camara,13/14,Italy,5380,Inter 
+"Jan 29, 2014",End of loan,Italy,5380,Inter ,285920,50 Th. €,Gaston Camara,13/14,Italy,27526,Santarcang. U19 
+"Aug 20, 2013",Loan,Italy,27526,Santarcang. U19 ,285920,50 Th. €,Gaston Camara,13/14,Italy,5380,Inter 
+"Jul 1, 2013",?,Italy,75,Unknown ,285920,-,Gaston Camara,13/14,,27526,Santarcang. U19 
+"Jun 30, 2016",End of loan,Italy,2250,Prato ,285929,100 Th. €,Lorenzo Benucci,15/16,Italy,506,Juventus 
+"Jul 24, 2015",Loan,Italy,506,Juventus ,285929,50 Th. €,Lorenzo Benucci,15/16,Italy,2250,Prato 
+"Jun 30, 2015",End of loan,Italy,19114,Sassuolo ,285929,50 Th. €,Lorenzo Benucci,14/15,Italy,506,Juventus 
+"Aug 19, 2013",Loan,Italy,5232,Juventus Youth ,285929,-,Lorenzo Benucci,13/14,Italy,19114,Sassuolo 
+"Jun 30, 2016",End of loan,Italy,2655,Vicenza ,287313,150 Th. €,Andrej Modic,15/16,Italy,5,AC Milan 
+"Aug 5, 2015",Loan,Italy,10958,AC Milan U19 ,287313,75 Th. €,Andrej Modic,15/16,Italy,2655,Vicenza 
+"Jul 1, 2013",-,Italy,25828,Milan Youth ,287313,-,Andrej Modic,13/14,Italy,10958,AC Milan U19 
+"Jun 30, 2016",End of loan,Italy,2921,Pescara ,287631,200 Th. €,Pierluigi Cappelluzzo,15/16,Italy,276,Hellas Verona 
+"Jul 23, 2015",Loan,Italy,16996,Hellas Verona ,287631,200 Th. €,Pierluigi Cappelluzzo,15/16,Italy,2921,Pescara 
+"Jul 23, 2014",Free transfer,Italy,12863,Siena ,287631,150 Th. €,Pierluigi Cappelluzzo,14/15,Italy,16996,Hellas Verona 
+"Jul 1, 2013",-,Italy,29342,AC Siena Jugend ,287631,-,Pierluigi Cappelluzzo,13/14,Italy,12863,Siena 
+"Jul 1, 2015",-,Italy,8492,Empoli ,287635,400 Th. €,Assane Dioussé,15/16,Italy,749,FC Empoli 
+"Jul 1, 2013",-,Italy,14431,Empoli Youth ,287635,-,Assane Dioussé,13/14,Italy,8492,Empoli 
+"Jun 30, 2016",End of loan,Italy,19164,Paganese ,287636,100 Th. €,Mirko Esposito,15/16,Italy,4083,Crotone 
+"Aug 31, 2015",Loan,Italy,4083,Crotone ,287636,100 Th. €,Mirko Esposito,15/16,Italy,19164,Paganese 
+"Jul 10, 2015",Free transfer,Italy,5243,Parma U19 ,287636,100 Th. €,Mirko Esposito,15/16,Italy,4083,Crotone 
+"Jul 1, 2013",-,Italy,25804,Parma Youth ,287636,-,Mirko Esposito,13/14,Italy,5243,Parma U19 
+"Jun 30, 2016",End of loan,Italy,1429,AC Cesena ,287638,300 Th. €,Leonardo Fontanesi,15/16,Italy,6574,Sassuolo 
+"Jan 22, 2016",Loan,Italy,6574,Sassuolo ,287638,300 Th. €,Leonardo Fontanesi,15/16,Italy,1429,AC Cesena 
+"Jul 1, 2015",-,Italy,19114,Sassuolo ,287638,300 Th. €,Leonardo Fontanesi,15/16,Italy,6574,Sassuolo 
+"Jul 1, 2013",-,Italy,29468,Sassuolo Youth ,287638,-,Leonardo Fontanesi,13/14,Italy,19114,Sassuolo 
+"Jun 30, 2016",End of loan,Italy,14888,Pontedera ,287640,175 Th. €,Andrea Gemignani,15/16,Italy,749,FC Empoli 
+"Jul 3, 2015",Loan,Italy,8492,Empoli ,287640,125 Th. €,Andrea Gemignani,15/16,Italy,14888,Pontedera 
+"Jul 1, 2013",-,Italy,14431,Empoli Youth ,287640,-,Andrea Gemignani,13/14,Italy,8492,Empoli 
+"Jul 16, 2015",gratuito,Italy,5243,Parma U19 ,287647,50 Th. €,Solomon Nyantakyi,15/16,Italy,46768,Tuttocuoio U19 
+"Jul 1, 2013",-,Italy,25804,Parma Youth ,287647,-,Solomon Nyantakyi,13/14,Italy,5243,Parma U19 
+"Jul 1, 2014",-,Italy,29349,Genoa Youth ,287648,-,Giuseppe Panico,14/15,Italy,8517,FC Genoa 
+"Nov 27, 2015",?,Malta,31631,St. Andrews FC ,287653,25 Th. €,Diego Rossetto,15/16,Italy,31267,Luparense 
+"Jul 1, 2015",Free transfer,Italy,5243,Parma U19 ,287653,25 Th. €,Diego Rossetto,15/16,Malta,31631,St. Andrews FC 
+"Jul 1, 2013",-,Italy,25804,Parma Youth ,287653,-,Diego Rossetto,13/14,Italy,5243,Parma U19 
+"Jun 30, 2016",End of loan,Italy,1429,AC Cesena ,287663,350 Th. €,Luca Valzania,15/16,Italy,800,Atalanta 
+"Jul 2, 2015",Loan,Italy,800,Atalanta ,287663,350 Th. €,Luca Valzania,15/16,Italy,1429,AC Cesena 
+"Jul 1, 2015",900 Th. €,Italy,1429,AC Cesena ,287663,350 Th. €,Luca Valzania,15/16,Italy,800,Atalanta 
+"Jul 1, 2014",-,Italy,20106,Cesena ,287663,50 Th. €,Luca Valzania,14/15,Italy,1429,AC Cesena 
+"Jul 1, 2013",-,Italy,14892,Cesena Youth ,287663,-,Luca Valzania,13/14,Italy,20106,Cesena 
+"Jun 30, 2016",End of loan,Italy,2250,Prato ,287686,75 Th. €,Filippo Boni,15/16,Italy,276,Hellas Verona 
+"Aug 6, 2015",Loan,Italy,276,Hellas Verona ,287686,25 Th. €,Filippo Boni,15/16,Italy,2250,Prato 
+"Jul 1, 2013",Loan,Italy,27369,"Solbiatese Jun, ",287686,-,Filippo Boni,13/14,Italy,16996,Hellas Verona 
+"Jan 4, 2013",?,Italy,5515,Solbiatese Arno Calcio ,287686,-,Filippo Boni,13/14,Italy,16996,Hellas Verona 
+"Jan 3, 2013",End of loan,Italy,16996,Hellas Verona ,287686,-,Filippo Boni,13/14,Italy,5515,Solbiatese Arno Calcio 
+"Jun 30, 2016",End of loan,Italy,4331,Trapani ,287688,75 Th. €,Janis Cavagna,15/16,Italy,800,Atalanta 
+"Jul 9, 2015",Loan,Italy,11998,Atalanta ,287688,50 Th. €,Janis Cavagna,15/16,Italy,4331,Trapani 
+"Jul 1, 2013",-,Italy,29344,Atalanta Youth ,287688,-,Janis Cavagna,13/14,Italy,11998,Atalanta 
+"Jul 1, 2015",-,Italy,11493,Palermo ,287876,250 Th. €,Antonino La Gumina,15/16,Italy,458,US Palermo 
+"Jul 1, 2013",-,Italy,12820,Palermo Youth ,287876,-,Antonino La Gumina,13/14,Italy,11493,Palermo 
+"Jul 1, 2014",-,Italy,12812,Fiorentina Yth. ,287903,-,Simone Minelli,14/15,Italy,8505,Fiorentina U19 
+"Jun 30, 2017",End of loan,Brazil,609,Cruzeiro ,288506,"2,00 Mill. €",Caio Rangel,15/16,Italy,1390,Cagliari Calcio 
+"Feb 18, 2016",Loan,Italy,1390,Cagliari Calcio ,288506,"2,00 Mill. €",Caio Rangel,15/16,Brazil,609,Cruzeiro 
+"Jan 30, 2016",End of loan,Portugal,8024,Arouca ,288506,"2,20 Mill. €",Caio Rangel,15/16,Italy,1390,Cagliari Calcio 
+"Aug 17, 2015",Loan,Italy,1390,Cagliari Calcio ,288506,"2,20 Mill. €",Caio Rangel,15/16,Portugal,8024,Arouca 
+"Jul 11, 2014","2,65 Mill. €",Brazil,15002,Flamengo ,288506,-,Caio Rangel,14/15,Italy,1390,Cagliari Calcio 
+"Jun 30, 2016",End of loan,Italy,1105,Ravenna ,288563,75 Th. €,Alberto Iglio,15/16,Italy,1429,AC Cesena 
+"Jul 1, 2015",Loan,Italy,20106,Cesena ,288563,75 Th. €,Alberto Iglio,15/16,Italy,1105,Ravenna 
+"Jul 1, 2013",-,Italy,14892,Cesena Youth ,288563,-,Alberto Iglio,13/14,Italy,20106,Cesena 
+"Jun 30, 2016",End of loan,Italy,27525,Santarcangelo ,288570,100 Th. €,Davide Mordini,15/16,Italy,1429,AC Cesena 
+"Aug 11, 2015",Loan,Italy,20106,Cesena ,288570,100 Th. €,Davide Mordini,15/16,Italy,27525,Santarcangelo 
+"Jul 1, 2013",-,Italy,14892,Cesena Youth ,288570,-,Davide Mordini,13/14,Italy,20106,Cesena 
+"Jul 1, 2015",-,Italy,12816,Lazio Primavera ,289061,300 Th. €,Alessandro Murgia,15/16,Italy,398,Lazio 
+"Jul 1, 2013",-,Italy,9495,Lazio Youth ,289061,-,Alessandro Murgia,13/14,Italy,12816,Lazio Primavera 
+"Jul 1, 2013",-,Italy,9495,Lazio Youth ,289065,-,Simone Palombi,13/14,Italy,12816,Lazio Primavera 
+"Jun 30, 2016",End of loan,Italy,30066,Legnago ,290087,75 Th. €,Matteo Biggeri,15/16,Italy,749,FC Empoli 
+"Dec 20, 2015",?,Italy,749,FC Empoli ,290087,75 Th. €,Matteo Biggeri,15/16,Italy,30066,Legnago 
+"Dec 19, 2015",End of loan,Italy,50545,Viareggio 2014 ,290087,75 Th. €,Matteo Biggeri,15/16,Italy,749,FC Empoli 
+"Jul 29, 2015",Loan,Italy,8492,Empoli ,290087,75 Th. €,Matteo Biggeri,15/16,Italy,50545,Viareggio 2014 
+"Jul 1, 2013",-,Italy,14431,Empoli Youth ,290087,-,Matteo Biggeri,13/14,Italy,8492,Empoli 
+"Jun 30, 2016",End of loan,Italy,9690,Bassano ,290415,50 Th. €,Davide Costa,15/16,Italy,46,Inter 
+"Jul 19, 2015",Loan,Italy,5380,Inter ,290415,25 Th. €,Davide Costa,15/16,Italy,9690,Bassano 
+"Jul 1, 2013",-,Italy,24432,Inter Youth ,290415,-,Davide Costa,13/14,Italy,5380,Inter 
+"Jul 1, 2011",?,Italy,29541,Bassano U17 ,290415,-,Davide Costa,11/12,Italy,24432,Inter Youth 
+"Jun 30, 2016",End of loan,Italy,2250,Prato ,290418,125 Th. €,Riccardo Gaiola,15/16,Italy,46,Inter 
+"Aug 11, 2015",Loan,Italy,5380,Inter ,290418,75 Th. €,Riccardo Gaiola,15/16,Italy,2250,Prato 
+"Jun 30, 2015",End of loan,Italy,20106,Cesena ,290418,75 Th. €,Riccardo Gaiola,14/15,Italy,5380,Inter 
+"Aug 1, 2014",Loan,Italy,5380,Inter ,290418,50 Th. €,Riccardo Gaiola,14/15,Italy,20106,Cesena 
+"Jul 1, 2013",-,Italy,24432,Inter Youth ,290418,-,Riccardo Gaiola,13/14,Italy,5380,Inter 
+"Jul 1, 2013",-,Italy,25828,Milan Youth ,290733,-,Gian Filippo Felicioli,13/14,Italy,10958,AC Milan U19 
+"Jul 1, 2014",-,Italy,25828,Milan Youth ,290785,-,Sebastián Gamarra,14/15,Italy,10958,AC Milan U19 
+"Jul 1, 2011",700 Th. €,Italy,29345,Brescia Jugend ,290785,-,Sebastián Gamarra,11/12,Italy,25828,Milan Youth 
+"Jun 30, 2016",End of loan,Italy,9816,FC Forlì ,291278,75 Th. €,Davide Merelli,15/16,Italy,800,Atalanta 
+"Jul 1, 2015",Loan,Italy,11998,Atalanta ,291278,75 Th. €,Davide Merelli,15/16,Italy,9816,FC Forlì 
+"Jul 1, 2013",-,Italy,29344,Atalanta Youth ,291278,-,Davide Merelli,13/14,Italy,11998,Atalanta 
+"Jul 1, 2014",Free transfer,Italy,15099,Padova U19 ,291314,75 Th. €,Andrea Zaccagno,14/15,Italy,12130,FC Turin 
+"Jul 1, 2013",-,Italy,19919,Padova U17 ,291314,-,Andrea Zaccagno,13/14,Italy,15099,Padova U19 
+"Jan 4, 2016",-,Italy,26370,Pro Vercelli ,291398,75 Th. €,Federico Caronte,15/16,,515,Unattached 
+"Aug 31, 2015",?,Italy,12130,FC Turin ,291398,100 Th. €,Federico Caronte,15/16,Italy,26370,Pro Vercelli 
+"Jun 30, 2015",End of loan,Italy,10959,Udinese U19 ,291398,100 Th. €,Federico Caronte,14/15,Italy,12130,FC Turin 
+"Jan 20, 2015",Loan,Italy,29351,Torino Youth ,291398,-,Federico Caronte,14/15,Italy,10959,Udinese U19 
+"Jun 30, 2016",End of loan,Italy,4718,Virtus Lanciano ,291432,400 Th. €,Mattia Vitale,15/16,Italy,506,Juventus 
+"Jan 14, 2016",Loan,Italy,506,Juventus ,291432,400 Th. €,Mattia Vitale,15/16,Italy,4718,Virtus Lanciano 
+"Jul 1, 2015",-,Italy,11008,Juventus U19 ,291432,400 Th. €,Mattia Vitale,15/16,Italy,506,Juventus 
+"Jul 1, 2014",-,Italy,49567,Juventus U17 ,291432,-,Mattia Vitale,14/15,Italy,11008,Juventus U19 
+"Jul 1, 2011",?,Italy,29348,FC Bologna Jugend ,291432,-,Mattia Vitale,11/12,Italy,49567,Juventus U17 
+"Jun 30, 2016",End of loan,Italy,380,Salernitana ,291856,150 Th. €,Ricardo Bagadur,15/16,Italy,430,Fiorentina 
+"Jan 13, 2016",Loan,Italy,430,Fiorentina ,291856,150 Th. €,Ricardo Bagadur,15/16,Italy,380,Salernitana 
+"Jul 1, 2015",-,Italy,8505,Fiorentina U19 ,291856,150 Th. €,Ricardo Bagadur,15/16,Italy,430,Fiorentina 
+"Aug 31, 2014",500 Th. €,Croatia,14444,HNK Rijeka U19 ,291856,-,Ricardo Bagadur,14/15,Italy,8505,Fiorentina U19 
+"Jun 30, 2014",End of loan,Croatia,1520,NK Pomorac ,291856,-,Ricardo Bagadur,13/14,Croatia,14444,HNK Rijeka U19 
+"Feb 10, 2014",Loan,Croatia,14444,HNK Rijeka U19 ,291856,-,Ricardo Bagadur,13/14,Croatia,1520,NK Pomorac 
+"Jul 1, 2012",-,Croatia,36345,HNK Rijeka U17 ,291856,-,Ricardo Bagadur,12/13,Croatia,14444,HNK Rijeka U19 
+"Jul 1, 2010",-,Croatia,36361,HNK Rijeka Jgd ,291856,-,Ricardo Bagadur,10/11,Croatia,36345,HNK Rijeka U17 
+"Jul 1, 2009",?,Croatia,41785,NK Klana ,291856,-,Ricardo Bagadur,09/10,Croatia,36361,HNK Rijeka Jgd 
+"Aug 27, 2008",?,Croatia,26356,NK Naprijed ,291856,-,Ricardo Bagadur,08/09,Croatia,41785,NK Klana 
+"Jan 1, 2014",-,Italy,28874,Udinese Youth ,292422,-,Simone Pontisso,13/14,Italy,10959,Udinese U19 
+"Jun 30, 2016",End of loan,Italy,1429,AC Cesena ,294808,"2,80 Mill. €",Franck Kessié,15/16,Italy,800,Atalanta 
+"Aug 26, 2015",Loan,Italy,800,Atalanta ,294808,300 Th. €,Franck Kessié,15/16,Italy,1429,AC Cesena 
+"Jul 1, 2015",300 Th. €,Cote d'Ivoire,9369,Stella Club ,294808,300 Th. €,Franck Kessié,15/16,Italy,800,Atalanta 
+"Jun 30, 2015",End of loan,Italy,11998,Atalanta ,294808,300 Th. €,Franck Kessié,14/15,Cote d'Ivoire,9369,Stella Club 
+"Jan 29, 2015",Loan,Cote d'Ivoire,9369,Stella Club ,294808,-,Franck Kessié,14/15,Italy,11998,Atalanta 
+"Jun 30, 2016",End of loan,Italy,26955,US Olginatese ,296284,50 Th. €,Gianmarco Celeste,15/16,Italy,6574,Sassuolo 
+"Jul 19, 2015",Loan,Italy,19114,Sassuolo ,296284,50 Th. €,Gianmarco Celeste,15/16,Italy,26955,US Olginatese 
+"Jul 1, 2013",-,Italy,29468,Sassuolo Youth ,296284,-,Gianmarco Celeste,13/14,Italy,19114,Sassuolo 
+"Jan 15, 2016",End of loan,Italy,4146,Pro Patria ,299944,50 Th. €,Alimeyaw Salifu,15/16,Italy,16996,Hellas Verona 
+"Jul 17, 2015",Loan,Italy,16996,Hellas Verona ,299944,25 Th. €,Alimeyaw Salifu,15/16,Italy,4146,Pro Patria 
+"Jul 1, 2013",-,Italy,515,Unattached ,299944,-,Alimeyaw Salifu,13/14,,16996,Hellas Verona 
+"Jul 1, 2015",-,Italy,20106,Cesena ,301237,200 Th. €,Nicola Dalmonte,15/16,Italy,1429,AC Cesena 
+"Jul 1, 2014",-,Italy,14892,Cesena Youth ,301237,-,Nicola Dalmonte,14/15,Italy,20106,Cesena 
+"Jul 1, 2014",-,Italy,28874,Udinese Youth ,301240,-,Samuele Perisan,14/15,Italy,10959,Udinese U19 
+"Jun 30, 2016",End of loan,Italy,4553,Pergolettese ,305493,50 Th. €,Armando Prisco,15/16,Italy,8517,FC Genoa 
+"Aug 10, 2015",Loan,Italy,8517,FC Genoa ,305493,50 Th. €,Armando Prisco,15/16,Italy,4553,Pergolettese 
+"Jul 1, 2014",-,Italy,29349,Genoa Youth ,305493,-,Armando Prisco,14/15,Italy,8517,FC Genoa 
+"Jun 30, 2016",End of loan,Italy,2921,Pescara ,308279,"2,00 Mill. €",Rolando Mandragora,15/16,Italy,506,Juventus 
+"Jan 20, 2016",Loan,Italy,506,Juventus ,308279,"2,00 Mill. €",Rolando Mandragora,15/16,Italy,2921,Pescara 
+"Jan 19, 2016","6,00 Mill. €",Italy,252,Genoa ,308279,"2,00 Mill. €",Rolando Mandragora,15/16,Italy,506,Juventus 
+"Jan 18, 2016",End of loan,Italy,2921,Pescara ,308279,"2,00 Mill. €",Rolando Mandragora,15/16,Italy,252,Genoa 
+"Jul 24, 2015",Loan,Italy,252,Genoa ,308279,800 Th. €,Rolando Mandragora,15/16,Italy,2921,Pescara 
+"Jul 1, 2014",-,Italy,29349,Genoa Youth ,308279,-,Rolando Mandragora,14/15,Italy,252,Genoa 
+"Dec 1, 2011",?,Italy,40912,Mariano Keller ,308279,-,Rolando Mandragora,11/12,Italy,29349,Genoa Youth 
+"Jul 15, 2015",Free transfer,Italy,5243,Parma U19 ,312341,50 Th. €,Luca Ravanelli,15/16,Italy,19114,Sassuolo 
+"Jul 1, 2014",-,Italy,25804,Parma Youth ,312341,-,Luca Ravanelli,14/15,Italy,5243,Parma U19 
+"Jul 1, 2014",-,Italy,29349,Genoa Youth ,312773,-,Daniele Sommariva,14/15,Italy,252,Genoa 
+"Jul 1, 2014",-,Italy,29349,Genoa Youth ,313477,-,Paolo Ghiglione,14/15,Italy,8517,FC Genoa 
+"Aug 1, 2012",?,Italy,25828,Milan Youth ,313477,-,Paolo Ghiglione,12/13,Italy,29349,Genoa Youth 
+"Jun 30, 2012",End of loan,Italy,29538,AC Pavia Jugend ,313477,-,Paolo Ghiglione,11/12,Italy,25828,Milan Youth 
+"Jan 1, 2012",Loan,Italy,25828,Milan Youth ,313477,-,Paolo Ghiglione,11/12,Italy,29538,AC Pavia Jugend 
+"Aug 1, 2007",?,Italy,27353,Derthona Jun. ,313477,-,Paolo Ghiglione,07/08,Italy,25828,Milan Youth 
+"Jul 1, 2015",-,Italy,20106,Cesena ,314369,100 Th. €,Matteo Gasperi,15/16,Italy,1429,AC Cesena 
+"Jul 1, 2014",-,Italy,14892,Cesena Youth ,314369,-,Matteo Gasperi,14/15,Italy,20106,Cesena 
+"Jun 30, 2016",End of loan,Italy,20106,Cesena ,314468,75 Th. €,Andrea Mandelli,15/16,Italy,19114,Sassuolo 
+"Aug 31, 2015",Loan,Italy,19114,Sassuolo ,314468,75 Th. €,Andrea Mandelli,15/16,Italy,20106,Cesena 
+"Jul 1, 2014",-,Italy,29468,Sassuolo Youth ,314468,-,Andrea Mandelli,14/15,Italy,19114,Sassuolo 
+"Jul 1, 2015",-,Italy,10958,AC Milan U19 ,315858,500 Th. €,Gianluigi Donnarumma,15/16,Italy,5,AC Milan 
+"Jul 1, 2014",-,Italy,25828,Milan Youth ,315858,-,Gianluigi Donnarumma,14/15,Italy,10958,AC Milan U19 
+"Jun 30, 2016",End of loan,Italy,408,Ascoli ,319160,250 Th. €,Jakub Jankto,15/16,Italy,410,Udinese Calcio 
+"Jul 27, 2015",Loan,Italy,10959,Udinese U19 ,319160,100 Th. €,Jakub Jankto,15/16,Italy,408,Ascoli 
+"Jul 16, 2014",?,Czech Republic,14340,SK Slavia Prag U19 ,319160,-,Jakub Jankto,14/15,Italy,10959,Udinese U19 
+"Jul 1, 2014",-,Italy,29349,Genoa Youth ,320426,-,Andrea Gulli,14/15,Italy,8517,FC Genoa 
+"Feb 1, 2016",End of loan,Italy,2331,Avellino ,334723,75 Th. €,Nicolas Napol,15/16,Italy,11998,Atalanta 
+"Aug 31, 2015",Loan,Italy,800,Atalanta ,334723,75 Th. €,Nicolas Napol,15/16,Italy,2331,Avellino 
+"Jul 22, 2014",?,France,11605,FC Lorient U19 ,334723,-,Nicolas Napol,14/15,Italy,11998,Atalanta 
+"Apr 1, 2015",-,Italy,5380,Inter ,336704,75 Th. €,Assane Gnoukouri,14/15,Italy,46,Inter 
+"Aug 1, 2014",?,Italy,44884,AltoVicentino ,336704,-,Assane Gnoukouri,14/15,Italy,5380,Inter 
+"Jul 1, 2014",-,Italy,38451,Marano ,336704,-,Assane Gnoukouri,14/15,Italy,44884,AltoVicentino 
+"Dec 1, 2013",-,Italy,515,Unattached ,336704,-,Assane Gnoukouri,13/14,,38451,Marano 
+"Jul 1, 2014",-,Italy,14920,Hellas Youth ,337135,-,Alessandro Salvetti,14/15,Italy,16996,Hellas Verona 
+"Jun 30, 2016",End of loan,Italy,4084,Cittadella ,337310,150 Th. €,Lamin Jallow,15/16,Italy,862,Chievo Verona 
+"Jul 24, 2015",Loan,Italy,14845,AC Chievo ,337310,50 Th. €,Lamin Jallow,15/16,Italy,4084,Cittadella 
+"Jul 1, 2014",?,The Gambia,2871,Real de Banjul ,337310,-,Lamin Jallow,14/15,Italy,14845,AC Chievo 
+"Dec 1, 2013",?,The Gambia,25884,Bakau Utd. ,337310,-,Lamin Jallow,13/14,The Gambia,2871,Real de Banjul 
+"Jul 1, 2014",-,Italy,49746,Torino U17 ,340070,-,Simone Edera,14/15,Italy,12130,FC Turin 
+"Jul 1, 2013",-,Italy,29351,Torino Youth ,340070,-,Simone Edera,13/14,Italy,49746,Torino U17 
+"Jul 15, 2015",Free transfer,Italy,5243,Parma U19 ,340075,125 Th. €,Jérémie Broh,15/16,Italy,19114,Sassuolo 
+"Jul 1, 2014",-,Italy,25804,Parma Youth ,340075,-,Jérémie Broh,14/15,Italy,5243,Parma U19 
+"Jun 30, 2016",End of loan,Italy,4326,AS Gubbio ,340265,25 Th. €,Giacomo Volpe,15/16,Italy,506,Juventus 
+"Jul 24, 2015",Loan,Italy,506,Juventus ,340265,25 Th. €,Giacomo Volpe,15/16,Italy,4326,AS Gubbio 
+"Jul 1, 2015",?,Italy,4326,AS Gubbio ,340265,25 Th. €,Giacomo Volpe,15/16,Italy,27568,Gavorrano 
+"Jun 30, 2015",End of loan,Italy,38561,Correggese ,340265,25 Th. €,Giacomo Volpe,14/15,Italy,506,Juventus 
+"Jan 16, 2015",Loan,Italy,11008,Juventus U19 ,340265,25 Th. €,Giacomo Volpe,14/15,Italy,38561,Correggese 
+"Jun 30, 2014",End of loan,Italy,26817,Barletta U19 ,340265,-,Giacomo Volpe,13/14,Italy,11008,Juventus U19 
+"Sep 3, 2013",Loan,Italy,5232,Juventus Youth ,340265,-,Giacomo Volpe,13/14,Italy,26817,Barletta U19 
+"Jun 30, 2016",End of loan,Italy,39368,Pinerolo ,340289,75 Th. €,Alessandro Dalmasso,15/16,Italy,12130,FC Turin 
+"Jul 20, 2015",Loan,Italy,12130,FC Turin ,340289,75 Th. €,Alessandro Dalmasso,15/16,Italy,39368,Pinerolo 
+"Jul 1, 2014",-,Italy,29351,Torino Youth ,340289,-,Alessandro Dalmasso,14/15,Italy,12130,FC Turin 
+"Feb 2, 2015",Free transfer,Portugal,10283,Sporting U19 ,340538,-,José Correia,14/15,Italy,5380,Inter 
+"Jul 1, 2014",Free transfer,Portugal,12956,Real Sport Clube ,340538,-,José Correia,14/15,Portugal,10283,Sporting U19 
+"Sep 11, 2014",?,Croatia,14446,NK Zagreb U19 ,340700,50 Th. €,Ivan Prtajin,14/15,Italy,10959,Udinese U19 
+"Jul 1, 2013",-,Croatia,36357,NK Zagreb U17 ,340700,-,Ivan Prtajin,13/14,Croatia,14446,NK Zagreb U19 
+"Aug 17, 2012",?,Croatia,25246,NK Tresnjevka ,340700,-,Ivan Prtajin,12/13,Croatia,36357,NK Zagreb U17 
+"Sep 2, 2011",?,Croatia,41637,NK Arbanasi ,340700,-,Ivan Prtajin,11/12,Croatia,25246,NK Tresnjevka 
+"Aug 10, 2015",gratuito,Italy,515,Unattached ,341133,50 Th. €,Ismael Taider ,15/16,,27623,Latina 
+"Jul 1, 2015",-,Italy,5243,Parma U19 ,341133,50 Th. €,Ismael Taider ,15/16,,515,Unattached 
+"Jul 1, 2014",-,Italy,25804,Parma Youth ,341133,-,Ismael Taider ,14/15,Italy,5243,Parma U19 
+"Jul 1, 2015",Free transfer,Italy,5243,Parma U19 ,341134,50 Th. €,Riccardo Bertozzi,15/16,Italy,38290,Pro Piacenza 
+"Jun 30, 2014",End of loan,Italy,1408,Piacenza ,341134,-,Riccardo Bertozzi,13/14,Italy,5243,Parma U19 
+"Jul 1, 2013",Loan,Italy,5243,Parma U19 ,341134,-,Riccardo Bertozzi,13/14,Italy,1408,Piacenza 
+"Jul 1, 2015",-,Italy,14431,Empoli Youth ,356009,-,Alessandro Giacomel,15/16,Italy,8492,Empoli 
+"Jul 8, 2015",Free transfer,Italy,25804,Parma Youth ,357003,-,Martin Erlic,15/16,Italy,19114,Sassuolo 
+"Sep 16, 2014",?,Croatia,36345,HNK Rijeka U17 ,357003,-,Martin Erlic,14/15,Italy,25804,Parma Youth 
+"Jul 1, 2013",-,Croatia,36361,HNK Rijeka Jgd ,357003,-,Martin Erlic,13/14,Croatia,36345,HNK Rijeka U17 
+"Aug 17, 2012",?,Croatia,36341,D. Zagreb Jgd. ,357003,-,Martin Erlic,12/13,Croatia,36361,HNK Rijeka Jgd 

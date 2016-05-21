@@ -1,0 +1,932 @@
+date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jul 1, 2014",,-,Germany,41,Hamburger SV ,1122,200 Th. €,Sven Neuhaus,14/15,,123,End of career 
+"Aug 25, 2011",,Free transfer,Germany,23826,RB Leipzig ,1122,300 Th. €,Sven Neuhaus,11/12,Germany,41,Hamburger SV 
+"Jul 20, 2009",,Free transfer,Germany,167,FC Augsburg ,1122,900 Th. €,Sven Neuhaus,09/10,Germany,23826,RB Leipzig 
+"Jul 1, 2006",,Free transfer,Germany,65,Greuther Fürth ,1122,350 Th. €,Sven Neuhaus,06/07,Germany,167,FC Augsburg 
+"Jul 1, 2001",,Free transfer,Germany,38,F. Düsseldorf ,1122,-,Sven Neuhaus,01/02,Germany,65,Greuther Fürth 
+"Jul 1, 1999",,-,Germany,4690,F. Düsseldorf II ,1122,-,Sven Neuhaus,99/00,Germany,38,F. Düsseldorf 
+"Jul 1, 1996",,-,Germany,6675,Düsseldorf U19 ,1122,-,Sven Neuhaus,96/97,Germany,4690,F. Düsseldorf II 
+"Jul 1, 1995",,-,Germany,23005,Düsseldorf U17 ,1122,-,Sven Neuhaus,95/96,Germany,6675,Düsseldorf U19 
+"Jan 18, 2012",,300 Th. €,Slovakia,540,Slo. Bratislava ,10885,600 Th. €,Karim Guédé,11/12,Germany,60,SC Freiburg 
+"Jan 1, 2010",,Free transfer,Slovakia,2781,Petrzalka ,10885,400 Th. €,Karim Guédé,09/10,Slovakia,540,Slo. Bratislava 
+"Aug 2, 2006",,Free transfer,Germany,389,Hamburger SV II ,10885,200 Th. €,Karim Guédé,06/07,Slovakia,2781,Artmedia Brat. 
+"Feb 1, 2005",,Free transfer,Germany,1054,SC Concordia ,10885,50 Th. €,Karim Guédé,04/05,Germany,389,Hamburger SV II 
+"Jan 1, 2004",,-,Germany,3374,Concordia U19 ,10885,-,Karim Guédé,03/04,Germany,1054,SC Concordia 
+"Aug 1, 2002",,Free transfer,Germany,21062,St. Pauli U17 ,10885,-,Karim Guédé,02/03,Germany,3374,Concordia U19 
+"Jul 1, 2000",,-,Germany,29107,St. Pauli Youth ,10885,-,Karim Guédé,00/01,Germany,21062,St. Pauli U17 
+"Jul 1, 1996",,Free transfer,Germany,39063,SC Hamm 02 Jgd. ,10885,-,Karim Guédé,96/97,Germany,29107,St. Pauli Youth 
+"Jul 1, 2014",,Free transfer,Germany,25,Energie Cottbus ,18654,200 Th. €,Daniel Brinkmann,14/15,Germany,10,Arm. Bielefeld 
+"Jul 1, 2012",,Free transfer,Germany,167,FC Augsburg ,18654,500 Th. €,Daniel Brinkmann,12/13,Germany,25,Energie Cottbus 
+"Jul 1, 2009",,100 Th. €,Germany,8,Alem. Aachen ,18654,600 Th. €,Daniel Brinkmann,09/10,Germany,167,FC Augsburg 
+"Jan 1, 2008",,-,Germany,515,Unattached ,18654,400 Th. €,Daniel Brinkmann,07/08,,8,Alem. Aachen 
+"Oct 1, 2007",,-,Germany,127,SC Paderborn ,18654,700 Th. €,Daniel Brinkmann,07/08,,515,Unattached 
+"Jul 1, 2005",,-,Germany,8312,Paderborn U19 ,18654,50 Th. €,Daniel Brinkmann,05/06,Germany,127,SC Paderborn 
+"Jul 1, 2003",,-,Germany,32312,Paderborn U17 ,18654,-,Daniel Brinkmann,03/04,Germany,8312,Paderborn U19 
+"Sep 1, 2014",,"1,30 Mill. €",Germany,41,Hamburger SV ,18918,"3,50 Mill. €",Per Ciljan Skjelbred,14/15,Germany,44,Hertha BSC 
+"Jun 30, 2014",,End of loan,Germany,44,Hertha BSC ,18918,"3,50 Mill. €",Per Ciljan Skjelbred,13/14,Germany,41,Hamburger SV 
+"Sep 2, 2013",,Loan,Germany,41,Hamburger SV ,18918,"2,50 Mill. €",Per Ciljan Skjelbred,13/14,Germany,44,Hertha BSC 
+"Aug 1, 2011",,500 Th. €,Norway,195,Rosenborg BK ,18918,"2,30 Mill. €",Per Ciljan Skjelbred,11/12,Germany,41,Hamburger SV 
+"Jan 1, 2004",,-,Norway,12847,RBK U19 ,18918,-,Per Ciljan Skjelbred,03/04,Norway,195,Rosenborg BK 
+,'NoneType' object has no attribute 'find_all',,,,,19305,,,,,,
+"Jul 1, 2014",,Free transfer,Germany,39,1.FSV Mainz 05 ,21227,"1,25 Mill. €",Zdenek Pospech,14/15,Czech Republic,479,SFC Opava 
+"Jul 1, 2011",,Free transfer,Denmark,190,FC Copenhagen ,21227,"2,00 Mill. €",Zdenek Pospech,11/12,Germany,39,1.FSV Mainz 05 
+"Jan 23, 2008",,"1,85 Mill. €",Czech Republic,197,Sparta Praha ,21227,"1,00 Mill. €",Zdenek Pospech,07/08,Denmark,190,FC Copenhagen 
+"Jul 1, 2005",,700 Th. €,Czech Republic,377,Banik Ostrava ,21227,-,Zdenek Pospech,05/06,Czech Republic,197,Sparta Praha 
+"Jul 3, 2001",,Free transfer,Czech Republic,479,SFC Opava ,21227,-,Zdenek Pospech,01/02,Czech Republic,377,Banik Ostrava 
+"Jun 30, 1999",,End of loan,Czech Republic,804,Fotbal Trinec ,21227,-,Zdenek Pospech,98/99,Czech Republic,479,SFC Opava 
+"Jul 1, 1998",,Loan,Czech Republic,479,SFC Opava ,21227,-,Zdenek Pospech,98/99,Czech Republic,804,Fotbal Trinec 
+"Jun 30, 1998",,End of loan,Czech Republic,13724,Dukla Hranice ,21227,-,Zdenek Pospech,97/98,Czech Republic,479,SFC Opava 
+"Jul 1, 1997",,Loan,Czech Republic,479,SFC Opava ,21227,-,Zdenek Pospech,97/98,Czech Republic,13724,Dukla Hranice 
+"Jul 1, 1996",,-,Czech Republic,15788,Slezsky FC Opava U19 ,21227,-,Zdenek Pospech,96/97,Czech Republic,479,SFC Opava 
+"Jul 1, 2008",,Free transfer,Germany,113,Carl Zeiss Jena ,26878,600 Th. €,Tobias Werner,08/09,Germany,167,FC Augsburg 
+"Jul 1, 2004",,-,Germany,8663,CZ Jena U19 ,26878,-,Tobias Werner,04/05,Germany,113,Carl Zeiss Jena 
+"Jul 1, 2002",,-,Germany,23928,CZ Jena U17 ,26878,-,Tobias Werner,02/03,Germany,8663,CZ Jena U19 
+"Jul 1, 2000",,-,Germany,17385,CZ Jena Jgd. ,26878,-,Tobias Werner,00/01,Germany,23928,CZ Jena U17 
+"Jan 27, 2012",,800 Th. â‚¬,Austria,14,Austria Vienna ,31007,"2,50 Mill. â‚¬",Zlatko Junuzovic,11/12,Germany,86,Werder Bremen 
+"Jul 1, 2009",,Free transfer,Austria,11609,Austria KÃ¤rnten ,31007,"1,00 Mill. â‚¬",Zlatko Junuzovic,09/10,Austria,14,Austria Vienna 
+"Jul 1, 2007",,Free transfer,Austria,316,Grazer AK ,31007,"1,20 Mill. â‚¬",Zlatko Junuzovic,07/08,Austria,11609,Austria KÃ¤rnten 
+"Jul 1, 2004",,-,Austria,8575,AKA GAK U19 ,31007,-,Zlatko Junuzovic,04/05,Austria,316,Grazer AK 
+"Oct 1, 1999",,Free transfer,Austria,30911,VÃ¶lkermarkt Jgd ,31007,-,Zlatko Junuzovic,99/00,Austria,8575,AKA GAK U19 
+"Mar 1, 1999",,?,Austria,30905,KÃ¼hnsdorf Jgd. ,31007,-,Zlatko Junuzovic,98/99,Austria,30911,VÃ¶lkermarkt Jgd 
+"Jul 1, 2014",,Free transfer,Germany,5379,FC Augsburg II ,32713,100 Th. €,Moritz Nebel,14/15,Germany,1468,FV Illertissen 
+"Jul 1, 2012",,-,Germany,167,FC Augsburg ,32713,100 Th. €,Moritz Nebel,12/13,Germany,5379,FC Augsburg II 
+"Jul 1, 2010",,-,Germany,4780,FC Augsburg U19 ,32713,100 Th. €,Moritz Nebel,10/11,Germany,167,FC Augsburg 
+"Jul 1, 2008",,-,Germany,29176,FC Augsburg U17 ,32713,-,Moritz Nebel,08/09,Germany,4780,FC Augsburg U19 
+"Jul 1, 2006",,-,Germany,28103,Augsburg Jgd. ,32713,-,Moritz Nebel,06/07,Germany,29176,FC Augsburg U17 
+"Feb 1, 2016",,Free transfer,Turkey,449,Trabzonspor ,34753,"1,50 Mill. €",Deniz Yilmaz,15/16,Turkey,20,Bursaspor 
+"Jul 1, 2014",,"1,80 Mill. €",Turkey,2292,Elazigspor  ,34753,"1,60 Mill. €",Deniz Yilmaz,14/15,Turkey,449,Trabzonspor 
+"Aug 13, 2013",,250 Th. €,Germany,39,1.FSV Mainz 05 ,34753,500 Th. €,Deniz Yilmaz,13/14,Turkey,2292,Elazigspor  
+"Jun 30, 2013",,End of loan,Germany,127,SC Paderborn ,34753,500 Th. €,Deniz Yilmaz,12/13,Germany,39,1.FSV Mainz 05 
+"Jul 31, 2012",,Loan fee:50 Th. €,Germany,39,1.FSV Mainz 05 ,34753,300 Th. €,Deniz Yilmaz,12/13,Germany,127,SC Paderborn 
+"Jul 1, 2011",,Free transfer,Germany,28,FC Bayern II ,34753,700 Th. €,Deniz Yilmaz,11/12,Germany,39,1.FSV Mainz 05 
+"Jul 1, 2007",,-,Germany,1462,FC Bayern U19 ,34753,75 Th. €,Deniz Yilmaz,07/08,Germany,28,FC Bayern II 
+"Jul 1, 2005",,Free transfer,Germany,21078,SSV Ulm U17 ,34753,-,Deniz Yilmaz,05/06,Germany,1462,FC Bayern U19 
+"Jul 1, 2003",,-,Germany,19452,SSV Ulm Jgd. ,34753,-,Deniz Yilmaz,03/04,Germany,21078,SSV Ulm U17 
+"Jul 1, 2016",,"4,00 Mill. €",Germany,39,1.FSV Mainz 05 ,34787,"4,00 Mill. €",Julian Baumgartlinger,16/17,Germany,15,Bay. Leverkusen 
+"Jul 1, 2011",,"1,10 Mill. €",Austria,14,Austria Vienna ,34787,"2,25 Mill. €",Julian Baumgartlinger,11/12,Germany,39,1.FSV Mainz 05 
+"Jul 1, 2009",,200 Th. €,Germany,72,1860 Munich ,34787,350 Th. €,Julian Baumgartlinger,09/10,Austria,14,Austria Vienna 
+"Jul 1, 2007",,-,Germany,2510,TSV 1860 U19 ,34787,-,Julian Baumgartlinger,07/08,Germany,72,1860 Munich 
+"Jul 1, 2005",,-,Germany,21083,TSV 1860 U17 ,34787,-,Julian Baumgartlinger,05/06,Germany,2510,TSV 1860 U19 
+"Jul 1, 2003",,-,Germany,18929,TSV 1860 Jgd. ,34787,-,Julian Baumgartlinger,03/04,Germany,21083,TSV 1860 U17 
+"Jul 1, 2001",,?,Austria,30909,USC Mattsee Jugend ,34787,-,Julian Baumgartlinger,01/02,Germany,18929,TSV 1860 Jgd. 
+"Jul 1, 2012",,800 Th. €,Germany,2,1.FC K'lautern ,36200,"1,25 Mill. €",Olcay Sahan,12/13,Turkey,114,Besiktas 
+"Jul 1, 2011",,Free transfer,Germany,52,MSV Duisburg ,36200,"1,50 Mill. €",Olcay Sahan,11/12,Germany,2,1.FC K'lautern 
+"Jul 1, 2008",,Free transfer,Germany,1006,M'gladbach II ,36200,100 Th. €,Olcay Sahan,08/09,Germany,52,MSV Duisburg 
+"Jul 1, 2006",,-,Germany,4121,M'gladbach U19 ,36200,75 Th. €,Olcay Sahan,06/07,Germany,1006,M'gladbach II 
+"Jul 1, 2004",,Free transfer,Germany,21054,Leverkusen U17 ,36200,-,Olcay Sahan,04/05,Germany,4121,M'gladbach U19 
+"Jul 1, 2002",,-,Germany,11874,Leverkusen Yth. ,36200,-,Olcay Sahan,02/03,Germany,21054,Leverkusen U17 
+"Jul 1, 2001",,Free transfer,Germany,11955,Düsseldorf Jgd. ,36200,-,Olcay Sahan,01/02,Germany,11874,Leverkusen Yth. 
+"Jul 1, 2013",,Free transfer,Germany,476,TSV Havelse ,36348,150 Th. €,Tim Wendel,13/14,Germany,668,SF Lotte 
+"Aug 13, 2012",,Free transfer,Germany,1065,Hannover 96 II ,36348,150 Th. €,Tim Wendel,12/13,Germany,476,TSV Havelse 
+"Jan 1, 2010",,Free transfer,Germany,151,K'lautern II ,36348,100 Th. €,Tim Wendel,09/10,Germany,1065,Hannover 96 II 
+"Jul 1, 2009",,Free transfer,Germany,34,Schalke 04 II ,36348,100 Th. €,Tim Wendel,09/10,Germany,151,K'lautern II 
+"Jul 1, 2008",,-,Germany,1463,Schalke 04 U19 ,36348,-,Tim Wendel,08/09,Germany,34,Schalke 04 II 
+"Jul 1, 2007",,Free transfer,Germany,2758,Duisburg U19 ,36348,-,Tim Wendel,07/08,Germany,1463,Schalke 04 U19 
+"Jul 17, 2015",,Free transfer,England,1071,Wigan ,36787,"1,75 Mill. €",William Kvist,15/16,Denmark,190,FC Copenhagen 
+"Sep 1, 2014",,Free transfer,Germany,79,VfB Stuttgart ,36787,"3,00 Mill. €",William Kvist,14/15,England,1071,Wigan 
+"Jun 30, 2014",,End of loan,England,931,Fulham FC ,36787,"4,50 Mill. €",William Kvist,13/14,Germany,79,VfB Stuttgart 
+"Jan 30, 2014",,Loan,Germany,79,VfB Stuttgart ,36787,"5,50 Mill. €",William Kvist,13/14,England,931,Fulham FC 
+"Jul 1, 2011",,"3,50 Mill. €",Denmark,190,FC Copenhagen ,36787,"4,00 Mill. €",William Kvist,11/12,Germany,79,VfB Stuttgart 
+"Jul 1, 2005",,-,Denmark,16786,KB (FCK II) ,36787,-,William Kvist,05/06,Denmark,190,FC Copenhagen 
+"Jul 1, 2004",,-,Denmark,16104,Copenhagen U19 ,36787,-,William Kvist,04/05,Denmark,16786,KB (FCK II) 
+"Aug 6, 2014",,"4,50 Mill. €",Germany,39,1.FSV Mainz 05 ,39426,"7,00 Mill. €",Nicolai Müller,14/15,Germany,41,Hamburger SV 
+"Jul 1, 2011",,"1,80 Mill. €",Germany,65,Greuther Fürth ,39426,"2,00 Mill. €",Nicolai Müller,11/12,Germany,39,1.FSV Mainz 05 
+"Jun 30, 2009",,End of loan,Germany,254,SV Sandhausen ,39426,300 Th. €,Nicolai Müller,08/09,Germany,65,Greuther Fürth 
+"Jan 4, 2009",,Loan,Germany,65,Greuther Fürth ,39426,200 Th. €,Nicolai Müller,08/09,Germany,254,SV Sandhausen 
+"Jul 1, 2007",,-,Germany,393,Gr. Fürth II ,39426,-,Nicolai Müller,07/08,Germany,65,Greuther Fürth 
+"Jul 1, 2006",,-,Germany,2612,Gr. Fürth U19 ,39426,-,Nicolai Müller,06/07,Germany,393,Gr. Fürth II 
+"Jul 1, 2004",,-,Germany,21077,Gr. Fürth U17 ,39426,-,Nicolai Müller,04/05,Germany,2612,Gr. Fürth U19 
+"Jul 1, 2003",,Free transfer,Germany,21057,Frankfurt U17 ,39426,-,Nicolai Müller,03/04,Germany,21077,Gr. Fürth U17 
+"Jul 1, 2002",,-,Germany,12016,Frankfurt Jgd. ,39426,-,Nicolai Müller,02/03,Germany,21057,Frankfurt U17 
+"Jul 1, 1998",,Free transfer,Germany,42393,Wernfeld Jgd. ,39426,-,Nicolai Müller,98/99,Germany,12016,Frankfurt Jgd. 
+"Jan 3, 2013",,200 Th. €,Germany,42,Hannover 96 ,41344,800 Th. €,Henning Hauger,12/13,Sweden,1101,IF Elfsborg 
+"Dec 31, 2012",,End of loan,Norway,353,Lilleström SK ,41344,800 Th. €,Henning Hauger,12/13,Germany,42,Hannover 96 
+"Aug 31, 2012",,Loan,Germany,42,Hannover 96 ,41344,"1,00 Mill. €",Henning Hauger,12/13,Norway,353,Lilleström SK 
+"Jul 4, 2011",,450 Th. €,Norway,1274,Stabaek IF ,41344,"1,20 Mill. €",Henning Hauger,11/12,Germany,42,Hannover 96 
+"Jan 1, 2002",,-,Norway,17331,Stabaek IF U19 ,41344,-,Henning Hauger,01/02,Norway,1274,Stabaek IF 
+"Jul 1, 2013",,Free transfer,Germany,80,VfL Bochum ,43817,250 Th. €,Florian Brügmann,13/14,Germany,440,Hallescher FC 
+"Jul 1, 2012",,Free transfer,Germany,389,Hamburger SV II ,43817,150 Th. €,Florian Brügmann,12/13,Germany,80,VfL Bochum 
+"Jul 1, 2010",,-,Germany,2509,Hamburg U19 ,43817,50 Th. €,Florian Brügmann,10/11,Germany,389,Hamburger SV II 
+"Aug 1, 2008",,Free transfer,Germany,4052,H. Rostock U19 ,43817,-,Florian Brügmann,08/09,Germany,2509,Hamburg U19 
+"Jul 1, 2008",,-,Germany,21065,H. Rostock U17 ,43817,-,Florian Brügmann,08/09,Germany,4052,H. Rostock U19 
+"Jul 1, 2006",,-,Germany,11846,H. Rostock Yth. ,43817,-,Florian Brügmann,06/07,Germany,21065,H. Rostock U17 
+"Jan 24, 2016",,?,Israel,1064,Maccabi Haifa ,44760,"1,50 Mill. €",Itay Shechter,15/16,Israel,3793,B. Jerusalem 
+"Feb 3, 2015",,Free transfer,France,995,FC Nantes ,44760,"1,50 Mill. €",Itay Shechter,14/15,Israel,1064,Maccabi Haifa 
+"Jul 1, 2014",,420 Th. €,Israel,1017,Hapoel Tel Aviv ,44760,"1,50 Mill. €",Itay Shechter,14/15,France,995,FC Nantes 
+"Jun 30, 2014",,End of loan,France,995,FC Nantes ,44760,"1,50 Mill. €",Itay Shechter,13/14,Israel,1017,Hapoel Tel Aviv 
+"Jan 31, 2014",,Loan,Israel,1017,Hapoel Tel Aviv ,44760,"1,50 Mill. €",Itay Shechter,13/14,France,995,FC Nantes 
+"Jul 1, 2013",,500 Th. €,Germany,2,1.FC K'lautern ,44760,"1,50 Mill. €",Itay Shechter,13/14,Israel,1017,Hapoel Tel Aviv 
+"Jun 30, 2013",,End of loan,England,2288,Swansea ,44760,"1,50 Mill. €",Itay Shechter,12/13,Germany,2,1.FC K'lautern 
+"Aug 15, 2012",,Loan fee:100 Th. €,Germany,2,1.FC K'lautern ,44760,"2,00 Mill. €",Itay Shechter,12/13,England,2288,Swansea 
+"Jul 11, 2011",,"2,50 Mill. €",Israel,1017,Hapoel Tel Aviv ,44760,"3,00 Mill. €",Itay Shechter,11/12,Germany,2,1.FC K'lautern 
+"Jul 1, 2009",,?,Israel,5223,Maccabi Netanya ,44760,-,Itay Shechter,09/10,Israel,1017,Hapoel Tel Aviv 
+"Jul 1, 2006",,Free transfer,Israel,7000,Hap Nazareth I. ,44760,-,Itay Shechter,06/07,Israel,5223,Maccabi Netanya 
+"Jul 1, 2015",,Free transfer,Germany,111,Rot-Weiß Erfurt ,45698,400 Th. €,Andreas Wiegel,15/16,Germany,52,MSV Duisburg 
+"Jul 1, 2014",,Free transfer,Germany,94,Erzgebirge Aue ,45698,250 Th. €,Andreas Wiegel,14/15,Germany,111,Rot-Weiß Erfurt 
+"Jun 30, 2014",,End of loan,Germany,111,Rot-Weiß Erfurt ,45698,250 Th. €,Andreas Wiegel,13/14,Germany,94,Erzgebirge Aue 
+"Aug 31, 2013",,Loan,Germany,94,Erzgebirge Aue ,45698,300 Th. €,Andreas Wiegel,13/14,Germany,111,Rot-Weiß Erfurt 
+"Jul 31, 2012",,Free transfer,Germany,33,FC Schalke 04 ,45698,200 Th. €,Andreas Wiegel,12/13,Germany,94,Erzgebirge Aue 
+"Jul 1, 2011",,-,Germany,34,Schalke 04 II ,45698,50 Th. €,Andreas Wiegel,11/12,Germany,33,FC Schalke 04 
+"Jul 1, 2010",,-,Germany,1463,Schalke 04 U19 ,45698,25 Th. €,Andreas Wiegel,10/11,Germany,34,Schalke 04 II 
+"Jul 1, 2008",,-,Germany,21061,Schalke 04 U17 ,45698,-,Andreas Wiegel,08/09,Germany,1463,Schalke 04 U19 
+"Jul 1, 2006",,Free transfer,Germany,35740,Paderborn Jgd. ,45698,-,Andreas Wiegel,06/07,Germany,21061,Schalke 04 U17 
+"Jul 1, 2015",,"1,60 Mill. €",Belgium,601,KV Kortrijk ,45832,"2,50 Mill. €",Ivan Santini,15/16,Belgium,3057,Standard Liège 
+"Jul 1, 2013",,Free transfer,Croatia,2566,NK Zadar  ,45832,600 Th. €,Ivan Santini,13/14,Belgium,601,KV Kortrijk 
+"Jun 30, 2013",,End of loan,Germany,60,SC Freiburg ,45832,600 Th. €,Ivan Santini,12/13,Croatia,2566,NK Zadar  
+"Jan 1, 2012",,Loan fee:300 Th. €,Croatia,2566,NK Zadar  ,45832,"1,00 Mill. €",Ivan Santini,11/12,Germany,60,SC Freiburg 
+"Aug 1, 2009",,Free transfer,Germany,4795,FC Ingolstadt ,45832,100 Th. €,Ivan Santini,09/10,Croatia,2566,NK Zadar  
+"Feb 1, 2009",,-,Germany,515,Unattached ,45832,-,Ivan Santini,08/09,,4795,FC Ingolstadt 
+"Jul 1, 2008",,-,Austria,11263,Salzburg U19 ,45832,-,Ivan Santini,08/09,,515,Unattached 
+"Jan 1, 2007",,?,Croatia,918,Inter Zapresic ,45832,-,Ivan Santini,06/07,Austria,11263,Salzburg U19 
+"Jul 1, 2006",,Free transfer,Croatia,2566,NK Zadar  ,45832,-,Ivan Santini,06/07,Croatia,918,Inter Zapresic 
+"Jul 1, 2015",,Free transfer,Germany,2036,1.FC Heidenheim ,47942,300 Th. €,Patrick Mayer,15/16,Germany,108,Wehen Wiesbaden 
+"Jul 1, 2012",,Free transfer,Germany,167,FC Augsburg ,47942,500 Th. €,Patrick Mayer,12/13,Germany,2036,1.FC Heidenheim 
+"Jun 30, 2012",,End of loan,Germany,2036,1.FC Heidenheim ,47942,500 Th. €,Patrick Mayer,11/12,Germany,167,FC Augsburg 
+"Jan 4, 2012",,Loan,Germany,167,FC Augsburg ,47942,"1,00 Mill. €",Patrick Mayer,11/12,Germany,2036,1.FC Heidenheim 
+"Jul 1, 2011",,Free transfer,Germany,2036,1.FC Heidenheim ,47942,"1,00 Mill. €",Patrick Mayer,11/12,Germany,167,FC Augsburg 
+"Aug 1, 2009",,Free transfer,Germany,177,E. Frankfurt II ,47942,150 Th. €,Patrick Mayer,09/10,Germany,2036,1.FC Heidenheim 
+"Jul 1, 2008",,Free transfer,Germany,102,Stuttgart II ,47942,100 Th. €,Patrick Mayer,08/09,Germany,177,E. Frankfurt II 
+"Jun 30, 2008",,End of loan,Germany,68,SSV Reutlingen ,47942,100 Th. €,Patrick Mayer,07/08,Germany,102,Stuttgart II 
+"Jan 1, 2008",,Loan,Germany,102,Stuttgart II ,47942,100 Th. €,Patrick Mayer,07/08,Germany,68,SSV Reutlingen 
+"Jul 1, 2007",,-,Germany,2517,Stuttgart U19 ,47942,-,Patrick Mayer,07/08,Germany,102,Stuttgart II 
+"Jul 1, 2015",,Free transfer,Germany,2036,1.FC Heidenheim ,48164,300 Th. €,Patrick Mayer,15/16,Germany,108,Wehen Wiesbaden 
+"Jul 1, 2012",,Free transfer,Germany,167,FC Augsburg ,48164,500 Th. €,Patrick Mayer,12/13,Germany,2036,1.FC Heidenheim 
+"Jun 30, 2012",,End of loan,Germany,2036,1.FC Heidenheim ,48164,500 Th. €,Patrick Mayer,11/12,Germany,167,FC Augsburg 
+"Jan 4, 2012",,Loan,Germany,167,FC Augsburg ,48164,"1,00 Mill. €",Patrick Mayer,11/12,Germany,2036,1.FC Heidenheim 
+"Jul 1, 2011",,Free transfer,Germany,2036,1.FC Heidenheim ,48164,"1,00 Mill. €",Patrick Mayer,11/12,Germany,167,FC Augsburg 
+"Aug 1, 2009",,Free transfer,Germany,177,E. Frankfurt II ,48164,150 Th. €,Patrick Mayer,09/10,Germany,2036,1.FC Heidenheim 
+"Jul 1, 2008",,Free transfer,Germany,102,Stuttgart II ,48164,100 Th. €,Patrick Mayer,08/09,Germany,177,E. Frankfurt II 
+"Jun 30, 2008",,End of loan,Germany,68,SSV Reutlingen ,48164,100 Th. €,Patrick Mayer,07/08,Germany,102,Stuttgart II 
+"Jan 1, 2008",,Loan,Germany,102,Stuttgart II ,48164,100 Th. €,Patrick Mayer,07/08,Germany,68,SSV Reutlingen 
+"Jul 1, 2007",,-,Germany,2517,Stuttgart U19 ,48164,-,Patrick Mayer,07/08,Germany,102,Stuttgart II 
+"Jan 1, 2015",,?,Finland,2688,MYPA ,49270,100 Th. €,Dawda Bah,14/15,Finland,8043,Kokkolan PV 
+"Apr 14, 2014",,-,Finland,515,Unattached ,49270,300 Th. €,Dawda Bah,13/14,,2688,MYPA 
+"Jan 1, 2014",,-,Finland,6251,KuPS ,49270,300 Th. €,Dawda Bah,13/14,,515,Unattached 
+"Mar 8, 2013",,-,Finland,515,Unattached ,49270,300 Th. €,Dawda Bah,12/13,,6251,KuPS 
+"Jan 24, 2013",,-,Germany,167,FC Augsburg ,49270,300 Th. €,Dawda Bah,12/13,,515,Unattached 
+"Aug 1, 2011",,200 Th. €,Finland,1008,HJK Helsinki ,49270,750 Th. €,Dawda Bah,11/12,Germany,167,FC Augsburg 
+"Jul 1, 2007",,?,Finland,8043,Kokkolan PV ,49270,-,Dawda Bah,07/08,Finland,1008,HJK Helsinki 
+"Jul 1, 2005",,Free transfer,The Gambia,9916,Hawks FC ,49270,-,Dawda Bah,05/06,Finland,8043,Kokkolan PV 
+"Jul 1, 2016",,Free transfer,Germany,72,1860 Munich ,50199,300 Th. €,Stephan Hain,16/17,,75,Unknown 
+"Jul 1, 2013",,Free transfer,Germany,167,FC Augsburg ,50199,600 Th. €,Stephan Hain,13/14,Germany,72,1860 Munich 
+"Jul 1, 2008",,-,Germany,5379,FC Augsburg II ,50199,50 Th. €,Stephan Hain,08/09,Germany,167,FC Augsburg 
+"Jul 1, 2007",,Free transfer,Germany,35538,Ruhmannsfe. U19 ,50199,-,Stephan Hain,07/08,Germany,5379,FC Augsburg II 
+"Jul 1, 2014",,150 Th. €,Germany,24,E. Frankfurt ,53602,"1,00 Mill. €",Marvin Bakalorz,14/15,Germany,127,SC Paderborn 
+"Jun 30, 2014",,End of loan,Germany,127,SC Paderborn ,53602,"1,00 Mill. €",Marvin Bakalorz,13/14,Germany,24,E. Frankfurt 
+"Jan 7, 2014",,Loan,Germany,24,E. Frankfurt ,53602,300 Th. €,Marvin Bakalorz,13/14,Germany,127,SC Paderborn 
+"Jul 22, 2013",,75 Th. €,Germany,16,Bor. Dortmund ,53602,200 Th. €,Marvin Bakalorz,13/14,Germany,24,E. Frankfurt 
+"Jul 1, 2011",,-,Germany,17,B. Dortmund II ,53602,100 Th. €,Marvin Bakalorz,11/12,Germany,16,Bor. Dortmund 
+"Jul 1, 2010",,Free transfer,Germany,91,Preußen Münster ,53602,25 Th. €,Marvin Bakalorz,10/11,Germany,17,B. Dortmund II 
+"Jul 1, 2008",,-,Germany,10029,Pr. Münster U19 ,53602,-,Marvin Bakalorz,08/09,Germany,91,Preußen Münster 
+"Jul 1, 2006",,-,Germany,21071,Pr. Münster U17 ,53602,-,Marvin Bakalorz,06/07,Germany,10029,Pr. Münster U19 
+"Jul 1, 2005",,-,Germany,11921,Münster Jgd ,53602,-,Marvin Bakalorz,05/06,Germany,21071,Pr. Münster U17 
+"Jul 1, 2004",,Free transfer,Germany,40051,W. Gemen Jgd. ,53602,-,Marvin Bakalorz,04/05,Germany,11921,Münster Jgd 
+"Aug 12, 2014",,"2,75 Mill. €",Germany,167,FC Augsburg ,53669,"4,50 Mill. €",Matthias Ostrzolek,14/15,Germany,41,Hamburger SV 
+"Jan 1, 2012",,500 Th. €,Germany,80,VfL Bochum ,53669,"1,00 Mill. €",Matthias Ostrzolek,11/12,Germany,167,FC Augsburg 
+"Jan 1, 2011",,-,Germany,446,VfL Bochum II ,53669,25 Th. €,Matthias Ostrzolek,10/11,Germany,80,VfL Bochum 
+"Jul 1, 2009",,-,Germany,3862,VfL Bochum U19 ,53669,-,Matthias Ostrzolek,09/10,Germany,446,VfL Bochum II 
+"Jul 1, 2007",,-,Germany,21085,VfL Bochum U17 ,53669,-,Matthias Ostrzolek,07/08,Germany,3862,VfL Bochum U19 
+"Jul 1, 2005",,-,Germany,11894,VfL Bochum Jgd. ,53669,-,Matthias Ostrzolek,05/06,Germany,21085,VfL Bochum U17 
+"Jul 1, 1997",,Free transfer,Germany,42482,WSV Bochum Jgd. ,53669,-,Matthias Ostrzolek,97/98,Germany,11894,VfL Bochum Jgd. 
+"Jan 11, 2016",,500 Th. €,Poland,4000,Lechia Gdansk ,53719,800 Th. €,Ariel Borysiuk,15/16,Poland,255,Legia Warszawa 
+"Jul 1, 2015",,500 Th. €,Germany,2,1.FC K'lautern ,53719,800 Th. €,Ariel Borysiuk,15/16,Poland,4000,Lechia Gdansk 
+"Jun 30, 2015",,End of loan,Poland,4000,Lechia Gdansk ,53719,800 Th. €,Ariel Borysiuk,14/15,Germany,2,1.FC K'lautern 
+"Jul 1, 2014",,Loan fee:100 Th. €,Germany,2,1.FC K'lautern ,53719,"1,50 Mill. €",Ariel Borysiuk,14/15,Poland,4000,Lechia Gdansk 
+"Jun 30, 2014",,End of loan,Russia,12438,Volga NN ,53719,"1,50 Mill. €",Ariel Borysiuk,13/14,Germany,2,1.FC K'lautern 
+"Jan 30, 2014",,Loan,Germany,2,1.FC K'lautern ,53719,"1,50 Mill. €",Ariel Borysiuk,13/14,Russia,12438,Volga NN 
+"Jan 30, 2012",,"2,00 Mill. €",Poland,255,Legia Warszawa ,53719,"1,60 Mill. €",Ariel Borysiuk,11/12,Germany,2,1.FC K'lautern 
+"Jan 1, 2008",,-,Poland,6628,Legia II ,53719,-,Ariel Borysiuk,07/08,Poland,255,Legia Warszawa 
+"Jan 25, 2016",,-,Switzerland,321,FC Sion ,53808,450 Th. €,Beg Ferati,15/16,,515,Unattached 
+"Dec 31, 2015",,End of loan,Switzerland,2155,FC Biel-Bienne ,53808,450 Th. €,Beg Ferati,15/16,Switzerland,321,FC Sion 
+"Aug 6, 2015",,Loan,Switzerland,321,FC Sion ,53808,450 Th. €,Beg Ferati,15/16,Switzerland,2155,FC Biel-Bienne 
+"Jul 1, 2013",,200 Th. €,Germany,60,SC Freiburg ,53808,400 Th. €,Beg Ferati,13/14,Switzerland,321,FC Sion 
+"Jun 30, 2013",,End of loan,Switzerland,242,FC Winterthur ,53808,400 Th. €,Beg Ferati,12/13,Germany,60,SC Freiburg 
+"Jan 31, 2013",,Loan,Germany,60,SC Freiburg ,53808,500 Th. €,Beg Ferati,12/13,Switzerland,242,FC Winterthur 
+"Jul 1, 2011",,Free transfer,Switzerland,26,FC Basel ,53808,800 Th. €,Beg Ferati,11/12,Germany,60,SC Freiburg 
+"Jan 1, 2008",,Free transfer,Switzerland,2058,Concordia ,53808,100 Th. €,Beg Ferati,07/08,Switzerland,26,FC Basel 
+"Jul 1, 2006",,Free transfer,Switzerland,5299,FC Basel U21 ,53808,-,Beg Ferati,06/07,Switzerland,2058,Concordia 
+"Jul 1, 2005",,-,Switzerland,12604,Own Youth ,53808,-,Beg Ferati,05/06,,5299,FC Basel U21 
+"Jul 5, 2015",,350 Th. €,Germany,44,Hertha BSC ,54846,900 Th. €,Fabian Holland,15/16,Germany,105,SV Darmstadt 98 
+"Jun 30, 2015",,End of loan,Germany,105,SV Darmstadt 98 ,54846,550 Th. €,Fabian Holland,14/15,Germany,44,Hertha BSC 
+"Jul 1, 2014",,Loan fee:250 Th. €,Germany,44,Hertha BSC ,54846,400 Th. €,Fabian Holland,14/15,Germany,105,SV Darmstadt 98 
+"Jul 1, 2012",,-,Germany,45,Hertha BSC II ,54846,250 Th. €,Fabian Holland,11/12,Germany,44,Hertha BSC 
+"Jul 1, 2009",,-,Germany,2827,Hertha BSC U19 ,54846,75 Th. €,Fabian Holland,09/10,Germany,45,Hertha BSC II 
+"Jul 1, 2007",,-,Germany,21066,Hertha BSC U17 ,54846,-,Fabian Holland,07/08,Germany,2827,Hertha BSC U19 
+"Jul 1, 2005",,-,Germany,11844,Hertha BSC Yth. ,54846,-,Fabian Holland,05/06,Germany,21066,Hertha BSC U17 
+"Jul 1, 2015",,"3,50 Mill. €",Germany,60,SC Freiburg ,55114,"3,50 Mill. €",Oliver Sorg,15/16,Germany,42,Hannover 96 
+"Jan 23, 2012",,-,Germany,245,SC Freiburg II ,55114,150 Th. €,Oliver Sorg,11/12,Germany,60,SC Freiburg 
+"Jul 1, 2009",,-,Germany,4042,SC Freiburg U19 ,55114,50 Th. €,Oliver Sorg,09/10,Germany,245,SC Freiburg II 
+"Jul 1, 2007",,-,Germany,21075,SC Freiburg U17 ,55114,-,Oliver Sorg,07/08,Germany,4042,SC Freiburg U19 
+"Jul 1, 2006",,Free transfer,Germany,35346,FC Singen U17 ,55114,-,Oliver Sorg,06/07,Germany,21075,SC Freiburg U17 
+"Jul 1, 2005",,-,Germany,28851,FC Singen Jgd. ,55114,-,Oliver Sorg,05/06,Germany,35346,FC Singen U17 
+"Jul 1, 2003",,Free transfer,Germany,39979,Hegauer FV Jgd. ,55114,-,Oliver Sorg,03/04,Germany,28851,FC Singen Jgd. 
+"Jul 1, 2016",,Free transfer,Germany,2,1.FC K'lautern ,55125,"1,50 Mill. €",Chris Löwe,16/17,England,1110,Huddersfield 
+"Jan 12, 2013",,500 Th. €,Germany,16,Bor. Dortmund ,55125,500 Th. €,Chris Löwe,12/13,Germany,2,1.FC K'lautern 
+"Jul 1, 2011",,225 Th. €,Germany,21,Chemnitzer FC ,55125,200 Th. €,Chris Löwe,11/12,Germany,16,Bor. Dortmund 
+"Jul 1, 2008",,-,Germany,6202,Chemnitz U19 ,55125,-,Chris Löwe,08/09,Germany,21,Chemnitzer FC 
+"Jul 1, 2006",,-,Germany,35237,Chemnitz U17 ,55125,-,Chris Löwe,06/07,Germany,6202,Chemnitz U19 
+"Jul 1, 2004",,-,Germany,28102,Chemnitz Jgd. ,55125,-,Chris Löwe,04/05,Germany,35237,Chemnitz U17 
+"Jul 1, 2016",,"1,30 Mill. â‚¬",Germany,33,FC Schalke 04 ,55510,"4,00 Mill. â‚¬",Marco HÃ¶ger,16/17,Germany,3,1. FC KÃ¶ln 
+"Jul 1, 2011",,"1,50 Mill. â‚¬",Germany,8,Alem. Aachen ,55510,"2,00 Mill. â‚¬",Marco HÃ¶ger,11/12,Germany,33,FC Schalke 04 
+"Jul 1, 2010",,-,Germany,578,Aachen II  ,55510,500 Th. â‚¬,Marco HÃ¶ger,10/11,Germany,8,Alem. Aachen 
+"Jul 1, 2008",,-,Germany,5295,Aachen U19  ,55510,-,Marco HÃ¶ger,08/09,Germany,578,Aachen II  
+"Jul 1, 2006",,-,Germany,21052,Aachen U17  ,55510,-,Marco HÃ¶ger,06/07,Germany,5295,Aachen U19  
+"Jul 1, 2005",,Free transfer,Germany,21054,Leverkusen U17 ,55510,-,Marco HÃ¶ger,05/06,Germany,21052,Aachen U17  
+"Jul 1, 2004",,-,Germany,11874,Leverkusen Yth. ,55510,-,Marco HÃ¶ger,04/05,Germany,21054,Leverkusen U17 
+"Jul 1, 2001",,Free transfer,Germany,42477,HÃ¶henhaus Jgd. ,55510,-,Marco HÃ¶ger,01/02,Germany,11874,Leverkusen Yth. 
+"Feb 1, 2015",,-,Austria,515,Unattached ,55512,700 Th. €,Wilson Kamavuaka,14/15,,122,Sturm Graz 
+"Jul 1, 2014",,-,Belgium,354,KV Mechelen ,55512,700 Th. €,Wilson Kamavuaka,14/15,,515,Unattached 
+"Oct 6, 2013",,-,Belgium,515,Unattached ,55512,450 Th. €,Wilson Kamavuaka,13/14,,354,KV Mechelen 
+"Jul 1, 2013",,-,Germany,4,1.FC Nuremberg ,55512,450 Th. €,Wilson Kamavuaka,13/14,,515,Unattached 
+"Jun 30, 2013",,End of loan,Germany,109,Jahn Regensburg ,55512,450 Th. €,Wilson Kamavuaka,12/13,Germany,4,1.FC Nuremberg 
+"Aug 30, 2012",,Loan,Germany,4,1.FC Nuremberg ,55512,250 Th. €,Wilson Kamavuaka,12/13,Germany,109,Jahn Regensburg 
+"Jul 1, 2011",,Free transfer,Germany,983,Hoffenheim II ,55512,50 Th. €,Wilson Kamavuaka,11/12,Germany,4,1.FC Nuremberg 
+"Jul 1, 2009",,Free transfer,Germany,5295,Aachen U19  ,55512,-,Wilson Kamavuaka,09/10,Germany,983,Hoffenheim II 
+"Jul 1, 2007",,Free transfer,Germany,21048,1.FC Köln U17 ,55512,-,Wilson Kamavuaka,07/08,Germany,5295,Aachen U19  
+"Jul 1, 2005",,-,Germany,11880,1.FC Köln Yth. ,55512,-,Wilson Kamavuaka,05/06,Germany,21048,1.FC Köln U17 
+"Jul 1, 2015",,Free transfer,Germany,52,MSV Duisburg ,56097,-,Deniz Aycicek,15/16,Germany,477,1.FC Wunstorf 
+"Jul 18, 2013",,Free transfer,Germany,42,Hannover 96 ,56097,150 Th. €,Deniz Aycicek,13/14,Germany,52,MSV Duisburg 
+"Jul 1, 2011",,-,Germany,1065,Hannover 96 II ,56097,75 Th. €,Deniz Aycicek,11/12,Germany,42,Hannover 96 
+"Jul 1, 2009",,-,Germany,2663,Hannover 96 U19 ,56097,-,Deniz Aycicek,09/10,Germany,1065,Hannover 96 II 
+"Jul 1, 2007",,-,Germany,21064,Hannover 96 U17 ,56097,-,Deniz Aycicek,07/08,Germany,2663,Hannover 96 U19 
+"Jul 1, 2005",,-,Germany,17295,Hannover Yth. ,56097,-,Deniz Aycicek,05/06,Germany,21064,Hannover 96 U17 
+"Jul 29, 2015",,?,Switzerland,61,Servette FC ,57683,350 Th. €,Niklas Dams,15/16,Germany,108,Wehen Wiesbaden 
+"Jul 1, 2013",,Free transfer,Germany,18,Bor. M'gladbach ,57683,150 Th. €,Niklas Dams,13/14,Switzerland,61,Servette FC 
+"Jul 1, 2011",,-,Germany,1006,M'gladbach II ,57683,150 Th. €,Niklas Dams,11/12,Germany,18,Bor. M'gladbach 
+"Jul 1, 2009",,-,Germany,4121,M'gladbach U19 ,57683,-,Niklas Dams,09/10,Germany,1006,M'gladbach II 
+"Jul 1, 2007",,-,Germany,21056,M'gladbach U17 ,57683,-,Niklas Dams,07/08,Germany,4121,M'gladbach U19 
+"Jul 1, 2005",,-,Germany,11845,M'gladbach Yth. ,57683,-,Niklas Dams,05/06,Germany,21056,M'gladbach U17 
+"Jul 1, 2003",,Free transfer,Germany,11955,Düsseldorf Jgd. ,57683,-,Niklas Dams,03/04,Germany,11845,M'gladbach Yth. 
+"Jul 1, 2016",,Free transfer,Germany,533,TSG Hoffenheim ,57845,"2,00 Mill. €",Tobias Strobl,16/17,Germany,18,Bor. M'gladbach 
+"Jul 1, 2013",,-,Germany,983,Hoffenheim II ,57845,750 Th. €,Tobias Strobl,13/14,Germany,533,TSG Hoffenheim 
+"Jun 30, 2013",,End of loan,Germany,3,1. FC Köln ,57845,750 Th. €,Tobias Strobl,12/13,Germany,983,Hoffenheim II 
+"Jul 1, 2012",,Loan fee:50 Th. €,Germany,983,Hoffenheim II ,57845,250 Th. €,Tobias Strobl,12/13,Germany,3,1. FC Köln 
+"Jul 1, 2011",,?,Germany,73,1860 München II ,57845,125 Th. €,Tobias Strobl,11/12,Germany,983,Hoffenheim II 
+"Jul 1, 2009",,-,Germany,2510,TSV 1860 U19 ,57845,-,Tobias Strobl,09/10,Germany,73,1860 München II 
+"Jul 1, 2007",,-,Germany,21083,TSV 1860 U17 ,57845,-,Tobias Strobl,07/08,Germany,2510,TSV 1860 U19 
+"Jul 1, 2005",,-,Germany,18929,TSV 1860 Jgd. ,57845,-,Tobias Strobl,05/06,Germany,21083,TSV 1860 U17 
+"Jul 1, 2000",,Free transfer,Germany,47091,SV Aubing Jgd. ,57845,-,Tobias Strobl,00/01,Germany,18929,TSV 1860 Jgd. 
+"Jul 1, 2015",,Free transfer,Germany,111,Rot-Weiß Erfurt ,57977,300 Th. €,Simon Brandstetter,15/16,Germany,52,MSV Duisburg 
+"Jul 1, 2013",,Free transfer,Germany,60,SC Freiburg ,57977,150 Th. €,Simon Brandstetter,13/14,Germany,111,Rot-Weiß Erfurt 
+"Jun 30, 2013",,End of loan,Germany,48,Karlsruher SC ,57977,150 Th. €,Simon Brandstetter,12/13,Germany,60,SC Freiburg 
+"Jul 1, 2012",,Loan,Germany,60,SC Freiburg ,57977,200 Th. €,Simon Brandstetter,12/13,Germany,48,Karlsruher SC 
+"Jul 1, 2011",,-,Germany,245,SC Freiburg II ,57977,200 Th. €,Simon Brandstetter,11/12,Germany,60,SC Freiburg 
+"Jul 1, 2009",,Free transfer,Germany,6760,St. Kickers U19 ,57977,-,Simon Brandstetter,09/10,Germany,245,SC Freiburg II 
+"Jul 1, 2007",,-,Germany,26561,St. Kickers U17 ,57977,-,Simon Brandstetter,07/08,Germany,6760,St. Kickers U19 
+"Jul 1, 2006",,Free transfer,Germany,31739,Kirchheim U17 ,57977,-,Simon Brandstetter,06/07,Germany,26561,St. Kickers U17 
+"Jul 1, 2005",,Free transfer,Germany,19210,Stuttgart Jgd. ,57977,-,Simon Brandstetter,05/06,Germany,31739,Kirchheim U17 
+"Jul 1, 2014",,75 Th. €,Netherlands,467,NEC Nijmegen ,58030,500 Th. €,Christoph Hemlein,14/15,Germany,10,Arm. Bielefeld 
+"Jul 1, 2013",,Free transfer,Germany,102,Stuttgart II ,58030,300 Th. €,Christoph Hemlein,13/14,Netherlands,467,NEC Nijmegen 
+"Jul 1, 2011",,Free transfer,Germany,983,Hoffenheim II ,58030,75 Th. €,Christoph Hemlein,11/12,Germany,102,Stuttgart II 
+"Jul 1, 2009",,-,Germany,8925,Hoffenheim U19 ,58030,-,Christoph Hemlein,09/10,Germany,983,Hoffenheim II 
+"Jul 1, 2013",,Free transfer,Germany,44,Hertha BSC ,58500,500 Th. €,Alfredo Morales,13/14,Germany,4795,FC Ingolstadt 
+"Jan 1, 2011",,-,Germany,45,Hertha BSC II ,58500,150 Th. €,Alfredo Morales,10/11,Germany,44,Hertha BSC 
+"Jul 1, 2009",,-,Germany,2827,Hertha BSC U19 ,58500,50 Th. €,Alfredo Morales,09/10,Germany,45,Hertha BSC II 
+"Jul 1, 2007",,-,Germany,21066,Hertha BSC U17 ,58500,-,Alfredo Morales,07/08,Germany,2827,Hertha BSC U19 
+"Jul 1, 2015",,Free transfer,Germany,4795,FC Ingolstadt ,58806,300 Th. €,André Weis,15/16,Germany,293,FSV Frankfurt 
+"Jul 1, 2013",,200 Th. €,Germany,79,VfB Stuttgart ,58806,500 Th. €,André Weis,13/14,Germany,4795,FC Ingolstadt 
+"Jul 1, 2012",,-,Germany,102,Stuttgart II ,58806,500 Th. €,André Weis,12/13,Germany,79,VfB Stuttgart 
+"Jul 1, 2011",,Free transfer,Germany,996,TuS Koblenz ,58806,100 Th. €,André Weis,11/12,Germany,102,Stuttgart II 
+"Jul 1, 2010",,Free transfer,Germany,96,Wilhelmshaven ,58806,100 Th. €,André Weis,10/11,Germany,996,TuS Koblenz 
+"Jul 1, 2009",,Free transfer,Germany,6779,TuS Koblenz II ,58806,50 Th. €,André Weis,09/10,Germany,96,Wilhelmshaven 
+"Jul 1, 2008",,-,Germany,7851,TuS Koblenz U19 ,58806,-,André Weis,08/09,Germany,6779,TuS Koblenz II 
+"Jan 17, 2016",,-,Germany,851,FSV Mainz 05 II ,60394,350 Th. €,Philipp Klement,15/16,Germany,39,1.FSV Mainz 05 
+"Aug 4, 2014",,Free transfer,Germany,473,Nürnberg II ,60394,100 Th. €,Philipp Klement,14/15,Germany,851,FSV Mainz 05 II 
+"Jul 1, 2013",,-,Germany,4,1.FC Nuremberg ,60394,125 Th. €,Philipp Klement,13/14,Germany,473,Nürnberg II 
+"Jun 30, 2013",,End of loan,Germany,30,Hansa Rostock ,60394,125 Th. €,Philipp Klement,12/13,Germany,4,1.FC Nuremberg 
+"Jan 9, 2013",,Loan,Germany,4,1.FC Nuremberg ,60394,100 Th. €,Philipp Klement,12/13,Germany,30,Hansa Rostock 
+"Jul 1, 2011",,Free transfer,Germany,2371,K'lautern U19 ,60394,25 Th. €,Philipp Klement,11/12,Germany,4,1.FC Nuremberg 
+"Jul 1, 2009",,-,Germany,21047,K'lautern U17 ,60394,-,Philipp Klement,09/10,Germany,2371,K'lautern U19 
+"Jul 1, 2007",,-,Germany,12015,K'lautern Jgd. ,60394,-,Philipp Klement,07/08,Germany,21047,K'lautern U17 
+"Jul 2, 2015",,"2,30 Mill. â‚¬",Germany,39,1.FSV Mainz 05 ,60957,"1,50 Mill. â‚¬",Sebastian Polter,15/16,England,1039,QPR 
+"Jun 30, 2015",,End of loan,Germany,89,Union Berlin ,60957,"1,20 Mill. â‚¬",Sebastian Polter,14/15,Germany,39,1.FSV Mainz 05 
+"Aug 30, 2014",,Loan,Germany,39,1.FSV Mainz 05 ,60957,"1,00 Mill. â‚¬",Sebastian Polter,14/15,Germany,89,Union Berlin 
+"Jul 1, 2013",,750 Th. â‚¬,Germany,82,VfL Wolfsburg ,60957,"1,50 Mill. â‚¬",Sebastian Polter,13/14,Germany,39,1.FSV Mainz 05 
+"Jun 30, 2013",,End of loan,Germany,4,1.FC Nuremberg ,60957,"1,50 Mill. â‚¬",Sebastian Polter,12/13,Germany,82,VfL Wolfsburg 
+"Jul 1, 2012",,Loan fee:200 Th. â‚¬,Germany,82,VfL Wolfsburg ,60957,800 Th. â‚¬,Sebastian Polter,12/13,Germany,4,1.FC Nuremberg 
+"Jul 1, 2011",,-,Germany,143,Wolfsburg II ,60957,75 Th. â‚¬,Sebastian Polter,11/12,Germany,82,VfL Wolfsburg 
+"Jul 1, 2008",,-,Germany,5343,Wolfsburg U19 ,60957,-,Sebastian Polter,08/09,Germany,143,Wolfsburg II 
+"Jan 1, 2008",,-,Germany,21087,Wolfsburg U17 ,60957,-,Sebastian Polter,07/08,Germany,5343,Wolfsburg U19 
+"Jul 1, 2007",,Free transfer,Germany,22725,Braunschw. U17 ,60957,-,Sebastian Polter,07/08,Germany,21087,Wolfsburg U17 
+"Jul 1, 2006",,Free transfer,Germany,39392,SV Wilhelm. Jgd ,60957,-,Sebastian Polter,06/07,Germany,22725,Braunschw. U17 
+"Jul 1, 2005",,Free transfer,Germany,12012,W. Bremen Youth ,60957,-,Sebastian Polter,05/06,Germany,39392,SV Wilhelm. Jgd 
+"Jul 1, 2004",,Free transfer,Germany,39392,SV Wilhelm. Jgd ,60957,-,Sebastian Polter,04/05,Germany,12012,W. Bremen Youth 
+"Jul 1, 2003",,Free transfer,Germany,45917,HeidmÃ¼hle Jgd. ,60957,-,Sebastian Polter,03/04,Germany,39392,SV Wilhelm. Jgd 
+"Jun 30, 2014",,End of loan,Germany,23,E. Braunschweig ,61087,"2,50 Mill. €",Karim Bellarabi,13/14,Germany,15,Bay. Leverkusen 
+"Aug 21, 2013",,Loan fee:150 Th. €,Germany,15,Bay. Leverkusen ,61087,"2,50 Mill. €",Karim Bellarabi,13/14,Germany,23,E. Braunschweig 
+"Jul 1, 2011",,Free transfer,Germany,23,E. Braunschweig ,61087,"1,00 Mill. €",Karim Bellarabi,11/12,Germany,15,Bay. Leverkusen 
+"Jul 1, 2010",,-,Germany,1212,Braunschweig II ,61087,50 Th. €,Karim Bellarabi,10/11,Germany,23,E. Braunschweig 
+"Jul 1, 2009",,-,Germany,9196,Braunschw. U19 ,61087,-,Karim Bellarabi,09/10,Germany,1212,Braunschweig II 
+"Jul 1, 2008",,Free transfer,Germany,16027,Oberneuland U19 ,61087,-,Karim Bellarabi,08/09,Germany,9196,Braunschw. U19 
+"Jul 1, 2007",,-,Germany,38504,Oberneuland U17 ,61087,-,Karim Bellarabi,07/08,Germany,16027,Oberneuland U19 
+"Jul 1, 2005",,-,Germany,18485,Oberneul. Jgd. ,61087,-,Karim Bellarabi,05/06,Germany,38504,Oberneuland U17 
+"Jul 1, 2004",,Free transfer,Germany,12012,W. Bremen Youth ,61087,-,Karim Bellarabi,04/05,Germany,18485,Oberneul. Jgd. 
+"Jul 1, 1998",,Free transfer,Germany,53610,Huchting Jgd. ,61087,-,Karim Bellarabi,98/99,Germany,12012,W. Bremen Youth 
+"Jun 30, 2016",,End of loan,Germany,4,1.FC Nuremberg ,61591,"1,30 Mill. €",Zoltán Stieber,15/16,Germany,41,Hamburger SV 
+"Jan 18, 2016",,Loan fee:100 Th. €,Germany,41,Hamburger SV ,61591,"1,70 Mill. €",Zoltán Stieber,15/16,Germany,4,1.FC Nuremberg 
+"Jul 1, 2014",,"1,30 Mill. €",Germany,65,Greuther Fürth ,61591,"1,70 Mill. €",Zoltán Stieber,14/15,Germany,41,Hamburger SV 
+"Jul 1, 2012",,900 Th. €,Germany,39,1.FSV Mainz 05 ,61591,"1,25 Mill. €",Zoltán Stieber,12/13,Germany,65,Greuther Fürth 
+"Jul 1, 2011",,900 Th. €,Germany,8,Alem. Aachen ,61591,"2,50 Mill. €",Zoltán Stieber,11/12,Germany,39,1.FSV Mainz 05 
+"Jul 1, 2010",,Free transfer,Germany,996,TuS Koblenz ,61591,700 Th. €,Zoltán Stieber,10/11,Germany,8,Alem. Aachen 
+"Jan 30, 2009",,Free transfer,England,12124,Aston Villa U21 ,61591,-,Zoltán Stieber,08/09,Germany,996,TuS Koblenz 
+"Apr 1, 2008",,End of loan,England,972,Yeovil Town ,61591,-,Zoltán Stieber,07/08,England,12124,Aston Villa U21 
+"Nov 21, 2007",,Loan,England,12124,Aston Villa U21 ,61591,-,Zoltán Stieber,07/08,England,972,Yeovil Town 
+"Jul 1, 2005",,Free transfer,Hungary,15913,Újpest U19 ,61591,-,Zoltán Stieber,05/06,England,12124,Aston Villa U21 
+"Aug 25, 2015",,Free transfer,Germany,41,Hamburger SV ,63737,"1,50 Mill. €",Petr Jirácek,15/16,Czech Republic,197,Sparta Praha 
+"Aug 28, 2012",,"4,00 Mill. €",Germany,82,VfL Wolfsburg ,63737,"6,00 Mill. €",Petr Jirácek,12/13,Germany,41,Hamburger SV 
+"Jan 1, 2012",,"3,50 Mill. €",Czech Republic,941,Viktoria Plzen ,63737,"3,00 Mill. €",Petr Jirácek,11/12,Germany,82,VfL Wolfsburg 
+"Jul 1, 2008",,Free transfer,Czech Republic,11117,Baník Sokolov ,63737,-,Petr Jirácek,08/09,Czech Republic,941,Viktoria Plzen 
+"Jul 1, 2005",,-,Czech Republic,28688,FK Banik Sokolov U19 ,63737,-,Petr Jirácek,05/06,Czech Republic,11117,Baník Sokolov 
+"Jan 18, 2016",,"12,00 Mill. €",Germany,82,VfL Wolfsburg ,65255,"3,00 Mill. €",Timm Klose,15/16,England,1123,Norwich 
+"Jul 1, 2013",,"6,00 Mill. €",Germany,4,1.FC Nuremberg ,65255,"5,50 Mill. €",Timm Klose,13/14,Germany,82,VfL Wolfsburg 
+"Jul 1, 2011",,400 Th. €,Switzerland,938,FC Thun ,65255,800 Th. €,Timm Klose,11/12,Germany,4,1.FC Nuremberg 
+"Jul 1, 2009",,?,Switzerland,5299,FC Basel U21 ,65255,-,Timm Klose,09/10,Switzerland,938,FC Thun 
+"Jul 1, 2007",,?,Switzerland,2016,BSC Old Boys ,65255,-,Timm Klose,07/08,Switzerland,5299,FC Basel U21 
+"Jul 1, 2006",,-,Switzerland,24775,Old Boys Jugend ,65255,-,Timm Klose,06/07,Switzerland,2016,BSC Old Boys 
+"Jul 1, 2004",,-,Switzerland,42366,FC Basel Jgd. ,65255,-,Timm Klose,04/05,Switzerland,24775,Old Boys Jugend 
+"Aug 20, 2014",,Free transfer,Tunisia,819,Club Africain ,66319,800 Th. €,Ammar Jemal,14/15,Tunisia,250,ES Sahel 
+"Jun 30, 2014",,End of loan,Saudi Arabia,27221,Fateh ,66319,800 Th. €,Ammar Jemal,13/14,Tunisia,819,Club Africain 
+"Sep 4, 2013",,Loan,Tunisia,819,Club Africain ,66319,800 Th. €,Ammar Jemal,13/14,Saudi Arabia,27221,Fateh 
+"Jan 1, 2013",,166 Th. €,Switzerland,452,BSC Young Boys ,66319,"1,50 Mill. €",Ammar Jemal,12/13,Tunisia,819,Club Africain 
+"Dec 31, 2012",,End of loan,France,1147,Ajaccio ,66319,"1,50 Mill. €",Ammar Jemal,12/13,Switzerland,452,BSC Young Boys 
+"Aug 28, 2012",,Loan,Switzerland,452,BSC Young Boys ,66319,"1,50 Mill. €",Ammar Jemal,12/13,France,1147,Ajaccio 
+"Jun 30, 2012",,End of loan,Germany,3,1. FC Köln ,66319,"1,50 Mill. €",Ammar Jemal,11/12,Switzerland,452,BSC Young Boys 
+"Aug 30, 2011",,Loan fee:300 Th. €,Switzerland,452,BSC Young Boys ,66319,"1,50 Mill. €",Ammar Jemal,11/12,Germany,3,1. FC Köln 
+"Jul 1, 2010",,"1,00 Mill. €",Tunisia,250,ES Sahel ,66319,"2,00 Mill. €",Ammar Jemal,10/11,Switzerland,452,BSC Young Boys 
+"Jul 1, 2006",,-,Tunisia,31612,Etoile Sportive du Sahel U23 ,66319,-,Ammar Jemal,06/07,Tunisia,250,ES Sahel 
+"Jul 1, 2014",,80 Th. €,Germany,2,1.FC K'lautern ,67407,400 Th. €,Andrew Wooten,14/15,Germany,254,SV Sandhausen 
+"Jun 30, 2014",,End of loan,Germany,293,FSV Frankfurt ,67407,400 Th. €,Andrew Wooten,13/14,Germany,2,1.FC K'lautern 
+"Jan 14, 2014",,Loan,Germany,2,1.FC K'lautern ,67407,600 Th. €,Andrew Wooten,13/14,Germany,293,FSV Frankfurt 
+"Jun 30, 2013",,End of loan,Germany,254,SV Sandhausen ,67407,600 Th. €,Andrew Wooten,12/13,Germany,2,1.FC K'lautern 
+"Aug 23, 2012",,Loan fee:30 Th. €,Germany,2,1.FC K'lautern ,67407,400 Th. €,Andrew Wooten,12/13,Germany,254,SV Sandhausen 
+"Jul 1, 2012",,-,Germany,151,K'lautern II ,67407,400 Th. €,Andrew Wooten,12/13,Germany,2,1.FC K'lautern 
+"Jul 1, 2009",,Free transfer,Germany,158,Wormatia Worms ,67407,-,Andrew Wooten,09/10,Germany,151,K'lautern II 
+"Jan 1, 2008",,-,Germany,6276,Worm. Worms II ,67407,-,Andrew Wooten,07/08,Germany,158,Wormatia Worms 
+"Jul 1, 2014",,Free transfer,Germany,56,RW Essen ,68206,125 Th. €,Alexander Langlitz,14/15,Germany,668,SF Lotte 
+"Jul 1, 2013",,Free transfer,Germany,34,Schalke 04 II ,68206,125 Th. €,Alexander Langlitz,13/14,Germany,56,RW Essen 
+"Jul 1, 2010",,-,Germany,1463,Schalke 04 U19 ,68206,-,Alexander Langlitz,10/11,Germany,34,Schalke 04 II 
+"Jul 1, 2009",,Free transfer,Germany,10029,Pr. Münster U19 ,68206,-,Alexander Langlitz,09/10,Germany,1463,Schalke 04 U19 
+"Jul 1, 2008",,-,Germany,21071,Pr. Münster U17 ,68206,-,Alexander Langlitz,08/09,Germany,10029,Pr. Münster U19 
+"Jul 9, 2015",,?,"Korea, South",3301,Bluewings ,68574,600 Th. €,Chong Tese,15/16,Japan,1062,Shimizu S-Pulse 
+"Jan 9, 2013",,Free transfer,Germany,3,1. FC Köln ,68574,500 Th. €,Chong Tese,12/13,"Korea, South",3301,Bluewings 
+"Jan 30, 2012",,200 Th. €,Germany,80,VfL Bochum ,68574,"1,25 Mill. €",Chong Tese,11/12,Germany,3,1. FC Köln 
+"Jul 9, 2010",,250 Th. €,Japan,9598,Kawasaki ,68574,"2,50 Mill. €",Chong Tese,10/11,Germany,80,VfL Bochum 
+"Jan 1, 2006",,Free transfer,Japan,25254,Korea Uni ,68574,-,Chong Tese,05/06,Japan,9598,Kawasaki 
+"Jul 1, 2015",,Free transfer,Hungary,279,Ferencváros ,69377,200 Th. €,Dániel Nagy,15/16,Germany,1557,Würzb. Kickers 
+"Jul 1, 2014",,Free transfer,Germany,81,VfL Osnabrück ,69377,300 Th. €,Dániel Nagy,14/15,Hungary,279,Ferencváros 
+"Jul 1, 2012",,Free transfer,Germany,41,Hamburger SV ,69377,150 Th. €,Dániel Nagy,12/13,Germany,81,VfL Osnabrück 
+"Jul 1, 2011",,-,Germany,389,Hamburger SV II ,69377,100 Th. €,Dániel Nagy,11/12,Germany,41,Hamburger SV 
+"Jul 1, 2008",,-,Germany,2509,Hamburg U19 ,69377,-,Dániel Nagy,08/09,Germany,389,Hamburger SV II 
+"Jul 1, 2007",,Free transfer,Hungary,15913,Újpest U19 ,69377,-,Dániel Nagy,07/08,Germany,2509,Hamburg U19 
+"Jul 1, 2014",,200 Th. €,Germany,41,Hamburger SV ,69396,"1,00 Mill. €",Zhi Gin Lam,14/15,Germany,65,Greuther Fürth 
+"Nov 1, 2011",,-,Germany,389,Hamburger SV II ,69396,300 Th. €,Zhi Gin Lam,11/12,Germany,41,Hamburger SV 
+"Jul 1, 2010",,-,Germany,2509,Hamburg U19 ,69396,-,Zhi Gin Lam,10/11,Germany,389,Hamburger SV II 
+"Jul 1, 2008",,-,Germany,21063,Hamburg U17 ,69396,-,Zhi Gin Lam,08/09,Germany,2509,Hamburg U19 
+"Jul 1, 2006",,-,Germany,12786,Hamburg Jgd. ,69396,-,Zhi Gin Lam,06/07,Germany,21063,Hamburg U17 
+"Jul 1, 2016",,Free transfer,Germany,56,RW Essen ,69950,75 Th. €,Pascal Nagel,16/17,,75,Unknown 
+"Feb 1, 2016",,Free transfer,Germany,364,G. Halberstadt ,69950,100 Th. €,Pascal Nagel,15/16,Germany,56,RW Essen 
+"Jul 1, 2012",,Free transfer,Germany,1065,Hannover 96 II ,69950,100 Th. €,Pascal Nagel,12/13,Germany,364,G. Halberstadt 
+"Jul 1, 2010",,-,Germany,2663,Hannover 96 U19 ,69950,-,Pascal Nagel,10/11,Germany,1065,Hannover 96 II 
+"Jul 1, 2009",,Free transfer,Germany,2517,Stuttgart U19 ,69950,-,Pascal Nagel,09/10,Germany,2663,Hannover 96 U19 
+"Jul 1, 2008",,-,Germany,21084,Stuttgart U17 ,69950,-,Pascal Nagel,08/09,Germany,2517,Stuttgart U19 
+"Jul 1, 2007",,Free transfer,Germany,31739,Kirchheim U17 ,69950,-,Pascal Nagel,07/08,Germany,21084,Stuttgart U17 
+"Jul 1, 2006",,-,Germany,24722,VfL Kirch. Jgd. ,69950,-,Pascal Nagel,06/07,Germany,31739,Kirchheim U17 
+"Jul 21, 2014",,150 Th. €,Germany,82,VfL Wolfsburg ,72457,"1,00 Mill. €",Rasmus Jönsson,14/15,Denmark,1053,Aalborg BK 
+"Jun 30, 2014",,End of loan,Denmark,1053,Aalborg BK ,72457,"1,00 Mill. €",Rasmus Jönsson,13/14,Germany,82,VfL Wolfsburg 
+"Aug 9, 2013",,Loan fee:100 Th. €,Germany,82,VfL Wolfsburg ,72457,"1,00 Mill. €",Rasmus Jönsson,13/14,Denmark,1053,Aalborg BK 
+"Jun 30, 2013",,End of loan,Germany,293,FSV Frankfurt ,72457,"1,00 Mill. €",Rasmus Jönsson,12/13,Germany,82,VfL Wolfsburg 
+"Jan 29, 2013",,Loan fee:200 Th. €,Germany,82,VfL Wolfsburg ,72457,"1,50 Mill. €",Rasmus Jönsson,12/13,Germany,293,FSV Frankfurt 
+"Aug 29, 2011",,"3,40 Mill. €",Sweden,699,Helsingborgs IF ,72457,"3,00 Mill. €",Rasmus Jönsson,11/12,Germany,82,VfL Wolfsburg 
+"Jan 1, 2008",,-,Sweden,8659,Helsingborg U19 ,72457,-,Rasmus Jönsson,07/08,Sweden,699,Helsingborgs IF 
+"Jan 1, 2012",,"7,50 Mill. €",Germany,79,VfB Stuttgart ,72476,"5,00 Mill. €",Bernd Leno,11/12,Germany,15,Bay. Leverkusen 
+"Dec 31, 2011",,End of loan,Germany,15,Bay. Leverkusen ,72476,"5,00 Mill. €",Bernd Leno,11/12,Germany,79,VfB Stuttgart 
+"Aug 10, 2011",,Loan fee:500 Th. €,Germany,79,VfB Stuttgart ,72476,600 Th. €,Bernd Leno,11/12,Germany,15,Bay. Leverkusen 
+"Jul 1, 2011",,-,Germany,102,Stuttgart II ,72476,600 Th. €,Bernd Leno,11/12,Germany,79,VfB Stuttgart 
+"Jul 1, 2010",,-,Germany,2517,Stuttgart U19 ,72476,150 Th. €,Bernd Leno,10/11,Germany,102,Stuttgart II 
+"Jul 1, 2009",,-,Germany,21084,Stuttgart U17 ,72476,-,Bernd Leno,09/10,Germany,2517,Stuttgart U19 
+"Jul 1, 2007",,-,Germany,19210,Stuttgart Jgd. ,72476,-,Bernd Leno,07/08,Germany,21084,Stuttgart U17 
+"Jul 1, 2014",,Free transfer,Germany,86,Werder Bremen ,74295,"2,50 Mill. €",Aleksandar Ignjovski,14/15,Germany,24,E. Frankfurt 
+"Aug 3, 2011",,500 Th. €,Serbia,53,OFK Beograd ,74295,"2,25 Mill. €",Aleksandar Ignjovski,11/12,Germany,86,Werder Bremen 
+"Jun 30, 2011",,End of loan,Germany,72,1860 Munich ,74295,"2,25 Mill. €",Aleksandar Ignjovski,10/11,Serbia,53,OFK Beograd 
+"Jul 8, 2009",,Loan fee:500 Th. €,Serbia,53,OFK Beograd ,74295,750 Th. €,Aleksandar Ignjovski,09/10,Germany,72,1860 Munich 
+"Oct 15, 2008",,-,Serbia,15072,OFK Beograd U19 ,74295,300 Th. €,Aleksandar Ignjovski,08/09,Serbia,53,OFK Beograd 
+"Jul 1, 2015",,?,Austria,14,Austria Vienna ,74762,"1,00 Mill. €",Daniel Royer,15/16,Denmark,865,FC Midtjylland 
+"Jul 1, 2013",,200 Th. €,Germany,42,Hannover 96 ,74762,700 Th. €,Daniel Royer,13/14,Austria,14,Austria Vienna 
+"Jun 30, 2013",,End of loan,Germany,3,1. FC Köln ,74762,700 Th. €,Daniel Royer,12/13,Germany,42,Hannover 96 
+"Jul 1, 2012",,Loan fee:120 Th. €,Germany,42,Hannover 96 ,74762,800 Th. €,Daniel Royer,12/13,Germany,3,1. FC Köln 
+"Aug 31, 2011",,600 Th. €,Austria,266,SV  Ried ,74762,800 Th. €,Daniel Royer,11/12,Germany,42,Hannover 96 
+"Jul 1, 2010",,Free transfer,Austria,935,FC Pasching ,74762,100 Th. €,Daniel Royer,10/11,Austria,266,SV  Ried 
+"Jul 1, 2009",,Free transfer,Austria,4443,Sturm Graz II ,74762,-,Daniel Royer,09/10,Austria,935,FC Pasching 
+"Jan 1, 2008",,-,Austria,4954,Sturm U19 ,74762,-,Daniel Royer,07/08,Austria,4443,Sturm Graz II 
+"Feb 1, 2015",,Free transfer,Austria,541,A. Lustenau ,74844,75 Th. €,Abu Bakarr Kargbo,14/15,Germany,5560,BSV SW Rehden 
+"Jul 1, 2013",,Free transfer,Germany,211,Leverkusen II ,74844,150 Th. €,Abu Bakarr Kargbo,13/14,Austria,541,A. Lustenau 
+"Jan 11, 2013",,-,Germany,515,Unattached ,74844,150 Th. €,Abu Bakarr Kargbo,12/13,,211,Leverkusen II 
+"Jul 1, 2012",,-,Germany,44,Hertha BSC ,74844,150 Th. €,Abu Bakarr Kargbo,12/13,,515,Unattached 
+"Jul 1, 2011",,-,Germany,45,Hertha BSC II ,74844,125 Th. €,Abu Bakarr Kargbo,11/12,Germany,44,Hertha BSC 
+"Jul 1, 2009",,-,Germany,2827,Hertha BSC U19 ,74844,-,Abu Bakarr Kargbo,09/10,Germany,45,Hertha BSC II 
+"Jul 1, 2008",,-,Germany,21066,Hertha BSC U17 ,74844,-,Abu Bakarr Kargbo,08/09,Germany,2827,Hertha BSC U19 
+"Jul 1, 2014",,300 Th. €,Germany,86,Werder Bremen ,75489,700 Th. €,Niclas Füllkrug,14/15,Germany,4,1.FC Nuremberg 
+"Jun 30, 2014",,End of loan,Germany,65,Greuther Fürth ,75489,700 Th. €,Niclas Füllkrug,13/14,Germany,86,Werder Bremen 
+"Aug 24, 2013",,Loan fee:100 Th. €,Germany,86,Werder Bremen ,75489,"1,25 Mill. €",Niclas Füllkrug,13/14,Germany,65,Greuther Fürth 
+"Feb 9, 2012",,-,Germany,87,W. Bremen II ,75489,200 Th. €,Niclas Füllkrug,11/12,Germany,86,Werder Bremen 
+"Jul 1, 2011",,-,Germany,2491,W. Bremen U19 ,75489,-,Niclas Füllkrug,11/12,Germany,87,W. Bremen II 
+"Jul 1, 2010",,-,Germany,21079,W. Bremen U17 ,75489,-,Niclas Füllkrug,10/11,Germany,2491,W. Bremen U19 
+"Jul 1, 2008",,-,Germany,12012,W. Bremen Youth ,75489,-,Niclas Füllkrug,08/09,Germany,21079,W. Bremen U17 
+"Jul 1, 2011",,"1,10 Mill. €",Poland,2745,Pol. Warsaw ,75640,"2,00 Mill. €",Artur Sobiech,11/12,Germany,42,Hannover 96 
+"Jul 30, 2010",,"1,00 Mill. €",Poland,318,Ruch Chorzow ,75640,"1,20 Mill. €",Artur Sobiech,10/11,Poland,2745,Pol. Warsaw 
+"Jul 1, 2008",,-,Poland,15529,Ruch U19 ,75640,50 Th. €,Artur Sobiech,08/09,Poland,318,Ruch Chorzow 
+"Jul 1, 2015",,"2,00 Mill. €",Switzerland,26,FC Basel ,76293,"2,00 Mill. €",Giovanni Sio,15/16,France,273,Rennes 
+"Jun 30, 2015",,End of loan,France,595,SC Bastia ,76293,"2,00 Mill. €",Giovanni Sio,14/15,Switzerland,26,FC Basel 
+"Feb 1, 2015",,Loan,Switzerland,26,FC Basel ,76293,"1,50 Mill. €",Giovanni Sio,14/15,France,595,SC Bastia 
+"Aug 16, 2013",,"2,00 Mill. €",Germany,82,VfL Wolfsburg ,76293,"2,00 Mill. €",Giovanni Sio,13/14,Switzerland,26,FC Basel 
+"Jun 30, 2013",,End of loan,France,750,FC Sochaux ,76293,"2,00 Mill. €",Giovanni Sio,12/13,Germany,82,VfL Wolfsburg 
+"Jan 31, 2013",,Loan fee:200 Th. €,Germany,82,VfL Wolfsburg ,76293,"2,50 Mill. €",Giovanni Sio,12/13,France,750,FC Sochaux 
+"Jan 30, 2013",,End of loan,Germany,167,FC Augsburg ,76293,"2,50 Mill. €",Giovanni Sio,12/13,Germany,82,VfL Wolfsburg 
+"Jul 10, 2012",,Loan fee:100 Th. €,Germany,82,VfL Wolfsburg ,76293,"6,00 Mill. €",Giovanni Sio,12/13,Germany,167,FC Augsburg 
+"Jan 4, 2012",,"5,80 Mill. €",Switzerland,321,FC Sion ,76293,"4,50 Mill. €",Giovanni Sio,11/12,Germany,82,VfL Wolfsburg 
+"Jul 1, 2010",,-,Switzerland,8508,FC Sion U21 ,76293,50 Th. €,Giovanni Sio,10/11,Switzerland,321,FC Sion 
+"Sep 1, 2009",,Free transfer,Spain,9899,Real Sociedad B ,76293,50 Th. €,Giovanni Sio,09/10,Switzerland,8508,FC Sion U21 
+"Jul 1, 2007",,Free transfer,France,10850,FC Nantes B ,76293,-,Giovanni Sio,07/08,Spain,9899,Real Sociedad B 
+"Jul 1, 2006",,-,France,10851,FC Nantes U19 ,76293,-,Giovanni Sio,06/07,France,10850,FC Nantes B 
+"Jun 30, 2015",,End of loan,Germany,4,1.FC Nuremberg ,77563,200 Th. €,Samuel Radlinger,14/15,Germany,42,Hannover 96 
+"Aug 26, 2014",,Loan,Germany,42,Hannover 96 ,77563,250 Th. €,Samuel Radlinger,14/15,Germany,4,1.FC Nuremberg 
+"Jun 30, 2014",,End of loan,Austria,170,Rapid Vienna ,77563,250 Th. €,Samuel Radlinger,13/14,Germany,42,Hannover 96 
+"Jul 2, 2013",,Loan,Germany,42,Hannover 96 ,77563,250 Th. €,Samuel Radlinger,13/14,Austria,170,Rapid Vienna 
+"Jul 1, 2011",,250 Th. €,Austria,266,SV  Ried ,77563,-,Samuel Radlinger,11/12,Germany,42,Hannover 96 
+"Jun 30, 2011",,End of loan,Austria,2472,St. Florian ,77563,-,Samuel Radlinger,10/11,Austria,266,SV  Ried 
+"Jul 1, 2010",,Loan,Austria,266,SV  Ried ,77563,-,Samuel Radlinger,10/11,Austria,2472,St. Florian 
+"Jul 1, 2009",,-,Austria,4387,AKA SV Ried U18 ,77563,-,Samuel Radlinger,09/10,Austria,266,SV  Ried 
+"Jul 1, 2006",,-,Austria,20135,Ried Jugend ,77563,-,Samuel Radlinger,06/07,Austria,4387,AKA SV Ried U18 
+"Jul 1, 2011",,-,Germany,1006,M'gladbach II ,77809,150 Th. €,Julian Korb,11/12,Germany,18,Bor. M'gladbach 
+"Jul 1, 2010",,-,Germany,4121,M'gladbach U19 ,77809,-,Julian Korb,10/11,Germany,1006,M'gladbach II 
+"Jul 1, 2009",,-,Germany,21056,M'gladbach U17 ,77809,-,Julian Korb,09/10,Germany,4121,M'gladbach U19 
+"Jul 1, 2007",,-,Germany,11845,M'gladbach Yth. ,77809,-,Julian Korb,07/08,Germany,21056,M'gladbach U17 
+"Jul 1, 2006",,Free transfer,Germany,11888,Duisburg Jgd. ,77809,-,Julian Korb,06/07,Germany,11845,M'gladbach Yth. 
+"Jan 23, 2012",,-,Germany,245,SC Freiburg II ,77920,150 Th. €,Immanuel Höhn,11/12,Germany,60,SC Freiburg 
+"Jul 1, 2010",,-,Germany,4042,SC Freiburg U19 ,77920,50 Th. €,Immanuel Höhn,10/11,Germany,245,SC Freiburg II 
+"Jul 1, 2008",,Free transfer,Germany,23893,Pirmasens U17 ,77920,-,Immanuel Höhn,08/09,Germany,4042,SC Freiburg U19 
+"Jul 1, 2007",,Free transfer,Germany,39109,H. Bingen U17 ,77920,-,Immanuel Höhn,07/08,Germany,23893,Pirmasens U17 
+"Jul 1, 2006",,-,Germany,39108,H. Bingen Jgd. ,77920,-,Immanuel Höhn,06/07,Germany,39109,H. Bingen U17 
+"Jul 1, 2005",,Free transfer,Germany,12015,K'lautern Jgd. ,77920,-,Immanuel Höhn,05/06,Germany,39108,H. Bingen Jgd. 
+"Jul 1, 2002",,Free transfer,Germany,39108,H. Bingen Jgd. ,77920,-,Immanuel Höhn,02/03,Germany,12015,K'lautern Jgd. 
+"Jun 30, 2016",,End of loan,Turkey,20,Bursaspor ,79355,"1,00 Mill. €",Hajime Hosogai,15/16,Germany,44,Hertha BSC 
+"Aug 26, 2015",,Loan fee:300 Th. €,Germany,44,Hertha BSC ,79355,"1,50 Mill. €",Hajime Hosogai,15/16,Turkey,20,Bursaspor 
+"Jul 1, 2013",,"1,00 Mill. €",Germany,15,Bay. Leverkusen ,79355,"2,00 Mill. €",Hajime Hosogai,13/14,Germany,44,Hertha BSC 
+"Jun 30, 2012",,End of loan,Germany,167,FC Augsburg ,79355,"3,00 Mill. €",Hajime Hosogai,11/12,Germany,15,Bay. Leverkusen 
+"Jan 2, 2011",,Loan,Germany,15,Bay. Leverkusen ,79355,"1,50 Mill. €",Hajime Hosogai,10/11,Germany,167,FC Augsburg 
+"Jan 1, 2011",,Free transfer,Japan,828,Urawa Reds ,79355,"1,50 Mill. €",Hajime Hosogai,10/11,Germany,15,Bay. Leverkusen 
+"Jan 1, 2005",,Free transfer,Japan,23987,Maebashi Ikuei  ,79355,-,Hajime Hosogai,04/05,Japan,828,Urawa Reds 
+"Jun 30, 2016",,End of loan,Germany,129,Dynamo Dresden ,81173,300 Th. €,Janis Blaswich,15/16,Germany,18,Bor. M'gladbach 
+"Jul 1, 2015",,Loan,Germany,18,Bor. M'gladbach ,81173,225 Th. €,Janis Blaswich,15/16,Germany,129,Dynamo Dresden 
+"Jul 1, 2011",,-,Germany,1006,M'gladbach II ,81173,100 Th. €,Janis Blaswich,11/12,Germany,18,Bor. M'gladbach 
+"Jul 1, 2009",,-,Germany,4121,M'gladbach U19 ,81173,-,Janis Blaswich,09/10,Germany,1006,M'gladbach II 
+"Jul 1, 2008",,-,Germany,21056,M'gladbach U17 ,81173,-,Janis Blaswich,08/09,Germany,4121,M'gladbach U19 
+"Jul 1, 2013",,450 Th. €,Finland,1008,HJK Helsinki ,82113,"1,00 Mill. €",Alexander Ring,13/14,Germany,2,1.FC K'lautern 
+"Jun 30, 2013",,End of loan,Germany,18,Bor. M'gladbach ,82113,"1,00 Mill. €",Alexander Ring,12/13,Finland,1008,HJK Helsinki 
+"Jan 5, 2012",,Loan fee:200 Th. €,Finland,1008,HJK Helsinki ,82113,600 Th. €,Alexander Ring,11/12,Germany,18,Bor. M'gladbach 
+"Dec 31, 2010",,End of loan,Finland,8045,Tampere United ,82113,75 Th. €,Alexander Ring,10/11,Finland,1008,HJK Helsinki 
+"Aug 31, 2010",,Loan,Finland,1008,HJK Helsinki ,82113,75 Th. €,Alexander Ring,10/11,Finland,8045,Tampere United 
+"Jan 1, 2010",,-,Finland,11131,Klubi-04 ,82113,-,Alexander Ring,09/10,Finland,1008,HJK Helsinki 
+"Jan 1, 2009",,Free transfer,Germany,4713,Leverkusen U19 ,82113,-,Alexander Ring,08/09,Finland,11131,Klubi-04 
+"Jul 1, 2008",,-,Germany,21054,Leverkusen U17 ,82113,-,Alexander Ring,08/09,Germany,4713,Leverkusen U19 
+"Jul 1, 2006",,-,Germany,11874,Leverkusen Yth. ,82113,-,Alexander Ring,06/07,Germany,21054,Leverkusen U17 
+"Jul 1, 1998",,Free transfer,Germany,47344,Lannesdorf Jgd. ,82113,-,Alexander Ring,98/99,Germany,11874,Leverkusen Yth. 
+"Aug 8, 2014",,"4,50 Mill. €",Russia,2698,Rubin Kazan ,82130,"7,00 Mill. €",Gökhan Töre,14/15,Turkey,114,Besiktas 
+"Jun 30, 2014",,End of loan,Turkey,114,Besiktas ,82130,"5,00 Mill. €",Gökhan Töre,13/14,Russia,2698,Rubin Kazan 
+"Jul 1, 2013",,Loan fee:350 Th. €,Russia,2698,Rubin Kazan ,82130,"3,80 Mill. €",Gökhan Töre,13/14,Turkey,114,Besiktas 
+"Jul 26, 2012",,"3,00 Mill. €",Germany,41,Hamburger SV ,82130,"6,00 Mill. €",Gökhan Töre,12/13,Russia,2698,Rubin Kazan 
+"Jul 1, 2011",,"1,30 Mill. €",England,9250,Chelsea U21 ,82130,-,Gökhan Töre,11/12,Germany,41,Hamburger SV 
+"Jul 1, 2010",,-,England,6918,Chelsea U18 ,82130,50 Th. €,Gökhan Töre,10/11,England,9250,Chelsea U21 
+"Jan 30, 2009",,Free transfer,Germany,21054,Leverkusen U17 ,82130,-,Gökhan Töre,08/09,England,6918,Chelsea U18 
+"Jul 1, 2007",,-,Germany,11874,Leverkusen Yth. ,82130,-,Gökhan Töre,07/08,Germany,21054,Leverkusen U17 
+"Jun 30, 2015",,End of loan,Germany,79,VfB Stuttgart ,82243,"3,50 Mill. €",Moritz Leitner,14/15,Germany,16,Bor. Dortmund 
+"Jul 1, 2013",,Loan fee:500 Th. €,Germany,16,Bor. Dortmund ,82243,"5,00 Mill. €",Moritz Leitner,13/14,Germany,79,VfB Stuttgart 
+"Jun 30, 2011",,End of loan,Germany,167,FC Augsburg ,82243,"1,50 Mill. €",Moritz Leitner,10/11,Germany,16,Bor. Dortmund 
+"Jan 2, 2011",,Loan fee:150 Th. €,Germany,16,Bor. Dortmund ,82243,"1,00 Mill. €",Moritz Leitner,10/11,Germany,167,FC Augsburg 
+"Jan 1, 2011",,800 Th. €,Germany,72,1860 Munich ,82243,"1,00 Mill. €",Moritz Leitner,10/11,Germany,16,Bor. Dortmund 
+"Jul 1, 2010",,-,Germany,2510,TSV 1860 U19 ,82243,-,Moritz Leitner,10/11,Germany,72,1860 Munich 
+"Jul 1, 2009",,-,Germany,21083,TSV 1860 U17 ,82243,-,Moritz Leitner,09/10,Germany,2510,TSV 1860 U19 
+"Jul 1, 2007",,-,Germany,18929,TSV 1860 Jgd. ,82243,-,Moritz Leitner,07/08,Germany,21083,TSV 1860 U17 
+"Jul 1, 1998",,Free transfer,Germany,47335,U'föhring Jgd. ,82243,-,Moritz Leitner,98/99,Germany,18929,TSV 1860 Jgd. 
+"Aug 26, 2014",,"1,50 Mill. €",Germany,60,SC Freiburg ,82389,"2,50 Mill. €",Fallou Diagne,14/15,France,273,Rennes 
+"Jan 6, 2012",,500 Th. €,France,347,FC Metz ,82389,500 Th. €,Fallou Diagne,11/12,Germany,60,SC Freiburg 
+"Jul 1, 2008",,-,France,8179,FC Metz B ,82389,-,Fallou Diagne,08/09,France,347,FC Metz 
+"Jul 1, 2007",,-,France,10849,FC Metz U19 ,82389,-,Fallou Diagne,07/08,France,8179,FC Metz B 
+"Jul 1, 2006",,Free transfer,Senegal,30031,Génération Foot ,82389,-,Fallou Diagne,06/07,France,10849,FC Metz U19 
+"Jul 1, 2015",,Free transfer,Germany,127,SC Paderborn ,82863,"2,00 Mill. €",Lukas Rupp,15/16,Germany,79,VfB Stuttgart 
+"Jul 1, 2014",,Free transfer,Germany,18,Bor. M'gladbach ,82863,"1,00 Mill. €",Lukas Rupp,14/15,Germany,127,SC Paderborn 
+"Jun 30, 2012",,End of loan,Germany,127,SC Paderborn ,82863,"1,00 Mill. €",Lukas Rupp,11/12,Germany,18,Bor. M'gladbach 
+"Jan 30, 2012",,Loan,Germany,18,Bor. M'gladbach ,82863,750 Th. €,Lukas Rupp,11/12,Germany,127,SC Paderborn 
+"Jul 1, 2011",,600 Th. €,Germany,48,Karlsruher SC ,82863,750 Th. €,Lukas Rupp,11/12,Germany,18,Bor. M'gladbach 
+"Jul 1, 2010",,-,Germany,5370,Karlsruhe U19 ,82863,125 Th. €,Lukas Rupp,10/11,Germany,48,Karlsruher SC 
+"Jul 1, 2008",,-,Germany,21068,Karlsruhe U17 ,82863,-,Lukas Rupp,08/09,Germany,5370,Karlsruhe U19 
+"Jul 1, 2006",,-,Germany,18065,Karlsruhe Jgd. ,82863,-,Lukas Rupp,06/07,Germany,21068,Karlsruhe U17 
+"Jul 1, 2005",,Free transfer,Germany,44667,Weinheim Jgd. ,82863,-,Lukas Rupp,05/06,Germany,18065,Karlsruhe Jgd. 
+"Jan 1, 2015",,300 Th. €,Netherlands,1426,VVV-Venlo ,82999,500 Th. €,Yuki Otsu,14/15,Japan,6632,Kashiwa Reysol 
+"Aug 31, 2012",,400 Th. €,Germany,18,Bor. M'gladbach ,82999,800 Th. €,Yuki Otsu,12/13,Netherlands,1426,VVV-Venlo 
+"Jul 20, 2011",,400 Th. €,Japan,6632,Kashiwa Reysol ,82999,600 Th. €,Yuki Otsu,11/12,Germany,18,Bor. M'gladbach 
+"Jan 1, 2008",,Free transfer,Japan,33596,Seiritsu HS ,82999,-,Yuki Otsu,07/08,Japan,6632,Kashiwa Reysol 
+"Jul 1, 2011",,-,Germany,2491,W. Bremen U19 ,83256,75 Th. €,Özkan Yildirim,11/12,Germany,86,Werder Bremen 
+"Jul 1, 2010",,-,Germany,21079,W. Bremen U17 ,83256,-,Özkan Yildirim,10/11,Germany,2491,W. Bremen U19 
+"Jul 1, 2008",,-,Germany,12012,W. Bremen Youth ,83256,-,Özkan Yildirim,08/09,Germany,21079,W. Bremen U17 
+"Jul 1, 2003",,Free transfer,Germany,53278,Sulingen Jgd. ,83256,-,Özkan Yildirim,03/04,Germany,12012,W. Bremen Youth 
+"Aug 20, 2015",,350 Th. €,Germany,30,Hansa Rostock ,83415,400 Th. €,Christian Bickel,15/16,Germany,127,SC Paderborn 
+"Jul 1, 2014",,Free transfer,Germany,25,Energie Cottbus ,83415,350 Th. €,Christian Bickel,14/15,Germany,30,Hansa Rostock 
+"Jan 2, 2013",,Free transfer,Germany,245,SC Freiburg II ,83415,150 Th. €,Christian Bickel,12/13,Germany,25,Energie Cottbus 
+"Jul 1, 2012",,-,Germany,60,SC Freiburg ,83415,150 Th. €,Christian Bickel,12/13,Germany,245,SC Freiburg II 
+"Jun 30, 2012",,End of loan,Germany,109,Jahn Regensburg ,83415,150 Th. €,Christian Bickel,11/12,Germany,60,SC Freiburg 
+"Jan 31, 2012",,Loan,Germany,60,SC Freiburg ,83415,150 Th. €,Christian Bickel,11/12,Germany,109,Jahn Regensburg 
+"Jul 1, 2011",,-,Germany,245,SC Freiburg II ,83415,175 Th. €,Christian Bickel,11/12,Germany,60,SC Freiburg 
+"Jul 1, 2010",,-,Germany,4042,SC Freiburg U19 ,83415,-,Christian Bickel,10/11,Germany,245,SC Freiburg II 
+"Jan 1, 2009",,25 Th. €,Germany,7680,RW Erfurt U19 ,83415,-,Christian Bickel,08/09,Germany,4042,SC Freiburg U19 
+"Jul 1, 2008",,-,Germany,21072,RW Erfurt U17 ,83415,-,Christian Bickel,08/09,Germany,7680,RW Erfurt U19 
+"Jul 1, 2016",,Free transfer,Germany,83,VfR Aalen ,83440,300 Th. €,Sebastian Neumann,16/17,,75,Unknown 
+"Jul 1, 2014",,Free transfer,Germany,81,VfL Osnabrück ,83440,400 Th. €,Sebastian Neumann,14/15,Germany,83,VfR Aalen 
+"Aug 30, 2012",,200 Th. €,Germany,44,Hertha BSC ,83440,400 Th. €,Sebastian Neumann,12/13,Germany,81,VfL Osnabrück 
+"Jul 1, 2010",,-,Germany,45,Hertha BSC II ,83440,100 Th. €,Sebastian Neumann,10/11,Germany,44,Hertha BSC 
+"Jul 1, 2009",,-,Germany,2827,Hertha BSC U19 ,83440,-,Sebastian Neumann,09/10,Germany,45,Hertha BSC II 
+"Jul 1, 2008",,-,Germany,21066,Hertha BSC U17 ,83440,-,Sebastian Neumann,08/09,Germany,2827,Hertha BSC U19 
+"Jul 1, 2011",,-,Germany,438,1.FC Köln II ,84938,100 Th. €,Timo Horn,11/12,Germany,3,1. FC Köln 
+"Jul 1, 2010",,-,Germany,1461,1.FC Köln U19 ,84938,-,Timo Horn,10/11,Germany,438,1.FC Köln II 
+"Jul 1, 2009",,-,Germany,21048,1.FC Köln U17 ,84938,-,Timo Horn,09/10,Germany,1461,1.FC Köln U19 
+"Jul 1, 2008",,-,Germany,11880,1.FC Köln Yth. ,84938,-,Timo Horn,08/09,Germany,21048,1.FC Köln U17 
+"Jul 1, 2011",,100 Th. €,Germany,1463,Schalke 04 U19 ,85201,-,Patrick Rakovsky,11/12,Germany,4,1.FC Nuremberg 
+"Jul 1, 2010",,-,Germany,21061,Schalke 04 U17 ,85201,-,Patrick Rakovsky,10/11,Germany,1463,Schalke 04 U19 
+"Jul 1, 2008",,-,Germany,11884,Schalke 04 Jgd. ,85201,-,Patrick Rakovsky,08/09,Germany,21061,Schalke 04 U17 
+"Jul 1, 2016",,Free transfer,Germany,954,SSVg Velbert ,85222,75 Th. €,Nils Zander,16/17,Germany,392,1.FC Bocholt 
+"Jul 1, 2014",,Free transfer,Germany,34,Schalke 04 II ,85222,25 Th. €,Nils Zander,14/15,Germany,954,SSVg Velbert 
+"Jun 30, 2013",,End of loan,Germany,7258,FSV Frankf. II ,85222,100 Th. €,Nils Zander,12/13,Germany,34,Schalke 04 II 
+"Jan 31, 2013",,Loan,Germany,34,Schalke 04 II ,85222,100 Th. €,Nils Zander,12/13,Germany,7258,FSV Frankf. II 
+"Jul 1, 2011",,-,Germany,1463,Schalke 04 U19 ,85222,-,Nils Zander,11/12,Germany,34,Schalke 04 II 
+"Jul 1, 2010",,Free transfer,England,6930,Man City U18 ,85222,-,Nils Zander,10/11,Germany,1463,Schalke 04 U19 
+"Jul 1, 2009",,Free transfer,Germany,21061,Schalke 04 U17 ,85222,-,Nils Zander,09/10,England,6930,Man City U18 
+"Jul 1, 2008",,-,Germany,11884,Schalke 04 Jgd. ,85222,-,Nils Zander,08/09,Germany,21061,Schalke 04 U17 
+"Jul 1, 2011",,Free transfer,Germany,4121,M'gladbach U19 ,85352,150 Th. €,Yunus Malli,11/12,Germany,39,1.FSV Mainz 05 
+"Jul 1, 2009",,-,Germany,21056,M'gladbach U17 ,85352,-,Yunus Malli,09/10,Germany,4121,M'gladbach U19 
+"Jul 1, 2007",,Free transfer,Germany,46635,VfL Kassel Jgd. ,85352,-,Yunus Malli,07/08,Germany,21056,M'gladbach U17 
+"Jan 1, 2012",,Free transfer,England,9265,Man City U21 ,85864,200 Th. €,Loris Karius,11/12,Germany,39,1.FSV Mainz 05 
+"Dec 31, 2011",,End of loan,Germany,39,1.FSV Mainz 05 ,85864,200 Th. €,Loris Karius,11/12,England,9265,Man City U21 
+"Aug 28, 2011",,Loan,England,9265,Man City U21 ,85864,-,Loris Karius,11/12,Germany,39,1.FSV Mainz 05 
+"Jul 1, 2010",,-,England,6930,Man City U18 ,85864,-,Loris Karius,10/11,England,9265,Man City U21 
+"Jul 1, 2009",,225 Th. €,Germany,21084,Stuttgart U17 ,85864,-,Loris Karius,09/10,England,6930,Man City U18 
+"Jul 1, 2008",,-,Germany,19210,Stuttgart Jgd. ,85864,-,Loris Karius,08/09,Germany,21084,Stuttgart U17 
+"Jul 1, 2005",,Free transfer,Germany,19452,SSV Ulm Jgd. ,85864,-,Loris Karius,05/06,Germany,19210,Stuttgart Jgd. 
+"Aug 18, 2015",,"4,00 Mill. €",Germany,44,Hertha BSC ,85867,"3,50 Mill. €",Nico Schulz,15/16,Germany,18,Bor. M'gladbach 
+"Jul 1, 2010",,-,Germany,2827,Hertha BSC U19 ,85867,-,Nico Schulz,10/11,Germany,44,Hertha BSC 
+"Jul 1, 2009",,-,Germany,21066,Hertha BSC U17 ,85867,-,Nico Schulz,09/10,Germany,2827,Hertha BSC U19 
+"Jul 1, 2008",,-,Germany,11844,Hertha BSC Yth. ,85867,-,Nico Schulz,08/09,Germany,21066,Hertha BSC U17 
+"Jul 1, 2000",,Free transfer,Germany,48852,Rehberge Jugend ,85867,-,Nico Schulz,00/01,Germany,11844,Hertha BSC Yth. 
+"Jan 28, 2015",,Free transfer,Germany,1454,Chemnitz II ,85946,225 Th. €,Kolja Pusch,14/15,Germany,109,Jahn Regensburg 
+"Jul 1, 2014",,-,Germany,21,Chemnitzer FC ,85946,225 Th. €,Kolja Pusch,14/15,Germany,1454,Chemnitz II 
+"Jul 18, 2013",,Free transfer,Germany,15,Bay. Leverkusen ,85946,150 Th. €,Kolja Pusch,13/14,Germany,21,Chemnitzer FC 
+"Jul 1, 2012",,-,Germany,4713,Leverkusen U19 ,85946,-,Kolja Pusch,12/13,Germany,15,Bay. Leverkusen 
+"Jul 1, 2010",,-,Germany,21054,Leverkusen U17 ,85946,-,Kolja Pusch,10/11,Germany,4713,Leverkusen U19 
+"Jul 1, 2008",,-,Germany,11874,Leverkusen Yth. ,85946,-,Kolja Pusch,08/09,Germany,21054,Leverkusen U17 
+"Jul 1, 2014",,Free transfer,Germany,127,SC Paderborn ,85960,400 Th. €,Manuel Zeitz,14/15,Germany,25,Energie Cottbus 
+"Jun 30, 2014",,End of loan,Germany,1,Saarbrücken ,85960,400 Th. €,Manuel Zeitz,13/14,Germany,127,SC Paderborn 
+"Jan 2, 2014",,Loan,Germany,127,SC Paderborn ,85960,600 Th. €,Manuel Zeitz,13/14,Germany,1,Saarbrücken 
+"Jul 1, 2013",,Free transfer,Germany,4,1.FC Nuremberg ,85960,600 Th. €,Manuel Zeitz,13/14,Germany,127,SC Paderborn 
+"Jun 30, 2013",,End of loan,Germany,127,SC Paderborn ,85960,600 Th. €,Manuel Zeitz,12/13,Germany,4,1.FC Nuremberg 
+"Jul 1, 2012",,Loan,Germany,4,1.FC Nuremberg ,85960,400 Th. €,Manuel Zeitz,12/13,Germany,127,SC Paderborn 
+"Jul 1, 2011",,Free transfer,Germany,1,Saarbrücken ,85960,600 Th. €,Manuel Zeitz,11/12,Germany,4,1.FC Nuremberg 
+"Aug 1, 2008",,-,Germany,2596,Saarbrücken U19 ,85960,-,Manuel Zeitz,08/09,Germany,1,Saarbrücken 
+"Jul 1, 2007",,-,Germany,21050,Saarbrücken U17 ,85960,-,Manuel Zeitz,07/08,Germany,2596,Saarbrücken U19 
+"Jul 1, 2005",,-,Germany,37556,Saarbrück. Jgd. ,85960,-,Manuel Zeitz,05/06,Germany,21050,Saarbrücken U17 
+"Jun 30, 2016",,End of loan,Italy,12,AS Roma ,86202,"10,00 Mill. €",Antonio Rüdiger,15/16,Germany,79,VfB Stuttgart 
+"Aug 19, 2015",,"Loan fee:4,00 Mill. €",Germany,79,VfB Stuttgart ,86202,"10,00 Mill. €",Antonio Rüdiger,15/16,Italy,12,AS Roma 
+"Jul 1, 2012",,-,Germany,102,Stuttgart II ,86202,500 Th. €,Antonio Rüdiger,12/13,Germany,79,VfB Stuttgart 
+"Jul 1, 2011",,-,Germany,2517,Stuttgart U19 ,86202,-,Antonio Rüdiger,11/12,Germany,102,Stuttgart II 
+"Feb 1, 2011",,Free transfer,Germany,1464,B. Dortmund U19 ,86202,-,Antonio Rüdiger,10/11,Germany,2517,Stuttgart U19 
+"Jul 1, 2010",,-,Germany,21055,B. Dortmund U17 ,86202,-,Antonio Rüdiger,10/11,Germany,1464,B. Dortmund U19 
+"Jul 1, 2008",,Free transfer,Germany,39378,Zehlendorf Jgd. ,86202,-,Antonio Rüdiger,08/09,Germany,21055,B. Dortmund U17 
+"Jul 1, 2005",,Free transfer,Germany,47327,Neuk. SF Jgd. ,86202,-,Antonio Rüdiger,05/06,Germany,39378,Zehlendorf Jgd. 
+"Jul 1, 2004",,Free transfer,Germany,48092,Tasmania Jgd. ,86202,-,Antonio Rüdiger,04/05,Germany,47327,Neuk. SF Jgd. 
+"Jul 1, 2002",,Free transfer,Germany,47325,Neukölln Jgd. ,86202,-,Antonio Rüdiger,02/03,Germany,48092,Tasmania Jgd. 
+"Jan 13, 2012",,"8,50 Mill. €",Switzerland,260,FC Zürich ,86784,"7,50 Mill. €",Ricardo Rodríguez,11/12,Germany,82,VfL Wolfsburg 
+"Jan 1, 2010",,-,Switzerland,14537,FC Zürich U18 ,86784,-,Ricardo Rodríguez,09/10,Switzerland,260,FC Zürich 
+"Jul 1, 2009",,-,Switzerland,33982,FC Zürich U17 ,86784,-,Ricardo Rodríguez,09/10,Switzerland,14537,FC Zürich U18 
+"Jul 1, 2008",,-,Switzerland,32338,FC Zürich U16 ,86784,-,Ricardo Rodríguez,08/09,Switzerland,33982,FC Zürich U17 
+"Jul 1, 2015",,Free transfer,Germany,1006,M'gladbach II ,86848,200 Th. €,Matthias Zimmermann,15/16,Germany,102,Stuttgart II 
+"Jul 1, 2014",,-,Germany,18,Bor. M'gladbach ,86848,600 Th. €,Matthias Zimmermann,14/15,Germany,1006,M'gladbach II 
+"Jun 30, 2014",,End of loan,Germany,254,SV Sandhausen ,86848,600 Th. €,Matthias Zimmermann,13/14,Germany,18,Bor. M'gladbach 
+"Jul 1, 2013",,Loan fee:50 Th. €,Germany,18,Bor. M'gladbach ,86848,500 Th. €,Matthias Zimmermann,13/14,Germany,254,SV Sandhausen 
+"Jun 30, 2013",,End of loan,Germany,65,Greuther Fürth ,86848,500 Th. €,Matthias Zimmermann,12/13,Germany,18,Bor. M'gladbach 
+"Jan 1, 2013",,Loan fee:100 Th. €,Germany,18,Bor. M'gladbach ,86848,500 Th. €,Matthias Zimmermann,12/13,Germany,65,Greuther Fürth 
+"Jul 1, 2011",,"1,00 Mill. €",Germany,48,Karlsruher SC ,86848,"1,75 Mill. €",Matthias Zimmermann,11/12,Germany,18,Bor. M'gladbach 
+"Jan 1, 2010",,-,Germany,5370,Karlsruhe U19 ,86848,125 Th. €,Matthias Zimmermann,09/10,Germany,48,Karlsruher SC 
+"Jul 1, 2009",,-,Germany,21068,Karlsruhe U17 ,86848,-,Matthias Zimmermann,09/10,Germany,5370,Karlsruhe U19 
+"Jul 1, 2008",,-,Germany,18065,Karlsruhe Jgd. ,86848,-,Matthias Zimmermann,08/09,Germany,21068,Karlsruhe U17 
+"Sep 19, 2014",,-,Germany,515,Unattached ,86895,200 Th. €,Aleksandar Stevanovic,14/15,,30,Hansa Rostock 
+"Jul 1, 2014",,-,Germany,86,Werder Bremen ,86895,200 Th. €,Aleksandar Stevanovic,14/15,,515,Unattached 
+"Jul 1, 2011",,Free transfer,Germany,1463,Schalke 04 U19 ,86895,-,Aleksandar Stevanovic,11/12,Germany,86,Werder Bremen 
+"Jul 1, 2009",,Free transfer,Germany,21073,RW Essen U17 ,86895,-,Aleksandar Stevanovic,09/10,Germany,1463,Schalke 04 U19 
+"Jul 1, 2007",,-,Germany,11877,RW Essen Youth ,86895,-,Aleksandar Stevanovic,07/08,Germany,21073,RW Essen U17 
+"Jul 1, 2006",,Free transfer,Germany,11884,Schalke 04 Jgd. ,86895,-,Aleksandar Stevanovic,06/07,Germany,11877,RW Essen Youth 
+"Jul 1, 2002",,Free transfer,Germany,11877,RW Essen Youth ,86895,-,Aleksandar Stevanovic,02/03,Germany,11884,Schalke 04 Jgd. 
+"Jan 1, 2014",,500 Th. €,Switzerland,452,BSC Young Boys ,87268,"1,00 Mill. €",François Affolter,13/14,Switzerland,434,FC Luzern 
+"Dec 31, 2012",,End of loan,Germany,86,Werder Bremen ,87268,"1,25 Mill. €",François Affolter,12/13,Switzerland,452,BSC Young Boys 
+"Jan 25, 2012",,Loan fee:500 Th. €,Switzerland,452,BSC Young Boys ,87268,"1,50 Mill. €",François Affolter,11/12,Germany,86,Werder Bremen 
+"Nov 26, 2008",,-,Switzerland,14438,BSC YB U18 ,87268,350 Th. €,François Affolter,08/09,Switzerland,452,BSC Young Boys 
+"Jul 1, 2007",,Free transfer,Switzerland,27998,FC Biel Jugend ,87268,-,François Affolter,07/08,Switzerland,14438,BSC YB U18 
+"Jul 1, 2016",,Free transfer,Germany,851,FSV Mainz 05 II ,87650,250 Th. €,Julian-Maurice Derstroff,16/17,Germany,254,SV Sandhausen 
+"Jul 4, 2015",,Free transfer,Germany,17,B. Dortmund II ,87650,175 Th. €,Julian-Maurice Derstroff,15/16,Germany,851,FSV Mainz 05 II 
+"Jul 19, 2013",,?,Germany,2,1.FC K'lautern ,87650,500 Th. €,Julian-Maurice Derstroff,13/14,Germany,17,B. Dortmund II 
+"Jul 1, 2011",,-,Germany,2371,K'lautern U19 ,87650,-,Julian-Maurice Derstroff,11/12,Germany,2,1.FC K'lautern 
+"Jul 1, 2009",,-,Germany,21047,K'lautern U17 ,87650,-,Julian-Maurice Derstroff,09/10,Germany,2371,K'lautern U19 
+"Jul 1, 2007",,-,Germany,12015,K'lautern Jgd. ,87650,-,Julian-Maurice Derstroff,07/08,Germany,21047,K'lautern U17 
+"Jul 1, 2014",,Free transfer,Germany,87,W. Bremen II ,89522,100 Th. €,Clemens Schoppenhauer,14/15,Germany,1557,Würzb. Kickers 
+"Jul 1, 2011",,-,Germany,2491,W. Bremen U19 ,89522,125 Th. €,Clemens Schoppenhauer,11/12,Germany,87,W. Bremen II 
+"Jul 1, 2009",,-,Germany,21079,W. Bremen U17 ,89522,-,Clemens Schoppenhauer,09/10,Germany,2491,W. Bremen U19 
+"Jul 1, 2007",,-,Germany,12012,W. Bremen Youth ,89522,-,Clemens Schoppenhauer,07/08,Germany,21079,W. Bremen U17 
+"Jul 1, 2005",,Free transfer,Germany,21090,Weser-Stotel ,89522,-,Clemens Schoppenhauer,05/06,Germany,12012,W. Bremen Youth 
+"Jul 1, 2015",,-,Germany,87,W. Bremen II ,89542,750 Th. €,Janek Sternberg,14/15,Germany,86,Werder Bremen 
+"Jul 1, 2013",,Free transfer,Germany,389,Hamburger SV II ,89542,150 Th. €,Janek Sternberg,13/14,Germany,87,W. Bremen II 
+"Jul 1, 2011",,-,Germany,2509,Hamburg U19 ,89542,75 Th. €,Janek Sternberg,11/12,Germany,389,Hamburger SV II 
+"Jul 1, 2009",,-,Germany,21063,Hamburg U17 ,89542,-,Janek Sternberg,09/10,Germany,2509,Hamburg U19 
+"Jul 1, 2007",,Free transfer,Germany,38028,SV Eichede Jgd. ,89542,-,Janek Sternberg,07/08,Germany,21063,Hamburg U17 
+"Jul 1, 2006",,Free transfer,Germany,40534,Leezen Jgd. ,89542,-,Janek Sternberg,06/07,Germany,38028,SV Eichede Jgd. 
+"Dec 2, 2015",,Free transfer,Germany,10213,SV Drochtersen ,89653,75 Th. €,Kevin Ingreso,15/16,Philippines,43556,Ceres–La Salle 
+"Jul 1, 2015",,Free transfer,Germany,912,VfR Neumünster ,89653,75 Th. €,Kevin Ingreso,15/16,Germany,10213,SV Drochtersen 
+"Jul 27, 2013",,Free transfer,Germany,389,Hamburger SV II ,89653,100 Th. €,Kevin Ingreso,13/14,Germany,912,VfR Neumünster 
+"Jul 1, 2012",,-,Germany,41,Hamburger SV ,89653,100 Th. €,Kevin Ingreso,12/13,Germany,389,Hamburger SV II 
+"Jul 1, 2011",,-,Germany,2509,Hamburg U19 ,89653,-,Kevin Ingreso,11/12,Germany,41,Hamburger SV 
+"Jul 1, 2010",,-,Germany,21063,Hamburg U17 ,89653,-,Kevin Ingreso,10/11,Germany,2509,Hamburg U19 
+"Jul 1, 2008",,-,Germany,12786,Hamburg Jgd. ,89653,-,Kevin Ingreso,08/09,Germany,21063,Hamburg U17 
+"Jul 1, 2007",,Free transfer,Germany,29107,St. Pauli Youth ,89653,-,Kevin Ingreso,07/08,Germany,12786,Hamburg Jgd. 
+"Jul 1, 2015",,Free transfer,Germany,1065,Hannover 96 II ,89660,75 Th. €,Jannis Pläschke,15/16,Germany,143,Wolfsburg II 
+"Jul 1, 2012",,-,Germany,42,Hannover 96 ,89660,100 Th. €,Jannis Pläschke,12/13,Germany,1065,Hannover 96 II 
+"Jul 1, 2011",,-,Germany,2663,Hannover 96 U19 ,89660,-,Jannis Pläschke,11/12,Germany,42,Hannover 96 
+"Jul 1, 2010",,-,Germany,21064,Hannover 96 U17 ,89660,-,Jannis Pläschke,10/11,Germany,2663,Hannover 96 U19 
+"Jul 1, 2008",,-,Germany,17295,Hannover Yth. ,89660,-,Jannis Pläschke,08/09,Germany,21064,Hannover 96 U17 
+"Jul 1, 2007",,Free transfer,Germany,18657,Braunschw. Jgd. ,89660,-,Jannis Pläschke,07/08,Germany,17295,Hannover Yth. 
+"Jan 6, 2015",,250 Th. €,Germany,82,VfL Wolfsburg ,92738,"1,50 Mill. €",Mateusz Klich,14/15,Germany,2,1.FC K'lautern 
+"Jul 1, 2014",,750 Th. €,Netherlands,1269,PEC Zwolle ,92738,"2,00 Mill. €",Mateusz Klich,14/15,Germany,82,VfL Wolfsburg 
+"Jul 1, 2013",,200 Th. €,Germany,82,VfL Wolfsburg ,92738,750 Th. €,Mateusz Klich,13/14,Netherlands,1269,PEC Zwolle 
+"Jun 30, 2013",,End of loan,Netherlands,1269,PEC Zwolle ,92738,750 Th. €,Mateusz Klich,12/13,Germany,82,VfL Wolfsburg 
+"Jan 31, 2013",,Loan fee:100 Th. €,Germany,82,VfL Wolfsburg ,92738,500 Th. €,Mateusz Klich,12/13,Netherlands,1269,PEC Zwolle 
+"Jul 1, 2011",,"1,50 Mill. €",Poland,5689,Cracovia Kraków ,92738,"1,50 Mill. €",Mateusz Klich,11/12,Germany,82,VfL Wolfsburg 
+"Jul 1, 2008",,-,Poland,15512,Cracovia U19 ,92738,-,Mateusz Klich,08/09,Poland,5689,Cracovia Kraków 
+"Jun 30, 2016",,End of loan,England,1148,Brentford ,92989,"1,50 Mill. €",Marco Djuricin,15/16,Austria,409,RB Salzburg 
+"Aug 31, 2015",,Loan,Austria,409,RB Salzburg ,92989,"1,75 Mill. €",Marco Djuricin,15/16,England,1148,Brentford 
+"Jan 8, 2015",,"2,50 Mill. €",Austria,122,Sturm Graz ,92989,"1,25 Mill. €",Marco Djuricin,14/15,Austria,409,RB Salzburg 
+"Jul 1, 2013",,Free transfer,Germany,44,Hertha BSC ,92989,350 Th. €,Marco Djuricin,13/14,Austria,122,Sturm Graz 
+"Jun 30, 2013",,End of loan,Germany,109,Jahn Regensburg ,92989,350 Th. €,Marco Djuricin,12/13,Germany,44,Hertha BSC 
+"Aug 9, 2012",,Loan,Germany,44,Hertha BSC ,92989,350 Th. €,Marco Djuricin,12/13,Germany,109,Jahn Regensburg 
+"Jul 1, 2010",,-,Germany,2827,Hertha BSC U19 ,92989,50 Th. €,Marco Djuricin,10/11,Germany,44,Hertha BSC 
+"Jul 1, 2009",,-,Germany,21066,Hertha BSC U17 ,92989,-,Marco Djuricin,09/10,Germany,2827,Hertha BSC U19 
+"Jul 1, 2008",,Free transfer,Austria,20154,Stadlau Jugend ,92989,-,Marco Djuricin,08/09,Germany,21066,Hertha BSC U17 
+"Mar 31, 2008",,?,Austria,42824,AKA Rapid U16 ,92989,-,Marco Djuricin,07/08,Austria,20154,Stadlau Jugend 
+"Jul 1, 2007",,-,Austria,42823,AKA Rapid U15 ,92989,-,Marco Djuricin,07/08,Austria,42824,AKA Rapid U16 
+"Jul 1, 2006",,Free transfer,Austria,10198,Austria Youth ,92989,-,Marco Djuricin,06/07,Austria,42823,AKA Rapid U15 
+"Aug 1, 2005",,?,Austria,20134,Rapid Jugend ,92989,-,Marco Djuricin,05/06,Austria,10198,Austria Youth 
+"Jan 1, 2004",,?,Austria,20261,SV Donau Jugend ,92989,-,Marco Djuricin,03/04,Austria,20134,Rapid Jugend 
+"Sep 2, 2013",,150 Th. €,Germany,86,Werder Bremen ,93571,800 Th. €,Florian Hartherz,13/14,Germany,127,SC Paderborn 
+"Aug 31, 2011",,200 Th. €,Germany,143,Wolfsburg II ,93571,100 Th. €,Florian Hartherz,11/12,Germany,86,Werder Bremen 
+"Jul 1, 2011",,-,Germany,5343,Wolfsburg U19 ,93571,-,Florian Hartherz,11/12,Germany,143,Wolfsburg II 
+"Jul 1, 2010",,-,Germany,21087,Wolfsburg U17 ,93571,-,Florian Hartherz,10/11,Germany,5343,Wolfsburg U19 
+"Jul 1, 2009",,?,Germany,21057,Frankfurt U17 ,93571,-,Florian Hartherz,09/10,Germany,21087,Wolfsburg U17 
+"Jul 1, 2008",,-,Germany,12016,Frankfurt Jgd. ,93571,-,Florian Hartherz,08/09,Germany,21057,Frankfurt U17 
+"Sep 2, 2013",,150 Th. €,Germany,86,Werder Bremen ,93740,800 Th. €,Florian Hartherz,13/14,Germany,127,SC Paderborn 
+"Aug 31, 2011",,200 Th. €,Germany,143,Wolfsburg II ,93740,100 Th. €,Florian Hartherz,11/12,Germany,86,Werder Bremen 
+"Jul 1, 2011",,-,Germany,5343,Wolfsburg U19 ,93740,-,Florian Hartherz,11/12,Germany,143,Wolfsburg II 
+"Jul 1, 2010",,-,Germany,21087,Wolfsburg U17 ,93740,-,Florian Hartherz,10/11,Germany,5343,Wolfsburg U19 
+"Jul 1, 2009",,?,Germany,21057,Frankfurt U17 ,93740,-,Florian Hartherz,09/10,Germany,21087,Wolfsburg U17 
+"Jul 1, 2008",,-,Germany,12016,Frankfurt Jgd. ,93740,-,Florian Hartherz,08/09,Germany,21057,Frankfurt U17 
+"Jul 1, 2015",,500 Th. €,Germany,86,Werder Bremen ,93768,200 Th. €,Richard Strebinger,15/16,Austria,170,Rapid Vienna 
+"Jun 30, 2015",,End of loan,Germany,109,Jahn Regensburg ,93768,200 Th. €,Richard Strebinger,14/15,Germany,86,Werder Bremen 
+"Jan 27, 2015",,Loan,Germany,86,Werder Bremen ,93768,200 Th. €,Richard Strebinger,14/15,Germany,109,Jahn Regensburg 
+"Jul 1, 2012",,Free transfer,Germany,45,Hertha BSC II ,93768,150 Th. €,Richard Strebinger,12/13,Germany,86,Werder Bremen 
+"Jul 1, 2011",,-,Germany,2827,Hertha BSC U19 ,93768,75 Th. €,Richard Strebinger,11/12,Germany,45,Hertha BSC II 
+"Jul 1, 2010",,-,Germany,21066,Hertha BSC U17 ,93768,-,Richard Strebinger,10/11,Germany,2827,Hertha BSC U19 
+"Jul 1, 2008",,Free transfer,Austria,7560,St. Pölten U18 ,93768,-,Richard Strebinger,08/09,Germany,21066,Hertha BSC U17 
+"Jul 1, 2015",,Free transfer,Germany,35,FC St. Pauli ,93831,400 Th. €,Tom Trybull,15/16,Germany,65,Greuther Fürth 
+"Jan 3, 2014",,100 Th. €,Germany,86,Werder Bremen ,93831,"1,50 Mill. €",Tom Trybull,13/14,Germany,35,FC St. Pauli 
+"Jul 1, 2011",,200 Th. €,Germany,30,Hansa Rostock ,93831,500 Th. €,Tom Trybull,11/12,Germany,86,Werder Bremen 
+"Nov 8, 2010",,-,Germany,4052,H. Rostock U19 ,93831,50 Th. €,Tom Trybull,10/11,Germany,30,Hansa Rostock 
+"Jan 1, 2010",,-,Germany,21065,H. Rostock U17 ,93831,-,Tom Trybull,09/10,Germany,4052,H. Rostock U19 
+"Jul 1, 2008",,Free transfer,Germany,36841,U. Berlin Jgd. ,93831,-,Tom Trybull,08/09,Germany,21065,H. Rostock U17 
+"Aug 31, 2014",,Free transfer,Germany,82,VfL Wolfsburg ,94205,125 Th. €,Kevin Scheidhauer,14/15,Germany,52,MSV Duisburg 
+"Jul 1, 2014",,-,Germany,143,Wolfsburg II ,94205,125 Th. €,Kevin Scheidhauer,14/15,Germany,82,VfL Wolfsburg 
+"Jul 1, 2013",,-,Germany,82,VfL Wolfsburg ,94205,250 Th. €,Kevin Scheidhauer,13/14,Germany,143,Wolfsburg II 
+"Jun 30, 2013",,End of loan,Germany,80,VfL Bochum ,94205,250 Th. €,Kevin Scheidhauer,12/13,Germany,82,VfL Wolfsburg 
+"Jul 1, 2012",,Loan fee:100 Th. €,Germany,82,VfL Wolfsburg ,94205,250 Th. €,Kevin Scheidhauer,12/13,Germany,80,VfL Bochum 
+"Jul 1, 2011",,-,Germany,5343,Wolfsburg U19 ,94205,-,Kevin Scheidhauer,11/12,Germany,82,VfL Wolfsburg 
+"Jul 1, 2009",,-,Germany,21087,Wolfsburg U17 ,94205,-,Kevin Scheidhauer,09/10,Germany,5343,Wolfsburg U19 
+"Jul 1, 2008",,Free transfer,Germany,31936,Lok Leipzig U17 ,94205,-,Kevin Scheidhauer,08/09,Germany,21087,Wolfsburg U17 
+"Jul 1, 2015",,Free transfer,Germany,143,Wolfsburg II ,94210,200 Th. €,Bjarne Thoelke,15/16,Germany,48,Karlsruher SC 
+"Jul 1, 2013",,-,Germany,82,VfL Wolfsburg ,94210,400 Th. €,Bjarne Thoelke,13/14,Germany,143,Wolfsburg II 
+"Jun 30, 2013",,End of loan,Germany,129,Dynamo Dresden ,94210,400 Th. €,Bjarne Thoelke,12/13,Germany,82,VfL Wolfsburg 
+"Jul 1, 2012",,Loan fee:50 Th. €,Germany,82,VfL Wolfsburg ,94210,700 Th. €,Bjarne Thoelke,12/13,Germany,129,Dynamo Dresden 
+"Jul 1, 2011",,-,Germany,143,Wolfsburg II ,94210,100 Th. €,Bjarne Thoelke,11/12,Germany,82,VfL Wolfsburg 
+"Jul 1, 2010",,-,Germany,5343,Wolfsburg U19 ,94210,-,Bjarne Thoelke,10/11,Germany,143,Wolfsburg II 
+"Jul 1, 2009",,-,Germany,21087,Wolfsburg U17 ,94210,-,Bjarne Thoelke,09/10,Germany,5343,Wolfsburg U19 
+"Jul 1, 2007",,-,Germany,12821,Wolfsburg Jgd. ,94210,-,Bjarne Thoelke,07/08,Germany,21087,Wolfsburg U17 
+"Jul 1, 2015",,"1,50 Mill. €",Portugal,1301,Marítimo ,94603,"1,60 Mill. €",Patrick Bauer,15/16,England,358,Charlton 
+"Jul 25, 2013",,150 Th. €,Germany,79,VfB Stuttgart ,94603,300 Th. €,Patrick Bauer,13/14,Portugal,1301,Marítimo 
+"Jun 30, 2013",,End of loan,Portugal,10787,Marítimo B ,94603,300 Th. €,Patrick Bauer,12/13,Germany,79,VfB Stuttgart 
+"Aug 14, 2012",,Loan,Germany,102,Stuttgart II ,94603,250 Th. €,Patrick Bauer,12/13,Portugal,10787,Marítimo B 
+"Jul 1, 2011",,-,Germany,2517,Stuttgart U19 ,94603,50 Th. €,Patrick Bauer,11/12,Germany,102,Stuttgart II 
+"Jul 1, 2009",,-,Germany,21084,Stuttgart U17 ,94603,-,Patrick Bauer,09/10,Germany,2517,Stuttgart U19 
+"Jun 30, 2016",,End of loan,Switzerland,434,FC Luzern ,95295,750 Th. €,Samed Yesil,15/16,England,31,Liverpool 
+"Aug 31, 2015",,Loan,England,31,Liverpool ,95295,"1,30 Mill. €",Samed Yesil,15/16,Switzerland,434,FC Luzern 
+"Aug 30, 2012",,"1,30 Mill. €",Germany,15,Bay. Leverkusen ,95295,600 Th. €,Samed Yesil,12/13,England,31,Liverpool 
+"Jul 1, 2012",,-,Germany,4713,Leverkusen U19 ,95295,600 Th. €,Samed Yesil,12/13,Germany,15,Bay. Leverkusen 
+"Feb 1, 2011",,-,Germany,21054,Leverkusen U17 ,95295,-,Samed Yesil,10/11,Germany,4713,Leverkusen U19 
+"Jul 1, 2009",,-,Germany,11874,Leverkusen Yth. ,95295,-,Samed Yesil,09/10,Germany,21054,Leverkusen U17 
+"Jul 1, 2005",,Free transfer,Germany,33316,BV 04 Jugend ,95295,-,Samed Yesil,05/06,Germany,11874,Leverkusen Yth. 
+"Jul 16, 2015",,"2,50 Mill. €",Germany,18,Bor. M'gladbach ,96167,"1,00 Mill. €",Amin Younes,15/16,Netherlands,610,AFC Ajax 
+"Jun 30, 2015",,End of loan,Germany,2,1.FC K'lautern ,96167,"1,00 Mill. €",Amin Younes,14/15,Germany,18,Bor. M'gladbach 
+"Aug 22, 2014",,Loan fee:100 Th. €,Germany,18,Bor. M'gladbach ,96167,"1,50 Mill. €",Amin Younes,14/15,Germany,2,1.FC K'lautern 
+"Jul 1, 2012",,-,Germany,1006,M'gladbach II ,96167,300 Th. €,Amin Younes,12/13,Germany,18,Bor. M'gladbach 
+"Jan 21, 2011",,-,Germany,4121,M'gladbach U19 ,96167,-,Amin Younes,10/11,Germany,1006,M'gladbach II 
+"Jul 1, 2010",,-,Germany,21056,M'gladbach U17 ,96167,-,Amin Younes,10/11,Germany,4121,M'gladbach U19 
+"Jul 1, 2008",,-,Germany,11845,M'gladbach Yth. ,96167,-,Amin Younes,08/09,Germany,21056,M'gladbach U17 
+"Jul 1, 2000",,10 Th. €,Germany,33188,Unterrath Jgd ,96167,-,Amin Younes,00/01,Germany,11845,M'gladbach Yth. 
+"Jul 1, 2015",,Free transfer,Germany,293,FSV Frankfurt ,99003,450 Th. €,Odise Roshi,15/16,Croatia,144,HNK Rijeka 
+"Jul 1, 2013",,Free transfer,Germany,3,1. FC Köln ,99003,600 Th. €,Odise Roshi,13/14,Germany,293,FSV Frankfurt 
+"Jun 30, 2013",,End of loan,Germany,293,FSV Frankfurt ,99003,600 Th. €,Odise Roshi,12/13,Germany,3,1. FC Köln 
+"Aug 6, 2012",,Loan,Germany,3,1. FC Köln ,99003,"1,00 Mill. €",Odise Roshi,12/13,Germany,293,FSV Frankfurt 
+"Jul 1, 2011",,Free transfer,Albania,12460,FC Flamurtari ,99003,250 Th. €,Odise Roshi,11/12,Germany,3,1. FC Köln 
+"Jul 1, 2009",,?,Albania,12448,KF Apolonia ,99003,-,Odise Roshi,09/10,Albania,12460,FC Flamurtari 
+"Jul 1, 2008",,-,Albania,27060,Apolonia U19 ,99003,-,Odise Roshi,08/09,Albania,12448,KF Apolonia 
+"Jul 6, 2015",,700 Th. €,Germany,79,VfB Stuttgart ,103310,"2,00 Mill. €",Gotoku Sakai,15/16,Germany,41,Hamburger SV 
+"Jul 1, 2013",,"1,20 Mill. €",Japan,8344,Albirex Niigata ,103310,"4,00 Mill. €",Gotoku Sakai,13/14,Germany,79,VfB Stuttgart 
+"Jun 30, 2013",,End of loan,Germany,79,VfB Stuttgart ,103310,"4,00 Mill. €",Gotoku Sakai,12/13,Japan,8344,Albirex Niigata 
+"Jan 3, 2012",,Loan fee:300 Th. €,Japan,8344,Albirex Niigata ,103310,"1,00 Mill. €",Gotoku Sakai,11/12,Germany,79,VfB Stuttgart 
+"Jan 1, 2008",,-,Japan,24107,Albirex Youth ,103310,-,Gotoku Sakai,07/08,Japan,8344,Albirex Niigata 
+"Jan 22, 2015",,250 Th. €,Germany,79,VfB Stuttgart ,104414,"1,00 Mill. €",Raphael Holzhauser,14/15,Austria,14,Austria Vienna 
+"Jun 30, 2014",,End of loan,Germany,167,FC Augsburg ,104414,"2,00 Mill. €",Raphael Holzhauser,13/14,Germany,79,VfB Stuttgart 
+"Jul 1, 2013",,Loan fee:300 Th. €,Germany,79,VfB Stuttgart ,104414,"3,00 Mill. €",Raphael Holzhauser,13/14,Germany,167,FC Augsburg 
+"Jul 1, 2012",,-,Germany,102,Stuttgart II ,104414,800 Th. €,Raphael Holzhauser,12/13,Germany,79,VfB Stuttgart 
+"Jul 1, 2010",,-,Germany,2517,Stuttgart U19 ,104414,-,Raphael Holzhauser,10/11,Germany,102,Stuttgart II 
+"Jul 1, 2009",,100 Th. €,Austria,4753,AKA Rapid U18 ,104414,-,Raphael Holzhauser,09/10,Germany,2517,Stuttgart U19 
+"Jul 1, 2007",,-,Austria,20134,Rapid Jugend ,104414,-,Raphael Holzhauser,07/08,Austria,4753,AKA Rapid U18 
+"Jul 1, 2003",,Free transfer,Austria,33912,Teesdorf Jgd ,104414,-,Raphael Holzhauser,03/04,Austria,20134,Rapid Jugend 
+"Jul 1, 2015",,Free transfer,Germany,129,Dynamo Dresden ,106103,100 Th. €,Alban Sabah,15/16,Germany,85,Waldh. Mannheim 
+"Jul 1, 2013",,Free transfer,Germany,34,Schalke 04 II ,106103,125 Th. €,Alban Sabah,13/14,Germany,129,Dynamo Dresden 
+"Jul 1, 2011",,-,Germany,1463,Schalke 04 U19 ,106103,-,Alban Sabah,11/12,Germany,34,Schalke 04 II 
+"Jul 1, 2009",,Free transfer,Germany,21416,Wattenschd. U17 ,106103,-,Alban Sabah,09/10,Germany,1463,Schalke 04 U19 
+"Jul 1, 2007",,-,Germany,24418,Wattensch. Jgd. ,106103,-,Alban Sabah,07/08,Germany,21416,Wattenschd. U17 
+"Jul 1, 2015",,"1,50 Mill. €",Germany,2,1.FC K'lautern ,110036,"2,00 Mill. €",Dominique Heintz,15/16,Germany,3,1. FC Köln 
+"Sep 1, 2011",,-,Germany,2371,K'lautern U19 ,110036,-,Dominique Heintz,11/12,Germany,2,1.FC K'lautern 
+"Jul 1, 2010",,-,Germany,21047,K'lautern U17 ,110036,-,Dominique Heintz,10/11,Germany,2371,K'lautern U19 
+"Jul 1, 2009",,-,Germany,12015,K'lautern Jgd. ,110036,-,Dominique Heintz,09/10,Germany,21047,K'lautern U17 
+"Jun 30, 2013",,End of loan,Germany,533,TSG Hoffenheim ,111881,"1,50 Mill. €",Takashi Usami,12/13,Japan,596,Gamba Osaka 
+"Jul 1, 2012",,Loan fee:300 Th. €,Japan,596,Gamba Osaka ,111881,"1,50 Mill. €",Takashi Usami,12/13,Germany,533,TSG Hoffenheim 
+"Jun 30, 2012",,End of loan,Germany,27,Bayern Munich  ,111881,"1,50 Mill. €",Takashi Usami,11/12,Japan,596,Gamba Osaka 
+"Jul 15, 2011",,Loan fee:300 Th. €,Japan,596,Gamba Osaka ,111881,"1,50 Mill. €",Takashi Usami,11/12,Germany,27,Bayern Munich  
+"Jan 1, 2009",,-,Japan,24111,Gamba Youth ,111881,-,Takashi Usami,08/09,Japan,596,Gamba Osaka 
+"Jul 2, 2015",,"2,20 Mill. €",Netherlands,306,SC Heerenveen ,112935,"2,50 Mill. €",Mark Uth,15/16,Germany,533,TSG Hoffenheim 
+"Jun 30, 2014",,End of loan,Netherlands,1304,Heracles Almelo ,112935,500 Th. €,Mark Uth,13/14,Netherlands,306,SC Heerenveen 
+"Sep 2, 2013",,Loan,Netherlands,306,SC Heerenveen ,112935,150 Th. €,Mark Uth,13/14,Netherlands,1304,Heracles Almelo 
+"Jul 1, 2012",,Free transfer,Germany,3,1. FC Köln ,112935,150 Th. €,Mark Uth,12/13,Netherlands,306,SC Heerenveen 
+"Jul 1, 2011",,-,Germany,438,1.FC Köln II ,112935,125 Th. €,Mark Uth,11/12,Germany,3,1. FC Köln 
+"Jul 1, 2010",,-,Germany,1461,1.FC Köln U19 ,112935,-,Mark Uth,10/11,Germany,438,1.FC Köln II 
+"Jul 1, 2009",,Free transfer,Germany,10075,Vikt. Köln U19 ,112935,-,Mark Uth,09/10,Germany,1461,1.FC Köln U19 
+"Jul 1, 2008",,-,Germany,34088,Vikt. Köln U17 ,112935,-,Mark Uth,08/09,Germany,10075,Vikt. Köln U19 
+"Jul 1, 2007",,Free transfer,Germany,11880,1.FC Köln Yth. ,112935,-,Mark Uth,07/08,Germany,34088,Vikt. Köln U17 
+"Oct 10, 2011",,-,Germany,5343,Wolfsburg U19 ,117674,-,Maximilian Arnold,11/12,Germany,82,VfL Wolfsburg 
+"Jan 1, 2011",,-,Germany,21087,Wolfsburg U17 ,117674,-,Maximilian Arnold,10/11,Germany,5343,Wolfsburg U19 
+"Jul 1, 2009",,Free transfer,Germany,29709,D. Dresden Jgd. ,117674,-,Maximilian Arnold,09/10,Germany,21087,Wolfsburg U17 
+"Jul 1, 2006",,Free transfer,Germany,53161,SC Riesa Jgd. ,117674,-,Maximilian Arnold,06/07,Germany,29709,D. Dresden Jgd. 
+"Jul 1, 2003",,Free transfer,Germany,53162,SV Strehla Jgd. ,117674,-,Maximilian Arnold,03/04,Germany,53161,SC Riesa Jgd. 
+"Jul 1, 2012",,-,Germany,2371,K'lautern U19 ,118161,50 Th. €,Marius Müller,12/13,Germany,2,1.FC K'lautern 
+"Jul 1, 2010",,-,Germany,21047,K'lautern U17 ,118161,-,Marius Müller,10/11,Germany,2371,K'lautern U19 
+"Jul 1, 2008",,-,Germany,12015,K'lautern Jgd. ,118161,-,Marius Müller,08/09,Germany,21047,K'lautern U17 
+"Jul 1, 2015",,"1,40 Mill. €",Germany,15,Bay. Leverkusen ,118847,"2,50 Mill. €",Dominik Kohr,15/16,Germany,167,FC Augsburg 
+"Jun 30, 2015",,End of loan,Germany,167,FC Augsburg ,118847,"2,00 Mill. €",Dominik Kohr,14/15,Germany,15,Bay. Leverkusen 
+"Jan 13, 2014",,Loan fee:150 Th. €,Germany,15,Bay. Leverkusen ,118847,500 Th. €,Dominik Kohr,13/14,Germany,167,FC Augsburg 
+"Jul 1, 2012",,-,Germany,4713,Leverkusen U19 ,118847,200 Th. €,Dominik Kohr,12/13,Germany,15,Bay. Leverkusen 
+"Jul 1, 2011",,-,Germany,21054,Leverkusen U17 ,118847,-,Dominik Kohr,11/12,Germany,4713,Leverkusen U19 
+"Jul 1, 2009",,-,Germany,11874,Leverkusen Yth. ,118847,-,Dominik Kohr,09/10,Germany,21054,Leverkusen U17 
+"Jul 23, 2015",,"2,00 Mill. €",Germany,2,1.FC K'lautern ,119037,"1,00 Mill. €",Philipp Hofmann,15/16,England,1148,Brentford 
+"Jul 1, 2014",,"1,00 Mill. €",Germany,33,FC Schalke 04 ,119037,"1,00 Mill. €",Philipp Hofmann,14/15,Germany,2,1.FC K'lautern 
+"Jun 30, 2014",,End of loan,Germany,4795,FC Ingolstadt ,119037,"1,00 Mill. €",Philipp Hofmann,13/14,Germany,33,FC Schalke 04 
+"Jul 13, 2013",,Loan fee:200 Th. €,Germany,33,FC Schalke 04 ,119037,600 Th. €,Philipp Hofmann,13/14,Germany,4795,FC Ingolstadt 
+"Jun 30, 2013",,End of loan,Germany,127,SC Paderborn ,119037,600 Th. €,Philipp Hofmann,12/13,Germany,33,FC Schalke 04 
+"Jul 30, 2012",,Loan fee:100 Th. €,Germany,33,FC Schalke 04 ,119037,200 Th. €,Philipp Hofmann,12/13,Germany,127,SC Paderborn 
+"Jul 1, 2012",,-,Germany,34,Schalke 04 II ,119037,100 Th. €,Philipp Hofmann,12/13,Germany,33,FC Schalke 04 
+"Jul 1, 2011",,-,Germany,1463,Schalke 04 U19 ,119037,-,Philipp Hofmann,11/12,Germany,34,Schalke 04 II 
+"Jul 1, 2010",,-,Germany,21061,Schalke 04 U17 ,119037,-,Philipp Hofmann,10/11,Germany,1463,Schalke 04 U19 
+"Jul 1, 2009",,Free transfer,Germany,47339,SC Neheim U17 ,119037,-,Philipp Hofmann,09/10,Germany,21061,Schalke 04 U17 
+"Jul 1, 2007",,Free transfer,Germany,53501,Wenholth. Jgd. ,119037,-,Philipp Hofmann,07/08,Germany,47340,SC Neheim Jgd. 
+"Jul 1, 2015",,Free transfer,Germany,27,Bayern Munich  ,119211,"2,00 Mill. €",Mitchell Weiser,15/16,Germany,44,Hertha BSC 
+"Jun 30, 2013",,End of loan,Germany,2,1.FC K'lautern ,119211,"1,50 Mill. €",Mitchell Weiser,12/13,Germany,27,Bayern Munich  
+"Jan 2, 2013",,Loan,Germany,27,Bayern Munich  ,119211,"1,00 Mill. €",Mitchell Weiser,12/13,Germany,2,1.FC K'lautern 
+"Jul 1, 2012",,800 Th. €,Germany,1461,1.FC Köln U19 ,119211,"1,00 Mill. €",Mitchell Weiser,12/13,Germany,27,Bayern Munich  
+"Jul 1, 2011",,-,Germany,21048,1.FC Köln U17 ,119211,-,Mitchell Weiser,11/12,Germany,1461,1.FC Köln U19 
+"Jul 1, 2009",,-,Germany,11880,1.FC Köln Yth. ,119211,-,Mitchell Weiser,09/10,Germany,21048,1.FC Köln U17 
+"Jul 1, 2005",,Free transfer,Germany,42498,Veltenhof Jgd. ,119211,-,Mitchell Weiser,05/06,Germany,11880,1.FC Köln Yth. 
+"Mar 3, 2016",,Loan,Brazil,1693,Londrina EC ,119988,450 Th. €,Michael Ortega,15/16,Brazil,4064,Figueirense FC 
+"Feb 17, 2016",,?,Colombia,11854,Atlético Junior ,119988,450 Th. €,Michael Ortega,15/16,Brazil,1693,Londrina EC 
+"Jul 1, 2013",,?,Mexico,8590,Atlas ,119988,450 Th. €,Michael Ortega,13/14,Colombia,11854,Atlético Junior 
+"Jun 30, 2013",,End of loan,Germany,80,VfL Bochum ,119988,450 Th. €,Michael Ortega,12/13,Mexico,8590,Atlas 
+"Aug 7, 2012",,Loan,Mexico,8590,Atlas ,119988,"1,00 Mill. €",Michael Ortega,12/13,Germany,80,VfL Bochum 
+"Jun 30, 2012",,End of loan,Germany,15,Bay. Leverkusen ,119988,"1,00 Mill. €",Michael Ortega,11/12,Mexico,8590,Atlas 
+"Aug 17, 2011",,Loan,Mexico,8590,Atlas ,119988,800 Th. €,Michael Ortega,11/12,Germany,15,Bay. Leverkusen 
+"Jul 1, 2010",,900 Th. €,Colombia,9961,Deportivo Cali ,119988,800 Th. €,Michael Ortega,10/11,Mexico,8590,Atlas 
+"Jan 1, 2009",,-,Colombia,20589,Dep. Cali U19 ,119988,-,Michael Ortega,08/09,Colombia,9961,Deportivo Cali 
+"Feb 1, 2016",,-,Germany,102,Stuttgart II ,120296,100 Th. €,Benjamin Uphoff,15/16,Germany,79,VfB Stuttgart 
+"Aug 31, 2015",,?,Germany,473,Nürnberg II ,120296,100 Th. €,Benjamin Uphoff,15/16,Germany,102,Stuttgart II 
+"Jul 1, 2015",,-,Germany,4,1.FC Nuremberg ,120296,100 Th. €,Benjamin Uphoff,15/16,Germany,473,Nürnberg II 
+"Jun 30, 2015",,End of loan,Germany,102,Stuttgart II ,120296,100 Th. €,Benjamin Uphoff,14/15,Germany,4,1.FC Nuremberg 
+"Aug 26, 2014",,Loan,Germany,4,1.FC Nuremberg ,120296,100 Th. €,Benjamin Uphoff,14/15,Germany,102,Stuttgart II 
+"Jul 1, 2013",,-,Germany,473,Nürnberg II ,120296,100 Th. €,Benjamin Uphoff,13/14,Germany,4,1.FC Nuremberg 
+"Jul 1, 2011",,Free transfer,Germany,8228,Burghausen U19 ,120296,-,Benjamin Uphoff,11/12,Germany,473,Nürnberg II 
+"Jul 1, 2010",,-,Germany,21128,Burghausen U17 ,120296,-,Benjamin Uphoff,10/11,Germany,8228,Burghausen U19 
+"Jul 1, 2008",,-,Germany,37564,Burghausen Jgd. ,120296,-,Benjamin Uphoff,08/09,Germany,21128,Burghausen U17 
+"Jan 1, 2015",,500 Th. €,Germany,533,TSG Hoffenheim ,120785,"1,00 Mill. €",Knowledge Musona,14/15,Belgium,2861,KV Oostende 
+"Jun 30, 2014",,End of loan,South Africa,568,Kaizer Chiefs ,120785,"1,00 Mill. €",Knowledge Musona,13/14,Germany,533,TSG Hoffenheim 
+"Jul 5, 2013",,Loan,Germany,533,TSG Hoffenheim ,120785,"1,00 Mill. €",Knowledge Musona,13/14,South Africa,568,Kaizer Chiefs 
+"Jun 30, 2013",,End of loan,Germany,167,FC Augsburg ,120785,"1,00 Mill. €",Knowledge Musona,12/13,Germany,533,TSG Hoffenheim 
+"Jul 1, 2012",,Loan fee:100 Th. €,Germany,533,TSG Hoffenheim ,120785,"1,50 Mill. €",Knowledge Musona,12/13,Germany,167,FC Augsburg 
+"Jul 28, 2011",,"1,50 Mill. €",South Africa,568,Kaizer Chiefs ,120785,800 Th. €,Knowledge Musona,11/12,Germany,533,TSG Hoffenheim 
+"Jul 1, 2009",,?,Zimbabwe,24586,Aces Youth ,120785,-,Knowledge Musona,09/10,South Africa,568,Kaizer Chiefs 
+"Jul 10, 2015",,Free transfer,Germany,389,Hamburger SV II ,121271,150 Th. €,Erdal Akdari,15/16,Germany,90,Babelsberg 03 
+"Jan 31, 2015",,-,Germany,515,Unattached ,121271,250 Th. €,Erdal Akdari,14/15,,389,Hamburger SV II 
+"Apr 17, 2014",,-,Turkey,3205,Kayserispor ,121271,250 Th. €,Erdal Akdari,13/14,,515,Unattached 
+"Jul 1, 2012",,Free transfer,Germany,42,Hannover 96 ,121271,100 Th. €,Erdal Akdari,12/13,Turkey,3205,Kayserispor 
+"Jul 1, 2011",,-,Germany,2663,Hannover 96 U19 ,121271,-,Erdal Akdari,11/12,Germany,42,Hannover 96 
+"Jul 1, 2010",,-,Germany,21064,Hannover 96 U17 ,121271,-,Erdal Akdari,10/11,Germany,2663,Hannover 96 U19 
+"Jul 1, 2009",,Free transfer,Germany,40012,MTV Lbg. U17 ,121271,-,Erdal Akdari,09/10,Germany,21064,Hannover 96 U17 
+"Jul 1, 2008",,-,Germany,40011,MTV Lbg. Jgd. ,121271,-,Erdal Akdari,08/09,Germany,40012,MTV Lbg. U17 
+"Jul 17, 2014",,"10,00 Mill. €",Germany,60,SC Freiburg ,124502,"12,00 Mill. €",Matthias Ginter,14/15,Germany,16,Bor. Dortmund 
+"Jan 23, 2012",,-,Germany,4042,SC Freiburg U19 ,124502,200 Th. €,Matthias Ginter,11/12,Germany,60,SC Freiburg 
+"Jul 1, 2010",,-,Germany,21075,SC Freiburg U17 ,124502,-,Matthias Ginter,10/11,Germany,4042,SC Freiburg U19 
+"Jul 1, 2009",,-,Germany,18042,Freiburg Jgd. ,124502,-,Matthias Ginter,09/10,Germany,21075,SC Freiburg U17 
+"Jul 1, 2005",,Free transfer,Germany,39665,SV March Jgd. ,124502,-,Matthias Ginter,05/06,Germany,18042,Freiburg Jgd. 
+"Jul 1, 2011",,-,Germany,45,Hertha BSC II ,124732,100 Th. €,John Anthony Brooks,11/12,Germany,44,Hertha BSC 
+"Jan 1, 2011",,-,Germany,2827,Hertha BSC U19 ,124732,-,John Anthony Brooks,10/11,Germany,45,Hertha BSC II 
+"Jul 1, 2010",,-,Germany,21066,Hertha BSC U17 ,124732,-,John Anthony Brooks,10/11,Germany,2827,Hertha BSC U19 
+"Jul 1, 2009",,-,Germany,11844,Hertha BSC Yth. ,124732,-,John Anthony Brooks,09/10,Germany,21066,Hertha BSC U17 
+"Jul 1, 2007",,Free transfer,Germany,39378,Zehlendorf Jgd. ,124732,-,John Anthony Brooks,07/08,Germany,11844,Hertha BSC Yth. 
+"Jul 1, 2014",,750 Th. €,Germany,293,FSV Frankfurt ,126214,"1,50 Mill. €",Mathew Leckie,14/15,Germany,4795,FC Ingolstadt 
+"Jul 1, 2013",,300 Th. €,Germany,18,Bor. M'gladbach ,126214,750 Th. €,Mathew Leckie,13/14,Germany,293,FSV Frankfurt 
+"Jun 30, 2013",,End of loan,Germany,293,FSV Frankfurt ,126214,750 Th. €,Mathew Leckie,12/13,Germany,18,Bor. M'gladbach 
+"Jul 1, 2012",,Loan fee:50 Th. €,Germany,18,Bor. M'gladbach ,126214,700 Th. €,Mathew Leckie,12/13,Germany,293,FSV Frankfurt 
+"Jul 1, 2011",,Free transfer,Australia,875,Adelaide United ,126214,"1,00 Mill. €",Mathew Leckie,11/12,Germany,18,Bor. M'gladbach 
+"Jul 1, 2009",,?,Australia,25908,Bulleen Lions ,126214,-,Mathew Leckie,09/10,Australia,875,Adelaide United 
+"Jul 1, 2007",,-,Australia,12604,Own Youth ,126214,-,Mathew Leckie,07/08,,25908,Bulleen Lions 
+"Jul 24, 2015",,?,Germany,533,TSG Hoffenheim ,130227,350 Th. €,Sandro Wieser,15/16,Switzerland,938,FC Thun 
+"Jun 30, 2015",,End of loan,Switzerland,116,FC Aarau ,130227,350 Th. €,Sandro Wieser,14/15,Germany,533,TSG Hoffenheim 
+"Jul 1, 2014",,Loan,Germany,533,TSG Hoffenheim ,130227,600 Th. €,Sandro Wieser,14/15,Switzerland,116,FC Aarau 
+"Jun 30, 2014",,End of loan,Austria,266,SV  Ried ,130227,600 Th. €,Sandro Wieser,13/14,Germany,533,TSG Hoffenheim 
+"Jul 1, 2013",,Loan,Germany,533,TSG Hoffenheim ,130227,600 Th. €,Sandro Wieser,13/14,Austria,266,SV  Ried 
+"Jan 1, 2012",,"1,00 Mill. €",Switzerland,26,FC Basel ,130227,200 Th. €,Sandro Wieser,11/12,Germany,533,TSG Hoffenheim 
+"Jan 1, 2011",,-,Switzerland,5299,FC Basel U21 ,130227,150 Th. €,Sandro Wieser,10/11,Switzerland,26,FC Basel 
+"Jul 1, 2010",,-,Switzerland,14322,FC Basel U18 ,130227,-,Sandro Wieser,10/11,Switzerland,5299,FC Basel U21 
+"Jul 1, 2009",,-,Switzerland,32336,FC Basel U16 ,130227,-,Sandro Wieser,09/10,Switzerland,14322,FC Basel U18 
+"Jul 1, 2015",,"4,50 Mill. €",Germany,3,1. FC Köln ,142281,"4,50 Mill. €",Anthony Ujah,15/16,Germany,86,Werder Bremen 
+"Jul 8, 2013",,"2,30 Mill. €",Germany,39,1.FSV Mainz 05 ,142281,"1,75 Mill. €",Anthony Ujah,13/14,Germany,3,1. FC Köln 
+"Jun 30, 2013",,End of loan,Germany,3,1. FC Köln ,142281,"1,75 Mill. €",Anthony Ujah,12/13,Germany,39,1.FSV Mainz 05 
+"Aug 31, 2012",,Loan fee:100 Th. €,Germany,39,1.FSV Mainz 05 ,142281,"1,75 Mill. €",Anthony Ujah,12/13,Germany,3,1. FC Köln 
+"Jul 1, 2011",,"2,30 Mill. €",Norway,353,Lilleström SK ,142281,"2,60 Mill. €",Anthony Ujah,11/12,Germany,39,1.FSV Mainz 05 
+"Jan 1, 2010",,?,Nigeria,23106,Warri Wolves FC ,142281,-,Anthony Ujah,09/10,Norway,353,Lilleström SK 
+"Jan 1, 2009",,?,Nigeria,39479,Abuja FC ,142281,-,Anthony Ujah,08/09,Nigeria,23106,Warri Wolves FC 
+"Jul 1, 2015",,Free transfer,Denmark,206,Bröndby IF ,151582,400 Th. €,Ferhan Hasani,15/16,Macedonia,1167,Shkendija 
+"Sep 2, 2013",,350 Th. €,Germany,82,VfL Wolfsburg ,151582,400 Th. €,Ferhan Hasani,13/14,Denmark,206,Bröndby IF 
+"Jan 2, 2012",,400 Th. €,Macedonia,1167,Shkendija ,151582,650 Th. €,Ferhan Hasani,11/12,Germany,82,VfL Wolfsburg 
+"Jul 1, 2007",,-,Macedonia,35725,Shkendija U19 ,151582,-,Ferhan Hasani,07/08,Macedonia,1167,Shkendija 
+"Aug 3, 2014",,Free transfer,Italy,130,Parma ,153637,700 Th. €,Mikael Ishak,14/15,Denmark,5724,Randers FC 
+"Jun 30, 2014",,End of loan,Italy,4083,Crotone ,153637,600 Th. €,Mikael Ishak,13/14,Italy,130,Parma 
+"Aug 21, 2013",,Loan,Italy,130,Parma ,153637,600 Th. €,Mikael Ishak,13/14,Italy,4083,Crotone 
+"Aug 6, 2013",,?,Germany,3,1. FC Köln ,153637,600 Th. €,Mikael Ishak,13/14,Italy,130,Parma 
+"Jun 30, 2013",,End of loan,Switzerland,257,FC St. Gallen ,153637,600 Th. €,Mikael Ishak,12/13,Germany,3,1. FC Köln 
+"Feb 6, 2013",,Loan,Germany,3,1. FC Köln ,153637,600 Th. €,Mikael Ishak,12/13,Switzerland,257,FC St. Gallen 
+"Jan 1, 2012",,280 Th. €,Sweden,4380,Assyriska FF ,153637,40 Th. €,Mikael Ishak,11/12,Germany,3,1. FC Köln 
+"Jan 1, 2010",,-,Sweden,8856,Assyriska U19 ,153637,-,Mikael Ishak,09/10,Sweden,4380,Assyriska FF 
+"Jul 1, 2011",,-,Germany,4780,FC Augsburg U19 ,156676,-,Ioannis Gelios,11/12,Germany,167,FC Augsburg 
+"Jul 1, 2009",,-,Germany,29176,FC Augsburg U17 ,156676,-,Ioannis Gelios,09/10,Germany,4780,FC Augsburg U19 
+"Jul 1, 2007",,-,Germany,28103,Augsburg Jgd. ,156676,-,Ioannis Gelios,07/08,Germany,29176,FC Augsburg U17 
+"Jul 1, 2013",,Free transfer,Germany,167,FC Augsburg ,156715,100 Th. €,Marco Thiede,13/14,Germany,254,SV Sandhausen 
+"Aug 9, 2011",,-,Germany,4780,FC Augsburg U19 ,156715,-,Marco Thiede,11/12,Germany,167,FC Augsburg 
+"Jul 1, 2009",,-,Germany,29176,FC Augsburg U17 ,156715,-,Marco Thiede,09/10,Germany,4780,FC Augsburg U19 
+"Jul 1, 2007",,-,Germany,28103,Augsburg Jgd. ,156715,-,Marco Thiede,07/08,Germany,29176,FC Augsburg U17 
+"Jul 21, 2014",,400 Th. €,Germany,2,1.FC K'lautern ,157539,"1,20 Mill. €",Konstantinos Fortounis,14/15,Greece,683,Olympiacos 
+"Jul 1, 2011",,250 Th. €,Greece,6676,Ast. Tripolis ,157539,800 Th. €,Konstantinos Fortounis,11/12,Germany,2,1.FC K'lautern 
+"Jul 1, 2010",,45 Th. €,Greece,3993,AO Trikala ,157539,-,Konstantinos Fortounis,10/11,Greece,6676,Ast. Tripolis 
+"Jul 1, 2008",,Free transfer,Greece,7661,Olympiakos U20 ,157539,-,Konstantinos Fortounis,08/09,Greece,3993,AO Trikala 
+"Jul 1, 2014",,120 Th. €,Germany,533,TSG Hoffenheim ,160670,150 Th. €,Joseph-Claude Gyau,14/15,Germany,17,B. Dortmund II 
+"Jun 30, 2013",,End of loan,Germany,35,FC St. Pauli ,160670,300 Th. €,Joseph-Claude Gyau,12/13,Germany,533,TSG Hoffenheim 
+"Aug 30, 2012",,Loan fee:50 Th. €,Germany,533,TSG Hoffenheim ,160670,200 Th. €,Joseph-Claude Gyau,12/13,Germany,35,FC St. Pauli 
+"Jul 1, 2012",,-,Germany,983,Hoffenheim II ,160670,200 Th. €,Joseph-Claude Gyau,12/13,Germany,533,TSG Hoffenheim 
+"Jan 1, 2011",,-,Germany,8925,Hoffenheim U19 ,160670,-,Joseph-Claude Gyau,10/11,Germany,983,Hoffenheim II 
+"Jul 1, 2010",,Free transfer,United States,36141,Bethesda Roadr. ,160670,-,Joseph-Claude Gyau,10/11,Germany,8925,Hoffenheim U19 
+"Jun 30, 2016",,End of loan,Netherlands,317,FC Twente ,175709,300 Th. €,Stefan Thesker,15/16,Germany,65,Greuther Fürth 
+"Jan 28, 2016",,Loan,Germany,65,Greuther Fürth ,175709,500 Th. €,Stefan Thesker,15/16,Netherlands,317,FC Twente 
+"Jan 5, 2015",,100 Th. €,Germany,42,Hannover 96 ,175709,500 Th. €,Stefan Thesker,14/15,Germany,65,Greuther Fürth 
+"Jul 1, 2014",,Free transfer,Germany,533,TSG Hoffenheim ,175709,400 Th. €,Stefan Thesker,14/15,Germany,42,Hannover 96 
+"Jan 2, 2012",,100 Th. €,Netherlands,18026,FC Twente U21 ,175709,100 Th. €,Stefan Thesker,11/12,Germany,533,TSG Hoffenheim 
+"Jun 30, 2011",,End of loan,Netherlands,385,Fortuna Sittard ,175709,100 Th. €,Stefan Thesker,10/11,Netherlands,18026,FC Twente U21 
+"Jan 20, 2011",,Loan,Netherlands,18026,FC Twente U21 ,175709,-,Stefan Thesker,10/11,Netherlands,385,Fortuna Sittard 
+"Jul 1, 2010",,-,Netherlands,6200,FC Twente U19 ,175709,-,Stefan Thesker,10/11,Netherlands,18026,FC Twente U21 
+"Jul 1, 2008",,-,Netherlands,32796,FC Twente Youth ,175709,-,Stefan Thesker,08/09,Netherlands,6200,FC Twente U19 
+"Jul 1, 2005",,Free transfer,Germany,11884,Schalke 04 Jgd. ,175709,-,Stefan Thesker,05/06,Netherlands,32796,FC Twente Youth 
+"Jul 1, 2015",,Free transfer,Poland,7153,Zawisza ,193554,300 Th. €,Jakub Swierczok,15/16,Poland,3291,Gornik Leczna 
+"Jan 8, 2015",,Free transfer,Germany,151,K'lautern II ,193554,100 Th. €,Jakub Swierczok,14/15,Poland,7153,Zawisza 
+"Jul 1, 2013",,-,Germany,2,1.FC K'lautern ,193554,500 Th. €,Jakub Swierczok,13/14,Germany,151,K'lautern II 
+"Jun 30, 2013",,End of loan,Poland,6112,Piast Gliwice ,193554,500 Th. €,Jakub Swierczok,12/13,Germany,2,1.FC K'lautern 
+"Jul 23, 2012",,Loan,Germany,2,1.FC K'lautern ,193554,500 Th. €,Jakub Swierczok,12/13,Poland,6112,Piast Gliwice 
+"Jan 1, 2012",,420 Th. €,Poland,7976,Polonia Bytom ,193554,125 Th. €,Jakub Swierczok,11/12,Germany,2,1.FC K'lautern 
+"Jul 1, 2011",,-,Poland,22569,Bytom II ,193554,-,Jakub Swierczok,11/12,Poland,7976,Polonia Bytom 
+"Jul 1, 2009",,5 Th. €,Poland,15512,Cracovia U19 ,193554,-,Jakub Swierczok,09/10,Poland,22569,Bytom II 
