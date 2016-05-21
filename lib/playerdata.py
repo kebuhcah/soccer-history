@@ -7,11 +7,7 @@ for league in ['GB1','ES1','L1','FR1','IT1','PO1','NL1','MLS1','TR1','RU1','GB2'
         personalFile='data/personal/'+filename+'.csv'
         transfersFile='data/transfers/'+filename+'.csv'
         indexFile='data/index/'+filename+'.csv'
-        if os.path.isfile(personalFile) and os.path.isfile(transfersFile) \
-            and (not 'error' in pd.read_csv(personalFile).columns) \
-            and (not 'error' in pd.read_csv(transfersFile).columns):
-            print str(datetime.datetime.now()), filename, "files already complete"
-        elif not os.path.isfile(indexFile):
+        if not os.path.isfile(indexFile):
             print str(datetime.datetime.now()), filename, "index file missing!"
         else:
             print str(datetime.datetime.now()), "retrieving", filename
@@ -48,7 +44,7 @@ for league in ['GB1','ES1','L1','FR1','IT1','PO1','NL1','MLS1','TR1','RU1','GB2'
                 except Exception as e:
                     print "url error", e
                     bs = None
-                if id in personalTodo:
+                if bs != None and id in personalTodo:
                     try:
                         data = getPlayerDataFromBs(bs)
                         data.update({'id':id})
@@ -56,7 +52,7 @@ for league in ['GB1','ES1','L1','FR1','IT1','PO1','NL1','MLS1','TR1','RU1','GB2'
                         print "personal error", e
                         data = {'id':id, 'error': e}
                     dataList.append(data)
-                if id in transfersTodo:
+                if bs != None and id in transfersTodo:
                     transfers = [{'id':id, 'error': 'idk'}]
                     try:
                         transfers = getTransfersFromBs(bs)
@@ -71,6 +67,8 @@ for league in ['GB1','ES1','L1','FR1','IT1','PO1','NL1','MLS1','TR1','RU1','GB2'
                 oldPersonal = pd.read_csv(personalFile)
                 if 'id' in oldPersonal.columns:
                     oldPersonal.index = oldPersonal['id']
+                    if 'error' in oldPersonal.columns:
+                        oldPersonal = oldPersonal.drop('error',axis=1)
                     personalOutput = personalOutput.merge(oldPersonal,how='left',left_index=True,right_index=True,suffixes=['_XX',''])
                     personalOutput = personalOutput[[c for c in personalOutput.columns if not c.endswith('_XX')]]
             personalOutput = personalOutput.merge(personalFrame,how='left',left_index=True,right_index=True,suffixes=['_XX',''])
@@ -84,6 +82,8 @@ for league in ['GB1','ES1','L1','FR1','IT1','PO1','NL1','MLS1','TR1','RU1','GB2'
                 transfersOutput = pd.concat([DataFrame(transfers) for transfers in transfersList], ignore_index=True)
                 if os.path.isfile(transfersFile):
                     oldTransfers = pd.read_csv(transfersFile)
+                    if 'error' in oldTransfers.columns:
+                        oldTransfers = oldTransfers.drop('error',axis=1)                    
                     transfersOutput = pd.concat([oldTransfers,transfersOutput], ignore_index=True)
-                transfersOutput.to_csv(transfersFile,index=False,encoding='utf-8')
+                transfersOutput.drop_duplicates().to_csv(transfersFile,index=False,encoding='utf-8')
             print str(datetime.datetime.now()), "done"
