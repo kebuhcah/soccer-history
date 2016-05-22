@@ -97,7 +97,8 @@ def getPlayerDataFromBs(bs):
     if "Place of birth" in result3:
         result3["Country of birth"] = result3["Place of birth"].split("COUNTRY:")[-1].strip()
         result3["Place of birth"] = result3["Place of birth"].split("COUNTRY:")[0].strip()
-    result3["Nationality"] = re.sub('\s+', ' ', result3["Nationality"])
+    if "Nationality" in result3:
+        result3["Nationality"] = re.sub('\s+', ' ', result3["Nationality"])
     if "on loan from" in result3:
         result3["on loan from club id"] = result3["on loan from"].split("/verein/")[-1].strip()
         result3["on loan from"] = result3["on loan from"].split("HREFs:")[0].strip()
@@ -105,7 +106,7 @@ def getPlayerDataFromBs(bs):
         result3["2nd club id"] = result3["2nd club"].split("/verein/")[-1].strip()
         result3["2nd club"] = result3["2nd club"].split("HREFs:")[0].strip()
     if "Social media" in result3:    
-        socialmedia = dict([(url.split("://")[-1].split("/")[0].split(".")[-2].strip(), url) for url in result3["Social media"].split("SOCMED: ")[-1].split("####") if url.startswith("http")])    
+        socialmedia = dict([(url.split("://")[-1].split("/")[0].split(".com")[0].split(".")[-1].strip(), url) for url in result3["Social media"].split("SOCMED: ")[-1].split("####") if url.startswith("http")])    
         for platform in ['twitter', 'facebook', 'instagram']:
             if platform in socialmedia:
                 result3[platform]=socialmedia[platform]
