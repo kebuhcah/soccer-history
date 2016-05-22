@@ -90,9 +90,13 @@ def extractLeagues(leagues):
                 print str(datetime.datetime.now()), "done"
 
 #['GB1','ES1','L1','FR1','IT1','PO1','NL1','MLS1','TR1','RU1','GB2','BE1']
-#['GB1','IT1','TR1']
-#['ES1','PO1','RU1']
-#['L1','NL1','GB2']
-#['FR1','MLS1','BE1']
 
+#python lib/playerdata.py GB1 IT1 TR1
+#python lib/playerdata.py ES1 PO1 RU1
+#python lib/playerdata.py L1 NL1 GB2
+#python lib/playerdata.py FR1 MLS1 BE1
+
+#python lib/playerdata.py GB1 FR1 NL1 RU1
+#python lib/playerdata.py ES1 IT1 MLS1 GB2
+#python lib/playerdata.py L1 PO1 TR1 BE1
 extractLeagues(sys.argv[1:])
