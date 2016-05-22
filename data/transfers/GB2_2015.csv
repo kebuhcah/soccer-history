@@ -1,325 +1,886 @@
 date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
-"Jul 1, 2016",,?,Austria,122,Sturm Graz ,20381,"1,00 Mill. €",Michael Madl,16/17,England,931,Fulham FC 
-"Jun 30, 2016",,End of loan,England,931,Fulham FC ,20381,"1,00 Mill. €",Michael Madl,15/16,Austria,122,Sturm Graz 
-"Jan 29, 2016",,Loan,Austria,122,Sturm Graz ,20381,"1,00 Mill. €",Michael Madl,15/16,England,931,Fulham FC 
-"Jul 1, 2012",,Free transfer,Austria,17444,Wiener Neustadt ,20381,550 Th. €,Michael Madl,12/13,Austria,122,Sturm Graz 
-"Jul 1, 2010",,Free transfer,Austria,14,Austria Vienna ,20381,250 Th. €,Michael Madl,10/11,Austria,17444,Wiener Neustadt 
-"Jun 30, 2008",,End of loan,Austria,2444,FC Wacker ,20381,550 Th. €,Michael Madl,07/08,Austria,14,Austria Vienna 
-"Aug 31, 2007",,Loan fee:5 Th. €,Austria,14,Austria Vienna ,20381,300 Th. €,Michael Madl,07/08,Austria,2444,FC Wacker 
-"Jan 1, 2007",,-,Austria,4383,Austria Wien II ,20381,225 Th. €,Michael Madl,06/07,Austria,14,Austria Vienna 
-"Jul 1, 2004",,-,Austria,6611,Austria U19 ,20381,-,Michael Madl,04/05,Austria,4383,Austria Wien II 
-"Jan 1, 2004",,-,Austria,42818,FAK U17 ,20381,-,Michael Madl,03/04,Austria,6611,Austria U19 
-"Jul 1, 2003",,-,Austria,42817,FAK U15 ,20381,-,Michael Madl,03/04,Austria,42818,FAK U17 
-"Jul 5, 2002",,?,Austria,48695,Kobenz Jgd. ,20381,-,Michael Madl,02/03,Austria,42817,FAK U15 
-"Aug 4, 2015",,200 Th. €,Norway,5619,Aalesunds FK ,47781,500 Th. €,Sakari Mattila,15/16,England,931,Fulham FC 
-"Jan 1, 2014",,Free transfer,Finland,1008,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,13/14,Norway,5619,Aalesunds FK 
-"May 28, 2013",,Free transfer,Switzerland,2047,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,12/13,Finland,1008,HJK Helsinki 
-"Dec 31, 2012",,End of loan,Finland,1008,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,12/13,Switzerland,2047,AC Bellinzona 
-"Aug 5, 2012",,Loan,Switzerland,2047,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,12/13,Finland,1008,HJK Helsinki 
-"Jul 1, 2011",,?,Italy,410,Udinese Calcio ,47781,250 Th. €,Sakari Mattila,11/12,Switzerland,2047,AC Bellinzona 
-"Jun 30, 2011",,End of loan,Switzerland,2047,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,10/11,Italy,410,Udinese Calcio 
-"Jul 1, 2010",,Loan,Italy,410,Udinese Calcio ,47781,250 Th. €,Sakari Mattila,10/11,Switzerland,2047,AC Bellinzona 
-"Jun 30, 2010",,End of loan,Italy,408,Ascoli ,47781,250 Th. €,Sakari Mattila,09/10,Italy,410,Udinese 
-"Jul 1, 2009",,Loan,Italy,410,Udinese ,47781,250 Th. €,Sakari Mattila,09/10,Italy,408,Ascoli 
-"Jan 1, 2009",,800 Th. €,Finland,1008,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,08/09,Italy,410,Udinese 
-"Jan 1, 2008",,-,Finland,15665,HJK U19 ,47781,-,Sakari Mattila,07/08,Finland,1008,HJK Helsinki 
-"Aug 14, 2015",,"2,10 Mill. €",England,350,Sheffield Utd. ,51730,750 Th. €,Jamie Murphy,15/16,England,1237,Brighton 
-"Jan 3, 2013",,?,Scotland,987,Motherwell FC ,51730,950 Th. €,Jamie Murphy,12/13,England,350,Sheffield Utd. 
-"Jul 1, 2008",,-,Scotland,2987,Motherwell FC U20 ,51730,50 Th. €,Jamie Murphy,08/09,Scotland,987,Motherwell FC 
-"Jul 1, 2006",,-,Scotland,31035,Motherwell FC U17 ,51730,-,Jamie Murphy,06/07,Scotland,2987,Motherwell FC U20 
-"Jul 1, 2013",,Free transfer,Scotland,987,Motherwell FC ,62319,550 Th. €,Chris Humphrey,13/14,England,466,Preston NE 
-"Jul 15, 2009",,?,England,3054,Shrewsbury Town ,62319,-,Chris Humphrey,09/10,Scotland,987,Motherwell FC 
-"Dec 1, 2007",,End of loan,England,4295,Stafford Rangers ,62319,-,Chris Humphrey,07/08,England,3054,Shrewsbury Town 
-"Nov 1, 2007",,Loan,England,3054,Shrewsbury Town ,62319,-,Chris Humphrey,07/08,England,4295,Stafford Rangers 
-"Jul 1, 2006",,?,England,6951,West Brom U18 ,62319,-,Chris Humphrey,06/07,England,3054,Shrewsbury Town 
-"Jul 1, 2004",,?,England,14627,Walsall U18 ,62319,-,Chris Humphrey,04/05,England,6951,West Brom U18 
-"Jul 24, 2015",,"1,30 Mill. €",Sweden,801,IFK Göteborg ,62680,"2,00 Mill. €",Lasse Vibe,15/16,England,1148,Brentford 
-"Jul 1, 2013",,650 Th. €,Denmark,5817,SönderjyskE ,62680,"1,00 Mill. €",Lasse Vibe,13/14,Sweden,801,IFK Göteborg 
-"Jan 1, 2012",,?,Denmark,20100,Vestsjaelland ,62680,400 Th. €,Lasse Vibe,11/12,Denmark,5817,SönderjyskE 
-"Jul 1, 2010",,Free transfer,Denmark,10399,FC Fyn ,62680,100 Th. €,Lasse Vibe,10/11,Denmark,20100,Vestsjaelland 
-"Jan 1, 2009",,Free transfer,Denmark,678,Aarhus GF ,62680,100 Th. €,Lasse Vibe,08/09,Denmark,10399,FC Fyn 
-"Jan 1, 2007",,-,Denmark,19406,AGF Youth ,62680,-,Lasse Vibe,07/08,Denmark,678,Aarhus GF 
-"Jul 1, 2006",,-,Denmark,9066,Aarhus GF U19 ,62680,-,Lasse Vibe,06/07,Denmark,19406,AGF Youth 
-"Jul 1, 2014",,?,England,3684,Stevenage FC ,66923,150 Th. €,Luke Freeman,14/15,England,698,Bristol City 
-"Jan 10, 2012",,?,England,11,Arsenal ,66923,-,Luke Freeman,11/12,England,3684,Stevenage FC 
-"Jan 8, 2012",,End of loan,England,3684,Stevenage FC ,66923,-,Luke Freeman,11/12,England,11,Arsenal 
-"Nov 17, 2011",,Loan,England,11,Arsenal ,66923,-,Luke Freeman,11/12,England,3684,Stevenage FC 
-"Dec 31, 2010",,End of loan,England,972,Yeovil Town ,66923,250 Th. €,Luke Freeman,10/11,England,11,Arsenal 
-"Jul 2, 2010",,Loan,England,11,Arsenal ,66923,-,Luke Freeman,10/11,England,972,Yeovil Town 
-"Jan 26, 2008",,300 Th. €,England,2814,Gillingham FC ,66923,-,Luke Freeman,07/08,England,11,Arsenal 
-"Jul 1, 2007",,-,England,14646,Gillingham U18 ,66923,-,Luke Freeman,07/08,England,2814,Gillingham FC 
-"Jul 1, 2003",,?,England,6932,Charlton U18 ,66923,-,Luke Freeman,03/04,England,14646,Gillingham U18 
-"Jan 2, 2016",,500 Th. €,Poland,255,Legia Warszawa ,67431,"2,00 Mill. €",Michal Zyro,15/16,England,543,Wolves 
-"Jul 1, 2009",,-,Poland,14706,Legia U19 ,67431,-,Michal Zyro,09/10,Poland,255,Legia Warszawa 
-"Jul 1, 2015",,?,Austria,503,Admira Wacker ,81694,500 Th. €,Konstantin Kerschbaumer,15/16,England,1148,Brentford 
-"Jan 7, 2015",,Swap deal,Austria,2662,St. Pölten ,81694,250 Th. €,Konstantin Kerschbaumer,14/15,Austria,503,Admira Wacker 
-"Jul 1, 2013",,?,Austria,7001,Rapid Wien II ,81694,200 Th. €,Konstantin Kerschbaumer,13/14,Austria,2662,St. Pölten 
-"Jun 30, 2013",,End of loan,Austria,2662,St. Pölten ,81694,200 Th. €,Konstantin Kerschbaumer,12/13,Austria,7001,Rapid Wien II 
-"Jul 1, 2012",,Loan,Austria,7001,Rapid Wien II ,81694,200 Th. €,Konstantin Kerschbaumer,12/13,Austria,2662,St. Pölten 
-"Jun 30, 2012",,End of loan,Austria,2364,Vienna ,81694,200 Th. €,Konstantin Kerschbaumer,11/12,Austria,7001,Rapid Wien II 
-"Jul 1, 2011",,Loan,Austria,7001,Rapid Wien II ,81694,-,Konstantin Kerschbaumer,11/12,Austria,2364,Vienna 
-"Jan 1, 2010",,-,Austria,4753,AKA Rapid U18 ,81694,-,Konstantin Kerschbaumer,09/10,Austria,7001,Rapid Wien II 
-"Aug 1, 2009",,Free transfer,Austria,7560,St. Pölten U18 ,81694,-,Konstantin Kerschbaumer,09/10,Austria,4753,AKA Rapid U18 
-"Aug 1, 2006",,?,Austria,30775,FC Tulln Jugend ,81694,-,Konstantin Kerschbaumer,06/07,Austria,7560,St. Pölten U18 
-"Jan 8, 2016",,Free transfer,Bulgaria,156,Levski Sofia ,81952,400 Th. €,Aimen Belaid,15/16,England,1194,Rotherham 
-"Jan 16, 2014",,200 Th. €,Bulgaria,2259,Lok. Plovdiv ,81952,400 Th. €,Aimen Belaid,13/14,Bulgaria,156,Levski Sofia 
-"Sep 30, 2013",,Free transfer,Tunisia,250,ES Sahel ,81952,400 Th. €,Aimen Belaid,13/14,Bulgaria,2259,Lok. Plovdiv 
-"Jan 9, 2012",,-,Tunisia,515,Unattached ,81952,150 Th. €,Aimen Belaid,11/12,,250,ES Sahel 
-"Jul 6, 2011",,-,France,1290,Grenoble ,81952,150 Th. €,Aimen Belaid,11/12,,515,Unattached 
-"Aug 11, 2010",,?,Czech Republic,6483,Sparta Praha II ,81952,75 Th. €,Aimen Belaid,10/11,France,1290,Grenoble 
-"Jul 1, 2008",,-,Czech Republic,12795,Sparta Prag U19 ,81952,-,Aimen Belaid,08/09,Czech Republic,6483,Sparta Praha II 
-"Jan 1, 2008",,Free transfer,Czech Republic,8887,FK Most B ,81952,-,Aimen Belaid,07/08,Czech Republic,12795,Sparta Prag U19 
-"Jul 1, 2007",,Free transfer,France,10004,Paris FC ,81952,-,Aimen Belaid,07/08,Czech Republic,8887,FK Most B 
-"Nov 1, 2010",,End of loan,England,1089,Darlington ,92986,-,Daniel Powell,10/11,England,991,MK Dons 
-"Oct 1, 2010",,Loan,England,991,MK Dons ,92986,-,Daniel Powell,10/11,England,1089,Darlington 
-"Apr 1, 2010",,End of loan,England,3455,Forest Green ,92986,-,Daniel Powell,09/10,England,991,MK Dons 
-"Oct 1, 2009",,Loan,England,991,MK Dons ,92986,-,Daniel Powell,09/10,England,3455,Forest Green 
-"Sep 1, 2009",,End of loan,England,3537,Crawley Town ,92986,-,Daniel Powell,09/10,England,991,MK Dons 
-"Aug 1, 2009",,Loan,England,991,MK Dons ,92986,-,Daniel Powell,09/10,England,3537,Crawley Town 
-"Jul 1, 2008",,-,England,14983,MK Dons U18 ,92986,-,Daniel Powell,08/09,England,991,MK Dons 
-"Sep 1, 2015",,"2,35 Mill. €",Norway,1274,Stabaek IF ,93145,500 Th. €,Adama Diomande,15/16,England,3008,Hull City 
-"Mar 26, 2015",,?,United Arab Emirates,9710,Dubai CSC ,93145,500 Th. €,Adama Diomande,14/15,Norway,1274,Stabaek IF 
-"Mar 8, 2015",,-,United Arab Emirates,515,Unattached ,93145,500 Th. €,Adama Diomande,14/15,,9710,Dubai CSC 
-"Jan 30, 2015",,-,Belarus,1180,Dinamo Minsk ,93145,500 Th. €,Adama Diomande,14/15,,515,Unattached 
-"Jan 1, 2014",,350 Th. €,Norway,2817,Strømsgodset ,93145,700 Th. €,Adama Diomande,13/14,Belarus,1180,Dinamo Minsk 
-"Jan 1, 2012",,?,Norway,8995,IL Hödd ,93145,-,Adama Diomande,11/12,Norway,2817,Strømsgodset 
-"Jan 1, 2011",,?,Norway,6469,Skeid Oslo ,93145,-,Adama Diomande,10/11,Norway,8995,IL Hödd 
-"Jan 1, 2010",,?,Norway,15679,FK Lyn U19 ,93145,-,Adama Diomande,09/10,Norway,6469,Skeid Oslo 
-"Jul 1, 2013",,350 Th. €,England,352,Swindon Town ,105324,250 Th. €,Aden Flint,13/14,England,698,Bristol City 
-"May 1, 2011",,End of loan,England,3721,Alfreton ,105324,100 Th. €,Aden Flint,10/11,England,352,Swindon Town 
-"Mar 1, 2011",,Loan,England,352,Swindon Town ,105324,100 Th. €,Aden Flint,10/11,England,3721,Alfreton 
-"Jan 21, 2011",,175 Th. €,England,3721,Alfreton ,105324,-,Aden Flint,10/11,England,352,Swindon Town 
-"Feb 1, 2009",,End of loan,England,16040,Matlock ,105324,-,Aden Flint,08/09,England,3721,Alfreton 
-"Nov 1, 2008",,Loan,England,3721,Alfreton ,105324,-,Aden Flint,08/09,England,16040,Matlock 
-"Jan 3, 2016",,Free transfer,Ireland,6066,Dundalk FC ,114116,250 Th. €,Richie Towell,15/16,England,1237,Brighton 
-"Jan 1, 2013",,-,Ireland,515,Unattached ,114116,250 Th. €,Richie Towell,12/13,,6066,Dundalk FC 
-"Jul 1, 2012",,-,Scotland,371,Celtic ,114116,250 Th. €,Richie Towell,12/13,,515,Unattached 
-"May 20, 2012",,End of loan,Scotland,903,Hibernian FC ,114116,250 Th. €,Richie Towell,11/12,Scotland,371,Celtic 
-"Aug 26, 2011",,Loan,Scotland,371,Celtic ,114116,250 Th. €,Richie Towell,11/12,Scotland,903,Hibernian FC 
-"May 31, 2011",,End of loan,Scotland,903,Hibernian FC ,114116,50 Th. €,Richie Towell,10/11,Scotland,371,Celtic 
-"Jan 20, 2011",,Loan,Scotland,371,Celtic ,114116,-,Richie Towell,10/11,Scotland,903,Hibernian FC 
-"Jul 1, 2010",,-,Scotland,8924,Celtic U20 ,114116,-,Richie Towell,10/11,Scotland,371,Celtic 
-"Jul 1, 2008",,-,Scotland,31025,Celtic Glasgow U17 ,114116,-,Richie Towell,08/09,Scotland,8924,Celtic U20 
-"Nov 1, 2006",,Free transfer,Ireland,9209,Crumlin United ,114116,-,Richie Towell,05/06,Scotland,31025,Celtic Glasgow U17 
-"Jan 28, 2016",,500 Th. €,Poland,5689,Cracovia Kraków ,120901,"1,00 Mill. €",Deniss Rakels,15/16,England,1032,Reading 
-"Jan 15, 2014",,Free transfer,Poland,168,Zaglebie Lubin ,120901,300 Th. €,Deniss Rakels,13/14,Poland,5689,Cracovia Kraków 
-"Jun 30, 2013",,End of loan,Poland,6456,GKS Katowice ,120901,250 Th. €,Deniss Rakels,12/13,Poland,168,Zaglebie Lubin 
-"Aug 17, 2011",,Loan,Poland,168,Zaglebie Lubin ,120901,475 Th. €,Deniss Rakels,11/12,Poland,6456,GKS Katowice 
-"Jan 24, 2011",,400 Th. €,Latvia,3811,Liepajas ,120901,475 Th. €,Deniss Rakels,10/11,Poland,168,Zaglebie Lubin 
-"Jul 1, 2009",,-,Latvia,28933,FHK Liepajas Metalurgs II ,120901,-,Deniss Rakels,09/10,Latvia,3811,Liepajas 
-"Sep 1, 2015",,?,England,352,Swindon Town ,121276,300 Th. €,Nathan Byrne,15/16,England,543,Wolves 
-"Jul 9, 2013",,Free transfer,England,148,Spurs ,121276,-,Nathan Byrne,13/14,England,352,Swindon Town 
-"May 31, 2013",,End of loan,England,352,Swindon Town ,121276,-,Nathan Byrne,12/13,England,148,Spurs 
-"Mar 28, 2013",,Loan,England,148,Spurs ,121276,-,Nathan Byrne,12/13,England,352,Swindon Town 
-"Jan 7, 2013",,End of loan,England,3537,Crawley Town ,121276,-,Nathan Byrne,12/13,England,148,Spurs 
-"Sep 24, 2012",,Loan,England,148,Spurs ,121276,75 Th. €,Nathan Byrne,12/13,England,3537,Crawley Town 
-"May 1, 2012",,End of loan,England,989,Bournemouth ,121276,75 Th. €,Nathan Byrne,11/12,England,148,Spurs 
-"Aug 1, 2011",,Loan,England,148,Spurs ,121276,-,Nathan Byrne,11/12,England,989,Bournemouth 
-"May 1, 2011",,End of loan,England,1148,Brentford ,121276,-,Nathan Byrne,10/11,England,148,Spurs 
-"Feb 1, 2011",,Loan,England,148,Spurs ,121276,-,Nathan Byrne,10/11,England,1148,Brentford 
-"Jul 1, 2010",,-,England,6928,Tottenham U18 ,121276,-,Nathan Byrne,10/11,England,148,Spurs 
-"Jul 27, 2015",,"1,80 Mill. €",England,1219,Chesterfield FC ,122223,175 Th. €,Samuel Clucas,15/16,England,3008,Hull City 
-"Sep 1, 2014",,125 Th. €,England,3820,Mansfield Town ,122223,25 Th. €,Samuel Clucas,14/15,England,1219,Chesterfield FC 
-"Jul 1, 2013",,Free transfer,England,3064,Hereford Utd. ,122223,25 Th. €,Samuel Clucas,13/14,England,3820,Mansfield Town 
-"Nov 1, 2011",,Free transfer,Spain,30562,Glenn Hoddle Academy ,122223,25 Th. €,Samuel Clucas,11/12,England,3064,Hereford Utd. 
-"Jul 1, 2010",,Free transfer,England,1198,Lincoln City ,122223,25 Th. €,Samuel Clucas,10/11,Spain,30562,Glenn Hoddle Academy 
-"Jul 1, 2009",,?,England,26409,Nettleham ,122223,-,Samuel Clucas,09/10,England,1198,Lincoln City 
-"Mar 1, 2009",,Free transfer,England,14389,Leicester U18 ,122223,-,Samuel Clucas,08/09,England,26409,Nettleham 
-"Jul 31, 2015",,500 Th. €,Denmark,3426,Esbjerg fB ,144904,750 Th. €,Jonas Knudsen,15/16,England,677,Ipswich 
-"Mar 1, 2010",,-,Denmark,14349,Esbjerg fB U19 ,144904,-,Jonas Knudsen,09/10,Denmark,3426,Esbjerg fB 
-"Jan 30, 2016",,End of loan,England,988,Oxford United ,146690,150 Th. €,George Baldock,15/16,England,991,MK Dons 
-"Jul 1, 2015",,Loan,England,991,MK Dons ,146690,150 Th. €,George Baldock,15/16,England,988,Oxford United 
-"May 31, 2015",,End of loan,England,988,Oxford United ,146690,150 Th. €,George Baldock,14/15,England,991,MK Dons 
-"Feb 12, 2015",,Loan,England,991,MK Dons ,146690,150 Th. €,George Baldock,14/15,England,988,Oxford United 
-"Dec 31, 2012",,End of loan,England,3539,Tamworth ,146690,50 Th. €,George Baldock,12/13,England,991,MK Dons 
-"Aug 31, 2012",,Loan,England,991,MK Dons ,146690,50 Th. €,George Baldock,12/13,England,3539,Tamworth 
-"Aug 30, 2012",,End of loan,Iceland,8036,ÍBV ,146690,50 Th. €,George Baldock,12/13,England,991,MK Dons 
-"May 5, 2012",,Loan,England,991,MK Dons ,146690,50 Th. €,George Baldock,11/12,Iceland,8036,ÍBV 
-"Apr 29, 2012",,End of loan,England,3539,Tamworth ,146690,50 Th. €,George Baldock,11/12,England,991,MK Dons 
-"Mar 23, 2012",,Loan,England,991,MK Dons ,146690,50 Th. €,George Baldock,11/12,England,3539,Tamworth 
-"Oct 1, 2011",,End of loan,England,1302,Northampt. Town ,146690,50 Th. €,George Baldock,11/12,England,991,MK Dons 
-"Sep 1, 2011",,Loan,England,991,MK Dons ,146690,50 Th. €,George Baldock,11/12,England,1302,Northampt. Town 
-"Jul 1, 2011",,-,England,14983,MK Dons U18 ,146690,50 Th. €,George Baldock,11/12,England,991,MK Dons 
-"Feb 1, 2016",,"1,70 Mill. €",Czech Republic,5546,Mladá Boleslav ,148734,"1,00 Mill. €",Jirí Skalák,15/16,England,1237,Brighton 
-"Jul 1, 2014",,Loan,Czech Republic,197,Sparta Praha ,148734,400 Th. €,Jirí Skalák,14/15,Czech Republic,5546,Mladá Boleslav 
-"Jun 30, 2014",,End of loan,Czech Republic,5225,Zbrojovka Brno ,148734,400 Th. €,Jirí Skalák,13/14,Czech Republic,197,Sparta Praha 
-"Aug 22, 2013",,Loan,Czech Republic,197,Sparta Praha ,148734,400 Th. €,Jirí Skalák,13/14,Czech Republic,5225,Zbrojovka Brno 
-"Jun 30, 2013",,End of loan,Czech Republic,5544,Slovácko ,148734,400 Th. €,Jirí Skalák,12/13,Czech Republic,197,Sparta Praha 
-"Jan 1, 2013",,Loan,Czech Republic,197,Sparta Praha ,148734,400 Th. €,Jirí Skalák,12/13,Czech Republic,5544,Slovácko 
-"Jun 30, 2012",,End of loan,Slovakia,7087,Ruzomberok ,148734,250 Th. €,Jirí Skalák,11/12,Czech Republic,197,Sparta Praha 
-"Aug 19, 2011",,Loan,Czech Republic,197,Sparta Praha ,148734,200 Th. €,Jirí Skalák,11/12,Slovakia,7087,Ruzomberok 
-"Jul 1, 2010",,-,Czech Republic,12795,Sparta Prag U19 ,148734,-,Jirí Skalák,10/11,Czech Republic,197,Sparta Praha 
-"Aug 21, 2015",,690 Th. €,Denmark,5724,Randers FC ,154051,400 Th. €,Nicolai Brock-Madsen,15/16,England,337,Birmingham 
-"Jul 1, 2010",,-,Denmark,15709,Randers FC U19 ,154051,-,Nicolai Brock-Madsen,10/11,Denmark,5724,Randers FC 
-"Jul 30, 2015",,855 Th. €,England,1219,Chesterfield FC ,158700,150 Th. €,Tendayi Darikwa,15/16,England,1132,Burnley FC 
-"Nov 29, 2010",,End of loan,England,6168,Barrow ,158700,-,Tendayi Darikwa,10/11,England,1219,Chesterfield FC 
-"Oct 29, 2010",,Loan,England,1219,Chesterfield FC ,158700,-,Tendayi Darikwa,10/11,England,6168,Barrow 
-"Aug 1, 2010",,-,England,15000,Chesterf. U18 ,158700,-,Tendayi Darikwa,10/11,England,1219,Chesterfield FC 
-"Jul 1, 2015",,700 Th. €,France,1161,FC Niort ,159838,300 Th. €,Yoann Barbet,15/16,England,1148,Brentford 
-"Nov 7, 2015",,End of loan,England,2413,Bury FC ,161484,100 Th. €,Lee Erwin,15/16,England,399,Leeds 
-"Oct 9, 2015",,Loan,England,399,Leeds ,161484,100 Th. €,Lee Erwin,15/16,England,2413,Bury FC 
-"Jul 1, 2015",,Free transfer,Scotland,987,Motherwell FC ,161484,100 Th. €,Lee Erwin,15/16,England,399,Leeds 
-"Nov 30, 2013",,End of loan,Scotland,3021,Arbroath ,161484,50 Th. €,Lee Erwin,13/14,Scotland,987,Motherwell FC 
-"Aug 30, 2013",,Loan,Scotland,987,Motherwell FC ,161484,-,Lee Erwin,13/14,Scotland,3021,Arbroath 
-"Jul 1, 2013",,-,Scotland,2987,Motherwell FC U20 ,161484,-,Lee Erwin,13/14,Scotland,987,Motherwell FC 
-"Jul 1, 2011",,-,Scotland,31035,Motherwell FC U17 ,161484,-,Lee Erwin,11/12,Scotland,2987,Motherwell FC U20 
-"Aug 19, 2015",,850 Th. €,England,3054,Shrewsbury Town ,163656,50 Th. €,Connor Goldson,15/16,England,1237,Brighton 
-"Jan 9, 2014",,End of loan,England,3371,Cheltenham Town ,163656,50 Th. €,Connor Goldson,13/14,England,3054,Shrewsbury Town 
-"Nov 28, 2013",,Loan,England,3054,Shrewsbury Town ,163656,50 Th. €,Connor Goldson,13/14,England,3371,Cheltenham Town 
-"Jul 1, 2010",,-,England,16282,Shrewsbury U18 ,163656,-,Connor Goldson,10/11,England,3054,Shrewsbury Town 
-"Jan 22, 2016",,530 Th. €,England,2805,Wycombe ,164499,50 Th. €,Matt Ingram,15/16,England,1039,QPR 
-"Mar 18, 2013",,End of loan,England,22563,Oxford City ,164499,25 Th. €,Matt Ingram,12/13,England,2805,Wycombe 
-"Oct 25, 2012",,Loan,England,2805,Wycombe ,164499,25 Th. €,Matt Ingram,12/13,England,22563,Oxford City 
-"Oct 24, 2012",,End of loan,England,6908,Hayes & Yeading ,164499,25 Th. €,Matt Ingram,12/13,England,2805,Wycombe 
-"Aug 14, 2012",,Loan,England,2805,Wycombe ,164499,25 Th. €,Matt Ingram,12/13,England,6908,Hayes & Yeading 
-"Mar 1, 2012",,End of loan,England,4077,Lewes ,164499,25 Th. €,Matt Ingram,11/12,England,2805,Wycombe 
-"Feb 1, 2012",,Loan,England,2805,Wycombe ,164499,25 Th. €,Matt Ingram,11/12,England,4077,Lewes 
-"Jul 1, 2011",,-,England,18149,Wycombe U18 ,164499,25 Th. €,Matt Ingram,11/12,England,2805,Wycombe 
-"Jan 11, 2016",,135 Th. €,England,985,Manchester Utd. ,183302,100 Th. €,Ben Pearson,15/16,England,466,Preston NE 
-"Jan 3, 2016",,End of loan,England,349,Barnsley FC ,183302,100 Th. €,Ben Pearson,15/16,England,985,Manchester Utd. 
-"Jul 18, 2015",,Loan,England,985,Manchester Utd. ,183302,-,Ben Pearson,15/16,England,349,Barnsley FC 
-"May 31, 2015",,End of loan,England,349,Barnsley FC ,183302,-,Ben Pearson,14/15,England,985,Manchester Utd. 
-"Jan 8, 2015",,Loan,England,985,Manchester Utd. ,183302,-,Ben Pearson,14/15,England,349,Barnsley FC 
-"Jul 1, 2013",,-,England,5242,Man Utd U18 ,183302,-,Ben Pearson,13/14,England,985,Manchester Utd. 
-"Feb 23, 2016",,End of loan,England,3684,Stevenage FC ,190506,-,Deimantas Petravicius,15/16,England,703,Nottm Forest 
-"Jan 23, 2016",,Loan,England,703,Nottm Forest ,190506,-,Deimantas Petravicius,15/16,England,3684,Stevenage FC 
-"Jul 1, 2014",,-,England,12799,Not. Forest U18 ,190506,-,Deimantas Petravicius,14/15,England,703,Nottm Forest 
-"Dec 13, 2015",,End of loan,England,1034,Grimsby Town ,203451,-,Alex Jones,15/16,England,337,Birmingham 
-"Nov 10, 2015",,Loan,England,337,Birmingham ,203451,-,Alex Jones,15/16,England,1034,Grimsby Town 
-"Jul 1, 2015",,Free transfer,England,29990,West Brom U21 ,203451,-,Alex Jones,15/16,England,337,Birmingham 
-"Jul 1, 2013",,-,England,6951,West Brom U18 ,203451,-,Alex Jones,13/14,England,29990,West Brom U21 
-"Apr 21, 2016",,End of loan,England,698,Bristol City ,210986,500 Th. €,Ben Gladwin,15/16,England,1039,QPR 
-"Jan 19, 2016",,Loan,England,1039,QPR ,210986,500 Th. €,Ben Gladwin,15/16,England,698,Bristol City 
-"Jan 9, 2016",,End of loan,England,352,Swindon Town ,210986,500 Th. €,Ben Gladwin,15/16,England,1039,QPR 
-"Oct 9, 2015",,Loan,England,1039,QPR ,210986,500 Th. €,Ben Gladwin,15/16,England,352,Swindon Town 
-"Jul 1, 2015",,710 Th. €,England,352,Swindon Town ,210986,150 Th. €,Ben Gladwin,15/16,England,1039,QPR 
-"Nov 23, 2013",,?,England,43407,Marlow ,210986,-,Ben Gladwin,13/14,England,352,Swindon Town 
-"Jul 1, 2012",,-,England,515,Unattached ,210986,-,Ben Gladwin,12/13,,43407,Marlow 
-"Jan 1, 2012",,-,England,6908,Hayes & Yeading ,210986,-,Ben Gladwin,11/12,,515,Unattached 
-"Dec 1, 2011",,Free transfer,England,23225,Burnham FC ,210986,-,Ben Gladwin,11/12,England,6908,Hayes & Yeading 
-"Mar 1, 2011",,Free transfer,England,6908,Hayes & Yeading ,210986,-,Ben Gladwin,10/11,England,23225,Burnham FC 
-"Jan 1, 2011",,End of loan,England,14773,Salisbury ,210986,-,Ben Gladwin,10/11,England,6908,Hayes & Yeading 
-"Dec 1, 2010",,Loan,England,6908,Hayes & Yeading ,210986,-,Ben Gladwin,10/11,England,14773,Salisbury 
-"Jul 1, 2010",,Free transfer,England,35194,Wallingford ,210986,-,Ben Gladwin,10/11,England,6908,Hayes & Yeading 
-"Dec 26, 2015",,End of loan,England,1252,York City ,215597,-,Jordan Lussey,15/16,England,355,Bolton 
-"Nov 26, 2015",,Loan,England,355,Bolton ,215597,-,Jordan Lussey,15/16,England,1252,York City 
-"Jul 12, 2015",,Free transfer,England,31,Liverpool ,215597,-,Jordan Lussey,15/16,England,355,Bolton 
-"May 31, 2015",,End of loan,England,355,Bolton ,215597,-,Jordan Lussey,14/15,England,31,Liverpool 
-"Mar 26, 2015",,Loan,England,31,Liverpool ,215597,-,Jordan Lussey,14/15,England,355,Bolton 
-"Jul 1, 2013",,-,England,6922,Liverpool U18 ,215597,-,Jordan Lussey,13/14,England,31,Liverpool 
-"Feb 5, 2016",,Loan,Spain,940,Celta de Vigo ,217153,-,Yelko Pino,15/16,England,1039,QPR 
-"Feb 4, 2016",,End of loan,England,352,Swindon Town ,217153,-,Yelko Pino,15/16,Spain,940,Celta de Vigo 
-"Sep 10, 2015",,Loan,Spain,8733,Celta Vigo B ,217153,-,Yelko Pino,15/16,England,352,Swindon Town 
-"Jul 1, 2013",,-,Spain,15509,Celta Juvenil A ,217153,-,Yelko Pino,13/14,Spain,8733,Celta Vigo B 
-"Sep 1, 2015",,"1,37 Mill. €",England,3054,Shrewsbury Town ,232897,50 Th. €,Ryan Woods,15/16,England,1148,Brentford 
-"Jul 1, 2012",,-,England,16282,Shrewsbury U18 ,232897,-,Ryan Woods,12/13,England,3054,Shrewsbury Town 
-"Jan 16, 2016",,End of loan,England,14772,Droylsden ,237329,-,Steven James,15/16,England,466,Preston NE 
-"Nov 18, 2015",,Loan,England,466,Preston NE ,237329,-,Steven James,15/16,England,14772,Droylsden 
-"Feb 14, 2015",,End of loan,England,22692,Skelmersdale ,237329,-,Steven James,14/15,England,466,Preston NE 
-"Jan 15, 2015",,Loan,England,466,Preston NE ,237329,-,Steven James,14/15,England,22692,Skelmersdale 
-"Oct 1, 2014",,End of loan,England,12869,Nantwich Town ,237329,-,Steven James,14/15,England,466,Preston NE 
-"Sep 9, 2014",,Loan,England,466,Preston NE ,237329,-,Steven James,14/15,England,12869,Nantwich Town 
-"May 31, 2014",,End of loan,England,12869,Nantwich Town ,237329,-,Steven James,13/14,England,466,Preston NE 
-"Feb 1, 2014",,Loan,England,466,Preston NE ,237329,-,Steven James,13/14,England,12869,Nantwich Town 
-"Nov 1, 2013",,End of loan,England,26423,Bamber B. ,237329,-,Steven James,13/14,England,466,Preston NE 
-"Oct 1, 2013",,Loan,England,466,Preston NE ,237329,-,Steven James,13/14,England,26423,Bamber B. 
-"Jul 1, 2013",,-,England,6697,Preston U18 ,237329,-,Steven James,13/14,England,466,Preston NE 
-"Feb 14, 2016",,End of loan,England,6908,Hayes & Yeading ,244811,50 Th. €,Charlie Burns,15/16,England,991,MK Dons 
-"Jan 15, 2016",,Loan,England,991,MK Dons ,244811,50 Th. €,Charlie Burns,15/16,England,6908,Hayes & Yeading 
-"Feb 10, 2015",,End of loan,England,9165,Truro City FC ,244811,50 Th. €,Charlie Burns,14/15,England,991,MK Dons 
-"Nov 7, 2014",,Loan,England,991,MK Dons ,244811,50 Th. €,Charlie Burns,14/15,England,9165,Truro City FC 
-"Jul 1, 2014",,-,England,14983,MK Dons U18 ,244811,-,Charlie Burns,14/15,England,991,MK Dons 
-"Jan 18, 2016",,?,England,985,Manchester Utd. ,247263,50 Th. €,Liam Grimshaw,15/16,England,466,Preston NE 
-"Jan 12, 2016",,End of loan,Scotland,987,Motherwell FC ,247263,50 Th. €,Liam Grimshaw,15/16,England,985,Manchester Utd. 
-"Sep 1, 2015",,Loan,England,985,Manchester Utd. ,247263,-,Liam Grimshaw,15/16,Scotland,987,Motherwell FC 
-"May 31, 2014",,End of loan,England,3697,Morecambe FC ,247263,-,Liam Grimshaw,13/14,England,985,Manchester Utd. 
-"Mar 27, 2014",,Loan,England,985,Manchester Utd. ,247263,-,Liam Grimshaw,13/14,England,3697,Morecambe FC 
-"Jul 1, 2013",,-,England,5242,Man Utd U18 ,247263,-,Liam Grimshaw,13/14,England,985,Manchester Utd. 
-"Jan 19, 2016",,"3,30 Mill. €",England,1072,Peterborough ,249815,750 Th. €,Conor Washington,15/16,England,1039,QPR 
-"Jan 28, 2014",,600 Th. €,England,3716,Newport County ,249815,50 Th. €,Conor Washington,13/14,England,1072,Peterborough 
-"Oct 1, 2012",,?,England,38386,St. Ives Town ,249815,-,Conor Washington,12/13,England,3716,Newport County 
-"Jul 1, 2015",,-,England,9260,Charlton U21 ,250654,-,Mikhail Kennedy,15/16,England,358,Charlton 
-"Jul 1, 2014",,-,England,6932,Charlton U18 ,250654,-,Mikhail Kennedy,14/15,England,9260,Charlton U21 
-"Sep 1, 2015",,"2,40 Mill. €",Uruguay,866,Nacional ,257740,"2,80 Mill. €",Carlos de Pena,15/16,England,641,Middlesbrough 
-"Jan 1, 2013",,-,Uruguay,16560,Nacional U19 ,257740,-,Carlos de Pena,12/13,Uruguay,866,Nacional 
-"Jul 1, 2015",,Free transfer,France,12770,SM Caen B ,272621,-,Sylvain Deslandes,15/16,England,543,Wolves 
-"Mar 22, 2016",,End of loan,England,2796,Woking ,276354,-,Joe Robinson,15/16,England,677,Ipswich 
-"Feb 22, 2016",,Loan,England,677,Ipswich ,276354,-,Joe Robinson,15/16,England,2796,Woking 
-"Jul 1, 2015",,-,England,10006,Ipswich U18 ,276354,-,Joe Robinson,15/16,England,677,Ipswich 
-"Jan 1, 2014",,?,Ireland,34422,Cork City U20 ,277697,-,Alan Browne,13/14,England,466,Preston NE 
-"Jul 1, 2012",,Free transfer,Ireland,32265,Ringmahon ,277697,-,Alan Browne,12/13,Ireland,34422,Cork City U20 
-"Jul 1, 2016",,Free transfer,England,1110,Huddersfield ,278503,-,Ed Wilczynski,16/17,,75,Unknown 
-"May 2, 2016",,End of loan,England,4081,Bishop Auckland ,278503,-,Ed Wilczynski,15/16,England,1110,Huddersfield 
-"Feb 21, 2016",,Loan,England,1110,Huddersfield ,278503,-,Ed Wilczynski,15/16,England,4081,Bishop Auckland 
-"Dec 28, 2015",,End of loan,England,4282,Hyde United ,278503,-,Ed Wilczynski,15/16,England,1110,Huddersfield 
-"Oct 30, 2015",,Loan,England,1110,Huddersfield ,278503,-,Ed Wilczynski,15/16,England,4282,Hyde United 
-"Mar 8, 2015",,End of loan,England,4282,Hyde FC ,278503,-,Ed Wilczynski,14/15,England,1110,Huddersfield 
-"Feb 5, 2015",,Loan,England,1110,Huddersfield ,278503,-,Ed Wilczynski,14/15,England,4282,Hyde FC 
-"Dec 2, 2014",,End of loan,England,21498,Trafford ,278503,-,Ed Wilczynski,14/15,England,1110,Huddersfield 
-"Nov 6, 2014",,Loan,England,1110,Huddersfield ,278503,-,Ed Wilczynski,14/15,England,21498,Trafford 
-"Jan 16, 2014",,End of loan,England,20428,FC United ,278503,-,Ed Wilczynski,13/14,England,1110,Huddersfield 
-"Dec 20, 2013",,Loan,England,1110,Huddersfield ,278503,-,Ed Wilczynski,13/14,England,20428,FC United 
-"Jul 1, 2013",,-,England,14629,Huddersf. U18 ,278503,-,Ed Wilczynski,13/14,England,1110,Huddersfield 
-"May 3, 2015",,End of loan,England,2577,Hartlepool Utd. ,291544,50 Th. €,Jordan Hugill,14/15,England,466,Preston NE 
-"Mar 26, 2015",,Loan,England,466,Preston NE ,291544,50 Th. €,Jordan Hugill,14/15,England,2577,Hartlepool Utd. 
-"Mar 25, 2015",,End of loan,England,1074,Tranmere Rovers ,291544,50 Th. €,Jordan Hugill,14/15,England,466,Preston NE 
-"Feb 26, 2015",,Loan,England,466,Preston NE ,291544,50 Th. €,Jordan Hugill,14/15,England,1074,Tranmere Rovers 
-"Jul 1, 2014",,?,England,1211,Port Vale FC ,291544,-,Jordan Hugill,14/15,England,466,Preston NE 
-"Oct 21, 2013",,End of loan,England,3456,Gateshead ,291544,-,Jordan Hugill,13/14,England,1211,Port Vale FC 
-"Sep 19, 2013",,Loan,England,1211,Port Vale FC ,291544,-,Jordan Hugill,13/14,England,3456,Gateshead 
-"Jul 1, 2013",,Free transfer,England,49079,Marske United ,291544,-,Jordan Hugill,13/14,England,1211,Port Vale FC 
-"Nov 24, 2012",,Free transfer,England,17675,Whitby Town FC ,291544,-,Jordan Hugill,12/13,England,49079,Marske United 
-"Nov 23, 2012",,End of loan,England,49079,Marske United ,291544,-,Jordan Hugill,12/13,England,17675,Whitby Town FC 
-"Oct 23, 2012",,Loan,England,17675,Whitby Town FC ,291544,-,Jordan Hugill,12/13,England,49079,Marske United 
-"Dec 1, 2011",,Free transfer,Spain,30562,Glenn Hoddle Academy ,291544,-,Jordan Hugill,11/12,England,17675,Whitby Town FC 
-"Oct 19, 2010",,Free transfer,England,11156,Consett AFC ,291544,-,Jordan Hugill,10/11,Spain,30562,Glenn Hoddle Academy 
-"Sep 1, 2009",,Free transfer,England,1255,Seaham Red Star ,291544,-,Jordan Hugill,09/10,England,11156,Consett AFC 
-"Jul 1, 2008",,-,England,45867,Seaham RS U18 ,291544,-,Jordan Hugill,08/09,England,1255,Seaham Red Star 
-"Apr 6, 2016",,End of loan,England,1099,Bath City ,299551,-,Billy Murphy,15/16,England,698,Bristol City 
-"Feb 6, 2016",,Loan,England,698,Bristol City ,299551,-,Billy Murphy,15/16,England,1099,Bath City 
-"Jul 8, 2014",,Free transfer,England,3064,Hereford Utd. ,299551,-,Billy Murphy,14/15,England,698,Bristol City 
-"Jul 10, 2015",,420 Th. €,England,1220,Carlisle United ,308388,-,Kyle Dempsey,15/16,England,1110,Huddersfield 
-"Jul 1, 2014",,-,England,15899,Carlisle U18 ,308388,-,Kyle Dempsey,14/15,England,1220,Carlisle United 
-"Jul 1, 2015",,-,England,9256,Boro U21 ,314140,-,Dael Fry,15/16,England,641,Middlesbrough 
-"Oct 1, 2014",,-,England,6924,FC Middlesbrough U18 ,314140,-,Dael Fry,14/15,England,9256,Boro U21 
-"Nov 7, 2015",,End of loan,England,3684,Stevenage FC ,336367,200 Th. €,Joe Lumley,15/16,England,1039,QPR 
-"Oct 7, 2015",,Loan,England,1039,QPR ,336367,200 Th. €,Joe Lumley,15/16,England,3684,Stevenage FC 
-"Dec 7, 2014",,End of loan,England,3697,Morecambe FC ,336367,250 Th. €,Joe Lumley,14/15,England,1039,QPR 
-"Nov 7, 2014",,Loan,England,1039,QPR ,336367,250 Th. €,Joe Lumley,14/15,England,3697,Morecambe FC 
-"Sep 23, 2014",,End of loan,England,3688,Accrington St. ,336367,-,Joe Lumley,14/15,England,1039,QPR 
-"Aug 23, 2014",,Loan,England,1039,QPR ,336367,-,Joe Lumley,14/15,England,3688,Accrington St. 
-"Jul 1, 2013",,-,England,12805,QPR U18 ,336367,-,Joe Lumley,13/14,England,1039,QPR 
-"Jul 17, 2015",,-,England,12801,Wolves U18 ,345772,-,Bright Enobakhare,15/16,England,543,Wolves 
-"Jul 1, 2016",,-,England,10006,Ipswich U18 ,346467,250 Th. €,Andre Dozzell,16/17,England,677,Ipswich 
-"May 31, 2016",,End of loan,England,8820,Hampton & Rich. ,382071,-,Mark Smith,15/16,England,1148,Brentford 
-"Feb 20, 2016",,Loan,England,1148,Brentford ,382071,-,Mark Smith,15/16,England,8820,Hampton & Rich. 
-"Feb 8, 2016",,End of loan,England,22688,Lowestoft ,382071,-,Mark Smith,15/16,England,1148,Brentford 
-"Jan 8, 2016",,Loan,England,1148,Brentford ,382071,-,Mark Smith,15/16,England,22688,Lowestoft 
-"Dec 27, 2015",,End of loan,England,8820,Hampton & Rich. ,382071,-,Mark Smith,15/16,England,1148,Brentford 
-"Oct 27, 2015",,Loan,England,1148,Brentford ,382071,-,Mark Smith,15/16,England,8820,Hampton & Rich. 
-"Jul 1, 2015",,-,England,14997,Brentford U18 ,382071,-,Mark Smith,15/16,England,1148,Brentford 
-"Jul 1, 2014",,?,England,12805,QPR U18 ,382071,-,Mark Smith,14/15,England,14997,Brentford U18 
+"Jul 1, 2016",,?,Austria,122.0,Sturm Graz ,20381,"1,00 Mill. €",Michael Madl,16/17,England,931.0,Fulham FC 
+"Jun 30, 2016",,End of loan,England,931.0,Fulham FC ,20381,"1,00 Mill. €",Michael Madl,15/16,Austria,122.0,Sturm Graz 
+"Jan 29, 2016",,Loan,Austria,122.0,Sturm Graz ,20381,"1,00 Mill. €",Michael Madl,15/16,England,931.0,Fulham FC 
+"Jul 1, 2012",,Free transfer,Austria,17444.0,Wiener Neustadt ,20381,550 Th. €,Michael Madl,12/13,Austria,122.0,Sturm Graz 
+"Jul 1, 2010",,Free transfer,Austria,14.0,Austria Vienna ,20381,250 Th. €,Michael Madl,10/11,Austria,17444.0,Wiener Neustadt 
+"Jun 30, 2008",,End of loan,Austria,2444.0,FC Wacker ,20381,550 Th. €,Michael Madl,07/08,Austria,14.0,Austria Vienna 
+"Aug 31, 2007",,Loan fee:5 Th. €,Austria,14.0,Austria Vienna ,20381,300 Th. €,Michael Madl,07/08,Austria,2444.0,FC Wacker 
+"Jan 1, 2007",,-,Austria,4383.0,Austria Wien II ,20381,225 Th. €,Michael Madl,06/07,Austria,14.0,Austria Vienna 
+"Jul 1, 2004",,-,Austria,6611.0,Austria U19 ,20381,-,Michael Madl,04/05,Austria,4383.0,Austria Wien II 
+"Jan 1, 2004",,-,Austria,42818.0,FAK U17 ,20381,-,Michael Madl,03/04,Austria,6611.0,Austria U19 
+"Jul 1, 2003",,-,Austria,42817.0,FAK U15 ,20381,-,Michael Madl,03/04,Austria,42818.0,FAK U17 
+"Jul 5, 2002",,?,Austria,48695.0,Kobenz Jgd. ,20381,-,Michael Madl,02/03,Austria,42817.0,FAK U15 
+"Aug 4, 2015",,200 Th. €,Norway,5619.0,Aalesunds FK ,47781,500 Th. €,Sakari Mattila,15/16,England,931.0,Fulham FC 
+"Jan 1, 2014",,Free transfer,Finland,1008.0,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,13/14,Norway,5619.0,Aalesunds FK 
+"May 28, 2013",,Free transfer,Switzerland,2047.0,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,12/13,Finland,1008.0,HJK Helsinki 
+"Dec 31, 2012",,End of loan,Finland,1008.0,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,12/13,Switzerland,2047.0,AC Bellinzona 
+"Aug 5, 2012",,Loan,Switzerland,2047.0,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,12/13,Finland,1008.0,HJK Helsinki 
+"Jul 1, 2011",,?,Italy,410.0,Udinese Calcio ,47781,250 Th. €,Sakari Mattila,11/12,Switzerland,2047.0,AC Bellinzona 
+"Jun 30, 2011",,End of loan,Switzerland,2047.0,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,10/11,Italy,410.0,Udinese Calcio 
+"Jul 1, 2010",,Loan,Italy,410.0,Udinese Calcio ,47781,250 Th. €,Sakari Mattila,10/11,Switzerland,2047.0,AC Bellinzona 
+"Jun 30, 2010",,End of loan,Italy,408.0,Ascoli ,47781,250 Th. €,Sakari Mattila,09/10,Italy,410.0,Udinese 
+"Jul 1, 2009",,Loan,Italy,410.0,Udinese ,47781,250 Th. €,Sakari Mattila,09/10,Italy,408.0,Ascoli 
+"Jan 1, 2009",,800 Th. €,Finland,1008.0,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,08/09,Italy,410.0,Udinese 
+"Jan 1, 2008",,-,Finland,15665.0,HJK U19 ,47781,-,Sakari Mattila,07/08,Finland,1008.0,HJK Helsinki 
+"Aug 14, 2015",,"2,10 Mill. €",England,350.0,Sheffield Utd. ,51730,750 Th. €,Jamie Murphy,15/16,England,1237.0,Brighton 
+"Jan 3, 2013",,?,Scotland,987.0,Motherwell FC ,51730,950 Th. €,Jamie Murphy,12/13,England,350.0,Sheffield Utd. 
+"Jul 1, 2008",,-,Scotland,2987.0,Motherwell FC U20 ,51730,50 Th. €,Jamie Murphy,08/09,Scotland,987.0,Motherwell FC 
+"Jul 1, 2006",,-,Scotland,31035.0,Motherwell FC U17 ,51730,-,Jamie Murphy,06/07,Scotland,2987.0,Motherwell FC U20 
+"Jul 1, 2013",,Free transfer,Scotland,987.0,Motherwell FC ,62319,550 Th. €,Chris Humphrey,13/14,England,466.0,Preston NE 
+"Jul 15, 2009",,?,England,3054.0,Shrewsbury Town ,62319,-,Chris Humphrey,09/10,Scotland,987.0,Motherwell FC 
+"Dec 1, 2007",,End of loan,England,4295.0,Stafford Rangers ,62319,-,Chris Humphrey,07/08,England,3054.0,Shrewsbury Town 
+"Nov 1, 2007",,Loan,England,3054.0,Shrewsbury Town ,62319,-,Chris Humphrey,07/08,England,4295.0,Stafford Rangers 
+"Jul 1, 2006",,?,England,6951.0,West Brom U18 ,62319,-,Chris Humphrey,06/07,England,3054.0,Shrewsbury Town 
+"Jul 1, 2004",,?,England,14627.0,Walsall U18 ,62319,-,Chris Humphrey,04/05,England,6951.0,West Brom U18 
+"Jul 24, 2015",,"1,30 Mill. €",Sweden,801.0,IFK Göteborg ,62680,"2,00 Mill. €",Lasse Vibe,15/16,England,1148.0,Brentford 
+"Jul 1, 2013",,650 Th. €,Denmark,5817.0,SönderjyskE ,62680,"1,00 Mill. €",Lasse Vibe,13/14,Sweden,801.0,IFK Göteborg 
+"Jan 1, 2012",,?,Denmark,20100.0,Vestsjaelland ,62680,400 Th. €,Lasse Vibe,11/12,Denmark,5817.0,SönderjyskE 
+"Jul 1, 2010",,Free transfer,Denmark,10399.0,FC Fyn ,62680,100 Th. €,Lasse Vibe,10/11,Denmark,20100.0,Vestsjaelland 
+"Jan 1, 2009",,Free transfer,Denmark,678.0,Aarhus GF ,62680,100 Th. €,Lasse Vibe,08/09,Denmark,10399.0,FC Fyn 
+"Jan 1, 2007",,-,Denmark,19406.0,AGF Youth ,62680,-,Lasse Vibe,07/08,Denmark,678.0,Aarhus GF 
+"Jul 1, 2006",,-,Denmark,9066.0,Aarhus GF U19 ,62680,-,Lasse Vibe,06/07,Denmark,19406.0,AGF Youth 
+"Jul 1, 2014",,?,England,3684.0,Stevenage FC ,66923,150 Th. €,Luke Freeman,14/15,England,698.0,Bristol City 
+"Jan 10, 2012",,?,England,11.0,Arsenal ,66923,-,Luke Freeman,11/12,England,3684.0,Stevenage FC 
+"Jan 8, 2012",,End of loan,England,3684.0,Stevenage FC ,66923,-,Luke Freeman,11/12,England,11.0,Arsenal 
+"Nov 17, 2011",,Loan,England,11.0,Arsenal ,66923,-,Luke Freeman,11/12,England,3684.0,Stevenage FC 
+"Dec 31, 2010",,End of loan,England,972.0,Yeovil Town ,66923,250 Th. €,Luke Freeman,10/11,England,11.0,Arsenal 
+"Jul 2, 2010",,Loan,England,11.0,Arsenal ,66923,-,Luke Freeman,10/11,England,972.0,Yeovil Town 
+"Jan 26, 2008",,300 Th. €,England,2814.0,Gillingham FC ,66923,-,Luke Freeman,07/08,England,11.0,Arsenal 
+"Jul 1, 2007",,-,England,14646.0,Gillingham U18 ,66923,-,Luke Freeman,07/08,England,2814.0,Gillingham FC 
+"Jul 1, 2003",,?,England,6932.0,Charlton U18 ,66923,-,Luke Freeman,03/04,England,14646.0,Gillingham U18 
+"Jan 2, 2016",,500 Th. €,Poland,255.0,Legia Warszawa ,67431,"2,00 Mill. €",Michal Zyro,15/16,England,543.0,Wolves 
+"Jul 1, 2009",,-,Poland,14706.0,Legia U19 ,67431,-,Michal Zyro,09/10,Poland,255.0,Legia Warszawa 
+"Jul 1, 2015",,?,Austria,503.0,Admira Wacker ,81694,500 Th. €,Konstantin Kerschbaumer,15/16,England,1148.0,Brentford 
+"Jan 7, 2015",,Swap deal,Austria,2662.0,St. Pölten ,81694,250 Th. €,Konstantin Kerschbaumer,14/15,Austria,503.0,Admira Wacker 
+"Jul 1, 2013",,?,Austria,7001.0,Rapid Wien II ,81694,200 Th. €,Konstantin Kerschbaumer,13/14,Austria,2662.0,St. Pölten 
+"Jun 30, 2013",,End of loan,Austria,2662.0,St. Pölten ,81694,200 Th. €,Konstantin Kerschbaumer,12/13,Austria,7001.0,Rapid Wien II 
+"Jul 1, 2012",,Loan,Austria,7001.0,Rapid Wien II ,81694,200 Th. €,Konstantin Kerschbaumer,12/13,Austria,2662.0,St. Pölten 
+"Jun 30, 2012",,End of loan,Austria,2364.0,Vienna ,81694,200 Th. €,Konstantin Kerschbaumer,11/12,Austria,7001.0,Rapid Wien II 
+"Jul 1, 2011",,Loan,Austria,7001.0,Rapid Wien II ,81694,-,Konstantin Kerschbaumer,11/12,Austria,2364.0,Vienna 
+"Jan 1, 2010",,-,Austria,4753.0,AKA Rapid U18 ,81694,-,Konstantin Kerschbaumer,09/10,Austria,7001.0,Rapid Wien II 
+"Aug 1, 2009",,Free transfer,Austria,7560.0,St. Pölten U18 ,81694,-,Konstantin Kerschbaumer,09/10,Austria,4753.0,AKA Rapid U18 
+"Aug 1, 2006",,?,Austria,30775.0,FC Tulln Jugend ,81694,-,Konstantin Kerschbaumer,06/07,Austria,7560.0,St. Pölten U18 
+"Jan 8, 2016",,Free transfer,Bulgaria,156.0,Levski Sofia ,81952,400 Th. €,Aimen Belaid,15/16,England,1194.0,Rotherham 
+"Jan 16, 2014",,200 Th. €,Bulgaria,2259.0,Lok. Plovdiv ,81952,400 Th. €,Aimen Belaid,13/14,Bulgaria,156.0,Levski Sofia 
+"Sep 30, 2013",,Free transfer,Tunisia,250.0,ES Sahel ,81952,400 Th. €,Aimen Belaid,13/14,Bulgaria,2259.0,Lok. Plovdiv 
+"Jan 9, 2012",,-,Tunisia,515.0,Unattached ,81952,150 Th. €,Aimen Belaid,11/12,,250.0,ES Sahel 
+"Jul 6, 2011",,-,France,1290.0,Grenoble ,81952,150 Th. €,Aimen Belaid,11/12,,515.0,Unattached 
+"Aug 11, 2010",,?,Czech Republic,6483.0,Sparta Praha II ,81952,75 Th. €,Aimen Belaid,10/11,France,1290.0,Grenoble 
+"Jul 1, 2008",,-,Czech Republic,12795.0,Sparta Prag U19 ,81952,-,Aimen Belaid,08/09,Czech Republic,6483.0,Sparta Praha II 
+"Jan 1, 2008",,Free transfer,Czech Republic,8887.0,FK Most B ,81952,-,Aimen Belaid,07/08,Czech Republic,12795.0,Sparta Prag U19 
+"Jul 1, 2007",,Free transfer,France,10004.0,Paris FC ,81952,-,Aimen Belaid,07/08,Czech Republic,8887.0,FK Most B 
+"Nov 1, 2010",,End of loan,England,1089.0,Darlington ,92986,-,Daniel Powell,10/11,England,991.0,MK Dons 
+"Oct 1, 2010",,Loan,England,991.0,MK Dons ,92986,-,Daniel Powell,10/11,England,1089.0,Darlington 
+"Apr 1, 2010",,End of loan,England,3455.0,Forest Green ,92986,-,Daniel Powell,09/10,England,991.0,MK Dons 
+"Oct 1, 2009",,Loan,England,991.0,MK Dons ,92986,-,Daniel Powell,09/10,England,3455.0,Forest Green 
+"Sep 1, 2009",,End of loan,England,3537.0,Crawley Town ,92986,-,Daniel Powell,09/10,England,991.0,MK Dons 
+"Aug 1, 2009",,Loan,England,991.0,MK Dons ,92986,-,Daniel Powell,09/10,England,3537.0,Crawley Town 
+"Jul 1, 2008",,-,England,14983.0,MK Dons U18 ,92986,-,Daniel Powell,08/09,England,991.0,MK Dons 
+"Sep 1, 2015",,"2,35 Mill. €",Norway,1274.0,Stabaek IF ,93145,500 Th. €,Adama Diomande,15/16,England,3008.0,Hull City 
+"Mar 26, 2015",,?,United Arab Emirates,9710.0,Dubai CSC ,93145,500 Th. €,Adama Diomande,14/15,Norway,1274.0,Stabaek IF 
+"Mar 8, 2015",,-,United Arab Emirates,515.0,Unattached ,93145,500 Th. €,Adama Diomande,14/15,,9710.0,Dubai CSC 
+"Jan 30, 2015",,-,Belarus,1180.0,Dinamo Minsk ,93145,500 Th. €,Adama Diomande,14/15,,515.0,Unattached 
+"Jan 1, 2014",,350 Th. €,Norway,2817.0,Strømsgodset ,93145,700 Th. €,Adama Diomande,13/14,Belarus,1180.0,Dinamo Minsk 
+"Jan 1, 2012",,?,Norway,8995.0,IL Hödd ,93145,-,Adama Diomande,11/12,Norway,2817.0,Strømsgodset 
+"Jan 1, 2011",,?,Norway,6469.0,Skeid Oslo ,93145,-,Adama Diomande,10/11,Norway,8995.0,IL Hödd 
+"Jan 1, 2010",,?,Norway,15679.0,FK Lyn U19 ,93145,-,Adama Diomande,09/10,Norway,6469.0,Skeid Oslo 
+"Jul 1, 2013",,350 Th. €,England,352.0,Swindon Town ,105324,250 Th. €,Aden Flint,13/14,England,698.0,Bristol City 
+"May 1, 2011",,End of loan,England,3721.0,Alfreton ,105324,100 Th. €,Aden Flint,10/11,England,352.0,Swindon Town 
+"Mar 1, 2011",,Loan,England,352.0,Swindon Town ,105324,100 Th. €,Aden Flint,10/11,England,3721.0,Alfreton 
+"Jan 21, 2011",,175 Th. €,England,3721.0,Alfreton ,105324,-,Aden Flint,10/11,England,352.0,Swindon Town 
+"Feb 1, 2009",,End of loan,England,16040.0,Matlock ,105324,-,Aden Flint,08/09,England,3721.0,Alfreton 
+"Nov 1, 2008",,Loan,England,3721.0,Alfreton ,105324,-,Aden Flint,08/09,England,16040.0,Matlock 
+"Jan 3, 2016",,Free transfer,Ireland,6066.0,Dundalk FC ,114116,250 Th. €,Richie Towell,15/16,England,1237.0,Brighton 
+"Jan 1, 2013",,-,Ireland,515.0,Unattached ,114116,250 Th. €,Richie Towell,12/13,,6066.0,Dundalk FC 
+"Jul 1, 2012",,-,Scotland,371.0,Celtic ,114116,250 Th. €,Richie Towell,12/13,,515.0,Unattached 
+"May 20, 2012",,End of loan,Scotland,903.0,Hibernian FC ,114116,250 Th. €,Richie Towell,11/12,Scotland,371.0,Celtic 
+"Aug 26, 2011",,Loan,Scotland,371.0,Celtic ,114116,250 Th. €,Richie Towell,11/12,Scotland,903.0,Hibernian FC 
+"May 31, 2011",,End of loan,Scotland,903.0,Hibernian FC ,114116,50 Th. €,Richie Towell,10/11,Scotland,371.0,Celtic 
+"Jan 20, 2011",,Loan,Scotland,371.0,Celtic ,114116,-,Richie Towell,10/11,Scotland,903.0,Hibernian FC 
+"Jul 1, 2010",,-,Scotland,8924.0,Celtic U20 ,114116,-,Richie Towell,10/11,Scotland,371.0,Celtic 
+"Jul 1, 2008",,-,Scotland,31025.0,Celtic Glasgow U17 ,114116,-,Richie Towell,08/09,Scotland,8924.0,Celtic U20 
+"Nov 1, 2006",,Free transfer,Ireland,9209.0,Crumlin United ,114116,-,Richie Towell,05/06,Scotland,31025.0,Celtic Glasgow U17 
+"Jan 28, 2016",,500 Th. €,Poland,5689.0,Cracovia Kraków ,120901,"1,00 Mill. €",Deniss Rakels,15/16,England,1032.0,Reading 
+"Jan 15, 2014",,Free transfer,Poland,168.0,Zaglebie Lubin ,120901,300 Th. €,Deniss Rakels,13/14,Poland,5689.0,Cracovia Kraków 
+"Jun 30, 2013",,End of loan,Poland,6456.0,GKS Katowice ,120901,250 Th. €,Deniss Rakels,12/13,Poland,168.0,Zaglebie Lubin 
+"Aug 17, 2011",,Loan,Poland,168.0,Zaglebie Lubin ,120901,475 Th. €,Deniss Rakels,11/12,Poland,6456.0,GKS Katowice 
+"Jan 24, 2011",,400 Th. €,Latvia,3811.0,Liepajas ,120901,475 Th. €,Deniss Rakels,10/11,Poland,168.0,Zaglebie Lubin 
+"Jul 1, 2009",,-,Latvia,28933.0,FHK Liepajas Metalurgs II ,120901,-,Deniss Rakels,09/10,Latvia,3811.0,Liepajas 
+"Sep 1, 2015",,?,England,352.0,Swindon Town ,121276,300 Th. €,Nathan Byrne,15/16,England,543.0,Wolves 
+"Jul 9, 2013",,Free transfer,England,148.0,Spurs ,121276,-,Nathan Byrne,13/14,England,352.0,Swindon Town 
+"May 31, 2013",,End of loan,England,352.0,Swindon Town ,121276,-,Nathan Byrne,12/13,England,148.0,Spurs 
+"Mar 28, 2013",,Loan,England,148.0,Spurs ,121276,-,Nathan Byrne,12/13,England,352.0,Swindon Town 
+"Jan 7, 2013",,End of loan,England,3537.0,Crawley Town ,121276,-,Nathan Byrne,12/13,England,148.0,Spurs 
+"Sep 24, 2012",,Loan,England,148.0,Spurs ,121276,75 Th. €,Nathan Byrne,12/13,England,3537.0,Crawley Town 
+"May 1, 2012",,End of loan,England,989.0,Bournemouth ,121276,75 Th. €,Nathan Byrne,11/12,England,148.0,Spurs 
+"Aug 1, 2011",,Loan,England,148.0,Spurs ,121276,-,Nathan Byrne,11/12,England,989.0,Bournemouth 
+"May 1, 2011",,End of loan,England,1148.0,Brentford ,121276,-,Nathan Byrne,10/11,England,148.0,Spurs 
+"Feb 1, 2011",,Loan,England,148.0,Spurs ,121276,-,Nathan Byrne,10/11,England,1148.0,Brentford 
+"Jul 1, 2010",,-,England,6928.0,Tottenham U18 ,121276,-,Nathan Byrne,10/11,England,148.0,Spurs 
+"Jul 27, 2015",,"1,80 Mill. €",England,1219.0,Chesterfield FC ,122223,175 Th. €,Samuel Clucas,15/16,England,3008.0,Hull City 
+"Sep 1, 2014",,125 Th. €,England,3820.0,Mansfield Town ,122223,25 Th. €,Samuel Clucas,14/15,England,1219.0,Chesterfield FC 
+"Jul 1, 2013",,Free transfer,England,3064.0,Hereford Utd. ,122223,25 Th. €,Samuel Clucas,13/14,England,3820.0,Mansfield Town 
+"Nov 1, 2011",,Free transfer,Spain,30562.0,Glenn Hoddle Academy ,122223,25 Th. €,Samuel Clucas,11/12,England,3064.0,Hereford Utd. 
+"Jul 1, 2010",,Free transfer,England,1198.0,Lincoln City ,122223,25 Th. €,Samuel Clucas,10/11,Spain,30562.0,Glenn Hoddle Academy 
+"Jul 1, 2009",,?,England,26409.0,Nettleham ,122223,-,Samuel Clucas,09/10,England,1198.0,Lincoln City 
+"Mar 1, 2009",,Free transfer,England,14389.0,Leicester U18 ,122223,-,Samuel Clucas,08/09,England,26409.0,Nettleham 
+"Jul 31, 2015",,500 Th. €,Denmark,3426.0,Esbjerg fB ,144904,750 Th. €,Jonas Knudsen,15/16,England,677.0,Ipswich 
+"Mar 1, 2010",,-,Denmark,14349.0,Esbjerg fB U19 ,144904,-,Jonas Knudsen,09/10,Denmark,3426.0,Esbjerg fB 
+"Jan 30, 2016",,End of loan,England,988.0,Oxford United ,146690,150 Th. €,George Baldock,15/16,England,991.0,MK Dons 
+"Jul 1, 2015",,Loan,England,991.0,MK Dons ,146690,150 Th. €,George Baldock,15/16,England,988.0,Oxford United 
+"May 31, 2015",,End of loan,England,988.0,Oxford United ,146690,150 Th. €,George Baldock,14/15,England,991.0,MK Dons 
+"Feb 12, 2015",,Loan,England,991.0,MK Dons ,146690,150 Th. €,George Baldock,14/15,England,988.0,Oxford United 
+"Dec 31, 2012",,End of loan,England,3539.0,Tamworth ,146690,50 Th. €,George Baldock,12/13,England,991.0,MK Dons 
+"Aug 31, 2012",,Loan,England,991.0,MK Dons ,146690,50 Th. €,George Baldock,12/13,England,3539.0,Tamworth 
+"Aug 30, 2012",,End of loan,Iceland,8036.0,ÍBV ,146690,50 Th. €,George Baldock,12/13,England,991.0,MK Dons 
+"May 5, 2012",,Loan,England,991.0,MK Dons ,146690,50 Th. €,George Baldock,11/12,Iceland,8036.0,ÍBV 
+"Apr 29, 2012",,End of loan,England,3539.0,Tamworth ,146690,50 Th. €,George Baldock,11/12,England,991.0,MK Dons 
+"Mar 23, 2012",,Loan,England,991.0,MK Dons ,146690,50 Th. €,George Baldock,11/12,England,3539.0,Tamworth 
+"Oct 1, 2011",,End of loan,England,1302.0,Northampt. Town ,146690,50 Th. €,George Baldock,11/12,England,991.0,MK Dons 
+"Sep 1, 2011",,Loan,England,991.0,MK Dons ,146690,50 Th. €,George Baldock,11/12,England,1302.0,Northampt. Town 
+"Jul 1, 2011",,-,England,14983.0,MK Dons U18 ,146690,50 Th. €,George Baldock,11/12,England,991.0,MK Dons 
+"Feb 1, 2016",,"1,70 Mill. €",Czech Republic,5546.0,Mladá Boleslav ,148734,"1,00 Mill. €",Jirí Skalák,15/16,England,1237.0,Brighton 
+"Jul 1, 2014",,Loan,Czech Republic,197.0,Sparta Praha ,148734,400 Th. €,Jirí Skalák,14/15,Czech Republic,5546.0,Mladá Boleslav 
+"Jun 30, 2014",,End of loan,Czech Republic,5225.0,Zbrojovka Brno ,148734,400 Th. €,Jirí Skalák,13/14,Czech Republic,197.0,Sparta Praha 
+"Aug 22, 2013",,Loan,Czech Republic,197.0,Sparta Praha ,148734,400 Th. €,Jirí Skalák,13/14,Czech Republic,5225.0,Zbrojovka Brno 
+"Jun 30, 2013",,End of loan,Czech Republic,5544.0,Slovácko ,148734,400 Th. €,Jirí Skalák,12/13,Czech Republic,197.0,Sparta Praha 
+"Jan 1, 2013",,Loan,Czech Republic,197.0,Sparta Praha ,148734,400 Th. €,Jirí Skalák,12/13,Czech Republic,5544.0,Slovácko 
+"Jun 30, 2012",,End of loan,Slovakia,7087.0,Ruzomberok ,148734,250 Th. €,Jirí Skalák,11/12,Czech Republic,197.0,Sparta Praha 
+"Aug 19, 2011",,Loan,Czech Republic,197.0,Sparta Praha ,148734,200 Th. €,Jirí Skalák,11/12,Slovakia,7087.0,Ruzomberok 
+"Jul 1, 2010",,-,Czech Republic,12795.0,Sparta Prag U19 ,148734,-,Jirí Skalák,10/11,Czech Republic,197.0,Sparta Praha 
+"Aug 21, 2015",,690 Th. €,Denmark,5724.0,Randers FC ,154051,400 Th. €,Nicolai Brock-Madsen,15/16,England,337.0,Birmingham 
+"Jul 1, 2010",,-,Denmark,15709.0,Randers FC U19 ,154051,-,Nicolai Brock-Madsen,10/11,Denmark,5724.0,Randers FC 
+"Jul 30, 2015",,855 Th. €,England,1219.0,Chesterfield FC ,158700,150 Th. €,Tendayi Darikwa,15/16,England,1132.0,Burnley FC 
+"Nov 29, 2010",,End of loan,England,6168.0,Barrow ,158700,-,Tendayi Darikwa,10/11,England,1219.0,Chesterfield FC 
+"Oct 29, 2010",,Loan,England,1219.0,Chesterfield FC ,158700,-,Tendayi Darikwa,10/11,England,6168.0,Barrow 
+"Aug 1, 2010",,-,England,15000.0,Chesterf. U18 ,158700,-,Tendayi Darikwa,10/11,England,1219.0,Chesterfield FC 
+"Jul 1, 2015",,700 Th. €,France,1161.0,FC Niort ,159838,300 Th. €,Yoann Barbet,15/16,England,1148.0,Brentford 
+"Nov 7, 2015",,End of loan,England,2413.0,Bury FC ,161484,100 Th. €,Lee Erwin,15/16,England,399.0,Leeds 
+"Oct 9, 2015",,Loan,England,399.0,Leeds ,161484,100 Th. €,Lee Erwin,15/16,England,2413.0,Bury FC 
+"Jul 1, 2015",,Free transfer,Scotland,987.0,Motherwell FC ,161484,100 Th. €,Lee Erwin,15/16,England,399.0,Leeds 
+"Nov 30, 2013",,End of loan,Scotland,3021.0,Arbroath ,161484,50 Th. €,Lee Erwin,13/14,Scotland,987.0,Motherwell FC 
+"Aug 30, 2013",,Loan,Scotland,987.0,Motherwell FC ,161484,-,Lee Erwin,13/14,Scotland,3021.0,Arbroath 
+"Jul 1, 2013",,-,Scotland,2987.0,Motherwell FC U20 ,161484,-,Lee Erwin,13/14,Scotland,987.0,Motherwell FC 
+"Jul 1, 2011",,-,Scotland,31035.0,Motherwell FC U17 ,161484,-,Lee Erwin,11/12,Scotland,2987.0,Motherwell FC U20 
+"Aug 19, 2015",,850 Th. €,England,3054.0,Shrewsbury Town ,163656,50 Th. €,Connor Goldson,15/16,England,1237.0,Brighton 
+"Jan 9, 2014",,End of loan,England,3371.0,Cheltenham Town ,163656,50 Th. €,Connor Goldson,13/14,England,3054.0,Shrewsbury Town 
+"Nov 28, 2013",,Loan,England,3054.0,Shrewsbury Town ,163656,50 Th. €,Connor Goldson,13/14,England,3371.0,Cheltenham Town 
+"Jul 1, 2010",,-,England,16282.0,Shrewsbury U18 ,163656,-,Connor Goldson,10/11,England,3054.0,Shrewsbury Town 
+"Jan 22, 2016",,530 Th. €,England,2805.0,Wycombe ,164499,50 Th. €,Matt Ingram,15/16,England,1039.0,QPR 
+"Mar 18, 2013",,End of loan,England,22563.0,Oxford City ,164499,25 Th. €,Matt Ingram,12/13,England,2805.0,Wycombe 
+"Oct 25, 2012",,Loan,England,2805.0,Wycombe ,164499,25 Th. €,Matt Ingram,12/13,England,22563.0,Oxford City 
+"Oct 24, 2012",,End of loan,England,6908.0,Hayes & Yeading ,164499,25 Th. €,Matt Ingram,12/13,England,2805.0,Wycombe 
+"Aug 14, 2012",,Loan,England,2805.0,Wycombe ,164499,25 Th. €,Matt Ingram,12/13,England,6908.0,Hayes & Yeading 
+"Mar 1, 2012",,End of loan,England,4077.0,Lewes ,164499,25 Th. €,Matt Ingram,11/12,England,2805.0,Wycombe 
+"Feb 1, 2012",,Loan,England,2805.0,Wycombe ,164499,25 Th. €,Matt Ingram,11/12,England,4077.0,Lewes 
+"Jul 1, 2011",,-,England,18149.0,Wycombe U18 ,164499,25 Th. €,Matt Ingram,11/12,England,2805.0,Wycombe 
+"Jan 11, 2016",,135 Th. €,England,985.0,Manchester Utd. ,183302,100 Th. €,Ben Pearson,15/16,England,466.0,Preston NE 
+"Jan 3, 2016",,End of loan,England,349.0,Barnsley FC ,183302,100 Th. €,Ben Pearson,15/16,England,985.0,Manchester Utd. 
+"Jul 18, 2015",,Loan,England,985.0,Manchester Utd. ,183302,-,Ben Pearson,15/16,England,349.0,Barnsley FC 
+"May 31, 2015",,End of loan,England,349.0,Barnsley FC ,183302,-,Ben Pearson,14/15,England,985.0,Manchester Utd. 
+"Jan 8, 2015",,Loan,England,985.0,Manchester Utd. ,183302,-,Ben Pearson,14/15,England,349.0,Barnsley FC 
+"Jul 1, 2013",,-,England,5242.0,Man Utd U18 ,183302,-,Ben Pearson,13/14,England,985.0,Manchester Utd. 
+"Feb 23, 2016",,End of loan,England,3684.0,Stevenage FC ,190506,-,Deimantas Petravicius,15/16,England,703.0,Nottm Forest 
+"Jan 23, 2016",,Loan,England,703.0,Nottm Forest ,190506,-,Deimantas Petravicius,15/16,England,3684.0,Stevenage FC 
+"Jul 1, 2014",,-,England,12799.0,Not. Forest U18 ,190506,-,Deimantas Petravicius,14/15,England,703.0,Nottm Forest 
+"Dec 13, 2015",,End of loan,England,1034.0,Grimsby Town ,203451,-,Alex Jones,15/16,England,337.0,Birmingham 
+"Nov 10, 2015",,Loan,England,337.0,Birmingham ,203451,-,Alex Jones,15/16,England,1034.0,Grimsby Town 
+"Jul 1, 2015",,Free transfer,England,29990.0,West Brom U21 ,203451,-,Alex Jones,15/16,England,337.0,Birmingham 
+"Jul 1, 2013",,-,England,6951.0,West Brom U18 ,203451,-,Alex Jones,13/14,England,29990.0,West Brom U21 
+"Apr 21, 2016",,End of loan,England,698.0,Bristol City ,210986,500 Th. €,Ben Gladwin,15/16,England,1039.0,QPR 
+"Jan 19, 2016",,Loan,England,1039.0,QPR ,210986,500 Th. €,Ben Gladwin,15/16,England,698.0,Bristol City 
+"Jan 9, 2016",,End of loan,England,352.0,Swindon Town ,210986,500 Th. €,Ben Gladwin,15/16,England,1039.0,QPR 
+"Oct 9, 2015",,Loan,England,1039.0,QPR ,210986,500 Th. €,Ben Gladwin,15/16,England,352.0,Swindon Town 
+"Jul 1, 2015",,710 Th. €,England,352.0,Swindon Town ,210986,150 Th. €,Ben Gladwin,15/16,England,1039.0,QPR 
+"Nov 23, 2013",,?,England,43407.0,Marlow ,210986,-,Ben Gladwin,13/14,England,352.0,Swindon Town 
+"Jul 1, 2012",,-,England,515.0,Unattached ,210986,-,Ben Gladwin,12/13,,43407.0,Marlow 
+"Jan 1, 2012",,-,England,6908.0,Hayes & Yeading ,210986,-,Ben Gladwin,11/12,,515.0,Unattached 
+"Dec 1, 2011",,Free transfer,England,23225.0,Burnham FC ,210986,-,Ben Gladwin,11/12,England,6908.0,Hayes & Yeading 
+"Mar 1, 2011",,Free transfer,England,6908.0,Hayes & Yeading ,210986,-,Ben Gladwin,10/11,England,23225.0,Burnham FC 
+"Jan 1, 2011",,End of loan,England,14773.0,Salisbury ,210986,-,Ben Gladwin,10/11,England,6908.0,Hayes & Yeading 
+"Dec 1, 2010",,Loan,England,6908.0,Hayes & Yeading ,210986,-,Ben Gladwin,10/11,England,14773.0,Salisbury 
+"Jul 1, 2010",,Free transfer,England,35194.0,Wallingford ,210986,-,Ben Gladwin,10/11,England,6908.0,Hayes & Yeading 
+"Dec 26, 2015",,End of loan,England,1252.0,York City ,215597,-,Jordan Lussey,15/16,England,355.0,Bolton 
+"Nov 26, 2015",,Loan,England,355.0,Bolton ,215597,-,Jordan Lussey,15/16,England,1252.0,York City 
+"Jul 12, 2015",,Free transfer,England,31.0,Liverpool ,215597,-,Jordan Lussey,15/16,England,355.0,Bolton 
+"May 31, 2015",,End of loan,England,355.0,Bolton ,215597,-,Jordan Lussey,14/15,England,31.0,Liverpool 
+"Mar 26, 2015",,Loan,England,31.0,Liverpool ,215597,-,Jordan Lussey,14/15,England,355.0,Bolton 
+"Jul 1, 2013",,-,England,6922.0,Liverpool U18 ,215597,-,Jordan Lussey,13/14,England,31.0,Liverpool 
+"Feb 5, 2016",,Loan,Spain,940.0,Celta de Vigo ,217153,-,Yelko Pino,15/16,England,1039.0,QPR 
+"Feb 4, 2016",,End of loan,England,352.0,Swindon Town ,217153,-,Yelko Pino,15/16,Spain,940.0,Celta de Vigo 
+"Sep 10, 2015",,Loan,Spain,8733.0,Celta Vigo B ,217153,-,Yelko Pino,15/16,England,352.0,Swindon Town 
+"Jul 1, 2013",,-,Spain,15509.0,Celta Juvenil A ,217153,-,Yelko Pino,13/14,Spain,8733.0,Celta Vigo B 
+"Sep 1, 2015",,"1,37 Mill. €",England,3054.0,Shrewsbury Town ,232897,50 Th. €,Ryan Woods,15/16,England,1148.0,Brentford 
+"Jul 1, 2012",,-,England,16282.0,Shrewsbury U18 ,232897,-,Ryan Woods,12/13,England,3054.0,Shrewsbury Town 
+"Jan 16, 2016",,End of loan,England,14772.0,Droylsden ,237329,-,Steven James,15/16,England,466.0,Preston NE 
+"Nov 18, 2015",,Loan,England,466.0,Preston NE ,237329,-,Steven James,15/16,England,14772.0,Droylsden 
+"Feb 14, 2015",,End of loan,England,22692.0,Skelmersdale ,237329,-,Steven James,14/15,England,466.0,Preston NE 
+"Jan 15, 2015",,Loan,England,466.0,Preston NE ,237329,-,Steven James,14/15,England,22692.0,Skelmersdale 
+"Oct 1, 2014",,End of loan,England,12869.0,Nantwich Town ,237329,-,Steven James,14/15,England,466.0,Preston NE 
+"Sep 9, 2014",,Loan,England,466.0,Preston NE ,237329,-,Steven James,14/15,England,12869.0,Nantwich Town 
+"May 31, 2014",,End of loan,England,12869.0,Nantwich Town ,237329,-,Steven James,13/14,England,466.0,Preston NE 
+"Feb 1, 2014",,Loan,England,466.0,Preston NE ,237329,-,Steven James,13/14,England,12869.0,Nantwich Town 
+"Nov 1, 2013",,End of loan,England,26423.0,Bamber B. ,237329,-,Steven James,13/14,England,466.0,Preston NE 
+"Oct 1, 2013",,Loan,England,466.0,Preston NE ,237329,-,Steven James,13/14,England,26423.0,Bamber B. 
+"Jul 1, 2013",,-,England,6697.0,Preston U18 ,237329,-,Steven James,13/14,England,466.0,Preston NE 
+"Feb 14, 2016",,End of loan,England,6908.0,Hayes & Yeading ,244811,50 Th. €,Charlie Burns,15/16,England,991.0,MK Dons 
+"Jan 15, 2016",,Loan,England,991.0,MK Dons ,244811,50 Th. €,Charlie Burns,15/16,England,6908.0,Hayes & Yeading 
+"Feb 10, 2015",,End of loan,England,9165.0,Truro City FC ,244811,50 Th. €,Charlie Burns,14/15,England,991.0,MK Dons 
+"Nov 7, 2014",,Loan,England,991.0,MK Dons ,244811,50 Th. €,Charlie Burns,14/15,England,9165.0,Truro City FC 
+"Jul 1, 2014",,-,England,14983.0,MK Dons U18 ,244811,-,Charlie Burns,14/15,England,991.0,MK Dons 
+"Jan 18, 2016",,?,England,985.0,Manchester Utd. ,247263,50 Th. €,Liam Grimshaw,15/16,England,466.0,Preston NE 
+"Jan 12, 2016",,End of loan,Scotland,987.0,Motherwell FC ,247263,50 Th. €,Liam Grimshaw,15/16,England,985.0,Manchester Utd. 
+"Sep 1, 2015",,Loan,England,985.0,Manchester Utd. ,247263,-,Liam Grimshaw,15/16,Scotland,987.0,Motherwell FC 
+"May 31, 2014",,End of loan,England,3697.0,Morecambe FC ,247263,-,Liam Grimshaw,13/14,England,985.0,Manchester Utd. 
+"Mar 27, 2014",,Loan,England,985.0,Manchester Utd. ,247263,-,Liam Grimshaw,13/14,England,3697.0,Morecambe FC 
+"Jul 1, 2013",,-,England,5242.0,Man Utd U18 ,247263,-,Liam Grimshaw,13/14,England,985.0,Manchester Utd. 
+"Jan 19, 2016",,"3,30 Mill. €",England,1072.0,Peterborough ,249815,750 Th. €,Conor Washington,15/16,England,1039.0,QPR 
+"Jan 28, 2014",,600 Th. €,England,3716.0,Newport County ,249815,50 Th. €,Conor Washington,13/14,England,1072.0,Peterborough 
+"Oct 1, 2012",,?,England,38386.0,St. Ives Town ,249815,-,Conor Washington,12/13,England,3716.0,Newport County 
+"Jul 1, 2015",,-,England,9260.0,Charlton U21 ,250654,-,Mikhail Kennedy,15/16,England,358.0,Charlton 
+"Jul 1, 2014",,-,England,6932.0,Charlton U18 ,250654,-,Mikhail Kennedy,14/15,England,9260.0,Charlton U21 
+"Sep 1, 2015",,"2,40 Mill. €",Uruguay,866.0,Nacional ,257740,"2,80 Mill. €",Carlos de Pena,15/16,England,641.0,Middlesbrough 
+"Jan 1, 2013",,-,Uruguay,16560.0,Nacional U19 ,257740,-,Carlos de Pena,12/13,Uruguay,866.0,Nacional 
+"Jul 1, 2015",,Free transfer,France,12770.0,SM Caen B ,272621,-,Sylvain Deslandes,15/16,England,543.0,Wolves 
+"Mar 22, 2016",,End of loan,England,2796.0,Woking ,276354,-,Joe Robinson,15/16,England,677.0,Ipswich 
+"Feb 22, 2016",,Loan,England,677.0,Ipswich ,276354,-,Joe Robinson,15/16,England,2796.0,Woking 
+"Jul 1, 2015",,-,England,10006.0,Ipswich U18 ,276354,-,Joe Robinson,15/16,England,677.0,Ipswich 
+"Jan 1, 2014",,?,Ireland,34422.0,Cork City U20 ,277697,-,Alan Browne,13/14,England,466.0,Preston NE 
+"Jul 1, 2012",,Free transfer,Ireland,32265.0,Ringmahon ,277697,-,Alan Browne,12/13,Ireland,34422.0,Cork City U20 
+"Jul 1, 2016",,Free transfer,England,1110.0,Huddersfield ,278503,-,Ed Wilczynski,16/17,,75.0,Unknown 
+"May 2, 2016",,End of loan,England,4081.0,Bishop Auckland ,278503,-,Ed Wilczynski,15/16,England,1110.0,Huddersfield 
+"Feb 21, 2016",,Loan,England,1110.0,Huddersfield ,278503,-,Ed Wilczynski,15/16,England,4081.0,Bishop Auckland 
+"Dec 28, 2015",,End of loan,England,4282.0,Hyde United ,278503,-,Ed Wilczynski,15/16,England,1110.0,Huddersfield 
+"Oct 30, 2015",,Loan,England,1110.0,Huddersfield ,278503,-,Ed Wilczynski,15/16,England,4282.0,Hyde United 
+"Mar 8, 2015",,End of loan,England,4282.0,Hyde FC ,278503,-,Ed Wilczynski,14/15,England,1110.0,Huddersfield 
+"Feb 5, 2015",,Loan,England,1110.0,Huddersfield ,278503,-,Ed Wilczynski,14/15,England,4282.0,Hyde FC 
+"Dec 2, 2014",,End of loan,England,21498.0,Trafford ,278503,-,Ed Wilczynski,14/15,England,1110.0,Huddersfield 
+"Nov 6, 2014",,Loan,England,1110.0,Huddersfield ,278503,-,Ed Wilczynski,14/15,England,21498.0,Trafford 
+"Jan 16, 2014",,End of loan,England,20428.0,FC United ,278503,-,Ed Wilczynski,13/14,England,1110.0,Huddersfield 
+"Dec 20, 2013",,Loan,England,1110.0,Huddersfield ,278503,-,Ed Wilczynski,13/14,England,20428.0,FC United 
+"Jul 1, 2013",,-,England,14629.0,Huddersf. U18 ,278503,-,Ed Wilczynski,13/14,England,1110.0,Huddersfield 
+"May 3, 2015",,End of loan,England,2577.0,Hartlepool Utd. ,291544,50 Th. €,Jordan Hugill,14/15,England,466.0,Preston NE 
+"Mar 26, 2015",,Loan,England,466.0,Preston NE ,291544,50 Th. €,Jordan Hugill,14/15,England,2577.0,Hartlepool Utd. 
+"Mar 25, 2015",,End of loan,England,1074.0,Tranmere Rovers ,291544,50 Th. €,Jordan Hugill,14/15,England,466.0,Preston NE 
+"Feb 26, 2015",,Loan,England,466.0,Preston NE ,291544,50 Th. €,Jordan Hugill,14/15,England,1074.0,Tranmere Rovers 
+"Jul 1, 2014",,?,England,1211.0,Port Vale FC ,291544,-,Jordan Hugill,14/15,England,466.0,Preston NE 
+"Oct 21, 2013",,End of loan,England,3456.0,Gateshead ,291544,-,Jordan Hugill,13/14,England,1211.0,Port Vale FC 
+"Sep 19, 2013",,Loan,England,1211.0,Port Vale FC ,291544,-,Jordan Hugill,13/14,England,3456.0,Gateshead 
+"Jul 1, 2013",,Free transfer,England,49079.0,Marske United ,291544,-,Jordan Hugill,13/14,England,1211.0,Port Vale FC 
+"Nov 24, 2012",,Free transfer,England,17675.0,Whitby Town FC ,291544,-,Jordan Hugill,12/13,England,49079.0,Marske United 
+"Nov 23, 2012",,End of loan,England,49079.0,Marske United ,291544,-,Jordan Hugill,12/13,England,17675.0,Whitby Town FC 
+"Oct 23, 2012",,Loan,England,17675.0,Whitby Town FC ,291544,-,Jordan Hugill,12/13,England,49079.0,Marske United 
+"Dec 1, 2011",,Free transfer,Spain,30562.0,Glenn Hoddle Academy ,291544,-,Jordan Hugill,11/12,England,17675.0,Whitby Town FC 
+"Oct 19, 2010",,Free transfer,England,11156.0,Consett AFC ,291544,-,Jordan Hugill,10/11,Spain,30562.0,Glenn Hoddle Academy 
+"Sep 1, 2009",,Free transfer,England,1255.0,Seaham Red Star ,291544,-,Jordan Hugill,09/10,England,11156.0,Consett AFC 
+"Jul 1, 2008",,-,England,45867.0,Seaham RS U18 ,291544,-,Jordan Hugill,08/09,England,1255.0,Seaham Red Star 
+"Apr 6, 2016",,End of loan,England,1099.0,Bath City ,299551,-,Billy Murphy,15/16,England,698.0,Bristol City 
+"Feb 6, 2016",,Loan,England,698.0,Bristol City ,299551,-,Billy Murphy,15/16,England,1099.0,Bath City 
+"Jul 8, 2014",,Free transfer,England,3064.0,Hereford Utd. ,299551,-,Billy Murphy,14/15,England,698.0,Bristol City 
+"Jul 10, 2015",,420 Th. €,England,1220.0,Carlisle United ,308388,-,Kyle Dempsey,15/16,England,1110.0,Huddersfield 
+"Jul 1, 2014",,-,England,15899.0,Carlisle U18 ,308388,-,Kyle Dempsey,14/15,England,1220.0,Carlisle United 
+"Jul 1, 2015",,-,England,9256.0,Boro U21 ,314140,-,Dael Fry,15/16,England,641.0,Middlesbrough 
+"Oct 1, 2014",,-,England,6924.0,FC Middlesbrough U18 ,314140,-,Dael Fry,14/15,England,9256.0,Boro U21 
+"Nov 7, 2015",,End of loan,England,3684.0,Stevenage FC ,336367,200 Th. €,Joe Lumley,15/16,England,1039.0,QPR 
+"Oct 7, 2015",,Loan,England,1039.0,QPR ,336367,200 Th. €,Joe Lumley,15/16,England,3684.0,Stevenage FC 
+"Dec 7, 2014",,End of loan,England,3697.0,Morecambe FC ,336367,250 Th. €,Joe Lumley,14/15,England,1039.0,QPR 
+"Nov 7, 2014",,Loan,England,1039.0,QPR ,336367,250 Th. €,Joe Lumley,14/15,England,3697.0,Morecambe FC 
+"Sep 23, 2014",,End of loan,England,3688.0,Accrington St. ,336367,-,Joe Lumley,14/15,England,1039.0,QPR 
+"Aug 23, 2014",,Loan,England,1039.0,QPR ,336367,-,Joe Lumley,14/15,England,3688.0,Accrington St. 
+"Jul 1, 2013",,-,England,12805.0,QPR U18 ,336367,-,Joe Lumley,13/14,England,1039.0,QPR 
+"Jul 17, 2015",,-,England,12801.0,Wolves U18 ,345772,-,Bright Enobakhare,15/16,England,543.0,Wolves 
+"Jul 1, 2016",,-,England,10006.0,Ipswich U18 ,346467,250 Th. €,Andre Dozzell,16/17,England,677.0,Ipswich 
+"May 31, 2016",,End of loan,England,8820.0,Hampton & Rich. ,382071,-,Mark Smith,15/16,England,1148.0,Brentford 
+"Feb 20, 2016",,Loan,England,1148.0,Brentford ,382071,-,Mark Smith,15/16,England,8820.0,Hampton & Rich. 
+"Feb 8, 2016",,End of loan,England,22688.0,Lowestoft ,382071,-,Mark Smith,15/16,England,1148.0,Brentford 
+"Jan 8, 2016",,Loan,England,1148.0,Brentford ,382071,-,Mark Smith,15/16,England,22688.0,Lowestoft 
+"Dec 27, 2015",,End of loan,England,8820.0,Hampton & Rich. ,382071,-,Mark Smith,15/16,England,1148.0,Brentford 
+"Oct 27, 2015",,Loan,England,1148.0,Brentford ,382071,-,Mark Smith,15/16,England,8820.0,Hampton & Rich. 
+"Jul 1, 2015",,-,England,14997.0,Brentford U18 ,382071,-,Mark Smith,15/16,England,1148.0,Brentford 
+"Jul 1, 2014",,?,England,12805.0,QPR U18 ,382071,-,Mark Smith,14/15,England,14997.0,Brentford U18 
+,,,,,,385635,,,,,,
+"Jan 3, 2016",,End of loan,England,3537.0,Crawley Town ,386263,100 Th. €,Josh Emmanuel,15/16,England,677.0,Ipswich 
+"Nov 26, 2015",,Loan,England,677.0,Ipswich ,386263,100 Th. €,Josh Emmanuel,15/16,England,3537.0,Crawley Town 
+"Jul 1, 2015",,-,England,10006.0,Ipswich U18 ,386263,-,Josh Emmanuel,15/16,England,677.0,Ipswich 
+"Jul 1, 2015",,-,England,24212.0,Birmingham U21 ,391127,-,Viv Solomon-Otabor,15/16,England,337.0,Birmingham 
+"May 1, 2014",,End of loan,England,22563.0,Oxford City ,391127,-,Viv Solomon-Otabor,13/14,England,24212.0,Birmingham U21 
+"Feb 1, 2014",,Loan,England,24212.0,Birmingham U21 ,391127,-,Viv Solomon-Otabor,13/14,England,22563.0,Oxford City 
+"Jul 1, 2013",,-,England,6938.0,Birmingham U18 ,391127,-,Viv Solomon-Otabor,13/14,England,24212.0,Birmingham U21 
+"Jul 1, 2012",,-,England,6950.0,Palace U18 ,391127,-,Viv Solomon-Otabor,12/13,England,6938.0,Birmingham U18 
+"Jul 1, 2015",,-,England,6932.0,Charlton U18 ,406040,-,Ademola Lookman,15/16,England,358.0,Charlton 
+"Feb 28, 2016",,End of loan,England,7454.0,Welling ,409755,-,James Ferry,15/16,England,1148.0,Brentford 
+"Jan 28, 2016",,Loan,England,1148.0,Brentford ,409755,-,James Ferry,15/16,England,7454.0,Welling 
+"Dec 24, 2015",,End of loan,England,2805.0,Wycombe ,409755,-,James Ferry,15/16,England,1148.0,Brentford 
+"Nov 26, 2015",,Loan,England,1148.0,Brentford ,409755,-,James Ferry,15/16,England,2805.0,Wycombe 
+"Nov 23, 2015",,-,England,14997.0,Brentford U18 ,409755,-,James Ferry,15/16,England,1148.0,Brentford 
+"Jul 1, 2015",,-,England,10161.0,Leeds United U18 ,410436,-,Bailey Peacock-Farrell,15/16,England,399.0,Leeds 
+"Apr 3, 2016",,End of loan,England,12020.0,Harrogate Town ,416620,-,Mason Warren,15/16,England,1194.0,Rotherham 
+"Feb 5, 2016",,Loan,England,1194.0,Rotherham ,416620,-,Mason Warren,15/16,England,12020.0,Harrogate Town 
+"Dec 27, 2015",,End of loan,England,21313.0,Sheffield FC ,416620,-,Mason Warren,15/16,England,1194.0,Rotherham 
+"Nov 27, 2015",,Loan,England,1194.0,Rotherham ,416620,-,Mason Warren,15/16,England,21313.0,Sheffield FC 
+"Jul 1, 2015",,-,England,14985.0,Rotherham U18 ,416620,-,Mason Warren,15/16,England,1194.0,Rotherham 
+"Feb 23, 2016",,End of loan,England,3455.0,Forest Green ,419183,-,Charlie Cooper,15/16,England,337.0,Birmingham 
+"Jan 23, 2016",,Loan,England,337.0,Birmingham ,419183,-,Charlie Cooper,15/16,England,3455.0,Forest Green 
+"Jul 1, 2015",,-,England,6938.0,Birmingham U18 ,419183,-,Charlie Cooper,15/16,England,337.0,Birmingham 
+"Sep 1, 2014",,"12,00 Mill. €",Italy,458.0,US Palermo ,76608,"5,00 Mill. €",Abel Hernández,14/15,England,3008.0,Hull City 
+"Jul 1, 2009",,-,Italy,11493.0,Palermo ,76608,-,Abel Hernández,09/10,Italy,458.0,US Palermo 
+"Feb 2, 2009",,"3,80 Mill. €",Uruguay,861.0,Peñarol ,76608,-,Abel Hernández,08/09,Italy,11493.0,Palermo 
+"Aug 24, 2008",,?,Uruguay,10960.0,Español ,76608,-,Abel Hernández,08/09,Uruguay,861.0,Peñarol 
+"Jul 1, 2006",,-,Uruguay,24292.0,Central U19 ,76608,-,Abel Hernández,06/07,Uruguay,10960.0,Español 
+"Jul 1, 2015",,?,England,289.0,Sunderland ,169090,400 Th. €,El-Hadji Ba,15/16,England,358.0,Charlton 
+"Jun 30, 2015",,End of loan,France,595.0,SC Bastia ,169090,400 Th. €,El-Hadji Ba,14/15,England,289.0,Sunderland 
+"Aug 6, 2014",,Loan,England,289.0,Sunderland ,169090,-,El-Hadji Ba,14/15,France,595.0,SC Bastia 
+"Jul 10, 2013",,Free transfer,France,15439.0,AC Le Havre B ,169090,-,El-Hadji Ba,13/14,England,289.0,Sunderland 
+"Jul 1, 2011",,-,France,12278.0,AC Le Havre ,169090,-,El-Hadji Ba,11/12,France,15439.0,AC Le Havre B 
+"Jun 30, 2016",,End of loan,England,1035.0,Sheff Wed ,122115,"1,00 Mill. €",Vincent Sasso,15/16,Portugal,1075.0,Braga 
+"Jul 1, 2015",,Loan fee:130 Th. €,Portugal,1075.0,Braga ,122115,"1,20 Mill. €",Vincent Sasso,15/16,England,1035.0,Sheff Wed 
+"Jan 22, 2013",,750 Th. €,Portugal,1436.0,Beira-Mar ,122115,200 Th. €,Vincent Sasso,12/13,Portugal,1075.0,Braga 
+"Jul 19, 2012",,Free transfer,France,995.0,FC Nantes ,122115,200 Th. €,Vincent Sasso,12/13,Portugal,1436.0,Beira-Mar 
+"Jul 1, 2009",,-,France,10850.0,FC Nantes B ,122115,-,Vincent Sasso,09/10,France,995.0,FC Nantes 
+"Jan 23, 2015",,65 Th. €,England,405.0,Aston Villa ,169092,100 Th. €,Daniel Johnson,14/15,England,466.0,Preston NE 
+"Jan 5, 2015",,End of loan,England,1078.0,Oldham Athletic ,169092,100 Th. €,Daniel Johnson,14/15,England,405.0,Aston Villa 
+"Nov 10, 2014",,Loan,England,405.0,Aston Villa ,169092,100 Th. €,Daniel Johnson,14/15,England,1078.0,Oldham Athletic 
+"Nov 3, 2014",,End of loan,England,1219.0,Chesterfield FC ,169092,100 Th. €,Daniel Johnson,14/15,England,405.0,Aston Villa 
+"Aug 8, 2014",,Loan,England,405.0,Aston Villa ,169092,-,Daniel Johnson,14/15,England,1219.0,Chesterfield FC 
+"Nov 21, 2012",,End of loan,England,972.0,Yeovil Town ,169092,-,Daniel Johnson,12/13,England,405.0,Aston Villa 
+"Oct 23, 2012",,Loan,England,405.0,Aston Villa ,169092,-,Daniel Johnson,12/13,England,972.0,Yeovil Town 
+"Jul 1, 2011",,-,England,12124.0,Aston Villa U21 ,169092,-,Daniel Johnson,11/12,England,405.0,Aston Villa 
+"Jul 1, 2010",,-,England,6933.0,Aston Villa U18 ,169092,-,Daniel Johnson,10/11,England,12124.0,Aston Villa U21 
+"Jun 30, 2016",,End of loan,England,1032.0,Reading ,89733,750 Th. €,Álex Fernández,15/16,Spain,714.0,Espanyol 
+"Aug 18, 2015",,Loan,Spain,714.0,Espanyol ,89733,800 Th. €,Álex Fernández,15/16,England,1032.0,Reading 
+"Jun 30, 2015",,End of loan,Croatia,144.0,HNK Rijeka ,89733,"1,00 Mill. €",Álex Fernández,14/15,Spain,714.0,Espanyol 
+"Jan 28, 2015",,Loan,Spain,714.0,Espanyol ,89733,"1,00 Mill. €",Álex Fernández,14/15,Croatia,144.0,HNK Rijeka 
+"Aug 29, 2013",,500 Th. €,Spain,6767.0,R. M. Castilla ,89733,"2,50 Mill. €",Álex Fernández,13/14,Spain,714.0,Espanyol 
+"Jul 1, 2010",,-,Spain,28870.0,Real Madrid U19 ,89733,-,Álex Fernández,10/11,Spain,6767.0,R. M. Castilla 
+"Jul 1, 2009",,-,Spain,13711.0,R. Madrid Youth ,89733,-,Álex Fernández,09/10,Spain,28870.0,Real Madrid U19 
+"May 31, 2016",,End of loan,England,355.0,Bolton ,121990,"2,00 Mill. €",Wellington Silva,15/16,England,11.0,Arsenal 
+"Aug 20, 2015",,Loan,England,11.0,Arsenal ,121990,"2,00 Mill. €",Wellington Silva,15/16,England,355.0,Bolton 
+"May 31, 2015",,End of loan,Spain,3302.0,UD Almería ,121990,"1,50 Mill. €",Wellington Silva,14/15,England,11.0,Arsenal 
+"Jul 13, 2014",,Loan,England,11.0,Arsenal ,121990,400 Th. €,Wellington Silva,14/15,Spain,3302.0,UD Almería 
+"Jun 30, 2014",,End of loan,Spain,171.0,Real Murcia ,121990,400 Th. €,Wellington Silva,13/14,England,11.0,Arsenal 
+"Aug 14, 2013",,Loan,England,11.0,Arsenal ,121990,400 Th. €,Wellington Silva,13/14,Spain,171.0,Real Murcia 
+"Jun 30, 2013",,End of loan,Spain,4032.0,Ponferradina ,121990,400 Th. €,Wellington Silva,12/13,England,11.0,Arsenal 
+"Aug 15, 2012",,Loan,England,11.0,Arsenal ,121990,500 Th. €,Wellington Silva,12/13,Spain,4032.0,Ponferradina 
+"Jun 30, 2012",,End of loan,Spain,11259.0,CD Alcoyano ,121990,500 Th. €,Wellington Silva,11/12,England,11.0,Arsenal 
+"Jan 10, 2012",,Loan,England,11.0,Arsenal ,121990,700 Th. €,Wellington Silva,11/12,Spain,11259.0,CD Alcoyano 
+"Dec 31, 2011",,End of loan,Spain,3368.0,Levante UD ,121990,700 Th. €,Wellington Silva,11/12,England,11.0,Arsenal 
+"Jan 12, 2011",,Loan,England,11.0,Arsenal ,121990,800 Th. €,Wellington Silva,10/11,Spain,3368.0,Levante UD 
+"Jan 6, 2011",,"4,00 Mill. €",Brazil,2462.0,Fluminense ,121990,800 Th. €,Wellington Silva,10/11,England,11.0,Arsenal 
+"Jan 1, 2010",,-,Brazil,14702.0,Fluminense U20 ,121990,-,Wellington Silva,09/10,Brazil,2462.0,Fluminense 
+"Aug 12, 2015",,"2,70 Mill. €",Germany,127.0,SC Paderborn ,10503,"1,50 Mill. €",Uwe Hünemeier,15/16,England,1237.0,Brighton 
+"Jul 1, 2013",,Free transfer,Germany,25.0,Energie Cottbus ,10503,500 Th. €,Uwe Hünemeier,13/14,Germany,127.0,SC Paderborn 
+"Jul 1, 2010",,100 Th. €,Germany,16.0,Bor. Dortmund ,10503,400 Th. €,Uwe Hünemeier,10/11,Germany,25.0,Energie Cottbus 
+"Jan 1, 2009",,-,Germany,17.0,B. Dortmund II ,10503,250 Th. €,Uwe Hünemeier,08/09,Germany,16.0,Bor. Dortmund 
+"Jul 1, 2007",,-,Germany,16.0,Bor. Dortmund ,10503,250 Th. €,Uwe Hünemeier,07/08,Germany,17.0,B. Dortmund II 
+"Jul 1, 2006",,-,Germany,17.0,B. Dortmund II ,10503,250 Th. €,Uwe Hünemeier,06/07,Germany,16.0,Bor. Dortmund 
+"Jul 1, 2004",,-,Germany,1464.0,B. Dortmund U19 ,10503,-,Uwe Hünemeier,04/05,Germany,17.0,B. Dortmund II 
+"Jul 1, 2002",,-,Germany,21055.0,B. Dortmund U17 ,10503,-,Uwe Hünemeier,02/03,Germany,1464.0,B. Dortmund U19 
+"Jul 1, 2001",,-,Germany,11896.0,Dortmund Jgd. ,10503,-,Uwe Hünemeier,01/02,Germany,21055.0,B. Dortmund U17 
+"Jul 1, 2000",,Free transfer,Germany,21446.0,Gütersloh Jgd. ,10503,-,Uwe Hünemeier,00/01,Germany,11896.0,Dortmund Jgd. 
+"Jul 1, 1997",,Free transfer,Germany,53499.0,DJK Bokel Jgd. ,10503,-,Uwe Hünemeier,97/98,Germany,21446.0,Gütersloh Jgd. 
+"Feb 1, 2016",,460 Th. €,England,2963.0,Burton Albion ,88968,150 Th. €,Nasser El Khayati,15/16,England,1039.0,QPR 
+"Jan 29, 2015",,Free transfer,Netherlands,12285.0,Kozakken Boys ,88968,-,Nasser El Khayati,14/15,England,2963.0,Burton Albion 
+"Jul 29, 2014",,Free transfer,Belgium,3230.0,KFC Turnhout ,88968,75 Th. €,Nasser El Khayati,14/15,Netherlands,12285.0,Kozakken Boys 
+"Sep 2, 2013",,Free transfer,Belgium,75.0,Unknown ,88968,75 Th. €,Nasser El Khayati,13/14,,3230.0,KFC Turnhout 
+"Aug 19, 2012",,Free transfer,Cyprus,1402.0,Olympiakos N. ,88968,75 Th. €,Nasser El Khayati,12/13,,75.0,Unknown 
+"Jul 1, 2012",,Free transfer,Cyprus,75.0,Unknown ,88968,75 Th. €,Nasser El Khayati,12/13,,1402.0,Olympiakos N. 
+"Jan 1, 2012",,Free transfer,Netherlands,132.0,NAC Breda ,88968,75 Th. €,Nasser El Khayati,11/12,,75.0,Unknown 
+"Jul 1, 2010",,Free transfer,Netherlands,404.0,FC Den Bosch ,88968,75 Th. €,Nasser El Khayati,10/11,Netherlands,132.0,NAC Breda 
+"Jul 1, 2009",,-,Netherlands,18334.0,Den Bosch U21 ,88968,75 Th. €,Nasser El Khayati,09/10,Netherlands,404.0,FC Den Bosch 
+"Jul 1, 2008",,Free transfer,Netherlands,4575.0,PSV U19 ,88968,-,Nasser El Khayati,08/09,Netherlands,18334.0,Den Bosch U21 
+"Jul 1, 2007",,Free transfer,Netherlands,8343.0,Leonidas ,88968,-,Nasser El Khayati,07/08,Netherlands,4575.0,PSV U19 
+"Jul 20, 2015",,"3,00 Mill. €",France,1420.0,SCO Angers ,88971,"2,00 Mill. €",Jonathan Kodjia,15/16,England,698.0,Bristol City 
+"Jul 1, 2014",,Free transfer,France,1421.0,Reims ,88971,500 Th. €,Jonathan Kodjia,14/15,France,1420.0,SCO Angers 
+"Jun 30, 2014",,End of loan,France,1162.0,SM Caen ,88971,500 Th. €,Jonathan Kodjia,13/14,France,1421.0,Reims 
+"Jul 1, 2013",,Loan,France,1421.0,Reims ,88971,150 Th. €,Jonathan Kodjia,13/14,France,1162.0,SM Caen 
+"Jun 30, 2013",,End of loan,France,1416.0,SC Amiens ,88971,150 Th. €,Jonathan Kodjia,12/13,France,1421.0,Reims 
+"Jul 1, 2012",,Loan,France,1421.0,Reims ,88971,150 Th. €,Jonathan Kodjia,12/13,France,1416.0,SC Amiens 
+"Jun 30, 2012",,End of loan,France,5773.0,AS Cherbourg ,88971,150 Th. €,Jonathan Kodjia,11/12,France,1421.0,Reims 
+"Jan 30, 2012",,Loan,France,1421.0,Reims ,88971,150 Th. €,Jonathan Kodjia,11/12,France,5773.0,AS Cherbourg 
+"Jul 1, 2008",,-,France,11204.0,Stade Reims B ,88971,-,Jonathan Kodjia,08/09,France,1421.0,Reims 
+"Jul 1, 2016",,Free transfer,England,677.0,Ipswich ,37516,400 Th. €,Larsen Touré,16/17,,75.0,Unknown 
+"Aug 3, 2015",,?,France,11300.0,AC Arles-Avign. ,37516,400 Th. €,Larsen Touré,15/16,England,677.0,Ipswich 
+"Jul 28, 2014",,Free transfer,Bulgaria,156.0,Levski Sofia ,37516,800 Th. €,Larsen Touré,14/15,France,11300.0,AC Arles-Avign. 
+"Sep 9, 2013",,-,Bulgaria,515.0,Unattached ,37516,800 Th. €,Larsen Touré,13/14,,156.0,Levski Sofia 
+"Jul 1, 2013",,-,France,3911.0,Stade Brest 29 ,37516,800 Th. €,Larsen Touré,13/14,,515.0,Unattached 
+"Aug 9, 2010",,200 Th. €,France,1082.0,LOSC Lille ,37516,"1,00 Mill. €",Larsen Touré,10/11,France,3911.0,Stade Brest 29 
+"Jun 30, 2009",,End of loan,France,1290.0,Grenoble ,37516,700 Th. €,Larsen Touré,08/09,France,1082.0,LOSC Lille 
+"Sep 1, 2008",,Loan,France,1082.0,LOSC Lille ,37516,900 Th. €,Larsen Touré,08/09,France,1290.0,Grenoble 
+"Jun 30, 2008",,End of loan,France,1290.0,Grenoble ,37516,900 Th. €,Larsen Touré,07/08,France,1082.0,LOSC Lille 
+"Jan 10, 2008",,Loan,France,1082.0,LOSC Lille ,37516,700 Th. €,Larsen Touré,07/08,France,1290.0,Grenoble 
+"Jun 30, 2007",,End of loan,France,1397.0,FC Gueugnon ,37516,200 Th. €,Larsen Touré,06/07,France,1082.0,LOSC Lille 
+"Jul 1, 2006",,Loan,France,1082.0,LOSC Lille ,37516,200 Th. €,Larsen Touré,06/07,France,1397.0,FC Gueugnon 
+"Sep 6, 2005",,-,France,12765.0,LOSC Lille B ,37516,-,Larsen Touré,05/06,France,1082.0,LOSC Lille 
+"Jan 19, 2016",,500 Th. €,Belgium,3057.0,Standard Liège ,59791,"1,50 Mill. €",Jorge Teixeira,15/16,England,358.0,Charlton 
+"Jul 1, 2014",,Free transfer,Switzerland,260.0,FC Zürich ,59791,700 Th. €,Jorge Teixeira,14/15,Belgium,3057.0,Standard Liège 
+"Jun 30, 2013",,End of loan,Italy,1387.0,AC Siena ,59791,700 Th. €,Jorge Teixeira,12/13,Switzerland,260.0,FC Zürich 
+"Jan 31, 2013",,Loan,Switzerland,260.0,FC Zürich ,59791,800 Th. €,Jorge Teixeira,12/13,Italy,1387.0,AC Siena 
+"Jul 1, 2010",,"1,20 Mill. €",Israel,1064.0,Maccabi Haifa ,59791,"1,00 Mill. €",Jorge Teixeira,10/11,Switzerland,260.0,FC Zürich 
+"Jul 1, 2009",,220 Th. €,Cyprus,18540.0,Geroskipou ,59791,-,Jorge Teixeira,09/10,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2008",,Free transfer,Portugal,6987.0,Fátima ,59791,-,Jorge Teixeira,08/09,Cyprus,18540.0,Geroskipou 
+"Jul 1, 2007",,?,Portugal,4535.0,Odivelas ,59791,-,Jorge Teixeira,07/08,Portugal,6987.0,Fátima 
+"Jul 1, 2006",,?,Portugal,3268.0,Casa Pia ,59791,-,Jorge Teixeira,06/07,Portugal,4535.0,Odivelas 
+"Jul 1, 2005",,-,Portugal,20205.0,Casa Pia U19 ,59791,-,Jorge Teixeira,05/06,Portugal,3268.0,Casa Pia 
+"May 31, 2016",,End of loan,England,3008.0,Hull City ,206225,500 Th. €,Isaac Hayden,15/16,England,11.0,Arsenal 
+"Jul 31, 2015",,Loan,England,11.0,Arsenal ,206225,-,Isaac Hayden,15/16,England,3008.0,Hull City 
+"Jul 1, 2015",,-,England,9249.0,Arsenal U21 ,206225,-,Isaac Hayden,15/16,England,11.0,Arsenal 
+"Jul 1, 2013",,-,England,5679.0,Arsenal U18  ,206225,-,Isaac Hayden,13/14,England,9249.0,Arsenal U21 
+"May 31, 2016",,End of loan,England,466.0,Preston NE ,183299,500 Th. €,Callum Robinson,15/16,England,405.0,Aston Villa 
+"Jan 5, 2016",,Loan,England,405.0,Aston Villa ,183299,500 Th. €,Callum Robinson,15/16,England,466.0,Preston NE 
+"Jan 3, 2016",,End of loan,England,698.0,Bristol City ,183299,500 Th. €,Callum Robinson,15/16,England,405.0,Aston Villa 
+"Aug 7, 2015",,Loan,England,405.0,Aston Villa ,183299,500 Th. €,Callum Robinson,15/16,England,698.0,Bristol City 
+"May 11, 2015",,End of loan,England,466.0,Preston NE ,183299,250 Th. €,Callum Robinson,14/15,England,405.0,Aston Villa 
+"Feb 2, 2015",,Loan,England,405.0,Aston Villa ,183299,250 Th. €,Callum Robinson,14/15,England,466.0,Preston NE 
+"Nov 25, 2014",,End of loan,England,466.0,Preston NE ,183299,250 Th. €,Callum Robinson,14/15,England,405.0,Aston Villa 
+"Sep 16, 2014",,Loan,England,405.0,Aston Villa ,183299,250 Th. €,Callum Robinson,14/15,England,466.0,Preston NE 
+"Jul 1, 2014",,-,England,12124.0,Aston Villa U21 ,183299,250 Th. €,Callum Robinson,14/15,England,405.0,Aston Villa 
+"Jul 1, 2012",,-,England,6933.0,Aston Villa U18 ,183299,-,Callum Robinson,12/13,England,12124.0,Aston Villa U21 
+"May 31, 2016",,End of loan,England,677.0,Ipswich ,285845,750 Th. €,Ainsley Maitland-Niles,15/16,England,9249.0,Arsenal U21 
+"Jul 2, 2015",,Loan,England,9249.0,Arsenal U21 ,285845,250 Th. €,Ainsley Maitland-Niles,15/16,England,677.0,Ipswich 
+"Jul 1, 2014",,-,England,5679.0,Arsenal U18  ,285845,-,Ainsley Maitland-Niles,14/15,England,9249.0,Arsenal U21 
+"Jul 27, 2015",,250 Th. €,Netherlands,202.0,FC Groningen ,82332,"2,00 Mill. €",Maikel Kieftenbeld,15/16,England,337.0,Birmingham 
+"Jul 1, 2010",,300 Th. €,Netherlands,1435.0,Go Ahead Eagles ,82332,400 Th. €,Maikel Kieftenbeld,10/11,Netherlands,202.0,FC Groningen 
+"Jul 1, 2008",,-,Netherlands,15589.0,Go Ahead U19 ,82332,-,Maikel Kieftenbeld,08/09,Netherlands,1435.0,Go Ahead Eagles 
+"Jul 1, 2007",,?,Netherlands,6200.0,FC Twente U19 ,82332,-,Maikel Kieftenbeld,07/08,Netherlands,15589.0,Go Ahead U19 
+"Jul 2, 2015",,"2,30 Mill. â‚¬",Germany,39.0,1.FSV Mainz 05 ,60957,"1,50 Mill. â‚¬",Sebastian Polter,15/16,England,1039.0,QPR 
+"Jun 30, 2015",,End of loan,Germany,89.0,Union Berlin ,60957,"1,20 Mill. â‚¬",Sebastian Polter,14/15,Germany,39.0,1.FSV Mainz 05 
+"Aug 30, 2014",,Loan,Germany,39.0,1.FSV Mainz 05 ,60957,"1,00 Mill. â‚¬",Sebastian Polter,14/15,Germany,89.0,Union Berlin 
+"Jul 1, 2013",,750 Th. â‚¬,Germany,82.0,VfL Wolfsburg ,60957,"1,50 Mill. â‚¬",Sebastian Polter,13/14,Germany,39.0,1.FSV Mainz 05 
+"Jun 30, 2013",,End of loan,Germany,4.0,1.FC Nuremberg ,60957,"1,50 Mill. â‚¬",Sebastian Polter,12/13,Germany,82.0,VfL Wolfsburg 
+"Jul 1, 2012",,Loan fee:200 Th. â‚¬,Germany,82.0,VfL Wolfsburg ,60957,800 Th. â‚¬,Sebastian Polter,12/13,Germany,4.0,1.FC Nuremberg 
+"Jul 1, 2011",,-,Germany,143.0,Wolfsburg II ,60957,75 Th. â‚¬,Sebastian Polter,11/12,Germany,82.0,VfL Wolfsburg 
+"Jul 1, 2008",,-,Germany,5343.0,Wolfsburg U19 ,60957,-,Sebastian Polter,08/09,Germany,143.0,Wolfsburg II 
+"Jan 1, 2008",,-,Germany,21087.0,Wolfsburg U17 ,60957,-,Sebastian Polter,07/08,Germany,5343.0,Wolfsburg U19 
+"Jul 1, 2007",,Free transfer,Germany,22725.0,Braunschw. U17 ,60957,-,Sebastian Polter,07/08,Germany,21087.0,Wolfsburg U17 
+"Jul 1, 2006",,Free transfer,Germany,39392.0,SV Wilhelm. Jgd ,60957,-,Sebastian Polter,06/07,Germany,22725.0,Braunschw. U17 
+"Jul 1, 2005",,Free transfer,Germany,12012.0,W. Bremen Youth ,60957,-,Sebastian Polter,05/06,Germany,39392.0,SV Wilhelm. Jgd 
+"Jul 1, 2004",,Free transfer,Germany,39392.0,SV Wilhelm. Jgd ,60957,-,Sebastian Polter,04/05,Germany,12012.0,W. Bremen Youth 
+"Jul 1, 2003",,Free transfer,Germany,45917.0,HeidmÃ¼hle Jgd. ,60957,-,Sebastian Polter,03/04,Germany,39392.0,SV Wilhelm. Jgd 
+"Jul 1, 2013",,Free transfer,England,405.0,Aston Villa ,128287,-,Derrick Williams,13/14,England,698.0,Bristol City 
+"Jul 1, 2011",,-,England,6933.0,Aston Villa U18 ,128287,-,Derrick Williams,11/12,England,405.0,Aston Villa 
+"Jul 21, 2015",,?,France,347.0,FC Metz ,73120,"1,00 Mill. â‚¬",Ahmed Kashi,15/16,England,358.0,Charlton 
+"Aug 31, 2012",,Free transfer,France,1175.0,LB ChÃ¢teauroux ,73120,400 Th. â‚¬,Ahmed Kashi,12/13,France,347.0,FC Metz 
+"Jul 1, 2008",,-,France,12761.0,LB ChÃ¢teauroux B ,73120,-,Ahmed Kashi,08/09,France,1175.0,LB ChÃ¢teauroux 
+"Jul 23, 2015",,Free transfer,England,148.0,Spurs ,166640,300 Th. €,Cristian Ceballos,15/16,England,358.0,Charlton 
+"Jun 30, 2014",,End of loan,Portugal,8024.0,Arouca ,166640,300 Th. €,Cristian Ceballos,13/14,England,148.0,Spurs 
+"Sep 3, 2013",,Loan,England,148.0,Spurs ,166640,-,Cristian Ceballos,13/14,Portugal,8024.0,Arouca 
+"Jul 1, 2011",,-,England,6928.0,Tottenham U18 ,166640,-,Cristian Ceballos,11/12,England,148.0,Spurs 
+"Jun 1, 2011",,Free transfer,Spain,2470.0,Barça Juvenil A ,166640,-,Cristian Ceballos,10/11,England,6928.0,Tottenham U18 
+"Jul 2, 2015",,"2,50 Mill. €",Netherlands,317.0,FC Twente ,56354,"3,00 Mill. €",Andreas Bjelland,15/16,England,1148.0,Brentford 
+"Jul 1, 2012",,"2,80 Mill. €",Denmark,2778.0,Nordsjaelland ,56354,"2,00 Mill. €",Andreas Bjelland,12/13,Netherlands,317.0,FC Twente 
+"Aug 1, 2009",,350 Th. €,Denmark,369.0,Lyngby BK ,56354,350 Th. €,Andreas Bjelland,09/10,Denmark,2778.0,Nordsjaelland 
+"Jul 1, 2007",,-,Denmark,14363.0,Lyngby BK U19 ,56354,-,Andreas Bjelland,07/08,Denmark,369.0,Lyngby BK 
+"Jul 31, 2015",,"2,78 Mill. €",Portugal,982.0,Nacional ,234787,"1,80 Mill. €",Lucas João,15/16,England,1035.0,Sheff Wed 
+"Jun 30, 2013",,End of loan,Portugal,10005.0,Mirandela ,234787,-,Lucas João,12/13,Portugal,982.0,Nacional 
+"Sep 1, 2012",,Loan,Portugal,982.0,Nacional ,234787,-,Lucas João,12/13,Portugal,10005.0,Mirandela 
+"Jul 1, 2012",,-,Portugal,15561.0,Nacional U19 ,234787,-,Lucas João,12/13,Portugal,982.0,Nacional 
+"Jul 23, 2015",,250 Th. €,Spain,366.0,Real Valladolid ,149540,"1,70 Mill. €",Zakarya Bergdich,15/16,England,358.0,Charlton 
+"Jun 30, 2015",,End of loan,Italy,252.0,Genoa ,149540,"1,50 Mill. €",Zakarya Bergdich,14/15,Spain,366.0,Real Valladolid 
+"Feb 2, 2015",,Loan,Spain,366.0,Real Valladolid ,149540,"1,50 Mill. €",Zakarya Bergdich,14/15,Italy,252.0,Genoa 
+"Jul 1, 2013",,750 Th. €,France,826.0,Lens ,149540,750 Th. €,Zakarya Bergdich,13/14,Spain,366.0,Real Valladolid 
+"Jul 1, 2011",,-,France,8152.0,RC Lens B ,149540,-,Zakarya Bergdich,11/12,France,826.0,Lens 
+"Jul 1, 2010",,Free transfer,France,21687.0,UJA Maccabi ,149540,-,Zakarya Bergdich,10/11,France,8152.0,RC Lens B 
+"Jun 30, 2016",,End of loan,England,1032.0,Reading ,124550,"5,00 Mill. €",Ola John,15/16,Portugal,294.0,Benfica 
+"Sep 1, 2015",,Loan,Portugal,294.0,Benfica ,124550,"7,00 Mill. €",Ola John,15/16,England,1032.0,Reading 
+"Jun 30, 2014",,End of loan,Germany,41.0,Hamburger SV ,124550,"8,00 Mill. €",Ola John,13/14,Portugal,294.0,Benfica 
+"Jan 17, 2014",,Loan,Portugal,294.0,Benfica ,124550,"12,00 Mill. €",Ola John,13/14,Germany,41.0,Hamburger SV 
+"Jul 1, 2012",,"9,00 Mill. €",Netherlands,317.0,FC Twente ,124550,"2,50 Mill. €",Ola John,12/13,Portugal,294.0,Benfica 
+"Jul 1, 2010",,-,Netherlands,6200.0,FC Twente U19 ,124550,-,Ola John,10/11,Netherlands,317.0,FC Twente 
+"Sep 1, 2014",,"4,40 Mill. €",England,379.0,West Ham ,70950,"7,00 Mill. €",Mohamed Diamé,14/15,England,3008.0,Hull City 
+"Jul 1, 2012",,Free transfer,England,1071.0,Wigan ,70950,"5,00 Mill. €",Mohamed Diamé,12/13,England,379.0,West Ham 
+"Aug 22, 2009",,"3,00 Mill. €",Spain,367.0,Rayo Vallecano ,70950,"2,00 Mill. €",Mohamed Diamé,09/10,England,1071.0,Wigan 
+"Jul 1, 2008",,Free transfer,Spain,12351.0,CD Linares ,70950,-,Mohamed Diamé,08/09,Spain,367.0,Rayo Vallecano 
+"Jul 1, 2007",,Free transfer,France,8152.0,RC Lens B ,70950,-,Mohamed Diamé,07/08,Spain,12351.0,CD Linares 
+"Aug 4, 2015",,Free transfer,France,244.0,Marseille ,33831,"1,00 Mill. €",Modou Sougou,15/16,England,1035.0,Sheff Wed 
+"Jun 30, 2015",,End of loan,France,14171.0,Évian ,33831,"1,00 Mill. €",Modou Sougou,14/15,France,244.0,Marseille 
+"Sep 1, 2014",,Loan,France,244.0,Marseille ,33831,"1,75 Mill. €",Modou Sougou,14/15,France,14171.0,Évian 
+"Jun 30, 2014",,End of loan,France,14171.0,Évian ,33831,"2,50 Mill. €",Modou Sougou,13/14,France,244.0,Marseille 
+"Aug 7, 2013",,Loan,France,244.0,Marseille ,33831,"3,50 Mill. €",Modou Sougou,13/14,France,14171.0,Évian 
+"Jan 24, 2013",,"3,00 Mill. €",Romania,7769.0,CFR Cluj ,33831,"4,00 Mill. €",Modou Sougou,12/13,France,244.0,Marseille 
+"Jul 1, 2011",,300 Th. €,Portugal,2990.0,Coimbra ,33831,"2,30 Mill. €",Modou Sougou,11/12,Romania,7769.0,CFR Cluj 
+"Jul 1, 2008",,Free transfer,Portugal,2639.0,Leiria ,33831,"1,10 Mill. €",Modou Sougou,08/09,Portugal,2990.0,Coimbra 
+"Jul 1, 2006",,Free transfer,Portugal,1085.0,Vitória Setúbal ,33831,500 Th. €,Modou Sougou,06/07,Portugal,2639.0,Leiria 
+"Jul 1, 2005",,Free transfer,Portugal,2639.0,Leiria ,33831,-,Modou Sougou,05/06,Portugal,1085.0,Vitória Setúbal 
+"Jul 1, 2004",,Free transfer,Senegal,3165.0,AS Douanes ,33831,-,Modou Sougou,04/05,Portugal,2639.0,Leiria 
+"Jul 1, 2015",,"1,40 Mill. €",Spain,3302.0,UD Almería ,112668,"2,50 Mill. €",Tomer Hemed,15/16,England,1237.0,Brighton 
+"Jul 1, 2014",,Free transfer,Spain,237.0,RCD Mallorca ,112668,"2,00 Mill. €",Tomer Hemed,14/15,Spain,3302.0,UD Almería 
+"Jul 1, 2011",,Free transfer,Israel,1064.0,Maccabi Haifa ,112668,500 Th. €,Tomer Hemed,11/12,Spain,237.0,RCD Mallorca 
+"Jun 30, 2010",,End of loan,Israel,2828.0,M. Ahi Nazareth ,112668,275 Th. €,Tomer Hemed,09/10,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2009",,Loan fee:40 Th. €,Israel,1064.0,Maccabi Haifa ,112668,-,Tomer Hemed,09/10,Israel,2828.0,M. Ahi Nazareth 
+"Jun 30, 2007",,End of loan,Israel,9095.0,Bnei Yehuda ,112668,-,Tomer Hemed,06/07,Israel,1064.0,Maccabi Haifa 
+"Jan 1, 2007",,Loan,Israel,1064.0,Maccabi Haifa ,112668,-,Tomer Hemed,06/07,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2015",,-,England,12805.0,QPR U18 ,264199,-,Reece Grego-Cox,15/16,England,1039.0,QPR 
+"Jan 4, 2016",,"1,70 Mill. €",France,1420.0,SCO Angers ,60588,"1,25 Mill. €",Abdoul Camara,15/16,England,22.0,Derby 
+"Jul 1, 2014",,Free transfer,France,750.0,FC Sochaux ,60588,500 Th. €,Abdoul Camara,14/15,France,1420.0,SCO Angers 
+"Jun 30, 2014",,End of loan,Spain,237.0,RCD Mallorca ,60588,500 Th. €,Abdoul Camara,13/14,France,750.0,FC Sochaux 
+"Jan 31, 2014",,Loan,France,750.0,FC Sochaux ,60588,500 Th. €,Abdoul Camara,13/14,Spain,237.0,RCD Mallorca 
+"Jun 30, 2013",,End of loan,Greece,1091.0,PAOK Saloniki ,60588,"1,25 Mill. €",Abdoul Camara,12/13,France,750.0,FC Sochaux 
+"Jan 30, 2013",,Loan,France,750.0,FC Sochaux ,60588,"1,25 Mill. €",Abdoul Camara,12/13,Greece,1091.0,PAOK Saloniki 
+"Aug 30, 2011",,"1,50 Mill. €",France,273.0,Rennes ,60588,"1,00 Mill. €",Abdoul Camara,11/12,France,750.0,FC Sochaux 
+"Jun 30, 2010",,End of loan,France,1377.0,OC Vannes ,60588,750 Th. €,Abdoul Camara,09/10,France,273.0,Rennes 
+"Aug 1, 2009",,Loan,France,273.0,Rennes ,60588,-,Abdoul Camara,09/10,France,1377.0,OC Vannes 
+"Jul 1, 2009",,-,France,8154.0,FC Stade Rennes B ,60588,-,Abdoul Camara,09/10,France,273.0,Rennes 
+"Jun 30, 2016",,End of loan,England,603.0,Cardiff ,135213,400 Th. €,Kenneth Zohore,15/16,Belgium,601.0,KV Kortrijk 
+"Feb 1, 2016",,Loan,Belgium,601.0,KV Kortrijk ,135213,400 Th. €,Kenneth Zohore,15/16,England,603.0,Cardiff 
+"Jan 31, 2016",,?,Denmark,173.0,Odense BK ,135213,400 Th. €,Kenneth Zohore,15/16,Belgium,601.0,KV Kortrijk 
+"Feb 3, 2015",,Free transfer,Italy,430.0,Fiorentina ,135213,500 Th. €,Kenneth Zohore,14/15,Denmark,173.0,Odense BK 
+"Dec 31, 2014",,End of loan,Sweden,801.0,IFK Göteborg ,135213,500 Th. €,Kenneth Zohore,14/15,Italy,430.0,Fiorentina 
+"Aug 11, 2014",,Loan,Italy,430.0,Fiorentina ,135213,500 Th. €,Kenneth Zohore,14/15,Sweden,801.0,IFK Göteborg 
+"Jun 30, 2014",,End of loan,Denmark,206.0,Bröndby IF ,135213,500 Th. €,Kenneth Zohore,13/14,Italy,430.0,Fiorentina 
+"Aug 8, 2013",,Loan,Italy,430.0,Fiorentina ,135213,500 Th. €,Kenneth Zohore,13/14,Denmark,206.0,Bröndby IF 
+"Jan 31, 2012",,800 Th. €,Denmark,190.0,FC Copenhagen ,135213,450 Th. €,Kenneth Zohore,11/12,Italy,430.0,Fiorentina 
+"Jul 1, 2010",,-,Denmark,16786.0,KB (FCK II) ,135213,150 Th. €,Kenneth Zohore,10/11,Denmark,190.0,FC Copenhagen 
+"Jan 1, 2010",,-,Denmark,16104.0,Copenhagen U19 ,135213,-,Kenneth Zohore,09/10,Denmark,16786.0,KB (FCK II) 
+"Jun 30, 2016",,End of loan,England,703.0,Nottm Forest ,44317,700 Th. €,Bojan Jokic,15/16,Spain,1050.0,Villarreal CF 
+"Jan 8, 2016",,Loan,Spain,1050.0,Villarreal CF ,44317,700 Th. €,Bojan Jokic,15/16,England,703.0,Nottm Forest 
+"Jul 4, 2013",,Free transfer,Italy,862.0,Chievo Verona ,44317,800 Th. €,Bojan Jokic,13/14,Spain,1050.0,Villarreal CF 
+"Jul 1, 2010",,"1,00 Mill. €",France,750.0,FC Sochaux ,44317,"1,00 Mill. €",Bojan Jokic,10/11,Italy,862.0,Chievo Verona 
+"Jun 30, 2010",,End of loan,Italy,862.0,Chievo Verona ,44317,"1,00 Mill. €",Bojan Jokic,09/10,France,750.0,FC Sochaux 
+"Jan 30, 2010",,Loan,France,750.0,FC Sochaux ,44317,"1,00 Mill. €",Bojan Jokic,09/10,Italy,862.0,Chievo Verona 
+"Jul 1, 2007",,"1,60 Mill. €",Slovenia,5862.0,ND Gorica ,44317,-,Bojan Jokic,07/08,France,750.0,FC Sochaux 
+"Jul 1, 2005",,?,Slovenia,17836.0,NK Triglav ,44317,-,Bojan Jokic,05/06,Slovenia,5862.0,ND Gorica 
+"Jul 1, 2016",,?,Netherlands,234.0,Feyenoord ,56371,"2,00 Mill. €",Lex Immers,16/17,Wales,603.0,Cardiff 
+"Jun 30, 2016",,End of loan,England,603.0,Cardiff ,56371,"2,00 Mill. €",Lex Immers,15/16,Netherlands,234.0,Feyenoord 
+"Jan 21, 2016",,Loan,Netherlands,234.0,Feyenoord ,56371,"2,00 Mill. €",Lex Immers,15/16,England,603.0,Cardiff 
+"Jul 1, 2012",,800 Th. €,Netherlands,1268.0,ADO Den Haag ,56371,"1,50 Mill. €",Lex Immers,12/13,Netherlands,234.0,Feyenoord 
+"Jul 1, 2007",,-,Netherlands,17775.0,ADO U21 ,56371,-,Lex Immers,07/08,Netherlands,1268.0,ADO Den Haag 
+"Jul 1, 2005",,-,Netherlands,10709.0,ADO U19 ,56371,-,Lex Immers,05/06,Netherlands,17775.0,ADO U21 
+"Jul 29, 2014",,"3,60 Mill. €",Scotland,1519.0,Dundee United ,234803,600 Th. €,Andrew Robertson,14/15,England,3008.0,Hull City 
+"Jul 1, 2013",,Free transfer,Scotland,3031.0,Queen's Park ,234803,-,Andrew Robertson,13/14,Scotland,1519.0,Dundee United 
+"Jul 1, 2012",,-,Scotland,19943.0,Queen's P. U20 ,234803,-,Andrew Robertson,12/13,Scotland,3031.0,Queen's Park 
+"Mar 30, 2016",,End of loan,England,1110.0,Huddersfield ,198070,"2,00 Mill. €",Elvis Manu,15/16,England,1237.0,Brighton 
+"Feb 1, 2016",,Loan,England,1237.0,Brighton ,198070,"2,00 Mill. €",Elvis Manu,15/16,England,1110.0,Huddersfield 
+"Aug 29, 2015",,"1,20 Mill. €",Netherlands,234.0,Feyenoord ,198070,"2,00 Mill. €",Elvis Manu,15/16,England,1237.0,Brighton 
+"Jun 30, 2014",,End of loan,Netherlands,133.0,SC Cambuur ,198070,400 Th. €,Elvis Manu,13/14,Netherlands,234.0,Feyenoord 
+"Jan 9, 2014",,Loan,Netherlands,234.0,Feyenoord ,198070,400 Th. €,Elvis Manu,13/14,Netherlands,133.0,SC Cambuur 
+"Jul 1, 2013",,-,Netherlands,2862.0,Feyenoord U19 ,198070,300 Th. €,Elvis Manu,13/14,Netherlands,234.0,Feyenoord 
+"Jun 30, 2013",,End of loan,Netherlands,798.0,SBV Excelsior ,198070,300 Th. €,Elvis Manu,12/13,Netherlands,2862.0,Feyenoord U19 
+"Aug 31, 2012",,Loan,Netherlands,2862.0,Feyenoord U19 ,198070,250 Th. €,Elvis Manu,12/13,Netherlands,798.0,SBV Excelsior 
+"Jul 1, 2011",,-,Netherlands,50220.0,Feyenoord U18 ,198070,-,Elvis Manu,11/12,Netherlands,2862.0,Feyenoord U19 
+"Aug 14, 2015",,"2,50 Mill. €",Germany,48.0,Karlsruher SC ,16311,"1,50 Mill. €",Rouwen Hennings,15/16,England,1132.0,Burnley FC 
+"Jul 1, 2012",,50 Th. €,Germany,35.0,FC St. Pauli ,16311,500 Th. €,Rouwen Hennings,12/13,Germany,48.0,Karlsruher SC 
+"Jun 30, 2012",,End of loan,Germany,81.0,VfL Osnabrück ,16311,500 Th. €,Rouwen Hennings,11/12,Germany,35.0,FC St. Pauli 
+"Jan 1, 2012",,Loan,Germany,35.0,FC St. Pauli ,16311,750 Th. €,Rouwen Hennings,11/12,Germany,81.0,VfL Osnabrück 
+"Jul 1, 2009",,200 Th. €,Germany,41.0,Hamburger SV ,16311,500 Th. €,Rouwen Hennings,09/10,Germany,35.0,FC St. Pauli 
+"Jun 30, 2009",,End of loan,Germany,35.0,FC St. Pauli ,16311,500 Th. €,Rouwen Hennings,08/09,Germany,41.0,Hamburger SV 
+"Jul 1, 2008",,Loan,Germany,41.0,Hamburger SV ,16311,"1,00 Mill. €",Rouwen Hennings,08/09,Germany,35.0,FC St. Pauli 
+"Jun 30, 2008",,End of loan,Germany,81.0,VfL Osnabrück ,16311,"1,00 Mill. €",Rouwen Hennings,07/08,Germany,41.0,Hamburger SV 
+"Jul 1, 2007",,Loan fee:40 Th. €,Germany,41.0,Hamburger SV ,16311,300 Th. €,Rouwen Hennings,07/08,Germany,81.0,VfL Osnabrück 
+"Feb 1, 2006",,-,Germany,389.0,Hamburger SV II ,16311,50 Th. €,Rouwen Hennings,05/06,Germany,41.0,Hamburger SV 
+"Jul 1, 2005",,-,Germany,2509.0,Hamburg U19 ,16311,-,Rouwen Hennings,05/06,Germany,389.0,Hamburger SV II 
+"Jul 1, 2004",,-,Germany,21063.0,Hamburg U17 ,16311,-,Rouwen Hennings,04/05,Germany,2509.0,Hamburg U19 
+"Jul 1, 2002",,-,Germany,12786.0,Hamburg Jgd. ,16311,-,Rouwen Hennings,02/03,Germany,21063.0,Hamburg U17 
+"Jul 1, 2001",,Free transfer,Germany,40004.0,Oldesloe Jgd. ,16311,-,Rouwen Hennings,01/02,Germany,12786.0,Hamburg Jgd. 
+"Jul 1, 2015",,Free transfer,Germany,440.0,Hallescher FC ,92472,600 Th. €,Akaki Gogia,15/16,England,1148.0,Brentford 
+"Jul 16, 2013",,Free transfer,Germany,82.0,VfL Wolfsburg ,92472,700 Th. €,Akaki Gogia,13/14,Germany,440.0,Hallescher FC 
+"Jun 30, 2013",,End of loan,Germany,35.0,FC St. Pauli ,92472,700 Th. €,Akaki Gogia,12/13,Germany,82.0,VfL Wolfsburg 
+"Jul 11, 2012",,Loan fee:50 Th. €,Germany,82.0,VfL Wolfsburg ,92472,600 Th. €,Akaki Gogia,12/13,Germany,35.0,FC St. Pauli 
+"Jul 10, 2012",,End of loan,Germany,167.0,FC Augsburg ,92472,600 Th. €,Akaki Gogia,12/13,Germany,82.0,VfL Wolfsburg 
+"Jul 1, 2011",,Loan,Germany,82.0,VfL Wolfsburg ,92472,125 Th. €,Akaki Gogia,11/12,Germany,167.0,FC Augsburg 
+"Jan 1, 2011",,-,Germany,143.0,Wolfsburg II ,92472,75 Th. €,Akaki Gogia,10/11,Germany,82.0,VfL Wolfsburg 
+"Jul 1, 2010",,-,Germany,5343.0,Wolfsburg U19 ,92472,50 Th. €,Akaki Gogia,10/11,Germany,143.0,Wolfsburg II 
+"Jul 1, 2009",,-,Germany,21087.0,Wolfsburg U17 ,92472,-,Akaki Gogia,09/10,Germany,5343.0,Wolfsburg U19 
+"Jul 1, 2007",,-,Germany,12821.0,Wolfsburg Jgd. ,92472,-,Akaki Gogia,07/08,Germany,21087.0,Wolfsburg U17 
+"Jul 1, 2004",,Free transfer,Germany,17295.0,Hannover Yth. ,92472,-,Akaki Gogia,04/05,Germany,12821.0,Wolfsburg Jgd. 
+"Jul 1, 2016",,Free transfer,England,1110.0,Huddersfield ,19385,750 Th. €,Karim Matmour,16/17,,75.0,Unknown 
+"Jan 20, 2016",,-,England,515.0,Unattached ,19385,800 Th. €,Karim Matmour,15/16,,1110.0,Huddersfield 
+"Oct 31, 2015",,-,Kuwait,15481.0,Al-Arabi SC ,19385,800 Th. €,Karim Matmour,15/16,,515.0,Unattached 
+"Jul 1, 2015",,Free transfer,Germany,2.0,1.FC K'lautern ,19385,800 Th. €,Karim Matmour,15/16,Kuwait,15481.0,Al-Arabi SC 
+"Jul 1, 2013",,Free transfer,Germany,24.0,E. Frankfurt ,19385,"1,00 Mill. €",Karim Matmour,13/14,Germany,2.0,1.FC K'lautern 
+"Jul 1, 2011",,500 Th. €,Germany,18.0,Bor. M'gladbach ,19385,"1,00 Mill. €",Karim Matmour,11/12,Germany,24.0,E. Frankfurt 
+"Jul 1, 2008",,"2,60 Mill. €",Germany,60.0,SC Freiburg ,19385,"1,00 Mill. €",Karim Matmour,08/09,Germany,18.0,Bor. M'gladbach 
+"Jan 1, 2006",,-,Germany,245.0,SC Freiburg II ,19385,50 Th. €,Karim Matmour,05/06,Germany,60.0,SC Freiburg 
+"Jul 1, 2004",,Free transfer,France,7968.0,R. Straßburg B ,19385,-,Karim Matmour,04/05,Germany,245.0,SC Freiburg II 
+"Jul 1, 2003",,-,France,11199.0,Racing Straßburg U19 ,19385,-,Karim Matmour,03/04,France,7968.0,R. Straßburg B 
+"Aug 7, 2015",,"4,00 Mill. €",Spain,714.0,Espanyol ,59323,"4,00 Mill. €",Cristhian Stuani,15/16,England,641.0,Middlesbrough 
+"Aug 29, 2012",,?,Italy,1386.0,Reggina ,59323,"3,00 Mill. €",Cristhian Stuani,12/13,Spain,714.0,Espanyol 
+"Jun 30, 2012",,End of loan,Spain,630.0,Racing ,59323,"2,50 Mill. €",Cristhian Stuani,11/12,Italy,1386.0,Reggina 
+"Aug 12, 2011",,Loan,Italy,1386.0,Reggina ,59323,"2,50 Mill. €",Cristhian Stuani,11/12,Spain,630.0,Racing 
+"Jun 30, 2011",,End of loan,Spain,3368.0,Levante UD ,59323,"2,50 Mill. €",Cristhian Stuani,10/11,Italy,1386.0,Reggina 
+"Jul 29, 2010",,Loan,Italy,1386.0,Reggina ,59323,"1,00 Mill. €",Cristhian Stuani,10/11,Spain,3368.0,Levante UD 
+"Jun 30, 2010",,End of loan,Spain,1532.0,Albacete ,59323,"1,00 Mill. €",Cristhian Stuani,09/10,Italy,1386.0,Reggina 
+"Jul 1, 2009",,Loan,Italy,1386.0,Reggina ,59323,500 Th. €,Cristhian Stuani,09/10,Spain,1532.0,Albacete 
+"Jan 1, 2008",,?,Uruguay,1306.0,Danubio FC ,59323,-,Cristhian Stuani,07/08,Italy,1386.0,Reggina 
+"Jun 30, 2007",,End of loan,Uruguay,10679.0,Bella Vista ,59323,-,Cristhian Stuani,06/07,Uruguay,1306.0,Danubio FC 
+"Feb 7, 2007",,Loan,Uruguay,1306.0,Danubio FC ,59323,-,Cristhian Stuani,06/07,Uruguay,10679.0,Bella Vista 
+"Jan 1, 2005",,-,Uruguay,15444.0,FC Danubio B ,59323,-,Cristhian Stuani,04/05,Uruguay,1306.0,Danubio FC 
+"Jun 30, 2016",,End of loan,England,1148.0,Brentford ,92989,"1,50 Mill. €",Marco Djuricin,15/16,Austria,409.0,RB Salzburg 
+"Aug 31, 2015",,Loan,Austria,409.0,RB Salzburg ,92989,"1,75 Mill. €",Marco Djuricin,15/16,England,1148.0,Brentford 
+"Jan 8, 2015",,"2,50 Mill. €",Austria,122.0,Sturm Graz ,92989,"1,25 Mill. €",Marco Djuricin,14/15,Austria,409.0,RB Salzburg 
+"Jul 1, 2013",,Free transfer,Germany,44.0,Hertha BSC ,92989,350 Th. €,Marco Djuricin,13/14,Austria,122.0,Sturm Graz 
+"Jun 30, 2013",,End of loan,Germany,109.0,Jahn Regensburg ,92989,350 Th. €,Marco Djuricin,12/13,Germany,44.0,Hertha BSC 
+"Aug 9, 2012",,Loan,Germany,44.0,Hertha BSC ,92989,350 Th. €,Marco Djuricin,12/13,Germany,109.0,Jahn Regensburg 
+"Jul 1, 2010",,-,Germany,2827.0,Hertha BSC U19 ,92989,50 Th. €,Marco Djuricin,10/11,Germany,44.0,Hertha BSC 
+"Jul 1, 2009",,-,Germany,21066.0,Hertha BSC U17 ,92989,-,Marco Djuricin,09/10,Germany,2827.0,Hertha BSC U19 
+"Jul 1, 2008",,Free transfer,Austria,20154.0,Stadlau Jugend ,92989,-,Marco Djuricin,08/09,Germany,21066.0,Hertha BSC U17 
+"Mar 31, 2008",,?,Austria,42824.0,AKA Rapid U16 ,92989,-,Marco Djuricin,07/08,Austria,20154.0,Stadlau Jugend 
+"Jul 1, 2007",,-,Austria,42823.0,AKA Rapid U15 ,92989,-,Marco Djuricin,07/08,Austria,42824.0,AKA Rapid U16 
+"Jul 1, 2006",,Free transfer,Austria,10198.0,Austria Youth ,92989,-,Marco Djuricin,06/07,Austria,42823.0,AKA Rapid U15 
+"Aug 1, 2005",,?,Austria,20134.0,Rapid Jugend ,92989,-,Marco Djuricin,05/06,Austria,10198.0,Austria Youth 
+"Jan 1, 2004",,?,Austria,20261.0,SV Donau Jugend ,92989,-,Marco Djuricin,03/04,Austria,20134.0,Rapid Jugend 
+"Jun 30, 2016",,End of loan,England,641.0,Middlesbrough ,28862,750 Th. €,Michael Agazzi,15/16,Italy,5.0,AC Milan 
+"Aug 29, 2015",,Loan,Italy,5.0,AC Milan ,28862,"1,00 Mill. €",Michael Agazzi,15/16,England,641.0,Middlesbrough 
+"Jul 1, 2014",,Free transfer,Italy,862.0,Chievo Verona ,28862,"6,00 Mill. €",Michael Agazzi,14/15,Italy,5.0,AC Milan 
+"Jan 1, 2014",,?,Italy,1390.0,Cagliari Calcio ,28862,"7,00 Mill. €",Michael Agazzi,13/14,Italy,862.0,Chievo Verona 
+"Jan 1, 2010",,?,Italy,4271.0,Triestina ,28862,"1,80 Mill. €",Michael Agazzi,09/10,Italy,1390.0,Cagliari Calcio 
+"Jun 1, 2008",,End of loan,Italy,704.0,Foggia ,28862,50 Th. €,Michael Agazzi,07/08,Italy,4271.0,Triestina 
+"Jul 16, 2007",,Loan,Italy,4271.0,Triestina ,28862,50 Th. €,Michael Agazzi,07/08,Italy,704.0,Foggia 
+"Jun 30, 2007",,End of loan,Italy,6574.0,Sassuolo ,28862,50 Th. €,Michael Agazzi,06/07,Italy,4271.0,Triestina 
+"Jul 1, 2006",,Loan,Italy,4271.0,Triestina ,28862,50 Th. €,Michael Agazzi,06/07,Italy,6574.0,Sassuolo 
+"Jul 1, 2004",,,Italy,4554.0,Südtirol ,28862,-,Michael Agazzi,04/05,Italy,4271.0,Triestina 
+"Nov 1, 2003",,-,Italy,19334.0,Alto-Adige U19 ,28862,-,Michael Agazzi,03/04,Italy,4554.0,Südtirol 
+"Jul 1, 2003",,?,Italy,11998.0,Atalanta ,28862,-,Michael Agazzi,03/04,Italy,19334.0,Alto-Adige U19 
+"Jun 30, 2016",,End of loan,England,703.0,Nottm Forest ,72768,"4,00 Mill. €",Nélson Oliveira,15/16,Portugal,294.0,Benfica 
+"Sep 1, 2015",,Loan,Portugal,294.0,Benfica ,72768,"4,00 Mill. €",Nélson Oliveira,15/16,England,703.0,Nottm Forest 
+"Jun 30, 2015",,End of loan,England,2288.0,Swansea ,72768,"4,00 Mill. €",Nélson Oliveira,14/15,Portugal,294.0,Benfica 
+"Jan 1, 2015",,Loan,Portugal,294.0,Benfica ,72768,"4,50 Mill. €",Nélson Oliveira,14/15,England,2288.0,Swansea 
+"Jun 30, 2014",,End of loan,France,273.0,Rennes ,72768,"4,50 Mill. €",Nélson Oliveira,13/14,Portugal,294.0,Benfica 
+"Jul 26, 2013",,"Loan fee:1,00 Mill. €",Portugal,294.0,Benfica ,72768,"3,00 Mill. €",Nélson Oliveira,13/14,France,273.0,Rennes 
+"Jun 30, 2013",,End of loan,Spain,897.0,Dep. La Coruña ,72768,"3,00 Mill. €",Nélson Oliveira,12/13,Portugal,294.0,Benfica 
+"Jul 31, 2012",,Loan fee:600 Th. €,Portugal,294.0,Benfica ,72768,"6,00 Mill. €",Nélson Oliveira,12/13,Spain,897.0,Dep. La Coruña 
+"Jun 30, 2011",,End of loan,Portugal,2995.0,Paços Ferreira ,72768,"1,80 Mill. €",Nélson Oliveira,10/11,Portugal,294.0,Benfica 
+"Aug 12, 2010",,Loan,Portugal,294.0,Benfica ,72768,500 Th. €,Nélson Oliveira,10/11,Portugal,2995.0,Paços Ferreira 
+"Jun 30, 2010",,End of loan,Portugal,2425.0,Rio Ave FC ,72768,500 Th. €,Nélson Oliveira,09/10,Portugal,294.0,Benfica 
+"Jan 21, 2010",,Loan,Portugal,294.0,Benfica ,72768,-,Nélson Oliveira,09/10,Portugal,2425.0,Rio Ave FC 
+"Jul 1, 2009",,-,Portugal,8889.0,Benfica U19 ,72768,-,Nélson Oliveira,09/10,Portugal,294.0,Benfica 
+"Jul 1, 2008",,-,Portugal,45618.0,Benfica Youth ,72768,-,Nélson Oliveira,08/09,Portugal,8889.0,Benfica U19 
+"Jul 1, 2006",,?,Portugal,48758.0,Braga Juvenis ,72768,-,Nélson Oliveira,06/07,Portugal,45618.0,Benfica Youth 
+"Jul 28, 2015",,"2,00 Mill. €",Portugal,336.0,Sporting CP ,203532,"2,50 Mill. €",Naby Sarr,15/16,England,358.0,Charlton 
+"Jul 26, 2014",,"1,00 Mill. €",France,1041.0,Olympique Lyon ,203532,650 Th. €,Naby Sarr,14/15,Portugal,336.0,Sporting CP 
+"Jul 1, 2013",,-,France,12764.0,Olymp. Lyon B ,203532,-,Naby Sarr,13/14,France,1041.0,Olympique Lyon 
+"Jul 1, 2012",,-,France,7813.0,Olympique Lyon U19 ,203532,-,Naby Sarr,12/13,France,12764.0,Olymp. Lyon B 
+"Jul 1, 2008",,Free transfer,France,6326.0,Paris SG U19 ,203532,-,Naby Sarr,08/09,France,7813.0,Olympique Lyon U19 
+"Jul 1, 2015",,"1,50 Mill. €",Portugal,1301.0,Marítimo ,94603,"1,60 Mill. €",Patrick Bauer,15/16,England,358.0,Charlton 
+"Jul 25, 2013",,150 Th. €,Germany,79.0,VfB Stuttgart ,94603,300 Th. €,Patrick Bauer,13/14,Portugal,1301.0,Marítimo 
+"Jun 30, 2013",,End of loan,Portugal,10787.0,Marítimo B ,94603,300 Th. €,Patrick Bauer,12/13,Germany,79.0,VfB Stuttgart 
+"Aug 14, 2012",,Loan,Germany,102.0,Stuttgart II ,94603,250 Th. €,Patrick Bauer,12/13,Portugal,10787.0,Marítimo B 
+"Jul 1, 2011",,-,Germany,2517.0,Stuttgart U19 ,94603,50 Th. €,Patrick Bauer,11/12,Germany,102.0,Stuttgart II 
+"Jul 1, 2009",,-,Germany,21084.0,Stuttgart U17 ,94603,-,Patrick Bauer,09/10,Germany,2517.0,Stuttgart U19 
+"Jul 9, 2015",,"3,10 Mill. €",Portugal,982.0,Nacional ,61764,"4,50 Mill. €",Marco Matias,15/16,England,1035.0,Sheff Wed 
+"Jul 19, 2014",,Free transfer,Portugal,2420.0,Vit. Guimarães ,61764,"2,00 Mill. €",Marco Matias,14/15,Portugal,982.0,Nacional 
+"Jun 30, 2012",,End of loan,Portugal,2421.0,Freamunde ,61764,400 Th. €,Marco Matias,11/12,Portugal,2420.0,Vit. Guimarães 
+"Jul 2, 2010",,Loan,Portugal,2420.0,Vit. Guimarães ,61764,150 Th. €,Marco Matias,10/11,Portugal,2421.0,Freamunde 
+"Jul 1, 2010",,?,Portugal,336.0,Sporting CP ,61764,150 Th. €,Marco Matias,10/11,Portugal,2420.0,Vit. Guimarães 
+"Jun 30, 2010",,End of loan,Portugal,11085.0,Real SC ,61764,150 Th. €,Marco Matias,09/10,Portugal,336.0,Sporting CP 
+"Jan 1, 2010",,Loan,Portugal,336.0,Sporting CP ,61764,150 Th. €,Marco Matias,09/10,Portugal,11085.0,Real SC 
+"Dec 31, 2009",,End of loan,Portugal,6987.0,Fátima ,61764,150 Th. €,Marco Matias,09/10,Portugal,336.0,Sporting CP 
+"Jul 1, 2009",,Loan,Portugal,336.0,Sporting CP ,61764,150 Th. €,Marco Matias,09/10,Portugal,6987.0,Fátima 
+"Jun 30, 2009",,End of loan,Portugal,4297.0,Varzim ,61764,150 Th. €,Marco Matias,08/09,Portugal,336.0,Sporting CP 
+"Jul 2, 2008",,Loan,Portugal,336.0,Sporting CP ,61764,-,Marco Matias,08/09,Portugal,4297.0,Varzim 
+"Jul 1, 2008",,-,Portugal,10949.0,Sporting B ,61764,-,Marco Matias,08/09,Portugal,336.0,Sporting CP 
+"Jul 1, 2007",,-,Portugal,10283.0,Sporting U19 ,61764,-,Marco Matias,07/08,Portugal,10949.0,Sporting B 
+"Jul 1, 2006",,-,Portugal,48365.0,Sporting Sub17 ,61764,-,Marco Matias,06/07,Portugal,10283.0,Sporting U19 
+"Jul 1, 2015",,Free transfer,England,984.0,West Brom ,137669,500 Th. â‚¬,Jason Davidson,15/16,England,1110.0,Huddersfield 
+"Aug 5, 2014",,?,Netherlands,1304.0,Heracles Almelo ,137669,400 Th. â‚¬,Jason Davidson,14/15,England,984.0,West Brom 
+"Jan 1, 2012",,-,Netherlands,515.0,Unattached ,137669,300 Th. â‚¬,Jason Davidson,11/12,,1304.0,Heracles Almelo 
+"Aug 1, 2011",,-,Portugal,2995.0,PaÃ§os Ferreira ,137669,300 Th. â‚¬,Jason Davidson,11/12,,515.0,Unattached 
+"Jun 30, 2011",,End of loan,Portugal,10140.0,CovilhÃ£ ,137669,300 Th. â‚¬,Jason Davidson,10/11,Portugal,2995.0,PaÃ§os Ferreira 
+"Jan 1, 2011",,Loan,Portugal,2995.0,PaÃ§os Ferreira ,137669,100 Th. â‚¬,Jason Davidson,10/11,Portugal,10140.0,CovilhÃ£ 
+"Jan 1, 2010",,-,Portugal,15565.0,PaÃ§os F. U19 ,137669,-,Jason Davidson,09/10,Portugal,2995.0,PaÃ§os Ferreira 
+"Jul 1, 2009",,?,Australia,15511.0,Hume City FC ,137669,-,Jason Davidson,09/10,Portugal,15565.0,PaÃ§os F. U19 
+"Mar 10, 2015",,-,England,515.0,Unattached ,158022,"1,30 Mill. €",Fredrik Ulvestad,14/15,,1132.0,Burnley FC 
+"Jan 1, 2015",,-,Norway,5619.0,Aalesunds FK ,158022,"1,30 Mill. €",Fredrik Ulvestad,14/15,,515.0,Unattached 
+"Jan 1, 2011",,-,Norway,15647.0,Aalesunds FK U19 ,158022,50 Th. €,Fredrik Ulvestad,10/11,Norway,5619.0,Aalesunds FK 
+"Jul 6, 2015",,Free transfer,Netherlands,1426.0,VVV-Venlo ,12359,600 Th. €,Niki Mäenpää,15/16,England,1237.0,Brighton 
+"Jul 1, 2012",,Free transfer,Netherlands,1090.0,AZ Alkmaar ,12359,300 Th. €,Niki Mäenpää,12/13,Netherlands,1426.0,VVV-Venlo 
+"Oct 1, 2011",,-,Netherlands,515.0,Unattached ,12359,300 Th. €,Niki Mäenpää,11/12,,1090.0,AZ Alkmaar 
+"Jul 1, 2011",,-,Netherlands,403.0,Willem II ,12359,300 Th. €,Niki Mäenpää,11/12,,515.0,Unattached 
+"Jul 1, 2009",,Free transfer,Netherlands,404.0,FC Den Bosch ,12359,400 Th. €,Niki Mäenpää,09/10,Netherlands,403.0,Willem II 
+"Jul 1, 2006",,Free transfer,France,8152.0,RC Lens B ,12359,250 Th. €,Niki Mäenpää,06/07,Netherlands,404.0,FC Den Bosch 
+"Jul 1, 2003",,?,Finland,15665.0,HJK U19 ,12359,-,Niki Mäenpää,03/04,France,8152.0,RC Lens B 
+"Jun 30, 2016",,End of loan,England,641.0,Middlesbrough ,51532,"1,50 Mill. €",Kike Sola,15/16,Spain,621.0,Athletic Bilbao 
+"Jan 14, 2016",,Loan,Spain,621.0,Athletic Bilbao ,51532,"1,50 Mill. €",Kike Sola,15/16,England,641.0,Middlesbrough 
+"Jul 1, 2013",,"4,00 Mill. €",Spain,331.0,CA Osasuna ,51532,"4,00 Mill. €",Kike Sola,13/14,Spain,621.0,Athletic Bilbao 
+"Jun 30, 2010",,End of loan,Greece,2672.0,APO Levadiakos ,51532,"1,25 Mill. €",Kike Sola,09/10,Spain,331.0,CA Osasuna 
+"Jan 1, 2010",,Loan,Spain,331.0,CA Osasuna ,51532,"1,60 Mill. €",Kike Sola,09/10,Greece,2672.0,APO Levadiakos 
+"Dec 1, 2009",,End of loan,Spain,2296.0,CD Numancia ,51532,"1,60 Mill. €",Kike Sola,09/10,Spain,331.0,CA Osasuna 
+"Jul 1, 2009",,Loan,Spain,331.0,CA Osasuna ,51532,"2,40 Mill. €",Kike Sola,09/10,Spain,2296.0,CD Numancia 
+"Jul 1, 2007",,-,Spain,8516.0,CA Osasuna B ,51532,-,Kike Sola,07/08,Spain,331.0,CA Osasuna 
+"Jul 1, 2005",,-,Spain,13314.0,Osasuna Jugend ,51532,-,Kike Sola,05/06,Spain,8516.0,CA Osasuna B 
+"Aug 14, 2015",,"1,50 Mill. €",Belgium,58.0,RSC Anderlecht ,156618,"1,50 Mill. €",Maxime Colin,15/16,England,1148.0,Brentford 
+"Aug 29, 2014",,400 Th. €,France,1095.0,Troyes ,156618,"1,00 Mill. €",Maxime Colin,14/15,Belgium,58.0,RSC Anderlecht 
+"Sep 4, 2012",,500 Th. €,France,7042.0,US Boulogne ,156618,500 Th. €,Maxime Colin,12/13,France,1095.0,Troyes 
+"Jul 1, 2010",,-,France,16676.0,Boulogne ,156618,-,Maxime Colin,10/11,France,7042.0,US Boulogne 
+"Jul 20, 2015",,"3,25 Mill. €",Netherlands,202.0,FC Groningen ,76326,"4,00 Mill. €",Tjaronn Chery,15/16,England,1039.0,QPR 
+"Jul 1, 2014",,800 Th. €,Netherlands,1268.0,ADO Den Haag ,76326,"1,50 Mill. €",Tjaronn Chery,14/15,Netherlands,202.0,FC Groningen 
+"Jun 30, 2014",,End of loan,Netherlands,202.0,FC Groningen ,76326,"1,50 Mill. €",Tjaronn Chery,13/14,Netherlands,1268.0,ADO Den Haag 
+"Jul 23, 2013",,Loan,Netherlands,1268.0,ADO Den Haag ,76326,"1,50 Mill. €",Tjaronn Chery,13/14,Netherlands,202.0,FC Groningen 
+"Jul 1, 2011",,175 Th. €,Netherlands,1283.0,FC Emmen ,76326,400 Th. €,Tjaronn Chery,11/12,Netherlands,1268.0,ADO Den Haag 
+"Jul 1, 2010",,?,Netherlands,18026.0,FC Twente U21 ,76326,200 Th. €,Tjaronn Chery,10/11,Netherlands,1283.0,FC Emmen 
+"Jun 30, 2010",,End of loan,Netherlands,1227.0,RBC Roosendaal ,76326,200 Th. €,Tjaronn Chery,09/10,Netherlands,18026.0,FC Twente U21 
+"Jul 1, 2009",,Loan,Netherlands,18026.0,FC Twente U21 ,76326,200 Th. €,Tjaronn Chery,09/10,Netherlands,1227.0,RBC Roosendaal 
+"Jun 30, 2009",,End of loan,Netherlands,133.0,SC Cambuur ,76326,200 Th. €,Tjaronn Chery,08/09,Netherlands,18026.0,FC Twente U21 
+"Jan 1, 2009",,Loan,Netherlands,18026.0,FC Twente U21 ,76326,50 Th. €,Tjaronn Chery,08/09,Netherlands,133.0,SC Cambuur 
+"Jul 1, 2012",,Free transfer,England,972.0,Yeovil Town ,45516,450 Th. €,Paul Huntington,12/13,England,466.0,Preston NE 
+"Jul 1, 2010",,Free transfer,England,1098.0,Stockport ,45516,450 Th. €,Paul Huntington,10/11,England,972.0,Yeovil Town 
+"Sep 1, 2009",,Free transfer,England,399.0,Leeds ,45516,800 Th. €,Paul Huntington,09/10,England,1098.0,Stockport 
+"Aug 1, 2007",,?,England,762.0,Newcastle ,45516,800 Th. €,Paul Huntington,07/08,England,399.0,Leeds 
+"Jul 1, 2006",,-,England,6943.0,Newcastle U18 ,45516,-,Paul Huntington,06/07,England,762.0,Newcastle 
+"Jul 2, 2013",,"1,75 Mill. €",Turkey,114.0,Besiktas ,9422,"4,00 Mill. €",Allan McGregor,13/14,England,3008.0,Hull City 
+"Jul 26, 2012",,Free transfer,Scotland,124.0,Rangers ,9422,"5,00 Mill. €",Allan McGregor,12/13,Turkey,114.0,Besiktas 
+"Jun 30, 2006",,End of loan,Scotland,1270.0,Dunfermline A. ,9422,500 Th. €,Allan McGregor,05/06,Scotland,124.0,Rangers 
+"Aug 1, 2005",,Loan,Scotland,124.0,Rangers ,9422,500 Th. €,Allan McGregor,05/06,Scotland,1270.0,Dunfermline A. 
+"Dec 31, 2004",,End of loan,Scotland,2578.0,St. Johnstone ,9422,100 Th. €,Allan McGregor,04/05,Scotland,124.0,Rangers 
+"Aug 1, 2004",,Loan,Scotland,124.0,Rangers ,9422,-,Allan McGregor,04/05,Scotland,2578.0,St. Johnstone 
+"Jul 1, 2001",,-,Scotland,7112.0,Rangers U20 ,9422,-,Allan McGregor,01/02,Scotland,124.0,Rangers 
+"Jul 1, 1999",,-,Scotland,31029.0,Glasgow Rangers U17 ,9422,-,Allan McGregor,99/00,Scotland,7112.0,Rangers U20 
+"Aug 31, 2015",,?,France,3524.0,Clermont Foot ,111057,"1,00 Mill. €",Idriss Saadi,15/16,England,603.0,Cardiff 
+"Jan 17, 2014",,?,France,618.0,Saint-Étienne ,111057,400 Th. €,Idriss Saadi,13/14,France,3524.0,Clermont Foot 
+"Jun 30, 2013",,End of loan,France,3558.0,G. Ajaccio ,111057,400 Th. €,Idriss Saadi,12/13,France,618.0,Saint-Étienne 
+"Aug 30, 2012",,Loan,France,618.0,Saint-Étienne ,111057,500 Th. €,Idriss Saadi,12/13,France,3558.0,G. Ajaccio 
+"Jun 30, 2012",,End of loan,France,1421.0,Reims ,111057,500 Th. €,Idriss Saadi,11/12,France,618.0,Saint-Étienne 
+"Jan 10, 2012",,Loan,France,618.0,Saint-Étienne ,111057,600 Th. €,Idriss Saadi,11/12,France,1421.0,Reims 
+"Jul 1, 2011",,-,France,8515.0,AS Saint-Étienne B ,111057,-,Idriss Saadi,11/12,France,618.0,Saint-Étienne 
+"Jul 1, 2009",,-,France,12745.0,St-Étienne U19 ,111057,-,Idriss Saadi,09/10,France,8515.0,AS Saint-Étienne B 
+"Sep 7, 2015",,End of loan,England,2964.0,Scunthorpe Utd. ,344916,-,Rory Watson,15/16,England,3008.0,Hull City 
+"Aug 10, 2015",,Loan,England,3008.0,Hull City ,344916,-,Rory Watson,15/16,England,2964.0,Scunthorpe Utd. 
+"Jul 1, 2014",,-,England,14482.0,Hull U19 ,344916,-,Rory Watson,14/15,England,3008.0,Hull City 
+"May 31, 2016",,End of loan,England,1035.0,Sheff Wed ,21333,"4,50 Mill. €",Aiden McGeady,15/16,England,29.0,Everton 
+"Feb 1, 2016",,Loan,England,29.0,Everton ,21333,"4,50 Mill. €",Aiden McGeady,15/16,England,1035.0,Sheff Wed 
+"Jan 11, 2014",,"2,00 Mill. €",Russia,232.0,Spartak Moscow ,21333,"7,50 Mill. €",Aiden McGeady,13/14,England,29.0,Everton 
+"Aug 1, 2010",,"12,00 Mill. €",Scotland,371.0,Celtic ,21333,"8,00 Mill. €",Aiden McGeady,10/11,Russia,232.0,Spartak Moscow 
+"Jul 1, 2004",,-,Scotland,8924.0,Celtic U20 ,21333,-,Aiden McGeady,04/05,Scotland,371.0,Celtic 
+"May 31, 2016",,End of loan,England,358.0,Charlton ,127194,"1,50 Mill. €",Yaya Sanogo,15/16,England,11.0,Arsenal 
+"Feb 1, 2016",,Loan,England,11.0,Arsenal ,127194,"1,50 Mill. €",Yaya Sanogo,15/16,England,358.0,Charlton 
+"Jan 31, 2016",,End of loan,Netherlands,610.0,AFC Ajax ,127194,"1,50 Mill. €",Yaya Sanogo,15/16,England,11.0,Arsenal 
+"Jul 17, 2015",,Loan,England,11.0,Arsenal ,127194,"2,00 Mill. €",Yaya Sanogo,15/16,Netherlands,610.0,AFC Ajax 
+"May 31, 2015",,End of loan,England,873.0,Crystal Palace ,127194,"1,50 Mill. €",Yaya Sanogo,14/15,England,11.0,Arsenal 
+"Jan 13, 2015",,Loan,England,11.0,Arsenal ,127194,"2,00 Mill. €",Yaya Sanogo,14/15,England,873.0,Crystal Palace 
+"Jul 1, 2013",,Free transfer,France,290.0,AJ Auxerre ,127194,"1,00 Mill. €",Yaya Sanogo,13/14,England,11.0,Arsenal 
+"Oct 29, 2009",,-,France,7817.0,AJ Auxerre U19 ,127194,-,Yaya Sanogo,09/10,France,290.0,AJ Auxerre 
+"May 31, 2016",,End of loan,England,466.0,Preston NE ,22491,"1,50 Mill. €",Anders Lindegaard,15/16,England,984.0,West Brom 
+"Jan 23, 2016",,Loan,England,984.0,West Brom ,22491,"1,50 Mill. €",Anders Lindegaard,15/16,England,466.0,Preston NE 
+"Aug 31, 2015",,Free transfer,England,985.0,Manchester Utd. ,22491,"1,50 Mill. €",Anders Lindegaard,15/16,England,984.0,West Brom 
+"Jan 6, 2011",,"5,00 Mill. €",Norway,5619.0,Aalesunds FK ,22491,"3,20 Mill. €",Anders Lindegaard,10/11,England,985.0,Manchester Utd. 
+"Aug 1, 2009",,400 Th. €,Denmark,173.0,Odense BK ,22491,675 Th. €,Anders Lindegaard,09/10,Norway,5619.0,Aalesunds FK 
+"Jun 30, 2009",,End of loan,Norway,5619.0,Aalesunds FK ,22491,500 Th. €,Anders Lindegaard,08/09,Denmark,173.0,Odense BK 
+"Jan 1, 2009",,Loan,Denmark,173.0,Odense BK ,22491,300 Th. €,Anders Lindegaard,08/09,Norway,5619.0,Aalesunds FK 
+"Dec 1, 2008",,End of loan,Denmark,5886.0,Kolding FC ,22491,250 Th. €,Anders Lindegaard,08/09,Denmark,173.0,Odense BK 
+"Aug 1, 2008",,Loan,Denmark,173.0,Odense BK ,22491,250 Th. €,Anders Lindegaard,08/09,Denmark,5886.0,Kolding FC 
+"Jul 1, 2003",,-,Denmark,14364.0,Odense BK U19 ,22491,-,Anders Lindegaard,03/04,Denmark,173.0,Odense BK 
+"May 31, 2016",,End of loan,England,641.0,Middlesbrough ,123742,"5,00 Mill. â‚¬",GastÃ³n RamÃ­rez,15/16,England,180.0,Southampton 
+"Jan 26, 2016",,Loan,England,180.0,Southampton ,123742,"5,00 Mill. â‚¬",GastÃ³n RamÃ­rez,15/16,England,641.0,Middlesbrough 
+"May 31, 2015",,End of loan,England,3008.0,Hull City ,123742,"6,00 Mill. â‚¬",GastÃ³n RamÃ­rez,14/15,England,180.0,Southampton 
+"Sep 1, 2014",,Loan,England,180.0,Southampton ,123742,"7,50 Mill. â‚¬",GastÃ³n RamÃ­rez,14/15,England,3008.0,Hull City 
+"Aug 31, 2012",,"15,20 Mill. â‚¬",Italy,1025.0,Bologna ,123742,"13,50 Mill. â‚¬",GastÃ³n RamÃ­rez,12/13,England,180.0,Southampton 
+"Aug 25, 2010",,"3,36 Mill. â‚¬",Uruguay,861.0,PeÃ±arol ,123742,700 Th. â‚¬,GastÃ³n RamÃ­rez,10/11,Italy,1025.0,Bologna 
+"Jan 1, 2009",,-,Uruguay,20054.0,PeÃ±arol U19 ,123742,-,GastÃ³n RamÃ­rez,08/09,Uruguay,861.0,PeÃ±arol 
+"Jun 30, 2016",,End of loan,England,1035.0,Sheff Wed ,127457,"2,50 Mill. €",Álex López,15/16,Spain,940.0,Celta de Vigo 
+"Jul 10, 2015",,Loan,Spain,940.0,Celta de Vigo ,127457,"2,50 Mill. €",Álex López,15/16,England,1035.0,Sheff Wed 
+"Jul 1, 2010",,-,Spain,8733.0,Celta Vigo B ,127457,-,Álex López,10/11,Spain,940.0,Celta de Vigo 
+"Jul 1, 2009",,?,Spain,25255.0,Narón Balompié ,127457,-,Álex López,09/10,Spain,8733.0,Celta Vigo B 
+"Jul 1, 2007",,Free transfer,Spain,1176.0,Ferrol ,127457,-,Álex López,07/08,Spain,25255.0,Narón Balompié 
+"Jun 30, 2006",,End of loan,Spain,40428.0,SD O Val ,127457,-,Álex López,05/06,Spain,1176.0,Ferrol 
+"Jul 1, 2005",,-,Spain,20384.0,Ferrol Jugend ,127457,-,Álex López,05/06,Spain,1176.0,Ferrol 
+"Jul 1, 2005",,Loan,Spain,1176.0,Ferrol ,127457,-,Álex López,05/06,Spain,40428.0,SD O Val 
+"May 31, 2016",,End of loan,England,698.0,Bristol City ,12516,"1,50 Mill. €",Peter Odemwingie,15/16,England,512.0,Stoke City 
+"Mar 11, 2016",,Loan,England,512.0,Stoke City ,12516,"1,50 Mill. €",Peter Odemwingie,15/16,England,698.0,Bristol City 
+"Jan 28, 2014",,Free transfer,England,603.0,Cardiff ,12516,"2,50 Mill. €",Peter Odemwingie,13/14,England,512.0,Stoke City 
+"Sep 2, 2013",,"2,90 Mill. €",England,984.0,West Brom ,12516,"3,50 Mill. €",Peter Odemwingie,13/14,England,603.0,Cardiff 
+"Aug 20, 2010",,"3,00 Mill. €",Russia,932.0,Loko Moscow ,12516,"5,80 Mill. €",Peter Odemwingie,10/11,England,984.0,West Brom 
+"Jul 16, 2007",,"10,00 Mill. €",France,1082.0,LOSC Lille ,12516,"6,00 Mill. €",Peter Odemwingie,07/08,Russia,932.0,Loko Moscow 
+"Aug 31, 2004",,650 Th. €,Belgium,2180.0,AA La Louviere ,12516,-,Peter Odemwingie,04/05,France,1082.0,LOSC Lille 
+"Jul 1, 2002",,Free transfer,Nigeria,2979.0,Bendel Insurance ,12516,-,Peter Odemwingie,02/03,Belgium,2180.0,AA La Louviere 
+"Jun 30, 2016",,End of loan,England,358.0,Charlton ,5477,500 Th. €,Rod Fanni,15/16,Qatar,1230.0,Al-Arabi 
+"Feb 1, 2016",,Loan,Qatar,1230.0,Al-Arabi ,5477,500 Th. €,Rod Fanni,15/16,England,358.0,Charlton 
+"Jul 10, 2015",,Free transfer,France,244.0,Marseille ,5477,500 Th. €,Rod Fanni,15/16,Qatar,1230.0,Al-Arabi 
+"Dec 16, 2010",,"4,00 Mill. €",France,273.0,Rennes ,5477,"7,50 Mill. €",Rod Fanni,10/11,France,244.0,Marseille 
+"Jul 21, 2007",,"3,50 Mill. €",France,417.0,OGC Nice ,5477,"2,50 Mill. €",Rod Fanni,07/08,France,273.0,Rennes 
+"Jul 1, 2005",,Free transfer,France,826.0,Lens ,5477,350 Th. €,Rod Fanni,05/06,France,417.0,OGC Nice 
+"Jun 30, 2005",,End of loan,France,1175.0,LB Châteauroux ,5477,350 Th. €,Rod Fanni,04/05,France,826.0,Lens 
+"Jul 1, 2004",,Loan,France,826.0,Lens ,5477,-,Rod Fanni,04/05,France,1175.0,LB Châteauroux 
+"Jul 1, 2002",,Free transfer,France,1165.0,FC Martigues ,5477,-,Rod Fanni,02/03,France,826.0,Lens 
+"Jul 1, 1999",,-,France,16185.0,Martigues U19 ,5477,-,Rod Fanni,99/00,France,1165.0,FC Martigues 
+"Feb 1, 2016",,?,Belgium,3057.0,Standard Liège ,129592,"2,50 Mill. €",Julien de Sart,15/16,England,641.0,Middlesbrough 
+"Jul 1, 2013",,-,Belgium,8164.0,Standard U19 ,129592,-,Julien de Sart,13/14,Belgium,3057.0,Standard Liège 
+"Jul 1, 2012",,-,Belgium,10459.0,Standard Youth ,129592,-,Julien de Sart,12/13,Belgium,8164.0,Standard U19 
+"Jul 30, 2015",,Free transfer,Spain,993.0,Córdoba CF ,240039,300 Th. €,Dani Pinillos,15/16,England,703.0,Nottm Forest 
+"Mar 29, 2014",,-,Spain,12834.0,Córdoba CF B ,240039,-,Dani Pinillos,13/14,Spain,993.0,Córdoba CF 
+"Jan 30, 2014",,15 Th. €,Spain,2725.0,CD Ourense ,240039,-,Dani Pinillos,13/14,Spain,12834.0,Córdoba CF B 
+"Jul 9, 2013",,Free transfer,Spain,10980.0,Racing B  ,240039,-,Dani Pinillos,13/14,Spain,2725.0,CD Ourense 
+"Jul 1, 2010",,Free transfer,Spain,41170.0,Logroñés Juv. A ,240039,-,Dani Pinillos,10/11,Spain,10980.0,Racing B  
+"Feb 1, 2016",,End of loan,England,1150.0,Leyton Orient ,347895,100 Th. €,Cole Kpekawa,15/16,England,1039.0,QPR 
+"Nov 19, 2015",,Loan,England,1039.0,QPR ,347895,100 Th. €,Cole Kpekawa,15/16,England,1150.0,Leyton Orient 
+"Apr 20, 2015",,End of loan,England,1020.0,Portsmouth FC ,347895,-,Cole Kpekawa,14/15,England,1039.0,QPR 
+"Mar 20, 2015",,Loan,England,1039.0,QPR ,347895,-,Cole Kpekawa,14/15,England,1020.0,Portsmouth FC 
+"Jan 24, 2015",,End of loan,England,1060.0,Colchester Utd. ,347895,-,Cole Kpekawa,14/15,England,1039.0,QPR 
+"Nov 20, 2014",,Loan,England,1039.0,QPR ,347895,-,Cole Kpekawa,14/15,England,1060.0,Colchester Utd. 
+"Jul 1, 2014",,-,England,12805.0,QPR U18 ,347895,-,Cole Kpekawa,14/15,England,1039.0,QPR 
+"Jun 30, 2016",,End of loan,England,703.0,Nottm Forest ,111627,"1,50 Mill. €",Ryan Mendes,15/16,France,1082.0,LOSC Lille 
+"Aug 31, 2015",,Loan,France,1082.0,LOSC Lille ,111627,"1,50 Mill. €",Ryan Mendes,15/16,England,703.0,Nottm Forest 
+"Aug 31, 2012",,"3,00 Mill. €",France,738.0,AC Le Havre ,111627,"2,00 Mill. €",Ryan Mendes,12/13,France,1082.0,LOSC Lille 
+"Jul 1, 2009",,-,France,15439.0,AC Le Havre B ,111627,-,Ryan Mendes,09/10,France,738.0,AC Le Havre 
+"Jul 1, 2008",,?,Cape Verde,20066.0,Batuque ,111627,-,Ryan Mendes,08/09,France,15439.0,AC Le Havre B 
+"May 31, 2016",,End of loan,England,1194.0,Rotherham ,183282,200 Th. €,Shay Facey,15/16,England,281.0,Manchester City 
+"Jan 2, 2016",,Loan,England,281.0,Manchester City ,183282,100 Th. €,Shay Facey,15/16,England,1194.0,Rotherham 
+"Oct 31, 2015",,End of loan,United States,40058.0,NYC FC ,183282,100 Th. €,Shay Facey,15/16,England,281.0,Manchester City 
+"Mar 6, 2015",,Loan,England,281.0,Manchester City ,183282,100 Th. €,Shay Facey,14/15,United States,40058.0,NYC FC 
+"Jan 1, 2015",,-,England,9265.0,Man City U21 ,183282,-,Shay Facey,14/15,England,281.0,Manchester City 
+"Jul 1, 2012",,-,England,6930.0,Man City U18 ,183282,-,Shay Facey,12/13,England,9265.0,Man City U21 
+"May 31, 2016",,End of loan,England,931.0,Fulham FC ,110860,"2,00 Mill. €",Luke Garbutt,15/16,England,29.0,Everton 
+"Jul 25, 2015",,Loan,England,29.0,Everton ,110860,"2,00 Mill. €",Luke Garbutt,15/16,England,931.0,Fulham FC 
+"Jul 1, 2015",,-,England,6920.0,Everton U18 ,110860,"2,00 Mill. €",Luke Garbutt,11/12,England,29.0,Everton 
+"Jan 28, 2014",,End of loan,England,1060.0,Colchester Utd. ,110860,250 Th. €,Luke Garbutt,13/14,England,29.0,Everton 
+"Sep 13, 2013",,Loan,England,29.0,Everton ,110860,250 Th. €,Luke Garbutt,13/14,England,1060.0,Colchester Utd. 
+"May 31, 2012",,End of loan,England,3371.0,Cheltenham Town ,110860,-,Luke Garbutt,11/12,England,29.0,Everton 
+"Sep 29, 2011",,Loan,England,29.0,Everton ,110860,-,Luke Garbutt,11/12,England,3371.0,Cheltenham Town 
+"Jul 1, 2009",,675 Th. €,England,10161.0,Leeds United U18 ,110860,-,Luke Garbutt,09/10,England,6920.0,Everton U18 
+"Aug 6, 2014",,250 Th. €,England,405.0,Aston Villa ,146488,250 Th. €,Samir Carruthers,14/15,England,991.0,MK Dons 
+"Feb 27, 2014",,End of loan,England,991.0,MK Dons ,146488,250 Th. €,Samir Carruthers,13/14,England,405.0,Aston Villa 
+"Aug 10, 2013",,Loan,England,405.0,Aston Villa ,146488,250 Th. €,Samir Carruthers,13/14,England,991.0,MK Dons 
+"Jul 1, 2012",,-,England,12124.0,Aston Villa U21 ,146488,-,Samir Carruthers,12/13,England,405.0,Aston Villa 
+"Jul 1, 2011",,-,England,6933.0,Aston Villa U18 ,146488,-,Samir Carruthers,11/12,England,12124.0,Aston Villa U21 
+"Jul 1, 2008",,?,England,5679.0,Arsenal U18  ,146488,-,Samir Carruthers,08/09,England,6933.0,Aston Villa U18 
+"May 31, 2016",,End of loan,England,1194.0,Rotherham ,283655,350 Th. €,Grant Ward,15/16,England,148.0,Spurs 
+"Jul 13, 2015",,Loan,England,148.0,Spurs ,283655,250 Th. €,Grant Ward,15/16,England,1194.0,Rotherham 
+"May 31, 2015",,End of loan,England,990.0,Coventry City ,283655,250 Th. €,Grant Ward,14/15,England,148.0,Spurs 
+"Mar 13, 2015",,Loan,England,148.0,Spurs ,283655,250 Th. €,Grant Ward,14/15,England,990.0,Coventry City 
+"Jan 3, 2015",,End of loan,United States,432.0,Chicago ,283655,250 Th. €,Grant Ward,14/15,England,148.0,Spurs 
+"Mar 22, 2014",,Loan,England,148.0,Spurs ,283655,-,Grant Ward,13/14,United States,432.0,Chicago 
+"Jul 1, 2013",,-,England,6928.0,Tottenham U18 ,283655,-,Grant Ward,13/14,England,148.0,Spurs 
+"Jun 30, 2016",,End of loan,England,358.0,Charlton ,87162,"1,50 Mill. €",Simon Makienok,15/16,Italy,458.0,US Palermo 
+"Jul 1, 2015",,Loan,Italy,458.0,US Palermo ,87162,"1,50 Mill. €",Simon Makienok,15/16,England,358.0,Charlton 
+"Aug 30, 2014",,"2,30 Mill. €",Denmark,206.0,Bröndby IF ,87162,"1,75 Mill. €",Simon Makienok,14/15,Italy,458.0,US Palermo 
+"Jan 1, 2012",,470 Th. €,Denmark,23297.0,HB Köge ,87162,600 Th. €,Simon Makienok,11/12,Denmark,206.0,Bröndby IF 
+"Jul 1, 2009",,-,Denmark,15635.0,Herfölge BK U19 ,87162,50 Th. €,Simon Makienok,09/10,Denmark,23297.0,HB Köge 
+"May 31, 2016",,End of loan,England,164.0,Blackburn ,265471,"2,00 Mill. €",Matt Grimes,15/16,England,2288.0,Swansea 
+"Feb 13, 2016",,Loan,England,2288.0,Swansea ,265471,"2,00 Mill. €",Matt Grimes,15/16,England,164.0,Blackburn 
+"Jan 3, 2015",,"2,24 Mill. €",England,6699.0,Exeter City ,265471,250 Th. €,Matt Grimes,14/15,England,2288.0,Swansea 
+"Jul 1, 2013",,-,England,18258.0,Exeter U18 ,265471,-,Matt Grimes,13/14,England,6699.0,Exeter City 
+"Sep 1, 2015",,675 Th. €,Netherlands,798.0,SBV Excelsior ,196860,750 Th. €,Jordan Botaka,15/16,England,399.0,Leeds 
+"Jul 27, 2013",,Free transfer,Belgium,2282.0,Club Brugge ,196860,150 Th. €,Jordan Botaka,13/14,Netherlands,798.0,SBV Excelsior 
+"Jun 30, 2013",,End of loan,Portugal,2457.0,Belenenses ,196860,150 Th. €,Jordan Botaka,12/13,Belgium,2282.0,Club Brugge 
+"Jan 31, 2013",,Loan,Belgium,2282.0,Club Brugge ,196860,150 Th. €,Jordan Botaka,12/13,Portugal,2457.0,Belenenses 
+"Jan 1, 2012",,-,Belgium,6640.0,Club Bruges U19 ,196860,-,Jordan Botaka,11/12,Belgium,2282.0,Club Brugge 
+"Jul 23, 2015",,"2,00 Mill. €",Germany,2.0,1.FC K'lautern ,119037,"1,00 Mill. €",Philipp Hofmann,15/16,England,1148.0,Brentford 
+"Jul 1, 2014",,"1,00 Mill. €",Germany,33.0,FC Schalke 04 ,119037,"1,00 Mill. €",Philipp Hofmann,14/15,Germany,2.0,1.FC K'lautern 
+"Jun 30, 2014",,End of loan,Germany,4795.0,FC Ingolstadt ,119037,"1,00 Mill. €",Philipp Hofmann,13/14,Germany,33.0,FC Schalke 04 
+"Jul 13, 2013",,Loan fee:200 Th. €,Germany,33.0,FC Schalke 04 ,119037,600 Th. €,Philipp Hofmann,13/14,Germany,4795.0,FC Ingolstadt 
+"Jun 30, 2013",,End of loan,Germany,127.0,SC Paderborn ,119037,600 Th. €,Philipp Hofmann,12/13,Germany,33.0,FC Schalke 04 
+"Jul 30, 2012",,Loan fee:100 Th. €,Germany,33.0,FC Schalke 04 ,119037,200 Th. €,Philipp Hofmann,12/13,Germany,127.0,SC Paderborn 
+"Jul 1, 2012",,-,Germany,34.0,Schalke 04 II ,119037,100 Th. €,Philipp Hofmann,12/13,Germany,33.0,FC Schalke 04 
+"Jul 1, 2011",,-,Germany,1463.0,Schalke 04 U19 ,119037,-,Philipp Hofmann,11/12,Germany,34.0,Schalke 04 II 
+"Jul 1, 2010",,-,Germany,21061.0,Schalke 04 U17 ,119037,-,Philipp Hofmann,10/11,Germany,1463.0,Schalke 04 U19 
+"Jul 1, 2009",,Free transfer,Germany,47339.0,SC Neheim U17 ,119037,-,Philipp Hofmann,09/10,Germany,21061.0,Schalke 04 U17 
+"Jul 1, 2007",,Free transfer,Germany,53501.0,Wenholth. Jgd. ,119037,-,Philipp Hofmann,07/08,Germany,47340.0,SC Neheim Jgd. 
+"Jun 30, 2016",,End of loan,England,931.0,Fulham FC ,123349,"2,50 Mill. €",Zakaria Labyad,15/16,Portugal,336.0,Sporting CP 
+"Feb 1, 2016",,Loan,Portugal,336.0,Sporting CP ,123349,"3,00 Mill. €",Zakaria Labyad,15/16,England,931.0,Fulham FC 
+"Jun 30, 2015",,End of loan,Netherlands,499.0,Vitesse ,123349,"4,00 Mill. €",Zakaria Labyad,14/15,Portugal,336.0,Sporting CP 
+"Jan 8, 2014",,Loan,Portugal,336.0,Sporting CP ,123349,"5,50 Mill. €",Zakaria Labyad,13/14,Netherlands,499.0,Vitesse 
+"Jul 2, 2012",,900 Th. €,Netherlands,383.0,PSV Eindhoven ,123349,"4,00 Mill. €",Zakaria Labyad,12/13,Portugal,336.0,Sporting CP 
+"Jul 1, 2010",,-,Netherlands,4575.0,PSV U19 ,123349,100 Th. €,Zakaria Labyad,10/11,Netherlands,383.0,PSV Eindhoven 
+"Jul 1, 2004",,Free transfer,Netherlands,52795.0,Elinkwijk Jgd. ,123349,-,Zakaria Labyad,04/05,Netherlands,32801.0,PSV Youth 
+"Jan 19, 2016",,Free transfer,England,281.0,Manchester City ,181498,-,George Evans,15/16,England,1032.0,Reading 
+"Jan 16, 2016",,End of loan,England,899.0,Walsall FC ,181498,-,George Evans,15/16,England,281.0,Manchester City 
+"Oct 20, 2015",,Loan,England,281.0,Manchester City ,181498,-,George Evans,15/16,England,899.0,Walsall FC 
+"Apr 30, 2015",,End of loan,England,2964.0,Scunthorpe Utd. ,181498,-,George Evans,14/15,England,281.0,Manchester City 
+"Jan 30, 2015",,Loan,England,281.0,Manchester City ,181498,-,George Evans,14/15,England,2964.0,Scunthorpe Utd. 
+"May 31, 2014",,End of loan,England,1042.0,Crewe Alexandra ,181498,-,George Evans,13/14,England,281.0,Manchester City 
+"Oct 28, 2013",,Loan,England,281.0,Manchester City ,181498,-,George Evans,13/14,England,1042.0,Crewe Alexandra 
+"Jul 1, 2012",,-,England,6930.0,Man City U18 ,181498,-,George Evans,12/13,England,281.0,Manchester City 
+"Jul 6, 2015",,Free transfer,Spain,6767.0,R. M. Castilla ,129483,-,Derik Osede,15/16,England,355.0,Bolton 
+"Jul 1, 2013",,-,Spain,2868.0,Real Madrid C ,129483,600 Th. €,Derik Osede,13/14,Spain,6767.0,R. M. Castilla 
+"Jul 1, 2011",,-,Spain,28870.0,Real Madrid U19 ,129483,-,Derik Osede,11/12,Spain,2868.0,Real Madrid C 
+"Jul 1, 2010",,-,Spain,13711.0,R. Madrid Youth ,129483,-,Derik Osede,10/11,Spain,28870.0,Real Madrid U19 
 ,'NoneType' object has no attribute 'find_all',,,,,385635,,,,,,
-"Jan 3, 2016",,End of loan,England,3537,Crawley Town ,386263,100 Th. €,Josh Emmanuel,15/16,England,677,Ipswich 
-"Nov 26, 2015",,Loan,England,677,Ipswich ,386263,100 Th. €,Josh Emmanuel,15/16,England,3537,Crawley Town 
-"Jul 1, 2015",,-,England,10006,Ipswich U18 ,386263,-,Josh Emmanuel,15/16,England,677,Ipswich 
-"Jul 1, 2015",,-,England,24212,Birmingham U21 ,391127,-,Viv Solomon-Otabor,15/16,England,337,Birmingham 
-"May 1, 2014",,End of loan,England,22563,Oxford City ,391127,-,Viv Solomon-Otabor,13/14,England,24212,Birmingham U21 
-"Feb 1, 2014",,Loan,England,24212,Birmingham U21 ,391127,-,Viv Solomon-Otabor,13/14,England,22563,Oxford City 
-"Jul 1, 2013",,-,England,6938,Birmingham U18 ,391127,-,Viv Solomon-Otabor,13/14,England,24212,Birmingham U21 
-"Jul 1, 2012",,-,England,6950,Palace U18 ,391127,-,Viv Solomon-Otabor,12/13,England,6938,Birmingham U18 
-"Jul 1, 2015",,-,England,6932,Charlton U18 ,406040,-,Ademola Lookman,15/16,England,358,Charlton 
-"Feb 28, 2016",,End of loan,England,7454,Welling ,409755,-,James Ferry,15/16,England,1148,Brentford 
-"Jan 28, 2016",,Loan,England,1148,Brentford ,409755,-,James Ferry,15/16,England,7454,Welling 
-"Dec 24, 2015",,End of loan,England,2805,Wycombe ,409755,-,James Ferry,15/16,England,1148,Brentford 
-"Nov 26, 2015",,Loan,England,1148,Brentford ,409755,-,James Ferry,15/16,England,2805,Wycombe 
-"Nov 23, 2015",,-,England,14997,Brentford U18 ,409755,-,James Ferry,15/16,England,1148,Brentford 
-"Jul 1, 2015",,-,England,10161,Leeds United U18 ,410436,-,Bailey Peacock-Farrell,15/16,England,399,Leeds 
-"Apr 3, 2016",,End of loan,England,12020,Harrogate Town ,416620,-,Mason Warren,15/16,England,1194,Rotherham 
-"Feb 5, 2016",,Loan,England,1194,Rotherham ,416620,-,Mason Warren,15/16,England,12020,Harrogate Town 
-"Dec 27, 2015",,End of loan,England,21313,Sheffield FC ,416620,-,Mason Warren,15/16,England,1194,Rotherham 
-"Nov 27, 2015",,Loan,England,1194,Rotherham ,416620,-,Mason Warren,15/16,England,21313,Sheffield FC 
-"Jul 1, 2015",,-,England,14985,Rotherham U18 ,416620,-,Mason Warren,15/16,England,1194,Rotherham 
-"Feb 23, 2016",,End of loan,England,3455,Forest Green ,419183,-,Charlie Cooper,15/16,England,337,Birmingham 
-"Jan 23, 2016",,Loan,England,337,Birmingham ,419183,-,Charlie Cooper,15/16,England,3455,Forest Green 
-"Jul 1, 2015",,-,England,6938,Birmingham U18 ,419183,-,Charlie Cooper,15/16,England,337,Birmingham 

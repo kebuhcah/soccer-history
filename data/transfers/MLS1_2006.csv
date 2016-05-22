@@ -1,0 +1,916 @@
+date,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jan 9, 2015",Free transfer,Finland,23777,SJK ,39425,100 Th. €,Justin Moose,14/15,United States,16902,Wilmington 
+"Jan 1, 2012",Free transfer,Thailand,30064,Sriracha FC ,39425,-,Justin Moose,11/12,Finland,23777,SJK 
+"Dec 1, 2010",-,Thailand,515,Unattached ,39425,100 Th. €,Justin Moose,10/11,,30064,Sriracha FC 
+"Jul 1, 2010",-,United States,6321,Vancouver ,39425,100 Th. €,Justin Moose,10/11,,515,Unattached 
+"Apr 1, 2008",trade,United States,2440,DC United ,39425,100 Th. €,Justin Moose,07/08,Canada,6321,Vancouver 
+"Jan 1, 2006",draft,United States,9783,Demon Deacons ,39425,-,Justin Moose,05/06,United States,2440,DC United 
+"Jul 1, 2009",Free transfer,United States,10406,St. Mary´s College of California ,28165,-,Estuardo Sánchez,09/10,United States,11524,Hollywood 
+"Jan 1, 2007",Free transfer,United States,6642,Chivas USA ,28165,-,Estuardo Sánchez,06/07,United States,10406,St. Mary´s College of California 
+"Jan 1, 2005",?,United States,9742,FC Barcelona (South Carolina) ,28165,-,Estuardo Sánchez,04/05,United States,6642,Chivas USA 
+"Feb 1, 2007",-,United States,813,Columbus ,39430,-,Noah Palmer,06/07,,515,Unattached 
+"May 1, 2006",Swap deal,United States,6643,Salt Lake ,39430,-,Noah Palmer,05/06,United States,813,Columbus 
+"Jan 1, 2005",draft,United States,516,M. Terrapins ,39430,-,Noah Palmer,04/05,United States,6643,Salt Lake 
+"Apr 1, 2011",-,,515,Unattached ,36871,200 Th. €,Adrian Serioux,10/11,,123,End of career 
+"Dec 1, 2010",-,United States,9168,Houston ,36871,200 Th. €,Adrian Serioux,10/11,,515,Unattached 
+"Mar 1, 2010",Free transfer,United States,11141,Toronto ,36871,200 Th. €,Adrian Serioux,09/10,United States,9168,Houston 
+"Feb 1, 2009",Free transfer,United States,8816,FC Dallas	 ,36871,600 Th. €,Adrian Serioux,08/09,United States,11141,Toronto 
+"Jan 1, 2007",Free transfer,United States,11141,Toronto ,36871,600 Th. €,Adrian Serioux,06/07,United States,8816,FC Dallas	 
+"Dec 1, 2006",Free transfer,United States,9168,Houston ,36871,600 Th. €,Adrian Serioux,06/07,Canada,11141,Toronto 
+"Mar 1, 2006",Free transfer,United States,623,NY Red Bulls ,36871,-,Adrian Serioux,05/06,United States,9168,Houston 
+"Jan 1, 2006",Free transfer,England,1028,Millwall ,36871,-,Adrian Serioux,05/06,United States,623,NY Red Bulls 
+"Jan 1, 2005",Free transfer,Canada,670,Toronto Lynx ,36871,-,Adrian Serioux,04/05,England,1028,Millwall 
+"Mar 1, 2011",-,United States,28171,Orlando City SC ,39440,50 Th. €,Joey Worthen,10/11,,515,Unattached 
+"Oct 1, 2010",-,United States,16905,Austin Aztex ,39440,50 Th. €,Joey Worthen,10/11,United States,28171,Orlando City SC 
+"Apr 1, 2010",Free transfer,United States,16931,Richmond Kicker ,39440,-,Joey Worthen,09/10,United States,16905,Austin Aztex 
+"Feb 1, 2009",-,United States,515,Unattached ,39440,-,Joey Worthen,08/09,,16931,Richmond Kicker 
+"Jan 1, 2009",-,United States,11228,RailHawks ,39440,-,Joey Worthen,08/09,,515,Unattached 
+"Jan 1, 2007",trade,United States,6643,Salt Lake ,39440,-,Joey Worthen,06/07,United States,11228,RailHawks 
+"Jan 1, 2006",draft,United States,2405,Richmond Strikers ,39440,-,Joey Worthen,05/06,United States,6643,Salt Lake 
+"Jan 1, 2010",-,United States,9174,Islanders ,32857,25 Th. €,Michael Behonick,09/10,,123,End of career 
+"Jul 1, 2008",-,Puerto Rico,515,Unattached ,32857,-,Michael Behonick,08/09,,9174,Islanders 
+"Jan 1, 2008",-,Puerto Rico,9174,Islanders ,32857,-,Michael Behonick,07/08,,515,Unattached 
+"Jul 1, 2007",trade,United States,4046,CP Baltimore ,32857,-,Michael Behonick,07/08,Puerto Rico,9174,Islanders 
+"Jan 1, 2007",trade,United States,623,NY Red Bulls ,32857,-,Michael Behonick,06/07,United States,4046,CP Baltimore 
+"Jan 1, 2006",draft,United States,4115,Charleston ,32857,-,Michael Behonick,05/06,United States,623,NY Red Bulls 
+"Jul 1, 2015",?,Mexico,7055,Tigres ,39454,450 Th. €,Jonathan Bornstein,15/16,Mexico,4961,Querétaro FC 
+"Jun 30, 2015",End of loan,Mexico,4961,Querétaro FC ,39454,450 Th. €,Jonathan Bornstein,14/15,Mexico,7055,Tigres 
+"Jul 1, 2014",Loan,Mexico,7055,Tigres ,39454,600 Th. €,Jonathan Bornstein,14/15,Mexico,4961,Querétaro FC 
+"May 30, 2014",End of loan,Mexico,6709,Atlante ,39454,600 Th. €,Jonathan Bornstein,13/14,Mexico,7055,Tigres 
+"Jan 1, 2014",Loan,Mexico,7055,Tigres ,39454,700 Th. €,Jonathan Bornstein,13/14,Mexico,6709,Atlante 
+"Jan 1, 2011",Free transfer,United States,4291,Timbers ,39454,250 Th. €,Jonathan Bornstein,10/11,Mexico,7055,Tigres 
+"Jan 1, 2011",draft,United States,6642,Chivas USA ,39454,250 Th. €,Jonathan Bornstein,10/11,United States,4291,Timbers 
+"Jan 20, 2006",Free transfer,United States,3227,UCLA Bruins ,39454,-,Jonathan Bornstein,05/06,United States,6642,Chivas USA 
+"Jul 1, 2008",-,Scotland,2553,Kilmarnock FC ,36357,300 Th. €,Paul Dalglish,08/09,,123,End of career 
+"Jan 1, 2008",Free transfer,United States,9168,Houston ,36357,300 Th. €,Paul Dalglish,07/08,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2006",Free transfer,Scotland,903,Hibernian FC ,36357,300 Th. €,Paul Dalglish,06/07,United States,9168,Houston 
+"Jan 1, 2006",Free transfer,Scotland,1241,Livingston FC ,36357,-,Paul Dalglish,05/06,Scotland,903,Hibernian FC 
+"Aug 1, 2005",Free transfer,Italy,1385,Modena FC ,36357,-,Paul Dalglish,05/06,Scotland,1241,Livingston FC 
+"Jan 1, 2004",Free transfer,Northern Ireland,3471,Linfield ,36357,-,Paul Dalglish,03/04,Italy,1385,Modena FC 
+"Jul 1, 2003",Free transfer,England,1181,Blackpool ,36357,-,Paul Dalglish,03/04,Northern Ireland,3471,Linfield 
+"Aug 1, 2002",Free transfer,England,1123,Norwich ,36357,-,Paul Dalglish,02/03,England,1181,Blackpool 
+"May 1, 2000",450 Th. €,England,762,Newcastle ,36357,-,Paul Dalglish,99/00,England,1123,Norwich 
+"Feb 1, 2011",-,,515,Unattached ,39456,150 Th. €,Preston Burpo,10/11,,123,End of career 
+"Dec 1, 2010",-,United States,626,Revolution ,39456,150 Th. €,Preston Burpo,10/11,,515,Unattached 
+"Jan 1, 2010",Swap deal,United States,1247,Colorado ,39456,50 Th. €,Preston Burpo,09/10,United States,626,Revolution 
+"May 1, 2008",Swap deal,United States,218,Quakes ,39456,-,Preston Burpo,07/08,United States,1247,Colorado 
+"Nov 1, 2007",Swap deal,United States,6642,Chivas USA ,39456,-,Preston Burpo,07/08,United States,218,Quakes 
+"Jan 1, 2006",Swap deal,United States,9636,Sounders FC	 ,39456,-,Preston Burpo,05/06,United States,6642,Chivas USA 
+"Jan 1, 1998",Free transfer,Jamaica,1178,Harbour View ,39456,-,Preston Burpo,97/98,United States,9636,Sounders FC	 
+"Jan 1, 1997",Free transfer,United States,12692,New Hampshire Phantoms ,39456,-,Preston Burpo,96/97,Jamaica,1178,Harbour View 
+"Dec 1, 2012",-,United States,11228,RailHawks ,39457,100 Th. €,Ray Burse Jr.,12/13,,515,Unattached 
+"Mar 1, 2012",Free transfer,United States,9174,Islanders ,39457,150 Th. €,Ray Burse Jr.,11/12,United States,11228,RailHawks 
+"Mar 1, 2011",Free transfer,United States,813,Columbus ,39457,150 Th. €,Ray Burse Jr.,10/11,United States,9174,Islanders 
+"Feb 1, 2011",-,United States,515,Unattached ,39457,150 Th. €,Ray Burse Jr.,10/11,,813,Columbus 
+"Jan 1, 2010",-,United States,8816,FC Dallas	 ,39457,150 Th. €,Ray Burse Jr.,09/10,,515,Unattached 
+"Sep 1, 2008",End of loan,United States,4291,Timbers ,39457,-,Ray Burse Jr.,08/09,United States,8816,FC Dallas	 
+"Jan 1, 2008",Loan,United States,8816,FC Dallas	 ,39457,-,Ray Burse Jr.,07/08,United States,4291,Timbers 
+"Jul 1, 2005",draft,United States,16879,Fire Premier ,39457,-,Ray Burse Jr.,05/06,United States,8816,FC Dallas	 
+"Jan 1, 2005",trade,United States,9753,Ohio State University ,39457,-,Ray Burse Jr.,04/05,United States,16879,Fire Premier 
+"Apr 1, 2010",-,,515,Unattached ,39460,100 Th. €,Michael Dellorusso,09/10,,123,End of career 
+"Jan 1, 2010",-,United States,12667,Baltimore Blast ,39460,100 Th. €,Michael Dellorusso,09/10,,515,Unattached 
+"Oct 1, 2009",Free transfer,United States,16905,Austin Aztex ,39460,100 Th. €,Michael Dellorusso,09/10,United States,12667,Baltimore Blast 
+"Aug 1, 2009",Free transfer,United States,8816,FC Dallas	 ,39460,100 Th. €,Michael Dellorusso,09/10,United States,16905,Austin Aztex 
+"Jan 1, 2006",Free transfer,United States,516,M. Terrapins ,39460,-,Michael Dellorusso,05/06,United States,8816,FC Dallas	 
+"Dec 29, 2015",Free transfer,United States,32567,San Antonio  ,46634,-,Nana Attakora,15/16,United States,9713,Fort Lauderdale 
+"Feb 25, 2015",Free transfer,United States,2440,DC United ,46634,-,Nana Attakora,14/15,United States,32567,San Antonio  
+"Jan 8, 2014",-,United States,515,Unattached ,46634,-,Nana Attakora,13/14,,2440,DC United 
+"Nov 23, 2013",-,United States,218,Quakes ,46634,-,Nana Attakora,13/14,,515,Unattached 
+"Feb 22, 2013",Free transfer,Finland,1225,FC Haka ,46634,-,Nana Attakora,12/13,United States,218,Quakes 
+"Sep 10, 2012",-,Finland,515,Unattached ,46634,150 Th. €,Nana Attakora,12/13,,1225,FC Haka 
+"Dec 1, 2011",-,United States,218,Quakes ,46634,150 Th. €,Nana Attakora,11/12,,515,Unattached 
+"Jul 1, 2011",Swap deal,United States,11141,Toronto ,46634,150 Th. €,Nana Attakora,11/12,United States,218,Quakes 
+"Jan 1, 2014",-,United States,515,Unattached ,39474,300 Th. €,Quavas Kirk,13/14,,44265,Schwaben AC 
+"Jan 1, 2013",-,United States,3372,Rochester ,39474,300 Th. €,Quavas Kirk,12/13,,515,Unattached 
+"Mar 1, 2011",Free transfer,United States,4291,Timbers ,39474,300 Th. €,Quavas Kirk,10/11,United States,3372,Rochester 
+"Dec 1, 2009",Free transfer,United States,4314,Minnesota Thunder ,39474,-,Quavas Kirk,09/10,United States,4291,Timbers 
+"Feb 1, 2009",Free transfer,United States,2440,DC United ,39474,-,Quavas Kirk,08/09,United States,4314,Minnesota Thunder 
+"Feb 1, 2008",Swap deal,United States,1061,Los Angeles ,39474,-,Quavas Kirk,07/08,United States,2440,DC United 
+"Jan 1, 2005",Free transfer,United States,9735,Chicago Magic ,39474,-,Quavas Kirk,04/05,United States,1061,Los Angeles 
+"Jan 1, 2004",Free transfer,United States,9727,IMG Bradenton ,39474,-,Quavas Kirk,03/04,United States,9735,Chicago Magic 
+"Feb 2, 2015",?,Belgium,58,RSC Anderlecht ,39475,"1,50 Mill. €",Sacha Kljestan,14/15,United States,623,NY Red Bulls 
+"Jul 1, 2010",400 Th. €,United States,6642,Chivas USA ,39475,450 Th. €,Sacha Kljestan,10/11,Belgium,58,RSC Anderlecht 
+"Jan 1, 2006",Free transfer,United States,16893,Orange County ,39475,-,Sacha Kljestan,05/06,United States,6642,Chivas USA 
+"Jan 1, 2005",Swap deal,United States,3579,SHU Pirates ,39475,-,Sacha Kljestan,04/05,United States,16893,Orange County 
+"Jun 1, 2011",Swap deal,United States,2440,DC United ,39479,325 Th. €,Dax McCarty,10/11,United States,623,NY Red Bulls 
+"Jan 1, 2011",Swap deal,United States,8816,FC Dallas	 ,39479,200 Th. €,Dax McCarty,10/11,United States,2440,DC United 
+"Jan 1, 2006",draft,United States,9777,Tar Heels ,39479,-,Dax McCarty,05/06,United States,8816,FC Dallas	 
+"Nov 1, 2009",-,United States,4274,Silverbacks ,39481,-,Justin Moore,09/10,,75,Unknown 
+"Jul 1, 2007",?,United States,8816,FC Dallas	 ,39481,-,Justin Moore,07/08,United States,4274,Silverbacks 
+"Jan 1, 2006",?,United States,2934,Clemson Tigers ,39481,-,Justin Moore,05/06,United States,8816,FC Dallas	 
+"Sep 1, 2009",-,United States,11141,Toronto ,3651,300 Th. €,Danny Dichio,09/10,,123,End of career 
+"Apr 1, 2007",Free transfer,England,466,Preston NE ,3651,"1,75 Mill. €",Danny Dichio,06/07,United States,11141,Toronto 
+"Jul 1, 2005",250 Th. €,England,1028,Millwall ,3651,"1,75 Mill. €",Danny Dichio,05/06,England,466,Preston NE 
+"Jan 1, 2004",220 Th. €,England,984,West Brom ,3651,-,Danny Dichio,03/04,England,1028,Millwall 
+"Nov 1, 2003",End of loan,England,22,Derby ,3651,-,Danny Dichio,03/04,England,984,West Brom 
+"Oct 1, 2003",Loan,England,984,West Brom ,3651,-,Danny Dichio,03/04,England,22,Derby 
+"Aug 1, 2001","2,24 Mill. €",England,289,Sunderland ,3651,-,Danny Dichio,01/02,England,984,West Brom 
+"Jan 1, 1998","1,10 Mill. €",Italy,1038,Sampdoria ,3651,-,Danny Dichio,97/98,England,289,Sunderland 
+"Dec 1, 1997",End of loan,Italy,1005,Lecce ,3651,-,Danny Dichio,97/98,Italy,1038,Sampdoria 
+"Oct 1, 1997",Loan,Italy,1038,Sampdoria ,3651,-,Danny Dichio,97/98,Italy,1005,Lecce 
+"Jul 1, 1996",Free transfer,England,1039,QPR ,3651,-,Danny Dichio,96/97,Italy,1038,Sampdoria 
+"Feb 1, 1994",End of loan,England,2804,Barnet ,3651,-,Danny Dichio,93/94,England,1039,QPR 
+"Oct 1, 1993",Loan,England,1039,QPR ,3651,-,Danny Dichio,93/94,England,2804,Barnet 
+"Jul 1, 1993",-,England,12805,QPR U18 ,3651,-,Danny Dichio,93/94,England,1039,QPR 
+"Feb 23, 2016",Free transfer,United States,9168,Houston ,39493,300 Th. €,Nathan Sturgis,15/16,United States,9636,Sounders FC	 
+"Dec 18, 2014",Draft,United States,6642,Chivas USA ,39493,200 Th. €,Nathan Sturgis,14/15,United States,9168,Houston 
+"Jul 1, 2014",Swap deal,United States,1247,Colorado ,39493,200 Th. €,Nathan Sturgis,14/15,United States,6642,Chivas USA 
+"Dec 23, 2012",Swap deal,United States,9168,Houston ,39493,200 Th. €,Nathan Sturgis,12/13,United States,1247,Colorado 
+"Dec 1, 2011",Swap deal,United States,11141,Toronto ,39493,150 Th. €,Nathan Sturgis,11/12,United States,9168,Houston 
+"Nov 1, 2010",Swap deal,United States,6321,Vancouver ,39493,100 Th. €,Nathan Sturgis,10/11,United States,11141,Toronto 
+"Nov 1, 2010",draft,United States,9636,Sounders FC	 ,39493,100 Th. €,Nathan Sturgis,10/11,United States,6321,Vancouver 
+"Nov 1, 2008",Free transfer,United States,6643,Salt Lake ,39493,-,Nathan Sturgis,08/09,United States,9636,Sounders FC	 
+"Jun 1, 2007",Swap deal,United States,1061,Los Angeles ,39493,-,Nathan Sturgis,06/07,United States,6643,Salt Lake 
+"Jan 1, 2006",?,United States,2934,Clemson Tigers ,39493,-,Nathan Sturgis,05/06,United States,1061,Los Angeles 
+"Sep 1, 2010",-,United States,11228,RailHawks ,39494,-,Claudio Suárez,10/11,,123,End of career 
+"Aug 1, 2010",-,United States,515,Unattached ,39494,-,Claudio Suárez,10/11,,11228,RailHawks 
+"Mar 1, 2010",-,United States,6642,Chivas USA ,39494,50 Th. €,Claudio Suárez,09/10,,515,Unattached 
+"Jan 1, 2006",?,Mexico,7055,Tigres ,39494,-,Claudio Suárez,05/06,United States,6642,Chivas USA 
+"Jul 1, 2000",?,Mexico,6711,Guadalajara ,39494,-,Claudio Suárez,00/01,Mexico,7055,Tigres 
+"Jan 1, 1996",?,Mexico,7633,Pumas ,39494,-,Claudio Suárez,95/96,Mexico,6711,Guadalajara 
+"Jan 1, 1988",-,Mexico,23169,UNAM Pumas U20 ,39494,-,Claudio Suárez,87/88,Mexico,7633,Pumas 
+"Mar 1, 2010",-,United States,2440,DC United ,39497,50 Th. €,Lawson Vaughn,09/10,,123,End of career 
+"Sep 1, 2009",?,United States,6642,Chivas USA ,39497,-,Lawson Vaughn,09/10,United States,2440,DC United 
+"Jan 1, 2006",?,United States,9766,Tulsa Hurricane ,39497,-,Lawson Vaughn,05/06,United States,6642,Chivas USA 
+"Dec 1, 2012",-,United States,4290,Pittsburgh ,39498,50 Th. €,Kyle Veris,12/13,,515,Unattached 
+"Mar 1, 2011",Free transfer,United States,9713,Fort Lauderdale ,39498,50 Th. €,Kyle Veris,10/11,United States,4290,Pittsburgh 
+"Feb 1, 2010",Free transfer,United States,9174,Islanders ,39498,50 Th. €,Kyle Veris,09/10,United States,9713,Miami FC  
+"Mar 1, 2009",Tauschgeschäft,Norway,8995,IL Hödd ,39498,-,Kyle Veris,08/09,United States,9174,Islanders 
+"Jan 1, 2008",Tauschgeschäft,United States,1061,Los Angeles ,39498,-,Kyle Veris,07/08,Norway,8995,IL Hödd 
+"Jan 1, 2006",Tauschgeschäft,United States,9753,Ohio State University ,39498,-,Kyle Veris,05/06,United States,1061,Los Angeles 
+"Jan 1, 2003",?,United States,5231,Akron Zips ,39498,-,Kyle Veris,02/03,United States,9753,Ohio State University 
+"Jan 1, 2014",-,United States,1061,Los Angeles ,39351,250 Th. €,Colin Clark,13/14,United States,39811,Colorado Rovers 
+"Dec 1, 2012",Free transfer,United States,9168,Houston ,39351,300 Th. €,Colin Clark,12/13,United States,1061,Los Angeles 
+"Sep 1, 2010",Swap deal,United States,1247,Colorado ,39351,250 Th. €,Colin Clark,10/11,United States,9168,Houston 
+"Jan 1, 2006",?,United States,9726,Boulder Rapids ,39351,-,Colin Clark,05/06,United States,1247,Colorado 
+"Jan 1, 2005",Free transfer,United States,6497,South Methodist ,39351,-,Colin Clark,04/05,United States,9726,Boulder Rapids 
+"Dec 31, 2015",-,United States,11228,RailHawks ,39500,75 Th. €,Blake Wagner,15/16,,515,Unattached 
+"Mar 1, 2015",Free transfer,United States,23565,TB Rowdies ,39500,75 Th. €,Blake Wagner,14/15,United States,11228,RailHawks 
+"Dec 20, 2013",Free transfer,United States,32567,San Antonio  ,39500,75 Th. €,Blake Wagner,13/14,United States,23565,TB Rowdies 
+"Mar 20, 2012",-,United States,515,Unattached ,39500,125 Th. €,Blake Wagner,11/12,,32567,San Antonio  
+"Dec 1, 2011",-,United States,6643,Salt Lake ,39500,125 Th. €,Blake Wagner,11/12,,515,Unattached 
+"Aug 16, 2011",-,United States,515,Unattached ,39500,125 Th. €,Blake Wagner,11/12,,6643,Salt Lake 
+"Jul 28, 2011",-,United States,6321,Vancouver ,39500,125 Th. €,Blake Wagner,11/12,,515,Unattached 
+"Feb 2, 2010",Free transfer,United States,8816,FC Dallas	 ,39500,125 Th. €,Blake Wagner,09/10,United States,6321,Vancouver 
+"Jan 20, 2006",draft,United States,516,M. Terrapins ,39500,-,Blake Wagner,05/06,United States,8816,FC Dallas	 
+"Jan 1, 2005",Free transfer,United States,9727,IMG Bradenton ,39500,-,Blake Wagner,04/05,United States,516,M. Terrapins 
+"Jan 1, 2007",-,United States,6642,Chivas USA ,39501,-,Brent Whitfield,06/07,,123,End of career 
+"Jan 1, 2006",?,United States,9636,Sounders FC	 ,39501,-,Brent Whitfield,05/06,United States,6642,Chivas USA 
+"Jan 1, 2003",?,United States,9729,Cal State Fullerton ,39501,-,Brent Whitfield,02/03,United States,9636,Sounders FC	 
+"Aug 1, 2007",-,United States,8816,FC Dallas	 ,4175,950 Th. €,Shaka Hislop,07/08,,123,End of career 
+"Jul 1, 2006",Free transfer,England,379,West Ham ,4175,950 Th. €,Shaka Hislop,06/07,United States,8816,FC Dallas	 
+"Aug 1, 2005",Free transfer,England,1020,Portsmouth FC ,4175,"1,50 Mill. €",Shaka Hislop,05/06,England,379,West Ham 
+"Jul 1, 2002",Free transfer,England,379,West Ham ,4175,-,Shaka Hislop,02/03,England,1020,Portsmouth FC 
+"Aug 1, 1998",Free transfer,England,762,Newcastle ,4175,-,Shaka Hislop,98/99,England,379,West Ham 
+"Aug 1, 1995","2,20 Mill. €",England,1032,Reading ,4175,-,Shaka Hislop,95/96,England,762,Newcastle 
+"Jul 1, 2008",-,England,3822,Weymouth FC ,3161,200 Th. €,Joel Kitamirike,08/09,,123,End of career 
+"Jul 1, 2007",,England,9693,Fisher Athletic ,3161,200 Th. €,Joel Kitamirike,07/08,England,3822,Weymouth FC 
+"Jul 1, 2006",Free transfer,United States,813,Columbus ,3161,200 Th. €,Joel Kitamirike,06/07,England,9693,Fisher Athletic 
+"Jan 1, 2006",Free transfer,Scotland,1519,Dundee United ,3161,200 Th. €,Joel Kitamirike,05/06,United States,813,Columbus 
+"Jan 1, 2005",Free transfer,England,1148,Brentford ,3161,150 Th. €,Joel Kitamirike,04/05,Scotland,1519,Dundee United 
+"May 1, 2004",End of loan,England,1148,Brentford ,3161,-,Joel Kitamirike,03/04,England,631,Chelsea 
+"Sep 1, 2003",Loan,England,631,Chelsea ,3161,-,Joel Kitamirike,03/04,England,1148,Brentford 
+"Jul 1, 2001",-,England,6918,Chelsea U18 ,3161,-,Joel Kitamirike,01/02,England,631,Chelsea 
+"Jul 1, 2014",?,United States,75,Unknown ,37715,-,Jerrod Laventure,14/15,,39769,Icon FC 
+"Jan 1, 2013",?,United States,41219,Jersey Express ,37715,-,Jerrod Laventure,12/13,,75,Unknown 
+"Jan 1, 2011",?,United States,16923,Newark ,37715,-,Jerrod Laventure,10/11,United States,41219,Jersey Express 
+"Jan 1, 2008",Free transfer,United States,623,NY Red Bulls ,37715,-,Jerrod Laventure,07/08,United States,16923,Newark 
+"Jan 1, 2006",draft,United States,3579,SHU Pirates ,37715,-,Jerrod Laventure,05/06,United States,623,NY Red Bulls 
+"Jan 1, 2015",-,United States,4284,Kansas ,25691,-,Andy Gruenebaum,14/15,,123,End of career 
+"Dec 16, 2013",Swap deal,United States,813,Columbus ,25691,250 Th. €,Andy Gruenebaum,13/14,United States,4284,Kansas 
+"Jan 1, 2006",?,United States,5065,Des Moines ,25691,-,Andy Gruenebaum,05/06,United States,813,Columbus 
+"Jul 7, 2011",trade,United States,25467,Philadelphia ,39354,150 Th. €,Jordan Harvey,11/12,United States,6321,Vancouver 
+"Nov 25, 2009",draft,United States,1247,Colorado ,39354,150 Th. €,Jordan Harvey,09/10,United States,25467,Philadelphia 
+"Jun 30, 2006",End of loan,United States,9636,Sounders FC	 ,39354,-,Jordan Harvey,05/06,United States,1247,Colorado 
+"Mar 1, 2006",Loan,United States,1247,Colorado ,39354,-,Jordan Harvey,05/06,United States,9636,Sounders FC	 
+"Jan 26, 2006",draft,United States,3227,UCLA Bruins ,39354,-,Jordan Harvey,05/06,United States,1247,Colorado 
+"Jan 1, 2002",trade,United States,16893,Orange County ,39354,-,Jordan Harvey,01/02,United States,3227,UCLA Bruins 
+"Jan 1, 2001",trade,United States,9727,IMG Bradenton ,39354,-,Jordan Harvey,00/01,United States,16893,Orange County 
+"Dec 1, 2008",-,France,23512,US Crozon ,29279,-,Pascal Bédrossian,08/09,,123,End of career 
+"Aug 1, 2007",-,France,515,Unattached ,29279,-,Pascal Bédrossian,07/08,,23512,US Crozon 
+"Jul 1, 2007",-,United States,432,Chicago ,29279,-,Pascal Bédrossian,07/08,,515,Unattached 
+"Jul 1, 2006",?,France,1420,SCO Angers ,29279,-,Pascal Bédrossian,06/07,United States,432,Chicago 
+"Jul 1, 2004",?,France,1158,FC Lorient ,29279,-,Pascal Bédrossian,04/05,France,1420,SCO Angers 
+"Jul 1, 1998",?,France,273,Rennes ,29279,-,Pascal Bédrossian,98/99,France,1158,FC Lorient 
+"Jul 1, 1997",?,France,895,Cannes ,29279,-,Pascal Bédrossian,97/98,France,273,Rennes 
+"Jul 1, 1992",?,France,75,Unknown ,29279,-,Pascal Bédrossian,92/93,,895,Cannes 
+"Jan 1, 2008",-,United States,813,Columbus ,1641,-,Jacob Thomas,07/08,,123,End of career 
+"Mar 1, 2006",Free transfer,Germany,78,VfB Lübeck ,1641,200 Th. €,Jacob Thomas,05/06,United States,813,Columbus 
+"Jul 1, 2004",Free transfer,Germany,23,E. Braunschweig ,1641,-,Jacob Thomas,04/05,Germany,78,VfB Lübeck 
+"Jul 1, 1999",Free transfer,United States,823,Austin Lone Stars ,1641,-,Jacob Thomas,99/00,Germany,23,E. Braunschweig 
+"Dec 31, 2015",-,United States,11228,RailHawks ,59499,250 Th. €,Wells Thompson,15/16,,515,Unattached 
+"Feb 3, 2015",Free transfer,United States,4303,Charlotte ,59499,250 Th. €,Wells Thompson,14/15,United States,11228,RailHawks 
+"Mar 3, 2014",-,United States,515,Unattached ,59499,250 Th. €,Wells Thompson,13/14,,4303,Charlotte 
+"Dec 18, 2013",-,United States,432,Chicago ,59499,250 Th. €,Wells Thompson,13/14,,515,Unattached 
+"Sep 10, 2012",Swap deal,United States,1247,Colorado ,59499,250 Th. €,Wells Thompson,12/13,United States,432,Chicago 
+"Jan 21, 2010",Swap deal,United States,626,Revolution ,59499,125 Th. €,Wells Thompson,09/10,United States,1247,Colorado 
+"Jan 12, 2007",draft,United States,9783,Demon Deacons ,59499,-,Wells Thompson,06/07,United States,626,Revolution 
+"Mar 27, 2014",-,United States,6642,Chivas USA ,44656,75 Th. €,Carlos Borja,13/14,,515,Unattached 
+"Feb 14, 2013",Free transfer,United States,31068,OC Blues FC ,44656,75 Th. €,Carlos Borja,12/13,United States,6642,Chivas USA 
+"Jun 18, 2011",-,United States,515,Unattached ,44656,75 Th. €,Carlos Borja,10/11,,31068,OC Blues FC 
+"Mar 1, 2011",-,United States,6642,Chivas USA ,44656,75 Th. €,Carlos Borja,10/11,,515,Unattached 
+"Mar 1, 2010",Free transfer,Mexico,13362,Guadalajara II ,44656,-,Carlos Borja,09/10,United States,6642,Chivas USA 
+"Feb 1, 2008",Free transfer,United States,6642,Chivas USA ,44656,-,Carlos Borja,07/08,Mexico,13362,Guadalajara II 
+"Jan 1, 2007",Free transfer,United States,9727,IMG Bradenton ,44656,-,Carlos Borja,06/07,United States,6642,Chivas USA 
+"Jan 1, 2005",Free transfer,Mexico,25928,Cruz Azul U20 ,44656,-,Carlos Borja,04/05,United States,9727,IMG Bradenton 
+"Jan 1, 2007",?,United States,6642,Chivas USA ,44657,-,Rene Corona,06/07,,75,Unknown 
+"Jul 1, 2011",-,Mexico,18576,La Piedad ,44663,200 Th. €,Jesús Morales,11/12,,515,Unattached 
+"Jan 1, 2011",?,Mexico,28186,Atlante UTN ,44663,200 Th. €,Jesús Morales,10/11,Mexico,18576,La Piedad 
+"Jul 1, 2009",?,Mexico,6711,Guadalajara ,44663,50 Th. €,Jesús Morales,09/10,Mexico,28186,Atlante UTN 
+"Jun 30, 2009",End of loan,Mexico,18098,Atlante II ,44663,50 Th. €,Jesús Morales,08/09,Mexico,6711,Guadalajara 
+"Jan 1, 2009",Loan,Mexico,6711,Guadalajara ,44663,50 Th. €,Jesús Morales,08/09,Mexico,18098,Atlante II 
+"Dec 1, 2008",End of loan,Mexico,4941,León ,44663,50 Th. €,Jesús Morales,08/09,Mexico,6711,Guadalajara 
+"Jul 1, 2008",Loan,Mexico,6711,Guadalajara ,44663,50 Th. €,Jesús Morales,08/09,Mexico,4941,León 
+"Dec 31, 2006",End of loan,United States,6642,Chivas USA ,44663,-,Jesús Morales,06/07,Mexico,6711,Guadalajara 
+"Jan 1, 2006",Loan,Mexico,6711,Guadalajara ,44663,-,Jesús Morales,05/06,United States,6642,Chivas USA 
+"Jan 1, 2005",-,Mexico,13362,Guadalajara II ,44663,-,Jesús Morales,04/05,Mexico,6711,Guadalajara 
+"Jul 1, 2003",-,Mexico,14700,Guadalajara U20 ,44663,-,Jesús Morales,03/04,Mexico,13362,Guadalajara II 
+"Dec 1, 2007",-,United States,6642,Chivas USA ,44667,-,Eder Robles,07/08,United States,11524,Hollywood 
+"Jan 1, 2012",Free transfer,Sweden,6165,Bodens BK ,24704,-,Drew Helm,11/12,United States,9734,Orlando C. U23 
+"Jul 1, 2007",?,Portugal,8290,FC Marinhas ,24704,-,Drew Helm,07/08,Sweden,6165,Bodens BK 
+"Jan 1, 2007",?,United States,6642,Chivas USA ,24704,-,Drew Helm,06/07,Portugal,8290,FC Marinhas 
+"Jan 1, 2006",?,United States,2572,F. Atlantic Owl ,24704,-,Drew Helm,05/06,United States,6642,Chivas USA 
+"Oct 19, 2012",-,United States,11228,RailHawks ,39046,75 Th. €,Jason Garey,12/13,,123,End of career 
+"Jan 1, 2012",-,United States,515,Unattached ,39046,150 Th. €,Jason Garey,11/12,,11228,RailHawks 
+"Dec 1, 2011",-,United States,9168,Houston ,39046,150 Th. €,Jason Garey,11/12,,515,Unattached 
+"Nov 1, 2010",Swap deal,United States,813,Columbus ,39046,150 Th. €,Jason Garey,10/11,United States,9168,Houston 
+"Jan 1, 2006",draft,United States,516,M. Terrapins ,39046,-,Jason Garey,05/06,United States,813,Columbus 
+"Dec 1, 2008",-,United States,4274,Silverbacks ,39048,-,Duke Hashimoto,08/09,,75,Unknown 
+"Aug 1, 2008",Free transfer,United States,75,Unknown ,39048,-,Duke Hashimoto,08/09,,4274,Silverbacks 
+"Jan 1, 2008",Free transfer,United States,6643,Salt Lake ,39048,-,Duke Hashimoto,07/08,,75,Unknown 
+"Jan 1, 2006",?,United States,813,Columbus ,39048,-,Duke Hashimoto,05/06,United States,6643,Salt Lake 
+"Jan 1, 2006",Free transfer,United States,6497,South Methodist ,39048,-,Duke Hashimoto,05/06,United States,813,Columbus 
+"May 12, 2016",?,United States,813,Columbus ,39049,"1,00 Mill. €",Kei Kamara,15/16,United States,626,Revolution 
+"Oct 7, 2014",-,United States,515,Unattached ,39049,800 Th. €,Kei Kamara,14/15,,813,Columbus 
+"Aug 29, 2014",-,England,641,Middlesbrough ,39049,800 Th. €,Kei Kamara,14/15,,515,Unattached 
+"Sep 2, 2013",?,United States,4284,Kansas ,39049,500 Th. €,Kei Kamara,13/14,England,641,Middlesbrough 
+"May 7, 2013",End of loan,England,1123,Norwich ,39049,500 Th. €,Kei Kamara,12/13,United States,4284,Kansas 
+"Jan 30, 2013",Loan,United States,4284,Kansas ,39049,500 Th. €,Kei Kamara,12/13,England,1123,Norwich 
+"Sep 15, 2009",trade,United States,9168,Houston ,39049,175 Th. €,Kei Kamara,09/10,United States,4284,Wizards 
+"Jul 24, 2008",trade,United States,218,Quakes ,39049,-,Kei Kamara,08/09,United States,9168,Houston 
+"Nov 27, 2007",trade,United States,813,Columbus ,39049,-,Kei Kamara,07/08,United States,218,Quakes 
+"Jan 20, 2006",draft,United States,16893,Orange County ,39049,-,Kei Kamara,05/06,United States,813,Columbus 
+"Jan 1, 2005",draft,United States,9730,Cal State-Chico ,39049,-,Kei Kamara,04/05,United States,16893,Orange County 
+"Jan 1, 2008",-,United States,813,Columbus ,39051,-,Brandon Moss,07/08,,123,End of career 
+"Jan 1, 2006",draft,United States,9776,NM Lobos ,39051,-,Brandon Moss,05/06,United States,813,Columbus 
+"Jan 1, 2004",?,United States,432,Chicago ,39051,-,Brandon Moss,03/04,United States,9776,NM Lobos 
+"Jan 1, 2003",?,United States,9726,Boulder Rapids ,39051,-,Brandon Moss,02/03,United States,432,Chicago 
+"Mar 1, 2013",-,United States,25467,Philadelphia ,116372,125 Th. €,Chase Harrison,12/13,,515,Unattached 
+"Feb 1, 2012",-,United States,515,Unattached ,116372,-,Chase Harrison,11/12,,25467,Philadelphia 
+"Dec 31, 2011",-,United States,25467,Philadelphia ,116372,-,Chase Harrison,11/12,,515,Unattached 
+"Sep 23, 2011",-,United States,16885,Harrisburg City ,116372,-,Chase Harrison,11/12,United States,25467,Philadelphia 
+"Mar 16, 2011",-,United States,515,Unattached ,116372,-,Chase Harrison,10/11,,16885,Harrisburg City 
+"Dec 1, 2010",-,United States,813,Columbus ,116372,-,Chase Harrison,10/11,,515,Unattached 
+"Oct 26, 2010",Free transfer,United States,2440,DC United ,116372,-,Chase Harrison,10/11,United States,813,Columbus 
+"Sep 9, 2010",?,United States,4046,CP Baltimore ,116372,-,Chase Harrison,10/11,United States,2440,DC United 
+"Aug 1, 2010",End of loan,United States,16931,Richmond Kicker ,116372,-,Chase Harrison,10/11,United States,4046,CP Baltimore 
+"Jun 1, 2010",Loan,United States,4046,CP Baltimore ,116372,-,Chase Harrison,09/10,United States,16931,Richmond Kicker 
+"Feb 18, 2010",Free transfer,United States,16885,Harrisburg City ,116372,-,Chase Harrison,09/10,United States,4046,CP Baltimore 
+"Mar 1, 2009",Free transfer,United States,4291,Timbers ,116372,-,Chase Harrison,08/09,United States,16885,Harrisburg City 
+"Jul 9, 2008",Swap deal,United States,3372,Rochester ,116372,-,Chase Harrison,07/08,United States,4291,Timbers 
+"May 1, 2007",-,United States,515,Unattached ,116372,-,Chase Harrison,06/07,,3372,Rochester 
+"Nov 1, 2006",-,United States,6643,Salt Lake ,116372,-,Chase Harrison,06/07,,515,Unattached 
+"May 1, 2006",End of loan,United States,4323,Virginia Beach ,116372,-,Chase Harrison,05/06,United States,6643,Salt Lake 
+"Mar 1, 2006",Loan,United States,6643,Salt Lake ,116372,-,Chase Harrison,05/06,United States,4323,Virginia Beach 
+"Jan 26, 2006",draft,United States,11716,Virginia Tech University ,116372,-,Chase Harrison,05/06,United States,6643,Salt Lake 
+"Feb 7, 2013",-,England,899,Walsall FC ,46746,75 Th. €,Jimmy Walker,12/13,,123,End of career 
+"Oct 29, 2010",-,England,515,Unattached ,46746,-,Jimmy Walker,10/11,,899,Walsall FC 
+"Jul 1, 2010",-,England,148,Spurs ,46746,150 Th. €,Jimmy Walker,10/11,,515,Unattached 
+"Sep 1, 2009",Free transfer,England,379,West Ham ,46746,150 Th. €,Jimmy Walker,09/10,England,148,Spurs 
+"Mar 1, 2009",End of loan,England,1060,Colchester Utd. ,46746,150 Th. €,Jimmy Walker,08/09,England,379,West Ham 
+"Nov 1, 2008",Loan,England,379,West Ham ,46746,150 Th. €,Jimmy Walker,08/09,England,1060,Colchester Utd. 
+"Jul 1, 2004",Free transfer,England,899,Walsall FC ,46746,-,Jimmy Walker,04/05,England,379,West Ham 
+"Jul 1, 1993",Free transfer,England,1045,Notts County ,46746,-,Jimmy Walker,93/94,England,899,Walsall FC 
+"Jul 1, 1991",-,England,16192,Notts Co. U19 ,46746,-,Jimmy Walker,91/92,England,1045,Notts County 
+"Jan 27, 2015",?,United States,11141,Toronto ,40117,250 Th. €,Dominic Oduro,14/15,United States,4078,Montreal 
+"Jun 6, 2014",?,United States,813,Columbus ,40117,250 Th. €,Dominic Oduro,13/14,United States,11141,Toronto 
+"Feb 1, 2013",Swap deal,United States,432,Chicago ,40117,250 Th. €,Dominic Oduro,12/13,United States,813,Columbus 
+"Mar 23, 2011",Swap deal,United States,9168,Houston ,40117,125 Th. €,Dominic Oduro,10/11,United States,432,Chicago 
+"Mar 2, 2011",-,United States,515,Unattached ,40117,125 Th. €,Dominic Oduro,10/11,,9168,Houston 
+"Dec 31, 2010",-,United States,9168,Houston ,40117,125 Th. €,Dominic Oduro,10/11,,515,Unattached 
+"May 27, 2009",Swap deal,United States,623,NY Red Bulls ,40117,-,Dominic Oduro,08/09,United States,9168,Houston 
+"Jan 12, 2009",Swap deal,United States,8816,FC Dallas	 ,40117,-,Dominic Oduro,08/09,United States,623,NY Red Bulls 
+"Jan 20, 2006",draft,United States,4298,VCU Rams ,40117,-,Dominic Oduro,05/06,United States,8816,FC Dallas	 
+"Jul 1, 2008",-,Mexico,4961,Querétaro FC ,44730,-,José Manuel Abundis,08/09,,123,End of career 
+"Jan 1, 2007",?,Mexico,1804,Toluca ,44730,-,José Manuel Abundis,06/07,Mexico,4961,Querétaro FC 
+"Dec 1, 2006",End of loan,United States,626,Revolution ,44730,-,José Manuel Abundis,06/07,Mexico,1804,Toluca 
+"Jul 1, 2006",Loan,Mexico,1804,Toluca ,44730,-,José Manuel Abundis,06/07,United States,626,Revolution 
+"Jan 1, 2004",?,Mexico,6709,Atlante ,44730,-,José Manuel Abundis,03/04,Mexico,1804,Toluca 
+"Jul 1, 2003",?,Mexico,4035,CF Pachuca ,44730,-,José Manuel Abundis,03/04,Mexico,6709,Atlante 
+"Jan 1, 2003",?,Mexico,2407,Monterrey ,44730,-,José Manuel Abundis,02/03,Mexico,4035,CF Pachuca 
+"Jul 1, 2002",?,Mexico,6709,Atlante ,44730,-,José Manuel Abundis,02/03,Mexico,2407,Monterrey 
+"Jul 1, 2000",?,Mexico,1804,Toluca ,44730,-,José Manuel Abundis,00/01,Mexico,6709,Atlante 
+"Jan 1, 1992",-,Mexico,25781,Toluca U20 ,44730,-,José Manuel Abundis,91/92,Mexico,1804,Toluca 
+"Dec 12, 2013",Free transfer,United States,9636,Sounders FC	 ,39455,250 Th. €,Marc Burch,13/14,United States,1247,Colorado 
+"Dec 1, 2011",draft,United States,2440,DC United ,39455,250 Th. €,Marc Burch,11/12,United States,9636,Sounders FC	 
+"Mar 1, 2007",Free transfer,United States,813,Columbus ,39455,50 Th. €,Marc Burch,06/07,United States,2440,DC United 
+"Jul 1, 2006",300 Th. €,United States,1061,Los Angeles ,39455,50 Th. €,Marc Burch,06/07,United States,813,Columbus 
+"Jan 1, 2006",Free transfer,United States,516,M. Terrapins ,39455,-,Marc Burch,05/06,United States,1061,Los Angeles 
+"Jul 1, 2007",-,United States,9847,Milwaukee Rampage ,44733,-,Danny Wynn,07/08,,515,Unattached 
+"Jul 1, 2006",trade,United States,626,Revolution ,44733,-,Danny Wynn,06/07,United States,9847,Milwaukee Rampage 
+"Jan 1, 2006",draft,United States,47199,SLU Billikens ,44733,-,Danny Wynn,05/06,United States,626,Revolution 
+"Mar 1, 2007",Free transfer,United States,6643,Salt Lake ,44737,-,Brian Gil,06/07,,75,Unknown 
+"Feb 3, 2016",-,England,355,Bolton ,30071,-,Stuart Holden,15/16,,123,End of career 
+"Apr 24, 2013",End of loan,England,1035,Sheff Wed ,30071,"4,00 Mill. €",Stuart Holden,12/13,England,355,Bolton 
+"Mar 28, 2013",Loan,England,355,Bolton ,30071,"4,00 Mill. €",Stuart Holden,12/13,England,1035,Sheff Wed 
+"Jan 26, 2010",Free transfer,United States,9168,Houston ,30071,175 Th. €,Stuart Holden,09/10,England,355,Bolton 
+"Jan 1, 2006",Free transfer,England,9264,Sunderland U21 ,30071,-,Stuart Holden,05/06,United States,9168,Houston 
+"Mar 1, 2005",Free transfer,United States,2934,Clemson Tigers ,30071,-,Stuart Holden,04/05,England,9264,Sunderland U21 
+"Jan 1, 2012",-,United States,16885,Harrisburg City ,39629,-,Mpho Moloi,11/12,,75,Unknown 
+"Jan 1, 2010",?,South Africa,12668,T. Royal Zulu ,39629,-,Mpho Moloi,09/10,United States,16885,Harrisburg City 
+"Jan 1, 2008",Free transfer,United States,9168,Houston ,39629,-,Mpho Moloi,07/08,South Africa,12668,T. Royal Zulu 
+"Jan 1, 2006",?,United States,9773,UConn Huskies ,39629,-,Mpho Moloi,05/06,United States,9168,Houston 
+"Jul 1, 2014",Free transfer,England,2964,Scunthorpe Utd. ,34515,200 Th. €,Andy Welsh,14/15,,75,Unknown 
+"Jul 1, 2013",Free transfer,England,1220,Carlisle United ,34515,250 Th. €,Andy Welsh,13/14,England,2964,Scunthorpe Utd. 
+"Jul 1, 2011",Free transfer,England,972,Yeovil Town ,34515,500 Th. €,Andy Welsh,11/12,England,1220,Carlisle United 
+"Jul 1, 2008",Free transfer,England,1181,Blackpool ,34515,500 Th. €,Andy Welsh,08/09,England,972,Yeovil Town 
+"Jul 1, 2007",Free transfer,United States,11141,Toronto ,34515,500 Th. €,Andy Welsh,07/08,England,1181,Blackpool 
+"Mar 1, 2007",200 Th. €,England,289,Sunderland ,34515,500 Th. €,Andy Welsh,06/07,United States,11141,Toronto 
+"Jan 1, 2007",End of loan,England,1003,Leicester ,34515,500 Th. €,Andy Welsh,06/07,England,289,Sunderland 
+"Oct 1, 2006",Loan,England,289,Sunderland ,34515,500 Th. €,Andy Welsh,06/07,England,1003,Leicester 
+"May 1, 2006",End of loan,England,1003,Leicester ,34515,500 Th. €,Andy Welsh,05/06,England,289,Sunderland 
+"Mar 1, 2006",Loan,England,289,Sunderland ,34515,500 Th. €,Andy Welsh,05/06,England,1003,Leicester 
+"Nov 1, 2004",20 Th. €,England,1098,Stockport ,34515,-,Andy Welsh,04/05,England,289,Sunderland 
+"Oct 1, 2002",End of loan,England,2436,Macclesfield ,34515,-,Andy Welsh,02/03,England,1098,Stockport 
+"Aug 1, 2002",Loan,England,1098,Stockport ,34515,-,Andy Welsh,02/03,England,2436,Macclesfield 
+"Jul 1, 2000",-,England,18596,Stockport U19 ,34515,-,Andy Welsh,00/01,England,1098,Stockport 
+"Dec 1, 2006",-,United States,6642,Chivas USA ,4313,"2,00 Mill. €",John O'Brien,06/07,,123,End of career 
+"Apr 1, 2006",Free transfer,Netherlands,1268,ADO Den Haag ,4313,"2,00 Mill. €",John O'Brien,05/06,United States,6642,Chivas USA 
+"Jan 1, 2005",Free transfer,Netherlands,610,AFC Ajax ,4313,"2,50 Mill. €",John O'Brien,04/05,Netherlands,1268,ADO Den Haag 
+"Jun 30, 1999",End of loan,Netherlands,200,FC Utrecht ,4313,-,John O'Brien,98/99,Netherlands,610,AFC Ajax 
+"Jul 1, 1998",Loan,Netherlands,610,AFC Ajax ,4313,-,John O'Brien,98/99,Netherlands,200,FC Utrecht 
+"Dec 1, 2011",-,United States,16902,Wilmington ,39149,-,Iván Becerra,11/12,,123,End of career 
+"Mar 1, 2011",Free transfer,United States,16948,Ventura County ,39149,-,Iván Becerra,10/11,United States,16902,Wilmington 
+"Dec 1, 2009",Free transfer,United States,4291,Timbers ,39149,-,Iván Becerra,09/10,United States,16948,Ventura County 
+"Sep 1, 2009",Free transfer,United States,16948,Ventura County ,39149,-,Iván Becerra,09/10,United States,4291,Timbers 
+"Apr 1, 2009",-,United States,515,Unattached ,39149,-,Iván Becerra,08/09,,16948,Ventura County 
+"Jan 1, 2007",-,United States,813,Columbus ,39149,-,Iván Becerra,06/07,,515,Unattached 
+"Jan 1, 2006",Free transfer,United States,9767,UCSB Gauchos ,39149,-,Iván Becerra,05/06,United States,813,Columbus 
+"Jan 1, 2009",trade,United States,4078,Montreal ,41711,-,Cristian Núñez,08/09,Canada,16831,Trois-Rivières 
+"Dec 1, 2007",Free transfer,United States,11141,Toronto ,41711,-,Cristian Núñez,07/08,Canada,4078,Montreal 
+"Jan 1, 2007",?,Norway,175,FK Lyn ,41711,-,Cristian Núñez,06/07,United States,11141,Toronto 
+"Apr 1, 2012",-,,515,Unattached ,44755,100 Th. €,Stefani Miglioranzi,11/12,,123,End of career 
+"Dec 1, 2011",-,United States,25467,Philadelphia ,44755,100 Th. €,Stefani Miglioranzi,11/12,,515,Unattached 
+"Nov 1, 2009",Free transfer,United States,1061,Los Angeles ,44755,150 Th. €,Stefani Miglioranzi,09/10,United States,25467,Philadelphia 
+"Jan 1, 2009",trade,United States,813,Columbus ,44755,-,Stefani Miglioranzi,08/09,United States,1061,Los Angeles 
+"Jul 1, 2006",200 Th. €,United States,1061,Los Angeles ,44755,-,Stefani Miglioranzi,06/07,United States,813,Columbus 
+"Jan 1, 2006",?,England,352,Swindon Town ,44755,-,Stefani Miglioranzi,05/06,United States,1061,Los Angeles 
+"Jul 1, 2002",?,England,9263,Portsmouth U21 ,44755,-,Stefani Miglioranzi,02/03,England,352,Swindon Town 
+"Jul 1, 1998",?,England,9261,Everton U21 ,44755,-,Stefani Miglioranzi,98/99,England,9263,Portsmouth U21 
+"Jul 1, 1997",?,England,6915,Bolton W. U18 ,44755,-,Stefani Miglioranzi,97/98,England,9261,Everton U21 
+"Jul 1, 1996",?,Scotland,10552,St. Johnstone FC U20 ,44755,-,Stefani Miglioranzi,96/97,England,6915,Bolton W. U18 
+"Jan 1, 2012",-,United States,515,Unattached ,13580,200 Th. €,Jacob Peterson,11/12,,4284,Kansas 
+"Dec 1, 2011",-,United States,218,Quakes ,13580,200 Th. €,Jacob Peterson,11/12,,515,Unattached 
+"Jul 1, 2011",Swap deal,United States,11141,Toronto ,13580,200 Th. €,Jacob Peterson,11/12,United States,218,Quakes 
+"Jan 1, 2010",Swap deal,United States,1247,Colorado ,13580,100 Th. €,Jacob Peterson,09/10,United States,11141,Toronto 
+"Jan 1, 2006",Draft,United States,9747,Indiana Hoosier ,13580,50 Th. €,Jacob Peterson,05/06,United States,1247,Colorado 
+"Jan 1, 2003",Free transfer,United States,9824,Duke University ,13580,-,Jacob Peterson,02/03,United States,9747,Indiana Hoosier 
+"May 1, 2015",Free transfer,Brazil,32813,Tupã-SP ,16149,-,Thiago,14/15,Brazil,3983,São Gabriel 
+"Jan 1, 2015",Free transfer,Brazil,34153,Independente-SP ,16149,-,Thiago,14/15,Brazil,32813,Tupã-SP 
+"Jul 1, 2014",Free transfer,Brazil,45257,Votuporanguense ,16149,-,Thiago,14/15,Brazil,34153,Independente-SP 
+"Mar 1, 2014",Free transfer,Brazil,21727,Batatais ,16149,-,Thiago,13/14,Brazil,45257,Votuporanguense 
+"Jan 1, 2014",Free transfer,Brazil,308,Internacional ,16149,-,Thiago,13/14,Brazil,21727,Batatais 
+"Jun 1, 2013",Free transfer,Brazil,21727,Batatais ,16149,-,Thiago,12/13,Brazil,308,Internacional 
+"Jan 1, 2013",Free transfer,Brazil,20034,Santacruzense ,16149,-,Thiago,12/13,Brazil,21727,Batatais 
+"Jan 1, 2012",Free transfer,Brazil,10857,Paulista FC ,16149,-,Thiago,11/12,Brazil,20034,Santacruzense 
+"Jul 1, 2010",-,Brazil,515,Unattached ,16149,150 Th. €,Thiago,10/11,,10857,Paulista FC 
+"May 1, 2010",-,Brazil,734,União São João ,16149,150 Th. €,Thiago,09/10,,515,Unattached 
+"Aug 1, 2009",-,Brazil,515,Unattached ,16149,150 Th. €,Thiago,09/10,,734,União São João 
+"Mar 1, 2009",-,Brazil,2035,Avaí ,16149,150 Th. €,Thiago,08/09,,515,Unattached 
+"Sep 1, 2008",Free transfer,Brazil,3334,Marília ,16149,150 Th. €,Thiago,08/09,Brazil,2035,Avaí 
+"Jan 1, 2007",Free transfer,Brazil,21618,Tigres ,16149,150 Th. €,Thiago,06/07,Brazil,3334,Marília 
+"Jul 1, 2006",Free transfer,United States,1061,Los Angeles ,16149,150 Th. €,Thiago,06/07,Brazil,21618,Tigres 
+"Jan 1, 2005",Free transfer,Germany,16,Bor. Dortmund ,16149,150 Th. €,Thiago,04/05,United States,1061,Los Angeles 
+"Jan 1, 2004",20 Th. €,Brazil,734,União São João ,16149,-,Thiago,03/04,Germany,16,Bor. Dortmund 
+"Jan 1, 2003",Free transfer,Brazil,22878,Rio Branco-SP ,16149,-,Thiago,02/03,Brazil,734,União São João 
+"Jan 1, 2002",Free transfer,Brazil,3266,Corinthians ,16149,-,Thiago,01/02,Brazil,22878,Rio Branco-SP 
+"Jan 1, 2001",Free transfer,Brazil,21618,Tigres ,16149,-,Thiago,00/01,Brazil,3266,Corinthians 
+"Feb 1, 2011",?,Canada,515,Unattached ,50991,50 Th. €,Gabe Gala,10/11,,32559,Mississauga FC 
+"Nov 1, 2010",-,United States,11141,Toronto ,50991,50 Th. €,Gabe Gala,10/11,,515,Unattached 
+"Jul 1, 2015",Free transfer,New Zealand,11396,Waitakere Utd. ,50978,-,Andrew Boyens,15/16,,123,End of career 
+"Jul 1, 2014",Free transfer,New Zealand,30861,Forest Hill M. ,50978,250 Th. €,Andrew Boyens,14/15,New Zealand,11396,Waitakere Utd. 
+"Jan 1, 2014",-,New Zealand,515,Unattached ,50978,250 Th. €,Andrew Boyens,13/14,,30861,Forest Hill M. 
+"Dec 3, 2012",-,United States,1061,Los Angeles ,50978,250 Th. €,Andrew Boyens,12/13,,515,Unattached 
+"Dec 1, 2011",draft,United States,6642,Chivas USA ,50978,250 Th. €,Andrew Boyens,11/12,United States,1061,Los Angeles 
+"Jan 1, 2011",Free transfer,United States,623,NY Red Bulls ,50978,300 Th. €,Andrew Boyens,10/11,United States,6642,Chivas USA 
+"May 1, 2008",-,United States,515,Unattached ,50978,-,Andrew Boyens,07/08,,623,NY Red Bulls 
+"Apr 1, 2008",-,United States,11141,Toronto ,50978,-,Andrew Boyens,07/08,,515,Unattached 
+"Jan 1, 2007",draft,New Zealand,8795,Otago United ,50978,-,Andrew Boyens,06/07,United States,11141,Toronto 
+"Jul 1, 2006",Free transfer,United States,9776,NM Lobos ,50978,-,Andrew Boyens,06/07,New Zealand,8795,Otago United 
+"Jan 1, 2004",Free transfer,New Zealand,1221,Dunedin Technical AFC ,50978,-,Andrew Boyens,03/04,United States,9776,NM Lobos 
+"Mar 1, 2011",-,United States,4078,Montreal ,50979,525 Th. €,Adam Braz,10/11,,123,End of career 
+"Dec 1, 2007",Free transfer,United States,11141,Toronto ,50979,-,Adam Braz,07/08,Canada,4078,Montreal 
+"Jan 1, 2007",trade,Canada,4078,Montreal ,50979,-,Adam Braz,06/07,United States,11141,Toronto 
+"Dec 31, 2003",End of loan,Sweden,5202,Västerås SK ,50979,-,Adam Braz,03/04,Canada,4078,Montreal 
+"Jan 1, 2003",Loan fee:125 Th. €,Canada,4078,Montreal ,50979,-,Adam Braz,02/03,Sweden,5202,Västerås SK 
+"Feb 1, 2011",-,United States,4078,Montreal ,50986,-,Srdjan Djekanovic,10/11,,123,End of career 
+"Jan 1, 2009",trade,Canada,16872,Vancouver Th. ,50986,250 Th. €,Srdjan Djekanovic,08/09,United States,4078,Montreal 
+"Aug 1, 2008",trade,Canada,6321,Vancouver ,50986,250 Th. €,Srdjan Djekanovic,08/09,Canada,16872,Vancouver Th. 
+"Feb 1, 2008",trade,Canada,16872,Vancouver Th. ,50986,250 Th. €,Srdjan Djekanovic,07/08,Canada,6321,Vancouver 
+"Dec 1, 2007",trade,United States,11141,Toronto ,50986,-,Srdjan Djekanovic,07/08,Canada,16872,Vancouver Th. 
+"Jan 1, 2007",trade,Canada,6321,Vancouver ,50986,-,Srdjan Djekanovic,06/07,United States,11141,Toronto 
+"Jan 1, 2006",trade,United States,9859,Columbia Lions ,50986,-,Srdjan Djekanovic,05/06,Canada,6321,Vancouver 
+"Jan 1, 2004",?,Serbia,636,Zeleznik Belgrad ,50986,-,Srdjan Djekanovic,03/04,United States,9859,Columbia Lions 
+"Jul 1, 2002",?,Croatia,10317,Zmaj Makarska ,50986,-,Srdjan Djekanovic,02/03,Serbia,4661,Radnicki Obrenovac 
+"Jul 1, 2001",?,Serbia,4661,Radnicki Obrenovac ,50986,-,Srdjan Djekanovic,01/02,Serbia,636,Zeleznik Belgrad 
+"Jul 1, 1997",?,Serbia,3521,FK Zemun ,50986,-,Srdjan Djekanovic,97/98,Croatia,10317,Zmaj Makarska 
+"Jan 14, 2015",?,England,512,Stoke City ,50987,"1,50 Mill. €",Maurice Edu,14/15,United States,25467,Philadelphia 
+"Dec 31, 2014",End of loan,United States,25467,Philadelphia ,50987,"1,50 Mill. €",Maurice Edu,14/15,England,512,Stoke City 
+"Jan 27, 2014",Loan,England,512,Stoke City ,50987,"1,50 Mill. €",Maurice Edu,13/14,United States,25467,Philadelphia 
+"Jun 30, 2013",End of loan,Turkey,20,Bursaspor ,50987,"2,30 Mill. €",Maurice Edu,12/13,England,512,Stoke City 
+"Jan 17, 2013",Loan,England,512,Stoke City ,50987,"1,50 Mill. €",Maurice Edu,12/13,Turkey,20,Bursaspor 
+"Aug 31, 2012",630 Th. €,Scotland,124,Rangers ,50987,"2,50 Mill. €",Maurice Edu,12/13,England,512,Stoke City 
+"Aug 22, 2008","4,00 Mill. €",United States,11141,Toronto ,50987,"2,00 Mill. €",Maurice Edu,08/09,Scotland,124,Rangers 
+"Jul 1, 2006",draft,United States,516,M. Terrapins ,50987,-,Maurice Edu,06/07,Canada,11141,Toronto 
+"Feb 1, 2012",Free transfer,United States,16948,Ventura County ,39901,-,Willie Sims,11/12,United States,28061,LA Misioneros 
+"Jul 1, 2010",Free transfer,United States,11524,Hollywood ,39901,-,Willie Sims,10/11,United States,16948,Ventura County 
+"Jul 1, 2009",Free transfer,Guatemala,18844,Suchitepéquez ,39901,-,Willie Sims,09/10,United States,11524,Hollywood 
+"Jul 1, 2008",?,United States,17053,San Fernando ,39901,-,Willie Sims,08/09,Guatemala,18844,Suchitepéquez 
+"Dec 1, 2007",trade,United States,626,Revolution ,39901,-,Willie Sims,07/08,United States,17053,San Fernando 
+"Nov 1, 2007",End of loan,Puerto Rico,9174,Islanders ,39901,-,Willie Sims,07/08,United States,626,Revolution 
+"Jul 1, 2007",Loan,United States,626,Revolution ,39901,-,Willie Sims,07/08,Puerto Rico,9174,Islanders 
+"Jan 1, 2006",draft,United States,9731,SCUN Matadors ,39901,-,Willie Sims,05/06,United States,626,Revolution 
+"Jan 1, 2011",Free transfer,United States,16879,Fire Premier ,50995,-,David Orlando Guzmán,10/11,Canada,32559,Mississauga FC 
+"Jan 1, 2008",trade,United States,11141,Toronto ,50995,-,David Orlando Guzmán,07/08,United States,16879,Fire Premier 
+"Jan 1, 2007",trade,United States,16879,Fire Premier ,50995,-,David Orlando Guzmán,06/07,United States,11141,Toronto 
+"Jan 1, 2006",trade,United States,9821,Cardinals ,50995,-,David Orlando Guzmán,05/06,United States,16879,Fire Premier 
+"Jul 1, 2008",-,Israel,5223,Maccabi Netanya ,2868,"2,00 Mill. €",Sebastián Rozental,08/09,,123,End of career 
+"Jul 1, 2007",Free transfer,Israel,3785,M. Petah Tikva ,2868,"2,00 Mill. €",Sebastián Rozental,07/08,Israel,5223,Maccabi Netanya 
+"Mar 1, 2007",Free transfer,United States,813,Columbus ,2868,"2,00 Mill. €",Sebastián Rozental,06/07,Israel,3785,M. Petah Tikva 
+"Jan 1, 2006",400 Th. €,Chile,4321,Española ,2868,"2,00 Mill. €",Sebastián Rozental,05/06,United States,813,Columbus 
+"Jul 1, 2003",Free transfer,Switzerland,504,Grasshoppers ,2868,-,Sebastián Rozental,03/04,Chile,4321,Española 
+"Jul 1, 2002",Free transfer,Scotland,124,Rangers ,2868,-,Sebastián Rozental,02/03,Switzerland,504,Grasshoppers 
+"Jun 30, 2002",End of loan,Chile,2433,Colo Colo ,2868,-,Sebastián Rozental,01/02,Scotland,124,Rangers 
+"Jul 1, 2001",Loan fee:200 Th. €,Scotland,124,Rangers ,2868,-,Sebastián Rozental,01/02,Chile,2433,Colo Colo 
+"Jun 30, 2000",End of loan,Argentina,1234,Independiente ,2868,-,Sebastián Rozental,99/00,Scotland,124,Rangers 
+"Jan 1, 2000",Loan fee:175 Th. €,Scotland,124,Rangers ,2868,-,Sebastián Rozental,99/00,Argentina,1234,Independiente 
+"Jul 1, 1996","4,50 Mill. €",Chile,3277,CDUC ,2868,-,Sebastián Rozental,96/97,Scotland,124,Rangers 
+"Mar 1, 2011",-,United States,28171,Orlando City SC ,50998,250 Th. €,Tyler Hemming,10/11,,515,Unattached 
+"Oct 1, 2010",-,United States,16905,Austin Aztex ,50998,250 Th. €,Tyler Hemming,10/11,United States,28171,Orlando City SC 
+"Jul 1, 2010",Swap deal,United States,4078,Montreal ,50998,250 Th. €,Tyler Hemming,10/11,United States,16905,Austin Aztex 
+"Jan 1, 2010",?,United States,4115,Charleston ,50998,250 Th. €,Tyler Hemming,09/10,United States,4078,Montreal 
+"Mar 1, 2009",Free transfer,Finland,8045,Tampere United ,50998,250 Th. €,Tyler Hemming,08/09,United States,4115,Charleston 
+"Sep 1, 2008",?,United States,11141,Toronto ,50998,-,Tyler Hemming,08/09,Finland,8045,Tampere United 
+"Jan 1, 2007",trade,Canada,16857,Ottawa Fury ,50998,-,Tyler Hemming,06/07,United States,11141,Toronto 
+"Jan 1, 2005",draft,United States,9719,Hartwick College ,50998,-,Tyler Hemming,04/05,Canada,16857,Ottawa Fury 
+"Apr 1, 2010",Free transfer,Australia,11432,Whittl. Zebras ,19774,-,Andrea Lombardo,09/10,Canada,20802,SC Toronto 
+"Jan 1, 2009",-,Australia,515,Unattached ,19774,-,Andrea Lombardo,08/09,,11432,Whittl. Zebras 
+"Jul 1, 2008",-,United States,11141,Toronto ,19774,-,Andrea Lombardo,08/09,,515,Unattached 
+"Jan 1, 2007",Free transfer,Italy,839,Perugia ,19774,-,Andrea Lombardo,06/07,United States,11141,Toronto 
+"Dec 31, 2006",End of loan,Italy,9352,Rieti ,19774,-,Andrea Lombardo,06/07,Italy,800,Atalanta 
+"Jul 1, 2006",Loan fee:175 Th. €,Italy,800,Atalanta ,19774,-,Andrea Lombardo,06/07,Italy,9352,Rieti 
+"Jun 30, 2006",End of loan,Italy,800,Atalanta ,19774,-,Andrea Lombardo,05/06,Italy,839,Perugia 
+"Aug 1, 2005",Loan,Italy,839,Perugia ,19774,-,Andrea Lombardo,05/06,Italy,800,Atalanta 
+"Dec 1, 2007",-,United States,11141,Toronto ,51008,-,Stephen Lumley,07/08,,515,Unattached 
+"Jan 1, 2011",-,Canada,123,End of career ,51010,-,Joey Melo,10/11,,32559,Mississauga FC 
+"Jan 1, 2009",-,United States,11141,Toronto ,51010,-,Joey Melo,08/09,,123,End of career 
+"Jan 1, 2013",-,Norway,2761,FK Haugesund ,38216,-,Chris Pozniak,12/13,,123,End of career 
+"Dec 31, 2012",End of loan,Norway,1057,Bryne FK ,38216,100 Th. €,Chris Pozniak,12/13,Norway,2761,FK Haugesund 
+"Aug 1, 2012",Loan,Norway,2761,FK Haugesund ,38216,100 Th. €,Chris Pozniak,12/13,Norway,1057,Bryne FK 
+"Jan 1, 2010",?,United States,6321,Vancouver ,38216,325 Th. €,Chris Pozniak,09/10,Norway,2761,FK Haugesund 
+"Jul 1, 2009",Free transfer,Scotland,511,Dundee FC ,38216,325 Th. €,Chris Pozniak,09/10,United States,6321,Vancouver 
+"Jul 1, 2008",?,United States,6642,Chivas USA ,38216,-,Chris Pozniak,08/09,Scotland,511,Dundee FC 
+"Jan 1, 2008",?,United States,218,Quakes ,38216,-,Chris Pozniak,07/08,United States,6642,Chivas USA 
+"Nov 1, 2007",trade,United States,11141,Toronto ,38216,-,Chris Pozniak,07/08,United States,218,Quakes 
+"Jan 1, 2007",Free transfer,Norway,2761,FK Haugesund ,38216,-,Chris Pozniak,06/07,United States,11141,Toronto 
+"Dec 1, 2003",?,Sweden,1056,Örebro SK ,38216,-,Chris Pozniak,03/04,Norway,2761,FK Haugesund 
+"Oct 1, 2009",-,United States,6321,Vancouver ,38217,-,Marco Reda,09/10,,123,End of career 
+"Feb 1, 2009",trade,United States,4115,Charleston ,38217,-,Marco Reda,08/09,United States,6321,Vancouver 
+"Jan 1, 2008",trade,United States,11141,Toronto ,38217,-,Marco Reda,07/08,United States,4115,Charleston 
+"Jan 1, 2007",Free transfer,Norway,2038,Sogndal ,38217,-,Marco Reda,06/07,United States,11141,Toronto 
+"Jan 1, 2006",275 Th. €,Denmark,1053,Aalborg BK ,38217,-,Marco Reda,05/06,Norway,2038,Sogndal 
+"Jul 1, 2004",?,Norway,2038,Sogndal ,38217,-,Marco Reda,04/05,Denmark,1053,Aalborg BK 
+"Jan 1, 2002",?,Canada,670,Toronto Lynx ,38217,-,Marco Reda,01/02,Norway,2038,Sogndal 
+"Nov 1, 2012",-,United States,4078,Montreal ,38220,150 Th. €,Greg Sutton,12/13,,123,End of career 
+"Dec 8, 2011",?,United States,623,NY Red Bulls ,38220,300 Th. €,Greg Sutton,11/12,United States,4078,Montreal 
+"Dec 1, 2011",End of loan,United States,4078,Montreal ,38220,300 Th. €,Greg Sutton,11/12,United States,623,NY Red Bulls 
+"Jul 1, 2011",Loan,United States,623,NY Red Bulls ,38220,300 Th. €,Greg Sutton,11/12,United States,4078,Montreal 
+"Mar 1, 2010",-,United States,515,Unattached ,38220,400 Th. €,Greg Sutton,09/10,,623,NY Red Bulls 
+"Jun 1, 2009",-,United States,11141,Toronto ,38220,400 Th. €,Greg Sutton,08/09,,515,Unattached 
+"Jan 1, 2007",200 Th. €,Canada,4078,Montreal ,38220,400 Th. €,Greg Sutton,06/07,United States,11141,Toronto 
+"Dec 31, 2002",End of loan,United States,8816,Dallas Burn ,38220,-,Greg Sutton,02/03,Canada,4078,Montreal 
+"Jul 1, 2002",Loan,Canada,4078,Montreal ,38220,-,Greg Sutton,02/03,United States,8816,Dallas Burn 
+"Jan 1, 2001",?,United States,623,MetroStars ,38220,-,Greg Sutton,00/01,Canada,4078,Montreal 
+"Dec 1, 2000",End of loan,United States,9858,Cincinnati Riverhawks ,38220,-,Greg Sutton,00/01,United States,623,MetroStars 
+"Jul 1, 2000",Loan,United States,623,MetroStars ,38220,-,Greg Sutton,00/01,United States,9858,Cincinnati Riverhawks 
+"Jan 1, 2000",Swap deal,United States,432,Chicago ,38220,-,Greg Sutton,99/00,United States,623,MetroStars 
+"Dec 1, 1999",End of loan,United States,9748,Lehigh Valley Steam ,38220,-,Greg Sutton,99/00,United States,432,Chicago 
+"Jul 1, 1999",Loan,United States,432,Chicago ,38220,-,Greg Sutton,99/00,United States,9748,Lehigh Valley Steam 
+"Nov 1, 2009",-,United States,4274,Silverbacks ,37197,-,Blake Camp,09/10,,75,Unknown 
+"Feb 1, 2008",-,United States,515,Unattached ,37197,-,Blake Camp,07/08,,4274,Silverbacks 
+"Nov 1, 2007",-,United States,623,NY Red Bulls ,37197,-,Blake Camp,07/08,,515,Unattached 
+"Jan 1, 2006",draft,United States,9824,Duke University ,37197,-,Blake Camp,05/06,United States,623,NY Red Bulls 
+"Nov 1, 2009",-,United States,16905,Austin Aztex ,113487,-,Sam Reynolds,09/10,,515,Unattached 
+"Feb 1, 2009",Free transfer,United States,9713,Miami FC  ,113487,-,Sam Reynolds,08/09,United States,16905,Austin Aztex 
+"Apr 1, 2008",Free transfer,United States,25643,MLS Pool ,113487,-,Sam Reynolds,07/08,United States,9713,Miami FC  
+"Apr 1, 2006",Free transfer,United States,4291,Timbers ,113487,-,Sam Reynolds,05/06,United States,25643,MLS Pool 
+"Apr 1, 2005",Free transfer,United States,9729,Cal State Fullerton ,113487,-,Sam Reynolds,04/05,United States,4291,Timbers 
+"Dec 1, 2007",-,United States,623,NY Red Bulls ,5971,750 Th. €,Markus Schopp,07/08,,123,End of career 
+"Aug 1, 2006",Free transfer,Austria,409,RB Salzburg ,5971,"1,45 Mill. €",Markus Schopp,06/07,United States,623,NY Red Bulls 
+"Jul 7, 2005",Free transfer,Italy,19,Brescia ,5971,"2,00 Mill. €",Markus Schopp,05/06,Austria,409,RB Salzburg 
+"Jul 1, 2001",Free transfer,Austria,122,Sturm Graz ,5971,-,Markus Schopp,01/02,Italy,19,Brescia 
+"Jan 28, 1998",?,Germany,41,Hamburger SV ,5971,-,Markus Schopp,97/98,Austria,122,Sturm Graz 
+"Jul 1, 1996","1,00 Mill. €",Austria,122,Sturm Graz ,5971,-,Markus Schopp,96/97,Germany,41,Hamburger SV 
+"Jul 1, 1991",-,Austria,4954,Sturm U19 ,5971,-,Markus Schopp,91/92,Austria,122,Sturm Graz 
+"Jul 1, 1990",-,Austria,42830,Sturm Graz U16 ,5971,-,Markus Schopp,90/91,Austria,4954,Sturm U19 
+"Jul 1, 2011",-,Switzerland,510,FC Chiasso ,19803,75 Th. €,Ricardo Guará,11/12,,515,Unattached 
+"Jul 1, 2010",Free transfer,Switzerland,4305,SC Zofingen ,19803,-,Ricardo Guará,10/11,Switzerland,510,FC Chiasso 
+"Mar 1, 2010",-,Switzerland,515,Unattached ,19803,-,Ricardo Guará,09/10,,4305,SC Zofingen 
+"Jan 1, 2008",-,United States,813,Columbus ,19803,-,Ricardo Guará,07/08,,515,Unattached 
+"Jul 1, 2005",Free transfer,Switzerland,510,FC Chiasso ,19803,-,Ricardo Guará,05/06,United States,813,Columbus 
+"Jul 1, 2003",Free transfer,Brazil,8144,Clube Atlético Juventus (SP) ,19803,-,Ricardo Guará,03/04,Switzerland,510,FC Chiasso 
+"Jan 1, 2009",-,Costa Rica,2677,Herediano ,38237,400 Th. €,Jafet Soto,08/09,,123,End of career 
+"Mar 1, 2007",Free transfer,United States,6643,Salt Lake ,38237,400 Th. €,Jafet Soto,06/07,Costa Rica,2677,Herediano 
+"Jul 1, 2006",Free transfer,Costa Rica,2677,Herediano ,38237,-,Jafet Soto,06/07,United States,6643,Salt Lake 
+"Jan 1, 2004",?,Mexico,5662,Puebla ,38237,-,Jafet Soto,03/04,Costa Rica,2677,Herediano 
+"Jul 1, 2003",?,Mexico,4565,UAG Tecos ,38237,-,Jafet Soto,03/04,Mexico,5662,Puebla 
+"Jan 1, 2003",?,Mexico,5662,Puebla ,38237,-,Jafet Soto,02/03,Mexico,4565,UAG Tecos 
+"Jan 1, 2002",?,Mexico,5623,Monarcas ,38237,-,Jafet Soto,01/02,Mexico,5662,Puebla 
+"Jul 1, 2001",?,Mexico,4565,UAG Tecos ,38237,-,Jafet Soto,01/02,Mexico,5623,Monarcas 
+"Jul 1, 2000",?,Mexico,5662,Puebla ,38237,-,Jafet Soto,00/01,Mexico,4565,UAG Tecos 
+"Jul 1, 1999",?,Mexico,4035,CF Pachuca ,38237,-,Jafet Soto,99/00,Mexico,5662,Puebla 
+"Dec 1, 1998",?,Mexico,8590,Atlas ,38237,-,Jafet Soto,98/99,Mexico,4035,CF Pachuca 
+"Jul 1, 1998",?,Mexico,5623,Monarcas ,38237,-,Jafet Soto,98/99,Mexico,8590,Atlas 
+"Jul 1, 1995",?,Costa Rica,2677,Herediano ,38237,-,Jafet Soto,95/96,Mexico,5623,Monarcas 
+"Jan 1, 1993",-,Costa Rica,24834,CS Herediano II ,38237,-,Jafet Soto,92/93,Costa Rica,2677,Herediano 
+"Dec 31, 2013",-,United States,9168,Houston ,39265,-,Calen Carr,13/14,,123,End of career 
+"Mar 23, 2011",Swap deal,United States,432,Chicago ,39265,150 Th. €,Calen Carr,10/11,United States,9168,Houston 
+"Jan 1, 2006",draft,United States,31790,California Golden Bears ,39265,-,Calen Carr,05/06,United States,432,Chicago 
+"Aug 1, 2005",Free transfer,United States,16893,Orange County ,39265,-,Calen Carr,05/06,United States,31790,California Golden Bears 
+"Apr 1, 2005",Free transfer,United States,31790,California Golden Bears ,39265,-,Calen Carr,04/05,United States,16893,Orange County 
+"Dec 1, 2014",-,United States,27768,Minnesota Utd. ,39269,75 Th. €,Floyd Franks,14/15,,515,Unattached 
+"Jul 25, 2013",Swap deal,United States,11228,RailHawks ,39269,75 Th. €,Floyd Franks,13/14,United States,27768,Minnesota Utd. 
+"Jul 18, 2012",-,United States,515,Unattached ,39269,125 Th. €,Floyd Franks,12/13,,11228,RailHawks 
+"Jun 28, 2012",-,United States,6321,Vancouver ,39269,125 Th. €,Floyd Franks,11/12,,515,Unattached 
+"Mar 1, 2012",?,United States,11228,RailHawks ,39269,125 Th. €,Floyd Franks,11/12,United States,6321,Vancouver 
+"Feb 1, 2010",?,Denmark,20108,Jammerbugt FC ,39269,-,Floyd Franks,09/10,United States,11228,RailHawks 
+"Sep 1, 2008",?,United States,15803,Cleveland City ,39269,-,Floyd Franks,08/09,Denmark,20108,Jammerbugt FC 
+"Jan 1, 2008",trade,United States,432,Chicago ,39269,-,Floyd Franks,07/08,United States,15803,Cleveland City 
+"Jan 1, 2006",draft,United States,16909,Carolina Dynamo ,39269,-,Floyd Franks,05/06,United States,432,Chicago 
+"Jan 1, 2005",trade,United States,9768,UNC Charlotte ,39269,-,Floyd Franks,04/05,United States,16909,Carolina Dynamo 
+"Jan 1, 2008",-,United States,4284,Wizards ,39271,300 Th. €,Matt Groenwald,07/08,,123,End of career 
+"Jan 1, 2006",?,United States,9762,St. John´s University ,39271,-,Matt Groenwald,05/06,United States,4284,Wizards 
+"Jan 1, 2011",-,,515,Unattached ,39278,-,Ryan McMahen,10/11,,123,End of career 
+"Nov 1, 2009",-,United States,16905,Austin Aztex ,39278,-,Ryan McMahen,09/10,,515,Unattached 
+"Mar 1, 2009",-,United States,515,Unattached ,39278,-,Ryan McMahen,08/09,,16905,Austin Aztex 
+"Aug 1, 2008",-,United States,4284,Wizards ,39278,-,Ryan McMahen,08/09,,515,Unattached 
+"Jan 1, 2006",draft,United States,16890,Michigan Bucks ,39278,-,Ryan McMahen,05/06,United States,4284,Wizards 
+"Jan 1, 2005",trade,United States,9752,Michigan State University ,39278,-,Ryan McMahen,04/05,United States,16890,Michigan Bucks 
+"Dec 9, 2013",-,United States,6642,Chivas USA ,2927,-,Ante Jazic,13/14,,123,End of career 
+"Jan 15, 2009",Swap deal,United States,1061,Los Angeles ,2927,450 Th. €,Ante Jazic,08/09,United States,6642,Chivas USA 
+"Jun 27, 2006",?,United States,75,Unknown ,2927,450 Th. €,Ante Jazic,05/06,,1061,Los Angeles 
+"Jan 1, 2005",?,Russia,2439,Kuban Krasnodar ,2927,450 Th. €,Ante Jazic,04/05,,75,Unknown 
+"Jul 1, 2004",Free transfer,Austria,170,Rapid Vienna ,2927,-,Ante Jazic,04/05,Russia,2439,Kuban Krasnodar 
+"Jul 1, 2000",350 Th. €,Croatia,447,Hajduk Split ,2927,-,Ante Jazic,00/01,Austria,170,Rapid Vienna 
+"Jul 1, 1999",Free transfer,Croatia,485,Hrv Dragovoljac ,2927,-,Ante Jazic,99/00,Croatia,447,Hajduk Split 
+"Dec 31, 2016",End of loan,United States,6643,Salt Lake ,39280,"5,00 Mill. €",Yura Movsisyan,16/17,Russia,232,Spartak Moscow 
+"Jan 15, 2016",Loan,Russia,232,Spartak Moscow ,39280,"6,00 Mill. €",Yura Movsisyan,15/16,United States,6643,Salt Lake 
+"Jan 1, 2013","7,50 Mill. €",Russia,16704,FK Krasnodar ,39280,"3,20 Mill. €",Yura Movsisyan,12/13,Russia,232,Spartak Moscow 
+"Jan 28, 2011","2,00 Mill. €",Denmark,5724,Randers FC ,39280,"1,25 Mill. €",Yura Movsisyan,10/11,Russia,16704,FK Krasnodar 
+"Jan 1, 2010",Free transfer,United States,6643,Salt Lake ,39280,250 Th. €,Yura Movsisyan,09/10,Denmark,5724,Randers FC 
+"Jan 1, 2008",Free transfer,United States,4284,Wizards ,39280,-,Yura Movsisyan,07/08,United States,6643,Salt Lake 
+"Jan 1, 2006",Free transfer,United States,9755,Pasadena City College ,39280,-,Yura Movsisyan,05/06,United States,4284,Wizards 
+"Mar 1, 2011",-,,2113,career break ,39287,125 Th. €,Brian Plotkin,10/11,,123,End of career 
+"Apr 1, 2010",-,United States,11228,RailHawks ,39287,-,Brian Plotkin,09/10,,2113,career break 
+"Jan 1, 2009",Free transfer,United States,813,Columbus ,39287,-,Brian Plotkin,08/09,United States,11228,RailHawks 
+"Aug 1, 2008",Free transfer,United States,432,Chicago ,39287,-,Brian Plotkin,08/09,United States,813,Columbus 
+"Jan 1, 2006",draft,United States,9747,Indiana Hoosier ,39287,-,Brian Plotkin,05/06,United States,432,Chicago 
+"Apr 1, 2011",Free transfer,United States,9734,Orlando C. U23 ,39289,-,Sergey Raad,10/11,,75,Unknown 
+"Mar 1, 2010",-,United States,515,Unattached ,39289,-,Sergey Raad,09/10,,9734,Orlando C. U23 
+"May 1, 2008",-,United States,9734,Orlando C. U23 ,39289,-,Sergey Raad,07/08,,515,Unattached 
+"Jan 1, 2008",trade,United States,4284,Wizards ,39289,-,Sergey Raad,07/08,United States,9734,Orlando C. U23 
+"Jan 1, 2006",draft,United States,9734,Orlando C. U23 ,39289,-,Sergey Raad,05/06,United States,4284,Wizards 
+"Jan 1, 2005",trade,Canada,4099,Calgary Mustangs ,39289,-,Sergey Raad,04/05,United States,9734,Orlando C. U23 
+"Jan 1, 2004",trade,United States,9745,Furman Paladins ,39289,-,Sergey Raad,03/04,Canada,4099,Calgary Mustangs 
+"Jan 1, 2012",-,United States,1061,Los Angeles ,39292,125 Th. €,Dasan Robinson,11/12,,123,End of career 
+"Sep 1, 2011",Swap deal,United States,11141,Toronto ,39292,125 Th. €,Dasan Robinson,11/12,United States,1061,Los Angeles 
+"Jul 1, 2011",Swap deal,United States,432,Chicago ,39292,125 Th. €,Dasan Robinson,11/12,United States,11141,Toronto 
+"Jan 1, 2006",?,United States,9718,Dayton Flyers ,39292,-,Dasan Robinson,05/06,United States,432,Chicago 
+"Mar 1, 2011",-,,515,Unattached ,4479,600 Th. €,Dave van den Bergh,10/11,,123,End of career 
+"Mar 1, 2010",-,United States,8816,FC Dallas	 ,4479,600 Th. €,Dave van den Bergh,09/10,,515,Unattached 
+"Jan 1, 2009",trade,United States,623,NY Red Bulls ,4479,600 Th. €,Dave van den Bergh,08/09,United States,8816,FC Dallas	 
+"Jan 1, 2007",?,United States,4284,Wizards ,4479,"2,00 Mill. €",Dave van den Bergh,06/07,United States,623,NY Red Bulls 
+"Jul 1, 2006",Free transfer,Netherlands,200,FC Utrecht ,4479,"2,50 Mill. €",Dave van den Bergh,06/07,United States,4284,Wizards 
+"Jul 1, 2000",Free transfer,Spain,367,Rayo Vallecano ,4479,-,Dave van den Bergh,00/01,Netherlands,200,FC Utrecht 
+"Jul 1, 1997",?,Netherlands,610,AFC Ajax ,4479,-,Dave van den Bergh,97/98,Spain,367,Rayo Vallecano 
+"Jul 1, 1995",-,Netherlands,2824,Ajax U19 ,4479,-,Dave van den Bergh,95/96,Netherlands,610,AFC Ajax 
+"Jan 1, 2008",-,United States,3372,Rochester ,39296,-,Stephen Shirley-Black,07/08,,515,Unattached 
+"Jan 1, 2007",Free transfer,United States,4284,Wizards ,39296,-,Stephen Shirley-Black,06/07,United States,3372,Rochester 
+"Jan 1, 2006",Free transfer,United States,4298,VCU Rams ,39296,-,Stephen Shirley-Black,05/06,United States,4284,Wizards 
+"Apr 1, 2010",-,United States,11141,Toronto ,11653,400 Th. €,Jim Brennan,09/10,,123,End of career 
+"Jul 1, 2006",Free transfer,England,180,Southampton ,11653,800 Th. €,Jim Brennan,06/07,Canada,11141,Toronto 
+"Jan 1, 2006",Free transfer,England,1123,Norwich ,11653,800 Th. €,Jim Brennan,05/06,England,180,Southampton 
+"Jul 1, 2003",Free transfer,England,703,Nottm Forest ,11653,-,Jim Brennan,03/04,England,1123,Norwich 
+"May 1, 2001",End of loan,England,1110,Huddersfield ,11653,-,Jim Brennan,00/01,England,703,Nottm Forest 
+"Mar 1, 2001",Loan,England,703,Nottm Forest ,11653,-,Jim Brennan,00/01,England,1110,Huddersfield 
+"Oct 1, 1999","2,25 Mill. €",England,698,Bristol City ,11653,-,Jim Brennan,99/00,England,703,Nottm Forest 
+"Jul 1, 1994",Free transfer,Italy,4544,AS Sora Calcio ,11653,-,Jim Brennan,94/95,England,698,Bristol City 
+"Jan 3, 2013",-,United States,515,Unattached ,39302,400 Th. €,Tyson Wahl,12/13,,813,Columbus 
+"Nov 16, 2012",-,United States,1247,Colorado ,39302,400 Th. €,Tyson Wahl,12/13,,515,Unattached 
+"Jul 13, 2012",Swap deal,United States,4078,Montreal ,39302,400 Th. €,Tyson Wahl,12/13,United States,1247,Colorado 
+"Nov 23, 2011",Swap deal,United States,9636,Sounders FC	 ,39302,100 Th. €,Tyson Wahl,11/12,United States,4078,Montreal 
+"Nov 26, 2008",Free transfer,United States,4284,Wizards ,39302,-,Tyson Wahl,08/09,United States,9636,Sounders FC	 
+"Jan 20, 2006",draft,United States,16893,Orange County ,39302,-,Tyson Wahl,05/06,United States,4284,Wizards 
+"Jan 1, 2005",Free transfer,United States,31790,California Golden Bears ,39302,-,Tyson Wahl,04/05,United States,16893,Orange County 
+"Mar 1, 2011",-,United States,28171,Orlando City SC ,39303,150 Th. €,Lance Watson,10/11,,515,Unattached 
+"Oct 1, 2010",-,United States,16905,Austin Aztex ,39303,150 Th. €,Lance Watson,10/11,United States,28171,Orlando City SC 
+"Mar 1, 2010",Free transfer,United States,4284,Wizards ,39303,150 Th. €,Lance Watson,09/10,United States,16905,Austin Aztex 
+"Jan 1, 2006",Free transfer,United States,16879,Fire Premier ,39303,-,Lance Watson,05/06,United States,4284,Wizards 
+"Mar 1, 2005",Free transfer,United States,16887,Indiana Invad. ,39303,-,Lance Watson,04/05,United States,16879,Fire Premier 
+"May 1, 2007",-,United States,432,Chicago ,16269,350 Th. €,Ryan Coiner,06/07,,123,End of career 
+"Mar 1, 2007",Free transfer,United States,813,Columbus ,16269,350 Th. €,Ryan Coiner,06/07,United States,432,Chicago 
+"Jul 1, 2006",Free transfer,Germany,269,Holstein Kiel ,16269,350 Th. €,Ryan Coiner,06/07,United States,813,Columbus 
+"Jul 1, 2005",Free transfer,Germany,89,Union Berlin ,16269,250 Th. €,Ryan Coiner,05/06,Germany,269,Holstein Kiel 
+"Jul 1, 2004",Free transfer,Germany,831,A. Bielefeld II ,16269,-,Ryan Coiner,04/05,Germany,89,Union Berlin 
+"Jan 1, 2004",Free transfer,United States,4291,Timbers ,16269,-,Ryan Coiner,03/04,Germany,831,A. Bielefeld II 
+"Jul 1, 2002",Free transfer,United States,16893,Orange County ,16269,-,Ryan Coiner,02/03,United States,4291,Timbers 
+"Jan 1, 2002",trade,United States,4525,USD Toreros ,16269,-,Ryan Coiner,01/02,United States,16893,Orange County 
+"Jan 1, 2016",Free transfer,Finland,3776,RoPS ,51439,200 Th. €,Tomer Chencinski,15/16,Sweden,699,Helsingborgs IF 
+"Jan 22, 2015",?,Israel,21535,Hakoah Amidar ,51439,175 Th. €,Tomer Chencinski,14/15,Finland,3776,RoPS 
+"Jan 20, 2014",Loan,Israel,119,M. Tel Aviv ,51439,175 Th. €,Tomer Chencinski,13/14,Israel,21535,Hakoah Amidar 
+"Jan 1, 2013",100 Th. €,Sweden,1056,Örebro SK ,51439,175 Th. €,Tomer Chencinski,12/13,Israel,119,M. Tel Aviv 
+"Jan 1, 2012",30 Th. €,Finland,1102,VPS ,51439,175 Th. €,Tomer Chencinski,11/12,Sweden,1056,Örebro SK 
+"Feb 1, 2011",Free transfer,United States,16885,Harrisburg City ,51439,-,Tomer Chencinski,10/11,Finland,1102,VPS 
+"Apr 1, 2009",?,Moldova,18477,Nistru Otaci ,51439,-,Tomer Chencinski,08/09,United States,16885,Harrisburg City 
+"Jul 1, 2008",?,United States,16923,Newark ,51439,-,Tomer Chencinski,08/09,Moldova,18477,Nistru Otaci 
+"Apr 1, 2008",Swap deal,United States,16882,Detroit Ign. ,51439,-,Tomer Chencinski,07/08,United States,16923,Newark 
+"Jul 1, 2007",Swap deal,United States,11141,Toronto ,51439,-,Tomer Chencinski,07/08,United States,16882,Detroit Ign. 
+"Mar 1, 2010",-,United States,9168,Houston ,39837,125 Th. €,Wade Barrett,09/10,,123,End of career 
+"Jan 1, 2006",?,United States,218,Quakes ,39837,-,Wade Barrett,05/06,United States,9168,Houston 
+"Jan 1, 2005",?,Norway,3837,Fredrikstad ,39837,-,Wade Barrett,04/05,United States,218,Quakes 
+"Jul 1, 2004",?,Denmark,678,Aarhus GF ,39837,-,Wade Barrett,04/05,Norway,3837,Fredrikstad 
+"Mar 1, 2003",?,United States,218,Quakes ,39837,-,Wade Barrett,02/03,Denmark,678,Aarhus GF 
+"Dec 9, 2013",-,United States,9168,Houston ,39839,150 Th. €,Mike Chabala,13/14,,515,Unattached 
+"Feb 25, 2013",-,United States,515,Unattached ,39839,0 Th. €,Mike Chabala,12/13,,9168,Houston 
+"Dec 3, 2012",-,United States,2440,DC United ,39839,0 Th. €,Mike Chabala,12/13,,515,Unattached 
+"Aug 9, 2012",Swap deal,United States,4291,Timbers ,39839,0 Th. €,Mike Chabala,12/13,United States,2440,DC United 
+"Jul 21, 2011",Swap deal,United States,9168,Houston ,39839,0 Th. €,Mike Chabala,11/12,United States,4291,Timbers 
+"Jan 1, 2006",draft,United States,9782,WA Huskies ,39839,-,Mike Chabala,05/06,United States,9168,Houston 
+"Nov 1, 2011",-,United States,4291,Timbers ,39843,100 Th. €,Kevin Goldthwaite,11/12,,123,End of career 
+"Aug 1, 2010",-,United States,623,NY Red Bulls ,39843,100 Th. €,Kevin Goldthwaite,10/11,United States,4291,Timbers 
+"Jul 1, 2007",Swap deal,United States,11141,Toronto ,39843,-,Kevin Goldthwaite,07/08,United States,623,NY Red Bulls 
+"Apr 1, 2007",Swap deal,United States,9168,Houston ,39843,-,Kevin Goldthwaite,06/07,United States,11141,Toronto 
+"Jan 1, 2006",-,United States,218,Quakes ,39843,-,Kevin Goldthwaite,05/06,United States,9168,Houston 
+"Mar 1, 2005",Draft,United States,16887,Indiana Invad. ,39843,-,Kevin Goldthwaite,04/05,United States,218,Quakes 
+"Dec 1, 2004",-,United States,9778,University of Notre Dame ,39843,-,Kevin Goldthwaite,04/05,United States,16887,Indiana Invad. 
+"Oct 1, 2004",End of loan,United States,4291,Timbers ,39843,-,Kevin Goldthwaite,04/05,United States,218,Quakes 
+"Jul 1, 2004",Loan,United States,218,Quakes ,39843,-,Kevin Goldthwaite,04/05,United States,4291,Timbers 
+"Nov 18, 2014",-,United States,432,Chicago ,39845,-,Patrick Ianni,14/15,,123,End of career 
+"Jan 15, 2014",Swap deal,United States,9636,Sounders FC	 ,39845,175 Th. €,Patrick Ianni,13/14,United States,432,Chicago 
+"Jan 26, 2009",Swap deal,United States,9168,Houston ,39845,150 Th. €,Patrick Ianni,08/09,United States,9636,Sounders FC	 
+"Jan 20, 2006",draft,United States,3227,UCLA Bruins ,39845,-,Patrick Ianni,05/06,United States,9168,Houston 
+"Jun 1, 2009",Swap deal,United States,9168,Houston ,39856,-,Chris Wondolowski,08/09,United States,218,Quakes 
+"Dec 1, 2005",?,United States,218,Quakes ,39856,-,Chris Wondolowski,05/06,United States,9168,Houston 
+"Jan 1, 2005",draft,United States,9730,Cal State-Chico ,39856,-,Chris Wondolowski,04/05,United States,218,Quakes 
+"Apr 1, 2010",-,,515,Unattached ,27570,-,Joe Vide,09/10,,123,End of career 
+"Feb 1, 2009",-,United States,2440,DC United ,27570,-,Joe Vide,08/09,,515,Unattached 
+"Jul 1, 2008",Free transfer,United States,218,Quakes ,27570,-,Joe Vide,08/09,United States,2440,DC United 
+"Nov 1, 2007",trade,United States,623,NY Red Bulls ,27570,-,Joe Vide,07/08,United States,218,Quakes 
+"Jan 1, 2005",trade,United States,9842,Virginia Cavs ,27570,-,Joe Vide,04/05,United States,623,MetroStars 
+"Jan 1, 2002",?,Germany,2510,TSV 1860 U19 ,27570,-,Joe Vide,01/02,United States,9842,Virginia Cavs 
+"Jul 13, 2015",?,Chile,4321,Española ,28087,300 Th. €,Marcos González,15/16,Mexico,1146,Necaxa 
+"Apr 1, 2014",Free transfer,Brazil,614,Flamengo ,28087,300 Th. €,Marcos González,13/14,Chile,4321,Española 
+"Jan 1, 2012",745 Th. €,Chile,1037,U. de Chile ,28087,600 Th. €,Marcos González,11/12,Brazil,614,Flamengo 
+"Feb 1, 2011",290 Th. €,Chile,3277,CDUC ,28087,500 Th. €,Marcos González,10/11,Chile,1037,U. de Chile 
+"Jan 1, 2008",Free transfer,United States,813,Columbus ,28087,800 Th. €,Marcos González,07/08,Chile,3277,CDUC 
+"Jan 1, 2006",Free transfer,Chile,6536,CD Palestino ,28087,-,Marcos González,05/06,United States,813,Columbus 
+"Jan 1, 2005",Free transfer,Argentina,1070,CA Colón ,28087,-,Marcos González,04/05,Chile,6536,CD Palestino 
+"Jan 1, 2004",Free transfer,Chile,1037,U. de Chile ,28087,-,Marcos González,03/04,Argentina,1070,CA Colón 
+"Dec 31, 2002",End of loan,Chile,18720,Rangers ,28087,-,Marcos González,02/03,Chile,1037,U. de Chile 
+"Jan 1, 2002",Loan,Chile,1037,U. de Chile ,28087,-,Marcos González,01/02,Chile,18720,Rangers 
+"Jan 1, 1999",-,Chile,33169,Universidad B ,28087,-,Marcos González,98/99,Chile,1037,U. de Chile 
+"Feb 25, 2015",?,Cyprus,4590,Ethnikos ,39352,250 Th. €,Bouna Coundoul,14/15,South Africa,13831,Platinum Stars 
+"Jul 1, 2013",?,Cyprus,840,En. Paralimni ,39352,300 Th. €,Bouna Coundoul,13/14,Cyprus,4590,Ethnikos 
+"Aug 16, 2012",?,Finland,1102,VPS ,39352,300 Th. €,Bouna Coundoul,12/13,Cyprus,840,En. Paralimni 
+"Mar 16, 2012",-,Finland,515,Unattached ,39352,200 Th. €,Bouna Coundoul,11/12,,1102,VPS 
+"Dec 1, 2011",-,United States,623,NY Red Bulls ,39352,200 Th. €,Bouna Coundoul,11/12,,515,Unattached 
+"Jun 1, 2009",-,United States,515,Unattached ,39352,100 Th. €,Bouna Coundoul,08/09,,623,NY Red Bulls 
+"Jan 1, 2009",-,United States,1247,Colorado ,39352,100 Th. €,Bouna Coundoul,08/09,,515,Unattached 
+"Jan 1, 2005",Free transfer,United States,9771,Great Danes ,39352,-,Bouna Coundoul,04/05,United States,1247,Colorado 
+"Jan 1, 2007",-,United States,623,NY Red Bulls ,12730,400 Th. €,Peter Canero,06/07,,123,End of career 
+"Jan 1, 2006",Free transfer,Scotland,1519,Dundee United ,12730,400 Th. €,Peter Canero,05/06,United States,623,NY Red Bulls 
+"Jul 1, 2005",Free transfer,England,1003,Leicester ,12730,400 Th. €,Peter Canero,05/06,Scotland,1519,Dundee United 
+"Jan 1, 2004",360 Th. €,Scotland,2553,Kilmarnock FC ,12730,-,Peter Canero,03/04,England,1003,Leicester 
+"Jul 1, 1997",-,Scotland,9046,Kilmarnock FC U20 ,12730,-,Peter Canero,97/98,Scotland,2553,Kilmarnock FC 
+"Jan 1, 2014",Free transfer,Vietnam,42127,Quang Nam ,39355,-,Nicolás Hernández,13/14,Argentina,4557,Ferro Carril 
+"Jan 1, 2013",?,Vietnam,14157,Da Nang ,39355,-,Nicolás Hernández,12/13,Vietnam,42127,Quang Nam 
+"Jul 1, 2009",?,Costa Rica,6478,LD Alajuelense ,39355,-,Nicolás Hernández,09/10,Vietnam,14157,Da Nang 
+"Jan 1, 2009",Free transfer,United States,813,Columbus ,39355,-,Nicolás Hernández,08/09,Costa Rica,6478,LD Alajuelense 
+"Feb 1, 2008",Swap deal,United States,1247,Colorado ,39355,-,Nicolás Hernández,07/08,United States,813,Columbus 
+"Jan 1, 2006",?,Chile,9103,Cobreloa ,39355,-,Nicolás Hernández,05/06,United States,1247,Colorado 
+"Jul 1, 2005",?,Argentina,2063,CA Huracán ,39355,-,Nicolás Hernández,05/06,Chile,9103,Cobreloa 
+"Jul 1, 2003",?,Argentina,8413,San Martín de Mendoza ,39355,-,Nicolás Hernández,03/04,Argentina,2063,CA Huracán 
+"Jul 1, 2002",?,Italy,2239,Cremonese ,39355,-,Nicolás Hernández,02/03,Argentina,8413,San Martín de Mendoza 
+"Jan 1, 2002",?,Argentina,1070,CA Colón ,39355,-,Nicolás Hernández,01/02,Italy,2239,Cremonese 
+"Jul 1, 2000",?,Argentina,4557,Ferro Carril ,39355,-,Nicolás Hernández,00/01,Argentina,1070,CA Colón 
+"Jan 1, 1998",-,Argentina,20186,Oeste U19 ,39355,-,Nicolás Hernández,97/98,Argentina,4557,Ferro Carril 
+"Jan 1, 2016",Free transfer,United States,8816,FC Dallas	 ,39356,250 Th. €,Stephen Keel,15/16,,75,Unknown 
+"Dec 14, 2012",Free transfer,United States,623,NY Red Bulls ,39356,300 Th. €,Stephen Keel,12/13,United States,8816,FC Dallas	 
+"Mar 1, 2011",-,United States,515,Unattached ,39356,100 Th. €,Stephen Keel,10/11,,623,NY Red Bulls 
+"Mar 1, 2009",?,United States,1247,Colorado ,39356,-,Stephen Keel,08/09,United States,4291,Timbers 
+"Dec 31, 2006",End of loan,United States,9636,Sounders FC	 ,39356,-,Stephen Keel,06/07,United States,1247,Colorado 
+"Jul 1, 2006",Loan,United States,1247,Colorado ,39356,-,Stephen Keel,06/07,United States,9636,Sounders FC	 
+"Jan 1, 2005",?,United States,9783,Demon Deacons ,39356,-,Stephen Keel,04/05,United States,1247,Colorado 
+"Dec 31, 2003",End of loan,United States,9727,IMG Bradenton ,39356,-,Stephen Keel,03/04,United States,9783,Demon Deacons 
+"Jul 1, 2003",Loan,United States,9783,Demon Deacons ,39356,-,Stephen Keel,03/04,United States,9727,IMG Bradenton 
+"Nov 1, 2006",-,Croatia,515,Unattached ,27069,50 Th. €,Leonard Bisaku,06/07,,2811,Spansko 
+"Jul 1, 2006",-,United States,813,Columbus ,27069,50 Th. €,Leonard Bisaku,06/07,,515,Unattached 
+"Apr 1, 2006",?,Bosnia-Herzegovina,1014,HSK Posusje ,27069,50 Th. €,Leonard Bisaku,05/06,United States,813,Columbus 
+"Jan 1, 2004",Free transfer,"Korea, South",3610,Seongnam ,27069,-,Leonard Bisaku,03/04,Croatia,144,HNK Rijeka 
+"Jan 1, 2003",350 Th. €,Croatia,485,Hrv Dragovoljac ,27069,-,Leonard Bisaku,02/03,"Korea, South",3610,Seongnam 
+"Jan 1, 2001",Free transfer,Croatia,2362,Slaven Belupo ,27069,-,Leonard Bisaku,00/01,Croatia,485,Hrv Dragovoljac 
+"Jan 1, 1999",?,Croatia,314,Cibalia ,27069,-,Leonard Bisaku,98/99,Croatia,2362,Slaven Belupo 
+"Jan 1, 1998",Free transfer,Croatia,447,Hajduk Split ,27069,-,Leonard Bisaku,97/98,Croatia,314,Cibalia 
+"Jun 1, 1996",-,Croatia,11032,Hajduk U19 ,27069,-,Leonard Bisaku,95/96,Croatia,447,Hajduk Split 
+"Aug 24, 2012",-,United States,27768,Minnesota Utd. ,39360,75 Th. €,Daniel Wasson,12/13,,515,Unattached 
+"Mar 31, 2010",-,United States,515,Unattached ,39360,-,Daniel Wasson,09/10,,27768,Minnesota Stars 
+"Jul 1, 2009",-,Germany,890,Osnabrück II ,39360,-,Daniel Wasson,09/10,,515,Unattached 
+"Jul 1, 2008",Free transfer,Germany,247,SV Meppen ,39360,-,Daniel Wasson,08/09,Germany,890,Osnabrück II 
+"Jan 1, 2008",-,Germany,515,Unattached ,39360,-,Daniel Wasson,07/08,,247,SV Meppen 
+"Jul 1, 2007",-,United States,1247,Colorado ,39360,-,Daniel Wasson,07/08,,515,Unattached 
+"Jan 1, 2006",draft,United States,9766,Tulsa Hurricane ,39360,-,Daniel Wasson,05/06,United States,1247,Colorado 
+"Mar 1, 2007",-,United States,1247,Colorado ,7619,"2,00 Mill. €",Aitor Karanka,06/07,,123,End of career 
+"Apr 1, 2006",Free transfer,Spain,621,Athletic Bilbao ,7619,"2,00 Mill. €",Aitor Karanka,05/06,United States,1247,Colorado 
+"Jul 1, 2002",?,Spain,418,Real Madrid ,7619,-,Aitor Karanka,02/03,Spain,621,Athletic Bilbao 
+"Jul 1, 1997",?,Spain,621,Athletic Bilbao ,7619,-,Aitor Karanka,97/98,Spain,418,Real Madrid 
+"Jul 1, 1993",-,Spain,6688,Bilbao Athletic ,7619,-,Aitor Karanka,93/94,Spain,621,Athletic Bilbao 
+"Jul 1, 1992",?,Spain,8881,Alavés Youth ,7619,-,Aitor Karanka,92/93,Spain,6688,Bilbao Athletic 
+"Nov 1, 2009",-,United States,16905,Austin Aztex ,39884,-,Kyle Brown,09/10,,515,Unattached 
+"Feb 1, 2009",-,United States,515,Unattached ,39884,-,Kyle Brown,08/09,,16905,Austin Aztex 
+"Dec 1, 2008",-,United States,9168,Houston ,39884,-,Kyle Brown,08/09,,515,Unattached 
+"Jan 1, 2008",trade,United States,6643,Salt Lake ,39884,-,Kyle Brown,07/08,United States,9168,Houston 
+"Mar 1, 2007",Free transfer,United States,626,Revolution ,39884,-,Kyle Brown,06/07,United States,6643,Salt Lake 
+"Jan 1, 2006",Free transfer,United States,432,Chicago ,39884,-,Kyle Brown,05/06,United States,626,Revolution 
+"Jan 1, 2005",trade,United States,9726,Boulder Rapids ,39884,-,Kyle Brown,04/05,United States,432,Chicago 
+"Jan 1, 2004",trade,United States,9765,Texas Spurs ,39884,-,Kyle Brown,03/04,United States,9726,Boulder Rapids 
+"Jan 1, 2003",trade,United States,9766,Tulsa Hurricane ,39884,-,Kyle Brown,02/03,United States,9765,Texas Spurs 
+"Jul 1, 2009",-,United States,4303,Charlotte ,142285,-,Robert Ssejjemba,09/10,,123,End of career 
+"Jul 1, 2008",?,United States,16931,Richmond Kicker ,142285,-,Robert Ssejjemba,08/09,United States,4303,Charlotte 
+"Jul 1, 2007",?,United States,2440,DC United ,142285,-,Robert Ssejjemba,07/08,United States,16931,Richmond Kicker 
+"Jul 1, 2006",?,United States,16931,Richmond Kicker ,142285,-,Robert Ssejjemba,06/07,United States,2440,DC United 
+"Jul 1, 2005",?,United States,18840,Kalamazoo ,142285,-,Robert Ssejjemba,05/06,United States,16931,Richmond Kicker 
+"Jan 1, 2008",trade,United States,16885,Harrisburg City ,39888,-,Jani Galik,07/08,United States,9727,IMG Bradenton 
+"Apr 1, 2006",trade,United States,626,Revolution ,39888,-,Jani Galik,05/06,United States,16885,Harrisburg City 
+"Jan 1, 2006",draft,United States,9727,IMG Bradenton ,39888,-,Jani Galik,05/06,United States,626,Revolution 
+"Jan 1, 2004",trade,United States,2572,F. Atlantic Owl ,39888,-,Jani Galik,03/04,United States,9727,IMG Bradenton 
+"Jan 16, 2015",?,England,289,Sunderland ,39378,"3,50 Mill. €",Jozy Altidore,14/15,United States,11141,Toronto 
+"Jul 9, 2013","10,00 Mill. €",Netherlands,1090,AZ Alkmaar ,39378,"5,00 Mill. €",Jozy Altidore,13/14,England,289,Sunderland 
+"Jul 1, 2011","1,50 Mill. €",Spain,1050,Villarreal CF ,39378,"1,70 Mill. €",Jozy Altidore,11/12,Netherlands,1090,AZ Alkmaar 
+"Jun 30, 2011",End of loan,Turkey,20,Bursaspor ,39378,"2,20 Mill. €",Jozy Altidore,10/11,Spain,1050,Villarreal CF 
+"Jan 31, 2011",Loan,Spain,1050,Villarreal CF ,39378,"2,50 Mill. €",Jozy Altidore,10/11,Turkey,20,Bursaspor 
+"Jun 30, 2010",End of loan,England,3008,Hull City ,39378,"3,00 Mill. €",Jozy Altidore,09/10,Spain,1050,Villarreal CF 
+"Aug 6, 2009",Loan,Spain,1050,Villarreal CF ,39378,"2,00 Mill. €",Jozy Altidore,09/10,England,3008,Hull City 
+"Jun 30, 2009",End of loan,Spain,134,Xerez CD ,39378,"3,00 Mill. €",Jozy Altidore,08/09,Spain,1050,Villarreal CF 
+"Jan 28, 2009",Loan,Spain,1050,Villarreal CF ,39378,"3,00 Mill. €",Jozy Altidore,08/09,Spain,134,Xerez CD 
+"Jul 1, 2008","6,50 Mill. €",United States,623,NY Red Bulls ,39378,"1,75 Mill. €",Jozy Altidore,08/09,Spain,1050,Villarreal CF 
+"Jan 1, 2006",-,United States,25940,NY RB Academy ,39378,-,Jozy Altidore,05/06,United States,623,NY Red Bulls 
+"Jan 1, 2013",?,United States,31068,OC Blues FC ,39379,-,David Arvizu,12/13,,75,Unknown 
+"Jul 26, 2012",Free transfer,United States,36129,Fullerton ,39379,-,David Arvizu,12/13,United States,31068,OC Blues FC 
+"Feb 1, 2012",?,United States,515,Unattached ,39379,-,David Arvizu,11/12,,36129,Fullerton 
+"Nov 29, 2007",-,United States,6642,Chivas USA ,39379,-,David Arvizu,07/08,,515,Unattached 
+"Jan 1, 2007",Swap deal,United States,623,NY Red Bulls ,39379,-,David Arvizu,06/07,United States,6642,Chivas USA 
+"Feb 8, 2006",Free transfer,United States,9727,IMG Bradenton ,39379,-,David Arvizu,05/06,United States,623,NY Red Bulls 
+"Feb 1, 2008",-,United States,623,NY Red Bulls ,39387,-,Elie Ikangu,07/08,,515,Unattached 
+"Jan 1, 2006",?,England,1089,Darlington ,39387,-,Elie Ikangu,05/06,United States,623,NY Red Bulls 
+"Jan 1, 2005",Free transfer,France,738,AC Le Havre ,39387,-,Elie Ikangu,04/05,England,1089,Darlington 
+"Jan 1, 2012",-,United States,623,NY Red Bulls ,9210,550 Th. €,Carl Robinson,11/12,,123,End of career 
+"Mar 1, 2010",Free transfer,United States,11141,Toronto ,9210,650 Th. €,Carl Robinson,09/10,United States,623,NY Red Bulls 
+"Jan 1, 2007",Free transfer,England,1123,Norwich ,9210,650 Th. €,Carl Robinson,06/07,United States,11141,Toronto 
+"Jan 1, 2006",75 Th. €,England,289,Sunderland ,9210,750 Th. €,Carl Robinson,05/06,England,1123,Norwich 
+"Apr 1, 2004",Free transfer,England,1020,Portsmouth FC ,9210,-,Carl Robinson,03/04,England,289,Sunderland 
+"Feb 1, 2004",End of loan,England,350,Sheffield Utd. ,9210,-,Carl Robinson,03/04,England,1020,Portsmouth FC 
+"Jan 1, 2004",Loan,England,1020,Portsmouth FC ,9210,-,Carl Robinson,03/04,England,350,Sheffield Utd. 
+"Dec 1, 2003",End of loan,England,1194,Rotherham ,9210,-,Carl Robinson,03/04,England,1020,Portsmouth FC 
+"Sep 1, 2003",Loan,England,1020,Portsmouth FC ,9210,-,Carl Robinson,03/04,England,1194,Rotherham 
+"May 1, 2003",End of loan,England,899,Walsall FC ,9210,-,Carl Robinson,02/03,England,1020,Portsmouth FC 
+"Mar 1, 2003",Loan,England,1020,Portsmouth FC ,9210,-,Carl Robinson,02/03,England,899,Walsall FC 
+"Feb 1, 2003",End of loan,England,1035,Sheff Wed ,9210,-,Carl Robinson,02/03,England,1020,Portsmouth FC 
+"Jan 1, 2003",Loan,England,1020,Portsmouth FC ,9210,-,Carl Robinson,02/03,England,1035,Sheff Wed 
+"Aug 1, 2002",Free transfer,England,543,Wolves ,9210,-,Carl Robinson,02/03,England,1020,Portsmouth FC 
+"May 1, 1996",End of loan,England,3054,Shrewsbury Town ,9210,-,Carl Robinson,95/96,England,543,Wolves 
+"Jul 1, 1995",-,England,12801,Wolves U18 ,9210,-,Carl Robinson,95/96,England,543,Wolves 
+"Jan 1, 2015",-,United States,4291,Timbers ,39391,250 Th. €,Danny O'Rourke,14/15,United States,46719,Port. Timbers 2 
+"May 27, 2014",-,United States,515,Unattached ,39391,250 Th. €,Danny O'Rourke,13/14,,4291,Timbers 
+"Nov 22, 2013",-,United States,813,Columbus ,39391,250 Th. €,Danny O'Rourke,13/14,,515,Unattached 
+"Apr 1, 2007",Swap deal,United States,11141,Toronto ,39391,-,Danny O'Rourke,06/07,United States,813,Columbus 
+"Dec 1, 2006",Free transfer,United States,623,NY Red Bulls ,39391,-,Danny O'Rourke,06/07,Canada,11141,Toronto 
+"Mar 1, 2006",Swap deal,United States,9168,Houston ,39391,-,Danny O'Rourke,05/06,United States,623,NY Red Bulls 
+"Dec 1, 2005",?,United States,218,Quakes ,39391,-,Danny O'Rourke,05/06,United States,9168,Houston 
+"Jan 14, 2005",draft,United States,9747,Indiana Hoosier ,39391,-,Danny O'Rourke,04/05,United States,218,Quakes 
+"Dec 18, 2014",Draft,United States,1247,Colorado ,39393,450 Th. €,Marvell Wynne,14/15,United States,218,Quakes 
+"Mar 25, 2010",Swap deal,United States,11141,Toronto ,39393,150 Th. €,Marvell Wynne,09/10,United States,1247,Colorado 
+"Apr 17, 2007",Swap deal,United States,623,NY Red Bulls ,39393,-,Marvell Wynne,06/07,United States,11141,Toronto 
+"Jan 20, 2006",Draft,United States,3227,UCLA Bruins ,39393,-,Marvell Wynne,05/06,United States,623,NY Red Bulls 
+"Mar 1, 2007",Free transfer,United States,6643,Salt Lake ,39397,-,Adam Acosta,06/07,United States,9779,University of Redlands 
+"Jan 1, 2006",Free transfer,United States,9779,University of Redlands ,39397,-,Adam Acosta,05/06,United States,6643,Salt Lake 
+"Jul 1, 2016",Free transfer,New Zealand,34359,Glenfield ,72678,-,Jarrod Smith,16/17,New Zealand,30861,Forest Hill M. 
+"Jul 1, 2015",Free transfer,New Zealand,18385,Team Wellington ,72678,-,Jarrod Smith,15/16,New Zealand,34359,Glenfield 
+"Jul 1, 2014",Free transfer,New Zealand,26267,Napier City R. ,72678,150 Th. €,Jarrod Smith,14/15,New Zealand,18385,Team Wellington 
+"Jul 1, 2013",Free transfer,New Zealand,11319,Hawke’s Bay ,72678,150 Th. €,Jarrod Smith,13/14,New Zealand,26267,Napier City R. 
+"Jul 1, 2012",Free transfer,New Zealand,30766,Lower Hutt City AFC ,72678,-,Jarrod Smith,12/13,New Zealand,11319,Hawke’s Bay 
+"Jan 1, 2012",Free transfer,Sweden,8882,Ljungskile SK ,72678,250 Th. €,Jarrod Smith,11/12,New Zealand,30766,Lower Hutt City AFC 
+"Mar 1, 2011",Free transfer,New Zealand,11319,Hawke’s Bay ,72678,250 Th. €,Jarrod Smith,10/11,Sweden,8882,Ljungskile SK 
+"Jul 1, 2010",-,New Zealand,515,Unattached ,72678,200 Th. €,Jarrod Smith,10/11,,11319,Hawke’s Bay 
+"Jul 1, 2009",-,United States,9636,Sounders FC	 ,72678,200 Th. €,Jarrod Smith,09/10,,515,Unattached 
+"Nov 1, 2008",Free transfer,United States,11141,Toronto ,72678,200 Th. €,Jarrod Smith,08/09,United States,9636,Sounders FC	 
+"Dec 10, 2014",draft,United States,6321,Vancouver ,39399,300 Th. €,Mehdi Ballouchy,14/15,United States,40058,NYC FC 
+"Dec 18, 2013",Free transfer,United States,218,Quakes ,39399,300 Th. €,Mehdi Ballouchy,13/14,United States,6321,Vancouver 
+"Jul 30, 2012",Swap deal,United States,623,NY Red Bulls ,39399,300 Th. €,Mehdi Ballouchy,12/13,United States,218,Quakes 
+"Sep 14, 2010",Swap deal,United States,1247,Colorado ,39399,175 Th. €,Mehdi Ballouchy,10/11,United States,623,NY Red Bulls 
+"Jul 16, 2007",Swap deal,United States,6643,Salt Lake ,39399,-,Mehdi Ballouchy,07/08,United States,1247,Colorado 
+"Jan 1, 2006",?,United States,9726,Boulder Rapids ,39399,-,Mehdi Ballouchy,05/06,United States,6643,Salt Lake 
+"Jan 1, 2005",Free transfer,United States,9761,Santa Clara University ,39399,-,Mehdi Ballouchy,04/05,United States,9726,Boulder Rapids 
+"Jan 1, 2004",Free transfer,United States,9738,CU Bluejays ,39399,-,Mehdi Ballouchy,03/04,United States,9761,Santa Clara University 
+"Jan 1, 2001",Free transfer,Morocco,2068,Raja Casablanca ,39399,-,Mehdi Ballouchy,00/01,United States,9738,CU Bluejays 
+"Jan 1, 2016",Free transfer,United States,4078,Montreal ,25064,400 Th. €,Kenny Cooper Jr.,15/16,,75,Unknown 
+"Apr 13, 2015",Free transfer,United States,9636,Sounders FC	 ,25064,400 Th. €,Kenny Cooper Jr.,14/15,United States,4078,Montreal 
+"Dec 13, 2013",Swap deal,United States,8816,FC Dallas	 ,25064,650 Th. €,Kenny Cooper Jr.,13/14,United States,9636,Sounders FC	 
+"Feb 4, 2013",Swap deal,United States,623,NY Red Bulls ,25064,650 Th. €,Kenny Cooper Jr.,12/13,United States,8816,FC Dallas	 
+"Jan 1, 2012",Swap deal,United States,4291,Timbers ,25064,750 Th. €,Kenny Cooper Jr.,11/12,United States,623,NY Red Bulls 
+"Jan 1, 2011",Free transfer,Germany,72,1860 Munich ,25064,"1,00 Mill. €",Kenny Cooper Jr.,10/11,United States,4291,Timbers 
+"May 1, 2010",End of loan,England,2262,Plymouth Argyle ,25064,"1,00 Mill. €",Kenny Cooper Jr.,09/10,Germany,72,1860 Munich 
+"Jan 1, 2010",Loan,Germany,72,1860 Munich ,25064,"1,20 Mill. €",Kenny Cooper Jr.,09/10,England,2262,Plymouth Argyle 
+"Aug 1, 2009",500 Th. €,United States,8816,FC Dallas	 ,25064,75 Th. €,Kenny Cooper Jr.,09/10,Germany,72,1860 Munich 
+"Jan 1, 2006",?,England,9251,Man Utd U21 ,25064,75 Th. €,Kenny Cooper Jr.,05/06,United States,8816,FC Dallas	 
+"Jun 30, 2005",End of loan,Portugal,2990,Coimbra ,25064,75 Th. €,Kenny Cooper Jr.,04/05,England,9251,Man Utd U21 
+"Jan 1, 2005",Loan,England,9251,Man Utd U21 ,25064,75 Th. €,Kenny Cooper Jr.,04/05,Portugal,2990,Coimbra 
+"Jul 1, 2004",-,England,5242,Man Utd U18 ,25064,-,Kenny Cooper Jr.,04/05,England,9251,Man Utd U21 
+"Jan 1, 2004",Free transfer,United States,1196,Dallas Juniors ,25064,-,Kenny Cooper Jr.,03/04,England,5242,Man Utd U18 
+"Nov 1, 2009",-,United States,13632,Real Maryland FC ,39403,-,Jeff Carroll,09/10,,515,Unattached 
+"Apr 1, 2009",-,United States,515,Unattached ,39403,-,Jeff Carroll,08/09,,13632,Real Maryland FC 
+"Nov 1, 2008",-,United States,2440,DC United ,39403,-,Jeff Carroll,08/09,,515,Unattached 
+"Jan 1, 2006",draft,United States,9762,St. John´s University ,39403,-,Jeff Carroll,05/06,United States,2440,DC United 
+"Jan 1, 2014",Free transfer,Thailand,25446,Pattaya Utd ,39407,-,Rod Dyachenko,13/14,Thailand,25450,Samutsongkhram 
+"Jul 1, 2012",?,Thailand,25450,Samutsongkhram ,39407,-,Rod Dyachenko,12/13,Thailand,25446,Pattaya Utd 
+"Dec 1, 2010",?,United States,13632,Real Maryland FC ,39407,-,Rod Dyachenko,10/11,Thailand,25450,Samutsongkhram 
+"Jun 1, 2010",-,United States,12667,Baltimore Blast ,39407,-,Rod Dyachenko,09/10,United States,13632,Real Maryland FC 
+"Nov 1, 2009",Free transfer,United States,4314,Minnesota Thunder ,39407,-,Rod Dyachenko,09/10,United States,12667,Baltimore Blast 
+"Feb 1, 2009",Free transfer,United States,2440,DC United ,39407,-,Rod Dyachenko,08/09,United States,4314,Minnesota Thunder 
+"Feb 1, 2007",trade,United States,11141,Toronto ,39407,-,Rod Dyachenko,06/07,United States,2440,DC United 
+"Dec 1, 2006",trade,United States,2440,DC United ,39407,-,Rod Dyachenko,06/07,Canada,11141,Toronto 
+"Jan 1, 2006",draft,United States,9822,University of Nevada/Las Vegas ,39407,-,Rod Dyachenko,05/06,United States,2440,DC United 
+"Dec 1, 2013",?,Argentina,12677,Acassuso CF ,39410,-,Lucio Filomeno,13/14,,123,End of career 
+"Jul 1, 2012",-,Argentina,10233,Rafaela ,39410,500 Th. €,Lucio Filomeno,12/13,Argentina,12677,Acassuso CF 
+"Jul 1, 2011",Free transfer,Greece,1091,PAOK Saloniki ,39410,"1,25 Mill. €",Lucio Filomeno,11/12,Argentina,10233,Rafaela 
+"Jul 1, 2009",Free transfer,Greece,6676,Ast. Tripolis ,39410,"2,40 Mill. €",Lucio Filomeno,09/10,Greece,1091,PAOK Saloniki 
+"Jul 1, 2007",Free transfer,Argentina,10534,Nueva Chicago ,39410,-,Lucio Filomeno,07/08,Greece,6676,Ast. Tripolis 
+"Jun 1, 2006",Free transfer,United States,2440,DC United ,39410,-,Lucio Filomeno,05/06,Argentina,10534,Nueva Chicago 
+"Sep 1, 2005",Free transfer,"Korea, South",2582,Busan ,39410,-,Lucio Filomeno,05/06,United States,2440,DC United 
+"Jan 1, 2005",Free transfer,Mexico,4774,Jaguares ,39410,-,Lucio Filomeno,04/05,"Korea, South",2582,Busan 
+"Jan 1, 2003",Free transfer,Argentina,1775,San Lorenzo ,39410,-,Lucio Filomeno,02/03,Mexico,4774,Jaguares 
+"Jul 1, 1999",Free transfer,Italy,5380,Inter ,39410,-,Lucio Filomeno,99/00,Argentina,1775,San Lorenzo 
+"Jul 1, 1998",Free transfer,Italy,10959,Udinese U19 ,39410,-,Lucio Filomeno,98/99,Italy,5380,Inter 
+"Jul 1, 1997",Free transfer,Argentina,15538,Nueva Chicago U19 ,39410,-,Lucio Filomeno,97/98,Italy,10959,Udinese U19 
+"Dec 1, 2010",-,United States,6321,Vancouver ,39411,325 Th. €,Willis Forko,10/11,,515,Unattached 
+"Aug 1, 2010",?,Norway,501,FK Bodø/Glimt ,39411,325 Th. €,Willis Forko,10/11,United States,6321,Vancouver 
+"Jan 1, 2008",?,Canada,6321,Vancouver ,39411,-,Willis Forko,07/08,Norway,501,FK Bodø/Glimt 
+"Jul 1, 2007",Free transfer,United States,6643,Salt Lake ,39411,-,Willis Forko,07/08,Canada,6321,Vancouver 
+"Jan 1, 2006",Free transfer,United States,9773,UConn Huskies ,39411,-,Willis Forko,05/06,United States,6643,Salt Lake 
+"Jan 1, 2003",Free transfer,United States,9781,Univ. of SC ,39411,-,Willis Forko,02/03,United States,9773,UConn Huskies 
+"Jul 1, 2016",Free transfer,Germany,166,VfB Oldenburg ,2549,100 Th. €,Maycoll Canizales-Smith,16/17,Germany,6776,SSV Jeddeloh 
+"Jul 25, 2013",Free transfer,Germany,10589,SV Roßbach/V. ,2549,-,Maycoll Canizales-Smith,13/14,Germany,166,VfB Oldenburg 
+"Jul 1, 2012",-,Germany,515,Unattached ,2549,100 Th. €,Maycoll Canizales-Smith,12/13,,10589,SV Roßbach/V. 
+"Jan 1, 2012",-,Germany,92,SC Fortuna Köln ,2549,100 Th. €,Maycoll Canizales-Smith,11/12,,515,Unattached 
+"Jul 1, 2010",Free transfer,Germany,215,Bonner SC ,2549,100 Th. €,Maycoll Canizales-Smith,10/11,Germany,92,SC Fortuna Köln 
+"Jan 1, 2008",Free transfer,United States,11141,Toronto ,2549,150 Th. €,Maycoll Canizales-Smith,07/08,Germany,215,Bonner SC 
+"Apr 1, 2007",Free transfer,Germany,115,FC Oberneuland ,2549,150 Th. €,Maycoll Canizales-Smith,06/07,United States,11141,Toronto 
+"Jul 1, 2006",Free transfer,Germany,1065,Hannover 96 II ,2549,150 Th. €,Maycoll Canizales-Smith,06/07,Germany,115,FC Oberneuland 
+"Jul 1, 2004",Free transfer,Germany,87,W. Bremen II ,2549,-,Maycoll Canizales-Smith,04/05,Germany,1065,Hannover 96 II 
+"Jul 1, 2001",Free transfer,Canada,670,Toronto Lynx ,2549,-,Maycoll Canizales-Smith,01/02,Germany,87,W. Bremen II 
+"Jan 23, 2015",draft,United States,218,Quakes ,39415,200 Th. €,Atiba Harris,14/15,United States,8816,FC Dallas	 
+"Jan 7, 2014",Swap deal,United States,1247,Colorado ,39415,200 Th. €,Atiba Harris,13/14,United States,218,Quakes 
+"Jan 1, 2013",Swap deal,United States,6321,Vancouver ,39415,200 Th. €,Atiba Harris,12/13,United States,1247,Colorado 
+"Nov 24, 2010",draft,United States,8816,FC Dallas	 ,39415,175 Th. €,Atiba Harris,10/11,United States,6321,Vancouver 
+"Jul 17, 2009",Swap deal,United States,6642,Chivas USA ,39415,-,Atiba Harris,09/10,United States,8816,FC Dallas	 
+"Jan 1, 2008",Swap deal,United States,6643,Salt Lake ,39415,-,Atiba Harris,07/08,United States,6642,Chivas USA 
+"Jul 1, 2005",Free transfer,Spain,2687,Cádiz CF ,39415,-,Atiba Harris,05/06,United States,6643,Salt Lake 
+"Mar 24, 2016",?,"Korea, South",46292,Seoul E-Land FC ,39418,350 Th. €,Ryan Johnson,15/16,United States,51786,Rayo OKC 
+"Jan 5, 2015",Free transfer,China,9982,HN Jianye ,39418,350 Th. €,Ryan Johnson,14/15,"Korea, South",46292,Seoul E-Land FC 
+"Feb 27, 2014",Free transfer,United States,4291,Timbers ,39418,500 Th. €,Ryan Johnson,13/14,China,9982,HN Jianye 
+"Jan 1, 2013",Swap deal,United States,11141,Toronto ,39418,500 Th. €,Ryan Johnson,12/13,United States,4291,Timbers 
+"Jul 1, 2011",Swap deal,United States,218,Quakes ,39418,400 Th. €,Ryan Johnson,11/12,United States,11141,Toronto 
+"Jul 1, 2007",Free transfer,Sweden,1236,Östers IF ,39418,-,Ryan Johnson,07/08,United States,218,Quakes 
+"Mar 1, 2007",?,United States,432,Chicago ,39418,-,Ryan Johnson,06/07,Sweden,1236,Östers IF 
+"Jul 1, 2006",trade,United States,6643,Salt Lake ,39418,-,Ryan Johnson,06/07,United States,432,Chicago 
+"Jan 1, 2006",draft,United States,9726,Boulder Rapids ,39418,-,Ryan Johnson,05/06,United States,6643,Salt Lake 
+"Jan 1, 2005",trade,United States,9733,Cape Cod Crusaders ,39418,-,Ryan Johnson,04/05,United States,9726,Boulder Rapids 
+"Jan 1, 2002",trade,United States,9754,Oregon State ,39418,-,Ryan Johnson,01/02,United States,9733,Cape Cod Crusaders 
+"Dec 1, 2011",-,United States,2440,DC United ,39422,125 Th. €,Devon McTavish,11/12,,123,End of career 
+"Jan 1, 2006",?,United States,9786,WV Mountaineers ,39422,-,Devon McTavish,05/06,United States,2440,DC United 
+"Jul 1, 2015",Free transfer,Guatemala,19006,Antigua GFC ,19967,500 Th. €,Matías Donnet,15/16,,75,Unknown 
+"Oct 9, 2014",-,Guatemala,515,Unattached ,19967,500 Th. €,Matías Donnet,14/15,,19006,Antigua GFC 
+"Jul 1, 2013",?,Argentina,7097,Union Santa Fe ,19967,500 Th. €,Matías Donnet,13/14,,515,Unattached 
+"Dec 31, 2011",End of loan,Paraguay,629,Olimpia ,19967,500 Th. €,Matías Donnet,11/12,Argentina,7097,Union Santa Fe 
+"Jan 1, 2011",Loan,Argentina,7097,Union Santa Fe ,19967,500 Th. €,Matías Donnet,10/11,Paraguay,629,Olimpia 
+"Jul 1, 2009",Free transfer,Argentina,1286,Newell's ,19967,"1,20 Mill. €",Matías Donnet,09/10,Argentina,7097,Union Santa Fe 
+"Jul 1, 2007",Free transfer,Argentina,2417,Belgrano ,19967,-,Matías Donnet,07/08,Argentina,1286,Newell's 
+"Jan 1, 2007",Free transfer,United States,2440,DC United ,19967,-,Matías Donnet,06/07,Argentina,2417,Belgrano 
+"Jul 1, 2006",700 Th. €,Argentina,830,CA Banfield ,19967,-,Matías Donnet,06/07,United States,2440,DC United 
+"Jul 1, 2005",Free transfer,Argentina,189,Boca Juniors ,19967,-,Matías Donnet,05/06,Argentina,830,CA Banfield 
+"Jan 1, 2002",Free transfer,Italy,607,AC Venezia 1907 ,19967,-,Matías Donnet,01/02,Argentina,189,Boca Juniors 
+"Jul 1, 2001","1,00 Mill. €",Argentina,7097,Union Santa Fe ,19967,-,Matías Donnet,01/02,Italy,607,AC Venezia 1907 
+"Jan 1, 1998",-,Argentina,20044,Union U19 ,19967,-,Matías Donnet,97/98,Argentina,7097,Union Santa Fe 
+"Apr 1, 2010",-,United States,515,Unattached ,39851,-,Julian Nash,09/10,,27903,Bay Area Amb. 
+"Jan 1, 2006",-,United States,218,Quakes ,39851,-,Julian Nash,05/06,United States,9168,Houston 
+"Feb 1, 2005",Swap deal,United States,8816,FC Dallas	 ,39851,-,Julian Nash,04/05,United States,218,Quakes 
+"Jan 1, 2005",draft,United States,9738,CU Bluejays ,39851,-,Julian Nash,04/05,United States,8816,FC Dallas	 

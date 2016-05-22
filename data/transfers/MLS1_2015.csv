@@ -1,352 +1,657 @@
 date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
-"Aug 13, 2015",,-,United States,515,Unattached ,26457,"2,00 Mill. €",Juan Manuel Martínez,15/16,,6643,Salt Lake 
-"Jul 17, 2015",,-,Argentina,189,Boca Juniors ,26457,"2,00 Mill. €",Juan Manuel Martínez,15/16,,515,Unattached 
-"Jan 10, 2013",,"2,45 Mill. €",Brazil,199,Corinthians ,26457,"3,50 Mill. €",Juan Manuel Martínez,12/13,Argentina,189,Boca Juniors 
-"Jul 14, 2012",,"2,40 Mill. €",Argentina,1029,CA Vélez ,26457,"3,50 Mill. €",Juan Manuel Martínez,12/13,Brazil,199,Corinthians 
-"Jun 30, 2008",,End of loan,Saudi Arabia,9840,Shabab ,26457,-,Juan Manuel Martínez,07/08,Argentina,1029,CA Vélez 
-"Jul 1, 2007",,Loan,Argentina,1029,CA Vélez ,26457,-,Juan Manuel Martínez,07/08,Saudi Arabia,9840,Shabab 
-"Jun 30, 2007",,End of loan,Colombia,13379,Cúcuta  ,26457,-,Juan Manuel Martínez,06/07,Argentina,1029,CA Vélez 
-"Jan 1, 2007",,Loan,Argentina,1029,CA Vélez ,26457,-,Juan Manuel Martínez,06/07,Colombia,13379,Cúcuta  
-"Jun 30, 2006",,End of loan,Argentina,1030,Argentinos ,26457,-,Juan Manuel Martínez,05/06,Argentina,1029,CA Vélez 
-"Jul 1, 2005",,Loan,Argentina,1029,CA Vélez ,26457,-,Juan Manuel Martínez,05/06,Argentina,1030,Argentinos 
-"Jul 1, 2003",,-,Argentina,15113,CA Vélez U20 ,26457,-,Juan Manuel Martínez,03/04,Argentina,1029,CA Vélez 
-"Feb 1, 2016",,"2,70 Mill. â‚¬",Switzerland,26,FC Basel ,32704,"3,50 Mill. â‚¬",Shkelzen Gashi,15/16,United States,1247,Colorado 
-"Jul 1, 2014",,"1,50 Mill. â‚¬",Switzerland,504,Grasshoppers ,32704,"2,00 Mill. â‚¬",Shkelzen Gashi,14/15,Switzerland,26,FC Basel 
-"Jul 1, 2012",,Free transfer,Switzerland,116,FC Aarau ,32704,650 Th. â‚¬,Shkelzen Gashi,12/13,Switzerland,504,Grasshoppers 
-"Jan 1, 2012",,Free transfer,Switzerland,625,NeuchÃ¢tel Xamax ,32704,300 Th. â‚¬,Shkelzen Gashi,11/12,Switzerland,116,FC Aarau 
-"Dec 31, 2011",,End of loan,Switzerland,116,FC Aarau ,32704,300 Th. â‚¬,Shkelzen Gashi,11/12,Switzerland,625,NeuchÃ¢tel Xamax 
-"Jan 1, 2011",,Loan fee:25 Th. â‚¬,Switzerland,625,NeuchÃ¢tel Xamax ,32704,300 Th. â‚¬,Shkelzen Gashi,10/11,Switzerland,116,FC Aarau 
-"Jan 1, 2010",,100 Th. â‚¬,Switzerland,260,FC ZÃ¼rich ,32704,500 Th. â‚¬,Shkelzen Gashi,09/10,Switzerland,625,NeuchÃ¢tel Xamax 
-"Dec 31, 2009",,End of loan,Switzerland,2047,AC Bellinzona ,32704,500 Th. â‚¬,Shkelzen Gashi,09/10,Switzerland,260,FC ZÃ¼rich 
-"Jul 1, 2008",,Loan,Switzerland,260,FC ZÃ¼rich ,32704,100 Th. â‚¬,Shkelzen Gashi,08/09,Switzerland,2047,AC Bellinzona 
-"Jun 30, 2008",,End of loan,Switzerland,1277,FC Schaffhausen ,32704,100 Th. â‚¬,Shkelzen Gashi,07/08,Switzerland,260,FC ZÃ¼rich 
-"Jan 1, 2008",,Loan,Switzerland,260,FC ZÃ¼rich ,32704,150 Th. â‚¬,Shkelzen Gashi,07/08,Switzerland,1277,FC Schaffhausen 
-"Jul 1, 2007",,-,Switzerland,5501,FC ZÃ¼rich U21 ,32704,125 Th. â‚¬,Shkelzen Gashi,07/08,Switzerland,260,FC ZÃ¼rich 
-"Jul 1, 2005",,-,Switzerland,14537,FC ZÃ¼rich U18 ,32704,-,Shkelzen Gashi,05/06,Switzerland,5501,FC ZÃ¼rich U21 
-"Jan 20, 2016",,?,Costa Rica,4720,Saprissa ,38163,550 Th. €,Christian Bolaños,15/16,United States,6321,Vancouver 
-"Sep 18, 2015",,Free transfer,Qatar,6297,Al-Gharafa ,38163,750 Th. €,Christian Bolaños,15/16,Costa Rica,4720,Saprissa 
-"Jan 6, 2015",,Free transfer,Costa Rica,18577,Cartaginés ,38163,750 Th. €,Christian Bolaños,14/15,Qatar,6297,Al-Gharafa 
-"Sep 5, 2014",,Free transfer,Denmark,190,FC Copenhagen ,38163,900 Th. €,Christian Bolaños,14/15,Costa Rica,18577,Cartaginés 
-"Aug 1, 2010",,"1,00 Mill. €",Norway,267,Start ,38163,"1,30 Mill. €",Christian Bolaños,10/11,Denmark,190,FC Copenhagen 
-"Jan 1, 2009",,400 Th. €,Denmark,173,Odense BK ,38163,500 Th. €,Christian Bolaños,08/09,Norway,267,Start 
-"Jul 1, 2007",,Free transfer,Costa Rica,4720,Saprissa ,38163,700 Th. €,Christian Bolaños,07/08,Denmark,173,Odense BK 
-"Mar 1, 2006",,Free transfer,United States,3372,Rochester ,38163,300 Th. €,Christian Bolaños,05/06,Costa Rica,4720,Saprissa 
-"Jul 1, 2004",,?,Costa Rica,4720,Saprissa ,38163,-,Christian Bolaños,04/05,United States,3372,Rochester 
-"Jul 1, 2001",,-,Costa Rica,22747,Saprissa U17 ,38163,-,Christian Bolaños,01/02,Costa Rica,4720,Saprissa 
-"Feb 24, 2016",,-,United States,515,Unattached ,52937,"4,00 Mill. €",Ilsinho,15/16,,25467,Philadelphia 
-"Jul 1, 2015",,-,Ukraine,660,Shakhtar D. ,52937,"4,00 Mill. €",Ilsinho,15/16,,515,Unattached 
-"Jan 1, 2012",,Free transfer,Brazil,17300,Desp. Brasil ,52937,"2,00 Mill. €",Ilsinho,11/12,Ukraine,660,Shakhtar D. 
-"Dec 1, 2011",,End of loan,Brazil,6600,Internacional ,52937,"3,00 Mill. €",Ilsinho,11/12,Brazil,17300,Desp. Brasil 
-"Sep 1, 2011",,Loan,Brazil,17300,Desp. Brasil ,52937,"3,00 Mill. €",Ilsinho,11/12,Brazil,6600,Internacional 
-"Aug 1, 2011",,End of loan,Brazil,585,São Paulo ,52937,"3,00 Mill. €",Ilsinho,11/12,Brazil,17300,Desp. Brasil 
-"Aug 1, 2010",,Loan,Brazil,17300,Desp. Brasil ,52937,"7,00 Mill. €",Ilsinho,10/11,Brazil,585,São Paulo 
-"Jul 1, 2010",,Free transfer,Ukraine,660,Shakhtar D. ,52937,"10,50 Mill. €",Ilsinho,10/11,Brazil,17300,Desp. Brasil 
-"Jul 1, 2007",,"10,00 Mill. €",Brazil,585,São Paulo ,52937,-,Ilsinho,07/08,Ukraine,660,Shakhtar D. 
-"Jul 1, 2006",,Free transfer,Brazil,1023,Palmeiras ,52937,-,Ilsinho,06/07,Brazil,585,São Paulo 
-"Jan 1, 2006",,-,Brazil,14807,Palmeiras B ,52937,-,Ilsinho,05/06,Brazil,1023,Palmeiras 
-"Jan 13, 2016",,Free transfer,Costa Rica,4720,Saprissa ,55194,350 Th. €,Andrés Imperiale,15/16,United States,218,Quakes 
-"Jan 1, 2015",,?,Chile,5622,UdeConce ,55194,750 Th. €,Andrés Imperiale,14/15,Costa Rica,4720,Saprissa 
-"Jan 1, 2012",,Free transfer,Cyprus,10586,Aris Limassol ,55194,750 Th. €,Andrés Imperiale,11/12,Chile,5622,UdeConce 
-"Jan 1, 2011",,?,Cyprus,3393,D. Katokopias ,55194,750 Th. €,Andrés Imperiale,10/11,Cyprus,10586,Aris Limassol 
-"Jul 1, 2010",,?,Bolivia,8056,Blooming ,55194,750 Th. €,Andrés Imperiale,10/11,Cyprus,3393,D. Katokopias 
-"Jan 1, 2010",,?,Bolivia,6985,Oriente P. ,55194,750 Th. €,Andrés Imperiale,09/10,Bolivia,8056,Blooming 
-"Feb 1, 2009",,?,Argentina,1418,CA Rosario ,55194,750 Th. €,Andrés Imperiale,08/09,Bolivia,6985,Oriente P. 
-"Dec 31, 2008",,End of loan,Argentina,12709,San Martín (T) ,55194,750 Th. €,Andrés Imperiale,08/09,Argentina,1418,CA Rosario 
-"Aug 1, 2008",,Loan,Argentina,1418,CA Rosario ,55194,"2,20 Mill. €",Andrés Imperiale,08/09,Argentina,12709,San Martín (T) 
-"Jul 1, 2005",,-,Argentina,15109,CA Rosario U19 ,55194,-,Andrés Imperiale,05/06,Argentina,1418,CA Rosario 
-"Jul 29, 2015",,Free transfer,Switzerland,434,FC Luzern ,59681,750 Th. €,Adrian Winter,15/16,United States,45604,Orlando 
-"Jul 1, 2011",,Free transfer,Switzerland,257,FC St. Gallen ,59681,450 Th. €,Adrian Winter,11/12,Switzerland,434,FC Luzern 
-"Jul 1, 2008",,250 Th. €,Switzerland,850,FC Wil 1900 ,59681,150 Th. €,Adrian Winter,08/09,Switzerland,257,FC St. Gallen 
-"Jul 1, 2007",,?,Switzerland,4806,Red Star ZH ,59681,-,Adrian Winter,07/08,Switzerland,850,FC Wil 1900 
-"Feb 4, 2016",,?,Austria,14,Austria Vienna ,62067,900 Th. €,Ola Kamara,15/16,United States,813,Columbus 
-"Dec 31, 2015",,End of loan,Norway,687,Molde FK ,62067,900 Th. €,Ola Kamara,15/16,Austria,14,Austria Vienna 
-"Jan 28, 2015",,Loan,Austria,14,Austria Vienna ,62067,600 Th. €,Ola Kamara,14/15,Norway,687,Molde FK 
-"Jan 27, 2014",,?,Austria,266,SV  Ried ,62067,"1,10 Mill. €",Ola Kamara,13/14,Austria,14,Austria Vienna 
-"Dec 31, 2013",,End of loan,Norway,2817,Strømsgodset ,62067,600 Th. €,Ola Kamara,13/14,Austria,266,SV  Ried 
-"Jul 26, 2013",,Loan,Austria,266,SV  Ried ,62067,600 Th. €,Ola Kamara,13/14,Norway,2817,Strømsgodset 
-"Jun 30, 2013",,End of loan,Germany,72,1860 Munich ,62067,600 Th. €,Ola Kamara,12/13,Austria,266,SV  Ried 
-"Jan 20, 2013",,Loan,Austria,266,SV  Ried ,62067,900 Th. €,Ola Kamara,12/13,Germany,72,1860 Munich 
-"Jan 16, 2013",,Free transfer,Norway,2817,Strømsgodset ,62067,900 Th. €,Ola Kamara,12/13,Austria,266,SV  Ried 
-"Jan 1, 2009",,?,Norway,1274,Stabaek IF ,62067,100 Th. €,Ola Kamara,08/09,Norway,2817,Strømsgodset 
-"Dec 1, 2007",,End of loan,Norway,632,Hönefoss ,62067,-,Ola Kamara,07/08,Norway,1274,Stabaek IF 
-"Jan 1, 2007",,Loan,Norway,1274,Stabaek IF ,62067,-,Ola Kamara,06/07,Norway,632,Hönefoss 
-"Jul 1, 2005",,?,Norway,30831,Frigg Oslo FK ,62067,-,Ola Kamara,05/06,Norway,1274,Stabaek IF 
-"Jan 19, 2016",,Free transfer,Spain,5648,Gimnàstic ,62683,400 Th. €,David Rocha,15/16,United States,9168,Houston 
-"Jul 1, 2013",,?,Spain,1532,Albacete ,62683,-,David Rocha,13/14,Spain,5648,Gimnàstic 
-"Jul 1, 2013",,Free transfer,Spain,1532,Albacete ,62683,-,David Rocha,13/14,Spain,5648,Gimnàstic 
-"Jul 1, 2011",,Free transfer,Spain,11602,Cacereño ,62683,-,David Rocha,11/12,Spain,1532,Albacete 
-"Jul 1, 2008",,?,Spain,7077,FC Cartagena ,62683,-,David Rocha,08/09,Spain,11602,Cacereño 
-"Jan 1, 2008",,?,Spain,1050,Villarreal CF ,62683,100 Th. €,David Rocha,07/08,Spain,7077,FC Cartagena 
-"Nov 1, 2007",,-,Spain,11972,Villarreal CF B ,62683,-,David Rocha,07/08,Spain,1050,Villarreal CF 
-"Jul 1, 2005",,?,Spain,11602,Cacereño ,62683,-,David Rocha,05/06,Spain,11972,Villarreal CF B 
-"Jul 30, 2015",,Free transfer,Tunisia,3342,Esperance ,65830,"1,10 Mill. €",Harrison Afful,15/16,United States,813,Columbus 
-"Aug 24, 2009",,300 Th. €,Ghana,9082,Fetteh Feyenoord ,65830,275 Th. €,Harrison Afful,09/10,Tunisia,3342,Esperance 
-"Jun 30, 2009",,End of loan,Ghana,502,Asante Kotoko ,65830,275 Th. €,Harrison Afful,08/09,Ghana,9082,Fetteh Feyenoord 
-"Jul 1, 2007",,Loan fee:100 Th. €,Ghana,9082,Fetteh Feyenoord ,65830,-,Harrison Afful,07/08,Ghana,502,Asante Kotoko 
-"Jul 1, 2005",,-,Netherlands,24366,Feyenoord U21 ,65830,-,Harrison Afful,05/06,Ghana,9082,Fetteh Feyenoord 
-"Aug 12, 2015",,?,Colombia,2350,Millonarios ,74182,950 Th. €,Román Torres,15/16,United States,9636,Sounders FC	 
-"Jul 16, 2012",,?,Colombia,17425,CD La Equidad ,74182,950 Th. €,Román Torres,12/13,Colombia,2350,Millonarios 
-"Dec 31, 2011",,End of loan,Colombia,8172,Atl. Nacional ,74182,750 Th. €,Román Torres,11/12,Colombia,17425,CD La Equidad 
-"Jan 1, 2011",,Loan,Colombia,17425,CD La Equidad ,74182,750 Th. €,Román Torres,10/11,Colombia,8172,Atl. Nacional 
-"Dec 31, 2010",,End of loan,Colombia,11854,Atlético Junior ,74182,750 Th. €,Román Torres,10/11,Colombia,17425,CD La Equidad 
-"Jan 1, 2010",,Loan,Colombia,17425,CD La Equidad ,74182,-,Román Torres,09/10,Colombia,11854,Atlético Junior 
-"Jan 1, 2007",,?,Colombia,17467,Cortuluá ,74182,-,Román Torres,06/07,Colombia,17425,CD La Equidad 
-"Jan 1, 2006",,?,Panama,11698,San Francisco ,74182,-,Román Torres,05/06,Colombia,17467,Cortuluá 
-"Jul 1, 2005",,?,Panama,20657,Chepo FC ,74182,-,Román Torres,05/06,Panama,11698,San Francisco 
-"Jan 20, 2016",,?,Colombia,14583,Atlético Huila ,74424,"1,20 Mill. €",Juan Ortiz,15/16,United States,8816,FC Dallas	 
-"Jan 1, 2015",,?,Colombia,2350,Millonarios ,74424,"1,20 Mill. €",Juan Ortiz,14/15,Colombia,14583,Atlético Huila 
-"Jan 1, 2011",,?,Colombia,10093,Indep. Medellín ,74424,950 Th. €,Juan Ortiz,10/11,Colombia,2350,Millonarios 
-"Jan 1, 2006",,-,Colombia,16811,Medellín U19 ,74424,-,Juan Ortiz,05/06,Colombia,10093,Indep. Medellín 
-"Aug 5, 2015",,?,Switzerland,26,FC Basel ,96740,300 Th. €,Gastón Sauro,15/16,United States,813,Columbus 
-"Jun 30, 2015",,End of loan,Italy,1627,Catania ,96740,300 Th. €,Gastón Sauro,14/15,Switzerland,26,FC Basel 
-"Aug 20, 2014",,Loan,Switzerland,26,FC Basel ,96740,750 Th. €,Gastón Sauro,14/15,Italy,1627,Catania 
-"Jul 6, 2012",,"1,15 Mill. €",Argentina,189,Boca Juniors ,96740,300 Th. €,Gastón Sauro,12/13,Switzerland,26,FC Basel 
-"Jan 1, 2009",,-,Argentina,15098,Boca U20 ,96740,-,Gastón Sauro,08/09,Argentina,189,Boca Juniors 
-"Jan 22, 2016",,?,Denmark,173,Odense BK ,99106,"1,00 Mill. €",Emil Larsen,15/16,United States,813,Columbus 
-"Jul 9, 2012",,540 Th. €,Denmark,369,Lyngby BK ,99106,900 Th. €,Emil Larsen,12/13,Denmark,173,Odense BK 
-"Jul 1, 2009",,-,Denmark,14363,Lyngby BK U19 ,99106,-,Emil Larsen,09/10,Denmark,369,Lyngby BK 
-"Jan 1, 2016",,Free transfer,Japan,6632,Kashiwa Reysol ,114202,"1,25 Mill. €",Masato Kudo,15/16,United States,6321,Vancouver 
-"Jan 1, 2009",,-,Japan,24118,Kashiwa Youth ,114202,-,Masato Kudo,08/09,Japan,6632,Kashiwa Reysol 
-"Dec 31, 2016",,End of loan,United States,8816,FC Dallas	 ,119975,500 Th. €,Carlos Lizarazo,16/17,Mexico,3711,CD Cruz Azul 
-"Feb 12, 2016",,Loan,Mexico,3711,CD Cruz Azul ,119975,650 Th. €,Carlos Lizarazo,15/16,United States,8816,FC Dallas	 
-"Jan 1, 2015",,?,Colombia,9961,Deportivo Cali ,119975,650 Th. €,Carlos Lizarazo,14/15,Mexico,3711,CD Cruz Azul 
-"Feb 1, 2009",,-,Colombia,20589,Dep. Cali U19 ,119975,-,Carlos Lizarazo,08/09,Colombia,9961,Deportivo Cali 
-"Feb 5, 2016",,?,Guatemala,19006,Antigua GFC ,123112,50 Th. €,Mekeil Williams,15/16,United States,1247,Colorado 
-"Jul 1, 2015",,?,Trinidad and Tobago,5582,W Connection ,123112,50 Th. €,Mekeil Williams,15/16,Guatemala,19006,Antigua GFC 
-"Jul 1, 2013",,Free transfer,Denmark,10399,FC Fyn ,123112,50 Th. €,Mekeil Williams,13/14,Trinidad and Tobago,5582,W Connection 
-"Aug 24, 2012",,Free transfer,Poland,324,Pogon Szczecin ,123112,-,Mekeil Williams,12/13,Denmark,10399,FC Fyn 
-"Feb 1, 2012",,Free transfer,Trinidad and Tobago,5582,W Connection ,123112,-,Mekeil Williams,11/12,Poland,324,Pogon Szczecin 
-"Jul 1, 2011",,Free transfer,Trinidad and Tobago,5581,Jabloteh ,123112,-,Mekeil Williams,11/12,Trinidad and Tobago,5582,W Connection 
-"Jul 1, 2010",,Free transfer,Trinidad and Tobago,23236,MPSC ,123112,-,Mekeil Williams,10/11,Trinidad and Tobago,5581,Jabloteh 
-"Dec 31, 2016",,End of loan,United States,218,Quakes ,126019,150 Th. €,Alberto Quintero,16/17,Mexico,13357,Lobos 
-"Feb 24, 2016",,Loan,Mexico,13357,Lobos ,126019,-,Alberto Quintero,15/16,United States,218,Quakes 
-"Jan 1, 2015",,Free transfer,Mexico,44772,Min. Zacatecas ,126019,-,Alberto Quintero,14/15,Mexico,13357,Lobos 
-"Jul 1, 2014",,Free transfer,Mexico,18662,Mérida FC ,126019,-,Alberto Quintero,14/15,Mexico,44772,Min. Zacatecas 
-"Jan 1, 2014",,Free transfer,Mexico,13357,Lobos ,126019,-,Alberto Quintero,13/14,Mexico,18662,Mérida FC 
-"Aug 13, 2013",,Free transfer,Bolivia,41098,Sport Boys ,126019,-,Alberto Quintero,13/14,Mexico,13357,Lobos 
-"Jul 1, 2013",,Free transfer,Panama,18952,Chorrillo FC ,126019,-,Alberto Quintero,13/14,Bolivia,41098,Sport Boys 
-"Jun 30, 2012",,End of loan,Colombia,10093,Indep. Medellín ,126019,-,Alberto Quintero,11/12,Panama,18952,Chorrillo FC 
-"Jan 1, 2012",,Loan,Panama,18952,Chorrillo FC ,126019,-,Alberto Quintero,11/12,Colombia,10093,Indep. Medellín 
-"Aug 1, 2011",,Free transfer,Spain,15447,Ontinyent CF ,126019,-,Alberto Quintero,11/12,Panama,18952,Chorrillo FC 
-"Aug 1, 2010",,Free transfer,Spain,7077,FC Cartagena ,126019,500 Th. €,Alberto Quintero,10/11,Spain,15447,Ontinyent CF 
-"Jul 1, 2009",,Free transfer,Spain,33600,Torrellano ,126019,-,Alberto Quintero,09/10,Spain,7077,FC Cartagena 
-"Jan 1, 2008",,Free transfer,Panama,18952,Chorrillo FC ,126019,-,Alberto Quintero,07/08,Spain,33600,Torrellano 
-"Dec 31, 2016",,End of loan,United States,40058,NYC FC ,131101,750 Th. â‚¬,Stiven Mendoza,16/17,Brazil,199,Corinthians 
-"Mar 11, 2016",,Loan,Brazil,199,Corinthians ,131101,750 Th. â‚¬,Stiven Mendoza,15/16,United States,40058,NYC FC 
-"Dec 31, 2015",,End of loan,India,45299,Chennaiyin FC ,131101,750 Th. â‚¬,Stiven Mendoza,15/16,Brazil,199,Corinthians 
-"Aug 31, 2015",,Loan,Brazil,199,Corinthians ,131101,750 Th. â‚¬,Stiven Mendoza,15/16,India,45299,Chennaiyin FC 
-"Feb 2, 2015",,?,India,45299,Chennaiyin FC ,131101,100 Th. â‚¬,Stiven Mendoza,14/15,Brazil,199,Corinthians 
-"Oct 1, 2014",,-,India,515,Unattached ,131101,150 Th. â‚¬,Stiven Mendoza,14/15,,45299,Chennaiyin FC 
-"Jul 1, 2014",,-,Colombia,9961,Deportivo Cali ,131101,150 Th. â‚¬,Stiven Mendoza,14/15,,515,Unattached 
-"Jul 18, 2013",,?,Colombia,7136,Envigado ,131101,150 Th. â‚¬,Stiven Mendoza,13/14,Colombia,9961,Deportivo Cali 
-"Jun 30, 2013",,End of loan,Colombia,13379,CÃºcuta  ,131101,150 Th. â‚¬,Stiven Mendoza,12/13,Colombia,7136,Envigado 
-"Jan 1, 2013",,Loan,Colombia,7136,Envigado ,131101,150 Th. â‚¬,Stiven Mendoza,12/13,Colombia,13379,CÃºcuta  
-"Dec 31, 2012",,End of loan,Colombia,2352,CD AmÃ©rica ,131101,150 Th. â‚¬,Stiven Mendoza,12/13,Colombia,7136,Envigado 
-"Jan 1, 2012",,Loan,Colombia,7136,Envigado ,131101,-,Stiven Mendoza,11/12,Colombia,2352,CD AmÃ©rica 
-"Jul 1, 2010",,?,Colombia,19369,CD AmÃ©rica U19 ,131101,-,Stiven Mendoza,10/11,Colombia,7136,Envigado 
-"Aug 5, 2015",,"2,00 Mill. €",Argentina,1775,San Lorenzo ,133551,"1,00 Mill. €",Gonzalo Verón,15/16,United States,623,NY Red Bulls 
-"Aug 9, 2012",,?,Argentina,15378,Italiano ,133551,50 Th. €,Gonzalo Verón,12/13,Argentina,1775,San Lorenzo 
-"Jan 1, 2009",,-,Argentina,26087,Italiano U20 ,133551,-,Gonzalo Verón,08/09,Argentina,15378,Italiano 
-"Jan 14, 2016",,draft,United States,36097,Syracuse Athl. ,149200,-,Julian Büscher,15/16,United States,2440,DC United 
-"Aug 1, 2015",,Free transfer,Canada,41464,K-W United ,149200,-,Julian Büscher,15/16,United States,36097,Syracuse Athl. 
-"Apr 1, 2015",,Free transfer,United States,36097,Syracuse Athl. ,149200,-,Julian Büscher,14/15,Canada,41464,K-W United 
-"Sep 19, 2013",,Free transfer,Germany,668,SF Lotte ,149200,50 Th. €,Julian Büscher,13/14,United States,36097,Syracuse Athl. 
-"Jan 25, 2013",,Free transfer,Germany,91,Preußen Münster ,149200,50 Th. €,Julian Büscher,12/13,Germany,668,SF Lotte 
-"Jul 1, 2012",,-,Germany,10029,Pr. Münster U19 ,149200,-,Julian Büscher,12/13,Germany,91,Preußen Münster 
-"Jul 1, 2011",,?,Germany,3862,VfL Bochum U19 ,149200,-,Julian Büscher,11/12,Germany,10029,Pr. Münster U19 
-"Jul 1, 2010",,-,Germany,21085,VfL Bochum U17 ,149200,-,Julian Büscher,10/11,Germany,3862,VfL Bochum U19 
-"Jul 1, 2008",,?,Germany,11921,Münster Jgd ,149200,-,Julian Büscher,08/09,Germany,21085,VfL Bochum U17 
-"Jan 14, 2016",,draft,United States,9738,CU Bluejays ,155792,-,Timo Pitter,15/16,United States,8816,FC Dallas	 
-"Aug 1, 2012",,Free transfer,Germany,103,Schweinfurt 05 ,155792,-,Timo Pitter,12/13,United States,9738,CU Bluejays 
-"Jul 1, 2010",,-,Germany,4039,Schweinfurt U19 ,155792,-,Timo Pitter,10/11,Germany,103,Schweinfurt 05 
-"Aug 6, 2015",,?,Hungary,709,Budapest Honvéd ,161671,250 Th. €,Aníbal Godoy,15/16,United States,218,Quakes 
-"Aug 28, 2013",,?,Panama,20657,Chepo FC ,161671,-,Aníbal Godoy,13/14,Hungary,709,Budapest Honvéd 
-"Jun 30, 2012",,End of loan,Argentina,12574,Godoy Cruz ,161671,-,Aníbal Godoy,11/12,Panama,20657,Chepo FC 
-"Jan 1, 2012",,Loan,Panama,20657,Chepo FC ,161671,-,Aníbal Godoy,11/12,Argentina,12574,Godoy Cruz 
-"Aug 6, 2015",,Free transfer,France,1147,Ajaccio ,166679,400 Th. €,Jordi Quintillà,15/16,United States,4284,Kansas 
-"Jul 24, 2014",,Free transfer,Spain,2464,FC Barcelona B ,166679,-,Jordi Quintillà,14/15,France,1147,Ajaccio 
-"Jun 30, 2014",,End of loan,Spain,9477,CE L’Hospitalet ,166679,-,Jordi Quintillà,13/14,Spain,2464,FC Barcelona B 
-"Aug 26, 2013",,Loan,Spain,2464,FC Barcelona B ,166679,-,Jordi Quintillà,13/14,Spain,9477,CE L’Hospitalet 
-"Jun 30, 2013",,End of loan,Spain,6638,CF Badalona ,166679,-,Jordi Quintillà,12/13,Spain,2464,FC Barcelona B 
-"Jan 8, 2013",,Loan,Spain,2464,FC Barcelona B ,166679,200 Th. €,Jordi Quintillà,12/13,Spain,6638,CF Badalona 
-"Jul 1, 2012",,-,Spain,2470,Barça Juvenil A ,166679,-,Jordi Quintillà,12/13,Spain,2464,FC Barcelona B 
-"Jul 1, 2011",,-,Spain,14321,Barcelona Cad. ,166679,-,Jordi Quintillà,11/12,Spain,2470,Barça Juvenil A 
-"Jan 26, 2016",,Free transfer,Iceland,3832,Fram Reykjavík ,170854,100 Th. €,Sebastien Ibeagha,15/16,United States,9168,Houston 
-"May 18, 2015",,Free transfer,Denmark,2414,AC Horsens ,170854,200 Th. €,Sebastien Ibeagha,14/15,Iceland,3832,Fram Reykjavík 
-"Dec 31, 2014",,End of loan,Denmark,5776,FC Fredericia ,170854,200 Th. €,Sebastien Ibeagha,14/15,Denmark,2414,AC Horsens 
-"Aug 7, 2014",,Loan,Denmark,2414,AC Horsens ,170854,200 Th. €,Sebastien Ibeagha,14/15,Denmark,5776,FC Fredericia 
-"Jan 31, 2014",,Free transfer,United States,9824,Duke University ,170854,-,Sebastien Ibeagha,13/14,Denmark,2414,AC Horsens 
-"Aug 1, 2013",,Free transfer,United States,16909,Carolina Dynamo ,170854,-,Sebastien Ibeagha,13/14,United States,9824,Duke University 
-"May 1, 2013",,Free transfer,United States,9824,Duke University ,170854,-,Sebastien Ibeagha,12/13,United States,16909,Carolina Dynamo 
-"Aug 1, 2012",,Free transfer,United States,16909,Carolina Dynamo ,170854,-,Sebastien Ibeagha,12/13,United States,9824,Duke University 
-"May 11, 2012",,Free transfer,United States,9824,Duke University ,170854,-,Sebastien Ibeagha,11/12,United States,16909,Carolina Dynamo 
-"Jan 1, 2012",,Free transfer,United States,30865,Houston Dynamo Academy ,170854,-,Sebastien Ibeagha,11/12,United States,9824,Duke University 
-"Jan 19, 2016",,Free transfer,United States,7247,Cal Poly Mustangs / USA ,172320,-,Kip Colvey,15/16,United States,218,Quakes 
-"Jul 1, 2013",,Free transfer,New Zealand,31161,Asia-Pacific FA ,172320,-,Kip Colvey,13/14,United States,7247,Cal Poly Mustangs / USA 
-"Jan 14, 2016",,draft,United States,2934,Clemson Tigers ,186291,-,Paul Clowes,15/16,United States,2440,DC United 
-"Jul 1, 2012",,Free transfer,England,9265,Man City U21 ,186291,-,Paul Clowes,12/13,United States,2934,Clemson Tigers 
-"Jul 1, 2011",,-,England,6930,Man City U18 ,186291,-,Paul Clowes,11/12,England,9265,Man City U21 
-"Jul 14, 2015",,?,Colombia,10093,Indep. Medellín ,189390,400 Th. €,Jefferson Mena,15/16,United States,40058,NYC FC 
-"Jan 1, 2010",,-,Colombia,16811,Medellín U19 ,189390,-,Jefferson Mena,09/10,Colombia,10093,Indep. Medellín 
-"Jan 14, 2016",,draft,United States,9777,Tar Heels ,189758,-,Omar Holness,15/16,United States,6643,Salt Lake 
-"Aug 1, 2014",,Free transfer,United States,30255,Timbers III U23 ,189758,-,Omar Holness,14/15,United States,9777,Tar Heels 
-"May 12, 2014",,Free transfer,United States,9777,Tar Heels ,189758,-,Omar Holness,13/14,United States,30255,Timbers III U23 
-"Mar 1, 2016",,Free transfer,United States,7247,Cal Poly Mustangs / USA ,189884,-,Wade Hamilton,15/16,United States,4291,Timbers 
-"Jul 18, 2015",,Free transfer,England,9252,Liverpool U21 ,189894,-,Marc Pelosi,15/16,United States,218,Quakes 
-"Jul 1, 2012",,-,England,6922,Liverpool U18 ,189894,-,Marc Pelosi,12/13,England,9252,Liverpool U21 
-"Dec 16, 2015",,-,United States,33285,LA Galaxy II ,190915,100 Th. €,Clément Diop,15/16,United States,1061,Los Angeles 
-"Feb 1, 2015",,-,United States,515,Unattached ,190915,100 Th. €,Clément Diop,14/15,,33285,LA Galaxy II 
-"Jul 1, 2014",,-,France,1416,SC Amiens ,190915,100 Th. €,Clément Diop,14/15,,515,Unattached 
-"Jul 1, 2011",,-,France,16671,SC Amiens B ,190915,-,Clément Diop,11/12,France,1416,SC Amiens 
-"Dec 31, 2016",,End of loan,United States,6321,Vancouver ,192317,275 Th. €,Jordan Smith,16/17,Costa Rica,4720,Saprissa 
-"Aug 7, 2015",,Loan,Costa Rica,4720,Saprissa ,192317,275 Th. €,Jordan Smith,15/16,United States,6321,Vancouver 
-"Jan 1, 2012",,-,Costa Rica,33807,Saprissa II ,192317,-,Jordan Smith,11/12,Costa Rica,4720,Saprissa 
-"Jun 30, 2011",,End of loan,France,15439,AC Le Havre B ,192317,-,Jordan Smith,10/11,Costa Rica,33807,Saprissa II 
-"Jul 1, 2010",,Loan,Costa Rica,33807,Saprissa II ,192317,-,Jordan Smith,10/11,France,15439,AC Le Havre B 
-"Aug 3, 2015",,?,Costa Rica,6478,LD Alajuelense ,195424,450 Th. €,Johan Venegas,15/16,United States,4078,Montreal 
-"Jul 1, 2013",,?,Costa Rica,9807,Puntarenas FC ,195424,275 Th. €,Johan Venegas,13/14,Costa Rica,6478,LD Alajuelense 
-"Jul 1, 2012",,?,Costa Rica,20541,Santos FC ,195424,100 Th. €,Johan Venegas,12/13,Costa Rica,9807,Puntarenas FC 
-"Jul 1, 2011",,?,Costa Rica,31385,Barrio México ,195424,-,Johan Venegas,11/12,Costa Rica,20541,Santos FC 
-"Feb 1, 2011",,?,Costa Rica,20541,Santos FC ,195424,-,Johan Venegas,10/11,Costa Rica,31385,Barrio México 
-"Jan 14, 2016",,draft,United States,9738,CU Bluejays ,196077,-,Fabian Herbers,15/16,United States,25467,Philadelphia 
-"Jul 1, 2013",,Free transfer,Germany,4879,VfL Rhede ,196077,-,Fabian Herbers,13/14,United States,9738,CU Bluejays 
-"Jul 1, 2012",,Free transfer,Germany,10029,Pr. Münster U19 ,196077,-,Fabian Herbers,12/13,Germany,4879,VfL Rhede 
-"Oct 31, 2016",,End of loan,United States,6321,Vancouver ,198388,250 Th. €,Fraser Aird,16/17,Scotland,124,Rangers 
-"Jan 29, 2016",,Loan,Scotland,124,Rangers ,198388,250 Th. €,Fraser Aird,15/16,United States,6321,Vancouver 
-"Sep 1, 2012",,-,Scotland,7112,Rangers U20 ,198388,-,Fraser Aird,12/13,Scotland,124,Rangers 
-"Jul 1, 2011",,-,Scotland,31029,Glasgow Rangers U17 ,198388,-,Fraser Aird,11/12,Scotland,7112,Rangers U20 
-"Jul 17, 2015",,"4,60 Mill. €",Argentina,333,CA Lanús ,220753,"2,50 Mill. €",Lucas Melano,15/16,United States,4291,Timbers 
-"Jul 23, 2013",,"1,50 Mill. €",Argentina,2417,Belgrano ,220753,"1,50 Mill. €",Lucas Melano,13/14,Argentina,333,CA Lanús 
-"Jul 1, 2011",,-,Argentina,19924,Belgrano U20 ,220753,-,Lucas Melano,11/12,Argentina,2417,Belgrano 
-"Dec 23, 2015",,Free transfer,United States,9766,Tulsa Hurricane ,227330,-,Bradley Bourgeois,15/16,United States,9168,Houston 
-"Aug 1, 2012",,Free transfer,United States,30865,Houston Dynamo Academy ,227330,-,Bradley Bourgeois,12/13,United States,9766,Tulsa Hurricane 
-"May 11, 2016",,Free transfer,Sweden,2844,IFK Norrköping ,235355,350 Th. €,Alhaji Kamara,15/16,United States,2440,DC United 
-"Jul 1, 2015",,End of loan,Malaysia,15817,Johor ,235355,250 Th. €,Alhaji Kamara,15/16,Sweden,2844,IFK Norrköping 
-"Mar 31, 2015",,Loan fee:800 Th. €,Sweden,2844,IFK Norrköping ,235355,250 Th. €,Alhaji Kamara,14/15,Malaysia,15817,Johor 
-"Jan 1, 2014",,?,Sierra Leone,18941,Kallon FC ,235355,75 Th. €,Alhaji Kamara,13/14,Sweden,2844,IFK Norrköping 
-"Dec 1, 2013",,End of loan,Sweden,3622,IFK Värnamo ,235355,75 Th. €,Alhaji Kamara,13/14,Sierra Leone,18941,Kallon FC 
-"Aug 3, 2013",,Loan,Sierra Leone,18941,Kallon FC ,235355,100 Th. €,Alhaji Kamara,13/14,Sweden,3622,IFK Värnamo 
-"Aug 2, 2013",,End of loan,Sweden,6012,IK Frej ,235355,100 Th. €,Alhaji Kamara,13/14,Sierra Leone,18941,Kallon FC 
-"Feb 2, 2013",,Loan,Sierra Leone,18941,Kallon FC ,235355,100 Th. €,Alhaji Kamara,12/13,Sweden,6012,IK Frej 
-"Dec 1, 2012",,End of loan,Sweden,1044,Djurgardens IF ,235355,100 Th. €,Alhaji Kamara,12/13,Sierra Leone,18941,Kallon FC 
-"Jul 5, 2012",,Loan,Sierra Leone,18941,Kallon FC ,235355,-,Alhaji Kamara,12/13,Sweden,1044,Djurgardens IF 
-"Dec 31, 2016",,End of loan,United States,432,Chicago ,241007,250 Th. €,Khaly Thiam,16/17,Hungary,634,MTK Budapest 
-"May 2, 2016",,Loan,Hungary,634,MTK Budapest ,241007,250 Th. €,Khaly Thiam,15/16,United States,432,Chicago 
-"Jul 18, 2014",,Free transfer,Hungary,6056,Kaposvári RFC ,241007,150 Th. €,Khaly Thiam,14/15,Hungary,634,MTK Budapest 
-"Jan 1, 2013",,-,Hungary,28648,Kaposvár II ,241007,50 Th. €,Khaly Thiam,12/13,Hungary,6056,Kaposvári RFC 
-"Aug 1, 2012",,Free transfer,Senegal,35739,RC Dakar ,241007,-,Khaly Thiam,12/13,Hungary,28648,Kaposvár II 
-"Jan 22, 2016",,?,Argentina,14837,River Plate II ,265307,400 Th. €,Diego Martínez,15/16,United States,40058,NYC FC 
-"Dec 31, 2015",,End of loan,Argentina,19806,Patronato ,265307,400 Th. €,Diego Martínez,15/16,Argentina,14837,River Plate II 
-"Jul 1, 2014",,Loan,Argentina,14837,River Plate II ,265307,400 Th. €,Diego Martínez,14/15,Argentina,19806,Patronato 
-"Jun 30, 2014",,End of loan,Argentina,12454,CA Sarmiento ,265307,400 Th. €,Diego Martínez,13/14,Argentina,14837,River Plate II 
-"Jul 26, 2013",,Loan,Argentina,14837,River Plate II ,265307,400 Th. €,Diego Martínez,13/14,Argentina,12454,CA Sarmiento 
-"Jul 1, 2012",,-,Argentina,15108,River Plate U20 ,265307,-,Diego Martínez,12/13,Argentina,14837,River Plate II 
-"Feb 9, 2016",,?,Finland,1008,HJK Helsinki ,265719,750 Th. €,Gideon Baah,15/16,United States,623,NY Red Bulls 
-"Feb 24, 2014",,250 Th. €,Finland,5411,FC Honka ,265719,-,Gideon Baah,13/14,Finland,1008,HJK Helsinki 
-"Feb 1, 2013",,Loan,Ghana,502,Asante Kotoko ,265719,-,Gideon Baah,12/13,Finland,5411,FC Honka 
-"Dec 31, 2016",,End of loan,United States,40058,NYC FC ,266775,800 Th. €,Federico Bravo,16/17,Argentina,189,Boca Juniors 
-"Feb 20, 2016",,Loan,Argentina,189,Boca Juniors ,266775,800 Th. €,Federico Bravo,15/16,United States,40058,NYC FC 
-"Jan 1, 2013",,-,Argentina,15098,Boca U20 ,266775,-,Federico Bravo,12/13,Argentina,189,Boca Juniors 
-"Feb 17, 2016",,?,United States,4290,Pittsburgh ,266914,-,Rob Vincent,15/16,United States,2440,DC United 
-"Apr 1, 2013",,Free transfer,United States,45603,Golden Eagles ,266914,-,Rob Vincent,12/13,United States,4290,Pittsburgh 
-"Jan 16, 2016",,?,Costa Rica,6478,LD Alajuelense ,268273,300 Th. €,Ronald Matarrita,15/16,United States,40058,NYC FC 
-"Jul 1, 2013",,-,Costa Rica,33754,Alajuelense II ,268273,-,Ronald Matarrita,13/14,Costa Rica,6478,LD Alajuelense 
-"Jan 14, 2016",,draft,United States,9746,GU Hoyas ,268302,-,Keegan Rosenberry,15/16,United States,25467,Philadelphia 
-"Aug 1, 2012",,?,United States,29826,Ph. Union Acad. ,268302,-,Keegan Rosenberry,12/13,United States,9746,GU Hoyas 
-"Feb 23, 2016",,Free transfer,United States,51762,Bethlehem  ,271662,-,Ken Tribbett,15/16,United States,25467,Philadelphia 
-"Jan 29, 2016",,Free transfer,United States,16885,Harrisburg City ,271662,-,Ken Tribbett,15/16,United States,51762,Bethlehem  
-"Mar 1, 2015",,?,United States,9741,Drexel Dragons ,271662,-,Ken Tribbett,14/15,United States,16885,Harrisburg City 
-"Aug 1, 2013",,Free transfer,United States,16925,Ocean City ,271662,-,Ken Tribbett,13/14,United States,9741,Drexel Dragons 
-"May 1, 2013",,Free transfer,United States,9741,Drexel Dragons ,271662,-,Ken Tribbett,12/13,United States,16925,Ocean City 
-"Dec 31, 2016",,End of loan,United States,626,Revolution ,276899,250 Th. €,Sambinha,16/17,Portugal,10949,Sporting B 
-"Jan 22, 2016",,Loan,Portugal,10949,Sporting B ,276899,250 Th. €,Sambinha,15/16,United States,626,Revolution 
-"Jul 1, 2013",,Free transfer,Portugal,13573,1º Dezembro ,276899,-,Sambinha,13/14,Portugal,10949,Sporting B 
-"Jul 1, 2011",,-,Portugal,34642,1º Dezembro ,276899,-,Sambinha,11/12,Portugal,13573,1º Dezembro 
-"Jan 14, 2016",,draft,United States,39851,UC Riverside ,277353,-,Michael Salazar,15/16,United States,4078,Montreal 
-"Oct 1, 2014",,Free transfer,United States,36462,PSA Elite ,277353,-,Michael Salazar,14/15,United States,39851,UC Riverside 
-"May 1, 2014",,Free transfer,United States,39851,UC Riverside ,277353,-,Michael Salazar,13/14,United States,36462,PSA Elite 
-"Mar 4, 2016",,-,United States,515,Unattached ,280855,-,Charlie Horton,15/16,,2440,DC United 
-"Nov 23, 2015",,-,England,399,Leeds ,280855,-,Charlie Horton,15/16,,515,Unattached 
-"Jul 1, 2015",,?,England,603,Cardiff ,280855,-,Charlie Horton,15/16,England,399,Leeds 
-"Jul 10, 2014",,-,England,515,Unattached ,280855,-,Charlie Horton,14/15,,603,Cardiff 
-"Apr 7, 2014",,-,England,1072,Peterborough ,280855,-,Charlie Horton,13/14,,515,Unattached 
-"Jul 25, 2013",,?,England,75,Unknown ,280855,-,Charlie Horton,13/14,,1072,Peterborough 
-"Mar 1, 2016",,-,United States,46720,Sounders FC 2 ,313448,-,Oalex Anderson,15/16,United States,9636,Sounders FC	 
-"Mar 20, 2015",,?,St. Vincent & Grenadinen,18000,System 3 ,313448,-,Oalex Anderson,14/15,United States,46720,Sounders FC 2 
-"Dec 31, 2014",,End of loan,Antigua and Barbuda,53146,Grenades FC ,313448,-,Oalex Anderson,14/15,St. Vincent & Grenadinen,18000,System 3 
-"Sep 1, 2014",,Loan,St. Vincent & Grenadinen,18000,System 3 ,313448,-,Oalex Anderson,14/15,Antigua and Barbuda,53146,Grenades FC 
-"Dec 31, 2016",,End of loan,United States,2440,DC United ,315169,"2,60 Mill. €",Luciano Acosta,16/17,Argentina,189,Boca Juniors 
-"Feb 15, 2016",,Loan,Argentina,189,Boca Juniors ,315169,"2,60 Mill. €",Luciano Acosta,15/16,United States,2440,DC United 
-"Dec 31, 2015",,End of loan,Argentina,288,Estudiantes ,315169,"1,25 Mill. €",Luciano Acosta,15/16,Argentina,189,Boca Juniors 
-"Jan 24, 2015",,Loan,Argentina,189,Boca Juniors ,315169,500 Th. €,Luciano Acosta,14/15,Argentina,288,Estudiantes 
-"Jan 1, 2014",,-,Argentina,15098,Boca U20 ,315169,-,Luciano Acosta,13/14,Argentina,189,Boca Juniors 
-"Jan 13, 2016",,Free transfer,Hungary,708,Újpest FC ,321946,100 Th. €,Dániel Sallói,15/16,United States,4284,Kansas 
-"Jul 1, 2015",,Free transfer,United States,29824,Sporting Kansas City Academy ,321946,-,Dániel Sallói,15/16,Hungary,708,Újpest FC 
-"Jul 1, 2014",,Free transfer,Hungary,15913,Újpest U19 ,321946,-,Dániel Sallói,14/15,United States,29824,Sporting Kansas City Academy 
-"Jan 14, 2016",,draft,United States,2934,Clemson Tigers ,325377,-,Kyle Fisher,15/16,United States,4078,Montreal 
-"Jun 30, 2014",,End of loan,United States,30255,Timbers III U23 ,325377,-,Kyle Fisher,13/14,United States,2934,Clemson Tigers 
-"Mar 1, 2014",,Loan,United States,2934,Clemson Tigers ,325377,-,Kyle Fisher,13/14,United States,30255,Timbers III U23 
-"Mar 3, 2016",,-,United States,33285,LA Galaxy II ,329713,75 Th. €,Ariel Lassiter,15/16,United States,1061,Los Angeles 
-"Jan 29, 2015",,Free transfer,Sweden,7009,GAIS Göteborg ,329713,75 Th. €,Ariel Lassiter,14/15,United States,33285,LA Galaxy II 
-"Jul 24, 2014",,Free transfer,United States,7247,Cal Poly Mustangs / USA ,329713,-,Ariel Lassiter,14/15,Sweden,7009,GAIS Göteborg 
-"Jan 21, 2016",,Free transfer,United States,9763,Stanford Card. ,337807,350 Th. €,Jordan Morris,15/16,United States,9636,Sounders FC	 
-"Feb 6, 2013",,Free transfer,United States,52151,Seattle Academy ,337807,-,Jordan Morris,12/13,United States,9763,Stanford Card. 
-"Dec 21, 2015",,-,United States,46720,Sounders FC 2 ,353479,50 Th. €,Tyler Miller,15/16,United States,9636,Sounders FC	 
-"Jul 9, 2015",,Free transfer,Germany,2621,SVN Zweibrücken ,353479,50 Th. €,Tyler Miller,15/16,United States,46720,Sounders FC 2 
-"Jan 10, 2015",,Free transfer,United States,46114,N. Wildcats ,353479,-,Tyler Miller,14/15,Germany,2621,SVN Zweibrücken 
-"Dec 31, 2016",,End of loan,United States,40058,NYC FC ,354577,-,Shannon Gómez,16/17,Trinidad and Tobago,5582,W Connection 
-"Mar 3, 2016",,Loan,Trinidad and Tobago,5582,W Connection ,354577,-,Shannon Gómez,15/16,United States,40058,NYC FC 
-"Mar 3, 2016",,Free transfer,United States,16902,Wilmington ,354887,50 Th. €,Andre Rawls,15/16,United States,40058,NYC FC 
-"Apr 3, 2015",,Free transfer,United States,40058,NYC FC ,354887,50 Th. €,Andre Rawls,14/15,United States,16902,Wilmington 
-"Jan 20, 2015",,draft,United States,10406,St. Mary´s College of California ,354887,-,Andre Rawls,14/15,United States,40058,NYC FC 
-"Dec 31, 2015",,End of loan,United States,46719,Port. Timbers 2 ,354892,50 Th. €,Anthony Manning,15/16,United States,4291,Timbers 
-"Jul 25, 2015",,Loan,United States,4291,Timbers ,354892,50 Th. €,Anthony Manning,15/16,United States,46719,Port. Timbers 2 
-"Jul 13, 2015",,-,United States,46719,Port. Timbers 2 ,354892,50 Th. €,Anthony Manning,15/16,United States,4291,Timbers 
-"Mar 29, 2015",,-,United States,4291,Timbers ,354892,50 Th. €,Anthony Manning,14/15,United States,46719,Port. Timbers 2 
-"Jan 20, 2015",,draft,United States,47199,SLU Billikens ,354892,-,Anthony Manning,14/15,United States,4291,Timbers 
-"Mar 5, 2016",,-,United States,46823,Toronto FC II ,364640,-,Mo Babouli,15/16,United States,11141,Toronto 
-"Mar 12, 2015",,-,Canada,29487,TFC Academy ,364640,-,Mo Babouli,14/15,United States,46823,Toronto FC II 
-"Jan 20, 2015",,draft,United States,13325,Marquette Athletics ,367391,-,Charlie Lyon,14/15,United States,9636,Sounders FC	 
-"Aug 5, 2015",,-,United States,33285,LA Galaxy II ,367552,-,Dave Romney,15/16,United States,1061,Los Angeles 
-"Jan 1, 2015",,Free transfer,United States,48856,SF City FC ,367552,-,Dave Romney,14/15,United States,33285,LA Galaxy II 
-"Dec 17, 2015",,?,United States,4290,Pittsburgh ,369158,-,Calle Brown,15/16,United States,9168,Houston 
-"Jan 1, 2015",,Free transfer,United States,9842,Virginia Cavs ,369158,-,Calle Brown,14/15,United States,4290,Pittsburgh 
-"Dec 17, 2015",,?,United States,4290,Pittsburgh ,372377,-,Calle Brown,15/16,United States,9168,Houston 
-"Jan 1, 2015",,Free transfer,United States,9842,Virginia Cavs ,372377,-,Calle Brown,14/15,United States,4290,Pittsburgh 
-"Jan 14, 2016",,draft,United States,3313,Robert Morris College (USA) ,372933,-,Neco Brett,15/16,United States,4291,Timbers 
-"Jan 1, 2012",,Free transfer,Jamaica,1178,Harbour View ,372933,-,Neco Brett,11/12,United States,3313,Robert Morris College (USA) 
-"Dec 29, 2015",,-,United States,45806,Real Monarchs ,375074,-,Danilo Acosta,15/16,United States,6643,Salt Lake 
-"Jan 1, 2015",,-,United States,38943,RSL Academy ,375074,-,Danilo Acosta,14/15,United States,45806,Real Monarchs 
-"Jul 15, 2015",,Free transfer,United States,49900,Montv. Academy ,382033,-,Matheus Silva,15/16,United States,218,Quakes 
-"Nov 9, 2015",,-,United States,9734,Orlando C. U23 ,401361,-,Mason Stajduhar,15/16,United States,45604,Orlando 
-"Dec 17, 2015",,Free transfer,United States,46114,N. Wildcats ,413158,-,Joey Calistri,15/16,United States,432,Chicago 
-"Jan 5, 2016",,Free transfer,United States,38984,Fl Gulf Coast ,415334,-,Aarón Guillén,15/16,United States,8816,FC Dallas	 
-"Jan 1, 2012",,Free transfer,United States,1196,Dallas Juniors ,415334,-,Aarón Guillén,11/12,United States,38984,Fl Gulf Coast 
-"Jan 15, 2016",,trade,United States,432,Chicago ,417346,-,Jack Harrison,15/16,United States,40058,NYC FC 
-"Jan 14, 2016",,draft,United States,9783,Demon Deacons ,417346,-,Jack Harrison,15/16,United States,432,Chicago 
-"Jan 14, 2016",,draft,United States,9763,Stanford Card. ,417347,-,Brandon Vincent,15/16,United States,432,Chicago 
-"Jan 14, 2016",,draft,United States,5231,Akron Zips ,417348,-,Richmond Laryea,15/16,United States,45604,Orlando 
-"Jan 14, 2016",,draft,United States,2934,Clemson Tigers ,417349,-,Andrew Tarbell,15/16,United States,218,Quakes 
-"Jan 14, 2016",,draft,United States,516,M. Terrapins ,417350,-,Tsubasa Endoh,15/16,United States,11141,Toronto 
-"Nov 30, 2016",,End of loan,United States,3372,Rochester ,417381,50 Th. €,Jordan McCrary,16/17,United States,626,Revolution 
-"Apr 1, 2016",,Loan,United States,626,Revolution ,417381,50 Th. €,Jordan McCrary,15/16,United States,3372,Rochester 
-"Jan 14, 2016",,draft,United States,9777,Tar Heels ,417381,-,Jordan McCrary,15/16,United States,626,Revolution 
-"Jan 14, 2016",,draft,United States,9777,Tar Heels ,417383,-,Jonathan Campbell,15/16,United States,432,Chicago 
-"Jan 14, 2016",,draft,United States,31632,University of Central Florida ,417384,-,Hadji Barry,15/16,United States,45604,Orlando 
-"Jan 14, 2016",,draft,United States,9746,GU Hoyas ,417386,-,Cole Seiler,15/16,United States,6321,Vancouver 
-"Jan 14, 2016",,draft,United States,9782,WA Huskies ,417387,-,Ryan Herman,15/16,United States,8816,FC Dallas	 
-"Jan 14, 2016",,draft,United States,43307,SIUE Cougars ,417388,-,Justin Bilyeu,15/16,United States,623,NY Red Bulls 
-"Jan 14, 2016",,draft,United States,38984,Fl Gulf Coast ,417389,-,Rodrigo Saravia,15/16,United States,813,Columbus 
-"Jan 14, 2016",,draft,United States,36097,Syracuse Athl. ,417390,-,Ben Polk,15/16,United States,4291,Timbers 
-"Jan 14, 2016",,draft,United States,30846,University of North Florida ,417393,-,Alex Morrell,15/16,United States,432,Chicago 
-"Jan 14, 2016",,draft,United States,46852,SCUDH ,417616,-,Tony Alfaro,15/16,United States,9636,Sounders FC	 
-"Jan 14, 2016",,draft,United States,9783,Demon Deacons ,417618,-,Michael Gamble,15/16,United States,626,Revolution 
-"Dec 31, 2016",,End of loan,United States,813,Columbus ,419247,-,Christian Martínez,16/17,Panama,18952,Chorrillo FC 
-"May 17, 2016",,Loan,Panama,18952,Chorrillo FC ,419247,-,Christian Martínez,15/16,United States,813,Columbus 
-"Jan 19, 2016",,draft,United States,39623,UNC Wilmington ,425006,-,Colin Bonner,15/16,United States,8816,FC Dallas	 
-"Mar 4, 2016",,Free transfer,United States,38369,Wildcats ,425266,-,Matt Pacifici,15/16,United States,813,Columbus 
+"Aug 13, 2015",,-,United States,515.0,Unattached ,26457,"2,00 Mill. €",Juan Manuel Martínez,15/16,,6643.0,Salt Lake 
+"Jul 17, 2015",,-,Argentina,189.0,Boca Juniors ,26457,"2,00 Mill. €",Juan Manuel Martínez,15/16,,515.0,Unattached 
+"Jan 10, 2013",,"2,45 Mill. €",Brazil,199.0,Corinthians ,26457,"3,50 Mill. €",Juan Manuel Martínez,12/13,Argentina,189.0,Boca Juniors 
+"Jul 14, 2012",,"2,40 Mill. €",Argentina,1029.0,CA Vélez ,26457,"3,50 Mill. €",Juan Manuel Martínez,12/13,Brazil,199.0,Corinthians 
+"Jun 30, 2008",,End of loan,Saudi Arabia,9840.0,Shabab ,26457,-,Juan Manuel Martínez,07/08,Argentina,1029.0,CA Vélez 
+"Jul 1, 2007",,Loan,Argentina,1029.0,CA Vélez ,26457,-,Juan Manuel Martínez,07/08,Saudi Arabia,9840.0,Shabab 
+"Jun 30, 2007",,End of loan,Colombia,13379.0,Cúcuta  ,26457,-,Juan Manuel Martínez,06/07,Argentina,1029.0,CA Vélez 
+"Jan 1, 2007",,Loan,Argentina,1029.0,CA Vélez ,26457,-,Juan Manuel Martínez,06/07,Colombia,13379.0,Cúcuta  
+"Jun 30, 2006",,End of loan,Argentina,1030.0,Argentinos ,26457,-,Juan Manuel Martínez,05/06,Argentina,1029.0,CA Vélez 
+"Jul 1, 2005",,Loan,Argentina,1029.0,CA Vélez ,26457,-,Juan Manuel Martínez,05/06,Argentina,1030.0,Argentinos 
+"Jul 1, 2003",,-,Argentina,15113.0,CA Vélez U20 ,26457,-,Juan Manuel Martínez,03/04,Argentina,1029.0,CA Vélez 
+"Feb 1, 2016",,"2,70 Mill. â‚¬",Switzerland,26.0,FC Basel ,32704,"3,50 Mill. â‚¬",Shkelzen Gashi,15/16,United States,1247.0,Colorado 
+"Jul 1, 2014",,"1,50 Mill. â‚¬",Switzerland,504.0,Grasshoppers ,32704,"2,00 Mill. â‚¬",Shkelzen Gashi,14/15,Switzerland,26.0,FC Basel 
+"Jul 1, 2012",,Free transfer,Switzerland,116.0,FC Aarau ,32704,650 Th. â‚¬,Shkelzen Gashi,12/13,Switzerland,504.0,Grasshoppers 
+"Jan 1, 2012",,Free transfer,Switzerland,625.0,NeuchÃ¢tel Xamax ,32704,300 Th. â‚¬,Shkelzen Gashi,11/12,Switzerland,116.0,FC Aarau 
+"Dec 31, 2011",,End of loan,Switzerland,116.0,FC Aarau ,32704,300 Th. â‚¬,Shkelzen Gashi,11/12,Switzerland,625.0,NeuchÃ¢tel Xamax 
+"Jan 1, 2011",,Loan fee:25 Th. â‚¬,Switzerland,625.0,NeuchÃ¢tel Xamax ,32704,300 Th. â‚¬,Shkelzen Gashi,10/11,Switzerland,116.0,FC Aarau 
+"Jan 1, 2010",,100 Th. â‚¬,Switzerland,260.0,FC ZÃ¼rich ,32704,500 Th. â‚¬,Shkelzen Gashi,09/10,Switzerland,625.0,NeuchÃ¢tel Xamax 
+"Dec 31, 2009",,End of loan,Switzerland,2047.0,AC Bellinzona ,32704,500 Th. â‚¬,Shkelzen Gashi,09/10,Switzerland,260.0,FC ZÃ¼rich 
+"Jul 1, 2008",,Loan,Switzerland,260.0,FC ZÃ¼rich ,32704,100 Th. â‚¬,Shkelzen Gashi,08/09,Switzerland,2047.0,AC Bellinzona 
+"Jun 30, 2008",,End of loan,Switzerland,1277.0,FC Schaffhausen ,32704,100 Th. â‚¬,Shkelzen Gashi,07/08,Switzerland,260.0,FC ZÃ¼rich 
+"Jan 1, 2008",,Loan,Switzerland,260.0,FC ZÃ¼rich ,32704,150 Th. â‚¬,Shkelzen Gashi,07/08,Switzerland,1277.0,FC Schaffhausen 
+"Jul 1, 2007",,-,Switzerland,5501.0,FC ZÃ¼rich U21 ,32704,125 Th. â‚¬,Shkelzen Gashi,07/08,Switzerland,260.0,FC ZÃ¼rich 
+"Jul 1, 2005",,-,Switzerland,14537.0,FC ZÃ¼rich U18 ,32704,-,Shkelzen Gashi,05/06,Switzerland,5501.0,FC ZÃ¼rich U21 
+"Jan 20, 2016",,?,Costa Rica,4720.0,Saprissa ,38163,550 Th. €,Christian Bolaños,15/16,United States,6321.0,Vancouver 
+"Sep 18, 2015",,Free transfer,Qatar,6297.0,Al-Gharafa ,38163,750 Th. €,Christian Bolaños,15/16,Costa Rica,4720.0,Saprissa 
+"Jan 6, 2015",,Free transfer,Costa Rica,18577.0,Cartaginés ,38163,750 Th. €,Christian Bolaños,14/15,Qatar,6297.0,Al-Gharafa 
+"Sep 5, 2014",,Free transfer,Denmark,190.0,FC Copenhagen ,38163,900 Th. €,Christian Bolaños,14/15,Costa Rica,18577.0,Cartaginés 
+"Aug 1, 2010",,"1,00 Mill. €",Norway,267.0,Start ,38163,"1,30 Mill. €",Christian Bolaños,10/11,Denmark,190.0,FC Copenhagen 
+"Jan 1, 2009",,400 Th. €,Denmark,173.0,Odense BK ,38163,500 Th. €,Christian Bolaños,08/09,Norway,267.0,Start 
+"Jul 1, 2007",,Free transfer,Costa Rica,4720.0,Saprissa ,38163,700 Th. €,Christian Bolaños,07/08,Denmark,173.0,Odense BK 
+"Mar 1, 2006",,Free transfer,United States,3372.0,Rochester ,38163,300 Th. €,Christian Bolaños,05/06,Costa Rica,4720.0,Saprissa 
+"Jul 1, 2004",,?,Costa Rica,4720.0,Saprissa ,38163,-,Christian Bolaños,04/05,United States,3372.0,Rochester 
+"Jul 1, 2001",,-,Costa Rica,22747.0,Saprissa U17 ,38163,-,Christian Bolaños,01/02,Costa Rica,4720.0,Saprissa 
+"Feb 24, 2016",,-,United States,515.0,Unattached ,52937,"4,00 Mill. €",Ilsinho,15/16,,25467.0,Philadelphia 
+"Jul 1, 2015",,-,Ukraine,660.0,Shakhtar D. ,52937,"4,00 Mill. €",Ilsinho,15/16,,515.0,Unattached 
+"Jan 1, 2012",,Free transfer,Brazil,17300.0,Desp. Brasil ,52937,"2,00 Mill. €",Ilsinho,11/12,Ukraine,660.0,Shakhtar D. 
+"Dec 1, 2011",,End of loan,Brazil,6600.0,Internacional ,52937,"3,00 Mill. €",Ilsinho,11/12,Brazil,17300.0,Desp. Brasil 
+"Sep 1, 2011",,Loan,Brazil,17300.0,Desp. Brasil ,52937,"3,00 Mill. €",Ilsinho,11/12,Brazil,6600.0,Internacional 
+"Aug 1, 2011",,End of loan,Brazil,585.0,São Paulo ,52937,"3,00 Mill. €",Ilsinho,11/12,Brazil,17300.0,Desp. Brasil 
+"Aug 1, 2010",,Loan,Brazil,17300.0,Desp. Brasil ,52937,"7,00 Mill. €",Ilsinho,10/11,Brazil,585.0,São Paulo 
+"Jul 1, 2010",,Free transfer,Ukraine,660.0,Shakhtar D. ,52937,"10,50 Mill. €",Ilsinho,10/11,Brazil,17300.0,Desp. Brasil 
+"Jul 1, 2007",,"10,00 Mill. €",Brazil,585.0,São Paulo ,52937,-,Ilsinho,07/08,Ukraine,660.0,Shakhtar D. 
+"Jul 1, 2006",,Free transfer,Brazil,1023.0,Palmeiras ,52937,-,Ilsinho,06/07,Brazil,585.0,São Paulo 
+"Jan 1, 2006",,-,Brazil,14807.0,Palmeiras B ,52937,-,Ilsinho,05/06,Brazil,1023.0,Palmeiras 
+"Jan 13, 2016",,Free transfer,Costa Rica,4720.0,Saprissa ,55194,350 Th. €,Andrés Imperiale,15/16,United States,218.0,Quakes 
+"Jan 1, 2015",,?,Chile,5622.0,UdeConce ,55194,750 Th. €,Andrés Imperiale,14/15,Costa Rica,4720.0,Saprissa 
+"Jan 1, 2012",,Free transfer,Cyprus,10586.0,Aris Limassol ,55194,750 Th. €,Andrés Imperiale,11/12,Chile,5622.0,UdeConce 
+"Jan 1, 2011",,?,Cyprus,3393.0,D. Katokopias ,55194,750 Th. €,Andrés Imperiale,10/11,Cyprus,10586.0,Aris Limassol 
+"Jul 1, 2010",,?,Bolivia,8056.0,Blooming ,55194,750 Th. €,Andrés Imperiale,10/11,Cyprus,3393.0,D. Katokopias 
+"Jan 1, 2010",,?,Bolivia,6985.0,Oriente P. ,55194,750 Th. €,Andrés Imperiale,09/10,Bolivia,8056.0,Blooming 
+"Feb 1, 2009",,?,Argentina,1418.0,CA Rosario ,55194,750 Th. €,Andrés Imperiale,08/09,Bolivia,6985.0,Oriente P. 
+"Dec 31, 2008",,End of loan,Argentina,12709.0,San Martín (T) ,55194,750 Th. €,Andrés Imperiale,08/09,Argentina,1418.0,CA Rosario 
+"Aug 1, 2008",,Loan,Argentina,1418.0,CA Rosario ,55194,"2,20 Mill. €",Andrés Imperiale,08/09,Argentina,12709.0,San Martín (T) 
+"Jul 1, 2005",,-,Argentina,15109.0,CA Rosario U19 ,55194,-,Andrés Imperiale,05/06,Argentina,1418.0,CA Rosario 
+"Jul 29, 2015",,Free transfer,Switzerland,434.0,FC Luzern ,59681,750 Th. €,Adrian Winter,15/16,United States,45604.0,Orlando 
+"Jul 1, 2011",,Free transfer,Switzerland,257.0,FC St. Gallen ,59681,450 Th. €,Adrian Winter,11/12,Switzerland,434.0,FC Luzern 
+"Jul 1, 2008",,250 Th. €,Switzerland,850.0,FC Wil 1900 ,59681,150 Th. €,Adrian Winter,08/09,Switzerland,257.0,FC St. Gallen 
+"Jul 1, 2007",,?,Switzerland,4806.0,Red Star ZH ,59681,-,Adrian Winter,07/08,Switzerland,850.0,FC Wil 1900 
+"Feb 4, 2016",,?,Austria,14.0,Austria Vienna ,62067,900 Th. €,Ola Kamara,15/16,United States,813.0,Columbus 
+"Dec 31, 2015",,End of loan,Norway,687.0,Molde FK ,62067,900 Th. €,Ola Kamara,15/16,Austria,14.0,Austria Vienna 
+"Jan 28, 2015",,Loan,Austria,14.0,Austria Vienna ,62067,600 Th. €,Ola Kamara,14/15,Norway,687.0,Molde FK 
+"Jan 27, 2014",,?,Austria,266.0,SV  Ried ,62067,"1,10 Mill. €",Ola Kamara,13/14,Austria,14.0,Austria Vienna 
+"Dec 31, 2013",,End of loan,Norway,2817.0,Strømsgodset ,62067,600 Th. €,Ola Kamara,13/14,Austria,266.0,SV  Ried 
+"Jul 26, 2013",,Loan,Austria,266.0,SV  Ried ,62067,600 Th. €,Ola Kamara,13/14,Norway,2817.0,Strømsgodset 
+"Jun 30, 2013",,End of loan,Germany,72.0,1860 Munich ,62067,600 Th. €,Ola Kamara,12/13,Austria,266.0,SV  Ried 
+"Jan 20, 2013",,Loan,Austria,266.0,SV  Ried ,62067,900 Th. €,Ola Kamara,12/13,Germany,72.0,1860 Munich 
+"Jan 16, 2013",,Free transfer,Norway,2817.0,Strømsgodset ,62067,900 Th. €,Ola Kamara,12/13,Austria,266.0,SV  Ried 
+"Jan 1, 2009",,?,Norway,1274.0,Stabaek IF ,62067,100 Th. €,Ola Kamara,08/09,Norway,2817.0,Strømsgodset 
+"Dec 1, 2007",,End of loan,Norway,632.0,Hönefoss ,62067,-,Ola Kamara,07/08,Norway,1274.0,Stabaek IF 
+"Jan 1, 2007",,Loan,Norway,1274.0,Stabaek IF ,62067,-,Ola Kamara,06/07,Norway,632.0,Hönefoss 
+"Jul 1, 2005",,?,Norway,30831.0,Frigg Oslo FK ,62067,-,Ola Kamara,05/06,Norway,1274.0,Stabaek IF 
+"Jan 19, 2016",,Free transfer,Spain,5648.0,Gimnàstic ,62683,400 Th. €,David Rocha,15/16,United States,9168.0,Houston 
+"Jul 1, 2013",,?,Spain,1532.0,Albacete ,62683,-,David Rocha,13/14,Spain,5648.0,Gimnàstic 
+"Jul 1, 2013",,Free transfer,Spain,1532.0,Albacete ,62683,-,David Rocha,13/14,Spain,5648.0,Gimnàstic 
+"Jul 1, 2011",,Free transfer,Spain,11602.0,Cacereño ,62683,-,David Rocha,11/12,Spain,1532.0,Albacete 
+"Jul 1, 2008",,?,Spain,7077.0,FC Cartagena ,62683,-,David Rocha,08/09,Spain,11602.0,Cacereño 
+"Jan 1, 2008",,?,Spain,1050.0,Villarreal CF ,62683,100 Th. €,David Rocha,07/08,Spain,7077.0,FC Cartagena 
+"Nov 1, 2007",,-,Spain,11972.0,Villarreal CF B ,62683,-,David Rocha,07/08,Spain,1050.0,Villarreal CF 
+"Jul 1, 2005",,?,Spain,11602.0,Cacereño ,62683,-,David Rocha,05/06,Spain,11972.0,Villarreal CF B 
+"Jul 30, 2015",,Free transfer,Tunisia,3342.0,Esperance ,65830,"1,10 Mill. €",Harrison Afful,15/16,United States,813.0,Columbus 
+"Aug 24, 2009",,300 Th. €,Ghana,9082.0,Fetteh Feyenoord ,65830,275 Th. €,Harrison Afful,09/10,Tunisia,3342.0,Esperance 
+"Jun 30, 2009",,End of loan,Ghana,502.0,Asante Kotoko ,65830,275 Th. €,Harrison Afful,08/09,Ghana,9082.0,Fetteh Feyenoord 
+"Jul 1, 2007",,Loan fee:100 Th. €,Ghana,9082.0,Fetteh Feyenoord ,65830,-,Harrison Afful,07/08,Ghana,502.0,Asante Kotoko 
+"Jul 1, 2005",,-,Netherlands,24366.0,Feyenoord U21 ,65830,-,Harrison Afful,05/06,Ghana,9082.0,Fetteh Feyenoord 
+"Aug 12, 2015",,?,Colombia,2350.0,Millonarios ,74182,950 Th. €,Román Torres,15/16,United States,9636.0,Sounders FC	 
+"Jul 16, 2012",,?,Colombia,17425.0,CD La Equidad ,74182,950 Th. €,Román Torres,12/13,Colombia,2350.0,Millonarios 
+"Dec 31, 2011",,End of loan,Colombia,8172.0,Atl. Nacional ,74182,750 Th. €,Román Torres,11/12,Colombia,17425.0,CD La Equidad 
+"Jan 1, 2011",,Loan,Colombia,17425.0,CD La Equidad ,74182,750 Th. €,Román Torres,10/11,Colombia,8172.0,Atl. Nacional 
+"Dec 31, 2010",,End of loan,Colombia,11854.0,Atlético Junior ,74182,750 Th. €,Román Torres,10/11,Colombia,17425.0,CD La Equidad 
+"Jan 1, 2010",,Loan,Colombia,17425.0,CD La Equidad ,74182,-,Román Torres,09/10,Colombia,11854.0,Atlético Junior 
+"Jan 1, 2007",,?,Colombia,17467.0,Cortuluá ,74182,-,Román Torres,06/07,Colombia,17425.0,CD La Equidad 
+"Jan 1, 2006",,?,Panama,11698.0,San Francisco ,74182,-,Román Torres,05/06,Colombia,17467.0,Cortuluá 
+"Jul 1, 2005",,?,Panama,20657.0,Chepo FC ,74182,-,Román Torres,05/06,Panama,11698.0,San Francisco 
+"Jan 20, 2016",,?,Colombia,14583.0,Atlético Huila ,74424,"1,20 Mill. €",Juan Ortiz,15/16,United States,8816.0,FC Dallas	 
+"Jan 1, 2015",,?,Colombia,2350.0,Millonarios ,74424,"1,20 Mill. €",Juan Ortiz,14/15,Colombia,14583.0,Atlético Huila 
+"Jan 1, 2011",,?,Colombia,10093.0,Indep. Medellín ,74424,950 Th. €,Juan Ortiz,10/11,Colombia,2350.0,Millonarios 
+"Jan 1, 2006",,-,Colombia,16811.0,Medellín U19 ,74424,-,Juan Ortiz,05/06,Colombia,10093.0,Indep. Medellín 
+"Aug 5, 2015",,?,Switzerland,26.0,FC Basel ,96740,300 Th. €,Gastón Sauro,15/16,United States,813.0,Columbus 
+"Jun 30, 2015",,End of loan,Italy,1627.0,Catania ,96740,300 Th. €,Gastón Sauro,14/15,Switzerland,26.0,FC Basel 
+"Aug 20, 2014",,Loan,Switzerland,26.0,FC Basel ,96740,750 Th. €,Gastón Sauro,14/15,Italy,1627.0,Catania 
+"Jul 6, 2012",,"1,15 Mill. €",Argentina,189.0,Boca Juniors ,96740,300 Th. €,Gastón Sauro,12/13,Switzerland,26.0,FC Basel 
+"Jan 1, 2009",,-,Argentina,15098.0,Boca U20 ,96740,-,Gastón Sauro,08/09,Argentina,189.0,Boca Juniors 
+"Jan 22, 2016",,?,Denmark,173.0,Odense BK ,99106,"1,00 Mill. €",Emil Larsen,15/16,United States,813.0,Columbus 
+"Jul 9, 2012",,540 Th. €,Denmark,369.0,Lyngby BK ,99106,900 Th. €,Emil Larsen,12/13,Denmark,173.0,Odense BK 
+"Jul 1, 2009",,-,Denmark,14363.0,Lyngby BK U19 ,99106,-,Emil Larsen,09/10,Denmark,369.0,Lyngby BK 
+"Jan 1, 2016",,Free transfer,Japan,6632.0,Kashiwa Reysol ,114202,"1,25 Mill. €",Masato Kudo,15/16,United States,6321.0,Vancouver 
+"Jan 1, 2009",,-,Japan,24118.0,Kashiwa Youth ,114202,-,Masato Kudo,08/09,Japan,6632.0,Kashiwa Reysol 
+"Dec 31, 2016",,End of loan,United States,8816.0,FC Dallas	 ,119975,500 Th. €,Carlos Lizarazo,16/17,Mexico,3711.0,CD Cruz Azul 
+"Feb 12, 2016",,Loan,Mexico,3711.0,CD Cruz Azul ,119975,650 Th. €,Carlos Lizarazo,15/16,United States,8816.0,FC Dallas	 
+"Jan 1, 2015",,?,Colombia,9961.0,Deportivo Cali ,119975,650 Th. €,Carlos Lizarazo,14/15,Mexico,3711.0,CD Cruz Azul 
+"Feb 1, 2009",,-,Colombia,20589.0,Dep. Cali U19 ,119975,-,Carlos Lizarazo,08/09,Colombia,9961.0,Deportivo Cali 
+"Feb 5, 2016",,?,Guatemala,19006.0,Antigua GFC ,123112,50 Th. €,Mekeil Williams,15/16,United States,1247.0,Colorado 
+"Jul 1, 2015",,?,Trinidad and Tobago,5582.0,W Connection ,123112,50 Th. €,Mekeil Williams,15/16,Guatemala,19006.0,Antigua GFC 
+"Jul 1, 2013",,Free transfer,Denmark,10399.0,FC Fyn ,123112,50 Th. €,Mekeil Williams,13/14,Trinidad and Tobago,5582.0,W Connection 
+"Aug 24, 2012",,Free transfer,Poland,324.0,Pogon Szczecin ,123112,-,Mekeil Williams,12/13,Denmark,10399.0,FC Fyn 
+"Feb 1, 2012",,Free transfer,Trinidad and Tobago,5582.0,W Connection ,123112,-,Mekeil Williams,11/12,Poland,324.0,Pogon Szczecin 
+"Jul 1, 2011",,Free transfer,Trinidad and Tobago,5581.0,Jabloteh ,123112,-,Mekeil Williams,11/12,Trinidad and Tobago,5582.0,W Connection 
+"Jul 1, 2010",,Free transfer,Trinidad and Tobago,23236.0,MPSC ,123112,-,Mekeil Williams,10/11,Trinidad and Tobago,5581.0,Jabloteh 
+"Dec 31, 2016",,End of loan,United States,218.0,Quakes ,126019,150 Th. €,Alberto Quintero,16/17,Mexico,13357.0,Lobos 
+"Feb 24, 2016",,Loan,Mexico,13357.0,Lobos ,126019,-,Alberto Quintero,15/16,United States,218.0,Quakes 
+"Jan 1, 2015",,Free transfer,Mexico,44772.0,Min. Zacatecas ,126019,-,Alberto Quintero,14/15,Mexico,13357.0,Lobos 
+"Jul 1, 2014",,Free transfer,Mexico,18662.0,Mérida FC ,126019,-,Alberto Quintero,14/15,Mexico,44772.0,Min. Zacatecas 
+"Jan 1, 2014",,Free transfer,Mexico,13357.0,Lobos ,126019,-,Alberto Quintero,13/14,Mexico,18662.0,Mérida FC 
+"Aug 13, 2013",,Free transfer,Bolivia,41098.0,Sport Boys ,126019,-,Alberto Quintero,13/14,Mexico,13357.0,Lobos 
+"Jul 1, 2013",,Free transfer,Panama,18952.0,Chorrillo FC ,126019,-,Alberto Quintero,13/14,Bolivia,41098.0,Sport Boys 
+"Jun 30, 2012",,End of loan,Colombia,10093.0,Indep. Medellín ,126019,-,Alberto Quintero,11/12,Panama,18952.0,Chorrillo FC 
+"Jan 1, 2012",,Loan,Panama,18952.0,Chorrillo FC ,126019,-,Alberto Quintero,11/12,Colombia,10093.0,Indep. Medellín 
+"Aug 1, 2011",,Free transfer,Spain,15447.0,Ontinyent CF ,126019,-,Alberto Quintero,11/12,Panama,18952.0,Chorrillo FC 
+"Aug 1, 2010",,Free transfer,Spain,7077.0,FC Cartagena ,126019,500 Th. €,Alberto Quintero,10/11,Spain,15447.0,Ontinyent CF 
+"Jul 1, 2009",,Free transfer,Spain,33600.0,Torrellano ,126019,-,Alberto Quintero,09/10,Spain,7077.0,FC Cartagena 
+"Jan 1, 2008",,Free transfer,Panama,18952.0,Chorrillo FC ,126019,-,Alberto Quintero,07/08,Spain,33600.0,Torrellano 
+"Dec 31, 2016",,End of loan,United States,40058.0,NYC FC ,131101,750 Th. â‚¬,Stiven Mendoza,16/17,Brazil,199.0,Corinthians 
+"Mar 11, 2016",,Loan,Brazil,199.0,Corinthians ,131101,750 Th. â‚¬,Stiven Mendoza,15/16,United States,40058.0,NYC FC 
+"Dec 31, 2015",,End of loan,India,45299.0,Chennaiyin FC ,131101,750 Th. â‚¬,Stiven Mendoza,15/16,Brazil,199.0,Corinthians 
+"Aug 31, 2015",,Loan,Brazil,199.0,Corinthians ,131101,750 Th. â‚¬,Stiven Mendoza,15/16,India,45299.0,Chennaiyin FC 
+"Feb 2, 2015",,?,India,45299.0,Chennaiyin FC ,131101,100 Th. â‚¬,Stiven Mendoza,14/15,Brazil,199.0,Corinthians 
+"Oct 1, 2014",,-,India,515.0,Unattached ,131101,150 Th. â‚¬,Stiven Mendoza,14/15,,45299.0,Chennaiyin FC 
+"Jul 1, 2014",,-,Colombia,9961.0,Deportivo Cali ,131101,150 Th. â‚¬,Stiven Mendoza,14/15,,515.0,Unattached 
+"Jul 18, 2013",,?,Colombia,7136.0,Envigado ,131101,150 Th. â‚¬,Stiven Mendoza,13/14,Colombia,9961.0,Deportivo Cali 
+"Jun 30, 2013",,End of loan,Colombia,13379.0,CÃºcuta  ,131101,150 Th. â‚¬,Stiven Mendoza,12/13,Colombia,7136.0,Envigado 
+"Jan 1, 2013",,Loan,Colombia,7136.0,Envigado ,131101,150 Th. â‚¬,Stiven Mendoza,12/13,Colombia,13379.0,CÃºcuta  
+"Dec 31, 2012",,End of loan,Colombia,2352.0,CD AmÃ©rica ,131101,150 Th. â‚¬,Stiven Mendoza,12/13,Colombia,7136.0,Envigado 
+"Jan 1, 2012",,Loan,Colombia,7136.0,Envigado ,131101,-,Stiven Mendoza,11/12,Colombia,2352.0,CD AmÃ©rica 
+"Jul 1, 2010",,?,Colombia,19369.0,CD AmÃ©rica U19 ,131101,-,Stiven Mendoza,10/11,Colombia,7136.0,Envigado 
+"Aug 5, 2015",,"2,00 Mill. €",Argentina,1775.0,San Lorenzo ,133551,"1,00 Mill. €",Gonzalo Verón,15/16,United States,623.0,NY Red Bulls 
+"Aug 9, 2012",,?,Argentina,15378.0,Italiano ,133551,50 Th. €,Gonzalo Verón,12/13,Argentina,1775.0,San Lorenzo 
+"Jan 1, 2009",,-,Argentina,26087.0,Italiano U20 ,133551,-,Gonzalo Verón,08/09,Argentina,15378.0,Italiano 
+"Jan 14, 2016",,draft,United States,36097.0,Syracuse Athl. ,149200,-,Julian Büscher,15/16,United States,2440.0,DC United 
+"Aug 1, 2015",,Free transfer,Canada,41464.0,K-W United ,149200,-,Julian Büscher,15/16,United States,36097.0,Syracuse Athl. 
+"Apr 1, 2015",,Free transfer,United States,36097.0,Syracuse Athl. ,149200,-,Julian Büscher,14/15,Canada,41464.0,K-W United 
+"Sep 19, 2013",,Free transfer,Germany,668.0,SF Lotte ,149200,50 Th. €,Julian Büscher,13/14,United States,36097.0,Syracuse Athl. 
+"Jan 25, 2013",,Free transfer,Germany,91.0,Preußen Münster ,149200,50 Th. €,Julian Büscher,12/13,Germany,668.0,SF Lotte 
+"Jul 1, 2012",,-,Germany,10029.0,Pr. Münster U19 ,149200,-,Julian Büscher,12/13,Germany,91.0,Preußen Münster 
+"Jul 1, 2011",,?,Germany,3862.0,VfL Bochum U19 ,149200,-,Julian Büscher,11/12,Germany,10029.0,Pr. Münster U19 
+"Jul 1, 2010",,-,Germany,21085.0,VfL Bochum U17 ,149200,-,Julian Büscher,10/11,Germany,3862.0,VfL Bochum U19 
+"Jul 1, 2008",,?,Germany,11921.0,Münster Jgd ,149200,-,Julian Büscher,08/09,Germany,21085.0,VfL Bochum U17 
+"Jan 14, 2016",,draft,United States,9738.0,CU Bluejays ,155792,-,Timo Pitter,15/16,United States,8816.0,FC Dallas	 
+"Aug 1, 2012",,Free transfer,Germany,103.0,Schweinfurt 05 ,155792,-,Timo Pitter,12/13,United States,9738.0,CU Bluejays 
+"Jul 1, 2010",,-,Germany,4039.0,Schweinfurt U19 ,155792,-,Timo Pitter,10/11,Germany,103.0,Schweinfurt 05 
+"Aug 6, 2015",,?,Hungary,709.0,Budapest Honvéd ,161671,250 Th. €,Aníbal Godoy,15/16,United States,218.0,Quakes 
+"Aug 28, 2013",,?,Panama,20657.0,Chepo FC ,161671,-,Aníbal Godoy,13/14,Hungary,709.0,Budapest Honvéd 
+"Jun 30, 2012",,End of loan,Argentina,12574.0,Godoy Cruz ,161671,-,Aníbal Godoy,11/12,Panama,20657.0,Chepo FC 
+"Jan 1, 2012",,Loan,Panama,20657.0,Chepo FC ,161671,-,Aníbal Godoy,11/12,Argentina,12574.0,Godoy Cruz 
+"Aug 6, 2015",,Free transfer,France,1147.0,Ajaccio ,166679,400 Th. €,Jordi Quintillà,15/16,United States,4284.0,Kansas 
+"Jul 24, 2014",,Free transfer,Spain,2464.0,FC Barcelona B ,166679,-,Jordi Quintillà,14/15,France,1147.0,Ajaccio 
+"Jun 30, 2014",,End of loan,Spain,9477.0,CE L’Hospitalet ,166679,-,Jordi Quintillà,13/14,Spain,2464.0,FC Barcelona B 
+"Aug 26, 2013",,Loan,Spain,2464.0,FC Barcelona B ,166679,-,Jordi Quintillà,13/14,Spain,9477.0,CE L’Hospitalet 
+"Jun 30, 2013",,End of loan,Spain,6638.0,CF Badalona ,166679,-,Jordi Quintillà,12/13,Spain,2464.0,FC Barcelona B 
+"Jan 8, 2013",,Loan,Spain,2464.0,FC Barcelona B ,166679,200 Th. €,Jordi Quintillà,12/13,Spain,6638.0,CF Badalona 
+"Jul 1, 2012",,-,Spain,2470.0,Barça Juvenil A ,166679,-,Jordi Quintillà,12/13,Spain,2464.0,FC Barcelona B 
+"Jul 1, 2011",,-,Spain,14321.0,Barcelona Cad. ,166679,-,Jordi Quintillà,11/12,Spain,2470.0,Barça Juvenil A 
+"Jan 26, 2016",,Free transfer,Iceland,3832.0,Fram Reykjavík ,170854,100 Th. €,Sebastien Ibeagha,15/16,United States,9168.0,Houston 
+"May 18, 2015",,Free transfer,Denmark,2414.0,AC Horsens ,170854,200 Th. €,Sebastien Ibeagha,14/15,Iceland,3832.0,Fram Reykjavík 
+"Dec 31, 2014",,End of loan,Denmark,5776.0,FC Fredericia ,170854,200 Th. €,Sebastien Ibeagha,14/15,Denmark,2414.0,AC Horsens 
+"Aug 7, 2014",,Loan,Denmark,2414.0,AC Horsens ,170854,200 Th. €,Sebastien Ibeagha,14/15,Denmark,5776.0,FC Fredericia 
+"Jan 31, 2014",,Free transfer,United States,9824.0,Duke University ,170854,-,Sebastien Ibeagha,13/14,Denmark,2414.0,AC Horsens 
+"Aug 1, 2013",,Free transfer,United States,16909.0,Carolina Dynamo ,170854,-,Sebastien Ibeagha,13/14,United States,9824.0,Duke University 
+"May 1, 2013",,Free transfer,United States,9824.0,Duke University ,170854,-,Sebastien Ibeagha,12/13,United States,16909.0,Carolina Dynamo 
+"Aug 1, 2012",,Free transfer,United States,16909.0,Carolina Dynamo ,170854,-,Sebastien Ibeagha,12/13,United States,9824.0,Duke University 
+"May 11, 2012",,Free transfer,United States,9824.0,Duke University ,170854,-,Sebastien Ibeagha,11/12,United States,16909.0,Carolina Dynamo 
+"Jan 1, 2012",,Free transfer,United States,30865.0,Houston Dynamo Academy ,170854,-,Sebastien Ibeagha,11/12,United States,9824.0,Duke University 
+"Jan 19, 2016",,Free transfer,United States,7247.0,Cal Poly Mustangs / USA ,172320,-,Kip Colvey,15/16,United States,218.0,Quakes 
+"Jul 1, 2013",,Free transfer,New Zealand,31161.0,Asia-Pacific FA ,172320,-,Kip Colvey,13/14,United States,7247.0,Cal Poly Mustangs / USA 
+"Jan 14, 2016",,draft,United States,2934.0,Clemson Tigers ,186291,-,Paul Clowes,15/16,United States,2440.0,DC United 
+"Jul 1, 2012",,Free transfer,England,9265.0,Man City U21 ,186291,-,Paul Clowes,12/13,United States,2934.0,Clemson Tigers 
+"Jul 1, 2011",,-,England,6930.0,Man City U18 ,186291,-,Paul Clowes,11/12,England,9265.0,Man City U21 
+"Jul 14, 2015",,?,Colombia,10093.0,Indep. Medellín ,189390,400 Th. €,Jefferson Mena,15/16,United States,40058.0,NYC FC 
+"Jan 1, 2010",,-,Colombia,16811.0,Medellín U19 ,189390,-,Jefferson Mena,09/10,Colombia,10093.0,Indep. Medellín 
+"Jan 14, 2016",,draft,United States,9777.0,Tar Heels ,189758,-,Omar Holness,15/16,United States,6643.0,Salt Lake 
+"Aug 1, 2014",,Free transfer,United States,30255.0,Timbers III U23 ,189758,-,Omar Holness,14/15,United States,9777.0,Tar Heels 
+"May 12, 2014",,Free transfer,United States,9777.0,Tar Heels ,189758,-,Omar Holness,13/14,United States,30255.0,Timbers III U23 
+"Mar 1, 2016",,Free transfer,United States,7247.0,Cal Poly Mustangs / USA ,189884,-,Wade Hamilton,15/16,United States,4291.0,Timbers 
+"Jul 18, 2015",,Free transfer,England,9252.0,Liverpool U21 ,189894,-,Marc Pelosi,15/16,United States,218.0,Quakes 
+"Jul 1, 2012",,-,England,6922.0,Liverpool U18 ,189894,-,Marc Pelosi,12/13,England,9252.0,Liverpool U21 
+"Dec 16, 2015",,-,United States,33285.0,LA Galaxy II ,190915,100 Th. €,Clément Diop,15/16,United States,1061.0,Los Angeles 
+"Feb 1, 2015",,-,United States,515.0,Unattached ,190915,100 Th. €,Clément Diop,14/15,,33285.0,LA Galaxy II 
+"Jul 1, 2014",,-,France,1416.0,SC Amiens ,190915,100 Th. €,Clément Diop,14/15,,515.0,Unattached 
+"Jul 1, 2011",,-,France,16671.0,SC Amiens B ,190915,-,Clément Diop,11/12,France,1416.0,SC Amiens 
+"Dec 31, 2016",,End of loan,United States,6321.0,Vancouver ,192317,275 Th. €,Jordan Smith,16/17,Costa Rica,4720.0,Saprissa 
+"Aug 7, 2015",,Loan,Costa Rica,4720.0,Saprissa ,192317,275 Th. €,Jordan Smith,15/16,United States,6321.0,Vancouver 
+"Jan 1, 2012",,-,Costa Rica,33807.0,Saprissa II ,192317,-,Jordan Smith,11/12,Costa Rica,4720.0,Saprissa 
+"Jun 30, 2011",,End of loan,France,15439.0,AC Le Havre B ,192317,-,Jordan Smith,10/11,Costa Rica,33807.0,Saprissa II 
+"Jul 1, 2010",,Loan,Costa Rica,33807.0,Saprissa II ,192317,-,Jordan Smith,10/11,France,15439.0,AC Le Havre B 
+"Aug 3, 2015",,?,Costa Rica,6478.0,LD Alajuelense ,195424,450 Th. €,Johan Venegas,15/16,United States,4078.0,Montreal 
+"Jul 1, 2013",,?,Costa Rica,9807.0,Puntarenas FC ,195424,275 Th. €,Johan Venegas,13/14,Costa Rica,6478.0,LD Alajuelense 
+"Jul 1, 2012",,?,Costa Rica,20541.0,Santos FC ,195424,100 Th. €,Johan Venegas,12/13,Costa Rica,9807.0,Puntarenas FC 
+"Jul 1, 2011",,?,Costa Rica,31385.0,Barrio México ,195424,-,Johan Venegas,11/12,Costa Rica,20541.0,Santos FC 
+"Feb 1, 2011",,?,Costa Rica,20541.0,Santos FC ,195424,-,Johan Venegas,10/11,Costa Rica,31385.0,Barrio México 
+"Jan 14, 2016",,draft,United States,9738.0,CU Bluejays ,196077,-,Fabian Herbers,15/16,United States,25467.0,Philadelphia 
+"Jul 1, 2013",,Free transfer,Germany,4879.0,VfL Rhede ,196077,-,Fabian Herbers,13/14,United States,9738.0,CU Bluejays 
+"Jul 1, 2012",,Free transfer,Germany,10029.0,Pr. Münster U19 ,196077,-,Fabian Herbers,12/13,Germany,4879.0,VfL Rhede 
+"Oct 31, 2016",,End of loan,United States,6321.0,Vancouver ,198388,250 Th. €,Fraser Aird,16/17,Scotland,124.0,Rangers 
+"Jan 29, 2016",,Loan,Scotland,124.0,Rangers ,198388,250 Th. €,Fraser Aird,15/16,United States,6321.0,Vancouver 
+"Sep 1, 2012",,-,Scotland,7112.0,Rangers U20 ,198388,-,Fraser Aird,12/13,Scotland,124.0,Rangers 
+"Jul 1, 2011",,-,Scotland,31029.0,Glasgow Rangers U17 ,198388,-,Fraser Aird,11/12,Scotland,7112.0,Rangers U20 
+"Jul 17, 2015",,"4,60 Mill. €",Argentina,333.0,CA Lanús ,220753,"2,50 Mill. €",Lucas Melano,15/16,United States,4291.0,Timbers 
+"Jul 23, 2013",,"1,50 Mill. €",Argentina,2417.0,Belgrano ,220753,"1,50 Mill. €",Lucas Melano,13/14,Argentina,333.0,CA Lanús 
+"Jul 1, 2011",,-,Argentina,19924.0,Belgrano U20 ,220753,-,Lucas Melano,11/12,Argentina,2417.0,Belgrano 
+"Dec 23, 2015",,Free transfer,United States,9766.0,Tulsa Hurricane ,227330,-,Bradley Bourgeois,15/16,United States,9168.0,Houston 
+"Aug 1, 2012",,Free transfer,United States,30865.0,Houston Dynamo Academy ,227330,-,Bradley Bourgeois,12/13,United States,9766.0,Tulsa Hurricane 
+"May 11, 2016",,Free transfer,Sweden,2844.0,IFK Norrköping ,235355,350 Th. €,Alhaji Kamara,15/16,United States,2440.0,DC United 
+"Jul 1, 2015",,End of loan,Malaysia,15817.0,Johor ,235355,250 Th. €,Alhaji Kamara,15/16,Sweden,2844.0,IFK Norrköping 
+"Mar 31, 2015",,Loan fee:800 Th. €,Sweden,2844.0,IFK Norrköping ,235355,250 Th. €,Alhaji Kamara,14/15,Malaysia,15817.0,Johor 
+"Jan 1, 2014",,?,Sierra Leone,18941.0,Kallon FC ,235355,75 Th. €,Alhaji Kamara,13/14,Sweden,2844.0,IFK Norrköping 
+"Dec 1, 2013",,End of loan,Sweden,3622.0,IFK Värnamo ,235355,75 Th. €,Alhaji Kamara,13/14,Sierra Leone,18941.0,Kallon FC 
+"Aug 3, 2013",,Loan,Sierra Leone,18941.0,Kallon FC ,235355,100 Th. €,Alhaji Kamara,13/14,Sweden,3622.0,IFK Värnamo 
+"Aug 2, 2013",,End of loan,Sweden,6012.0,IK Frej ,235355,100 Th. €,Alhaji Kamara,13/14,Sierra Leone,18941.0,Kallon FC 
+"Feb 2, 2013",,Loan,Sierra Leone,18941.0,Kallon FC ,235355,100 Th. €,Alhaji Kamara,12/13,Sweden,6012.0,IK Frej 
+"Dec 1, 2012",,End of loan,Sweden,1044.0,Djurgardens IF ,235355,100 Th. €,Alhaji Kamara,12/13,Sierra Leone,18941.0,Kallon FC 
+"Jul 5, 2012",,Loan,Sierra Leone,18941.0,Kallon FC ,235355,-,Alhaji Kamara,12/13,Sweden,1044.0,Djurgardens IF 
+"Dec 31, 2016",,End of loan,United States,432.0,Chicago ,241007,250 Th. €,Khaly Thiam,16/17,Hungary,634.0,MTK Budapest 
+"May 2, 2016",,Loan,Hungary,634.0,MTK Budapest ,241007,250 Th. €,Khaly Thiam,15/16,United States,432.0,Chicago 
+"Jul 18, 2014",,Free transfer,Hungary,6056.0,Kaposvári RFC ,241007,150 Th. €,Khaly Thiam,14/15,Hungary,634.0,MTK Budapest 
+"Jan 1, 2013",,-,Hungary,28648.0,Kaposvár II ,241007,50 Th. €,Khaly Thiam,12/13,Hungary,6056.0,Kaposvári RFC 
+"Aug 1, 2012",,Free transfer,Senegal,35739.0,RC Dakar ,241007,-,Khaly Thiam,12/13,Hungary,28648.0,Kaposvár II 
+"Jan 22, 2016",,?,Argentina,14837.0,River Plate II ,265307,400 Th. €,Diego Martínez,15/16,United States,40058.0,NYC FC 
+"Dec 31, 2015",,End of loan,Argentina,19806.0,Patronato ,265307,400 Th. €,Diego Martínez,15/16,Argentina,14837.0,River Plate II 
+"Jul 1, 2014",,Loan,Argentina,14837.0,River Plate II ,265307,400 Th. €,Diego Martínez,14/15,Argentina,19806.0,Patronato 
+"Jun 30, 2014",,End of loan,Argentina,12454.0,CA Sarmiento ,265307,400 Th. €,Diego Martínez,13/14,Argentina,14837.0,River Plate II 
+"Jul 26, 2013",,Loan,Argentina,14837.0,River Plate II ,265307,400 Th. €,Diego Martínez,13/14,Argentina,12454.0,CA Sarmiento 
+"Jul 1, 2012",,-,Argentina,15108.0,River Plate U20 ,265307,-,Diego Martínez,12/13,Argentina,14837.0,River Plate II 
+"Feb 9, 2016",,?,Finland,1008.0,HJK Helsinki ,265719,750 Th. €,Gideon Baah,15/16,United States,623.0,NY Red Bulls 
+"Feb 24, 2014",,250 Th. €,Finland,5411.0,FC Honka ,265719,-,Gideon Baah,13/14,Finland,1008.0,HJK Helsinki 
+"Feb 1, 2013",,Loan,Ghana,502.0,Asante Kotoko ,265719,-,Gideon Baah,12/13,Finland,5411.0,FC Honka 
+"Dec 31, 2016",,End of loan,United States,40058.0,NYC FC ,266775,800 Th. €,Federico Bravo,16/17,Argentina,189.0,Boca Juniors 
+"Feb 20, 2016",,Loan,Argentina,189.0,Boca Juniors ,266775,800 Th. €,Federico Bravo,15/16,United States,40058.0,NYC FC 
+"Jan 1, 2013",,-,Argentina,15098.0,Boca U20 ,266775,-,Federico Bravo,12/13,Argentina,189.0,Boca Juniors 
+"Feb 17, 2016",,?,United States,4290.0,Pittsburgh ,266914,-,Rob Vincent,15/16,United States,2440.0,DC United 
+"Apr 1, 2013",,Free transfer,United States,45603.0,Golden Eagles ,266914,-,Rob Vincent,12/13,United States,4290.0,Pittsburgh 
+"Jan 16, 2016",,?,Costa Rica,6478.0,LD Alajuelense ,268273,300 Th. €,Ronald Matarrita,15/16,United States,40058.0,NYC FC 
+"Jul 1, 2013",,-,Costa Rica,33754.0,Alajuelense II ,268273,-,Ronald Matarrita,13/14,Costa Rica,6478.0,LD Alajuelense 
+"Jan 14, 2016",,draft,United States,9746.0,GU Hoyas ,268302,-,Keegan Rosenberry,15/16,United States,25467.0,Philadelphia 
+"Aug 1, 2012",,?,United States,29826.0,Ph. Union Acad. ,268302,-,Keegan Rosenberry,12/13,United States,9746.0,GU Hoyas 
+"Feb 23, 2016",,Free transfer,United States,51762.0,Bethlehem  ,271662,-,Ken Tribbett,15/16,United States,25467.0,Philadelphia 
+"Jan 29, 2016",,Free transfer,United States,16885.0,Harrisburg City ,271662,-,Ken Tribbett,15/16,United States,51762.0,Bethlehem  
+"Mar 1, 2015",,?,United States,9741.0,Drexel Dragons ,271662,-,Ken Tribbett,14/15,United States,16885.0,Harrisburg City 
+"Aug 1, 2013",,Free transfer,United States,16925.0,Ocean City ,271662,-,Ken Tribbett,13/14,United States,9741.0,Drexel Dragons 
+"May 1, 2013",,Free transfer,United States,9741.0,Drexel Dragons ,271662,-,Ken Tribbett,12/13,United States,16925.0,Ocean City 
+"Dec 31, 2016",,End of loan,United States,626.0,Revolution ,276899,250 Th. €,Sambinha,16/17,Portugal,10949.0,Sporting B 
+"Jan 22, 2016",,Loan,Portugal,10949.0,Sporting B ,276899,250 Th. €,Sambinha,15/16,United States,626.0,Revolution 
+"Jul 1, 2013",,Free transfer,Portugal,13573.0,1º Dezembro ,276899,-,Sambinha,13/14,Portugal,10949.0,Sporting B 
+"Jul 1, 2011",,-,Portugal,34642.0,1º Dezembro ,276899,-,Sambinha,11/12,Portugal,13573.0,1º Dezembro 
+"Jan 14, 2016",,draft,United States,39851.0,UC Riverside ,277353,-,Michael Salazar,15/16,United States,4078.0,Montreal 
+"Oct 1, 2014",,Free transfer,United States,36462.0,PSA Elite ,277353,-,Michael Salazar,14/15,United States,39851.0,UC Riverside 
+"May 1, 2014",,Free transfer,United States,39851.0,UC Riverside ,277353,-,Michael Salazar,13/14,United States,36462.0,PSA Elite 
+"Mar 4, 2016",,-,United States,515.0,Unattached ,280855,-,Charlie Horton,15/16,,2440.0,DC United 
+"Nov 23, 2015",,-,England,399.0,Leeds ,280855,-,Charlie Horton,15/16,,515.0,Unattached 
+"Jul 1, 2015",,?,England,603.0,Cardiff ,280855,-,Charlie Horton,15/16,England,399.0,Leeds 
+"Jul 10, 2014",,-,England,515.0,Unattached ,280855,-,Charlie Horton,14/15,,603.0,Cardiff 
+"Apr 7, 2014",,-,England,1072.0,Peterborough ,280855,-,Charlie Horton,13/14,,515.0,Unattached 
+"Jul 25, 2013",,?,England,75.0,Unknown ,280855,-,Charlie Horton,13/14,,1072.0,Peterborough 
+"Mar 1, 2016",,-,United States,46720.0,Sounders FC 2 ,313448,-,Oalex Anderson,15/16,United States,9636.0,Sounders FC	 
+"Mar 20, 2015",,?,St. Vincent & Grenadinen,18000.0,System 3 ,313448,-,Oalex Anderson,14/15,United States,46720.0,Sounders FC 2 
+"Dec 31, 2014",,End of loan,Antigua and Barbuda,53146.0,Grenades FC ,313448,-,Oalex Anderson,14/15,St. Vincent & Grenadinen,18000.0,System 3 
+"Sep 1, 2014",,Loan,St. Vincent & Grenadinen,18000.0,System 3 ,313448,-,Oalex Anderson,14/15,Antigua and Barbuda,53146.0,Grenades FC 
+"Dec 31, 2016",,End of loan,United States,2440.0,DC United ,315169,"2,60 Mill. €",Luciano Acosta,16/17,Argentina,189.0,Boca Juniors 
+"Feb 15, 2016",,Loan,Argentina,189.0,Boca Juniors ,315169,"2,60 Mill. €",Luciano Acosta,15/16,United States,2440.0,DC United 
+"Dec 31, 2015",,End of loan,Argentina,288.0,Estudiantes ,315169,"1,25 Mill. €",Luciano Acosta,15/16,Argentina,189.0,Boca Juniors 
+"Jan 24, 2015",,Loan,Argentina,189.0,Boca Juniors ,315169,500 Th. €,Luciano Acosta,14/15,Argentina,288.0,Estudiantes 
+"Jan 1, 2014",,-,Argentina,15098.0,Boca U20 ,315169,-,Luciano Acosta,13/14,Argentina,189.0,Boca Juniors 
+"Jan 13, 2016",,Free transfer,Hungary,708.0,Újpest FC ,321946,100 Th. €,Dániel Sallói,15/16,United States,4284.0,Kansas 
+"Jul 1, 2015",,Free transfer,United States,29824.0,Sporting Kansas City Academy ,321946,-,Dániel Sallói,15/16,Hungary,708.0,Újpest FC 
+"Jul 1, 2014",,Free transfer,Hungary,15913.0,Újpest U19 ,321946,-,Dániel Sallói,14/15,United States,29824.0,Sporting Kansas City Academy 
+"Jan 14, 2016",,draft,United States,2934.0,Clemson Tigers ,325377,-,Kyle Fisher,15/16,United States,4078.0,Montreal 
+"Jun 30, 2014",,End of loan,United States,30255.0,Timbers III U23 ,325377,-,Kyle Fisher,13/14,United States,2934.0,Clemson Tigers 
+"Mar 1, 2014",,Loan,United States,2934.0,Clemson Tigers ,325377,-,Kyle Fisher,13/14,United States,30255.0,Timbers III U23 
+"Mar 3, 2016",,-,United States,33285.0,LA Galaxy II ,329713,75 Th. €,Ariel Lassiter,15/16,United States,1061.0,Los Angeles 
+"Jan 29, 2015",,Free transfer,Sweden,7009.0,GAIS Göteborg ,329713,75 Th. €,Ariel Lassiter,14/15,United States,33285.0,LA Galaxy II 
+"Jul 24, 2014",,Free transfer,United States,7247.0,Cal Poly Mustangs / USA ,329713,-,Ariel Lassiter,14/15,Sweden,7009.0,GAIS Göteborg 
+"Jan 21, 2016",,Free transfer,United States,9763.0,Stanford Card. ,337807,350 Th. €,Jordan Morris,15/16,United States,9636.0,Sounders FC	 
+"Feb 6, 2013",,Free transfer,United States,52151.0,Seattle Academy ,337807,-,Jordan Morris,12/13,United States,9763.0,Stanford Card. 
+"Dec 21, 2015",,-,United States,46720.0,Sounders FC 2 ,353479,50 Th. €,Tyler Miller,15/16,United States,9636.0,Sounders FC	 
+"Jul 9, 2015",,Free transfer,Germany,2621.0,SVN Zweibrücken ,353479,50 Th. €,Tyler Miller,15/16,United States,46720.0,Sounders FC 2 
+"Jan 10, 2015",,Free transfer,United States,46114.0,N. Wildcats ,353479,-,Tyler Miller,14/15,Germany,2621.0,SVN Zweibrücken 
+"Dec 31, 2016",,End of loan,United States,40058.0,NYC FC ,354577,-,Shannon Gómez,16/17,Trinidad and Tobago,5582.0,W Connection 
+"Mar 3, 2016",,Loan,Trinidad and Tobago,5582.0,W Connection ,354577,-,Shannon Gómez,15/16,United States,40058.0,NYC FC 
+"Mar 3, 2016",,Free transfer,United States,16902.0,Wilmington ,354887,50 Th. €,Andre Rawls,15/16,United States,40058.0,NYC FC 
+"Apr 3, 2015",,Free transfer,United States,40058.0,NYC FC ,354887,50 Th. €,Andre Rawls,14/15,United States,16902.0,Wilmington 
+"Jan 20, 2015",,draft,United States,10406.0,St. Mary´s College of California ,354887,-,Andre Rawls,14/15,United States,40058.0,NYC FC 
+"Dec 31, 2015",,End of loan,United States,46719.0,Port. Timbers 2 ,354892,50 Th. €,Anthony Manning,15/16,United States,4291.0,Timbers 
+"Jul 25, 2015",,Loan,United States,4291.0,Timbers ,354892,50 Th. €,Anthony Manning,15/16,United States,46719.0,Port. Timbers 2 
+"Jul 13, 2015",,-,United States,46719.0,Port. Timbers 2 ,354892,50 Th. €,Anthony Manning,15/16,United States,4291.0,Timbers 
+"Mar 29, 2015",,-,United States,4291.0,Timbers ,354892,50 Th. €,Anthony Manning,14/15,United States,46719.0,Port. Timbers 2 
+"Jan 20, 2015",,draft,United States,47199.0,SLU Billikens ,354892,-,Anthony Manning,14/15,United States,4291.0,Timbers 
+"Mar 5, 2016",,-,United States,46823.0,Toronto FC II ,364640,-,Mo Babouli,15/16,United States,11141.0,Toronto 
+"Mar 12, 2015",,-,Canada,29487.0,TFC Academy ,364640,-,Mo Babouli,14/15,United States,46823.0,Toronto FC II 
+"Jan 20, 2015",,draft,United States,13325.0,Marquette Athletics ,367391,-,Charlie Lyon,14/15,United States,9636.0,Sounders FC	 
+"Aug 5, 2015",,-,United States,33285.0,LA Galaxy II ,367552,-,Dave Romney,15/16,United States,1061.0,Los Angeles 
+"Jan 1, 2015",,Free transfer,United States,48856.0,SF City FC ,367552,-,Dave Romney,14/15,United States,33285.0,LA Galaxy II 
+"Dec 17, 2015",,?,United States,4290.0,Pittsburgh ,369158,-,Calle Brown,15/16,United States,9168.0,Houston 
+"Jan 1, 2015",,Free transfer,United States,9842.0,Virginia Cavs ,369158,-,Calle Brown,14/15,United States,4290.0,Pittsburgh 
+"Dec 17, 2015",,?,United States,4290.0,Pittsburgh ,372377,-,Calle Brown,15/16,United States,9168.0,Houston 
+"Jan 1, 2015",,Free transfer,United States,9842.0,Virginia Cavs ,372377,-,Calle Brown,14/15,United States,4290.0,Pittsburgh 
+"Jan 14, 2016",,draft,United States,3313.0,Robert Morris College (USA) ,372933,-,Neco Brett,15/16,United States,4291.0,Timbers 
+"Jan 1, 2012",,Free transfer,Jamaica,1178.0,Harbour View ,372933,-,Neco Brett,11/12,United States,3313.0,Robert Morris College (USA) 
+"Dec 29, 2015",,-,United States,45806.0,Real Monarchs ,375074,-,Danilo Acosta,15/16,United States,6643.0,Salt Lake 
+"Jan 1, 2015",,-,United States,38943.0,RSL Academy ,375074,-,Danilo Acosta,14/15,United States,45806.0,Real Monarchs 
+"Jul 15, 2015",,Free transfer,United States,49900.0,Montv. Academy ,382033,-,Matheus Silva,15/16,United States,218.0,Quakes 
+"Nov 9, 2015",,-,United States,9734.0,Orlando C. U23 ,401361,-,Mason Stajduhar,15/16,United States,45604.0,Orlando 
+"Dec 17, 2015",,Free transfer,United States,46114.0,N. Wildcats ,413158,-,Joey Calistri,15/16,United States,432.0,Chicago 
+"Jan 5, 2016",,Free transfer,United States,38984.0,Fl Gulf Coast ,415334,-,Aarón Guillén,15/16,United States,8816.0,FC Dallas	 
+"Jan 1, 2012",,Free transfer,United States,1196.0,Dallas Juniors ,415334,-,Aarón Guillén,11/12,United States,38984.0,Fl Gulf Coast 
+"Jan 15, 2016",,trade,United States,432.0,Chicago ,417346,-,Jack Harrison,15/16,United States,40058.0,NYC FC 
+"Jan 14, 2016",,draft,United States,9783.0,Demon Deacons ,417346,-,Jack Harrison,15/16,United States,432.0,Chicago 
+"Jan 14, 2016",,draft,United States,9763.0,Stanford Card. ,417347,-,Brandon Vincent,15/16,United States,432.0,Chicago 
+"Jan 14, 2016",,draft,United States,5231.0,Akron Zips ,417348,-,Richmond Laryea,15/16,United States,45604.0,Orlando 
+"Jan 14, 2016",,draft,United States,2934.0,Clemson Tigers ,417349,-,Andrew Tarbell,15/16,United States,218.0,Quakes 
+"Jan 14, 2016",,draft,United States,516.0,M. Terrapins ,417350,-,Tsubasa Endoh,15/16,United States,11141.0,Toronto 
+"Nov 30, 2016",,End of loan,United States,3372.0,Rochester ,417381,50 Th. €,Jordan McCrary,16/17,United States,626.0,Revolution 
+"Apr 1, 2016",,Loan,United States,626.0,Revolution ,417381,50 Th. €,Jordan McCrary,15/16,United States,3372.0,Rochester 
+"Jan 14, 2016",,draft,United States,9777.0,Tar Heels ,417381,-,Jordan McCrary,15/16,United States,626.0,Revolution 
+"Jan 14, 2016",,draft,United States,9777.0,Tar Heels ,417383,-,Jonathan Campbell,15/16,United States,432.0,Chicago 
+"Jan 14, 2016",,draft,United States,31632.0,University of Central Florida ,417384,-,Hadji Barry,15/16,United States,45604.0,Orlando 
+"Jan 14, 2016",,draft,United States,9746.0,GU Hoyas ,417386,-,Cole Seiler,15/16,United States,6321.0,Vancouver 
+"Jan 14, 2016",,draft,United States,9782.0,WA Huskies ,417387,-,Ryan Herman,15/16,United States,8816.0,FC Dallas	 
+"Jan 14, 2016",,draft,United States,43307.0,SIUE Cougars ,417388,-,Justin Bilyeu,15/16,United States,623.0,NY Red Bulls 
+"Jan 14, 2016",,draft,United States,38984.0,Fl Gulf Coast ,417389,-,Rodrigo Saravia,15/16,United States,813.0,Columbus 
+"Jan 14, 2016",,draft,United States,36097.0,Syracuse Athl. ,417390,-,Ben Polk,15/16,United States,4291.0,Timbers 
+"Jan 14, 2016",,draft,United States,30846.0,University of North Florida ,417393,-,Alex Morrell,15/16,United States,432.0,Chicago 
+"Jan 14, 2016",,draft,United States,46852.0,SCUDH ,417616,-,Tony Alfaro,15/16,United States,9636.0,Sounders FC	 
+"Jan 14, 2016",,draft,United States,9783.0,Demon Deacons ,417618,-,Michael Gamble,15/16,United States,626.0,Revolution 
+"Dec 31, 2016",,End of loan,United States,813.0,Columbus ,419247,-,Christian Martínez,16/17,Panama,18952.0,Chorrillo FC 
+"May 17, 2016",,Loan,Panama,18952.0,Chorrillo FC ,419247,-,Christian Martínez,15/16,United States,813.0,Columbus 
+"Jan 19, 2016",,draft,United States,39623.0,UNC Wilmington ,425006,-,Colin Bonner,15/16,United States,8816.0,FC Dallas	 
+"Mar 4, 2016",,Free transfer,United States,38369.0,Wildcats ,425266,-,Matt Pacifici,15/16,United States,813.0,Columbus 
+,,,,,,425306,,,,,,
+"Jan 19, 2016",,draft,United States,9753.0,Ohio State University ,425308,-,Chris Froschauer,15/16,United States,1247.0,Colorado 
+"Jan 19, 2016",,draft,United States,9747.0,Indiana Hoosier ,427612,-,Femi Hollinger-Janzen,15/16,United States,626.0,Revolution 
+"May 16, 2016",,-,United States,515.0,Unattached ,435608,-,Agustín Jara,15/16,,8816.0,FC Dallas	 
+"Jan 1, 2016",,-,Argentina,15944.0,Colon II ,435608,-,Agustín Jara,15/16,,515.0,Unattached 
+"Jan 14, 2016",,?,Sweden,699.0,Helsingborgs IF ,279681,200 Th. €,Emmanuel Boateng,15/16,United States,1061.0,Los Angeles 
+"Jul 19, 2013",,?,United States,9767.0,UCSB Gauchos ,279681,-,Emmanuel Boateng,13/14,Sweden,699.0,Helsingborgs IF 
+"Jul 1, 2009",,?,Ghana,40902.0,Right to Dream ,279681,-,Emmanuel Boateng,09/10,United States,9767.0,UCSB Gauchos 
+"Aug 7, 2015",,Free transfer,Germany,24.0,E. Frankfurt ,2050,"1,50 Mill. €",Nelson Valdez,15/16,United States,9636.0,Sounders FC	 
+"Jul 29, 2014",,Free transfer,United Arab Emirates,2524.0,Al-Jazira ,2050,"2,50 Mill. €",Nelson Valdez,14/15,Germany,24.0,E. Frankfurt 
+"Jun 30, 2014",,End of loan,Greece,683.0,Olympiacos ,2050,"2,50 Mill. €",Nelson Valdez,13/14,United Arab Emirates,2524.0,Al-Jazira 
+"Jan 30, 2014",,Loan,United Arab Emirates,2524.0,Al-Jazira ,2050,"3,00 Mill. €",Nelson Valdez,13/14,Greece,683.0,Olympiacos 
+"Jul 17, 2013",,"3,00 Mill. €",Spain,1049.0,Valencia CF ,2050,"3,00 Mill. €",Nelson Valdez,13/14,United Arab Emirates,2524.0,Al-Jazira 
+"Jul 1, 2013",,"3,00 Mill. €",Russia,2698.0,Rubin Kazan ,2050,"3,00 Mill. €",Nelson Valdez,13/14,Spain,1049.0,Valencia CF 
+"Jun 30, 2013",,End of loan,Spain,1049.0,Valencia CF ,2050,"3,00 Mill. €",Nelson Valdez,12/13,Russia,2698.0,Rubin Kazan 
+"Aug 14, 2012",,Loan,Russia,2698.0,Rubin Kazan ,2050,"5,00 Mill. €",Nelson Valdez,12/13,Spain,1049.0,Valencia CF 
+"Aug 14, 2011",,"4,00 Mill. €",Spain,7971.0,Hércules CF ,2050,"5,00 Mill. €",Nelson Valdez,11/12,Russia,2698.0,Rubin Kazan 
+"Aug 17, 2010",,"3,50 Mill. €",Germany,16.0,Bor. Dortmund ,2050,"4,00 Mill. €",Nelson Valdez,10/11,Spain,7971.0,Hércules CF 
+"Jul 1, 2006",,"4,70 Mill. €",Germany,86.0,Werder Bremen ,2050,"5,00 Mill. €",Nelson Valdez,06/07,Germany,16.0,Bor. Dortmund 
+"Jul 1, 2003",,-,Germany,87.0,W. Bremen II ,2050,-,Nelson Valdez,03/04,Germany,86.0,Werder Bremen 
+"Dec 1, 2001",,830 Th. €,Paraguay,908.0,Atletico Tembetary ,2050,-,Nelson Valdez,01/02,Germany,87.0,W. Bremen II 
+"Jul 27, 2015",,Free transfer,England,1039.0,QPR ,3467,500 Th. €,Shaun Wright-Phillips,15/16,United States,623.0,NY Red Bulls 
+"Aug 1, 2011",,"4,50 Mill. €",England,281.0,Manchester City ,3467,"8,00 Mill. €",Shaun Wright-Phillips,11/12,England,1039.0,QPR 
+"Aug 1, 2008",,"11,25 Mill. €",England,631.0,Chelsea ,3467,"13,00 Mill. €",Shaun Wright-Phillips,08/09,England,281.0,Manchester City 
+"Jul 1, 2005",,"31,50 Mill. €",England,281.0,Manchester City ,3467,"9,50 Mill. €",Shaun Wright-Phillips,05/06,England,631.0,Chelsea 
+"Jul 1, 1999",,-,England,6930.0,Man City U18 ,3467,-,Shaun Wright-Phillips,99/00,England,281.0,Manchester City 
+"Jul 1, 1996",,Free transfer,England,12799.0,Not. Forest U18 ,3467,-,Shaun Wright-Phillips,96/97,England,6930.0,Man City U18 
+"Jul 15, 2015",,"6,35 Mill. €",Spain,1050.0,Villarreal CF ,44674,"9,00 Mill. €",Giovani dos Santos,15/16,United States,1061.0,Los Angeles 
+"Jul 9, 2013",,"6,00 Mill. €",Spain,237.0,RCD Mallorca ,44674,"6,50 Mill. €",Giovani dos Santos,13/14,Spain,1050.0,Villarreal CF 
+"Aug 31, 2012",,"1,00 Mill. €",England,148.0,Spurs ,44674,"4,00 Mill. €",Giovani dos Santos,12/13,Spain,237.0,RCD Mallorca 
+"Jun 30, 2011",,End of loan,Spain,630.0,Racing ,44674,"5,00 Mill. €",Giovani dos Santos,10/11,England,148.0,Spurs 
+"Jan 31, 2011",,Loan fee:300 Th. €,England,148.0,Spurs ,44674,"5,50 Mill. €",Giovani dos Santos,10/11,Spain,630.0,Racing 
+"Jun 30, 2010",,End of loan,Turkey,141.0,Galatasaray ,44674,"4,00 Mill. €",Giovani dos Santos,09/10,England,148.0,Spurs 
+"Jan 27, 2010",,Loan fee:700 Th. €,England,148.0,Spurs ,44674,"4,00 Mill. €",Giovani dos Santos,09/10,Turkey,141.0,Galatasaray 
+"Jun 30, 2009",,End of loan,England,677.0,Ipswich ,44674,"5,50 Mill. €",Giovani dos Santos,08/09,England,148.0,Spurs 
+"Mar 10, 2009",,Loan,England,148.0,Spurs ,44674,"5,50 Mill. €",Giovani dos Santos,08/09,England,677.0,Ipswich 
+"Jul 1, 2008",,"6,00 Mill. €",Spain,131.0,FC Barcelona ,44674,"6,00 Mill. €",Giovani dos Santos,08/09,England,148.0,Spurs 
+"Jul 1, 2007",,-,Spain,2464.0,FC Barcelona B ,44674,"2,25 Mill. €",Giovani dos Santos,07/08,Spain,131.0,FC Barcelona 
+"Jul 1, 2005",,-,Spain,2470.0,Barça Juvenil A ,44674,-,Giovani dos Santos,05/06,Spain,2464.0,FC Barcelona B 
+"Jul 1, 2002",,Free transfer,Mexico,18498.0,Monterrey U20 ,44674,-,Giovani dos Santos,02/03,Spain,2470.0,Barça Juvenil A 
+"Jan 18, 2016",,?,Turkey,11282.0,Alanyaspor ,51479,750 Th. €,Sunny,15/16,United States,6643.0,Salt Lake 
+"Jul 25, 2015",,Free transfer,Bulgaria,208.0,CSKA Sofia ,51479,"1,00 Mill. €",Sunny,15/16,Turkey,11282.0,Alanyaspor 
+"Jan 5, 2014",,Free transfer,Israel,4769.0,Bnei Sakhnin ,51479,"1,00 Mill. €",Sunny,13/14,Bulgaria,208.0,CSKA Sofia 
+"Jul 30, 2013",,Free transfer,Spain,2296.0,CD Numancia ,51479,"1,00 Mill. €",Sunny,13/14,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2011",,Free transfer,Spain,1049.0,Valencia CF ,51479,"1,00 Mill. €",Sunny,11/12,Spain,2296.0,CD Numancia 
+"Jun 30, 2011",,End of loan,Spain,2296.0,CD Numancia ,51479,"1,00 Mill. €",Sunny,10/11,Spain,1049.0,Valencia CF 
+"Jan 1, 2011",,Loan,Spain,1049.0,Valencia CF ,51479,"1,00 Mill. €",Sunny,10/11,Spain,2296.0,CD Numancia 
+"Jun 30, 2010",,End of loan,Spain,150.0,Real Betis ,51479,"1,00 Mill. €",Sunny,09/10,Spain,1049.0,Valencia CF 
+"Jul 1, 2009",,Loan fee:500 Th. €,Spain,1049.0,Valencia CF ,51479,800 Th. €,Sunny,09/10,Spain,150.0,Real Betis 
+"Jun 30, 2009",,End of loan,Spain,331.0,CA Osasuna ,51479,800 Th. €,Sunny,08/09,Spain,1049.0,Valencia CF 
+"Jul 1, 2008",,Loan,Spain,1049.0,Valencia CF ,51479,800 Th. €,Sunny,08/09,Spain,331.0,CA Osasuna 
+"Jul 1, 2007",,"1,80 Mill. €",Spain,606.0,Poli Ejido ,51479,-,Sunny,07/08,Spain,1049.0,Valencia CF 
+"Jul 1, 2005",,-,Spain,12833.0,Polideportivo Ejido B ,51479,-,Sunny,05/06,Spain,606.0,Poli Ejido 
+"Jan 26, 2016",,-,United States,515.0,Unattached ,40858,"2,00 Mill. €",Nuno André Coelho,15/16,,4284.0,Kansas 
+"Feb 2, 2015",,-,Turkey,20698.0,Balikesirspor ,40858,"2,00 Mill. €",Nuno André Coelho,14/15,,515.0,Unattached 
+"Jul 5, 2014",,?,Portugal,1075.0,Braga ,40858,"3,50 Mill. €",Nuno André Coelho,14/15,Turkey,20698.0,Balikesirspor 
+"Jul 1, 2011",,463 Th. €,Portugal,336.0,Sporting CP ,40858,"1,80 Mill. €",Nuno André Coelho,11/12,Portugal,1075.0,Braga 
+"Jul 1, 2010",,"1,00 Mill. €",Portugal,720.0,FC Porto ,40858,"2,00 Mill. €",Nuno André Coelho,10/11,Portugal,336.0,Sporting CP 
+"Jun 30, 2009",,End of loan,Portugal,2431.0,Estrela Amadora ,40858,"1,70 Mill. €",Nuno André Coelho,08/09,Portugal,720.0,FC Porto 
+"Jul 1, 2008",,Loan,Portugal,720.0,FC Porto ,40858,800 Th. €,Nuno André Coelho,08/09,Portugal,2431.0,Estrela Amadora 
+"Jun 30, 2008",,End of loan,Portugal,7378.0,Portimonense ,40858,800 Th. €,Nuno André Coelho,07/08,Portugal,720.0,FC Porto 
+"Aug 1, 2007",,Loan,Portugal,720.0,FC Porto ,40858,"1,20 Mill. €",Nuno André Coelho,07/08,Portugal,7378.0,Portimonense 
+"Jun 30, 2007",,End of loan,Belgium,3057.0,Standard Liège ,40858,"1,20 Mill. €",Nuno André Coelho,06/07,Portugal,720.0,FC Porto 
+"Jul 1, 2006",,Loan,Portugal,720.0,FC Porto ,40858,-,Nuno André Coelho,06/07,Belgium,3057.0,Standard Liège 
+"Jun 30, 2006",,End of loan,Portugal,3271.0,Maia ,40858,-,Nuno André Coelho,05/06,Portugal,720.0,FC Porto 
+"Jan 1, 2006",,Loan,Portugal,720.0,FC Porto ,40858,-,Nuno André Coelho,05/06,Portugal,3271.0,Maia 
+"Dec 1, 2005",,-,Portugal,10331.0,Porto B ,40858,-,Nuno André Coelho,05/06,Portugal,720.0,FC Porto 
+"Jul 1, 2004",,-,Portugal,9844.0,FC Porto U19 ,40858,-,Nuno André Coelho,04/05,Portugal,10331.0,Porto B 
+"Dec 31, 2016",,End of loan,United States,25467.0,Philadelphia ,187759,750 Th. €,Anderson Conceição,16/17,Brazil,3234.0,Tombense 
+"Jan 14, 2016",,Loan,Brazil,3234.0,Tombense ,187759,850 Th. €,Anderson Conceição,15/16,United States,25467.0,Philadelphia 
+"Nov 30, 2015",,End of loan,Brazil,2863.0,América-MG ,187759,650 Th. €,Anderson Conceição,15/16,Brazil,3234.0,Tombense 
+"Jan 1, 2015",,Loan,Brazil,3234.0,Tombense ,187759,500 Th. €,Anderson Conceição,14/15,Brazil,2863.0,América-MG 
+"Dec 31, 2014",,End of loan,Brazil,3330.0,Joinville ,187759,500 Th. €,Anderson Conceição,14/15,Brazil,3234.0,Tombense 
+"Jun 14, 2014",,Loan,Brazil,3234.0,Tombense ,187759,-,Anderson Conceição,13/14,Brazil,3330.0,Joinville 
+"Jun 1, 2014",,End of loan,Brazil,10010.0,Bahia ,187759,-,Anderson Conceição,13/14,Brazil,3234.0,Tombense 
+"Jan 1, 2014",,Loan,Brazil,3234.0,Tombense ,187759,-,Anderson Conceição,13/14,Brazil,10010.0,Bahia 
+"Nov 30, 2013",,End of loan,Brazil,3234.0,Tombense ,187759,-,Anderson Conceição,13/14,Brazil,15172.0,Atlético-GO 
+"Aug 1, 2013",,Loan,Brazil,3234.0,Tombense ,187759,"1,20 Mill. €",Anderson Conceição,13/14,Brazil,15172.0,Atlético-GO 
+"Jun 30, 2013",,End of loan,Spain,237.0,RCD Mallorca ,187759,"1,20 Mill. €",Anderson Conceição,12/13,Brazil,3234.0,Tombense 
+"Aug 21, 2012",,Loan,Brazil,3234.0,Tombense ,187759,500 Th. €,Anderson Conceição,12/13,Spain,237.0,RCD Mallorca 
+"Aug 20, 2012",,End of loan,Brazil,4064.0,Figueirense FC ,187759,300 Th. €,Anderson Conceição,12/13,Brazil,3234.0,Tombense 
+"May 1, 2012",,Loan,Brazil,3234.0,Tombense ,187759,-,Anderson Conceição,11/12,Brazil,4064.0,Figueirense FC 
+"Apr 30, 2012",,End of loan,Brazil,7178.0,Criciúma EC ,187759,-,Anderson Conceição,11/12,Brazil,3234.0,Tombense 
+"Jun 1, 2011",,Loan,Brazil,3234.0,Tombense ,187759,-,Anderson Conceição,10/11,Brazil,7178.0,Criciúma EC 
+"May 1, 2011",,Free transfer,Brazil,16220.0,Resende ,187759,-,Anderson Conceição,10/11,Brazil,3234.0,Tombense 
+"Jan 1, 2011",,Free transfer,Brazil,1784.0,Mogi Mirim ,187759,-,Anderson Conceição,10/11,Brazil,16220.0,Resende 
+"Jan 1, 2009",,Free transfer,Brazil,14701.0,Santos B ,187759,-,Anderson Conceição,08/09,Brazil,1784.0,Mogi Mirim 
+"Jan 26, 2016",,?,United States,1247.0,Colorado ,62240,"2,00 Mill. €",Maynor Figueroa,15/16,United States,8816.0,FC Dallas	 
+"Aug 7, 2015",,Free transfer,England,3008.0,Hull City ,62240,"2,00 Mill. €",Maynor Figueroa,15/16,United States,1247.0,Colorado 
+"Dec 22, 2014",,End of loan,England,1071.0,Wigan ,62240,"3,00 Mill. €",Maynor Figueroa,14/15,England,3008.0,Hull City 
+"Oct 21, 2014",,Loan,England,3008.0,Hull City ,62240,"3,00 Mill. €",Maynor Figueroa,14/15,England,1071.0,Wigan 
+"Jul 1, 2013",,Free transfer,England,1071.0,Wigan ,62240,"4,50 Mill. €",Maynor Figueroa,13/14,England,3008.0,Hull City 
+"Jan 1, 2009",,?,Honduras,2720.0,Olimpia ,62240,500 Th. €,Maynor Figueroa,08/09,England,1071.0,Wigan 
+"Dec 31, 2008",,End of loan,England,1071.0,Wigan ,62240,500 Th. €,Maynor Figueroa,08/09,Honduras,2720.0,Olimpia 
+"Jan 1, 2008",,Loan,Honduras,2720.0,Olimpia ,62240,-,Maynor Figueroa,07/08,England,1071.0,Wigan 
+"Jan 1, 2003",,Free transfer,Honduras,2445.0,CD Victoria ,62240,-,Maynor Figueroa,02/03,Honduras,2720.0,Olimpia 
+"Jul 1, 1999",,-,Honduras,464.0,Own U19 ,62240,-,Maynor Figueroa,99/00,,2445.0,CD Victoria 
+"Jan 23, 2016",,"1,50 Mill. €",Germany,79.0,VfB Stuttgart ,189475,"2,00 Mill. €",Carlos Gruezo,15/16,United States,8816.0,FC Dallas	 
+"Jan 30, 2014",,"1,00 Mill. €",Ecuador,3523.0,Barcelona SC ,189475,"1,00 Mill. €",Carlos Gruezo,13/14,Germany,79.0,VfB Stuttgart 
+"Jan 31, 2012",,?,Ecuador,19309.0,Independiente ,189475,-,Carlos Gruezo,11/12,Ecuador,3523.0,Barcelona SC 
+"Jul 1, 2011",,-,Ecuador,39950.0,Independiente B ,189475,-,Carlos Gruezo,11/12,Ecuador,19309.0,Independiente 
+"Jan 1, 2011",,-,Ecuador,39908.0,Independ. U20 ,189475,-,Carlos Gruezo,10/11,Ecuador,39950.0,Independiente B 
+"Mar 9, 2010",,?,Ecuador,21812.0,LDU Quito U20 ,189475,-,Carlos Gruezo,09/10,Ecuador,39908.0,Independ. U20 
+"Jul 1, 2015",,Free transfer,England,31.0,Liverpool ,3109,"4,00 Mill. €",Steven Gerrard,15/16,United States,1061.0,Los Angeles 
+"Aug 1, 1998",,-,England,6922.0,Liverpool U18 ,3109,-,Steven Gerrard,98/99,England,31.0,Liverpool 
+"Jan 28, 2016",,?,Belgium,2861.0,KV Oostende ,75062,700 Th. €,Frédéric Brillant,15/16,United States,40058.0,NYC FC 
+"Jul 1, 2013",,Free transfer,Belgium,566.0,Beerschot AC ,75062,600 Th. €,Frédéric Brillant,13/14,Belgium,2861.0,KV Oostende 
+"Jul 1, 2012",,?,Belgium,2861.0,KV Oostende ,75062,400 Th. €,Frédéric Brillant,12/13,Belgium,566.0,Beerschot AC 
+"Jul 1, 2011",,?,Belgium,9827.0,RE Bertrix ,75062,-,Frédéric Brillant,11/12,Belgium,2861.0,KV Oostende 
+"Jul 1, 2005",,Free transfer,France,10880.0,CS Sedan-Ardennes B ,75062,-,Frédéric Brillant,05/06,Belgium,9827.0,RE Bertrix 
+"Jul 6, 2015",,Free transfer,Italy,506.0,Juventus ,5817,"1,00 Mill. €",Andrea Pirlo,15/16,United States,40058.0,NYC FC 
+"Jul 1, 2011",,Free transfer,Italy,5.0,AC Milan ,5817,"10,00 Mill. €",Andrea Pirlo,11/12,Italy,506.0,Juventus 
+"Jul 1, 2001",,"18,00 Mill. €",Italy,46.0,Inter ,5817,-,Andrea Pirlo,01/02,Italy,5.0,Milan 
+"Jun 30, 2001",,End of loan,Italy,19.0,Brescia ,5817,-,Andrea Pirlo,00/01,Italy,46.0,Inter 
+"Jan 1, 2001",,Loan,Italy,46.0,Inter ,5817,-,Andrea Pirlo,00/01,Italy,19.0,Brescia 
+"Jun 30, 2000",,End of loan,Italy,1386.0,Reggina ,5817,-,Andrea Pirlo,99/00,Italy,46.0,Inter 
+"Sep 1, 1999",,Loan,Italy,46.0,Inter ,5817,-,Andrea Pirlo,99/00,Italy,1386.0,Reggina 
+"Jul 1, 1998",,"2,00 Mill. €",Italy,19.0,Brescia ,5817,-,Andrea Pirlo,98/99,Italy,46.0,Inter 
+"Jul 1, 1996",,-,Italy,14829.0,Brescia U19 ,5817,-,Andrea Pirlo,96/97,Italy,19.0,Brescia 
+"Jul 1, 1995",,-,Italy,50454.0,Brescia U17 ,5817,-,Andrea Pirlo,95/96,Italy,14829.0,Brescia U19 
+"Jul 1, 1994",,-,Italy,29345.0,Brescia Jugend ,5817,-,Andrea Pirlo,94/95,Italy,50454.0,Brescia U17 
+"Feb 19, 2016",,Free transfer,Italy,5.0,AC Milan ,22203,"1,20 Mill. €",Antonio Nocerino,15/16,United States,45604.0,Orlando 
+"Jun 30, 2015",,End of loan,Italy,130.0,Parma ,22203,"2,00 Mill. €",Antonio Nocerino,14/15,Italy,5.0,AC Milan 
+"Jan 15, 2015",,Loan,Italy,5.0,AC Milan ,22203,"2,00 Mill. €",Antonio Nocerino,14/15,Italy,130.0,Parma 
+"Jan 14, 2015",,End of loan,Italy,416.0,Torino ,22203,"2,00 Mill. €",Antonio Nocerino,14/15,Italy,5.0,AC Milan 
+"Jul 2, 2014",,Loan,Italy,5.0,AC Milan ,22203,"4,50 Mill. €",Antonio Nocerino,14/15,Italy,416.0,Torino 
+"Jun 30, 2014",,End of loan,England,379.0,West Ham ,22203,"4,50 Mill. €",Antonio Nocerino,13/14,Italy,5.0,AC Milan 
+"Jan 25, 2014",,Loan,Italy,5.0,AC Milan ,22203,"4,50 Mill. €",Antonio Nocerino,13/14,England,379.0,West Ham 
+"Aug 31, 2011",,"1,00 Mill. €",Italy,458.0,US Palermo ,22203,"9,00 Mill. €",Antonio Nocerino,11/12,Italy,5.0,AC Milan 
+"Jul 1, 2008",,"7,50 Mill. €",Italy,506.0,Juventus ,22203,"9,50 Mill. €",Antonio Nocerino,08/09,Italy,458.0,US Palermo 
+"Jul 1, 2007",,"4,70 Mill. €",Italy,1408.0,Piacenza FC ,22203,"4,50 Mill. €",Antonio Nocerino,07/08,Italy,506.0,Juventus 
+"Jul 1, 2006",,?,Italy,4083.0,Crotone ,22203,500 Th. €,Antonio Nocerino,06/07,Italy,1408.0,Piacenza FC 
+"Jun 30, 2006",,End of loan,Italy,1104.0,Messina Peloro ,22203,500 Th. €,Antonio Nocerino,05/06,Italy,4083.0,Crotone 
+"Jan 1, 2006",,Loan,Italy,4083.0,Crotone ,22203,-,Antonio Nocerino,05/06,Italy,1104.0,Messina Peloro 
+"Jul 1, 2005",,gratuito,Italy,4097.0,Catanzaro ,22203,-,Antonio Nocerino,05/06,Italy,4083.0,Crotone 
+"Jan 3, 2005",,?,Italy,252.0,Genoa ,22203,-,Antonio Nocerino,04/05,Italy,4097.0,Catanzaro 
+"Jul 1, 2004",,?,Italy,2331.0,Avellino ,22203,-,Antonio Nocerino,04/05,Italy,252.0,Genoa 
+"Jul 1, 2003",,-,Italy,14902.0,Avellino ,22203,-,Antonio Nocerino,03/04,Italy,2331.0,Avellino 
+"Jul 1, 2002",,?,Italy,5232.0,Juventus Youth ,22203,-,Antonio Nocerino,02/03,Italy,14902.0,Avellino 
+"Jul 1, 2015",,Free transfer,Spain,621.0,Athletic Bilbao ,15804,"3,00 Mill. €",Andoni Iraola,15/16,United States,40058.0,NYC FC 
+"Jul 1, 2003",,-,Spain,6688.0,Bilbao Athletic ,15804,-,Andoni Iraola,03/04,Spain,621.0,Athletic Bilbao 
+"Jul 1, 2001",,-,Spain,6665.0,CD Basconia ,15804,-,Andoni Iraola,01/02,Spain,6688.0,Bilbao Athletic 
+"Jul 1, 2000",,-,Spain,28860.0,Bilbao U19 ,15804,-,Andoni Iraola,00/01,Spain,6665.0,CD Basconia 
+"Dec 31, 2016",,End of loan,United States,25467.0,Philadelphia ,128063,"1,25 Mill. €",Matt Jones,16/17,Portugal,2457.0,Belenenses 
+"Feb 9, 2016",,Loan,Portugal,2457.0,Belenenses ,128063,"1,60 Mill. €",Matt Jones,15/16,United States,25467.0,Philadelphia 
+"Jan 20, 2016",,End of loan,Portugal,7179.0,Tondela ,128063,"1,60 Mill. €",Matt Jones,15/16,Portugal,2457.0,Belenenses 
+"Jul 1, 2015",,Loan,Portugal,2457.0,Belenenses ,128063,"1,60 Mill. €",Matt Jones,15/16,Portugal,7179.0,Tondela 
+"Jul 1, 2012",,?,Portugal,976.0,União Madeira ,128063,350 Th. €,Matt Jones,12/13,Portugal,2457.0,Belenenses 
+"Jul 1, 2011",,Free transfer,Portugal,2423.0,Santa Clara ,128063,250 Th. €,Matt Jones,11/12,Portugal,976.0,União Madeira 
+"Jul 1, 2009",,Free transfer,United States,24788.0,Sacred Heart  ,128063,-,Matt Jones,09/10,Portugal,2423.0,Santa Clara 
+"Feb 3, 2016",,Free transfer,Italy,5.0,AC Milan ,4672,"4,00 Mill. €",Nigel de Jong,15/16,United States,1061.0,Los Angeles 
+"Aug 31, 2012",,"3,50 Mill. €",England,281.0,Manchester City ,4672,"13,00 Mill. €",Nigel de Jong,12/13,Italy,5.0,AC Milan 
+"Jan 21, 2009",,"18,00 Mill. €",Germany,41.0,Hamburger SV ,4672,"12,00 Mill. €",Nigel de Jong,08/09,England,281.0,Manchester City 
+"Jan 26, 2006",,"1,50 Mill. €",Netherlands,610.0,AFC Ajax ,4672,"4,50 Mill. €",Nigel de Jong,05/06,Germany,41.0,Hamburger SV 
+"Jul 1, 2002",,-,Netherlands,2824.0,Ajax U19 ,4672,-,Nigel de Jong,02/03,Netherlands,610.0,AFC Ajax 
+"Feb 29, 2016",,Free transfer,Romania,40843.0,Voluntari ,35527,450 Th. €,John Goossens,15/16,United States,432.0,Chicago 
+"Sep 7, 2015",,-,Romania,515.0,Unattached ,35527,750 Th. €,John Goossens,15/16,,40843.0,Voluntari 
+"Dec 31, 2014",,-,India,45275.0,FC Pune City ,35527,750 Th. €,John Goossens,14/15,,515.0,Unattached 
+"Aug 27, 2014",,Free transfer,Netherlands,234.0,Feyenoord ,35527,"1,00 Mill. €",John Goossens,14/15,India,45275.0,FC Pune City 
+"Jul 1, 2012",,Free transfer,Netherlands,467.0,NEC Nijmegen ,35527,"1,00 Mill. €",John Goossens,12/13,Netherlands,234.0,Feyenoord 
+"Jan 1, 2009",,?,Netherlands,8817.0,Ajax U21 ,35527,-,John Goossens,08/09,Netherlands,467.0,NEC Nijmegen 
+"Jan 1, 2006",,-,Netherlands,2824.0,Ajax U19 ,35527,-,John Goossens,05/06,Netherlands,8817.0,Ajax U21 
+"Jul 1, 2015",,200 Th. €,Spain,150.0,Real Betis ,137162,"1,20 Mill. €",Cedrick,15/16,United States,813.0,Columbus 
+"Jun 30, 2015",,End of loan,Spain,331.0,CA Osasuna ,137162,"1,20 Mill. €",Cedrick,14/15,Spain,150.0,Real Betis 
+"Aug 28, 2014",,Loan,Spain,150.0,Real Betis ,137162,"1,50 Mill. €",Cedrick,14/15,Spain,331.0,CA Osasuna 
+"Jul 1, 2013",,Free transfer,Spain,2296.0,CD Numancia ,137162,"1,50 Mill. €",Cedrick,13/14,Spain,150.0,Real Betis 
+"Aug 1, 2010",,Free transfer,Spain,3679.0,Atl. Madrid B ,137162,-,Cedrick,10/11,Spain,2296.0,CD Numancia 
+"Mar 23, 2016",,Free transfer,Brazil,609.0,Cruzeiro ,15952,"1,00 Mill. €",Júlio Baptista,15/16,United States,45604.0,Orlando 
+"Jul 24, 2013",,Free transfer,Spain,1084.0,Málaga CF ,15952,"3,00 Mill. €",Júlio Baptista,13/14,Brazil,609.0,Cruzeiro 
+"Jan 3, 2011",,"2,50 Mill. €",Italy,12.0,AS Roma ,15952,"5,00 Mill. €",Júlio Baptista,10/11,Spain,1084.0,Málaga CF 
+"Aug 14, 2008",,"10,00 Mill. €",Spain,418.0,Real Madrid ,15952,"11,00 Mill. €",Júlio Baptista,08/09,Italy,12.0,AS Roma 
+"Jun 30, 2007",,End of loan,England,11.0,Arsenal ,15952,"11,50 Mill. €",Júlio Baptista,06/07,Spain,418.0,Real Madrid 
+"Aug 31, 2006",,Loan,Spain,418.0,Real Madrid ,15952,"20,00 Mill. €",Júlio Baptista,06/07,England,11.0,Arsenal 
+"Jul 1, 2005",,"20,00 Mill. €",Spain,368.0,Sevilla FC ,15952,"25,00 Mill. €",Júlio Baptista,05/06,Spain,418.0,Real Madrid 
+"Jul 21, 2003",,"3,50 Mill. €",Brazil,585.0,São Paulo ,15952,-,Júlio Baptista,03/04,Spain,368.0,Sevilla FC 
+"Jan 1, 2000",,-,Brazil,14708.0,FC São Paulo B ,15952,-,Júlio Baptista,99/00,Brazil,585.0,São Paulo 
+"Mar 27, 2016",,-,United States,515.0,Unattached ,201336,75 Th. €,Andrea Mancini,15/16,,2440.0,DC United 
+"Jul 1, 2015",,-,Hungary,649.0,Szombathely ,201336,75 Th. €,Andrea Mancini,15/16,,515.0,Unattached 
+"Jan 20, 2015",,-,Hungary,515.0,Unattached ,201336,100 Th. €,Andrea Mancini,14/15,,649.0,Szombathely 
+"Oct 27, 2014",,-,Hungary,709.0,Budapest Honvéd ,201336,100 Th. €,Andrea Mancini,14/15,,515.0,Unattached 
+"Jul 1, 2013",,Free transfer,Spain,7078.0,Valladolid B ,201336,-,Andrea Mancini,13/14,Hungary,709.0,Budapest Honvéd 
+"Jul 1, 2012",,Free transfer,England,9265.0,Man City U21 ,201336,-,Andrea Mancini,12/13,Spain,7078.0,Valladolid B 
+"Jun 30, 2012",,End of loan,Italy,5615.0,Alma Fano ,201336,-,Andrea Mancini,11/12,England,9265.0,Man City U21 
+"Jan 1, 2012",,Loan,England,9265.0,Man City U21 ,201336,-,Andrea Mancini,11/12,Italy,5615.0,Alma Fano 
+"Dec 1, 2011",,End of loan,England,1078.0,Oldham Athletic ,201336,-,Andrea Mancini,11/12,England,9265.0,Man City U21 
+"Nov 1, 2011",,Loan,England,9265.0,Man City U21 ,201336,-,Andrea Mancini,11/12,England,1078.0,Oldham Athletic 
+"Nov 1, 2010",,Free transfer,Italy,14848.0,Bologna ,201336,-,Andrea Mancini,10/11,England,9265.0,Man City U21 
+"Jul 1, 2009",,Free transfer,Italy,24432.0,Inter Youth ,201336,-,Andrea Mancini,09/10,Italy,14848.0,Bologna 
+"May 1, 2009",,End of loan,Italy,14924.0,Monza Youth ,201336,-,Andrea Mancini,08/09,Italy,24432.0,Inter Youth 
+"Sep 1, 2008",,Loan,Italy,24432.0,Inter Youth ,201336,-,Andrea Mancini,08/09,Italy,14924.0,Monza Youth 
+"Jul 27, 2015",,Free transfer,England,631.0,Chelsea ,3924,"1,00 Mill. €",Didier Drogba,15/16,United States,4078.0,Montreal 
+"Jul 25, 2014",,Free transfer,Turkey,141.0,Galatasaray ,3924,"2,25 Mill. €",Didier Drogba,14/15,England,631.0,Chelsea 
+"Jan 28, 2013",,Free transfer,China,3183.0,SH Shenhua ,3924,"3,00 Mill. €",Didier Drogba,12/13,Turkey,141.0,Galatasaray 
+"Jul 1, 2012",,Free transfer,England,631.0,Chelsea ,3924,"5,50 Mill. €",Didier Drogba,12/13,China,3183.0,SH Shenhua 
+"Jul 20, 2004",,"38,50 Mill. €",France,244.0,Marseille ,3924,-,Didier Drogba,04/05,England,631.0,Chelsea 
+"Jul 1, 2003",,"6,00 Mill. €",France,855.0,Guingamp ,3924,-,Didier Drogba,03/04,France,244.0,Marseille 
+"Jan 27, 2002",,100 Th. €,France,1164.0,Le Mans ,3924,-,Didier Drogba,01/02,France,855.0,Guingamp 
+"Jul 1, 1998",,-,France,9802.0,FC Le Mans B ,3924,-,Didier Drogba,98/99,France,1164.0,Le Mans 
+"Jan 22, 2016",,Free transfer,Spain,1532.0,Albacete ,18646,400 Th. €,Agus,15/16,United States,9168.0,Houston 
+"Aug 31, 2015",,Free transfer,Spain,237.0,RCD Mallorca ,18646,400 Th. €,Agus,15/16,Spain,1532.0,Albacete 
+"Jul 10, 2013",,Free transfer,Turkey,2323.0,Orduspor ,18646,"1,00 Mill. €",Agus,13/14,Spain,237.0,RCD Mallorca 
+"Jul 1, 2012",,600 Th. €,Spain,11596.0,AD Alcorcón ,18646,"1,00 Mill. €",Agus,12/13,Turkey,2323.0,Orduspor 
+"Aug 1, 2011",,600 Th. €,Spain,993.0,Córdoba CF ,18646,"1,00 Mill. €",Agus,11/12,Spain,11596.0,AD Alcorcón 
+"Aug 1, 2009",,900 Th. €,Spain,6767.0,R. M. Castilla ,18646,-,Agus,09/10,Spain,993.0,Córdoba CF 
+"Jun 30, 2008",,End of loan,Spain,940.0,Celta de Vigo ,18646,800 Th. €,Agus,07/08,Spain,6767.0,R. M. Castilla 
+"Aug 1, 2007",,Loan,Spain,6767.0,R. M. Castilla ,18646,50 Th. €,Agus,07/08,Spain,940.0,Celta de Vigo 
+"Jul 1, 2005",,550 Th. €,Spain,8506.0,Albacete B ,18646,-,Agus,05/06,Spain,6767.0,R. M. Castilla 
+"Jul 1, 2004",,-,Spain,11655.0,Albacete Juv. A ,18646,-,Agus,04/05,Spain,8506.0,Albacete B 
+"Feb 2, 2016",,350 Th. €,Netherlands,202.0,FC Groningen ,124888,"1,00 Mill. €",Johan Kappelhof,15/16,United States,432.0,Chicago 
+"Jul 1, 2011",,?,Netherlands,8817.0,Ajax U21 ,124888,200 Th. €,Johan Kappelhof,11/12,Netherlands,202.0,FC Groningen 
+"Jul 1, 2009",,-,Netherlands,2824.0,Ajax U19 ,124888,-,Johan Kappelhof,09/10,Netherlands,8817.0,Ajax U21 
+"Jun 30, 2015",,End of loan,England,281.0,Manchester City ,3163,"1,00 Mill. €",Frank Lampard,14/15,United States,40058.0,NYC FC 
+"Aug 3, 2014",,Loan,United States,40058.0,NYC FC ,3163,"2,00 Mill. €",Frank Lampard,14/15,England,281.0,Manchester City 
+"Aug 1, 2014",,Free transfer,England,631.0,Chelsea ,3163,"2,00 Mill. €",Frank Lampard,14/15,United States,40058.0,NYC FC 
+"Jul 1, 2001",,"16,00 Mill. €",England,379.0,West Ham ,3163,-,Frank Lampard,01/02,England,631.0,Chelsea 
+"Nov 1, 1995",,End of loan,Wales,2288.0,Swansea ,3163,-,Frank Lampard,95/96,England,379.0,West Ham 
+"Oct 6, 1995",,Loan,England,379.0,West Ham ,3163,-,Frank Lampard,95/96,Wales,2288.0,Swansea 
+"Jul 1, 1995",,-,England,9955.0,West Ham U18 ,3163,-,Frank Lampard,95/96,England,379.0,West Ham 
+"Feb 4, 2016",,?,Netherlands,1268.0,ADO Den Haag ,64481,"1,25 Mill. €",Roland Alberg,15/16,United States,25467.0,Philadelphia 
+"Sep 2, 2013",,Free transfer,Turkey,2292.0,Elazigspor  ,64481,300 Th. €,Roland Alberg,13/14,Netherlands,1268.0,ADO Den Haag 
+"Jan 1, 2013",,?,Netherlands,798.0,SBV Excelsior ,64481,350 Th. €,Roland Alberg,12/13,Turkey,2292.0,Elazigspor  
+"Jul 1, 2011",,Free transfer,Netherlands,11368.0,AZ Alkmaar U21 ,64481,50 Th. €,Roland Alberg,11/12,Netherlands,798.0,SBV Excelsior 
+"Jul 1, 2009",,-,Netherlands,7460.0,AZ Alkmaar U19 ,64481,-,Roland Alberg,09/10,Netherlands,11368.0,AZ Alkmaar U21 
+"Jan 26, 2016",,?,Belgium,3057.0,Standard Liège ,4323,"1,50 Mill. €",Jelle van Damme,15/16,United States,1061.0,Los Angeles 
+"Jan 1, 2011",,"2,50 Mill. €",England,543.0,Wolves ,4323,"4,50 Mill. €",Jelle van Damme,10/11,Belgium,3057.0,Standard Liège 
+"Jul 1, 2010",,"3,25 Mill. €",Belgium,58.0,RSC Anderlecht ,4323,"4,50 Mill. €",Jelle van Damme,10/11,England,543.0,Wolves 
+"Jul 1, 2006",,500 Th. €,England,180.0,Southampton ,4323,"1,25 Mill. €",Jelle van Damme,06/07,Belgium,58.0,RSC Anderlecht 
+"Jun 30, 2006",,End of loan,Germany,86.0,Werder Bremen ,4323,"1,25 Mill. €",Jelle van Damme,05/06,England,180.0,Southampton 
+"Jul 1, 2005",,Loan fee:325 Th. €,England,180.0,Southampton ,4323,"2,25 Mill. €",Jelle van Damme,05/06,Germany,86.0,Werder Bremen 
+"Jul 1, 2004",,"3,00 Mill. €",Netherlands,610.0,AFC Ajax ,4323,-,Jelle van Damme,04/05,England,180.0,Southampton 
+"Mar 1, 2002",,Free transfer,Belgium,566.0,Beerschot AC ,4323,-,Jelle van Damme,01/02,Netherlands,610.0,AFC Ajax 
+"Jul 1, 2001",,Free transfer,Belgium,3493.0,KSC Lokeren U19 ,4323,-,Jelle van Damme,01/02,Belgium,566.0,Beerschot AC 
+"Jul 1, 1999",,Free transfer,Belgium,10921.0,KSK Beveren U19 ,4323,-,Jelle van Damme,99/00,Belgium,3493.0,KSC Lokeren U19 
+"May 31, 2016",,End of loan,United States,4291.0,Timbers ,218086,100 Th. €,Jack Barmby,16/17,England,39341.0,Leicester U21 
+"Mar 9, 2016",,Loan,England,39341.0,Leicester U21 ,218086,100 Th. €,Jack Barmby,15/16,United States,4291.0,Timbers 
+"Nov 13, 2015",,End of loan,England,1045.0,Notts County ,218086,100 Th. €,Jack Barmby,15/16,England,39341.0,Leicester U21 
+"Sep 25, 2015",,Loan,England,39341.0,Leicester U21 ,218086,100 Th. €,Jack Barmby,15/16,England,1045.0,Notts County 
+"Feb 6, 2015",,End of loan,England,1194.0,Rotherham ,218086,-,Jack Barmby,14/15,England,39341.0,Leicester U21 
+"Jan 8, 2015",,Loan,England,39341.0,Leicester U21 ,218086,-,Jack Barmby,14/15,England,1194.0,Rotherham 
+"Jul 1, 2014",,Free transfer,England,9251.0,Man Utd U21 ,218086,-,Jack Barmby,14/15,England,39341.0,Leicester U21 
+"May 31, 2014",,End of loan,England,2577.0,Hartlepool Utd. ,218086,-,Jack Barmby,13/14,England,9251.0,Man Utd U21 
+"Jan 23, 2014",,Loan,England,9251.0,Man Utd U21 ,218086,-,Jack Barmby,13/14,England,2577.0,Hartlepool Utd. 
+"Jul 1, 2013",,-,England,5242.0,Man Utd U18 ,218086,-,Jack Barmby,13/14,England,9251.0,Man Utd U21 
+"Dec 31, 2016",,End of loan,United States,4078.0,Montreal ,265916,900 Th. €,Lucas Ontivero,16/17,Turkey,141.0,Galatasaray 
+"Jan 18, 2016",,Loan fee:225 Th. €,Turkey,141.0,Galatasaray ,265916,900 Th. €,Lucas Ontivero,15/16,United States,4078.0,Montreal 
+"Dec 31, 2015",,End of loan,Slovenia,4772.0,NK Olimpija ,265916,900 Th. €,Lucas Ontivero,15/16,Turkey,141.0,Galatasaray 
+"Sep 3, 2015",,Loan,Turkey,141.0,Galatasaray ,265916,900 Th. €,Lucas Ontivero,15/16,Slovenia,4772.0,NK Olimpija 
+"Jun 30, 2015",,End of loan,Hungary,709.0,Budapest Honvéd ,265916,"1,20 Mill. €",Lucas Ontivero,14/15,Turkey,141.0,Galatasaray 
+"Feb 3, 2015",,Loan,Turkey,141.0,Galatasaray ,265916,"1,20 Mill. €",Lucas Ontivero,14/15,Hungary,709.0,Budapest Honvéd 
+"Jan 21, 2015",,End of loan,Turkey,524.0,Gaziantepspor ,265916,"1,50 Mill. €",Lucas Ontivero,14/15,Turkey,141.0,Galatasaray 
+"Aug 31, 2014",,Loan,Turkey,141.0,Galatasaray ,265916,"1,50 Mill. €",Lucas Ontivero,14/15,Turkey,524.0,Gaziantepspor 
+"Jan 31, 2014",,"2,00 Mill. €",Uruguay,3829.0,CA Fénix ,265916,200 Th. €,Lucas Ontivero,13/14,Turkey,141.0,Galatasaray 
+"Jul 1, 2012",,Free transfer,Argentina,1234.0,Independiente ,265916,-,Lucas Ontivero,12/13,Uruguay,3829.0,CA Fénix 
+"Jul 1, 2011",,?,Italy,29349.0,Genoa Youth ,265916,-,Lucas Ontivero,11/12,Argentina,1234.0,Independiente 
+"Jul 1, 2010",,?,England,6928.0,Tottenham U18 ,265916,-,Lucas Ontivero,10/11,Italy,29349.0,Genoa Youth 
+"Jan 1, 2010",,?,England,75.0,Unknown ,265916,-,Lucas Ontivero,09/10,,6928.0,Tottenham U18 
+"Jan 1, 2009",,?,Spain,13711.0,R. Madrid Youth ,265916,-,Lucas Ontivero,08/09,,75.0,Unknown 
+"Jul 1, 2006",,?,Spain,75.0,Unknown ,265916,-,Lucas Ontivero,06/07,,13711.0,R. Madrid Youth 
+"Aug 4, 2015",,Free transfer,Spain,3368.0,Levante UD ,2923,"2,50 Mill. €",Andreas Ivanschitz,15/16,United States,9636.0,Sounders FC	 
+"Jul 1, 2013",,Free transfer,Germany,39.0,1.FSV Mainz 05 ,2923,"3,00 Mill. €",Andreas Ivanschitz,13/14,Spain,3368.0,Levante UD 
+"Jul 1, 2011",,200 Th. €,Greece,265.0,Panathinaikos ,2923,"3,00 Mill. €",Andreas Ivanschitz,11/12,Germany,39.0,1.FSV Mainz 05 
+"Jun 30, 2011",,End of loan,Germany,39.0,1.FSV Mainz 05 ,2923,"3,00 Mill. €",Andreas Ivanschitz,10/11,Greece,265.0,Panathinaikos 
+"Jul 21, 2009",,"Loan fee:1,50 Mill. €",Greece,265.0,Panathinaikos ,2923,"3,25 Mill. €",Andreas Ivanschitz,09/10,Germany,39.0,1.FSV Mainz 05 
+"Jul 1, 2008",,"1,60 Mill. €",Austria,409.0,RB Salzburg ,2923,"4,30 Mill. €",Andreas Ivanschitz,08/09,Greece,265.0,Panathinaikos 
+"Jun 30, 2008",,End of loan,Greece,265.0,Panathinaikos ,2923,"4,30 Mill. €",Andreas Ivanschitz,07/08,Austria,409.0,RB Salzburg 
+"Aug 12, 2006",,Loan fee:900 Th. €,Austria,409.0,RB Salzburg ,2923,"3,50 Mill. €",Andreas Ivanschitz,06/07,Greece,265.0,Panathinaikos 
+"Jan 10, 2006",,"4,00 Mill. €",Austria,170.0,Rapid Vienna ,2923,"3,80 Mill. €",Andreas Ivanschitz,05/06,Austria,409.0,RB Salzburg 
+"Jul 1, 2000",,-,Austria,4753.0,AKA Rapid U18 ,2923,-,Andreas Ivanschitz,00/01,Austria,170.0,Rapid Vienna 
+"Jul 1, 1999",,-,Austria,42824.0,AKA Rapid U16 ,2923,-,Andreas Ivanschitz,99/00,Austria,4753.0,AKA Rapid U18 
+"Jul 1, 1998",,-,Austria,42823.0,AKA Rapid U15 ,2923,-,Andreas Ivanschitz,98/99,Austria,42824.0,AKA Rapid U16 
+"Feb 1, 1998",,Free transfer,Austria,31698.0,Baumgarten Jgd ,2923,-,Andreas Ivanschitz,97/98,Austria,42823.0,AKA Rapid U15 
+"Dec 31, 2016",,End of loan,United States,4284.0,Kansas ,179308,500 Th. €,Diego Rubio,16/17,Spain,366.0,Real Valladolid 
+"Mar 8, 2016",,Loan,Spain,366.0,Real Valladolid ,179308,500 Th. €,Diego Rubio,15/16,United States,4284.0,Kansas 
+"Aug 31, 2015",,400 Th. €,Portugal,10949.0,Sporting B ,179308,700 Th. €,Diego Rubio,15/16,Spain,366.0,Real Valladolid 
+"Dec 31, 2014",,End of loan,Norway,13025.0,Sandnes Ulf ,179308,700 Th. €,Diego Rubio,14/15,Portugal,10949.0,Sporting B 
+"Feb 3, 2014",,Loan,Portugal,10949.0,Sporting B ,179308,700 Th. €,Diego Rubio,13/14,Norway,13025.0,Sandnes Ulf 
+"Dec 31, 2013",,End of loan,Romania,8715.0,Pandurii T.-Jiu ,179308,700 Th. €,Diego Rubio,13/14,Portugal,10949.0,Sporting B 
+"Sep 2, 2013",,Loan,Portugal,10949.0,Sporting B ,179308,"1,50 Mill. €",Diego Rubio,13/14,Romania,8715.0,Pandurii T.-Jiu 
+"Jul 1, 2012",,-,Portugal,336.0,Sporting CP ,179308,"1,50 Mill. €",Diego Rubio,12/13,Portugal,10949.0,Sporting B 
+"Jul 1, 2011",,"1,00 Mill. €",Chile,2433.0,Colo Colo ,179308,-,Diego Rubio,11/12,Portugal,336.0,Sporting CP 
+"Jan 1, 2011",,-,Chile,13259.0,CSD Colo Colo U19 ,179308,-,Diego Rubio,10/11,Chile,2433.0,Colo Colo 
+"Jan 27, 2016",,Free transfer,Italy,12.0,AS Roma ,3182,500 Th. €,Ashley Cole,15/16,United States,1061.0,Los Angeles 
+"Jul 7, 2014",,Free transfer,England,631.0,Chelsea ,3182,"5,00 Mill. €",Ashley Cole,14/15,Italy,12.0,AS Roma 
+"Aug 31, 2006",,"7,40 Mill. €",England,11.0,Arsenal ,3182,"17,00 Mill. €",Ashley Cole,06/07,England,631.0,Chelsea 
+"May 8, 2000",,End of loan,England,873.0,Crystal Palace ,3182,-,Ashley Cole,99/00,England,11.0,Arsenal 
+"Feb 25, 2000",,Loan,England,11.0,Arsenal ,3182,-,Ashley Cole,99/00,England,873.0,Crystal Palace 
+"Jul 1, 1999",,-,England,9249.0,Arsenal U21 ,3182,-,Ashley Cole,99/00,England,11.0,Arsenal 
+"Jan 23, 2016",,-,United States,515.0,Unattached ,172143,800 Th. €,João Meira,15/16,,432.0,Chicago 
+"Jul 1, 2015",,-,Portugal,2457.0,Belenenses ,172143,800 Th. €,João Meira,15/16,,515.0,Unattached 
+"Jul 1, 2012",,?,Portugal,5227.0,Atlético ,172143,100 Th. €,João Meira,12/13,Portugal,2457.0,Belenenses 
+"Jul 1, 2009",,Free transfer,Portugal,7056.0,Mafra ,172143,-,João Meira,09/10,Portugal,5227.0,Atlético 
+"Jul 1, 2008",,Free transfer,Portugal,25817.0,Cova Piedade ,172143,-,João Meira,08/09,Portugal,7056.0,Mafra 
+"Jul 1, 2007",,Free transfer,Portugal,1085.0,Vitória Setúbal ,172143,-,João Meira,07/08,Portugal,25817.0,Cova Piedade 
+"Jul 1, 2006",,-,Portugal,15019.0,Setúbal U19 ,172143,-,João Meira,06/07,Portugal,9509.0,Setúbal B 
+"Jul 29, 2015",,Free transfer,Germany,33.0,FC Schalke 04 ,6645,"2,50 Mill. €",Tranquillo Barnetta,15/16,United States,25467.0,Philadelphia 
+"Jun 30, 2014",,End of loan,Germany,24.0,E. Frankfurt ,6645,"3,00 Mill. €",Tranquillo Barnetta,13/14,Germany,33.0,FC Schalke 04 
+"Sep 2, 2013",,Loan fee:500 Th. €,Germany,33.0,FC Schalke 04 ,6645,"3,00 Mill. €",Tranquillo Barnetta,13/14,Germany,24.0,E. Frankfurt 
+"Jul 3, 2012",,Free transfer,Germany,15.0,Bay. Leverkusen ,6645,"5,50 Mill. €",Tranquillo Barnetta,12/13,Germany,33.0,FC Schalke 04 
+"Jun 30, 2005",,End of loan,Germany,42.0,Hannover 96 ,6645,"1,00 Mill. €",Tranquillo Barnetta,04/05,Germany,15.0,Bay. Leverkusen 
+"Jul 2, 2004",,Loan fee:250 Th. €,Germany,15.0,Bay. Leverkusen ,6645,-,Tranquillo Barnetta,04/05,Germany,42.0,Hannover 96 
+"Jul 1, 2004",,250 Th. €,Switzerland,257.0,FC St. Gallen ,6645,-,Tranquillo Barnetta,04/05,Germany,15.0,Bay. Leverkusen 
+"Jul 1, 2002",,-,Switzerland,9248.0,FCSG U18 ,6645,-,Tranquillo Barnetta,02/03,Switzerland,257.0,FC St. Gallen 
+"Aug 7, 2015",,200 Th. €,Hungary,279.0,Ferencváros ,45304,700 Th. €,David Mateos,15/16,United States,45604.0,Orlando 
+"Sep 2, 2013",,?,Spain,6767.0,R. M. Castilla ,45304,"1,20 Mill. €",David Mateos,13/14,Hungary,279.0,Ferencváros 
+"Jun 30, 2012",,End of loan,Spain,142.0,Real Zaragoza ,45304,"1,00 Mill. €",David Mateos,11/12,Spain,6767.0,R. M. Castilla 
+"Jul 1, 2011",,Loan fee:200 Th. €,Spain,6767.0,R. M. Castilla ,45304,500 Th. €,David Mateos,11/12,Spain,142.0,Real Zaragoza 
+"Jun 30, 2011",,End of loan,Greece,2441.0,AEK FC ,45304,500 Th. €,David Mateos,10/11,Spain,6767.0,R. M. Castilla 
+"Jan 1, 2011",,Loan fee:80 Th. €,Spain,6767.0,R. M. Castilla ,45304,500 Th. €,David Mateos,10/11,Greece,2441.0,AEK FC 
+"Jul 1, 2006",,-,Spain,2868.0,Real Madrid C ,45304,-,David Mateos,06/07,Spain,6767.0,R. M. Castilla 
 ,'NoneType' object has no attribute 'find_all',,,,,425306,,,,,,
-"Jan 19, 2016",,draft,United States,9753,Ohio State University ,425308,-,Chris Froschauer,15/16,United States,1247,Colorado 
-"Jan 19, 2016",,draft,United States,9747,Indiana Hoosier ,427612,-,Femi Hollinger-Janzen,15/16,United States,626,Revolution 
-"May 16, 2016",,-,United States,515,Unattached ,435608,-,Agustín Jara,15/16,,8816,FC Dallas	 
-"Jan 1, 2016",,-,Argentina,15944,Colon II ,435608,-,Agustín Jara,15/16,,515,Unattached 

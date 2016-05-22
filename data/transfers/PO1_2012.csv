@@ -1,730 +1,1096 @@
 date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
-"Feb 2, 2016",,?,Angola,29294,Kabuscorp SC ,45306,700 Th. €,Evandro Brandão,15/16,Portugal,7811,Castelo Branco 
-"Jul 1, 2015",,Free transfer,Angola,26740,C.R.D. Libolo ,45306,700 Th. €,Evandro Brandão,15/16,Angola,29294,Kabuscorp SC 
-"Jan 1, 2014",,?,Portugal,7179,Tondela ,45306,700 Th. €,Evandro Brandão,13/14,Angola,26740,C.R.D. Libolo 
-"Aug 13, 2013",,Free transfer,Hungary,11107,Videoton FC ,45306,700 Th. €,Evandro Brandão,13/14,Portugal,7179,Tondela 
-"Jun 30, 2013",,End of loan,Portugal,4750,Olhanense ,45306,700 Th. €,Evandro Brandão,12/13,Hungary,11107,Videoton FC 
-"Jul 26, 2012",,Loan,Hungary,11107,Videoton FC ,45306,200 Th. €,Evandro Brandão,12/13,Portugal,4750,Olhanense 
-"Jul 1, 2011",,?,Portugal,10330,Benfica B ,45306,150 Th. €,Evandro Brandão,11/12,Hungary,11107,Videoton FC 
-"Jun 30, 2011",,End of loan,Portugal,3323,Gondomar ,45306,150 Th. €,Evandro Brandão,10/11,Portugal,10330,Benfica B 
-"Jan 1, 2011",,Loan,Portugal,10330,Benfica B ,45306,150 Th. €,Evandro Brandão,10/11,Portugal,3323,Gondomar 
-"Dec 1, 2010",,End of loan,Portugal,6987,Fátima ,45306,150 Th. €,Evandro Brandão,10/11,Portugal,10330,Benfica B 
-"Jul 1, 2010",,Loan,Portugal,8889,Benfica U19 ,45306,-,Evandro Brandão,10/11,Portugal,6987,Fátima 
-"Nov 1, 2009",,Free transfer,Portugal,12964,Braga U19 ,45306,-,Evandro Brandão,09/10,Portugal,8889,Benfica U19 
-"Jul 1, 2009",,Free transfer,England,5242,Man Utd U18 ,45306,-,Evandro Brandão,09/10,Portugal,12964,Braga U19 
-"Jan 1, 2007",,400 Th. €,England,14627,Walsall U18 ,45306,-,Evandro Brandão,06/07,England,5242,Man Utd U18 
-"Jul 1, 2011",,?,Brazil,17300,Desp. Brasil ,54306,250 Th. €,Ânderson Luís,11/12,Portugal,1465,Estoril 
-"May 1, 2011",,End of loan,Portugal,1465,Estoril ,54306,250 Th. €,Ânderson Luís,10/11,Brazil,17300,Desp. Brasil 
-"Aug 1, 2010",,Loan,Brazil,17300,Desp. Brasil ,54306,250 Th. €,Ânderson Luís,10/11,Portugal,1465,Estoril 
-"Jul 1, 2010",,?,Brazil,4064,Figueirense FC ,54306,250 Th. €,Ânderson Luís,10/11,Brazil,17300,Desp. Brasil 
-"May 1, 2010",,End of loan,Brazil,3876,Mirassol Futebol Clube (SP) ,54306,250 Th. €,Ânderson Luís,09/10,Brazil,4064,Figueirense FC 
-"Jan 1, 2010",,Loan,Brazil,4064,Figueirense FC ,54306,250 Th. €,Ânderson Luís,09/10,Brazil,3876,Mirassol Futebol Clube (SP) 
-"Sep 1, 2009",,End of loan,Brazil,15064,Guaratinguetá ,54306,700 Th. €,Ânderson Luís,09/10,Brazil,4064,Figueirense FC 
-"Jul 1, 2009",,Loan,Brazil,4064,Figueirense FC ,54306,700 Th. €,Ânderson Luís,09/10,Brazil,15064,Guaratinguetá 
-"Jan 1, 2007",,-,Brazil,15055,Figueirense U17 ,54306,-,Ânderson Luís,06/07,Brazil,4064,Figueirense FC 
-"Dec 31, 2015",,End of loan,United States,25467,Philadelphia ,54716,"1,20 Mill. €",Steven Vitória,15/16,Portugal,10330,Benfica B 
-"Feb 9, 2015",,Loan,Portugal,10330,Benfica B ,54716,"2,00 Mill. €",Steven Vitória,14/15,United States,25467,Philadelphia 
-"Jul 1, 2013",,Free transfer,Portugal,1465,Estoril ,54716,"2,20 Mill. €",Steven Vitória,13/14,Portugal,10330,Benfica B 
-"Jul 1, 2010",,Free transfer,Portugal,720,FC Porto ,54716,300 Th. €,Steven Vitória,10/11,Portugal,1465,Estoril 
-"Jun 30, 2010",,End of loan,Portugal,10140,Covilhã ,54716,300 Th. €,Steven Vitória,09/10,Portugal,720,FC Porto 
-"Jul 1, 2009",,Loan,Portugal,720,FC Porto ,54716,300 Th. €,Steven Vitória,09/10,Portugal,10140,Covilhã 
-"Jun 30, 2009",,End of loan,Portugal,4750,Olhanense ,54716,300 Th. €,Steven Vitória,08/09,Portugal,720,FC Porto 
-"Jul 1, 2007",,Loan,Portugal,720,FC Porto ,54716,-,Steven Vitória,07/08,Portugal,4750,Olhanense 
-"Jun 30, 2007",,End of loan,Portugal,6156,Tourizense ,54716,-,Steven Vitória,06/07,Portugal,720,FC Porto 
-"Aug 1, 2006",,Loan,Portugal,720,FC Porto ,54716,-,Steven Vitória,06/07,Portugal,6156,Tourizense 
-"Jul 1, 2006",,-,Portugal,9844,FC Porto U19 ,54716,-,Steven Vitória,06/07,Portugal,720,FC Porto 
-"Jun 23, 2016",,Free transfer,Portugal,2995,Paços Ferreira ,56183,"2,75 Mill. €",Bruno Moreira,16/17,Thailand,25449,Buriram United 
-"Jul 1, 2014",,Free transfer,Portugal,3325,Chaves ,56183,800 Th. €,Bruno Moreira,14/15,Portugal,2995,Paços Ferreira 
-"Jan 31, 2014",,?,Portugal,982,Nacional ,56183,800 Th. €,Bruno Moreira,13/14,Portugal,3325,Chaves 
-"Dec 31, 2013",,End of loan,Bulgaria,208,CSKA Sofia ,56183,800 Th. €,Bruno Moreira,13/14,Portugal,982,Nacional 
-"Jul 25, 2013",,Loan,Portugal,982,Nacional ,56183,"1,00 Mill. €",Bruno Moreira,13/14,Bulgaria,208,CSKA Sofia 
-"Jul 1, 2012",,?,Portugal,979,Moreirense  ,56183,"1,00 Mill. €",Bruno Moreira,12/13,Portugal,982,Nacional 
-"Jan 1, 2011",,?,Portugal,4297,Varzim ,56183,150 Th. €,Bruno Moreira,10/11,Portugal,979,Moreirense  
-"Jul 1, 2007",,Free transfer,Portugal,7210,Joane ,56183,-,Bruno Moreira,07/08,Portugal,4297,Varzim 
-"Jul 1, 2006",,Free transfer,Portugal,9844,FC Porto U19 ,56183,-,Bruno Moreira,06/07,Portugal,7210,Joane 
-"Mar 30, 2016",,-,Brazil,515,Unattached ,56315,"1,30 Mill. €",Makelele,15/16,,17964,Botafogo 
-"Jul 1, 2015",,-,Kuwait,15482,Al-Kuwait ,56315,"1,30 Mill. €",Makelele,15/16,,515,Unattached 
-"Jul 1, 2014",,?,Portugal,2990,Coimbra ,56315,"1,00 Mill. €",Makelele,14/15,Kuwait,15482,Al-Kuwait 
-"Jul 1, 2012",,Free transfer,Brazil,7209,ABC ,56315,-,Makelele,12/13,Portugal,2990,Coimbra 
-"Apr 1, 2012",,End of loan,Brazil,20132,Linense ,56315,-,Makelele,11/12,Brazil,7209,ABC 
-"Jan 1, 2012",,Loan,Brazil,7209,ABC ,56315,-,Makelele,11/12,Brazil,20132,Linense 
-"May 1, 2011",,Free transfer,Brazil,27288,EC Pelotas (RS) ,56315,-,Makelele,10/11,Brazil,7209,ABC 
-"Jan 1, 2011",,Free transfer,Brazil,7478,Santo André ,56315,-,Makelele,10/11,Brazil,27288,EC Pelotas (RS) 
-"Jul 1, 2010",,Free transfer,Brazil,1023,Palmeiras ,56315,300 Th. €,Makelele,10/11,Brazil,7478,Santo André 
-"Dec 1, 2009",,End of loan,Brazil,776,Coritiba FC ,56315,400 Th. €,Makelele,09/10,Brazil,1023,Palmeiras 
-"Oct 1, 2009",,Loan,Brazil,1023,Palmeiras ,56315,400 Th. €,Makelele,09/10,Brazil,776,Coritiba FC 
-"Sep 1, 2009",,End of loan,Brazil,210,Grêmio ,56315,600 Th. €,Makelele,09/10,Brazil,1023,Palmeiras 
-"May 1, 2008",,Loan,Brazil,1023,Palmeiras ,56315,"2,00 Mill. €",Makelele,07/08,Brazil,210,Grêmio 
-"Jan 1, 2007",,400 Th. €,Brazil,7478,Santo André ,56315,-,Makelele,06/07,Brazil,1023,Palmeiras 
-"Jan 1, 2004",,-,Brazil,17949,Santo André B ,56315,-,Makelele,03/04,Brazil,7478,Santo André 
-"Jun 30, 2016",,End of loan,Portugal,3325,Chaves ,57226,600 Th. €,Tozé Marreco ,15/16,Belgium,29228,Mouscron 
-"Feb 1, 2016",,Loan,Belgium,29228,Mouscron ,57226,800 Th. €,Tozé Marreco ,15/16,Portugal,3325,Chaves 
-"Aug 31, 2015",,Free transfer,Portugal,7179,Tondela ,57226,900 Th. €,Tozé Marreco ,15/16,Belgium,29228,Mouscron 
-"Jun 30, 2014",,End of loan,Portugal,4750,Olhanense ,57226,500 Th. €,Tozé Marreco ,13/14,Portugal,7179,Tondela 
-"Dec 23, 2013",,Loan,Portugal,7179,Tondela ,57226,500 Th. €,Tozé Marreco ,13/14,Portugal,4750,Olhanense 
-"Aug 1, 2013",,Free transfer,Portugal,1436,Beira-Mar ,57226,500 Th. €,Tozé Marreco ,13/14,Portugal,7179,Tondela 
-"Jan 30, 2013",,Free transfer,Portugal,4814,Naval ,57226,500 Th. €,Tozé Marreco ,12/13,Portugal,1436,Beira-Mar 
-"Jul 1, 2012",,?,Portugal,976,União Madeira ,57226,500 Th. €,Tozé Marreco ,12/13,Portugal,4814,Naval 
-"Jul 1, 2011",,?,Switzerland,61,Servette FC ,57226,350 Th. €,Tozé Marreco ,11/12,Portugal,976,União Madeira 
-"Jun 30, 2011",,End of loan,Portugal,3336,Desportivo Aves ,57226,350 Th. €,Tozé Marreco ,10/11,Switzerland,61,Servette FC 
-"Jul 1, 2010",,Loan,Switzerland,61,Servette FC ,57226,350 Th. €,Tozé Marreco ,10/11,Portugal,3336,Desportivo Aves 
-"Jul 1, 2009",,?,Bulgaria,19214,Lok. Mezdra ,57226,500 Th. €,Tozé Marreco ,09/10,Switzerland,61,Servette FC 
-"Jan 1, 2009",,-,Bulgaria,515,Unattached ,57226,500 Th. €,Tozé Marreco ,08/09,,19214,Lok. Mezdra 
-"Oct 1, 2008",,-,Spain,1108,Alavés ,57226,500 Th. €,Tozé Marreco ,08/09,,515,Unattached 
-"Aug 1, 2008",,Free transfer,Netherlands,1269,FC Zwolle ,57226,350 Th. €,Tozé Marreco ,08/09,Spain,1108,Alavés 
-"Aug 1, 2007",,Free transfer,Portugal,16939,Mirandense ,57226,-,Tozé Marreco ,07/08,Netherlands,1269,FC Zwolle 
-"Jan 1, 2007",,?,Portugal,8432,FC Pampilhosa ,57226,-,Tozé Marreco ,06/07,Portugal,16939,Mirandense 
-"Jul 1, 2006",,Free transfer,Portugal,15559,Académica U19 ,57226,-,Tozé Marreco ,06/07,Portugal,8432,FC Pampilhosa 
-"Jul 9, 2015",,"3,10 Mill. €",Portugal,982,Nacional ,61764,"4,50 Mill. €",Marco Matias,15/16,England,1035,Sheff Wed 
-"Jul 19, 2014",,Free transfer,Portugal,2420,Vit. Guimarães ,61764,"2,00 Mill. €",Marco Matias,14/15,Portugal,982,Nacional 
-"Jun 30, 2012",,End of loan,Portugal,2421,Freamunde ,61764,400 Th. €,Marco Matias,11/12,Portugal,2420,Vit. Guimarães 
-"Jul 2, 2010",,Loan,Portugal,2420,Vit. Guimarães ,61764,150 Th. €,Marco Matias,10/11,Portugal,2421,Freamunde 
-"Jul 1, 2010",,?,Portugal,336,Sporting CP ,61764,150 Th. €,Marco Matias,10/11,Portugal,2420,Vit. Guimarães 
-"Jun 30, 2010",,End of loan,Portugal,11085,Real SC ,61764,150 Th. €,Marco Matias,09/10,Portugal,336,Sporting CP 
-"Jan 1, 2010",,Loan,Portugal,336,Sporting CP ,61764,150 Th. €,Marco Matias,09/10,Portugal,11085,Real SC 
-"Dec 31, 2009",,End of loan,Portugal,6987,Fátima ,61764,150 Th. €,Marco Matias,09/10,Portugal,336,Sporting CP 
-"Jul 1, 2009",,Loan,Portugal,336,Sporting CP ,61764,150 Th. €,Marco Matias,09/10,Portugal,6987,Fátima 
-"Jun 30, 2009",,End of loan,Portugal,4297,Varzim ,61764,150 Th. €,Marco Matias,08/09,Portugal,336,Sporting CP 
-"Jul 2, 2008",,Loan,Portugal,336,Sporting CP ,61764,-,Marco Matias,08/09,Portugal,4297,Varzim 
-"Jul 1, 2008",,-,Portugal,10949,Sporting B ,61764,-,Marco Matias,08/09,Portugal,336,Sporting CP 
-"Jul 1, 2007",,-,Portugal,10283,Sporting U19 ,61764,-,Marco Matias,07/08,Portugal,10949,Sporting B 
-"Jul 1, 2006",,-,Portugal,48365,Sporting Sub17 ,61764,-,Marco Matias,06/07,Portugal,10283,Sporting U19 
-"Jul 1, 2015",,"1,50 Mill. €",Portugal,2420,Vit. Guimarães ,63837,"5,50 Mill. €",André André,15/16,Portugal,720,FC Porto 
-"Jul 1, 2012",,Free transfer,Portugal,4297,Varzim ,63837,150 Th. €,André André,12/13,Portugal,2420,Vit. Guimarães 
-"Dec 31, 2010",,End of loan,Spain,11603,Depor B ,63837,-,André André,10/11,Portugal,4297,Varzim 
-"Jul 1, 2010",,Loan,Portugal,4297,Varzim ,63837,200 Th. €,André André,10/11,Spain,11603,Depor B 
-"Jul 1, 2008",,?,Portugal,9844,FC Porto U19 ,63837,-,André André,08/09,Portugal,4297,Varzim 
-"Jul 1, 2007",,?,Portugal,4297,Varzim ,63837,-,André André,07/08,Portugal,9844,FC Porto U19 
-"Jan 1, 2007",,-,Portugal,15594,Varzim U19 ,63837,-,André André,06/07,Portugal,4297,Varzim 
-"Jul 1, 2015",,-,Israel,262,H. Petah Tikva ,65235,400 Th. €,Gael Etock,15/16,,515,Unattached 
-"Mar 1, 2015",,-,Israel,515,Unattached ,65235,400 Th. €,Gael Etock,14/15,,262,H. Petah Tikva 
-"Jul 1, 2014",,-,Belgium,520,Cercle Brugge ,65235,400 Th. €,Gael Etock,14/15,,515,Unattached 
-"Jul 1, 2013",,?,Portugal,10949,Sporting B ,65235,300 Th. €,Gael Etock,13/14,Belgium,520,Cercle Brugge 
-"Jul 1, 2012",,-,Portugal,10283,Sporting U19 ,65235,-,Gael Etock,12/13,Portugal,10949,Sporting B 
-"Aug 1, 2011",,?,Spain,2470,Barça Juvenil A ,65235,-,Gael Etock,11/12,Portugal,10283,Sporting U19 
-"Sep 3, 2015",,-,Belgium,515,Unattached ,68442,"1,75 Mill. €",Vagner,15/16,,29228,Mouscron 
-"Jul 1, 2015",,-,Portugal,1465,Estoril ,68442,"1,75 Mill. €",Vagner,15/16,,515,Unattached 
-"Jul 1, 2011",,Free transfer,Brazil,17300,Desp. Brasil ,68442,50 Th. €,Vagner,11/12,Portugal,1465,Estoril 
-"Jun 30, 2010",,End of loan,Portugal,1465,Estoril ,68442,50 Th. €,Vagner,10/11,Brazil,17300,Desp. Brasil 
-"Jan 1, 2010",,Loan,Brazil,17300,Desp. Brasil ,68442,50 Th. €,Vagner,09/10,Portugal,1465,Estoril 
-"Apr 30, 2009",,End of loan,Brazil,4773,Ituano ,68442,50 Th. €,Vagner,08/09,Brazil,17300,Desp. Brasil 
-"Feb 1, 2009",,Loan,Brazil,17300,Desp. Brasil ,68442,50 Th. €,Vagner,08/09,Brazil,4773,Ituano 
-"Jan 1, 2009",,-,Brazil,515,Unattached ,68442,50 Th. €,Vagner,08/09,,17300,Desp. Brasil 
-"Jan 1, 2008",,-,Brazil,679,Atlético-PR ,68442,-,Vagner,07/08,,515,Unattached 
-"Jan 1, 2005",,-,Brazil,16656,Paranaense ,68442,-,Vagner,04/05,Brazil,679,Atlético-PR 
-"Jan 30, 2016",,-,Portugal,515,Unattached ,72767,200 Th. €,Saná Camará,15/16,,7788,Académico Viseu 
-"Jul 1, 2015",,-,Portugal,10789,Braga B ,72767,200 Th. €,Saná Camará,15/16,,515,Unattached 
-"Aug 1, 2014",,?,Brazil,39074,Botafogo-BA ,72767,200 Th. €,Saná Camará,14/15,Portugal,1075,Braga 
-"Jan 1, 2014",,?,Portugal,2990,Coimbra ,72767,200 Th. €,Saná Camará,13/14,Brazil,39074,Botafogo-BA 
-"Aug 31, 2012",,?,Spain,366,Real Valladolid ,72767,200 Th. €,Saná Camará,12/13,Portugal,2990,Coimbra 
-"Jul 1, 2011",,Free transfer,Portugal,294,Benfica ,72767,100 Th. €,Saná Camará,11/12,Spain,366,Real Valladolid 
-"Jun 30, 2011",,End of loan,Switzerland,61,Servette FC ,72767,100 Th. €,Saná Camará,10/11,Portugal,294,Benfica 
-"Jul 1, 2010",,Loan,Portugal,8889,Benfica U19 ,72767,-,Saná Camará,10/11,Switzerland,61,Servette FC 
-"Jul 1, 2008",,-,Portugal,45618,Benfica Youth ,72767,-,Saná Camará,08/09,Portugal,8889,Benfica U19 
-"Jan 26, 2016",,-,United States,515,Unattached ,73427,300 Th. €,Caleb Patterson-Sewell,15/16,,51786,Rayo OKC 
-"Jul 1, 2015",,-,Portugal,2424,Gil Vicente ,73427,300 Th. €,Caleb Patterson-Sewell,15/16,,515,Unattached 
-"Jul 1, 2013",,Free transfer,Portugal,1085,Vitória Setúbal ,73427,350 Th. €,Caleb Patterson-Sewell,13/14,Portugal,2424,Gil Vicente 
-"Jul 1, 2012",,Free transfer,Portugal,5227,Atlético ,73427,350 Th. €,Caleb Patterson-Sewell,12/13,Portugal,1085,Vitória Setúbal 
-"Jul 1, 2011",,Free transfer,United States,11228,RailHawks ,73427,100 Th. €,Caleb Patterson-Sewell,11/12,Portugal,5227,Atlético 
-"Mar 1, 2011",,?,United States,9713,Fort Lauderdale ,73427,100 Th. €,Caleb Patterson-Sewell,10/11,United States,11228,RailHawks 
-"Mar 1, 2010",,?,United States,11228,RailHawks ,73427,-,Caleb Patterson-Sewell,09/10,United States,9713,Miami FC  
-"Feb 1, 2009",,Free transfer,United States,623,NY Red Bulls ,73427,-,Caleb Patterson-Sewell,08/09,United States,11228,RailHawks 
-"Mar 1, 2008",,Free transfer,United States,15803,Cleveland City ,73427,-,Caleb Patterson-Sewell,07/08,United States,623,NY Red Bulls 
-"Jan 1, 2007",,Free transfer,United States,75,Unknown ,73427,-,Caleb Patterson-Sewell,06/07,,15803,Cleveland City 
-"Jan 1, 2006",,?,England,6922,Liverpool U18 ,73427,-,Caleb Patterson-Sewell,05/06,,75,Unknown 
-"Jul 1, 2004",,?,England,14488,Sheff Wed U18 ,73427,-,Caleb Patterson-Sewell,04/05,England,6922,Liverpool U18 
-"Jan 1, 2004",,?,Belgium,3038,RSC Anderlecht U19 ,73427,-,Caleb Patterson-Sewell,03/04,England,14488,Sheff Wed U18 
-"Feb 3, 2016",,"42,00 Mill. €",Spain,13,Atlético Madrid ,74418,"30,00 Mill. €",Jackson Martínez,15/16,China,10948,GZ Evergrande 
-"Jul 16, 2015",,"37,10 Mill. €",Portugal,720,FC Porto ,74418,"35,00 Mill. €",Jackson Martínez,15/16,Spain,13,Atlético Madrid 
-"Jul 7, 2012",,"8,89 Mill. €",Mexico,4774,Jaguares ,74418,"5,00 Mill. €",Jackson Martínez,12/13,Portugal,720,FC Porto 
-"Jan 1, 2010",,"2,80 Mill. €",Colombia,10093,Indep. Medellín ,74418,"1,20 Mill. €",Jackson Martínez,09/10,Mexico,4774,Jaguares 
-"Jan 1, 2004",,-,Colombia,16811,Medellín U19 ,74418,-,Jackson Martínez,03/04,Colombia,10093,Indep. Medellín 
-"Feb 3, 2016",,Free transfer,Brazil,614,Flamengo ,76852,150 Th. €,Renato Santos,15/16,Brazil,1784,Mogi Mirim 
-"Dec 3, 2015",,End of loan,Brazil,4906,Macaé ,76852,200 Th. €,Renato Santos,15/16,Brazil,614,Flamengo 
-"Jul 28, 2015",,Loan,Brazil,614,Flamengo ,76852,250 Th. €,Renato Santos,15/16,Brazil,4906,Macaé 
-"Jul 2, 2015",,End of loan,Brazil,8793,Bragantino ,76852,250 Th. €,Renato Santos,15/16,Brazil,614,Flamengo 
-"Jan 14, 2015",,Loan,Brazil,614,Flamengo ,76852,400 Th. €,Renato Santos,14/15,Brazil,8793,Bragantino 
-"Dec 31, 2014",,End of loan,Brazil,2863,América-MG ,76852,400 Th. €,Renato Santos,14/15,Brazil,614,Flamengo 
-"Feb 15, 2014",,Loan,Brazil,614,Flamengo ,76852,500 Th. €,Renato Santos,13/14,Brazil,2863,América-MG 
-"Dec 31, 2013",,End of loan,Brazil,2125,Vitória ,76852,500 Th. €,Renato Santos,13/14,Brazil,614,Flamengo 
-"Sep 15, 2013",,Loan,Brazil,614,Flamengo ,76852,500 Th. €,Renato Santos,13/14,Brazil,2125,Vitória 
-"Sep 1, 2012",,?,Brazil,2035,Avaí ,76852,-,Renato Santos,12/13,Brazil,614,Flamengo 
-"Jan 1, 2012",,Free transfer,Brazil,3330,Joinville ,76852,-,Renato Santos,11/12,Brazil,2035,Avaí 
-"Jan 1, 2010",,Free transfer,Portugal,3327,Penafiel ,76852,-,Renato Santos,09/10,Brazil,3330,Joinville 
-"Jul 1, 2009",,Free transfer,Brazil,3334,Marília ,76852,-,Renato Santos,09/10,Portugal,3327,Penafiel 
-"May 1, 2009",,Free transfer,Brazil,8698,Barueri ,76852,-,Renato Santos,08/09,Brazil,3334,Marília 
-"Apr 30, 2009",,End of loan,Brazil,9030,Botafogo FC ,76852,-,Renato Santos,08/09,Brazil,8698,Barueri 
-"Jan 1, 2009",,Loan,Brazil,8698,Barueri ,76852,-,Renato Santos,08/09,Brazil,9030,Botafogo FC 
-"Dec 31, 2008",,End of loan,Portugal,2503,Boavista ,76852,-,Renato Santos,08/09,Brazil,8698,Barueri 
-"Aug 1, 2008",,Loan,Brazil,8698,Barueri ,76852,-,Renato Santos,08/09,Portugal,2503,Boavista 
-"Dec 1, 2007",,?,Brazil,199,Corinthians ,76852,-,Renato Santos,07/08,Brazil,8698,Barueri 
-"Nov 30, 2007",,End of loan,Brazil,8144,Clube Atlético Juventus (SP) ,76852,-,Renato Santos,07/08,Brazil,199,Corinthians 
-"Jun 1, 2007",,Loan,Brazil,199,Corinthians ,76852,-,Renato Santos,06/07,Brazil,8144,Clube Atlético Juventus (SP) 
-"Jan 1, 2007",,-,Brazil,14699,Corinthians U20 ,76852,-,Renato Santos,06/07,Brazil,199,Corinthians 
-"Jul 24, 2015",,?,Uruguay,2419,River Plate ,76948,600 Th. €,Pablo Olivera,15/16,Mexico,23505,Leones Negros 
-"Jun 30, 2015",,End of loan,Venezuela,13297,Táchira ,76948,600 Th. €,Pablo Olivera,14/15,Uruguay,2419,River Plate 
-"Jan 1, 2015",,Loan,Uruguay,2419,River Plate ,76948,600 Th. €,Pablo Olivera,14/15,Venezuela,13297,Táchira 
-"Dec 31, 2014",,End of loan,Uruguay,10960,Español ,76948,600 Th. €,Pablo Olivera,14/15,Uruguay,2419,River Plate 
-"Sep 12, 2014",,Loan,Uruguay,2419,River Plate ,76948,600 Th. €,Pablo Olivera,14/15,Uruguay,10960,Español 
-"Jun 30, 2014",,End of loan,Venezuela,14682,Carabobo FC ,76948,475 Th. €,Pablo Olivera,13/14,Uruguay,2419,River Plate 
-"Jul 23, 2013",,Loan,Uruguay,2419,River Plate ,76948,475 Th. €,Pablo Olivera,13/14,Venezuela,14682,Carabobo FC 
-"Jun 30, 2013",,End of loan,Portugal,979,Moreirense  ,76948,475 Th. €,Pablo Olivera,12/13,Uruguay,2419,River Plate 
-"Aug 10, 2012",,Loan,Uruguay,2419,River Plate ,76948,475 Th. €,Pablo Olivera,12/13,Portugal,979,Moreirense  
-"Jun 30, 2010",,End of loan,Uruguay,20189,Cerro Largo ,76948,125 Th. €,Pablo Olivera,09/10,Uruguay,2419,River Plate 
-"Jan 7, 2010",,Loan,Uruguay,2419,River Plate ,76948,-,Pablo Olivera,09/10,Uruguay,20189,Cerro Largo 
-"Aug 1, 2009",,?,Uruguay,20189,Cerro Largo ,76948,-,Pablo Olivera,09/10,Uruguay,2419,River Plate 
-"Jan 1, 2008",,?,Uruguay,14598,Rampla Jrs ,76948,-,Pablo Olivera,07/08,Uruguay,20189,Cerro Largo 
-"Jun 1, 2013",,?,Portugal,4750,Olhanense ,80462,900 Th. €,Babanco,13/14,Portugal,1465,Estoril 
-"Jul 1, 2012",,?,Portugal,8024,Arouca ,80462,500 Th. €,Babanco,12/13,Portugal,4750,Olhanense 
-"Aug 1, 2010",,Free transfer,Cape Verde,26525,Boavista Praia ,80462,-,Babanco,10/11,Portugal,8024,Arouca 
-"Jun 30, 2016",,End of loan,Portugal,2420,Vit. Guimarães ,84318,"1,50 Mill. €",Paolo Hurtado,15/16,England,1032,Reading 
-"Jan 28, 2016",,Loan,England,1032,Reading ,84318,"2,00 Mill. €",Paolo Hurtado,15/16,Portugal,2420,Vit. Guimarães 
-"Aug 12, 2015",,?,Portugal,2995,Paços Ferreira ,84318,"2,00 Mill. €",Paolo Hurtado,15/16,England,1032,Reading 
-"Jun 30, 2014",,End of loan,Uruguay,861,Peñarol ,84318,"3,00 Mill. €",Paolo Hurtado,13/14,Portugal,2995,Paços Ferreira 
-"Jan 6, 2014",,Loan,Portugal,2995,Paços Ferreira ,84318,"3,00 Mill. €",Paolo Hurtado,13/14,Uruguay,861,Peñarol 
-"Jul 1, 2012",,?,Peru,184,Alianza Lima ,84318,400 Th. €,Paolo Hurtado,12/13,Portugal,2995,Paços Ferreira 
-"Dec 31, 2009",,End of loan,Peru,4576,Juan Aurich ,84318,50 Th. €,Paolo Hurtado,09/10,Peru,184,Alianza Lima 
-"Apr 1, 2009",,Loan,Peru,184,Alianza Lima ,84318,50 Th. €,Paolo Hurtado,08/09,Peru,4576,Juan Aurich 
-"Jul 1, 2008",,-,Peru,19920,Al. Lima U19 ,84318,-,Paolo Hurtado,08/09,Peru,184,Alianza Lima 
-"Jul 14, 2015",,?,Spain,16795,Granada CF ,93047,500 Th. €,Jona,15/16,Spain,1532,Albacete 
-"Jun 30, 2015",,End of loan,Spain,2687,Cádiz CF ,93047,-,Jona,14/15,Spain,16795,Granada CF 
-"Jul 13, 2014",,Loan,Spain,16795,Granada CF ,93047,500 Th. €,Jona,14/15,Spain,2687,Cádiz CF 
-"Jun 30, 2014",,End of loan,Spain,666,Real Jaén CF ,93047,500 Th. €,Jona,13/14,Spain,16795,Granada CF 
-"Jul 19, 2013",,Loan,Spain,16795,Granada CF ,93047,300 Th. €,Jona,13/14,Spain,666,Real Jaén CF 
-"Jun 30, 2013",,End of loan,Portugal,2420,Vit. Guimarães ,93047,300 Th. €,Jona,12/13,Spain,16795,Granada CF 
-"Jan 12, 2013",,Loan,Spain,16795,Granada CF ,93047,300 Th. €,Jona,12/13,Portugal,2420,Vit. Guimarães 
-"Jan 11, 2013",,20 Th. €,Spain,2725,CD Ourense ,93047,300 Th. €,Jona,12/13,Spain,16795,Granada CF 
-"Aug 1, 2012",,Free transfer,Spain,10907,Zamora CF ,93047,-,Jona,12/13,Spain,2725,CD Ourense 
-"Jul 1, 2011",,Free transfer,Spain,11603,Depor B ,93047,-,Jona,11/12,Spain,10907,Zamora CF 
-"Jul 1, 2010",,Free transfer,Spain,16492,UD Melilla ,93047,-,Jona,10/11,Spain,11603,Depor B 
-"Jul 1, 2009",,Free transfer,Spain,7972,Lorca Deportiva ,93047,-,Jona,09/10,Spain,16492,UD Melilla 
-"Jul 1, 2008",,Free transfer,Spain,12318,Málaga Juv. A ,93047,-,Jona,08/09,Spain,7972,Lorca Deportiva 
-"Sep 12, 2014",,?,Portugal,3349,Feirense ,94180,250 Th. €,Valdinho,14/15,Portugal,7119,Vilafranquense 
-"Jan 17, 2014",,?,Portugal,2424,Gil Vicente ,94180,250 Th. €,Valdinho,13/14,Portugal,3349,Feirense 
-"Jan 16, 2014",,End of loan,Portugal,8827,Oliveirense ,94180,250 Th. €,Valdinho,13/14,Portugal,2424,Gil Vicente 
-"Jul 30, 2013",,Loan,Portugal,2424,Gil Vicente ,94180,200 Th. €,Valdinho,13/14,Portugal,8827,Oliveirense 
-"Jan 1, 2013",,?,Portugal,3336,Desportivo Aves ,94180,200 Th. €,Valdinho,12/13,Portugal,2424,Gil Vicente 
-"Jul 1, 2012",,Free transfer,Portugal,2423,Santa Clara ,94180,200 Th. €,Valdinho,12/13,Portugal,3336,Desportivo Aves 
-"Aug 1, 2011",,Free transfer,Portugal,2421,Freamunde ,94180,50 Th. €,Valdinho,11/12,Portugal,2423,Santa Clara 
-"Jun 30, 2011",,End of loan,Portugal,19561,Sertanense ,94180,50 Th. €,Valdinho,10/11,Portugal,2421,Freamunde 
-"Jan 1, 2011",,Loan,Portugal,2421,Freamunde ,94180,50 Th. €,Valdinho,10/11,Portugal,19561,Sertanense 
-"Jul 1, 2008",,-,Portugal,15592,Freamunde U19 ,94180,-,Valdinho,08/09,Portugal,2421,Freamunde 
-"Jul 1, 2015",,?,Cyprus,24326,Ermis Aradippou ,96819,300 Th. €,Bruno Turco,15/16,Paraguay,7098,Nacional 
-"Jan 7, 2015",,?,Uruguay,18075,Maldonado ,96819,300 Th. €,Bruno Turco,14/15,Cyprus,24326,Ermis Aradippou 
-"Sep 10, 2013",,?,Brazil,4906,Macaé ,96819,300 Th. €,Bruno Turco,13/14,Uruguay,18075,Maldonado 
-"Jun 30, 2013",,End of loan,Portugal,1085,Vitória Setúbal ,96819,300 Th. €,Bruno Turco,12/13,Brazil,4906,Macaé 
-"Jul 1, 2012",,Loan,Brazil,4906,Macaé ,96819,-,Bruno Turco,12/13,Portugal,1085,Vitória Setúbal 
-"Mar 1, 2012",,Free transfer,Brazil,14807,Palmeiras B ,96819,-,Bruno Turco,11/12,Brazil,4906,Macaé 
-"Dec 3, 2015",,-,Turkey,126,Rizespor ,98502,700 Th. €,Liban Abdi,15/16,,515,Unattached 
-"Jun 30, 2015",,End of loan,Bulgaria,156,Levski Sofia ,98502,800 Th. €,Liban Abdi,14/15,Turkey,126,Rizespor 
-"Feb 12, 2015",,Loan,Turkey,126,Rizespor ,98502,800 Th. €,Liban Abdi,14/15,Bulgaria,156,Levski Sofia 
-"Jan 16, 2014",,500 Th. €,Portugal,2990,Coimbra ,98502,"1,00 Mill. €",Liban Abdi,13/14,Turkey,126,Rizespor 
-"Aug 1, 2013",,Free transfer,Portugal,4750,Olhanense ,98502,"1,00 Mill. €",Liban Abdi,13/14,Portugal,2990,Coimbra 
-"Jul 16, 2012",,Free transfer,Hungary,279,Ferencváros ,98502,250 Th. €,Liban Abdi,12/13,Portugal,4750,Olhanense 
-"Jul 1, 2008",,Free transfer,England,8824,Sheff Utd U21 ,98502,-,Liban Abdi,08/09,Hungary,279,Ferencváros 
-"Jul 1, 2016",,"4,00 Mill. €",Portugal,1075,Braga ,98547,"2,50 Mill. €",Stanislav Kritsyuk,16/17,Russia,16704,FK Krasnodar 
-"Jun 30, 2016",,End of loan,Russia,16704,FK Krasnodar ,98547,"2,50 Mill. €",Stanislav Kritsyuk,15/16,Portugal,1075,Braga 
-"Jan 25, 2016",,Loan,Portugal,1075,Braga ,98547,"1,50 Mill. €",Stanislav Kritsyuk,15/16,Russia,16704,FK Krasnodar 
-"Jul 1, 2014",,-,Portugal,10789,Braga B ,98547,200 Th. €,Stanislav Kritsyuk,14/15,Portugal,1075,Braga 
-"Jun 30, 2014",,End of loan,Portugal,2425,Rio Ave FC ,98547,200 Th. €,Stanislav Kritsyuk,13/14,Portugal,10789,Braga B 
-"Jan 8, 2014",,Loan,Portugal,10789,Braga B ,98547,200 Th. €,Stanislav Kritsyuk,13/14,Portugal,2425,Rio Ave FC 
-"Jan 28, 2013",,?,Russia,21637,Akad. Togliatti ,98547,50 Th. €,Stanislav Kritsyuk,12/13,Portugal,10789,Braga B 
-"Aug 1, 2007",,-,Russia,13641,Akademia ,98547,-,Stanislav Kritsyuk,07/08,Russia,21637,Akad. Togliatti 
-"Jan 1, 2007",,-,Russia,20350,Ak. Y. Konoplev ,98547,-,Stanislav Kritsyuk,06/07,Russia,13641,Akademia 
-"Jan 29, 2016",,Free transfer,Brazil,75,Unknown ,101321,300 Th. €,Índio,15/16,,32542,Operário-MT 
-"Sep 24, 2015",,?,Brazil,32094,Independente-PA ,101321,300 Th. €,Índio,15/16,,75,Unknown 
-"Sep 22, 2015",,Free transfer,Portugal,1701,Felgueiras ,101321,300 Th. €,Índio,15/16,Brazil,32094,Independente-PA 
-"Sep 1, 2013",,Free transfer,Portugal,15136,Guimarães B ,101321,300 Th. €,Índio,13/14,Portugal,1701,Felgueiras 
-"Jul 1, 2012",,?,Portugal,6156,Tourizense ,101321,-,Índio,12/13,Portugal,15136,Guimarães B 
-"Jul 1, 2011",,?,Portugal,3325,Chaves ,101321,-,Índio,11/12,Portugal,6156,Tourizense 
-"Jul 1, 2010",,?,Brazil,10492,Juventude ,101321,50 Th. €,Índio,10/11,Portugal,3325,Chaves 
-"Jan 1, 2009",,-,Brazil,17659,EC Juventude B ,101321,-,Índio,08/09,Brazil,10492,Juventude 
-"Jan 5, 2016",,Free transfer,Norway,2817,Strømsgodset ,111811,600 Th. €,Florent Hanin,15/16,Switzerland,257,FC St. Gallen 
-"Mar 18, 2015",,?,Belgium,204,Lierse SK ,111811,600 Th. €,Florent Hanin,14/15,Norway,2817,Strømsgodset 
-"Jul 1, 2014",,?,Portugal,10789,Braga B ,111811,"1,00 Mill. €",Florent Hanin,14/15,Belgium,204,Lierse SK 
-"Jun 30, 2014",,End of loan,Greece,6418,Panetolikos ,111811,"1,00 Mill. €",Florent Hanin,13/14,Portugal,10789,Braga B 
-"Jan 18, 2014",,Loan,Portugal,10789,Braga B ,111811,"1,00 Mill. €",Florent Hanin,13/14,Greece,6418,Panetolikos 
-"Jan 17, 2014",,End of loan,Portugal,979,Moreirense  ,111811,"1,00 Mill. €",Florent Hanin,13/14,Portugal,10789,Braga B 
-"Sep 2, 2013",,Loan,Portugal,10789,Braga B ,111811,"1,20 Mill. €",Florent Hanin,13/14,Portugal,979,Moreirense  
-"Jun 30, 2013",,End of loan,Portugal,979,Moreirense  ,111811,"1,00 Mill. €",Florent Hanin,12/13,Portugal,10789,Braga B 
-"Jan 15, 2013",,Loan,Portugal,10789,Braga B ,111811,400 Th. €,Florent Hanin,12/13,Portugal,979,Moreirense  
-"Jul 1, 2012",,Free transfer,Portugal,3345,Leixões ,111811,400 Th. €,Florent Hanin,12/13,Portugal,10789,Braga B 
-"Jul 1, 2011",,Free transfer,France,738,AC Le Havre ,111811,50 Th. €,Florent Hanin,11/12,Portugal,3345,Leixões 
-"Jul 1, 2009",,-,France,15439,AC Le Havre B ,111811,-,Florent Hanin,09/10,France,738,AC Le Havre 
-"Jul 1, 2015",,Free transfer,Romania,15945,Chiajna ,118323,550 Th. €,Ricardo Alves,15/16,Romania,13499,Astra Giurgiu 
-"Jul 1, 2014",,Free transfer,Portugal,10787,Marítimo B ,118323,400 Th. €,Ricardo Alves,14/15,Romania,15945,Chiajna 
-"Jul 1, 2011",,?,Portugal,2990,Coimbra ,118323,-,Ricardo Alves,11/12,Portugal,10787,Marítimo B 
-"Jun 30, 2011",,End of loan,Portugal,6156,Tourizense ,118323,-,Ricardo Alves,10/11,Portugal,2990,Coimbra 
-"Jul 1, 2010",,Loan,Portugal,15559,Académica U19 ,118323,-,Ricardo Alves,10/11,Portugal,6156,Tourizense 
-"Jul 1, 2009",,?,Portugal,10283,Sporting U19 ,118323,-,Ricardo Alves,09/10,Portugal,15559,Académica U19 
+"Feb 2, 2016",,?,Angola,29294.0,Kabuscorp SC ,45306,700 Th. €,Evandro Brandão,15/16,Portugal,7811.0,Castelo Branco 
+"Jul 1, 2015",,Free transfer,Angola,26740.0,C.R.D. Libolo ,45306,700 Th. €,Evandro Brandão,15/16,Angola,29294.0,Kabuscorp SC 
+"Jan 1, 2014",,?,Portugal,7179.0,Tondela ,45306,700 Th. €,Evandro Brandão,13/14,Angola,26740.0,C.R.D. Libolo 
+"Aug 13, 2013",,Free transfer,Hungary,11107.0,Videoton FC ,45306,700 Th. €,Evandro Brandão,13/14,Portugal,7179.0,Tondela 
+"Jun 30, 2013",,End of loan,Portugal,4750.0,Olhanense ,45306,700 Th. €,Evandro Brandão,12/13,Hungary,11107.0,Videoton FC 
+"Jul 26, 2012",,Loan,Hungary,11107.0,Videoton FC ,45306,200 Th. €,Evandro Brandão,12/13,Portugal,4750.0,Olhanense 
+"Jul 1, 2011",,?,Portugal,10330.0,Benfica B ,45306,150 Th. €,Evandro Brandão,11/12,Hungary,11107.0,Videoton FC 
+"Jun 30, 2011",,End of loan,Portugal,3323.0,Gondomar ,45306,150 Th. €,Evandro Brandão,10/11,Portugal,10330.0,Benfica B 
+"Jan 1, 2011",,Loan,Portugal,10330.0,Benfica B ,45306,150 Th. €,Evandro Brandão,10/11,Portugal,3323.0,Gondomar 
+"Dec 1, 2010",,End of loan,Portugal,6987.0,Fátima ,45306,150 Th. €,Evandro Brandão,10/11,Portugal,10330.0,Benfica B 
+"Jul 1, 2010",,Loan,Portugal,8889.0,Benfica U19 ,45306,-,Evandro Brandão,10/11,Portugal,6987.0,Fátima 
+"Nov 1, 2009",,Free transfer,Portugal,12964.0,Braga U19 ,45306,-,Evandro Brandão,09/10,Portugal,8889.0,Benfica U19 
+"Jul 1, 2009",,Free transfer,England,5242.0,Man Utd U18 ,45306,-,Evandro Brandão,09/10,Portugal,12964.0,Braga U19 
+"Jan 1, 2007",,400 Th. €,England,14627.0,Walsall U18 ,45306,-,Evandro Brandão,06/07,England,5242.0,Man Utd U18 
+"Jul 1, 2011",,?,Brazil,17300.0,Desp. Brasil ,54306,250 Th. €,Ânderson Luís,11/12,Portugal,1465.0,Estoril 
+"May 1, 2011",,End of loan,Portugal,1465.0,Estoril ,54306,250 Th. €,Ânderson Luís,10/11,Brazil,17300.0,Desp. Brasil 
+"Aug 1, 2010",,Loan,Brazil,17300.0,Desp. Brasil ,54306,250 Th. €,Ânderson Luís,10/11,Portugal,1465.0,Estoril 
+"Jul 1, 2010",,?,Brazil,4064.0,Figueirense FC ,54306,250 Th. €,Ânderson Luís,10/11,Brazil,17300.0,Desp. Brasil 
+"May 1, 2010",,End of loan,Brazil,3876.0,Mirassol Futebol Clube (SP) ,54306,250 Th. €,Ânderson Luís,09/10,Brazil,4064.0,Figueirense FC 
+"Jan 1, 2010",,Loan,Brazil,4064.0,Figueirense FC ,54306,250 Th. €,Ânderson Luís,09/10,Brazil,3876.0,Mirassol Futebol Clube (SP) 
+"Sep 1, 2009",,End of loan,Brazil,15064.0,Guaratinguetá ,54306,700 Th. €,Ânderson Luís,09/10,Brazil,4064.0,Figueirense FC 
+"Jul 1, 2009",,Loan,Brazil,4064.0,Figueirense FC ,54306,700 Th. €,Ânderson Luís,09/10,Brazil,15064.0,Guaratinguetá 
+"Jan 1, 2007",,-,Brazil,15055.0,Figueirense U17 ,54306,-,Ânderson Luís,06/07,Brazil,4064.0,Figueirense FC 
+"Dec 31, 2015",,End of loan,United States,25467.0,Philadelphia ,54716,"1,20 Mill. €",Steven Vitória,15/16,Portugal,10330.0,Benfica B 
+"Feb 9, 2015",,Loan,Portugal,10330.0,Benfica B ,54716,"2,00 Mill. €",Steven Vitória,14/15,United States,25467.0,Philadelphia 
+"Jul 1, 2013",,Free transfer,Portugal,1465.0,Estoril ,54716,"2,20 Mill. €",Steven Vitória,13/14,Portugal,10330.0,Benfica B 
+"Jul 1, 2010",,Free transfer,Portugal,720.0,FC Porto ,54716,300 Th. €,Steven Vitória,10/11,Portugal,1465.0,Estoril 
+"Jun 30, 2010",,End of loan,Portugal,10140.0,Covilhã ,54716,300 Th. €,Steven Vitória,09/10,Portugal,720.0,FC Porto 
+"Jul 1, 2009",,Loan,Portugal,720.0,FC Porto ,54716,300 Th. €,Steven Vitória,09/10,Portugal,10140.0,Covilhã 
+"Jun 30, 2009",,End of loan,Portugal,4750.0,Olhanense ,54716,300 Th. €,Steven Vitória,08/09,Portugal,720.0,FC Porto 
+"Jul 1, 2007",,Loan,Portugal,720.0,FC Porto ,54716,-,Steven Vitória,07/08,Portugal,4750.0,Olhanense 
+"Jun 30, 2007",,End of loan,Portugal,6156.0,Tourizense ,54716,-,Steven Vitória,06/07,Portugal,720.0,FC Porto 
+"Aug 1, 2006",,Loan,Portugal,720.0,FC Porto ,54716,-,Steven Vitória,06/07,Portugal,6156.0,Tourizense 
+"Jul 1, 2006",,-,Portugal,9844.0,FC Porto U19 ,54716,-,Steven Vitória,06/07,Portugal,720.0,FC Porto 
+"Jun 23, 2016",,Free transfer,Portugal,2995.0,Paços Ferreira ,56183,"2,75 Mill. €",Bruno Moreira,16/17,Thailand,25449.0,Buriram United 
+"Jul 1, 2014",,Free transfer,Portugal,3325.0,Chaves ,56183,800 Th. €,Bruno Moreira,14/15,Portugal,2995.0,Paços Ferreira 
+"Jan 31, 2014",,?,Portugal,982.0,Nacional ,56183,800 Th. €,Bruno Moreira,13/14,Portugal,3325.0,Chaves 
+"Dec 31, 2013",,End of loan,Bulgaria,208.0,CSKA Sofia ,56183,800 Th. €,Bruno Moreira,13/14,Portugal,982.0,Nacional 
+"Jul 25, 2013",,Loan,Portugal,982.0,Nacional ,56183,"1,00 Mill. €",Bruno Moreira,13/14,Bulgaria,208.0,CSKA Sofia 
+"Jul 1, 2012",,?,Portugal,979.0,Moreirense  ,56183,"1,00 Mill. €",Bruno Moreira,12/13,Portugal,982.0,Nacional 
+"Jan 1, 2011",,?,Portugal,4297.0,Varzim ,56183,150 Th. €,Bruno Moreira,10/11,Portugal,979.0,Moreirense  
+"Jul 1, 2007",,Free transfer,Portugal,7210.0,Joane ,56183,-,Bruno Moreira,07/08,Portugal,4297.0,Varzim 
+"Jul 1, 2006",,Free transfer,Portugal,9844.0,FC Porto U19 ,56183,-,Bruno Moreira,06/07,Portugal,7210.0,Joane 
+"Mar 30, 2016",,-,Brazil,515.0,Unattached ,56315,"1,30 Mill. €",Makelele,15/16,,17964.0,Botafogo 
+"Jul 1, 2015",,-,Kuwait,15482.0,Al-Kuwait ,56315,"1,30 Mill. €",Makelele,15/16,,515.0,Unattached 
+"Jul 1, 2014",,?,Portugal,2990.0,Coimbra ,56315,"1,00 Mill. €",Makelele,14/15,Kuwait,15482.0,Al-Kuwait 
+"Jul 1, 2012",,Free transfer,Brazil,7209.0,ABC ,56315,-,Makelele,12/13,Portugal,2990.0,Coimbra 
+"Apr 1, 2012",,End of loan,Brazil,20132.0,Linense ,56315,-,Makelele,11/12,Brazil,7209.0,ABC 
+"Jan 1, 2012",,Loan,Brazil,7209.0,ABC ,56315,-,Makelele,11/12,Brazil,20132.0,Linense 
+"May 1, 2011",,Free transfer,Brazil,27288.0,EC Pelotas (RS) ,56315,-,Makelele,10/11,Brazil,7209.0,ABC 
+"Jan 1, 2011",,Free transfer,Brazil,7478.0,Santo André ,56315,-,Makelele,10/11,Brazil,27288.0,EC Pelotas (RS) 
+"Jul 1, 2010",,Free transfer,Brazil,1023.0,Palmeiras ,56315,300 Th. €,Makelele,10/11,Brazil,7478.0,Santo André 
+"Dec 1, 2009",,End of loan,Brazil,776.0,Coritiba FC ,56315,400 Th. €,Makelele,09/10,Brazil,1023.0,Palmeiras 
+"Oct 1, 2009",,Loan,Brazil,1023.0,Palmeiras ,56315,400 Th. €,Makelele,09/10,Brazil,776.0,Coritiba FC 
+"Sep 1, 2009",,End of loan,Brazil,210.0,Grêmio ,56315,600 Th. €,Makelele,09/10,Brazil,1023.0,Palmeiras 
+"May 1, 2008",,Loan,Brazil,1023.0,Palmeiras ,56315,"2,00 Mill. €",Makelele,07/08,Brazil,210.0,Grêmio 
+"Jan 1, 2007",,400 Th. €,Brazil,7478.0,Santo André ,56315,-,Makelele,06/07,Brazil,1023.0,Palmeiras 
+"Jan 1, 2004",,-,Brazil,17949.0,Santo André B ,56315,-,Makelele,03/04,Brazil,7478.0,Santo André 
+"Jun 30, 2016",,End of loan,Portugal,3325.0,Chaves ,57226,600 Th. €,Tozé Marreco ,15/16,Belgium,29228.0,Mouscron 
+"Feb 1, 2016",,Loan,Belgium,29228.0,Mouscron ,57226,800 Th. €,Tozé Marreco ,15/16,Portugal,3325.0,Chaves 
+"Aug 31, 2015",,Free transfer,Portugal,7179.0,Tondela ,57226,900 Th. €,Tozé Marreco ,15/16,Belgium,29228.0,Mouscron 
+"Jun 30, 2014",,End of loan,Portugal,4750.0,Olhanense ,57226,500 Th. €,Tozé Marreco ,13/14,Portugal,7179.0,Tondela 
+"Dec 23, 2013",,Loan,Portugal,7179.0,Tondela ,57226,500 Th. €,Tozé Marreco ,13/14,Portugal,4750.0,Olhanense 
+"Aug 1, 2013",,Free transfer,Portugal,1436.0,Beira-Mar ,57226,500 Th. €,Tozé Marreco ,13/14,Portugal,7179.0,Tondela 
+"Jan 30, 2013",,Free transfer,Portugal,4814.0,Naval ,57226,500 Th. €,Tozé Marreco ,12/13,Portugal,1436.0,Beira-Mar 
+"Jul 1, 2012",,?,Portugal,976.0,União Madeira ,57226,500 Th. €,Tozé Marreco ,12/13,Portugal,4814.0,Naval 
+"Jul 1, 2011",,?,Switzerland,61.0,Servette FC ,57226,350 Th. €,Tozé Marreco ,11/12,Portugal,976.0,União Madeira 
+"Jun 30, 2011",,End of loan,Portugal,3336.0,Desportivo Aves ,57226,350 Th. €,Tozé Marreco ,10/11,Switzerland,61.0,Servette FC 
+"Jul 1, 2010",,Loan,Switzerland,61.0,Servette FC ,57226,350 Th. €,Tozé Marreco ,10/11,Portugal,3336.0,Desportivo Aves 
+"Jul 1, 2009",,?,Bulgaria,19214.0,Lok. Mezdra ,57226,500 Th. €,Tozé Marreco ,09/10,Switzerland,61.0,Servette FC 
+"Jan 1, 2009",,-,Bulgaria,515.0,Unattached ,57226,500 Th. €,Tozé Marreco ,08/09,,19214.0,Lok. Mezdra 
+"Oct 1, 2008",,-,Spain,1108.0,Alavés ,57226,500 Th. €,Tozé Marreco ,08/09,,515.0,Unattached 
+"Aug 1, 2008",,Free transfer,Netherlands,1269.0,FC Zwolle ,57226,350 Th. €,Tozé Marreco ,08/09,Spain,1108.0,Alavés 
+"Aug 1, 2007",,Free transfer,Portugal,16939.0,Mirandense ,57226,-,Tozé Marreco ,07/08,Netherlands,1269.0,FC Zwolle 
+"Jan 1, 2007",,?,Portugal,8432.0,FC Pampilhosa ,57226,-,Tozé Marreco ,06/07,Portugal,16939.0,Mirandense 
+"Jul 1, 2006",,Free transfer,Portugal,15559.0,Académica U19 ,57226,-,Tozé Marreco ,06/07,Portugal,8432.0,FC Pampilhosa 
+"Jul 9, 2015",,"3,10 Mill. €",Portugal,982.0,Nacional ,61764,"4,50 Mill. €",Marco Matias,15/16,England,1035.0,Sheff Wed 
+"Jul 19, 2014",,Free transfer,Portugal,2420.0,Vit. Guimarães ,61764,"2,00 Mill. €",Marco Matias,14/15,Portugal,982.0,Nacional 
+"Jun 30, 2012",,End of loan,Portugal,2421.0,Freamunde ,61764,400 Th. €,Marco Matias,11/12,Portugal,2420.0,Vit. Guimarães 
+"Jul 2, 2010",,Loan,Portugal,2420.0,Vit. Guimarães ,61764,150 Th. €,Marco Matias,10/11,Portugal,2421.0,Freamunde 
+"Jul 1, 2010",,?,Portugal,336.0,Sporting CP ,61764,150 Th. €,Marco Matias,10/11,Portugal,2420.0,Vit. Guimarães 
+"Jun 30, 2010",,End of loan,Portugal,11085.0,Real SC ,61764,150 Th. €,Marco Matias,09/10,Portugal,336.0,Sporting CP 
+"Jan 1, 2010",,Loan,Portugal,336.0,Sporting CP ,61764,150 Th. €,Marco Matias,09/10,Portugal,11085.0,Real SC 
+"Dec 31, 2009",,End of loan,Portugal,6987.0,Fátima ,61764,150 Th. €,Marco Matias,09/10,Portugal,336.0,Sporting CP 
+"Jul 1, 2009",,Loan,Portugal,336.0,Sporting CP ,61764,150 Th. €,Marco Matias,09/10,Portugal,6987.0,Fátima 
+"Jun 30, 2009",,End of loan,Portugal,4297.0,Varzim ,61764,150 Th. €,Marco Matias,08/09,Portugal,336.0,Sporting CP 
+"Jul 2, 2008",,Loan,Portugal,336.0,Sporting CP ,61764,-,Marco Matias,08/09,Portugal,4297.0,Varzim 
+"Jul 1, 2008",,-,Portugal,10949.0,Sporting B ,61764,-,Marco Matias,08/09,Portugal,336.0,Sporting CP 
+"Jul 1, 2007",,-,Portugal,10283.0,Sporting U19 ,61764,-,Marco Matias,07/08,Portugal,10949.0,Sporting B 
+"Jul 1, 2006",,-,Portugal,48365.0,Sporting Sub17 ,61764,-,Marco Matias,06/07,Portugal,10283.0,Sporting U19 
+"Jul 1, 2015",,"1,50 Mill. €",Portugal,2420.0,Vit. Guimarães ,63837,"5,50 Mill. €",André André,15/16,Portugal,720.0,FC Porto 
+"Jul 1, 2012",,Free transfer,Portugal,4297.0,Varzim ,63837,150 Th. €,André André,12/13,Portugal,2420.0,Vit. Guimarães 
+"Dec 31, 2010",,End of loan,Spain,11603.0,Depor B ,63837,-,André André,10/11,Portugal,4297.0,Varzim 
+"Jul 1, 2010",,Loan,Portugal,4297.0,Varzim ,63837,200 Th. €,André André,10/11,Spain,11603.0,Depor B 
+"Jul 1, 2008",,?,Portugal,9844.0,FC Porto U19 ,63837,-,André André,08/09,Portugal,4297.0,Varzim 
+"Jul 1, 2007",,?,Portugal,4297.0,Varzim ,63837,-,André André,07/08,Portugal,9844.0,FC Porto U19 
+"Jan 1, 2007",,-,Portugal,15594.0,Varzim U19 ,63837,-,André André,06/07,Portugal,4297.0,Varzim 
+"Jul 1, 2015",,-,Israel,262.0,H. Petah Tikva ,65235,400 Th. €,Gael Etock,15/16,,515.0,Unattached 
+"Mar 1, 2015",,-,Israel,515.0,Unattached ,65235,400 Th. €,Gael Etock,14/15,,262.0,H. Petah Tikva 
+"Jul 1, 2014",,-,Belgium,520.0,Cercle Brugge ,65235,400 Th. €,Gael Etock,14/15,,515.0,Unattached 
+"Jul 1, 2013",,?,Portugal,10949.0,Sporting B ,65235,300 Th. €,Gael Etock,13/14,Belgium,520.0,Cercle Brugge 
+"Jul 1, 2012",,-,Portugal,10283.0,Sporting U19 ,65235,-,Gael Etock,12/13,Portugal,10949.0,Sporting B 
+"Aug 1, 2011",,?,Spain,2470.0,Barça Juvenil A ,65235,-,Gael Etock,11/12,Portugal,10283.0,Sporting U19 
+"Sep 3, 2015",,-,Belgium,515.0,Unattached ,68442,"1,75 Mill. €",Vagner,15/16,,29228.0,Mouscron 
+"Jul 1, 2015",,-,Portugal,1465.0,Estoril ,68442,"1,75 Mill. €",Vagner,15/16,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Brazil,17300.0,Desp. Brasil ,68442,50 Th. €,Vagner,11/12,Portugal,1465.0,Estoril 
+"Jun 30, 2010",,End of loan,Portugal,1465.0,Estoril ,68442,50 Th. €,Vagner,10/11,Brazil,17300.0,Desp. Brasil 
+"Jan 1, 2010",,Loan,Brazil,17300.0,Desp. Brasil ,68442,50 Th. €,Vagner,09/10,Portugal,1465.0,Estoril 
+"Apr 30, 2009",,End of loan,Brazil,4773.0,Ituano ,68442,50 Th. €,Vagner,08/09,Brazil,17300.0,Desp. Brasil 
+"Feb 1, 2009",,Loan,Brazil,17300.0,Desp. Brasil ,68442,50 Th. €,Vagner,08/09,Brazil,4773.0,Ituano 
+"Jan 1, 2009",,-,Brazil,515.0,Unattached ,68442,50 Th. €,Vagner,08/09,,17300.0,Desp. Brasil 
+"Jan 1, 2008",,-,Brazil,679.0,Atlético-PR ,68442,-,Vagner,07/08,,515.0,Unattached 
+"Jan 1, 2005",,-,Brazil,16656.0,Paranaense ,68442,-,Vagner,04/05,Brazil,679.0,Atlético-PR 
+"Jan 30, 2016",,-,Portugal,515.0,Unattached ,72767,200 Th. €,Saná Camará,15/16,,7788.0,Académico Viseu 
+"Jul 1, 2015",,-,Portugal,10789.0,Braga B ,72767,200 Th. €,Saná Camará,15/16,,515.0,Unattached 
+"Aug 1, 2014",,?,Brazil,39074.0,Botafogo-BA ,72767,200 Th. €,Saná Camará,14/15,Portugal,1075.0,Braga 
+"Jan 1, 2014",,?,Portugal,2990.0,Coimbra ,72767,200 Th. €,Saná Camará,13/14,Brazil,39074.0,Botafogo-BA 
+"Aug 31, 2012",,?,Spain,366.0,Real Valladolid ,72767,200 Th. €,Saná Camará,12/13,Portugal,2990.0,Coimbra 
+"Jul 1, 2011",,Free transfer,Portugal,294.0,Benfica ,72767,100 Th. €,Saná Camará,11/12,Spain,366.0,Real Valladolid 
+"Jun 30, 2011",,End of loan,Switzerland,61.0,Servette FC ,72767,100 Th. €,Saná Camará,10/11,Portugal,294.0,Benfica 
+"Jul 1, 2010",,Loan,Portugal,8889.0,Benfica U19 ,72767,-,Saná Camará,10/11,Switzerland,61.0,Servette FC 
+"Jul 1, 2008",,-,Portugal,45618.0,Benfica Youth ,72767,-,Saná Camará,08/09,Portugal,8889.0,Benfica U19 
+"Jan 26, 2016",,-,United States,515.0,Unattached ,73427,300 Th. €,Caleb Patterson-Sewell,15/16,,51786.0,Rayo OKC 
+"Jul 1, 2015",,-,Portugal,2424.0,Gil Vicente ,73427,300 Th. €,Caleb Patterson-Sewell,15/16,,515.0,Unattached 
+"Jul 1, 2013",,Free transfer,Portugal,1085.0,Vitória Setúbal ,73427,350 Th. €,Caleb Patterson-Sewell,13/14,Portugal,2424.0,Gil Vicente 
+"Jul 1, 2012",,Free transfer,Portugal,5227.0,Atlético ,73427,350 Th. €,Caleb Patterson-Sewell,12/13,Portugal,1085.0,Vitória Setúbal 
+"Jul 1, 2011",,Free transfer,United States,11228.0,RailHawks ,73427,100 Th. €,Caleb Patterson-Sewell,11/12,Portugal,5227.0,Atlético 
+"Mar 1, 2011",,?,United States,9713.0,Fort Lauderdale ,73427,100 Th. €,Caleb Patterson-Sewell,10/11,United States,11228.0,RailHawks 
+"Mar 1, 2010",,?,United States,11228.0,RailHawks ,73427,-,Caleb Patterson-Sewell,09/10,United States,9713.0,Miami FC  
+"Feb 1, 2009",,Free transfer,United States,623.0,NY Red Bulls ,73427,-,Caleb Patterson-Sewell,08/09,United States,11228.0,RailHawks 
+"Mar 1, 2008",,Free transfer,United States,15803.0,Cleveland City ,73427,-,Caleb Patterson-Sewell,07/08,United States,623.0,NY Red Bulls 
+"Jan 1, 2007",,Free transfer,United States,75.0,Unknown ,73427,-,Caleb Patterson-Sewell,06/07,,15803.0,Cleveland City 
+"Jan 1, 2006",,?,England,6922.0,Liverpool U18 ,73427,-,Caleb Patterson-Sewell,05/06,,75.0,Unknown 
+"Jul 1, 2004",,?,England,14488.0,Sheff Wed U18 ,73427,-,Caleb Patterson-Sewell,04/05,England,6922.0,Liverpool U18 
+"Jan 1, 2004",,?,Belgium,3038.0,RSC Anderlecht U19 ,73427,-,Caleb Patterson-Sewell,03/04,England,14488.0,Sheff Wed U18 
+"Feb 3, 2016",,"42,00 Mill. €",Spain,13.0,Atlético Madrid ,74418,"30,00 Mill. €",Jackson Martínez,15/16,China,10948.0,GZ Evergrande 
+"Jul 16, 2015",,"37,10 Mill. €",Portugal,720.0,FC Porto ,74418,"35,00 Mill. €",Jackson Martínez,15/16,Spain,13.0,Atlético Madrid 
+"Jul 7, 2012",,"8,89 Mill. €",Mexico,4774.0,Jaguares ,74418,"5,00 Mill. €",Jackson Martínez,12/13,Portugal,720.0,FC Porto 
+"Jan 1, 2010",,"2,80 Mill. €",Colombia,10093.0,Indep. Medellín ,74418,"1,20 Mill. €",Jackson Martínez,09/10,Mexico,4774.0,Jaguares 
+"Jan 1, 2004",,-,Colombia,16811.0,Medellín U19 ,74418,-,Jackson Martínez,03/04,Colombia,10093.0,Indep. Medellín 
+"Feb 3, 2016",,Free transfer,Brazil,614.0,Flamengo ,76852,150 Th. €,Renato Santos,15/16,Brazil,1784.0,Mogi Mirim 
+"Dec 3, 2015",,End of loan,Brazil,4906.0,Macaé ,76852,200 Th. €,Renato Santos,15/16,Brazil,614.0,Flamengo 
+"Jul 28, 2015",,Loan,Brazil,614.0,Flamengo ,76852,250 Th. €,Renato Santos,15/16,Brazil,4906.0,Macaé 
+"Jul 2, 2015",,End of loan,Brazil,8793.0,Bragantino ,76852,250 Th. €,Renato Santos,15/16,Brazil,614.0,Flamengo 
+"Jan 14, 2015",,Loan,Brazil,614.0,Flamengo ,76852,400 Th. €,Renato Santos,14/15,Brazil,8793.0,Bragantino 
+"Dec 31, 2014",,End of loan,Brazil,2863.0,América-MG ,76852,400 Th. €,Renato Santos,14/15,Brazil,614.0,Flamengo 
+"Feb 15, 2014",,Loan,Brazil,614.0,Flamengo ,76852,500 Th. €,Renato Santos,13/14,Brazil,2863.0,América-MG 
+"Dec 31, 2013",,End of loan,Brazil,2125.0,Vitória ,76852,500 Th. €,Renato Santos,13/14,Brazil,614.0,Flamengo 
+"Sep 15, 2013",,Loan,Brazil,614.0,Flamengo ,76852,500 Th. €,Renato Santos,13/14,Brazil,2125.0,Vitória 
+"Sep 1, 2012",,?,Brazil,2035.0,Avaí ,76852,-,Renato Santos,12/13,Brazil,614.0,Flamengo 
+"Jan 1, 2012",,Free transfer,Brazil,3330.0,Joinville ,76852,-,Renato Santos,11/12,Brazil,2035.0,Avaí 
+"Jan 1, 2010",,Free transfer,Portugal,3327.0,Penafiel ,76852,-,Renato Santos,09/10,Brazil,3330.0,Joinville 
+"Jul 1, 2009",,Free transfer,Brazil,3334.0,Marília ,76852,-,Renato Santos,09/10,Portugal,3327.0,Penafiel 
+"May 1, 2009",,Free transfer,Brazil,8698.0,Barueri ,76852,-,Renato Santos,08/09,Brazil,3334.0,Marília 
+"Apr 30, 2009",,End of loan,Brazil,9030.0,Botafogo FC ,76852,-,Renato Santos,08/09,Brazil,8698.0,Barueri 
+"Jan 1, 2009",,Loan,Brazil,8698.0,Barueri ,76852,-,Renato Santos,08/09,Brazil,9030.0,Botafogo FC 
+"Dec 31, 2008",,End of loan,Portugal,2503.0,Boavista ,76852,-,Renato Santos,08/09,Brazil,8698.0,Barueri 
+"Aug 1, 2008",,Loan,Brazil,8698.0,Barueri ,76852,-,Renato Santos,08/09,Portugal,2503.0,Boavista 
+"Dec 1, 2007",,?,Brazil,199.0,Corinthians ,76852,-,Renato Santos,07/08,Brazil,8698.0,Barueri 
+"Nov 30, 2007",,End of loan,Brazil,8144.0,Clube Atlético Juventus (SP) ,76852,-,Renato Santos,07/08,Brazil,199.0,Corinthians 
+"Jun 1, 2007",,Loan,Brazil,199.0,Corinthians ,76852,-,Renato Santos,06/07,Brazil,8144.0,Clube Atlético Juventus (SP) 
+"Jan 1, 2007",,-,Brazil,14699.0,Corinthians U20 ,76852,-,Renato Santos,06/07,Brazil,199.0,Corinthians 
+"Jul 24, 2015",,?,Uruguay,2419.0,River Plate ,76948,600 Th. €,Pablo Olivera,15/16,Mexico,23505.0,Leones Negros 
+"Jun 30, 2015",,End of loan,Venezuela,13297.0,Táchira ,76948,600 Th. €,Pablo Olivera,14/15,Uruguay,2419.0,River Plate 
+"Jan 1, 2015",,Loan,Uruguay,2419.0,River Plate ,76948,600 Th. €,Pablo Olivera,14/15,Venezuela,13297.0,Táchira 
+"Dec 31, 2014",,End of loan,Uruguay,10960.0,Español ,76948,600 Th. €,Pablo Olivera,14/15,Uruguay,2419.0,River Plate 
+"Sep 12, 2014",,Loan,Uruguay,2419.0,River Plate ,76948,600 Th. €,Pablo Olivera,14/15,Uruguay,10960.0,Español 
+"Jun 30, 2014",,End of loan,Venezuela,14682.0,Carabobo FC ,76948,475 Th. €,Pablo Olivera,13/14,Uruguay,2419.0,River Plate 
+"Jul 23, 2013",,Loan,Uruguay,2419.0,River Plate ,76948,475 Th. €,Pablo Olivera,13/14,Venezuela,14682.0,Carabobo FC 
+"Jun 30, 2013",,End of loan,Portugal,979.0,Moreirense  ,76948,475 Th. €,Pablo Olivera,12/13,Uruguay,2419.0,River Plate 
+"Aug 10, 2012",,Loan,Uruguay,2419.0,River Plate ,76948,475 Th. €,Pablo Olivera,12/13,Portugal,979.0,Moreirense  
+"Jun 30, 2010",,End of loan,Uruguay,20189.0,Cerro Largo ,76948,125 Th. €,Pablo Olivera,09/10,Uruguay,2419.0,River Plate 
+"Jan 7, 2010",,Loan,Uruguay,2419.0,River Plate ,76948,-,Pablo Olivera,09/10,Uruguay,20189.0,Cerro Largo 
+"Aug 1, 2009",,?,Uruguay,20189.0,Cerro Largo ,76948,-,Pablo Olivera,09/10,Uruguay,2419.0,River Plate 
+"Jan 1, 2008",,?,Uruguay,14598.0,Rampla Jrs ,76948,-,Pablo Olivera,07/08,Uruguay,20189.0,Cerro Largo 
+"Jun 1, 2013",,?,Portugal,4750.0,Olhanense ,80462,900 Th. €,Babanco,13/14,Portugal,1465.0,Estoril 
+"Jul 1, 2012",,?,Portugal,8024.0,Arouca ,80462,500 Th. €,Babanco,12/13,Portugal,4750.0,Olhanense 
+"Aug 1, 2010",,Free transfer,Cape Verde,26525.0,Boavista Praia ,80462,-,Babanco,10/11,Portugal,8024.0,Arouca 
+"Jun 30, 2016",,End of loan,Portugal,2420.0,Vit. Guimarães ,84318,"1,50 Mill. €",Paolo Hurtado,15/16,England,1032.0,Reading 
+"Jan 28, 2016",,Loan,England,1032.0,Reading ,84318,"2,00 Mill. €",Paolo Hurtado,15/16,Portugal,2420.0,Vit. Guimarães 
+"Aug 12, 2015",,?,Portugal,2995.0,Paços Ferreira ,84318,"2,00 Mill. €",Paolo Hurtado,15/16,England,1032.0,Reading 
+"Jun 30, 2014",,End of loan,Uruguay,861.0,Peñarol ,84318,"3,00 Mill. €",Paolo Hurtado,13/14,Portugal,2995.0,Paços Ferreira 
+"Jan 6, 2014",,Loan,Portugal,2995.0,Paços Ferreira ,84318,"3,00 Mill. €",Paolo Hurtado,13/14,Uruguay,861.0,Peñarol 
+"Jul 1, 2012",,?,Peru,184.0,Alianza Lima ,84318,400 Th. €,Paolo Hurtado,12/13,Portugal,2995.0,Paços Ferreira 
+"Dec 31, 2009",,End of loan,Peru,4576.0,Juan Aurich ,84318,50 Th. €,Paolo Hurtado,09/10,Peru,184.0,Alianza Lima 
+"Apr 1, 2009",,Loan,Peru,184.0,Alianza Lima ,84318,50 Th. €,Paolo Hurtado,08/09,Peru,4576.0,Juan Aurich 
+"Jul 1, 2008",,-,Peru,19920.0,Al. Lima U19 ,84318,-,Paolo Hurtado,08/09,Peru,184.0,Alianza Lima 
+"Jul 14, 2015",,?,Spain,16795.0,Granada CF ,93047,500 Th. €,Jona,15/16,Spain,1532.0,Albacete 
+"Jun 30, 2015",,End of loan,Spain,2687.0,Cádiz CF ,93047,-,Jona,14/15,Spain,16795.0,Granada CF 
+"Jul 13, 2014",,Loan,Spain,16795.0,Granada CF ,93047,500 Th. €,Jona,14/15,Spain,2687.0,Cádiz CF 
+"Jun 30, 2014",,End of loan,Spain,666.0,Real Jaén CF ,93047,500 Th. €,Jona,13/14,Spain,16795.0,Granada CF 
+"Jul 19, 2013",,Loan,Spain,16795.0,Granada CF ,93047,300 Th. €,Jona,13/14,Spain,666.0,Real Jaén CF 
+"Jun 30, 2013",,End of loan,Portugal,2420.0,Vit. Guimarães ,93047,300 Th. €,Jona,12/13,Spain,16795.0,Granada CF 
+"Jan 12, 2013",,Loan,Spain,16795.0,Granada CF ,93047,300 Th. €,Jona,12/13,Portugal,2420.0,Vit. Guimarães 
+"Jan 11, 2013",,20 Th. €,Spain,2725.0,CD Ourense ,93047,300 Th. €,Jona,12/13,Spain,16795.0,Granada CF 
+"Aug 1, 2012",,Free transfer,Spain,10907.0,Zamora CF ,93047,-,Jona,12/13,Spain,2725.0,CD Ourense 
+"Jul 1, 2011",,Free transfer,Spain,11603.0,Depor B ,93047,-,Jona,11/12,Spain,10907.0,Zamora CF 
+"Jul 1, 2010",,Free transfer,Spain,16492.0,UD Melilla ,93047,-,Jona,10/11,Spain,11603.0,Depor B 
+"Jul 1, 2009",,Free transfer,Spain,7972.0,Lorca Deportiva ,93047,-,Jona,09/10,Spain,16492.0,UD Melilla 
+"Jul 1, 2008",,Free transfer,Spain,12318.0,Málaga Juv. A ,93047,-,Jona,08/09,Spain,7972.0,Lorca Deportiva 
+"Sep 12, 2014",,?,Portugal,3349.0,Feirense ,94180,250 Th. €,Valdinho,14/15,Portugal,7119.0,Vilafranquense 
+"Jan 17, 2014",,?,Portugal,2424.0,Gil Vicente ,94180,250 Th. €,Valdinho,13/14,Portugal,3349.0,Feirense 
+"Jan 16, 2014",,End of loan,Portugal,8827.0,Oliveirense ,94180,250 Th. €,Valdinho,13/14,Portugal,2424.0,Gil Vicente 
+"Jul 30, 2013",,Loan,Portugal,2424.0,Gil Vicente ,94180,200 Th. €,Valdinho,13/14,Portugal,8827.0,Oliveirense 
+"Jan 1, 2013",,?,Portugal,3336.0,Desportivo Aves ,94180,200 Th. €,Valdinho,12/13,Portugal,2424.0,Gil Vicente 
+"Jul 1, 2012",,Free transfer,Portugal,2423.0,Santa Clara ,94180,200 Th. €,Valdinho,12/13,Portugal,3336.0,Desportivo Aves 
+"Aug 1, 2011",,Free transfer,Portugal,2421.0,Freamunde ,94180,50 Th. €,Valdinho,11/12,Portugal,2423.0,Santa Clara 
+"Jun 30, 2011",,End of loan,Portugal,19561.0,Sertanense ,94180,50 Th. €,Valdinho,10/11,Portugal,2421.0,Freamunde 
+"Jan 1, 2011",,Loan,Portugal,2421.0,Freamunde ,94180,50 Th. €,Valdinho,10/11,Portugal,19561.0,Sertanense 
+"Jul 1, 2008",,-,Portugal,15592.0,Freamunde U19 ,94180,-,Valdinho,08/09,Portugal,2421.0,Freamunde 
+"Jul 1, 2015",,?,Cyprus,24326.0,Ermis Aradippou ,96819,300 Th. €,Bruno Turco,15/16,Paraguay,7098.0,Nacional 
+"Jan 7, 2015",,?,Uruguay,18075.0,Maldonado ,96819,300 Th. €,Bruno Turco,14/15,Cyprus,24326.0,Ermis Aradippou 
+"Sep 10, 2013",,?,Brazil,4906.0,Macaé ,96819,300 Th. €,Bruno Turco,13/14,Uruguay,18075.0,Maldonado 
+"Jun 30, 2013",,End of loan,Portugal,1085.0,Vitória Setúbal ,96819,300 Th. €,Bruno Turco,12/13,Brazil,4906.0,Macaé 
+"Jul 1, 2012",,Loan,Brazil,4906.0,Macaé ,96819,-,Bruno Turco,12/13,Portugal,1085.0,Vitória Setúbal 
+"Mar 1, 2012",,Free transfer,Brazil,14807.0,Palmeiras B ,96819,-,Bruno Turco,11/12,Brazil,4906.0,Macaé 
+"Dec 3, 2015",,-,Turkey,126.0,Rizespor ,98502,700 Th. €,Liban Abdi,15/16,,515.0,Unattached 
+"Jun 30, 2015",,End of loan,Bulgaria,156.0,Levski Sofia ,98502,800 Th. €,Liban Abdi,14/15,Turkey,126.0,Rizespor 
+"Feb 12, 2015",,Loan,Turkey,126.0,Rizespor ,98502,800 Th. €,Liban Abdi,14/15,Bulgaria,156.0,Levski Sofia 
+"Jan 16, 2014",,500 Th. €,Portugal,2990.0,Coimbra ,98502,"1,00 Mill. €",Liban Abdi,13/14,Turkey,126.0,Rizespor 
+"Aug 1, 2013",,Free transfer,Portugal,4750.0,Olhanense ,98502,"1,00 Mill. €",Liban Abdi,13/14,Portugal,2990.0,Coimbra 
+"Jul 16, 2012",,Free transfer,Hungary,279.0,Ferencváros ,98502,250 Th. €,Liban Abdi,12/13,Portugal,4750.0,Olhanense 
+"Jul 1, 2008",,Free transfer,England,8824.0,Sheff Utd U21 ,98502,-,Liban Abdi,08/09,Hungary,279.0,Ferencváros 
+"Jul 1, 2016",,"4,00 Mill. €",Portugal,1075.0,Braga ,98547,"2,50 Mill. €",Stanislav Kritsyuk,16/17,Russia,16704.0,FK Krasnodar 
+"Jun 30, 2016",,End of loan,Russia,16704.0,FK Krasnodar ,98547,"2,50 Mill. €",Stanislav Kritsyuk,15/16,Portugal,1075.0,Braga 
+"Jan 25, 2016",,Loan,Portugal,1075.0,Braga ,98547,"1,50 Mill. €",Stanislav Kritsyuk,15/16,Russia,16704.0,FK Krasnodar 
+"Jul 1, 2014",,-,Portugal,10789.0,Braga B ,98547,200 Th. €,Stanislav Kritsyuk,14/15,Portugal,1075.0,Braga 
+"Jun 30, 2014",,End of loan,Portugal,2425.0,Rio Ave FC ,98547,200 Th. €,Stanislav Kritsyuk,13/14,Portugal,10789.0,Braga B 
+"Jan 8, 2014",,Loan,Portugal,10789.0,Braga B ,98547,200 Th. €,Stanislav Kritsyuk,13/14,Portugal,2425.0,Rio Ave FC 
+"Jan 28, 2013",,?,Russia,21637.0,Akad. Togliatti ,98547,50 Th. €,Stanislav Kritsyuk,12/13,Portugal,10789.0,Braga B 
+"Aug 1, 2007",,-,Russia,13641.0,Akademia ,98547,-,Stanislav Kritsyuk,07/08,Russia,21637.0,Akad. Togliatti 
+"Jan 1, 2007",,-,Russia,20350.0,Ak. Y. Konoplev ,98547,-,Stanislav Kritsyuk,06/07,Russia,13641.0,Akademia 
+"Jan 29, 2016",,Free transfer,Brazil,75.0,Unknown ,101321,300 Th. €,Índio,15/16,,32542.0,Operário-MT 
+"Sep 24, 2015",,?,Brazil,32094.0,Independente-PA ,101321,300 Th. €,Índio,15/16,,75.0,Unknown 
+"Sep 22, 2015",,Free transfer,Portugal,1701.0,Felgueiras ,101321,300 Th. €,Índio,15/16,Brazil,32094.0,Independente-PA 
+"Sep 1, 2013",,Free transfer,Portugal,15136.0,Guimarães B ,101321,300 Th. €,Índio,13/14,Portugal,1701.0,Felgueiras 
+"Jul 1, 2012",,?,Portugal,6156.0,Tourizense ,101321,-,Índio,12/13,Portugal,15136.0,Guimarães B 
+"Jul 1, 2011",,?,Portugal,3325.0,Chaves ,101321,-,Índio,11/12,Portugal,6156.0,Tourizense 
+"Jul 1, 2010",,?,Brazil,10492.0,Juventude ,101321,50 Th. €,Índio,10/11,Portugal,3325.0,Chaves 
+"Jan 1, 2009",,-,Brazil,17659.0,EC Juventude B ,101321,-,Índio,08/09,Brazil,10492.0,Juventude 
+"Jan 5, 2016",,Free transfer,Norway,2817.0,Strømsgodset ,111811,600 Th. €,Florent Hanin,15/16,Switzerland,257.0,FC St. Gallen 
+"Mar 18, 2015",,?,Belgium,204.0,Lierse SK ,111811,600 Th. €,Florent Hanin,14/15,Norway,2817.0,Strømsgodset 
+"Jul 1, 2014",,?,Portugal,10789.0,Braga B ,111811,"1,00 Mill. €",Florent Hanin,14/15,Belgium,204.0,Lierse SK 
+"Jun 30, 2014",,End of loan,Greece,6418.0,Panetolikos ,111811,"1,00 Mill. €",Florent Hanin,13/14,Portugal,10789.0,Braga B 
+"Jan 18, 2014",,Loan,Portugal,10789.0,Braga B ,111811,"1,00 Mill. €",Florent Hanin,13/14,Greece,6418.0,Panetolikos 
+"Jan 17, 2014",,End of loan,Portugal,979.0,Moreirense  ,111811,"1,00 Mill. €",Florent Hanin,13/14,Portugal,10789.0,Braga B 
+"Sep 2, 2013",,Loan,Portugal,10789.0,Braga B ,111811,"1,20 Mill. €",Florent Hanin,13/14,Portugal,979.0,Moreirense  
+"Jun 30, 2013",,End of loan,Portugal,979.0,Moreirense  ,111811,"1,00 Mill. €",Florent Hanin,12/13,Portugal,10789.0,Braga B 
+"Jan 15, 2013",,Loan,Portugal,10789.0,Braga B ,111811,400 Th. €,Florent Hanin,12/13,Portugal,979.0,Moreirense  
+"Jul 1, 2012",,Free transfer,Portugal,3345.0,Leixões ,111811,400 Th. €,Florent Hanin,12/13,Portugal,10789.0,Braga B 
+"Jul 1, 2011",,Free transfer,France,738.0,AC Le Havre ,111811,50 Th. €,Florent Hanin,11/12,Portugal,3345.0,Leixões 
+"Jul 1, 2009",,-,France,15439.0,AC Le Havre B ,111811,-,Florent Hanin,09/10,France,738.0,AC Le Havre 
+"Jul 1, 2015",,Free transfer,Romania,15945.0,Chiajna ,118323,550 Th. €,Ricardo Alves,15/16,Romania,13499.0,Astra Giurgiu 
+"Jul 1, 2014",,Free transfer,Portugal,10787.0,Marítimo B ,118323,400 Th. €,Ricardo Alves,14/15,Romania,15945.0,Chiajna 
+"Jul 1, 2011",,?,Portugal,2990.0,Coimbra ,118323,-,Ricardo Alves,11/12,Portugal,10787.0,Marítimo B 
+"Jun 30, 2011",,End of loan,Portugal,6156.0,Tourizense ,118323,-,Ricardo Alves,10/11,Portugal,2990.0,Coimbra 
+"Jul 1, 2010",,Loan,Portugal,15559.0,Académica U19 ,118323,-,Ricardo Alves,10/11,Portugal,6156.0,Tourizense 
+"Jul 1, 2009",,?,Portugal,10283.0,Sporting U19 ,118323,-,Ricardo Alves,09/10,Portugal,15559.0,Académica U19 
+,,,,,,121585,,,,,,
+"Jun 30, 2016",,End of loan,England,1035.0,Sheff Wed ,122115,"1,00 Mill. €",Vincent Sasso,15/16,Portugal,1075.0,Braga 
+"Jul 1, 2015",,Loan fee:130 Th. €,Portugal,1075.0,Braga ,122115,"1,20 Mill. €",Vincent Sasso,15/16,England,1035.0,Sheff Wed 
+"Jan 22, 2013",,750 Th. €,Portugal,1436.0,Beira-Mar ,122115,200 Th. €,Vincent Sasso,12/13,Portugal,1075.0,Braga 
+"Jul 19, 2012",,Free transfer,France,995.0,FC Nantes ,122115,200 Th. €,Vincent Sasso,12/13,Portugal,1436.0,Beira-Mar 
+"Jul 1, 2009",,-,France,10850.0,FC Nantes B ,122115,-,Vincent Sasso,09/10,France,995.0,FC Nantes 
+"Aug 3, 2015",,Free transfer,Portugal,1075.0,Braga ,122844,300 Th. €,Victor Golas,15/16,Bulgaria,2531.0,Botev Plovdiv 
+"Jul 5, 2014",,Free transfer,Portugal,10949.0,Sporting B ,122844,300 Th. €,Victor Golas,14/15,Portugal,1075.0,Braga 
+"Jun 30, 2012",,End of loan,Portugal,3327.0,Penafiel ,122844,350 Th. €,Victor Golas,11/12,Portugal,10949.0,Sporting B 
+"Jul 1, 2011",,Loan,Portugal,336.0,Sporting CP ,122844,100 Th. €,Victor Golas,11/12,Portugal,3327.0,Penafiel 
+"Jun 30, 2011",,End of loan,Portugal,2503.0,Boavista ,122844,100 Th. €,Victor Golas,10/11,Portugal,336.0,Sporting CP 
+"Jul 1, 2010",,Loan,Portugal,336.0,Sporting CP ,122844,-,Victor Golas,10/11,Portugal,2503.0,Boavista 
+"Jun 30, 2010",,End of loan,Portugal,11085.0,Real SC ,122844,-,Victor Golas,09/10,Portugal,336.0,Sporting CP 
+"Jul 2, 2009",,Loan,Portugal,10283.0,Sporting U19 ,122844,-,Victor Golas,09/10,Portugal,11085.0,Real SC 
+"Dec 10, 2014",,draft,United States,626.0,Revolution ,125700,500 Th. €,Tony Taylor,14/15,United States,40058.0,NYC FC 
+"Aug 18, 2014",,?,Cyprus,829.0,Omonia Nikosia ,125700,500 Th. €,Tony Taylor,14/15,United States,626.0,Revolution 
+"Jul 1, 2013",,?,Portugal,1465.0,Estoril ,125700,800 Th. €,Tony Taylor,13/14,Cyprus,829.0,Omonia Nikosia 
+"Dec 31, 2011",,End of loan,Portugal,5227.0,Atlético ,125700,250 Th. €,Tony Taylor,11/12,Portugal,1465.0,Estoril 
+"Jul 1, 2011",,Loan,Portugal,1465.0,Estoril ,125700,100 Th. €,Tony Taylor,11/12,Portugal,5227.0,Atlético 
+"Jan 1, 2010",,?,United States,15031.0,Jacksonville Dolphins ,125700,-,Tony Taylor,09/10,Portugal,1465.0,Estoril 
+"Jan 14, 2015",,Free transfer,Japan,20805.0,Gainare Tottori ,128833,-,Ramazotti,14/15,Singapore,14320.0,DPMM FC 
+"Aug 13, 2014",,?,Brazil,20092.0,ASA ,128833,-,Ramazotti,14/15,Japan,20805.0,Gainare Tottori 
+"Mar 15, 2014",,?,Brazil,22690.0,Passo Fundo ,128833,-,Ramazotti,13/14,Brazil,20092.0,ASA 
+"Jan 8, 2014",,-,Brazil,515.0,Unattached ,128833,-,Ramazotti,13/14,,22690.0,Passo Fundo 
+"May 1, 2013",,-,Brazil,8793.0,Bragantino ,128833,-,Ramazotti,12/13,,515.0,Unattached 
+"Jan 1, 2013",,Free transfer,Portugal,2424.0,Gil Vicente ,128833,300 Th. €,Ramazotti,12/13,Brazil,8793.0,Bragantino 
+"Jul 1, 2012",,Free transfer,Switzerland,260.0,FC Zürich ,128833,300 Th. €,Ramazotti,12/13,Portugal,2424.0,Gil Vicente 
+"Jan 1, 2012",,?,Brazil,7478.0,Santo André ,128833,300 Th. €,Ramazotti,11/12,Switzerland,260.0,FC Zürich 
+"Dec 1, 2011",,End of loan,Japan,9597.0,Avispa Fukuoka ,128833,800 Th. €,Ramazotti,11/12,Brazil,7478.0,Santo André 
+"Jul 1, 2011",,Loan,Brazil,7478.0,Santo André ,128833,800 Th. €,Ramazotti,11/12,Japan,9597.0,Avispa Fukuoka 
+"Jun 1, 2011",,End of loan,Portugal,2424.0,Gil Vicente ,128833,350 Th. €,Ramazotti,10/11,Brazil,7478.0,Santo André 
+"Jul 1, 2010",,Loan,Brazil,7478.0,Santo André ,128833,50 Th. €,Ramazotti,10/11,Portugal,2424.0,Gil Vicente 
+"Sep 1, 2009",,-,Brazil,515.0,Unattached ,128833,-,Ramazotti,09/10,,7478.0,Santo André 
+"Jun 1, 2009",,-,Brazil,734.0,União São João ,128833,-,Ramazotti,08/09,,515.0,Unattached 
+"Mar 1, 2009",,Free transfer,Brazil,21849.0,Ipitanga Bahia ,128833,-,Ramazotti,08/09,Brazil,734.0,União São João 
+"Jan 1, 2009",,Free transfer,Brazil,14807.0,Palmeiras B ,128833,-,Ramazotti,08/09,Brazil,21849.0,Ipitanga Bahia 
+"May 1, 2008",,End of loan,Brazil,10117.0,Grêmio Esportivo Juventus (SC) ,128833,-,Ramazotti,07/08,Brazil,14807.0,Palmeiras B 
+"Jan 1, 2008",,Loan,Brazil,14807.0,Palmeiras B ,128833,-,Ramazotti,07/08,Brazil,10117.0,Grêmio Esportivo Juventus (SC) 
+"Jan 6, 2015",,-,Portugal,2995.0,Paços Ferreira ,129224,200 Th. €,Duarte Duarte,14/15,Angola,7084.0,Petro Luanda 
+"Jun 1, 2014",,End of loan,Portugal,8827.0,Oliveirense ,129224,200 Th. €,Duarte Duarte,13/14,Portugal,2995.0,Paços Ferreira 
+"Jan 8, 2014",,Loan,Portugal,2995.0,Paços Ferreira ,129224,200 Th. €,Duarte Duarte,13/14,Portugal,8827.0,Oliveirense 
+"Sep 10, 2013",,Free transfer,Portugal,10330.0,Benfica B ,129224,200 Th. €,Duarte Duarte,13/14,Portugal,2995.0,Paços Ferreira 
+"Jun 30, 2013",,End of loan,Portugal,2995.0,Paços Ferreira ,129224,200 Th. €,Duarte Duarte,13/14,Portugal,10330.0,Benfica B 
+"Jan 31, 2013",,Loan,Portugal,10330.0,Benfica B ,129224,200 Th. €,Duarte Duarte,12/13,Portugal,2995.0,Paços Ferreira 
+"Jul 1, 2012",,?,Portugal,4297.0,Varzim ,129224,100 Th. €,Duarte Duarte,12/13,Portugal,10330.0,Benfica B 
+"Jul 1, 2011",,?,Portugal,2424.0,Gil Vicente ,129224,100 Th. €,Duarte Duarte,11/12,Portugal,4297.0,Varzim 
+"Jul 1, 2009",,?,Portugal,8424.0,Vilaverdense FC ,129224,-,Duarte Duarte,09/10,Portugal,2424.0,Gil Vicente 
+"Feb 2, 2016",,?,Portugal,3327.0,Penafiel ,130666,250 Th. €,Bruninho,15/16,Portugal,7117.0,Bragança 
+"Jul 1, 2014",,?,Portugal,1085.0,Vitória Setúbal ,130666,400 Th. €,Bruninho,14/15,Portugal,3327.0,Penafiel 
+"Jul 1, 2012",,?,Portugal,8493.0,Padroense ,130666,-,Bruninho,12/13,Portugal,1085.0,Vitória Setúbal 
+"Jul 1, 2010",,?,Portugal,25834.0,Candal ,130666,-,Bruninho,10/11,Portugal,8493.0,Padroense 
+"Jan 1, 2016",,?,Portugal,10331.0,Porto B ,131094,700 Th. €,Héctor Quiñónes,15/16,Colombia,2350.0,Millonarios 
+"Jun 30, 2015",,End of loan,Portugal,3327.0,Penafiel ,131094,"1,20 Mill. €",Héctor Quiñónes,14/15,Portugal,10331.0,Porto B 
+"Sep 1, 2014",,Loan,Portugal,10331.0,Porto B ,131094,"1,00 Mill. €",Héctor Quiñónes,14/15,Portugal,3327.0,Penafiel 
+"Jul 1, 2013",,-,Portugal,720.0,FC Porto ,131094,"1,00 Mill. €",Héctor Quiñónes,13/14,Portugal,10331.0,Porto B 
+"Aug 31, 2012",,"1,98 Mill. €",Colombia,11854.0,Atlético Junior ,131094,450 Th. €,Héctor Quiñónes,12/13,Portugal,720.0,FC Porto 
+"Jan 1, 2012",,?,Colombia,9961.0,Deportivo Cali ,131094,-,Héctor Quiñónes,11/12,Colombia,11854.0,Atlético Junior 
+"Dec 31, 2011",,End of loan,Italy,10959.0,Udinese U19 ,131094,-,Héctor Quiñónes,11/12,Colombia,9961.0,Deportivo Cali 
+"Jul 1, 2011",,Loan,Colombia,9961.0,Deportivo Cali ,131094,-,Héctor Quiñónes,11/12,Italy,10959.0,Udinese U19 
+"Jul 1, 2010",,-,Colombia,20589.0,Dep. Cali U19 ,131094,-,Héctor Quiñónes,10/11,Colombia,9961.0,Deportivo Cali 
+"Jun 30, 2016",,End of loan,Turkey,3205.0,Kayserispor ,131933,"3,00 Mill. €",Diego Lopes,15/16,Portugal,294.0,Benfica 
+"Jul 17, 2015",,Loan,Portugal,294.0,Benfica ,131933,"4,00 Mill. €",Diego Lopes,15/16,Turkey,3205.0,Kayserispor 
+"Jul 1, 2015",,100 Th. €,Portugal,2425.0,Rio Ave FC ,131933,"4,00 Mill. €",Diego Lopes,15/16,Portugal,294.0,Benfica 
+"Aug 4, 2013",,?,Portugal,10330.0,Benfica B ,131933,800 Th. €,Diego Lopes,13/14,Portugal,2425.0,Rio Ave FC 
+"Jun 30, 2013",,End of loan,Portugal,2425.0,Rio Ave FC ,131933,500 Th. €,Diego Lopes,12/13,Portugal,10330.0,Benfica B 
+"Jul 1, 2012",,Loan,Portugal,8889.0,Benfica U19 ,131933,-,Diego Lopes,12/13,Portugal,2425.0,Rio Ave FC 
+"May 9, 2016",,Free transfer,Brazil,21727.0,Batatais ,132061,50 Th. €,Eliandro,15/16,Brazil,8793.0,Bragantino 
+"Jan 29, 2016",,Free transfer,Lithuania,602.0,Zalgiris ,132061,50 Th. €,Eliandro,15/16,Brazil,21727.0,Batatais 
+"Jul 1, 2015",,-,Lithuania,515.0,Unattached ,132061,25 Th. €,Eliandro,14/15,,602.0,Zalgiris 
+"May 4, 2015",,-,Malta,10262.0,Birkirkara FC ,132061,-,Eliandro,14/15,,515.0,Unattached 
+"Jul 1, 2014",,?,Brazil,11932.0,Cabofriense ,132061,-,Eliandro,14/15,Malta,10262.0,Birkirkara FC 
+"Jan 1, 2014",,Free transfer,Brazil,609.0,Cruzeiro ,132061,-,Eliandro,13/14,Brazil,11932.0,Cabofriense 
+"Jun 30, 2013",,End of loan,Portugal,982.0,Nacional ,132061,-,Eliandro,12/13,Brazil,609.0,Cruzeiro 
+"Aug 28, 2012",,Loan,Brazil,609.0,Cruzeiro ,132061,-,Eliandro,12/13,Portugal,982.0,Nacional 
+"Aug 27, 2012",,End of loan,Brazil,3270.0,Betim EC ,132061,-,Eliandro,12/13,Brazil,609.0,Cruzeiro 
+"Jun 1, 2012",,Loan,Brazil,609.0,Cruzeiro ,132061,-,Eliandro,11/12,Brazil,3270.0,Ipatinga FC 
+"May 1, 2012",,End of loan,Brazil,5215.0,Villa Nova AC ,132061,-,Eliandro,11/12,Brazil,609.0,Cruzeiro 
+"Jan 1, 2012",,Loan,Brazil,609.0,Cruzeiro ,132061,-,Eliandro,11/12,Brazil,5215.0,Villa Nova AC 
+"Dec 1, 2011",,End of loan,Brazil,7209.0,ABC ,132061,-,Eliandro,11/12,Brazil,609.0,Cruzeiro 
+"Sep 1, 2011",,Loan,Brazil,609.0,Cruzeiro ,132061,150 Th. €,Eliandro,11/12,Brazil,7209.0,ABC 
+"Aug 1, 2011",,End of loan,Brazil,2863.0,América-MG ,132061,150 Th. €,Eliandro,11/12,Brazil,609.0,Cruzeiro 
+"Jan 1, 2011",,Loan,Brazil,609.0,Cruzeiro ,132061,-,Eliandro,10/11,Brazil,2863.0,América-MG 
+"Nov 1, 2010",,End of loan,Brazil,8718.0,Sport ,132061,-,Eliandro,10/11,Brazil,609.0,Cruzeiro 
+"Aug 1, 2010",,Loan,Brazil,609.0,Cruzeiro ,132061,-,Eliandro,10/11,Brazil,8718.0,Sport 
+"Jan 1, 2010",,-,Brazil,16658.0,Cruzeiro B ,132061,-,Eliandro,09/10,Brazil,609.0,Cruzeiro 
+"Jul 1, 2014",,?,Mexico,23505.0,Leones Negros ,136897,400 Th. €,Gabriel Rodríguez,14/15,Chile,14723.0,Ñublense 
+"Aug 15, 2013",,Free transfer,Portugal,2424.0,Gil Vicente ,136897,400 Th. €,Gabriel Rodríguez,13/14,Mexico,23505.0,Leones Negros 
+"Jan 18, 2013",,?,Chile,14723.0,Ñublense ,136897,550 Th. €,Gabriel Rodríguez,12/13,Portugal,2424.0,Gil Vicente 
+"Jan 1, 2013",,?,Chile,6363.0,Audax Italiano ,136897,550 Th. €,Gabriel Rodríguez,12/13,Chile,14723.0,Ñublense 
+"Jan 1, 2012",,?,Argentina,12301.0,Aldosivi ,136897,550 Th. €,Gabriel Rodríguez,11/12,Chile,6363.0,Audax Italiano 
+"Jul 1, 2011",,?,Argentina,14831.0,Boca II ,136897,550 Th. €,Gabriel Rodríguez,11/12,Argentina,12301.0,Aldosivi 
+"Jun 30, 2011",,End of loan,Greece,4602.0,Olymp. Volos ,136897,550 Th. €,Gabriel Rodríguez,10/11,Argentina,14831.0,Boca II 
+"Jan 1, 2011",,Loan,Argentina,14831.0,Boca II ,136897,550 Th. €,Gabriel Rodríguez,10/11,Greece,4602.0,Olymp. Volos 
+"Dec 1, 2010",,End of loan,Chile,14723.0,Ñublense ,136897,500 Th. €,Gabriel Rodríguez,10/11,Argentina,14831.0,Boca II 
+"Dec 1, 2009",,Loan,Argentina,14831.0,Boca II ,136897,-,Gabriel Rodríguez,09/10,Chile,14723.0,Ñublense 
+"Jan 1, 2009",,-,Argentina,15098.0,Boca U20 ,136897,-,Gabriel Rodríguez,08/09,Argentina,14831.0,Boca II 
+"Jul 13, 2015",,Free transfer,Portugal,1301.0,Marítimo ,138649,900 Th. €,Semedo,15/16,Portugal,3349.0,Feirense 
+"Jun 30, 2015",,End of loan,Portugal,2424.0,Gil Vicente ,138649,600 Th. €,Semedo,14/15,Portugal,1301.0,Marítimo 
+"Feb 2, 2015",,Loan,Portugal,1301.0,Marítimo ,138649,400 Th. €,Semedo,14/15,Portugal,2424.0,Gil Vicente 
+"Dec 31, 2014",,End of loan,Portugal,4750.0,Olhanense ,138649,400 Th. €,Semedo,14/15,Portugal,1301.0,Marítimo 
+"Aug 3, 2014",,Loan,Portugal,1301.0,Marítimo ,138649,400 Th. €,Semedo,14/15,Portugal,4750.0,Olhanense 
+"Jun 30, 2014",,End of loan,Portugal,7378.0,Portimonense ,138649,400 Th. €,Semedo,13/14,Portugal,1301.0,Marítimo 
+"Jul 1, 2013",,Loan,Portugal,1301.0,Marítimo ,138649,400 Th. €,Semedo,13/14,Portugal,7378.0,Portimonense 
+"Jul 23, 2012",,Free transfer,Portugal,7378.0,Portimonense ,138649,400 Th. €,Semedo,12/13,Portugal,1301.0,Marítimo 
+"Jul 1, 2011",,Free transfer,Portugal,6986.0,Pinhalnovense ,138649,-,Semedo,11/12,Portugal,7378.0,Portimonense 
+"Jul 1, 2009",,Free transfer,Portugal,33634.0,Futebol Benfica ,138649,-,Semedo,09/10,Portugal,6986.0,Pinhalnovense 
+"Jul 1, 2008",,Free transfer,Portugal,13573.0,1º Dezembro ,138649,-,Semedo,08/09,Portugal,33634.0,Futebol Benfica 
+"Jul 1, 2007",,Free transfer,Portugal,14910.0,Estrela Amadora ,138649,-,Semedo,07/08,Portugal,13573.0,1º Dezembro 
+"Jul 1, 2015",,Free transfer,Portugal,2995.0,Paços Ferreira ,138652,100 Th. €,Luís Sousa,15/16,Portugal,1992.0,Sintrense 
+"Jun 30, 2015",,End of loan,Portugal,7811.0,Castelo Branco ,138652,100 Th. €,Luís Sousa,14/15,Portugal,2995.0,Paços Ferreira 
+"Jul 1, 2014",,Loan,Portugal,2995.0,Paços Ferreira ,138652,100 Th. €,Luís Sousa,14/15,Portugal,7811.0,Castelo Branco 
+"Jun 30, 2014",,End of loan,Portugal,3336.0,Desportivo Aves ,138652,100 Th. €,Luís Sousa,13/14,Portugal,2995.0,Paços Ferreira 
+"Jul 1, 2013",,Loan,Portugal,2995.0,Paços Ferreira ,138652,100 Th. €,Luís Sousa,13/14,Portugal,3336.0,Desportivo Aves 
+"Jan 31, 2013",,?,Portugal,6987.0,Fátima ,138652,-,Luís Sousa,12/13,Portugal,2995.0,Paços Ferreira 
+"Jul 1, 2012",,Free transfer,Portugal,7056.0,Mafra ,138652,-,Luís Sousa,12/13,Portugal,6987.0,Fátima 
+"Jul 1, 2011",,Free transfer,Portugal,6986.0,Pinhalnovense ,138652,-,Luís Sousa,11/12,Portugal,7056.0,Mafra 
+"Jul 1, 2009",,Free transfer,Portugal,4535.0,Odivelas ,138652,-,Luís Sousa,09/10,Portugal,6986.0,Pinhalnovense 
+"Jul 1, 2008",,-,Portugal,20026.0,Odivelas U19 ,138652,-,Luís Sousa,08/09,Portugal,4535.0,Odivelas 
+"Jun 30, 2016",,End of loan,Portugal,1301.0,Marítimo ,139337,"2,00 Mill. €",Tiago Rodrigues,15/16,Portugal,720.0,FC Porto 
+"Jul 31, 2015",,Loan,Portugal,720.0,FC Porto ,139337,"2,20 Mill. €",Tiago Rodrigues,15/16,Portugal,1301.0,Marítimo 
+"Jul 1, 2015",,-,Portugal,10331.0,Porto B ,139337,"2,20 Mill. €",Tiago Rodrigues,15/16,Portugal,720.0,FC Porto 
+"Jun 30, 2015",,End of loan,Portugal,982.0,Nacional ,139337,"1,20 Mill. €",Tiago Rodrigues,14/15,Portugal,10331.0,Porto B 
+"Jan 4, 2015",,Loan,Portugal,10331.0,Porto B ,139337,"1,70 Mill. €",Tiago Rodrigues,14/15,Portugal,982.0,Nacional 
+"Jun 30, 2014",,End of loan,Portugal,2420.0,Vit. Guimarães ,139337,"1,70 Mill. €",Tiago Rodrigues,13/14,Portugal,10331.0,Porto B 
+"Sep 2, 2013",,Loan,Portugal,10331.0,Porto B ,139337,"1,70 Mill. €",Tiago Rodrigues,13/14,Portugal,2420.0,Vit. Guimarães 
+"Jul 1, 2013",,500 Th. €,Portugal,2420.0,Vit. Guimarães ,139337,700 Th. €,Tiago Rodrigues,13/14,Portugal,10331.0,Porto B 
+"Jan 1, 2013",,-,Portugal,15136.0,Guimarães B ,139337,100 Th. €,Tiago Rodrigues,12/13,Portugal,2420.0,Vit. Guimarães 
+"Jun 30, 2012",,End of loan,Portugal,7789.0,Amarante ,139337,-,Tiago Rodrigues,11/12,Portugal,15136.0,Guimarães B 
+"Jul 1, 2011",,Loan,Portugal,15581.0,Guimarães U19 ,139337,-,Tiago Rodrigues,11/12,Portugal,7789.0,Amarante 
+"Jul 1, 2009",,-,Portugal,47988.0,VSC Juvenis ,139337,-,Tiago Rodrigues,09/10,Portugal,15581.0,Guimarães U19 
+"Jul 1, 2008",,Free transfer,Portugal,48365.0,Sporting Sub17 ,139337,-,Tiago Rodrigues,08/09,Portugal,47988.0,VSC Juvenis 
+"Jul 1, 2013",,-,Portugal,15136.0,Guimarães B ,139341,400 Th. €,Josué Sá,13/14,Portugal,2420.0,Vit. Guimarães 
+"Jun 30, 2012",,End of loan,Portugal,3325.0,Chaves ,139341,-,Josué Sá,11/12,Portugal,15136.0,Guimarães B 
+"Jul 1, 2011",,Loan,Portugal,15581.0,Guimarães U19 ,139341,-,Josué Sá,11/12,Portugal,3325.0,Chaves 
+"Jul 1, 2009",,-,Portugal,48365.0,Sporting Sub17 ,139341,-,Josué Sá,09/10,Portugal,15581.0,Guimarães U19 
+"Jun 30, 2016",,End of loan,Spain,681.0,Real Sociedad ,139396,"5,00 Mill. €",Bruma,15/16,Turkey,141.0,Galatasaray 
+"Jul 14, 2015",,"Loan fee:1,90 Mill. €",Turkey,141.0,Galatasaray ,139396,"7,25 Mill. €",Bruma,15/16,Spain,681.0,Real Sociedad 
+"Jun 30, 2014",,End of loan,Turkey,524.0,Gaziantepspor ,139396,"10,00 Mill. €",Bruma,13/14,Turkey,141.0,Galatasaray 
+"Jan 29, 2014",,Loan,Turkey,141.0,Galatasaray ,139396,"10,00 Mill. €",Bruma,13/14,Turkey,524.0,Gaziantepspor 
+"Sep 3, 2013",,"10,00 Mill. €",Portugal,336.0,Sporting CP ,139396,"2,50 Mill. €",Bruma,13/14,Turkey,141.0,Galatasaray 
+"Feb 4, 2013",,-,Portugal,10949.0,Sporting B ,139396,"1,70 Mill. €",Bruma,12/13,Portugal,336.0,Sporting CP 
+"Jul 1, 2012",,-,Portugal,10283.0,Sporting U19 ,139396,-,Bruma,12/13,Portugal,10949.0,Sporting B 
+"Jul 1, 2011",,-,Portugal,48365.0,Sporting Sub17 ,139396,-,Bruma,11/12,Portugal,10283.0,Sporting U19 
+"Jan 6, 2016",,?,Ecuador,4561.0,CS Emelec ,141444,500 Th. €,Vinicio Angulo,15/16,Mexico,40188.0,San Luis 
+"Dec 31, 2015",,End of loan,Mexico,30111.0,Oaxaca ,141444,500 Th. €,Vinicio Angulo,15/16,Ecuador,4561.0,CS Emelec 
+"Jul 8, 2015",,Loan,Ecuador,4561.0,CS Emelec ,141444,500 Th. €,Vinicio Angulo,15/16,Mexico,30111.0,Oaxaca 
+"Jun 30, 2015",,End of loan,Mexico,10091.0,Dorados de Sin. ,141444,500 Th. €,Vinicio Angulo,14/15,Ecuador,4561.0,CS Emelec 
+"Jan 7, 2015",,Loan,Ecuador,4561.0,CS Emelec ,141444,500 Th. €,Vinicio Angulo,14/15,Mexico,10091.0,Dorados de Sin. 
+"Aug 4, 2014",,End of loan,Ecuador,1143.0,CD El Nacional ,141444,800 Th. €,Vinicio Angulo,14/15,Ecuador,4561.0,CS Emelec 
+"Feb 11, 2014",,Loan,Ecuador,4561.0,CS Emelec ,141444,450 Th. €,Vinicio Angulo,13/14,Ecuador,1143.0,CD El Nacional 
+"Jan 28, 2013",,?,Ecuador,25952.0,Norte América ,141444,-,Vinicio Angulo,12/13,Ecuador,4561.0,CS Emelec 
+"Jan 25, 2013",,End of loan,Portugal,2995.0,Paços Ferreira ,141444,-,Vinicio Angulo,12/13,Ecuador,25952.0,Norte América 
+"Sep 3, 2012",,Loan,Ecuador,25952.0,Norte América ,141444,-,Vinicio Angulo,12/13,Portugal,2995.0,Paços Ferreira 
+"Jun 26, 2012",,?,Ecuador,19309.0,Independiente ,141444,-,Vinicio Angulo,11/12,Ecuador,25952.0,Norte América 
+"Jan 2, 2012",,Free transfer,Ecuador,3523.0,Barcelona SC ,141444,-,Vinicio Angulo,11/12,Ecuador,19309.0,Independiente 
+"Jan 20, 2009",,-,Ecuador,19309.0,Independiente ,141444,-,Vinicio Angulo,08/09,Ecuador,3523.0,Barcelona SC 
+"Feb 26, 2008",,?,Ecuador,22587.0,Barca SC U20 ,141444,-,Vinicio Angulo,07/08,Ecuador,19309.0,Independiente 
+"Nov 18, 2007",,End of loan,Ecuador,25544.0,Alfaro Moreno ,141444,-,Vinicio Angulo,07/08,Ecuador,22587.0,Barca SC U20 
+"Sep 4, 2007",,Loan,Ecuador,22587.0,Barca SC U20 ,141444,-,Vinicio Angulo,07/08,Ecuador,25544.0,Alfaro Moreno 
+"May 22, 2007",,?,Ecuador,30730.0,CSCD Fedeguayas ,141444,-,Vinicio Angulo,06/07,Ecuador,22587.0,Barca SC U20 
+"Feb 3, 2016",,Free transfer,Brazil,12037.0,Friburguense ,147369,100 Th. €,Thalles,15/16,Brazil,33171.0,Atibaia-SP 
+"Dec 2, 2014",,-,Brazil,515.0,Unattached ,147369,100 Th. €,Thalles,14/15,,12037.0,Friburguense 
+"Jul 1, 2013",,-,Portugal,4750.0,Olhanense ,147369,100 Th. €,Thalles,13/14,,515.0,Unattached 
+"Jan 1, 2013",,Free transfer,Brazil,14807.0,Palmeiras B ,147369,-,Thalles,12/13,Portugal,4750.0,Olhanense 
+"Jan 1, 2012",,Free transfer,Brazil,5677.0,Vila Nova ,147369,-,Thalles,11/12,Brazil,14807.0,Palmeiras B 
+"Oct 1, 2011",,End of loan,Brazil,12421.0,Itumbiara ,147369,-,Thalles,11/12,Brazil,5677.0,Vila Nova 
+"Sep 1, 2011",,Loan,Brazil,5677.0,Vila Nova ,147369,-,Thalles,11/12,Brazil,12421.0,Itumbiara 
+"Jan 1, 2011",,-,Brazil,18664.0,Vila Nova ,147369,-,Thalles,10/11,Brazil,5677.0,Vila Nova 
+"Jul 1, 2014",,-,Thailand,515.0,Unattached ,147881,"1,00 Mill. €",Márcio Rosário,14/15,,34853.0,Suphanburi FC 
+"Apr 2, 2014",,-,Portugal,1301.0,Marítimo ,147881,"1,00 Mill. €",Márcio Rosário,13/14,,515.0,Unattached 
+"Aug 12, 2012",,Free transfer,Brazil,2646.0,Náutico ,147881,400 Th. €,Márcio Rosário,12/13,Portugal,1301.0,Marítimo 
+"May 1, 2012",,Free transfer,Brazil,2462.0,Fluminense ,147881,750 Th. €,Márcio Rosário,11/12,Brazil,2646.0,Náutico 
+"May 1, 2011",,Free transfer,Brazil,537.0,Botafogo ,147881,750 Th. €,Márcio Rosário,10/11,Brazil,2462.0,Fluminense 
+"Aug 1, 2010",,Free transfer,United Arab Emirates,2524.0,Al-Jazira ,147881,-,Márcio Rosário,10/11,Brazil,537.0,Botafogo 
+"Aug 1, 2008",,?,Brazil,25993.0,Linhares-ES ,147881,-,Márcio Rosário,08/09,United Arab Emirates,2524.0,Al-Jazira 
+"Jun 30, 2008",,End of loan,Brazil,1751.0,América-RN ,147881,-,Márcio Rosário,07/08,Brazil,25993.0,Linhares-ES 
+"May 1, 2008",,Loan,Brazil,25993.0,Linhares-ES ,147881,-,Márcio Rosário,07/08,Brazil,1751.0,América-RN 
+"Apr 1, 2008",,End of loan,Brazil,616.0,Esporte Clube Internacional (RS) ,147881,-,Márcio Rosário,07/08,Brazil,25993.0,Linhares-ES 
+"Jan 1, 2008",,Loan,Brazil,25993.0,Linhares-ES ,147881,-,Márcio Rosário,07/08,Brazil,616.0,Esporte Clube Internacional (RS) 
+"Dec 1, 2007",,End of loan,Brazil,4906.0,Macaé ,147881,-,Márcio Rosário,07/08,Brazil,25993.0,Linhares-ES 
+"Sep 1, 2007",,Loan,Brazil,25993.0,Linhares-ES ,147881,-,Márcio Rosário,07/08,Brazil,4906.0,Macaé 
+"Dec 15, 2015",,-,Brazil,27323.0,Coimbra-MG ,149244,800 Th. €,Afonso,15/16,,515.0,Unattached 
+"May 1, 2015",,?,Brazil,18545.0,Alagoano ,149244,800 Th. €,Afonso,14/15,Brazil,27323.0,Coimbra-MG 
+"Oct 17, 2014",,?,Brazil,9030.0,Botafogo FC ,149244,800 Th. €,Afonso,14/15,Brazil,18545.0,Alagoano 
+"Dec 31, 2013",,?,Brazil,11449.0,CRB ,149244,800 Th. €,Afonso,13/14,Brazil,9030.0,Botafogo FC 
+"Jul 1, 2013",,?,Brazil,3266.0,Corinthians ,149244,800 Th. €,Afonso,13/14,Brazil,11449.0,CRB 
+"Jun 30, 2013",,End of loan,Portugal,2990.0,Coimbra ,149244,800 Th. €,Afonso,12/13,Brazil,3266.0,Corinthians 
+"Jul 1, 2012",,Loan,Brazil,3266.0,Corinthians ,149244,75 Th. €,Afonso,12/13,Portugal,2990.0,Coimbra 
+"Dec 1, 2011",,End of loan,Japan,596.0,Gamba Osaka ,149244,75 Th. €,Afonso,11/12,Brazil,3266.0,Corinthians 
+"Mar 1, 2011",,Loan,Brazil,3266.0,Corinthians ,149244,-,Afonso,10/11,Japan,596.0,Gamba Osaka 
+"Aug 1, 2010",,End of loan,Brazil,20092.0,ASA ,149244,-,Afonso,10/11,Brazil,3266.0,Corinthians 
+"May 1, 2010",,Loan,Brazil,3266.0,Corinthians ,149244,-,Afonso,09/10,Brazil,20092.0,ASA 
+"Jun 30, 2016",,End of loan,Belgium,29228.0,Mouscron ,150568,"1,00 Mill. €",Valentín Viola,15/16,Cyprus,429.0,Apol. Limassol 
+"Jan 15, 2016",,-,Portugal,10949.0,Sporting B ,150568,"2,50 Mill. €",Valentín Viola,15/16,Cyprus,429.0,Apol. Limassol 
+"Jan 15, 2016",,Loan,Cyprus,429.0,Apol. Limassol ,150568,"2,50 Mill. €",Valentín Viola,15/16,Belgium,29228.0,Mouscron 
+"Jul 1, 2015",,-,Portugal,336.0,Sporting CP ,150568,"2,50 Mill. €",Valentín Viola,15/16,Portugal,10949.0,Sporting B 
+"Jun 30, 2015",,End of loan,Turkey,1506.0,Karabükspor ,150568,"2,50 Mill. €",Valentín Viola,14/15,Portugal,336.0,Sporting CP 
+"Aug 1, 2014",,Loan fee:200 Th. €,Portugal,336.0,Sporting CP ,150568,"2,50 Mill. €",Valentín Viola,14/15,Turkey,1506.0,Karabükspor 
+"Jun 30, 2014",,End of loan,Argentina,1444.0,Racing Club ,150568,"2,50 Mill. €",Valentín Viola,13/14,Portugal,336.0,Sporting CP 
+"Aug 1, 2013",,Loan fee:450 Th. €,Portugal,336.0,Sporting CP ,150568,"2,50 Mill. €",Valentín Viola,13/14,Argentina,1444.0,Racing Club 
+"Jul 31, 2012",,"4,00 Mill. €",Argentina,1444.0,Racing Club ,150568,"1,40 Mill. €",Valentín Viola,12/13,Portugal,336.0,Sporting CP 
+"Jan 1, 2011",,-,Argentina,15119.0,Racing U20 ,150568,50 Th. €,Valentín Viola,10/11,Argentina,1444.0,Racing Club 
+"Jan 28, 2016",,Free transfer,Brazil,21829.0,Oeste ,151142,150 Th. â‚¬,JÃºnior Lopes,15/16,Brazil,17561.0,Boa Esporte 
+"Aug 4, 2015",,Free transfer,Brazil,3197.0,GoiÃ¡s EC ,151142,100 Th. â‚¬,JÃºnior Lopes,15/16,Brazil,21829.0,Oeste 
+"Jan 6, 2015",,Free transfer,Brazil,22790.0,Guarany-CE ,151142,100 Th. â‚¬,JÃºnior Lopes,14/15,Brazil,3197.0,GoiÃ¡s EC 
+"Jul 1, 2014",,?,Brazil,309.0,ParanÃ¡ ,151142,100 Th. â‚¬,JÃºnior Lopes,14/15,Brazil,22790.0,Guarany-CE 
+"Jan 1, 2014",,?,Brazil,16108.0,Nova IguaÃ§u ,151142,100 Th. â‚¬,JÃºnior Lopes,13/14,Brazil,309.0,ParanÃ¡ 
+"Jun 1, 2013",,Free transfer,Portugal,2990.0,Coimbra ,151142,100 Th. â‚¬,JÃºnior Lopes,12/13,Brazil,16108.0,Nova IguaÃ§u 
+"Jul 1, 2012",,Free transfer,Brazil,8793.0,Bragantino ,151142,-,JÃºnior Lopes,12/13,Portugal,2990.0,Coimbra 
+"May 1, 2010",,Free transfer,Brazil,22332.0,Horizonte ,151142,-,JÃºnior Lopes,09/10,Brazil,8793.0,Bragantino 
+"Aug 18, 2015",,"1,80 Mill. €",Portugal,1465.0,Estoril ,152176,"3,20 Mill. €",Sebá,15/16,Greece,683.0,Olympiacos 
+"Jul 12, 2013",,250 Th. €,Brazil,609.0,Cruzeiro ,152176,"1,00 Mill. €",Sebá,13/14,Portugal,1465.0,Estoril 
+"Jun 30, 2013",,End of loan,Portugal,10331.0,Porto B ,152176,"1,00 Mill. €",Sebá,12/13,Brazil,609.0,Cruzeiro 
+"Jul 1, 2012",,Loan,Brazil,609.0,Cruzeiro ,152176,250 Th. €,Sebá,12/13,Portugal,10331.0,Porto B 
+"May 1, 2012",,End of loan,Brazil,32405.0,Nacional-MG ,152176,250 Th. €,Sebá,11/12,Brazil,609.0,Cruzeiro 
+"Jan 1, 2012",,Loan,Brazil,609.0,Cruzeiro ,152176,250 Th. €,Sebá,11/12,Brazil,32405.0,Nacional-MG 
+"May 1, 2011",,End of loan,Brazil,32405.0,Nacional-MG ,152176,-,Sebá,10/11,Brazil,609.0,Cruzeiro 
+"Feb 1, 2011",,Loan,Brazil,609.0,Cruzeiro ,152176,-,Sebá,10/11,Brazil,32405.0,Nacional-MG 
+"Jan 1, 2011",,-,Brazil,16658.0,Cruzeiro B ,152176,-,Sebá,10/11,Brazil,609.0,Cruzeiro 
+"Sep 14, 2014",,-,Portugal,7179.0,Tondela ,153673,200 Th. €,Ricardo Andrade,14/15,,515.0,Unattached 
+"Jul 1, 2013",,?,Portugal,979.0,Moreirense  ,153673,200 Th. €,Ricardo Andrade,13/14,Portugal,7179.0,Tondela 
+"Jul 1, 2011",,?,Portugal,6987.0,Fátima ,153673,150 Th. €,Ricardo Andrade,11/12,Portugal,979.0,Moreirense  
+"Jan 1, 2011",,Free transfer,Portugal,3345.0,Leixões ,153673,-,Ricardo Andrade,10/11,Portugal,6987.0,Fátima 
+"Jul 1, 2010",,?,Portugal,979.0,Moreirense  ,153673,-,Ricardo Andrade,10/11,Portugal,3345.0,Leixões 
+"Jul 1, 2009",,?,Brazil,5120.0,Brasinha ,153673,-,Ricardo Andrade,09/10,Portugal,979.0,Moreirense  
+"Jul 1, 2015",,Free transfer,Portugal,4750.0,Olhanense ,158375,700 Th. €,Ricardo Ribeiro,15/16,Portugal,2457.0,Belenenses 
+"Feb 2, 2015",,?,Portugal,7788.0,Académico Viseu ,158375,600 Th. €,Ricardo Ribeiro,14/15,Portugal,4750.0,Olhanense 
+"Sep 1, 2014",,?,Portugal,979.0,Moreirense  ,158375,600 Th. €,Ricardo Ribeiro,14/15,Portugal,7788.0,Académico Viseu 
+"Jun 30, 2014",,End of loan,Portugal,1465.0,Estoril ,158375,800 Th. €,Ricardo Ribeiro,13/14,Portugal,979.0,Moreirense  
+"Jul 1, 2013",,Loan,Portugal,979.0,Moreirense  ,158375,800 Th. €,Ricardo Ribeiro,13/14,Portugal,1465.0,Estoril 
+"Jan 1, 2008",,-,Portugal,15570.0,Moreirense FC U19 ,158375,-,Ricardo Ribeiro,07/08,Portugal,979.0,Moreirense  
+"Aug 27, 2015",,Free transfer,Portugal,1301.0,Marítimo ,158516,"1,40 Mill. €",Gegé,15/16,Portugal,8024.0,Arouca 
+"Jul 1, 2012",,?,Portugal,10140.0,Covilhã ,158516,250 Th. €,Gegé,12/13,Portugal,1301.0,Marítimo 
+"Jul 1, 2011",,?,Portugal,3348.0,Trofense ,158516,100 Th. €,Gegé,11/12,Portugal,10140.0,Covilhã 
+"Jul 1, 2010",,?,Portugal,2431.0,Estrela Amadora ,158516,-,Gegé,10/11,Portugal,3348.0,Trofense 
+"Jul 1, 2009",,?,Portugal,4751.0,Sporting Pombal ,158516,-,Gegé,09/10,Portugal,2431.0,Estrela Amadora 
+"Aug 27, 2015",,"9,50 Mill. €",Portugal,1075.0,Braga ,159142,"7,50 Mill. €",Aderlan Santos,15/16,Spain,1049.0,Valencia CF 
+"Jul 1, 2013",,-,Portugal,10789.0,Braga B ,159142,500 Th. €,Aderlan Santos,13/14,Portugal,1075.0,Braga 
+"Jul 1, 2012",,?,Portugal,3348.0,Trofense ,159142,350 Th. €,Aderlan Santos,12/13,Portugal,10789.0,Braga B 
+"Jul 1, 2010",,?,Brazil,22952.0,Salgueiro ,159142,-,Aderlan Santos,10/11,Portugal,3348.0,Trofense 
+"Jun 30, 2016",,End of loan,Portugal,7179.0,Tondela ,159570,700 Th. €,Bruno Nascimento,15/16,Germany,3.0,1. FC Köln 
+"Jul 15, 2015",,Loan,Germany,3.0,1. FC Köln ,159570,400 Th. €,Bruno Nascimento,15/16,Portugal,7179.0,Tondela 
+"Jun 30, 2015",,End of loan,Portugal,1465.0,Estoril ,159570,250 Th. €,Bruno Nascimento,14/15,Germany,3.0,1. FC Köln 
+"Aug 13, 2014",,Loan,Germany,3.0,1. FC Köln ,159570,300 Th. €,Bruno Nascimento,14/15,Portugal,1465.0,Estoril 
+"Jul 1, 2013",,?,Brazil,17300.0,Desp. Brasil ,159570,600 Th. €,Bruno Nascimento,13/14,Germany,3.0,1. FC Köln 
+"Jun 30, 2013",,End of loan,Germany,3.0,1. FC Köln ,159570,600 Th. €,Bruno Nascimento,12/13,Brazil,17300.0,Desp. Brasil 
+"Jan 29, 2013",,Loan,Brazil,17300.0,Desp. Brasil ,159570,500 Th. €,Bruno Nascimento,12/13,Germany,3.0,1. FC Köln 
+"Jan 28, 2013",,End of loan,Portugal,1465.0,Estoril ,159570,500 Th. €,Bruno Nascimento,12/13,Brazil,17300.0,Desp. Brasil 
+"Aug 1, 2010",,Loan,Brazil,17300.0,Desp. Brasil ,159570,-,Bruno Nascimento,10/11,Portugal,1465.0,Estoril 
+"Feb 10, 2016",,Free transfer,Brazil,33313.0,Galícia-BA ,160681,100 Th. €,Pedro Henrique,15/16,Romania,36590.0,Poli Timisoara 
+"Jul 1, 2015",,Free transfer,Romania,36590.0,Poli Timisoara ,160681,450 Th. €,Pedro Henrique,15/16,Brazil,33313.0,Galícia-BA 
+"Aug 27, 2014",,?,Brazil,33313.0,Galícia-BA ,160681,400 Th. €,Pedro Henrique,14/15,Romania,36590.0,Poli Timisoara 
+"Jan 1, 2014",,?,Portugal,1465.0,Estoril ,160681,400 Th. €,Pedro Henrique,13/14,Brazil,33313.0,Galícia-BA 
+"Jun 30, 2013",,End of loan,Portugal,10140.0,Covilhã ,160681,400 Th. €,Pedro Henrique,12/13,Portugal,1465.0,Estoril 
+"Jan 31, 2013",,Loan,Portugal,1465.0,Estoril ,160681,400 Th. €,Pedro Henrique,12/13,Portugal,10140.0,Covilhã 
+"Jul 1, 2012",,?,Portugal,2421.0,Freamunde ,160681,100 Th. €,Pedro Henrique,12/13,Portugal,1465.0,Estoril 
+"Jul 1, 2010",,-,Portugal,515.0,Unattached ,160681,-,Pedro Henrique,10/11,,2421.0,Freamunde 
+"Jan 1, 2010",,-,Brazil,15466.0,Sport Club Internacional B ,160681,-,Pedro Henrique,09/10,,515.0,Unattached 
+"Jul 1, 2008",,Free transfer,Brazil,14724.0,Club de Regatas Vasco da Gama B ,160681,-,Pedro Henrique,08/09,Brazil,15466.0,Sport Club Internacional B 
+"Jul 1, 2014",,-,Portugal,515.0,Unattached ,168672,500 Th. €,Feliz,14/15,,3329.0,Famalicão 
+"Jul 1, 2013",,-,Portugal,6144.0,Ribeirão ,168672,450 Th. €,Feliz,13/14,,515.0,Unattached 
+"Jul 1, 2012",,-,Portugal,2425.0,Rio Ave FC ,168672,450 Th. €,Feliz,12/13,Portugal,6144.0,Ribeirão 
+"Jun 30, 2012",,End of loan,Portugal,3348.0,Trofense ,168672,450 Th. €,Feliz,11/12,Portugal,2425.0,Rio Ave FC 
+"Aug 1, 2011",,Loan,Portugal,2425.0,Rio Ave FC ,168672,-,Feliz,11/12,Portugal,3348.0,Trofense 
+"Jul 1, 2011",,Free transfer,Portugal,6144.0,Ribeirão ,168672,-,Feliz,11/12,Portugal,2425.0,Rio Ave FC 
+"Jul 1, 2010",,?,Portugal,8187.0,Serzedelo ,168672,-,Feliz,10/11,Portugal,6144.0,Ribeirão 
+"Jul 1, 2008",,?,Portugal,15581.0,Guimarães U19 ,168672,-,Feliz,08/09,Portugal,8187.0,Serzedelo 
+"Jul 1, 2013",,Free transfer,Portugal,979.0,Moreirense  ,168674,500 Th. €,Augusto,13/14,France,2067.0,US Créteil 
+"Jul 1, 2011",,Free transfer,Portugal,6144.0,Ribeirão ,168674,-,Augusto,11/12,Portugal,979.0,Moreirense  
+"Jul 1, 2012",,-,Portugal,15019.0,Setúbal U19 ,169681,-,Frederico Venâncio,12/13,Portugal,1085.0,Vitória Setúbal 
+"Jan 1, 2012",,?,Portugal,8889.0,Benfica U19 ,169681,-,Frederico Venâncio,11/12,Portugal,15019.0,Setúbal U19 
+"Jul 1, 2013",,125 Th. €,Portugal,1436.0,Beira-Mar ,171068,400 Th. €,Hélder Lopes,13/14,Portugal,2995.0,Paços Ferreira 
+"Jul 1, 2012",,Free transfer,Portugal,7179.0,Tondela ,171068,-,Hélder Lopes,12/13,Portugal,1436.0,Beira-Mar 
+"Jul 1, 2011",,Free transfer,Portugal,3265.0,Espinho ,171068,-,Hélder Lopes,11/12,Portugal,7179.0,Tondela 
+"Jul 1, 2010",,Free transfer,Portugal,25835.0,Oliveira Douro ,171068,-,Hélder Lopes,10/11,Portugal,3265.0,Espinho 
+"Dec 1, 2009",,Free transfer,Portugal,10005.0,Mirandela ,171068,-,Hélder Lopes,09/10,Portugal,25835.0,Oliveira Douro 
+"Dec 1, 2008",,Free transfer,Portugal,48010.0,CD Candal Sub19 ,171068,-,Hélder Lopes,08/09,Portugal,10005.0,Mirandela 
+"Dec 1, 2006",,Free transfer,Portugal,48036.0,Padroense Sub19 ,171068,-,Hélder Lopes,06/07,Portugal,48010.0,CD Candal Sub19 
+"Jan 1, 2015",,Free transfer,Brazil,17964.0,Botafogo ,175377,-,Pio,14/15,Brazil,10870.0,Fortaleza 
+"May 1, 2013",,Free transfer,Brazil,3876.0,Mirassol Futebol Clube (SP) ,175377,-,Pio,12/13,Brazil,17964.0,Botafogo 
+"Feb 1, 2013",,Free transfer,Brazil,25671.0,Monte Azul-SP ,175377,-,Pio,12/13,Brazil,3876.0,Mirassol Futebol Clube (SP) 
+"Jan 8, 2013",,End of loan,Portugal,2424.0,Gil Vicente ,175377,-,Pio,12/13,Brazil,25671.0,Monte Azul-SP 
+"Jul 1, 2012",,Loan,Brazil,25671.0,Monte Azul-SP ,175377,-,Pio,12/13,Portugal,2424.0,Gil Vicente 
+"May 31, 2012",,End of loan,Brazil,15064.0,Guaratinguetá ,175377,-,Pio,11/12,Brazil,25671.0,Monte Azul-SP 
+"Feb 1, 2012",,Loan,Brazil,25671.0,Monte Azul-SP ,175377,-,Pio,11/12,Brazil,15064.0,Guaratinguetá 
+"Jan 1, 2012",,Free transfer,Brazil,7209.0,ABC ,175377,-,Pio,11/12,Brazil,25671.0,Monte Azul-SP 
+"Sep 1, 2010",,Free transfer,Brazil,11086.0,Treze Futebol Clube (PB) ,175377,-,Pio,10/11,Brazil,7209.0,ABC 
+"Jul 31, 2014",,"5,00 Mill. €",Portugal,336.0,Sporting CP ,175722,"3,50 Mill. €",Eric Dier,14/15,England,148.0,Spurs 
+"Jan 1, 2013",,-,Portugal,10949.0,Sporting B ,175722,600 Th. €,Eric Dier,12/13,Portugal,336.0,Sporting CP 
+"Jun 30, 2012",,End of loan,England,9261.0,Everton U21 ,175722,-,Eric Dier,11/12,Portugal,10949.0,Sporting B 
+"Jan 1, 2011",,Loan,Portugal,10949.0,Sporting B ,175722,-,Eric Dier,10/11,England,9261.0,Everton U21 
+"Feb 29, 2016",,-,Brazil,515.0,Unattached ,177544,650 Th. €,Revson,15/16,,46403.0,Inter de Lages 
+"Dec 8, 2015",,-,Brazil,2035.0,Avaí ,177544,750 Th. €,Revson,15/16,,515.0,Unattached 
+"Nov 30, 2015",,End of loan,Brazil,21599.0,Luverdense ,177544,750 Th. €,Revson,15/16,Brazil,2035.0,Avaí 
+"Aug 26, 2015",,Loan,Brazil,2035.0,Avaí ,177544,750 Th. €,Revson,15/16,Brazil,21599.0,Luverdense 
+"Jan 2, 2014",,Free transfer,Portugal,982.0,Nacional ,177544,700 Th. €,Revson,13/14,Brazil,2035.0,Avaí 
+"Oct 19, 2013",,End of loan,Bulgaria,208.0,CSKA Sofia ,177544,700 Th. €,Revson,13/14,Portugal,982.0,Nacional 
+"Jul 1, 2013",,Loan,Portugal,982.0,Nacional ,177544,700 Th. €,Revson,13/14,Bulgaria,208.0,CSKA Sofia 
+"Jul 1, 2012",,Free transfer,Brazil,291.0,São Caetano ,177544,150 Th. €,Revson,12/13,Portugal,982.0,Nacional 
+"Jul 1, 2011",,Free transfer,Brazil,2035.0,Avaí ,177544,150 Th. €,Revson,11/12,Brazil,291.0,São Caetano 
+"Jan 1, 2011",,-,Brazil,17660.0,Avaí ,177544,-,Revson,10/11,Brazil,2035.0,Avaí 
+"Sep 1, 2010",,Free transfer,Brazil,27275.0,Pato Branco-PR ,177544,-,Revson,10/11,Brazil,17660.0,Avaí 
+"Jun 30, 2015",,End of loan,Portugal,7378.0,Portimonense ,179043,150 Th. â‚¬,Dieguinho,14/15,Portugal,1465.0,Estoril 
+"Feb 1, 2015",,Loan,Portugal,1465.0,Estoril ,179043,150 Th. â‚¬,Dieguinho,14/15,Portugal,7378.0,Portimonense 
+"Jan 16, 2015",,Free transfer,Portugal,1436.0,Beira-Mar ,179043,150 Th. â‚¬,Dieguinho,14/15,Portugal,1465.0,Estoril 
+"Jul 1, 2013",,?,Brazil,17300.0,Desp. Brasil ,179043,100 Th. â‚¬,Dieguinho,13/14,Portugal,1436.0,Beira-Mar 
+"May 1, 2013",,End of loan,Portugal,1465.0,Estoril ,179043,100 Th. â‚¬,Dieguinho,12/13,Brazil,17300.0,Desp. Brasil 
+"Jul 1, 2012",,Loan,Brazil,17300.0,Desp. Brasil ,179043,-,Dieguinho,12/13,Portugal,1465.0,Estoril 
+"Jun 30, 2012",,End of loan,Brazil,309.0,ParanÃ¡ ,179043,-,Dieguinho,11/12,Brazil,17300.0,Desp. Brasil 
+"Apr 1, 2012",,Loan,Brazil,17300.0,Desp. Brasil ,179043,-,Dieguinho,11/12,Brazil,309.0,ParanÃ¡ 
+"Mar 1, 2012",,End of loan,Brazil,2035.0,AvaÃ­ ,179043,-,Dieguinho,11/12,Brazil,17300.0,Desp. Brasil 
+"Sep 1, 2011",,Loan,Brazil,17300.0,Desp. Brasil ,179043,-,Dieguinho,11/12,Brazil,2035.0,AvaÃ­ 
+"Aug 1, 2011",,End of loan,Brazil,309.0,ParanÃ¡ ,179043,-,Dieguinho,11/12,Brazil,17300.0,Desp. Brasil 
+"Jun 1, 2011",,Loan,Brazil,17300.0,Desp. Brasil ,179043,-,Dieguinho,10/11,Brazil,309.0,ParanÃ¡ 
+"May 1, 2011",,?,Brazil,309.0,ParanÃ¡ ,179043,-,Dieguinho,10/11,Brazil,17300.0,Desp. Brasil 
+"Mar 1, 2011",,-,Brazil,16670.0,ParanÃ¡ B ,179043,-,Dieguinho,10/11,Brazil,309.0,ParanÃ¡ 
+"Jul 16, 2015",,Free transfer,Portugal,2420.0,Vit. Guimarães ,179350,"1,40 Mill. €",Nii Plange,15/16,Portugal,2990.0,Coimbra 
+"Sep 2, 2013",,Free transfer,Portugal,10949.0,Sporting B ,179350,300 Th. €,Nii Plange,13/14,Portugal,2420.0,Vit. Guimarães 
+"Jul 1, 2012",,Free transfer,Ghana,9082.0,Fetteh Feyenoord ,179350,-,Nii Plange,12/13,Portugal,10949.0,Sporting B 
+"Jun 30, 2009",,End of loan,Cote d'Ivoire,3891.0,ASEC Mimosas ,179350,-,Nii Plange,08/09,Ghana,9082.0,Fetteh Feyenoord 
+"Jul 1, 2008",,Loan,Ghana,9082.0,Fetteh Feyenoord ,179350,-,Nii Plange,08/09,Cote d'Ivoire,3891.0,ASEC Mimosas 
+"Jun 30, 2012",,End of loan,Portugal,5753.0,Camacha ,191179,-,Douglas Pará,11/12,Portugal,982.0,Nacional 
+"Jul 1, 2011",,Loan,Portugal,982.0,Nacional ,191179,-,Douglas Pará,11/12,Portugal,5753.0,Camacha 
+"Jun 1, 2011",,?,Brazil,32079.0,Angra-RJ ,191179,-,Douglas Pará,10/11,Portugal,982.0,Nacional 
+"Jun 30, 2016",,End of loan,Spain,3368.0,Levante UD ,193515,"2,00 Mill. €",Nabil Ghilas,15/16,Portugal,720.0,FC Porto 
+"Jul 10, 2015",,Loan,Portugal,720.0,FC Porto ,193515,"3,50 Mill. €",Nabil Ghilas,15/16,Spain,3368.0,Levante UD 
+"Jun 30, 2015",,End of loan,Spain,993.0,Córdoba CF ,193515,"3,50 Mill. €",Nabil Ghilas,14/15,Portugal,720.0,FC Porto 
+"Sep 1, 2014",,Loan,Portugal,720.0,FC Porto ,193515,"4,00 Mill. €",Nabil Ghilas,14/15,Spain,993.0,Córdoba CF 
+"Jul 8, 2013",,"3,80 Mill. €",Portugal,979.0,Moreirense  ,193515,"3,70 Mill. €",Nabil Ghilas,13/14,Portugal,720.0,FC Porto 
+"Jun 30, 2011",,End of loan,Portugal,6912.0,Vizela ,193515,-,Nabil Ghilas,10/11,Portugal,979.0,Moreirense  
+"Jul 2, 2010",,Loan,Portugal,979.0,Moreirense  ,193515,-,Nabil Ghilas,10/11,Portugal,6912.0,Vizela 
+"Jul 1, 2010",,Free transfer,France,7670.0,Cassis Carnoux ,193515,-,Nabil Ghilas,10/11,Portugal,979.0,Moreirense  
+"Jun 30, 2015",,End of loan,Portugal,979.0,Moreirense  ,197157,900 Th. €,Gerso,14/15,Portugal,1465.0,Estoril 
+"Jul 30, 2014",,Loan,Portugal,1465.0,Estoril ,197157,700 Th. €,Gerso,14/15,Portugal,979.0,Moreirense  
+"Dec 31, 2011",,End of loan,Portugal,6156.0,Tourizense ,197157,-,Gerso,10/11,Portugal,2990.0,Coimbra 
+"Jul 1, 2011",,Free transfer,Portugal,2990.0,Coimbra ,197157,-,Gerso,11/12,Portugal,1465.0,Estoril 
+"Aug 1, 2010",,Free transfer,Portugal,2990.0,Coimbra ,197157,-,Gerso,10/11,Portugal,6156.0,Tourizense 
+"Jul 1, 2010",,-,Portugal,15559.0,Académica U19 ,197157,-,Gerso,10/11,Portugal,2990.0,Coimbra 
+"Jul 1, 2015",,?,Portugal,2503.0,Boavista ,204453,750 Th. €,Brito,15/16,Angola,26740.0,C.R.D. Libolo 
+"Jul 1, 2014",,?,Portugal,2424.0,Gil Vicente ,204453,500 Th. €,Brito,14/15,Portugal,2503.0,Boavista 
+"Jul 1, 2012",,?,Portugal,2432.0,Torreense ,204453,-,Brito,12/13,Portugal,2424.0,Gil Vicente 
+"Jul 1, 2011",,?,Portugal,19561.0,Sertanense ,204453,-,Brito,11/12,Portugal,2432.0,Torreense 
+"Jun 1, 2015",,Free transfer,,75.0,Unknown ,211305,200 Th. €,Nilson Júnior,14/15,,75.0,Unknown 
+"Jan 1, 2015",,Free transfer,Brazil,11449.0,CRB ,211305,200 Th. €,Nilson Júnior,14/15,,75.0,Unknown 
+"Jun 30, 2013",,End of loan,Portugal,979.0,Moreirense  ,211305,200 Th. €,Nilson Júnior,12/13,Brazil,11449.0,CRB 
+"Jul 1, 2012",,Loan,Brazil,11449.0,CRB ,211305,-,Nilson Júnior,12/13,Portugal,979.0,Moreirense  
+"Jan 1, 2011",,-,Brazil,17952.0,CRB ,211305,-,Nilson Júnior,10/11,Brazil,11449.0,CRB 
+"Jun 30, 2016",,End of loan,Portugal,1075.0,Braga ,212899,"2,00 Mill. €",Filipe Augusto,15/16,Portugal,2425.0,Rio Ave FC 
+"Aug 31, 2015",,Loan,Portugal,2425.0,Rio Ave FC ,212899,"2,00 Mill. €",Filipe Augusto,15/16,Portugal,1075.0,Braga 
+"Jun 30, 2015",,End of loan,Spain,1049.0,Valencia CF ,212899,"2,00 Mill. €",Filipe Augusto,14/15,Portugal,2425.0,Rio Ave FC 
+"Sep 1, 2014",,Loan,Portugal,2425.0,Rio Ave FC ,212899,"2,00 Mill. €",Filipe Augusto,14/15,Spain,1049.0,Valencia CF 
+"Jul 1, 2012",,"2,20 Mill. €",Brazil,10010.0,Bahia ,212899,200 Th. €,Filipe Augusto,12/13,Portugal,2425.0,Rio Ave FC 
+"Jan 1, 2012",,-,Brazil,17817.0,EC Bahia B ,212899,-,Filipe Augusto,11/12,Brazil,10010.0,Bahia 
+"Aug 26, 2015",,Free transfer,Greece,5219.0,AOK Kerkyra ,214860,250 Th. €,Konstantinos Manolas,15/16,Greece,2672.0,APO Levadiakos 
+"Jan 27, 2015",,Free transfer,Greece,7646.0,AO Chania ,214860,200 Th. €,Konstantinos Manolas,14/15,Greece,5219.0,AOK Kerkyra 
+"Aug 27, 2013",,Free transfer,Greece,2672.0,APO Levadiakos ,214860,100 Th. €,Konstantinos Manolas,13/14,Greece,7646.0,AO Chania 
+"Jul 17, 2012",,Free transfer,Greece,6678.0,Thrasyvoulos ,214860,50 Th. €,Konstantinos Manolas,12/13,Greece,2672.0,APO Levadiakos 
+"Jan 1, 2012",,Free transfer,Greece,7632.0,AEK Athens U20 ,214860,-,Konstantinos Manolas,11/12,Greece,6678.0,Thrasyvoulos 
+"Jul 14, 2015",,Free transfer,Italy,130.0,Parma ,216259,400 Th. â‚¬,Lucas Souza,15/16,Portugal,7179.0,Tondela 
+"Jun 30, 2015",,End of loan,Portugal,979.0,Moreirense  ,216259,600 Th. â‚¬,Lucas Souza,14/15,Italy,130.0,Parma 
+"Feb 1, 2015",,Loan,Italy,130.0,Parma ,216259,600 Th. â‚¬,Lucas Souza,14/15,Portugal,979.0,Moreirense  
+"Aug 25, 2014",,700 Th. â‚¬,Portugal,4750.0,Olhanense ,216259,700 Th. â‚¬,Lucas Souza,14/15,Italy,130.0,Parma 
+"Jan 1, 2013",,Free transfer,Brazil,309.0,ParanÃ¡ ,216259,-,Lucas Souza,12/13,Portugal,4750.0,Olhanense 
+"Jan 1, 2012",,Free transfer,Brazil,8144.0,Clube AtlÃ©tico Juventus (SP) ,216259,-,Lucas Souza,11/12,Brazil,309.0,ParanÃ¡ 
+"Jul 1, 2015",,"15,00 Mill. €",Portugal,294.0,Benfica ,221025,"20,00 Mill. €",André Gomes,15/16,Spain,1049.0,Valencia CF 
+"Jun 30, 2015",,End of loan,Spain,1049.0,Valencia CF ,221025,"15,00 Mill. €",André Gomes,14/15,Portugal,294.0,Benfica 
+"Jul 17, 2014",,Loan,Portugal,294.0,Benfica ,221025,"5,00 Mill. €",André Gomes,14/15,Spain,1049.0,Valencia CF 
+"Jul 1, 2012",,-,Portugal,8889.0,Benfica U19 ,221025,-,André Gomes,12/13,Portugal,294.0,Benfica 
+"Jun 30, 2015",,End of loan,Portugal,8024.0,Arouca ,234449,750 Th. €,Fabrice Fokobo,14/15,Portugal,10949.0,Sporting B 
+"Jan 15, 2015",,Loan,Portugal,10949.0,Sporting B ,234449,750 Th. €,Fabrice Fokobo,14/15,Portugal,8024.0,Arouca 
+"Jul 11, 2012",,Free transfer,Cameroon,37354.0,Njalla Quan SA ,234449,-,Fabrice Fokobo,12/13,Portugal,10949.0,Sporting B 
+"Jun 30, 2011",,End of loan,Greece,6626.0,PAO U20 ,234449,-,Fabrice Fokobo,10/11,Cameroon,37354.0,Njalla Quan SA 
+"Jul 1, 2010",,Loan,Cameroon,37354.0,Njalla Quan SA ,234449,-,Fabrice Fokobo,10/11,Greece,6626.0,PAO U20 
+"Jun 30, 2016",,End of loan,Portugal,2639.0,Leiria ,234752,400 Th. €,Edgar Abreu,15/16,Portugal,982.0,Nacional 
+"Jan 29, 2016",,Loan,Portugal,982.0,Nacional ,234752,400 Th. €,Edgar Abreu,15/16,Portugal,2639.0,Leiria 
+"Jun 30, 2014",,End of loan,Portugal,10005.0,Mirandela ,234752,100 Th. €,Edgar Abreu,13/14,Portugal,982.0,Nacional 
+"Jan 31, 2014",,Loan,Portugal,982.0,Nacional ,234752,100 Th. €,Edgar Abreu,13/14,Portugal,10005.0,Mirandela 
+"Jul 1, 2012",,-,Portugal,15561.0,Nacional U19 ,234752,-,Edgar Abreu,12/13,Portugal,982.0,Nacional 
+"Jul 1, 2012",,-,Portugal,15561.0,Nacional U19 ,234764,-,Nuno Campos,12/13,Portugal,982.0,Nacional 
+"Jun 30, 2016",,End of loan,Portugal,4864.0,Oriental ,234773,75 Th. €,Sérgio Duarte,15/16,Portugal,982.0,Nacional 
+"Jul 6, 2015",,Loan,Portugal,982.0,Nacional ,234773,100 Th. €,Sérgio Duarte,15/16,Portugal,4864.0,Oriental 
+"Jun 30, 2015",,End of loan,Portugal,40582.0,Lusitano FCV ,234773,100 Th. €,Sérgio Duarte,14/15,Portugal,982.0,Nacional 
+"Jul 1, 2014",,Loan,Portugal,982.0,Nacional ,234773,100 Th. €,Sérgio Duarte,14/15,Portugal,40582.0,Lusitano FCV 
+"Jun 30, 2014",,End of loan,Portugal,10005.0,Mirandela ,234773,100 Th. €,Sérgio Duarte,13/14,Portugal,982.0,Nacional 
+"Jul 1, 2013",,Loan,Portugal,982.0,Nacional ,234773,100 Th. €,Sérgio Duarte,13/14,Portugal,10005.0,Mirandela 
+"Jul 1, 2012",,-,Portugal,15561.0,Nacional U19 ,234773,-,Sérgio Duarte,12/13,Portugal,982.0,Nacional 
+"Jul 1, 2013",,-,Portugal,15561.0,Nacional U19 ,234811,100 Th. €,Rui Silva,13/14,Portugal,982.0,Nacional 
+"Jul 1, 2012",,Free transfer,Portugal,47794.0,FC Maia Lidador ,234811,-,Rui Silva,12/13,Portugal,15561.0,Nacional U19 
+"Jul 1, 2015",,-,Portugal,15136.0,Guimarães B ,235639,900 Th. €,Luís Rocha,15/16,Portugal,2420.0,Vit. Guimarães 
+"Jul 1, 2012",,-,Portugal,15581.0,Guimarães U19 ,235639,-,Luís Rocha,12/13,Portugal,15136.0,Guimarães B 
+"Jul 1, 2008",,Free transfer,Portugal,20728.0,Famalicão U19 ,235639,-,Luís Rocha,08/09,Portugal,15581.0,Guimarães U19 
+"Jul 17, 2015",,Free transfer,Portugal,15136.0,Guimarães B ,235655,150 Th. €,Pedro Lemos,15/16,Portugal,2424.0,Gil Vicente 
+"Jul 1, 2012",,-,Portugal,15581.0,Guimarães U19 ,235655,-,Pedro Lemos,12/13,Portugal,15136.0,Guimarães B 
+"Jul 1, 2010",,-,Portugal,47988.0,VSC Juvenis ,235655,-,Pedro Lemos,10/11,Portugal,15581.0,Guimarães U19 
+"Jun 30, 2016",,End of loan,Portugal,1085.0,Vitória Setúbal ,236541,850 Th. €,Salim Cissé,15/16,Portugal,10949.0,Sporting B 
+"Feb 1, 2016",,Loan,Portugal,10949.0,Sporting B ,236541,"1,20 Mill. €",Salim Cissé,15/16,Portugal,1085.0,Vitória Setúbal 
+"Jun 30, 2015",,End of loan,Portugal,2990.0,Coimbra ,236541,"1,75 Mill. €",Salim Cissé,14/15,Portugal,10949.0,Sporting B 
+"Jan 27, 2015",,Loan,Portugal,10949.0,Sporting B ,236541,"2,00 Mill. €",Salim Cissé,14/15,Portugal,2990.0,Coimbra 
+"Jun 30, 2014",,End of loan,Portugal,8024.0,Arouca ,236541,"2,00 Mill. €",Salim Cissé,13/14,Portugal,10949.0,Sporting B 
+"Jan 20, 2014",,Loan,Portugal,10949.0,Sporting B ,236541,"2,00 Mill. €",Salim Cissé,13/14,Portugal,8024.0,Arouca 
+"Jul 5, 2013",,750 Th. €,Portugal,2990.0,Coimbra ,236541,"2,00 Mill. €",Salim Cissé,13/14,Portugal,10949.0,Sporting B 
+"Jul 1, 2012",,?,Italy,4255.0,Arezzo ,236541,-,Salim Cissé,12/13,Portugal,2990.0,Coimbra 
+"Jun 30, 2016",,End of loan,Portugal,3349.0,Feirense ,237663,500 Th. €,Kukula,15/16,Portugal,10787.0,Marítimo B 
+"Aug 31, 2015",,Loan,Portugal,10787.0,Marítimo B ,237663,350 Th. €,Kukula,15/16,Portugal,3349.0,Feirense 
+"Jul 1, 2012",,-,Portugal,15562.0,Marítimo U19 ,237663,-,Kukula,12/13,Portugal,10787.0,Marítimo B 
+"Jul 1, 2012",,-,Portugal,15567.0,Gil Vicente FC U19 ,237678,-,Pék's,12/13,Portugal,2424.0,Gil Vicente 
+"Dec 1, 2014",,?,Portugal,7179.0,Tondela ,239033,400 Th. €,Rafael Batatinha,14/15,Portugal,2423.0,Santa Clara 
+"Jan 28, 2014",,?,Portugal,1436.0,Beira-Mar ,239033,400 Th. €,Rafael Batatinha,13/14,Portugal,7179.0,Tondela 
+"Jul 1, 2012",,?,Portugal,7179.0,Tondela ,239033,-,Rafael Batatinha,12/13,Portugal,1436.0,Beira-Mar 
+"Jul 1, 2011",,?,Portugal,4747.0,Anadia ,239033,-,Rafael Batatinha,11/12,Portugal,7179.0,Tondela 
+"Dec 1, 2010",,?,Brazil,10010.0,Bahia ,239033,-,Rafael Batatinha,10/11,Portugal,4747.0,Anadia 
+"Dec 1, 2015",,?,Angola,29294.0,Kabuscorp SC ,239053,300 Th. €,Jaime Poulson,15/16,Angola,9539.0,Inter Luanda 
+"Dec 10, 2014",,Free transfer,Portugal,2995.0,Paços Ferreira ,239053,300 Th. €,Jaime Poulson,14/15,Angola,29294.0,Kabuscorp SC 
+"Jun 30, 2014",,End of loan,Portugal,3336.0,Desportivo Aves ,239053,300 Th. €,Jaime Poulson,13/14,Portugal,2995.0,Paços Ferreira 
+"Sep 2, 2013",,Loan,Portugal,2995.0,Paços Ferreira ,239053,300 Th. €,Jaime Poulson,13/14,Portugal,3336.0,Desportivo Aves 
+"Jul 1, 2012",,?,Portugal,4297.0,Varzim ,239053,-,Jaime Poulson,12/13,Portugal,2995.0,Paços Ferreira 
+"Jul 1, 2011",,?,Portugal,5222.0,Paredes ,239053,-,Jaime Poulson,11/12,Portugal,4297.0,Varzim 
+"Jul 1, 2010",,?,Portugal,3265.0,Espinho ,239053,-,Jaime Poulson,10/11,Portugal,5222.0,Paredes 
+"Jul 1, 2008",,?,Portugal,12963.0,Boavista U19 ,239053,-,Jaime Poulson,08/09,Portugal,3265.0,Espinho 
+"Jul 6, 2015",,?,Portugal,5227.0,Atlético ,241546,200 Th. €,Thomas Agyiri,15/16,Portugal,4294.0,Farense 
+"Jul 29, 2014",,?,Finland,2275.0,TPS ,241546,200 Th. €,Thomas Agyiri,14/15,Portugal,5227.0,Atlético 
+"Apr 8, 2014",,?,England,9265.0,Man City U21 ,241546,100 Th. €,Thomas Agyiri,13/14,Finland,2275.0,TPS 
+"Dec 31, 2013",,End of loan,Finland,2275.0,TPS ,241546,100 Th. €,Thomas Agyiri,13/14,England,9265.0,Man City U21 
+"Aug 26, 2013",,Loan,England,9265.0,Man City U21 ,241546,100 Th. €,Thomas Agyiri,13/14,Finland,2275.0,TPS 
+"Jun 30, 2013",,End of loan,Portugal,2424.0,Gil Vicente ,241546,-,Thomas Agyiri,12/13,England,9265.0,Man City U21 
+"Aug 1, 2012",,Loan,England,9265.0,Man City U21 ,241546,-,Thomas Agyiri,12/13,Portugal,2424.0,Gil Vicente 
+"Jul 1, 2012",,?,Ghana,40902.0,Right to Dream ,241546,-,Thomas Agyiri,12/13,England,9265.0,Man City U21 
+"Aug 1, 2015",,500 Th. €,Saudi Arabia,39495.0,Al-Ahli U23 ,242267,250 Th. €,Saleh Javier,15/16,Saudi Arabia,22381.0,Al-Raed 
+"Jun 1, 2015",,-,Saudi Arabia,18487.0,Ahli ,242267,250 Th. €,Saleh Javier,14/15,Saudi Arabia,39495.0,Al-Ahli U23 
+"Jun 1, 2013",,Free transfer,Portugal,1436.0,Beira-Mar ,242267,500 Th. €,Saleh Javier,13/14,Saudi Arabia,18487.0,Ahli 
+"Jun 1, 2011",,500 Th. €,Saudi Arabia,39495.0,Al-Ahli U23 ,242267,-,Saleh Javier,11/12,Portugal,1436.0,Beira-Mar 
+"Jul 1, 2014",,Free transfer,South Africa,2303.0,Black Aces ,243042,50 Th. €,Paulo Loureiro,14/15,,75.0,Unknown 
+"Jul 15, 2013",,?,Portugal,2995.0,Paços Ferreira ,243042,100 Th. €,Paulo Loureiro,13/14,South Africa,2303.0,Black Aces 
+"Jul 1, 2012",,?,Portugal,2503.0,Boavista ,243042,-,Paulo Loureiro,12/13,Portugal,2995.0,Paços Ferreira 
+"Jul 1, 2011",,-,Portugal,12963.0,Boavista U19 ,243042,-,Paulo Loureiro,11/12,Portugal,2503.0,Boavista 
+"Jul 1, 2010",,?,Portugal,8889.0,Benfica U19 ,243042,-,Paulo Loureiro,10/11,Portugal,12963.0,Boavista U19 
+"Aug 6, 2014",,?,Portugal,2425.0,Rio Ave FC ,244294,200 Th. €,André Costa,14/15,Portugal,3336.0,Desportivo Aves 
+"Jun 30, 2014",,End of loan,Portugal,3323.0,Gondomar ,244294,200 Th. €,André Costa,13/14,Portugal,2425.0,Rio Ave FC 
+"Jul 1, 2013",,Loan,Portugal,2425.0,Rio Ave FC ,244294,200 Th. €,André Costa,13/14,Portugal,3323.0,Gondomar 
+"Jul 1, 2012",,?,Portugal,3323.0,Gondomar ,244294,-,André Costa,12/13,Portugal,2425.0,Rio Ave FC 
+"Jul 1, 2011",,-,Portugal,15606.0,Gondomar SC U19 ,244294,-,André Costa,11/12,Portugal,3323.0,Gondomar 
+"Jul 1, 2010",,?,Portugal,15567.0,Gil Vicente FC U19 ,244294,-,André Costa,10/11,Portugal,15606.0,Gondomar SC U19 
+"Jun 1, 2013",,Free transfer,Portugal,1436.0,Beira-Mar ,246267,-,Felipe Desco,12/13,Brazil,31958.0,Itapirense-SP 
+"Jan 1, 2013",,40 Th. €,Egypt,45941.0,Wadi Degla U23 ,254981,25 Th. €,Ali Ghazal,12/13,Portugal,982.0,Nacional 
+"Jul 1, 2015",,?,Portugal,1992.0,Sintrense ,256564,100 Th. €,David Crespo,15/16,Portugal,13573.0,1º Dezembro 
+"Jul 1, 2014",,?,Portugal,2432.0,Torreense ,256564,100 Th. €,David Crespo,14/15,Portugal,1992.0,Sintrense 
+"Jul 1, 2013",,?,Portugal,982.0,Nacional ,256564,100 Th. €,David Crespo,13/14,Portugal,2432.0,Torreense 
+"Jul 1, 2012",,-,Portugal,15561.0,Nacional U19 ,256564,-,David Crespo,12/13,Portugal,982.0,Nacional 
+"Dec 31, 2016",,End of loan,Brazil,1785.0,Santa Cruz ,257057,750 Th. €,Uillian Correia,16/17,Brazil,609.0,Cruzeiro 
+"Mar 18, 2016",,Loan,Brazil,609.0,Cruzeiro ,257057,750 Th. €,Uillian Correia,15/16,Brazil,1785.0,Santa Cruz 
+"Sep 4, 2015",,375 Th. €,Brazil,2029.0,Ceará SC ,257057,750 Th. €,Uillian Correia,15/16,Brazil,609.0,Cruzeiro 
+"Jan 12, 2015",,Free transfer,Brazil,3319.0,Sampaio Corrêa ,257057,600 Th. €,Uillian Correia,14/15,Brazil,2029.0,Ceará SC 
+"Jan 1, 2014",,?,Portugal,2995.0,Paços Ferreira ,257057,100 Th. €,Uillian Correia,13/14,Brazil,3319.0,Sampaio Corrêa 
+"Jun 30, 2013",,End of loan,Portugal,3349.0,Feirense ,257057,-,Uillian Correia,12/13,Portugal,2995.0,Paços Ferreira 
+"Jan 23, 2013",,Loan,Portugal,2995.0,Paços Ferreira ,257057,-,Uillian Correia,12/13,Portugal,3349.0,Feirense 
+"Jul 1, 2012",,?,Brazil,28024.0,Santa Cruz-RS ,257057,-,Uillian Correia,12/13,Portugal,2995.0,Paços Ferreira 
+"Jan 1, 2011",,?,Brazil,22785.0,Rio Branco ,257057,-,Uillian Correia,10/11,Brazil,28024.0,Santa Cruz-RS 
+"Jan 1, 2010",,?,Brazil,16656.0,Paranaense ,257057,-,Uillian Correia,09/10,Brazil,22785.0,Rio Branco 
+,,,,,,257665,,,,,,
+,,,,,,257683,,,,,,
+"Jul 12, 2014",,800 Th. €,Portugal,1085.0,Vitória Setúbal ,261927,"1,00 Mill. €",Ricardo Horta,14/15,Spain,1084.0,Málaga CF 
+"Jan 1, 2013",,-,Portugal,15019.0,Setúbal U19 ,261927,-,Ricardo Horta,12/13,Portugal,1085.0,Vitória Setúbal 
+"Jul 1, 2011",,?,Portugal,8889.0,Benfica U19 ,261927,-,Ricardo Horta,11/12,Portugal,15019.0,Setúbal U19 
+"Aug 1, 2015",,?,Portugal,5227.0,Atlético ,270055,350 Th. €,Kiki,15/16,Portugal,2424.0,Gil Vicente 
+"Jan 31, 2014",,?,England,3696.0,Dag & Red FC ,270055,100 Th. €,Kiki,13/14,Portugal,5227.0,Atlético 
+"Sep 23, 2013",,?,Portugal,2425.0,Rio Ave FC ,270055,-,Kiki,13/14,England,3696.0,Dag & Red FC 
+"Jul 1, 2012",,-,Portugal,8105.0,Rio Ave FC U19 ,270055,-,Kiki,12/13,Portugal,2425.0,Rio Ave FC 
+"Jul 1, 2011",,Free transfer,Portugal,9844.0,FC Porto U19 ,270055,-,Kiki,11/12,Portugal,8105.0,Rio Ave FC U19 
+"Jul 1, 2013",,?,Portugal,2425.0,Rio Ave FC ,275287,-,Rúben Oliveira,13/14,Portugal,3349.0,Feirense 
+"Dec 31, 2012",,End of loan,Portugal,8105.0,Rio Ave FC U19 ,275287,-,Rúben Oliveira,12/13,Portugal,2425.0,Rio Ave FC 
+"Jul 1, 2012",,Loan,Portugal,15802.0,Feirense U19 ,275287,-,Rúben Oliveira,12/13,Portugal,8105.0,Rio Ave FC U19 
+"May 15, 2016",,End of loan,Brazil,18545.0,Alagoano ,236549,650 Th. €,Cleyton,15/16,Brazil,20831.0,Santa Rita 
+"Dec 16, 2015",,Loan,Brazil,20831.0,Santa Rita ,236549,650 Th. €,Cleyton,15/16,Brazil,18545.0,Alagoano 
+"Nov 30, 2015",,End of loan,Brazil,7209.0,ABC ,236549,900 Th. €,Cleyton,15/16,Brazil,20831.0,Santa Rita 
+"Jul 27, 2015",,Loan,Brazil,20831.0,Santa Rita ,236549,900 Th. €,Cleyton,15/16,Brazil,7209.0,ABC 
+"Jun 30, 2015",,End of loan,Russia,12054.0,Tyumen ,236549,900 Th. €,Cleyton,14/15,Brazil,20831.0,Santa Rita 
+"Jul 25, 2014",,Loan,Brazil,20831.0,Santa Rita ,236549,"1,00 Mill. €",Cleyton,14/15,Russia,12054.0,Tyumen 
+"Jul 22, 2014",,?,Portugal,2990.0,Coimbra ,236549,"1,00 Mill. €",Cleyton,14/15,Brazil,20831.0,Santa Rita 
+"Jul 2, 2012",,?,Brazil,12583.0,Iraty SC ,236549,-,Cleyton,12/13,Portugal,2990.0,Coimbra 
+"Jun 30, 2016",,End of loan,England,1032.0,Reading ,124550,"5,00 Mill. €",Ola John,15/16,Portugal,294.0,Benfica 
+"Sep 1, 2015",,Loan,Portugal,294.0,Benfica ,124550,"7,00 Mill. €",Ola John,15/16,England,1032.0,Reading 
+"Jun 30, 2014",,End of loan,Germany,41.0,Hamburger SV ,124550,"8,00 Mill. €",Ola John,13/14,Portugal,294.0,Benfica 
+"Jan 17, 2014",,Loan,Portugal,294.0,Benfica ,124550,"12,00 Mill. €",Ola John,13/14,Germany,41.0,Hamburger SV 
+"Jul 1, 2012",,"9,00 Mill. €",Netherlands,317.0,FC Twente ,124550,"2,50 Mill. €",Ola John,12/13,Portugal,294.0,Benfica 
+"Jul 1, 2010",,-,Netherlands,6200.0,FC Twente U19 ,124550,-,Ola John,10/11,Netherlands,317.0,FC Twente 
+"Jun 30, 2015",,End of loan,Portugal,976.0,União Madeira ,150535,350 Th. €,Frédéric Mendy,14/15,Portugal,1465.0,Estoril 
+"Jul 2, 2014",,Loan,Portugal,979.0,Moreirense  ,150535,350 Th. €,Frédéric Mendy,14/15,Portugal,976.0,União Madeira 
+"Jun 30, 2014",,End of loan,Portugal,979.0,Moreirense  ,150535,350 Th. €,Frédéric Mendy,13/14,Portugal,1465.0,Estoril 
+"Jul 1, 2013",,Loan,Portugal,1465.0,Estoril ,150535,400 Th. €,Frédéric Mendy,13/14,Portugal,979.0,Moreirense  
+"Feb 1, 2013",,Free transfer,Singapore,4131.0,Home United ,150535,400 Th. €,Frédéric Mendy,12/13,Portugal,1465.0,Estoril 
+"Jan 1, 2011",,?,Singapore,8845.0,Etoile FC ,150535,400 Th. €,Frédéric Mendy,10/11,Singapore,4131.0,Home United 
+"Jan 1, 2010",,?,France,7878.0,AC Evreux ,150535,-,Frédéric Mendy,09/10,Singapore,8845.0,Etoile FC 
+"Jan 18, 2013",,End of loan,Portugal,982.0,Nacional ,73096,-,Kim,12/13,Brazil,16220.0,Resende 
+"Jul 1, 2012",,Loan,Brazil,16220.0,Resende ,73096,-,Kim,12/13,Portugal,982.0,Nacional 
+"Jan 1, 2011",,Free transfer,Brazil,309.0,ParanÃ¡ ,73096,-,Kim,10/11,Brazil,16220.0,Resende 
+"Apr 1, 2010",,?,Brazil,537.0,Botafogo ,73096,50 Th. â‚¬,Kim,09/10,Brazil,309.0,ParanÃ¡ 
+"Mar 1, 2010",,End of loan,Brazil,4568.0,Nacional AtlÃ©tico Clube (PR) ,73096,50 Th. â‚¬,Kim,09/10,Brazil,537.0,Botafogo 
+"Feb 1, 2010",,Loan,Brazil,537.0,Botafogo ,73096,50 Th. â‚¬,Kim,09/10,Brazil,4568.0,Nacional AtlÃ©tico Clube (PR) 
+"May 1, 2009",,End of loan,Brazil,11266.0,Boavista Sport Club (RJ) ,73096,50 Th. â‚¬,Kim,08/09,Brazil,537.0,Botafogo 
+"Jan 1, 2009",,Loan,Brazil,537.0,Botafogo ,73096,50 Th. â‚¬,Kim,08/09,Brazil,11266.0,Boavista Sport Club (RJ) 
+"May 1, 2008",,End of loan,Brazil,4250.0,Metropolitano ,73096,50 Th. â‚¬,Kim,07/08,Brazil,537.0,Botafogo 
+"Feb 1, 2008",,Loan,Brazil,537.0,Botafogo ,73096,-,Kim,07/08,Brazil,4250.0,Metropolitano 
+"Jan 1, 2008",,-,Brazil,16653.0,Botafogo U20 ,73096,-,Kim,07/08,Brazil,537.0,Botafogo 
+"Feb 11, 2016",,-,,515.0,Unattached ,4489,-,Khalid Boulahrouz,15/16,,123.0,End of career 
+"Jul 1, 2015",,-,Netherlands,234.0,Feyenoord ,4489,400 Th. €,Khalid Boulahrouz,15/16,,515.0,Unattached 
+"Jul 14, 2014",,Free transfer,Denmark,206.0,Bröndby IF ,4489,600 Th. €,Khalid Boulahrouz,14/15,Netherlands,234.0,Feyenoord 
+"Oct 7, 2013",,-,Denmark,515.0,Unattached ,4489,750 Th. €,Khalid Boulahrouz,13/14,,206.0,Bröndby IF 
+"Sep 3, 2013",,-,Portugal,336.0,Sporting CP ,4489,"1,50 Mill. €",Khalid Boulahrouz,13/14,,515.0,Unattached 
+"Jul 18, 2012",,Free transfer,Germany,79.0,VfB Stuttgart ,4489,"3,00 Mill. €",Khalid Boulahrouz,12/13,Portugal,336.0,Sporting CP 
+"Jul 21, 2008",,"5,00 Mill. €",England,631.0,Chelsea ,4489,"5,00 Mill. €",Khalid Boulahrouz,08/09,Germany,79.0,VfB Stuttgart 
+"Jun 30, 2008",,End of loan,Spain,368.0,Sevilla FC ,4489,"5,00 Mill. €",Khalid Boulahrouz,07/08,England,631.0,Chelsea 
+"Jul 12, 2007",,Loan,England,631.0,Chelsea ,4489,"9,80 Mill. €",Khalid Boulahrouz,07/08,Spain,368.0,Sevilla FC 
+"Aug 21, 2006",,"13,20 Mill. €",Germany,41.0,Hamburger SV ,4489,"13,00 Mill. €",Khalid Boulahrouz,06/07,England,631.0,Chelsea 
+"Aug 31, 2004",,"1,50 Mill. €",Netherlands,235.0,RKC Waalwijk ,4489,-,Khalid Boulahrouz,04/05,Germany,41.0,Hamburger SV 
+"Jul 1, 2001",,Free transfer,Netherlands,1090.0,AZ Alkmaar ,4489,-,Khalid Boulahrouz,01/02,Netherlands,235.0,RKC Waalwijk 
+"Jul 1, 2000",,-,Netherlands,11368.0,AZ Alkmaar U21 ,4489,-,Khalid Boulahrouz,00/01,Netherlands,1090.0,AZ Alkmaar 
+"Jul 1, 1999",,Free transfer,Netherlands,15590.0,Haarlem U19 ,4489,-,Khalid Boulahrouz,99/00,Netherlands,11368.0,AZ Alkmaar U21 
+"Jul 1, 1995",,Free transfer,Netherlands,32791.0,Ajax Youth ,4489,-,Khalid Boulahrouz,95/96,Netherlands,15590.0,Haarlem U19 
+"Jan 12, 2016",,Free transfer,Saudi Arabia,7732.0,Al-Ettifaq ,173835,750 Th. €,Esmaël Gonçalves,15/16,Cyprus,3899.0,Anor. Famagusta 
+"Jul 30, 2015",,?,Portugal,2425.0,Rio Ave FC ,173835,750 Th. €,Esmaël Gonçalves,15/16,Saudi Arabia,7732.0,Al-Ettifaq 
+"Jun 30, 2015",,End of loan,Cyprus,3899.0,Anor. Famagusta ,173835,750 Th. €,Esmaël Gonçalves,14/15,Portugal,2425.0,Rio Ave FC 
+"Jan 27, 2015",,Loan,Portugal,2425.0,Rio Ave FC ,173835,750 Th. €,Esmaël Gonçalves,14/15,Cyprus,3899.0,Anor. Famagusta 
+"Jun 30, 2014",,End of loan,Greece,2079.0,PAE Veria ,173835,750 Th. €,Esmaël Gonçalves,13/14,Portugal,2425.0,Rio Ave FC 
+"Jan 14, 2014",,Loan,Portugal,2425.0,Rio Ave FC ,173835,"1,00 Mill. €",Esmaël Gonçalves,13/14,Greece,2079.0,PAE Veria 
+"Dec 31, 2013",,End of loan,Cyprus,2784.0,APOEL Nicosia ,173835,"1,00 Mill. €",Esmaël Gonçalves,13/14,Portugal,2425.0,Rio Ave FC 
+"Jul 3, 2013",,Loan,Portugal,2425.0,Rio Ave FC ,173835,"1,00 Mill. €",Esmaël Gonçalves,13/14,Cyprus,2784.0,APOEL Nicosia 
+"May 15, 2013",,End of loan,Scotland,465.0,St. Mirren FC ,173835,"1,00 Mill. €",Esmaël Gonçalves,12/13,Portugal,2425.0,Rio Ave FC 
+"Jan 22, 2013",,Loan,Portugal,2425.0,Rio Ave FC ,173835,"1,00 Mill. €",Esmaël Gonçalves,12/13,Scotland,465.0,St. Mirren FC 
+"Aug 3, 2012",,400 Th. €,France,417.0,OGC Nice ,173835,"1,00 Mill. €",Esmaël Gonçalves,12/13,Portugal,2425.0,Rio Ave FC 
+"Jul 1, 2011",,-,France,8158.0,Nizza B ,173835,-,Esmaël Gonçalves,11/12,France,417.0,OGC Nice 
+"Jul 1, 2009",,-,France,12763.0,Nizza U19 ,173835,-,Esmaël Gonçalves,09/10,France,8158.0,Nizza B 
+"Jul 1, 2008",,Free transfer,Portugal,12963.0,Boavista U19 ,173835,-,Esmaël Gonçalves,08/09,France,12763.0,Nizza U19 
+"Jul 1, 2015",,500 Th. €,Portugal,2425.0,Rio Ave FC ,238223,"1,20 Mill. €",Ederson,15/16,Portugal,294.0,Benfica 
+"Jul 1, 2012",,Free transfer,Portugal,6144.0,Ribeirão ,238223,-,Ederson,12/13,Portugal,2425.0,Rio Ave FC 
+"Jul 1, 2011",,Free transfer,Portugal,8889.0,Benfica U19 ,238223,-,Ederson,11/12,Portugal,6144.0,Ribeirão 
+"Jul 1, 2010",,-,Portugal,45618.0,Benfica Youth ,238223,-,Ederson,10/11,Portugal,8889.0,Benfica U19 
+"Jan 1, 2010",,?,Brazil,14679.0,São Paulo U17 ,238223,-,Ederson,09/10,Portugal,45618.0,Benfica Youth 
+"Aug 31, 2013",,Free transfer,Portugal,336.0,Sporting CP ,25617,"1,50 Mill. €",Danijel Pranjic,13/14,Greece,265.0,Panathinaikos 
+"Jun 30, 2013",,End of loan,Spain,940.0,Celta de Vigo ,25617,"1,50 Mill. €",Danijel Pranjic,12/13,Portugal,336.0,Sporting CP 
+"Jan 22, 2013",,Loan,Portugal,336.0,Sporting CP ,25617,"2,00 Mill. €",Danijel Pranjic,12/13,Spain,940.0,Celta de Vigo 
+"Jul 12, 2012",,Free transfer,Germany,27.0,Bayern Munich  ,25617,"2,50 Mill. €",Danijel Pranjic,12/13,Portugal,336.0,Sporting CP 
+"Jul 1, 2009",,"7,70 Mill. €",Netherlands,306.0,SC Heerenveen ,25617,"9,00 Mill. €",Danijel Pranjic,09/10,Germany,27.0,Bayern Munich  
+"Jul 1, 2005",,500 Th. €,Croatia,419.0,Dinamo Zagreb ,25617,-,Danijel Pranjic,05/06,Netherlands,306.0,SC Heerenveen 
+"Jul 1, 2004",,Free transfer,Croatia,327.0,NK Osijek ,25617,-,Danijel Pranjic,04/05,Croatia,419.0,Dinamo Zagreb 
+"Jul 1, 2002",,Free transfer,Croatia,5113.0,NK Belisce ,25617,-,Danijel Pranjic,02/03,Croatia,327.0,NK Osijek 
+"Jul 1, 2001",,Free transfer,Croatia,10315.0,NK Papuk Orahovica ,25617,-,Danijel Pranjic,01/02,Croatia,5113.0,NK Belisce 
+"Jul 1, 2000",,Free transfer,Croatia,17028.0,NK Nasice ,25617,-,Danijel Pranjic,00/01,Croatia,10315.0,NK Papuk Orahovica 
+"Dec 13, 2015",,End of loan,Brazil,10492.0,Juventude ,144788,550 Th. €,Luan,15/16,Brazil,22767.0,Red Bull 
+"Sep 17, 2015",,Loan,Brazil,22767.0,Red Bull ,144788,550 Th. €,Luan,15/16,Brazil,10492.0,Juventude 
+"Jul 2, 2015",,Free transfer,Turkey,19771.0,Akhisarspor  ,144788,550 Th. €,Luan,15/16,Brazil,22767.0,Red Bull 
+"Jan 23, 2015",,Free transfer,Portugal,2424.0,Gil Vicente ,144788,700 Th. €,Luan,14/15,Turkey,19771.0,Akhisarspor  
+"May 1, 2013",,End of loan,Brazil,16083.0,GO Audax ,144788,50 Th. €,Luan,12/13,Portugal,2424.0,Gil Vicente 
+"Feb 12, 2013",,Loan,Portugal,2424.0,Gil Vicente ,144788,50 Th. €,Luan,12/13,Brazil,16083.0,GO Audax 
+"Jul 1, 2012",,Free transfer,Brazil,16083.0,GO Audax ,144788,50 Th. €,Luan,12/13,Portugal,2424.0,Gil Vicente 
+"May 1, 2011",,Free transfer,Brazil,3266.0,Corinthians ,144788,50 Th. €,Luan,10/11,Brazil,16083.0,GO Audax 
+"Jan 1, 2011",,Free transfer,Brazil,7478.0,Santo André ,144788,50 Th. €,Luan,10/11,Brazil,3266.0,Corinthians 
+"Nov 1, 2010",,End of loan,Brazil,22767.0,Red Bull ,144788,50 Th. €,Luan,10/11,Brazil,7478.0,Santo André 
+"Jul 1, 2010",,Loan,Brazil,7478.0,Santo André ,144788,50 Th. €,Luan,10/11,Brazil,22767.0,Red Bull 
+"Dec 1, 2009",,End of loan,Brazil,7050.0,Palestra de São Bernardo (SP) ,144788,-,Luan,09/10,Brazil,7478.0,Santo André 
+"Apr 1, 2009",,Loan,Brazil,7478.0,Santo André ,144788,-,Luan,08/09,Brazil,7050.0,Palestra de São Bernardo (SP) 
+"Aug 1, 2008",,-,Brazil,515.0,Unattached ,144788,-,Luan,08/09,,7478.0,Santo André 
+"Mar 1, 2008",,-,Brazil,14708.0,FC São Paulo B ,144788,-,Luan,07/08,,515.0,Unattached 
+"Aug 18, 2015",,"2,00 Mill. €",Turkey,2381.0,Sivasspor ,37398,"3,75 Mill. €",Manuel da Costa,15/16,Greece,683.0,Olympiacos 
+"Aug 6, 2013",,"2,20 Mill. €",Russia,932.0,Loko Moscow ,37398,"3,00 Mill. €",Manuel da Costa,13/14,Turkey,2381.0,Sivasspor 
+"Jun 30, 2013",,End of loan,Portugal,982.0,Nacional ,37398,"3,00 Mill. €",Manuel da Costa,12/13,Russia,932.0,Loko Moscow 
+"Aug 31, 2012",,Loan,Russia,932.0,Loko Moscow ,37398,"3,00 Mill. €",Manuel da Costa,12/13,Portugal,982.0,Nacional 
+"Jul 1, 2011",,"1,50 Mill. €",England,379.0,West Ham ,37398,"3,00 Mill. €",Manuel da Costa,11/12,Russia,932.0,Loko Moscow 
+"Aug 1, 2009",,"2,70 Mill. €",Italy,430.0,Fiorentina ,37398,"2,00 Mill. €",Manuel da Costa,09/10,England,379.0,West Ham 
+"Jun 30, 2009",,End of loan,Italy,1038.0,Sampdoria ,37398,"2,00 Mill. €",Manuel da Costa,08/09,Italy,430.0,Fiorentina 
+"Jan 30, 2009",,Loan,Italy,430.0,Fiorentina ,37398,"2,00 Mill. €",Manuel da Costa,08/09,Italy,1038.0,Sampdoria 
+"Jan 29, 2008",,"4,50 Mill. €",Netherlands,383.0,PSV Eindhoven ,37398,"1,50 Mill. €",Manuel da Costa,07/08,Italy,430.0,Fiorentina 
+"Jul 1, 2006",,"1,50 Mill. €",France,1159.0,AS Nancy ,37398,500 Th. €,Manuel da Costa,06/07,Netherlands,383.0,PSV Eindhoven 
+"Jan 1, 2006",,-,France,10840.0,AS Nancy B ,37398,-,Manuel da Costa,05/06,France,1159.0,AS Nancy 
+"Jan 14, 2016",,"1,50 Mill. €",Portugal,1085.0,Vitória Setúbal ,129990,"2,75 Mill. €",Hyun-Jun Suk,15/16,Portugal,720.0,FC Porto 
+"Jan 12, 2015",,Free transfer,Portugal,982.0,Nacional ,129990,"2,00 Mill. €",Hyun-Jun Suk,14/15,Portugal,1085.0,Vitória Setúbal 
+"Jul 1, 2014",,Free transfer,Saudi Arabia,18487.0,Ahli ,129990,"2,00 Mill. €",Hyun-Jun Suk,14/15,Portugal,982.0,Nacional 
+"Jul 1, 2013",,"3,00 Mill. €",Portugal,1301.0,Marítimo ,129990,"1,20 Mill. €",Hyun-Jun Suk,13/14,Saudi Arabia,18487.0,Ahli 
+"Jan 23, 2013",,?,Netherlands,202.0,FC Groningen ,129990,400 Th. €,Hyun-Jun Suk,12/13,Portugal,1301.0,Marítimo 
+"Jul 1, 2011",,Free transfer,Netherlands,610.0,AFC Ajax ,129990,250 Th. €,Hyun-Jun Suk,11/12,Netherlands,202.0,FC Groningen 
+"Jan 1, 2010",,?,"Korea, South",31000.0,Yongin City FC ,129990,-,Hyun-Jun Suk,09/10,Netherlands,610.0,AFC Ajax 
+"Jul 16, 2014",,Free transfer,England,2413.0,Bury FC ,65692,250 Th. €,Tope Obadeyi,14/15,Scotland,2553.0,Kilmarnock FC 
+"Mar 25, 2014",,End of loan,England,2262.0,Plymouth Argyle ,65692,250 Th. €,Tope Obadeyi,13/14,England,2413.0,Bury FC 
+"Feb 20, 2014",,Loan,England,2413.0,Bury FC ,65692,250 Th. €,Tope Obadeyi,13/14,England,2262.0,Plymouth Argyle 
+"Jan 5, 2014",,End of loan,England,2262.0,Plymouth Argyle ,65692,400 Th. €,Tope Obadeyi,13/14,England,2413.0,Bury FC 
+"Nov 7, 2013",,Loan,England,2413.0,Bury FC ,65692,400 Th. €,Tope Obadeyi,13/14,England,2262.0,Plymouth Argyle 
+"Aug 16, 2013",,Free transfer,Portugal,2425.0,Rio Ave FC ,65692,400 Th. €,Tope Obadeyi,13/14,England,2413.0,Bury FC 
+"Jul 1, 2012",,Free transfer,England,355.0,Bolton ,65692,-,Tope Obadeyi,12/13,Portugal,2425.0,Rio Ave FC 
+"Apr 1, 2012",,End of loan,England,1088.0,Rochdale AFC ,65692,50 Th. €,Tope Obadeyi,11/12,England,355.0,Bolton 
+"Mar 14, 2012",,Loan,England,355.0,Bolton ,65692,50 Th. €,Tope Obadeyi,11/12,England,1088.0,Rochdale AFC 
+"Dec 26, 2011",,End of loan,England,1219.0,Chesterfield FC ,65692,50 Th. €,Tope Obadeyi,11/12,England,355.0,Bolton 
+"Nov 8, 2011",,Loan,England,355.0,Bolton ,65692,50 Th. €,Tope Obadeyi,11/12,England,1219.0,Chesterfield FC 
+"Jan 1, 2011",,End of loan,England,3054.0,Shrewsbury Town ,65692,-,Tope Obadeyi,10/11,England,355.0,Bolton 
+"Oct 1, 2010",,Loan,England,355.0,Bolton ,65692,-,Tope Obadeyi,10/11,England,3054.0,Shrewsbury Town 
+"May 1, 2010",,End of loan,England,1088.0,Rochdale AFC ,65692,250 Th. €,Tope Obadeyi,09/10,England,355.0,Bolton 
+"Feb 1, 2010",,Loan,England,355.0,Bolton ,65692,250 Th. €,Tope Obadeyi,09/10,England,1088.0,Rochdale AFC 
+"Nov 1, 2009",,End of loan,England,352.0,Swindon Town ,65692,200 Th. €,Tope Obadeyi,09/10,England,355.0,Bolton 
+"Aug 1, 2009",,Loan,England,355.0,Bolton ,65692,200 Th. €,Tope Obadeyi,09/10,England,352.0,Swindon Town 
+"Jul 1, 2008",,-,England,6915.0,Bolton W. U18 ,65692,-,Tope Obadeyi,08/09,England,355.0,Bolton 
+"Jul 1, 2015",,Free transfer,Portugal,10949.0,Sporting B ,83485,"1,50 Mill. €",Nuno Reis,15/16,France,347.0,FC Metz 
+"Jun 30, 2014",,End of loan,Belgium,520.0,Cercle Brugge ,83485,"1,50 Mill. €",Nuno Reis,13/14,Portugal,10949.0,Sporting B 
+"Jan 29, 2014",,Loan,Portugal,10949.0,Sporting B ,83485,"1,80 Mill. €",Nuno Reis,13/14,Belgium,520.0,Cercle Brugge 
+"Jun 30, 2013",,End of loan,Portugal,4750.0,Olhanense ,83485,"1,80 Mill. €",Nuno Reis,12/13,Portugal,10949.0,Sporting B 
+"Aug 9, 2012",,Loan,Portugal,10949.0,Sporting B ,83485,"1,50 Mill. €",Nuno Reis,12/13,Portugal,4750.0,Olhanense 
+"Jul 1, 2012",,End of loan,Belgium,520.0,Cercle Brugge ,83485,"1,50 Mill. €",Nuno Reis,12/13,Portugal,10949.0,Sporting B 
+"Jul 1, 2010",,Loan,Portugal,10283.0,Sporting U19 ,83485,-,Nuno Reis,10/11,Belgium,520.0,Cercle Brugge 
+"Jan 3, 2016",,Free transfer,France,347.0,FC Metz ,118309,800 Th. €,Amido Baldé,15/16,Angola,9536.0,Benfica Luanda 
+"Jul 15, 2015",,?,Scotland,371.0,Celtic ,118309,900 Th. €,Amido Baldé,15/16,France,347.0,FC Metz 
+"Jul 1, 2015",,End of loan,Israel,1017.0,Hapoel Tel Aviv ,118309,900 Th. €,Amido Baldé,14/15,Scotland,371.0,Celtic 
+"Jan 12, 2015",,Loan,Scotland,371.0,Celtic ,118309,900 Th. €,Amido Baldé,14/15,Israel,1017.0,Hapoel Tel Aviv 
+"Jan 12, 2015",,End of loan,Belgium,28643.0,Waasl.-Beveren ,118309,900 Th. €,Amido Baldé,14/15,Scotland,371.0,Celtic 
+"Sep 1, 2014",,Loan,Scotland,371.0,Celtic ,118309,"2,00 Mill. €",Amido Baldé,14/15,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2013",,"1,75 Mill. €",Portugal,2420.0,Vit. Guimarães ,118309,"1,50 Mill. €",Amido Baldé,13/14,Scotland,371.0,Celtic 
+"Aug 11, 2012",,?,Portugal,336.0,Sporting CP ,118309,700 Th. €,Amido Baldé,12/13,Portugal,2420.0,Vit. Guimarães 
+"Jun 30, 2012",,End of loan,Belgium,520.0,Cercle Brugge ,118309,700 Th. €,Amido Baldé,11/12,Portugal,336.0,Sporting CP 
+"Jul 1, 2011",,Loan,Portugal,336.0,Sporting CP ,118309,-,Amido Baldé,11/12,Belgium,520.0,Cercle Brugge 
+"Jun 30, 2011",,End of loan,Spain,2923.0,CD Badajoz ,118309,-,Amido Baldé,10/11,Portugal,336.0,Sporting CP 
+"Jan 1, 2011",,Loan,Portugal,336.0,Sporting CP ,118309,150 Th. €,Amido Baldé,10/11,Spain,2923.0,CD Badajoz 
+"Dec 1, 2010",,End of loan,Portugal,2423.0,Santa Clara ,118309,150 Th. €,Amido Baldé,10/11,Portugal,336.0,Sporting CP 
+"Jul 1, 2010",,Loan,Portugal,10283.0,Sporting U19 ,118309,-,Amido Baldé,10/11,Portugal,2423.0,Santa Clara 
+"Jul 1, 2008",,?,Guinea-Bissau,36603.0,CF Balantas ,118309,-,Amido Baldé,08/09,Portugal,10283.0,Sporting U19 
+"Jul 1, 2007",,?,Guinea-Bissau,13525.0,Sporting de Bis ,118309,-,Amido Baldé,07/08,Guinea-Bissau,36603.0,CF Balantas 
+"Jun 30, 2016",,End of loan,Spain,5358.0,SD Huesca ,211251,800 Th. €,Darwin Machís,15/16,Spain,16795.0,Granada CF 
+"Aug 6, 2015",,Loan,Spain,16795.0,Granada CF ,211251,-,Darwin Machís,15/16,Spain,5358.0,SD Huesca 
+"Jul 1, 2015",,-,Spain,21550.0,Granada CF B ,211251,-,Darwin Machís,15/16,Spain,16795.0,Granada CF 
+"Jun 30, 2014",,End of loan,Spain,7971.0,Hércules CF ,211251,300 Th. €,Darwin Machís,13/14,Spain,21550.0,Granada CF B 
+"May 9, 2014",,Loan,Spain,21550.0,Granada CF B ,211251,-,Darwin Machís,13/14,Spain,7971.0,Hércules CF 
+"Jul 1, 2013",,-,Spain,16795.0,Granada CF ,211251,500 Th. €,Darwin Machís,13/14,Spain,21550.0,Granada CF B 
+"Jun 30, 2013",,End of loan,Portugal,15136.0,Guimarães B ,211251,500 Th. €,Darwin Machís,12/13,Spain,21550.0,Granada CF B 
+"Jan 30, 2013",,Loan,Spain,16795.0,Granada CF ,211251,500 Th. €,Darwin Machís,12/13,Portugal,15136.0,Guimarães B 
+"Jul 1, 2012",,?,Venezuela,17194.0,Mineros ,211251,-,Darwin Machís,12/13,Spain,16795.0,Granada CF 
+"Jul 1, 2013",,700 Th. €,Portugal,1465.0,Estoril ,74550,800 Th. €,Jefferson,13/14,Portugal,336.0,Sporting CP 
+"Jul 1, 2012",,Loan,Brazil,17300.0,Desp. Brasil ,74550,200 Th. €,Jefferson,12/13,Portugal,1465.0,Estoril 
+"Jun 30, 2012",,End of loan,Brazil,1785.0,Santa Cruz ,74550,200 Th. €,Jefferson,11/12,Brazil,17300.0,Desp. Brasil 
+"May 1, 2012",,Loan,Brazil,17300.0,Desp. Brasil ,74550,200 Th. €,Jefferson,11/12,Brazil,1785.0,Santa Cruz 
+"Apr 1, 2012",,End of loan,Brazil,2646.0,Náutico ,74550,200 Th. €,Jefferson,11/12,Brazil,17300.0,Desp. Brasil 
+"Jan 1, 2012",,Loan,Brazil,17300.0,Desp. Brasil ,74550,200 Th. €,Jefferson,11/12,Brazil,2646.0,Náutico 
+"Dec 1, 2011",,End of loan,Brazil,2462.0,Fluminense ,74550,300 Th. €,Jefferson,11/12,Brazil,17300.0,Desp. Brasil 
+"Sep 1, 2011",,Loan,Brazil,17300.0,Desp. Brasil ,74550,300 Th. €,Jefferson,11/12,Brazil,2462.0,Fluminense 
+"May 1, 2011",,End of loan,Portugal,1465.0,Estoril ,74550,300 Th. €,Jefferson,10/11,Brazil,17300.0,Desp. Brasil 
+"Jul 1, 2010",,Loan,Brazil,17300.0,Desp. Brasil ,74550,300 Th. €,Jefferson,10/11,Portugal,1465.0,Estoril 
+"Jun 30, 2010",,End of loan,Brazil,8698.0,Barueri ,74550,300 Th. €,Jefferson,09/10,Brazil,17300.0,Desp. Brasil 
+"Jan 1, 2010",,Loan,Brazil,17300.0,Desp. Brasil ,74550,400 Th. €,Jefferson,09/10,Brazil,8698.0,Barueri 
+"Dec 1, 2009",,End of loan,Brazil,1023.0,Palmeiras ,74550,400 Th. €,Jefferson,09/10,Brazil,17300.0,Desp. Brasil 
+"May 1, 2008",,Loan,Brazil,17300.0,Desp. Brasil ,74550,-,Jefferson,07/08,Brazil,1023.0,Palmeiras 
+"Apr 1, 2008",,End of loan,Brazil,15064.0,Guaratinguetá ,74550,-,Jefferson,07/08,Brazil,291.0,São Caetano 
+"Dec 1, 2007",,Loan,Brazil,291.0,São Caetano ,74550,-,Jefferson,07/08,Brazil,15064.0,Guaratinguetá 
+"Apr 13, 2016",,-,Brazil,45257.0,Votuporanguense ,186357,-,André Luiz,15/16,,515.0,Unattached 
+"Dec 11, 2015",,Free transfer,Brazil,22878.0,Rio Branco-SP ,186357,-,André Luiz,15/16,Brazil,45257.0,Votuporanguense 
+"Jun 18, 2015",,Free transfer,Brazil,1442.0,Rio Claro FC ,186357,-,André Luiz,14/15,Brazil,22878.0,Rio Branco-SP 
+"Jan 1, 2015",,Free transfer,Brazil,4773.0,Ituano ,186357,-,André Luiz,14/15,Brazil,1442.0,Rio Claro FC 
+"Jul 1, 2014",,Free transfer,Brazil,21829.0,Oeste ,186357,-,André Luiz,14/15,Brazil,4773.0,Ituano 
+"Apr 15, 2014",,Free transfer,Brazil,1442.0,Rio Claro FC ,186357,-,André Luiz,13/14,Brazil,21829.0,Oeste 
+"Jan 1, 2014",,Free transfer,Brazil,27475.0,Penapolense-SP ,186357,-,André Luiz,13/14,Brazil,1442.0,Rio Claro FC 
+"Jun 17, 2013",,?,Brazil,16439.0,São Bernardo ,186357,-,André Luiz,12/13,Brazil,27475.0,Penapolense-SP 
+"Mar 6, 2013",,?,Brazil,10870.0,Fortaleza ,186357,-,André Luiz,12/13,Brazil,16439.0,São Bernardo 
+"Jan 1, 2013",,Free transfer,Portugal,979.0,Moreirense  ,186357,-,André Luiz,12/13,Brazil,10870.0,Fortaleza 
+"Aug 1, 2012",,Free transfer,Brazil,3973.0,Brasiliense FC ,186357,-,André Luiz,12/13,Portugal,979.0,Moreirense  
+"May 1, 2012",,Free transfer,Brazil,20132.0,Linense ,186357,-,André Luiz,11/12,Brazil,3973.0,Brasiliense FC 
+"Nov 30, 2011",,End of loan,Brazil,15064.0,Guaratinguetá ,186357,-,André Luiz,11/12,Brazil,20132.0,Linense 
+"May 1, 2011",,Loan,Brazil,20132.0,Linense ,186357,-,André Luiz,10/11,Brazil,15064.0,Guaratinguetá 
+"Aug 4, 2014",,-,Portugal,976.0,União Madeira ,39874,200 Th. €,Mário Matos,14/15,,515.0,Unattached 
+"Oct 9, 2013",,?,Portugal,1465.0,Estoril ,39874,200 Th. €,Mário Matos,13/14,Portugal,976.0,União Madeira 
+"Jan 1, 2010",,Free transfer,Belgium,3772.0,AFC Tubize ,39874,100 Th. €,Mário Matos,09/10,Portugal,1465.0,Estoril 
+"Jul 1, 2005",,Free transfer,Belgium,3038.0,RSC Anderlecht U19 ,39874,-,Mário Matos,05/06,Belgium,3772.0,AFC Tubize 
+"Jun 30, 2016",,End of loan,Turkey,10484.0,Kasimpasa ,72643,"2,40 Mill. €",Yonathan Del Valle,15/16,Portugal,2425.0,Rio Ave FC 
+"Aug 3, 2015",,Loan,Portugal,2425.0,Rio Ave FC ,72643,"1,80 Mill. €",Yonathan Del Valle,15/16,Turkey,10484.0,Kasimpasa 
+"Jun 30, 2014",,End of loan,Portugal,2995.0,Paços Ferreira ,72643,800 Th. €,Yonathan Del Valle,13/14,Portugal,2425.0,Rio Ave FC 
+"Jan 2, 2014",,Loan,Portugal,2425.0,Rio Ave FC ,72643,800 Th. €,Yonathan Del Valle,13/14,Portugal,2995.0,Paços Ferreira 
+"Jul 1, 2013",,?,France,290.0,AJ Auxerre ,72643,600 Th. €,Yonathan Del Valle,13/14,Portugal,2425.0,Rio Ave FC 
+"Jun 30, 2013",,End of loan,Portugal,2425.0,Rio Ave FC ,72643,600 Th. €,Yonathan Del Valle,12/13,France,290.0,AJ Auxerre 
+"Jul 12, 2012",,Loan,France,290.0,AJ Auxerre ,72643,200 Th. €,Yonathan Del Valle,12/13,Portugal,2425.0,Rio Ave FC 
+"Aug 29, 2011",,?,Venezuela,13297.0,Táchira ,72643,250 Th. €,Yonathan Del Valle,11/12,France,290.0,AJ Auxerre 
+"Jul 1, 2008",,?,Venezuela,7466.0,UA Maracaibo ,72643,-,Yonathan Del Valle,08/09,Venezuela,13297.0,Táchira 
+"Jan 1, 2007",,-,Venezuela,26001.0,Maracaibo U19 ,72643,-,Yonathan Del Valle,06/07,Venezuela,7466.0,UA Maracaibo 
+"Jun 23, 2014",,Free transfer,Russia,16704.0,FK Krasnodar ,99510,"1,00 Mill. €",Isael,14/15,Kazakhstan,10482.0,Kairat Almaty 
+"Jan 31, 2013",,500 Th. €,Portugal,982.0,Nacional ,99510,-,Isael,12/13,Russia,16704.0,FK Krasnodar 
+"Jul 1, 2012",,?,Brazil,776.0,Coritiba FC ,99510,-,Isael,12/13,Portugal,982.0,Nacional 
+"Jun 30, 2012",,End of loan,Brazil,291.0,São Caetano ,99510,-,Isael,11/12,Brazil,776.0,Coritiba FC 
+"Jan 1, 2012",,Loan,Brazil,776.0,Coritiba FC ,99510,-,Isael,11/12,Brazil,291.0,São Caetano 
+"Dec 1, 2011",,Loan,Brazil,776.0,Coritiba FC ,99510,-,Isael,11/12,Brazil,10870.0,Fortaleza 
+"Oct 1, 2011",,End of loan,Brazil,10870.0,Fortaleza ,99510,-,Isael,11/12,Brazil,776.0,Coritiba FC 
+"Jul 1, 2011",,?,Brazil,210.0,Grêmio ,99510,-,Isael,11/12,Brazil,776.0,Coritiba FC 
+"Jun 30, 2011",,End of loan,Turkey,11688.0,Giresunspor ,99510,-,Isael,10/11,Brazil,210.0,Grêmio 
+"Jul 1, 2010",,Loan,Brazil,210.0,Grêmio ,99510,-,Isael,10/11,Turkey,11688.0,Giresunspor 
+"May 1, 2010",,End of loan,Brazil,8718.0,Sport ,99510,-,Isael,09/10,Brazil,210.0,Grêmio 
+"Dec 1, 2009",,Loan,Brazil,210.0,Grêmio ,99510,-,Isael,09/10,Brazil,8718.0,Sport 
+"Apr 1, 2007",,-,Brazil,14704.0,Grêmio B ,99510,-,Isael,06/07,Brazil,210.0,Grêmio 
+"Jul 1, 2014",,-,France,2067.0,US Créteil ,45126,200 Th. €,Cédric Collet,14/15,,515.0,Unattached 
+"Jul 1, 2013",,-,France,515.0,Unattached ,45126,200 Th. €,Cédric Collet,13/14,,2067.0,US Créteil 
+"Dec 20, 2012",,-,Portugal,1436.0,Beira-Mar ,45126,200 Th. €,Cédric Collet,12/13,,515.0,Unattached 
+"Jul 1, 2012",,Free transfer,France,1421.0,Reims ,45126,200 Th. €,Cédric Collet,12/13,Portugal,1436.0,Beira-Mar 
+"Jul 18, 2011",,Free transfer,France,3135.0,Beauvais ,45126,500 Th. €,Cédric Collet,11/12,France,1421.0,Reims 
+"Jan 30, 2011",,-,France,515.0,Unattached ,45126,800 Th. €,Cédric Collet,10/11,,3135.0,Beauvais 
+"Jul 1, 2010",,-,Belgium,3057.0,Standard Liège ,45126,800 Th. €,Cédric Collet,10/11,,515.0,Unattached 
+"Jul 1, 2009",,350 Th. €,Belgium,1411.0,RAEC Mons ,45126,700 Th. €,Cédric Collet,09/10,Belgium,3057.0,Standard Liège 
+"Jul 1, 2008",,Free transfer,France,3911.0,Stade Brest 29 ,45126,500 Th. €,Cédric Collet,08/09,Belgium,1411.0,RAEC Mons 
+"Jul 1, 2007",,Free transfer,France,3161.0,FC Tours ,45126,150 Th. €,Cédric Collet,07/08,France,3911.0,Stade Brest 29 
+"Jul 1, 2005",,Free transfer,France,5086.0,SO Romorantin ,45126,-,Cédric Collet,05/06,France,3161.0,FC Tours 
+"Jul 1, 2004",,Free transfer,France,1081.0,CS Sedan ,45126,-,Cédric Collet,04/05,France,5086.0,SO Romorantin 
+"Jul 1, 2002",,-,France,10880.0,CS Sedan-Ardennes B ,45126,-,Cédric Collet,02/03,France,1081.0,CS Sedan 
+"Jun 30, 2016",,End of loan,Spain,367.0,Rayo Vallecano ,153427,"2,00 Mill. €",Bebé,15/16,Portugal,294.0,Benfica 
+"Jul 10, 2015",,Loan,Portugal,294.0,Benfica ,153427,"2,00 Mill. €",Bebé,15/16,Spain,367.0,Rayo Vallecano 
+"Jun 30, 2015",,End of loan,Spain,993.0,Córdoba CF ,153427,"3,00 Mill. €",Bebé,14/15,Portugal,294.0,Benfica 
+"Jan 8, 2015",,Loan,Portugal,294.0,Benfica ,153427,"3,00 Mill. €",Bebé,14/15,Spain,993.0,Córdoba CF 
+"Jul 25, 2014",,"3,00 Mill. €",England,985.0,Manchester Utd. ,153427,"1,00 Mill. €",Bebé,14/15,Portugal,294.0,Benfica 
+"Jun 30, 2014",,End of loan,Portugal,2995.0,Paços Ferreira ,153427,"1,00 Mill. €",Bebé,13/14,England,985.0,Manchester Utd. 
+"Aug 6, 2013",,Loan,England,985.0,Manchester Utd. ,153427,"1,00 Mill. €",Bebé,13/14,Portugal,2995.0,Paços Ferreira 
+"Jun 30, 2013",,End of loan,Portugal,2425.0,Rio Ave FC ,153427,"1,00 Mill. €",Bebé,12/13,England,985.0,Manchester Utd. 
+"Jan 1, 2013",,Loan,England,985.0,Manchester Utd. ,153427,"1,00 Mill. €",Bebé,12/13,Portugal,2425.0,Rio Ave FC 
+"Jun 30, 2012",,End of loan,Turkey,114.0,Besiktas ,153427,"1,00 Mill. €",Bebé,11/12,England,985.0,Manchester Utd. 
+"Jul 1, 2011",,"Loan fee:1,00 Mill. €",England,985.0,Manchester Utd. ,153427,"1,50 Mill. €",Bebé,11/12,Turkey,114.0,Besiktas 
+"Aug 1, 2010",,"8,80 Mill. €",Portugal,2420.0,Vit. Guimarães ,153427,100 Th. €,Bebé,10/11,England,985.0,Manchester Utd. 
+"Jul 1, 2010",,50 Th. €,Portugal,2431.0,Estrela Amadora ,153427,-,Bebé,10/11,Portugal,2420.0,Vit. Guimarães 
+"Jul 1, 2009",,-,Portugal,14910.0,Estrela Amadora ,153427,-,Bebé,09/10,Portugal,2431.0,Estrela Amadora 
+"Jun 30, 2016",,End of loan,England,931.0,Fulham FC ,123349,"2,50 Mill. €",Zakaria Labyad,15/16,Portugal,336.0,Sporting CP 
+"Feb 1, 2016",,Loan,Portugal,336.0,Sporting CP ,123349,"3,00 Mill. €",Zakaria Labyad,15/16,England,931.0,Fulham FC 
+"Jun 30, 2015",,End of loan,Netherlands,499.0,Vitesse ,123349,"4,00 Mill. €",Zakaria Labyad,14/15,Portugal,336.0,Sporting CP 
+"Jan 8, 2014",,Loan,Portugal,336.0,Sporting CP ,123349,"5,50 Mill. €",Zakaria Labyad,13/14,Netherlands,499.0,Vitesse 
+"Jul 2, 2012",,900 Th. €,Netherlands,383.0,PSV Eindhoven ,123349,"4,00 Mill. €",Zakaria Labyad,12/13,Portugal,336.0,Sporting CP 
+"Jul 1, 2010",,-,Netherlands,4575.0,PSV U19 ,123349,100 Th. €,Zakaria Labyad,10/11,Netherlands,383.0,PSV Eindhoven 
+"Jul 1, 2004",,Free transfer,Netherlands,52795.0,Elinkwijk Jgd. ,123349,-,Zakaria Labyad,04/05,Netherlands,32801.0,PSV Youth 
+"Jul 3, 2015",,Free transfer,Portugal,982.0,Nacional ,134371,600 Th. €,Wagner,15/16,Portugal,7179.0,Tondela 
+"Jan 19, 2015",,Free transfer,Poland,7153.0,Zawisza ,134371,400 Th. €,Wagner,14/15,Portugal,982.0,Nacional 
+"Jul 1, 2014",,Free transfer,Portugal,979.0,Moreirense  ,134371,400 Th. €,Wagner,14/15,Poland,7153.0,Zawisza 
+"Jul 1, 2011",,Free transfer,Portugal,8910.0,Aliados Lordelo ,134371,-,Wagner,11/12,Portugal,979.0,Moreirense  
+"Jul 1, 2008",,?,Brazil,1442.0,Rio Claro FC ,134371,-,Wagner,08/09,Portugal,8910.0,Aliados Lordelo 
+"Jan 20, 2016",,Free transfer,Turkey,2381.0,Sivasspor ,57956,"1,00 Mill. €",Dani Abalo,15/16,Spain,1108.0,Alavés 
+"Jul 25, 2015",,Free transfer,Bulgaria,31614.0,Ludogorets ,57956,"1,30 Mill. €",Dani Abalo,15/16,Turkey,2381.0,Sivasspor 
+"Jul 1, 2013",,?,Spain,940.0,Celta de Vigo ,57956,500 Th. €,Dani Abalo,13/14,Bulgaria,31614.0,Ludogorets 
+"Jun 30, 2013",,End of loan,Portugal,1436.0,Beira-Mar ,57956,500 Th. €,Dani Abalo,12/13,Spain,940.0,Celta de Vigo 
+"Jan 29, 2013",,Loan,Spain,940.0,Celta de Vigo ,57956,500 Th. €,Dani Abalo,12/13,Portugal,1436.0,Beira-Mar 
+"Jun 30, 2012",,End of loan,Spain,5648.0,Gimnàstic ,57956,800 Th. €,Dani Abalo,11/12,Spain,940.0,Celta de Vigo 
+"Jan 1, 2012",,Loan,Spain,940.0,Celta de Vigo ,57956,"1,00 Mill. €",Dani Abalo,11/12,Spain,5648.0,Gimnàstic 
+"Jul 1, 2005",,-,Spain,8733.0,Celta Vigo B ,57956,-,Dani Abalo,05/06,Spain,940.0,Celta de Vigo 
+"May 15, 2016",,End of loan,Brazil,8825.0,UberlÃ¢ndia EC ,101355,50 Th. â‚¬,LÃºcio,15/16,Brazil,32608.0,Frederiquense 
+"Jan 13, 2016",,Loan,Brazil,32608.0,Frederiquense ,101355,50 Th. â‚¬,LÃºcio,15/16,Brazil,8825.0,UberlÃ¢ndia EC 
+"Jul 27, 2015",,Free transfer,Brazil,3983.0,SÃ£o Gabriel ,101355,50 Th. â‚¬,LÃºcio,15/16,Brazil,32608.0,Frederiquense 
+"Jun 1, 2015",,Free transfer,Brazil,32608.0,Frederiquense ,101355,50 Th. â‚¬,LÃºcio,14/15,Brazil,3983.0,SÃ£o Gabriel 
+"Jun 1, 2014",,Free transfer,Brazil,18862.0,SÃ£o Paulo ,101355,50 Th. â‚¬,LÃºcio,13/14,Brazil,32608.0,Frederiquense 
+"Jan 1, 2014",,Free transfer,Brazil,16651.0,Portuguesa B ,101355,50 Th. â‚¬,LÃºcio,13/14,Brazil,18862.0,SÃ£o Paulo 
+"Jun 30, 2013",,End of loan,Portugal,2424.0,Gil Vicente ,101355,50 Th. â‚¬,LÃºcio,12/13,Brazil,10247.0,Portuguesa 
+"Jul 1, 2012",,Loan,Brazil,10247.0,Portuguesa ,101355,50 Th. â‚¬,LÃºcio,12/13,Portugal,2424.0,Gil Vicente 
+"May 1, 2012",,End of loan,Brazil,4759.0,MarcÃ­lio Dias ,101355,-,LÃºcio,11/12,Brazil,10247.0,Portuguesa 
+"Jan 1, 2012",,Loan,Brazil,10247.0,Portuguesa ,101355,-,LÃºcio,11/12,Brazil,4759.0,MarcÃ­lio Dias 
+"Jan 1, 2009",,-,Brazil,16651.0,Portuguesa B ,101355,-,LÃºcio,08/09,Brazil,10247.0,Portuguesa 
+"Aug 3, 2014",,?,Belgium,75.0,Unknown ,103278,300 Th. €,Francesco D'Onofrio,14/15,,2715.0,Seraing United 
+"Jul 1, 2013",,?,Portugal,4750.0,Olhanense ,103278,100 Th. €,Francesco D'Onofrio,13/14,,75.0,Unknown 
+"Jul 1, 2012",,-,Portugal,515.0,Unattached ,103278,100 Th. €,Francesco D'Onofrio,12/13,,4750.0,Olhanense 
+"Dec 1, 2011",,-,Belgium,24394.0,Standard Res. ,103278,100 Th. €,Francesco D'Onofrio,11/12,,515.0,Unattached 
+"Jul 1, 2010",,-,Belgium,8164.0,Standard U19 ,103278,-,Francesco D'Onofrio,10/11,Belgium,24394.0,Standard Res. 
+"Jul 16, 2015",,Free transfer,England,349.0,Barnsley FC ,91887,250 Th. €,Milan Lalkovic,15/16,England,899.0,Walsall FC 
+"Jan 8, 2015",,?,Czech Republic,5546.0,Mladá Boleslav ,91887,250 Th. €,Milan Lalkovic,14/15,England,349.0,Barnsley FC 
+"Jul 25, 2014",,Free transfer,England,631.0,Chelsea ,91887,250 Th. €,Milan Lalkovic,14/15,Czech Republic,5546.0,Mladá Boleslav 
+"May 31, 2014",,End of loan,England,899.0,Walsall FC ,91887,250 Th. €,Milan Lalkovic,13/14,England,631.0,Chelsea 
+"Jul 16, 2013",,Loan,England,631.0,Chelsea ,91887,-,Milan Lalkovic,13/14,England,899.0,Walsall FC 
+"Dec 31, 2012",,End of loan,Portugal,2420.0,Vit. Guimarães ,91887,-,Milan Lalkovic,12/13,England,631.0,Chelsea 
+"Jul 17, 2012",,Loan,England,631.0,Chelsea ,91887,-,Milan Lalkovic,12/13,Portugal,2420.0,Vit. Guimarães 
+"Apr 1, 2012",,End of loan,Netherlands,1268.0,ADO Den Haag ,91887,100 Th. €,Milan Lalkovic,11/12,England,631.0,Chelsea 
+"Jan 1, 2012",,Loan,England,631.0,Chelsea ,91887,-,Milan Lalkovic,11/12,Netherlands,1268.0,ADO Den Haag 
+"Dec 1, 2011",,Loan,England,631.0,Chelsea ,91887,-,Milan Lalkovic,11/12,England,2454.0,Doncaster Rov. 
+"Dec 1, 2011",,End of loan,England,2454.0,Doncaster Rov. ,91887,-,Milan Lalkovic,11/12,England,631.0,Chelsea 
+"Jul 1, 2010",,-,England,6918.0,Chelsea U18 ,91887,-,Milan Lalkovic,10/11,England,631.0,Chelsea 
+"Jul 1, 2007",,?,Slovakia,18763.0,Kosice U19 ,91887,-,Milan Lalkovic,07/08,England,6918.0,Chelsea U18 
+"Aug 26, 2015",,700 Th. €,Portugal,2425.0,Rio Ave FC ,184816,"4,80 Mill. €",Ahmed Hassan,15/16,Portugal,1075.0,Braga 
+"Jul 1, 2012",,-,Portugal,8105.0,Rio Ave FC U19 ,184816,50 Th. €,Ahmed Hassan,12/13,Portugal,2425.0,Rio Ave FC 
+"Oct 1, 2011",,Free transfer,Egypt,15897.0,El Ahly U19 ,184816,50 Th. €,Ahmed Hassan,11/12,Portugal,8105.0,Rio Ave FC U19 
+"Aug 4, 2014",,"1,60 Mill. €",Germany,60.0,SC Freiburg ,20081,"3,00 Mill. €",Gelson Fernandes,14/15,France,273.0,Rennes 
+"Jul 1, 2013",,400 Th. €,Portugal,336.0,Sporting CP ,20081,"3,00 Mill. €",Gelson Fernandes,13/14,Germany,60.0,SC Freiburg 
+"Jun 30, 2013",,End of loan,Switzerland,321.0,FC Sion ,20081,"3,00 Mill. €",Gelson Fernandes,12/13,Portugal,336.0,Sporting CP 
+"Jan 1, 2013",,Loan fee:300 Th. €,Portugal,336.0,Sporting CP ,20081,"3,50 Mill. €",Gelson Fernandes,12/13,Switzerland,321.0,FC Sion 
+"Jul 3, 2012",,Free transfer,France,618.0,Saint-Étienne ,20081,"3,50 Mill. €",Gelson Fernandes,12/13,Portugal,336.0,Sporting CP 
+"Jun 30, 2012",,End of loan,Italy,410.0,Udinese Calcio ,20081,"3,50 Mill. €",Gelson Fernandes,11/12,France,618.0,Saint-Étienne 
+"Jan 5, 2012",,Loan fee:500 Th. €,France,618.0,Saint-Étienne ,20081,"3,50 Mill. €",Gelson Fernandes,11/12,Italy,410.0,Udinese Calcio 
+"Dec 30, 2011",,End of loan,England,1003.0,Leicester ,20081,"3,50 Mill. €",Gelson Fernandes,11/12,France,618.0,Saint-Étienne 
+"Aug 4, 2011",,Loan fee:500 Th. €,France,618.0,Saint-Étienne ,20081,"3,50 Mill. €",Gelson Fernandes,11/12,England,1003.0,Leicester 
+"Jun 30, 2011",,End of loan,Italy,862.0,Chievo Verona ,20081,"4,20 Mill. €",Gelson Fernandes,10/11,France,618.0,Saint-Étienne 
+"Aug 30, 2010",,Loan fee:500 Th. €,France,618.0,Saint-Étienne ,20081,"4,80 Mill. €",Gelson Fernandes,10/11,Italy,862.0,Chievo Verona 
+"Jul 9, 2009",,"3,50 Mill. €",England,281.0,Manchester City ,20081,"5,50 Mill. €",Gelson Fernandes,09/10,France,618.0,Saint-Étienne 
+"Jul 14, 2007",,"5,50 Mill. €",Switzerland,321.0,FC Sion ,20081,"1,00 Mill. €",Gelson Fernandes,07/08,England,281.0,Manchester City 
+"Jul 1, 2004",,-,Switzerland,8508.0,FC Sion U21 ,20081,-,Gelson Fernandes,04/05,Switzerland,321.0,FC Sion 
+"Jul 1, 2003",,-,Switzerland,14211.0,Sion U18 ,20081,-,Gelson Fernandes,03/04,Switzerland,8508.0,FC Sion U21 
+"Dec 31, 2014",,?,Brazil,8794.0,Esporte Clube Novo Hamburgo (RS) ,238488,-,Leonardo,14/15,Brazil,12777.0,Avenida 
+"Feb 5, 2013",,?,Brazil,21599.0,Luverdense ,238488,-,Leonardo,12/13,Brazil,8794.0,Esporte Clube Novo Hamburgo (RS) 
+"Dec 1, 2012",,Free transfer,Portugal,2424.0,Gil Vicente ,238488,-,Leonardo,12/13,Brazil,21599.0,Luverdense 
+"Jul 1, 2012",,Free transfer,Brazil,28024.0,Santa Cruz-RS ,238488,-,Leonardo,12/13,Portugal,2424.0,Gil Vicente 
+"Jul 7, 2014",,Free transfer,Bulgaria,2259.0,Lok. Plovdiv ,45566,300 Th. €,Tijani Belaid,14/15,Tunisia,819.0,Club Africain 
+"Nov 4, 2013",,-,Bulgaria,515.0,Unattached ,45566,300 Th. €,Tijani Belaid,13/14,,2259.0,Lok. Plovdiv 
+"Jul 1, 2013",,-,Portugal,979.0,Moreirense  ,45566,400 Th. €,Tijani Belaid,13/14,,515.0,Unattached 
+"Jan 21, 2013",,Free transfer,Germany,89.0,Union Berlin ,45566,400 Th. €,Tijani Belaid,12/13,Portugal,979.0,Moreirense  
+"Jan 31, 2012",,Free transfer,Cyprus,2784.0,APOEL Nicosia ,45566,500 Th. €,Tijani Belaid,11/12,Germany,89.0,Union Berlin 
+"Aug 1, 2011",,Free transfer,England,3008.0,Hull City ,45566,800 Th. €,Tijani Belaid,11/12,Cyprus,2784.0,APOEL Nicosia 
+"Jan 20, 2011",,80 Th. €,Czech Republic,62.0,Slavia Prag ,45566,800 Th. €,Tijani Belaid,10/11,England,3008.0,Hull City 
+"Jul 9, 2008",,400 Th. €,Italy,46.0,Inter ,45566,800 Th. €,Tijani Belaid,08/09,Czech Republic,62.0,Slavia Prag 
+"Jun 30, 2008",,End of loan,Czech Republic,62.0,Slavia Prag ,45566,800 Th. €,Tijani Belaid,07/08,Italy,46.0,Inter 
+"Jul 12, 2007",,Loan fee:40 Th. €,Italy,46.0,Inter ,45566,250 Th. €,Tijani Belaid,07/08,Czech Republic,62.0,Slavia Prag 
+"Jun 30, 2007",,End of loan,Netherlands,383.0,PSV Eindhoven ,45566,250 Th. €,Tijani Belaid,06/07,Italy,46.0,Inter 
+"Jan 29, 2007",,Loan fee:175 Th. €,Italy,46.0,Inter ,45566,-,Tijani Belaid,06/07,Netherlands,383.0,PSV Eindhoven 
+"Jul 1, 2006",,-,Italy,5380.0,Inter ,45566,-,Tijani Belaid,06/07,Italy,46.0,Inter 
+"Jul 1, 2004",,15 Th. €,France,10004.0,Paris FC ,45566,-,Tijani Belaid,04/05,Italy,5380.0,Inter 
+"Aug 20, 2014",,"20,00 Mill. €",Portugal,336.0,Sporting CP ,93176,"12,00 Mill. €",Marcos Rojo,14/15,England,985.0,Manchester Utd. 
+"Jul 19, 2012",,"5,43 Mill. €",Russia,232.0,Spartak Moscow ,93176,"2,00 Mill. €",Marcos Rojo,12/13,Portugal,336.0,Sporting CP 
+"Jan 1, 2011",,"2,00 Mill. €",Argentina,288.0,Estudiantes ,93176,"1,50 Mill. €",Marcos Rojo,10/11,Russia,232.0,Spartak Moscow 
+"Jan 1, 2009",,-,Argentina,15887.0,Estudiantes II ,93176,75 Th. €,Marcos Rojo,08/09,Argentina,288.0,Estudiantes 
+"Jul 1, 2008",,-,Argentina,15115.0,ELP U20 ,93176,-,Marcos Rojo,08/09,Argentina,15887.0,Estudiantes II 
+"Jan 27, 2016",,?,France,10004.0,Paris FC ,16252,250 Th. €,Christian Kinkela,15/16,Belgium,6342.0,White Star 
+"Aug 5, 2014",,Free transfer,France,1175.0,LB Châteauroux ,16252,300 Th. €,Christian Kinkela,14/15,France,10004.0,Paris FC 
+"Jul 14, 2013",,Free transfer,Portugal,979.0,Moreirense  ,16252,300 Th. €,Christian Kinkela,13/14,France,1175.0,LB Châteauroux 
+"Jan 26, 2013",,Free transfer,France,1081.0,CS Sedan ,16252,300 Th. €,Christian Kinkela,12/13,Portugal,979.0,Moreirense  
+"Oct 20, 2012",,-,France,515.0,Unattached ,16252,500 Th. €,Christian Kinkela,12/13,,1081.0,CS Sedan 
+"Jul 1, 2012",,-,France,1147.0,Ajaccio ,16252,800 Th. €,Christian Kinkela,12/13,,515.0,Unattached 
+"Jul 15, 2009",,Free transfer,France,7042.0,US Boulogne ,16252,300 Th. €,Christian Kinkela,09/10,France,1147.0,Ajaccio 
+"Jan 31, 2008",,Free transfer,France,10004.0,Paris FC ,16252,250 Th. €,Christian Kinkela,07/08,France,7042.0,US Boulogne 
+"Jul 1, 2007",,Free transfer,France,1416.0,SC Amiens ,16252,150 Th. €,Christian Kinkela,07/08,France,10004.0,Paris FC 
+"Jul 1, 2005",,Free transfer,France,3318.0,RC Paris ,16252,50 Th. €,Christian Kinkela,05/06,France,1416.0,SC Amiens 
+"Jul 1, 2004",,Free transfer,Belgium,3948.0,Saint Gilloise ,16252,-,Christian Kinkela,04/05,France,3318.0,RC Paris 
+"Jul 1, 2003",,Free transfer,France,3161.0,FC Tours ,16252,-,Christian Kinkela,03/04,Belgium,3948.0,Saint Gilloise 
+"Jul 1, 2002",,Free transfer,France,1080.0,Stade Laval ,16252,-,Christian Kinkela,02/03,France,3161.0,FC Tours 
+"Jul 1, 2001",,Free transfer,France,1154.0,Red Star 93 ,16252,-,Christian Kinkela,01/02,France,1080.0,Stade Laval 
+"Jul 1, 1998",,-,France,16193.0,Red Star U19 ,16252,-,Christian Kinkela,98/99,France,1154.0,Red Star 93 
+"Jul 5, 2015",,"7,00 Mill. €",Portugal,720.0,FC Porto ,110078,"5,50 Mill. €",Carlos Eduardo,15/16,Saudi Arabia,1114.0,Hilal 
+"Jun 30, 2015",,End of loan,France,417.0,OGC Nice ,110078,"5,50 Mill. €",Carlos Eduardo,14/15,Portugal,720.0,FC Porto 
+"Sep 1, 2014",,Loan,Portugal,720.0,FC Porto ,110078,"4,50 Mill. €",Carlos Eduardo,14/15,France,417.0,OGC Nice 
+"Jul 1, 2013",,900 Th. €,Portugal,1465.0,Estoril ,110078,500 Th. €,Carlos Eduardo,13/14,Portugal,720.0,FC Porto 
+"Jul 1, 2012",,?,Brazil,17300.0,Desp. Brasil ,110078,500 Th. €,Carlos Eduardo,12/13,Portugal,1465.0,Estoril 
+"Jun 30, 2012",,End of loan,Portugal,1465.0,Estoril ,110078,500 Th. €,Carlos Eduardo,11/12,Brazil,17300.0,Desp. Brasil 
+"Jan 1, 2011",,Loan,Brazil,17300.0,Desp. Brasil ,110078,500 Th. €,Carlos Eduardo,10/11,Portugal,1465.0,Estoril 
+"Dec 31, 2010",,End of loan,Brazil,8698.0,Barueri ,110078,500 Th. €,Carlos Eduardo,10/11,Brazil,17300.0,Desp. Brasil 
+"Jan 1, 2010",,Loan,Brazil,17300.0,Desp. Brasil ,110078,400 Th. €,Carlos Eduardo,09/10,Brazil,8698.0,Barueri 
+"Dec 31, 2009",,End of loan,Brazil,2462.0,Fluminense ,110078,400 Th. €,Carlos Eduardo,09/10,Brazil,17300.0,Desp. Brasil 
+"May 1, 2009",,Loan,Brazil,17300.0,Desp. Brasil ,110078,-,Carlos Eduardo,08/09,Brazil,2462.0,Fluminense 
+"Apr 30, 2009",,End of loan,Brazil,4773.0,Ituano ,110078,-,Carlos Eduardo,08/09,Brazil,17300.0,Desp. Brasil 
+"Jan 1, 2009",,Loan,Brazil,17300.0,Desp. Brasil ,110078,-,Carlos Eduardo,08/09,Brazil,4773.0,Ituano 
+"Dec 31, 2008",,End of loan,Brazil,8433.0,São Bento (SP) ,110078,-,Carlos Eduardo,08/09,Brazil,17300.0,Desp. Brasil 
+"Jul 1, 2008",,Loan,Brazil,17300.0,Desp. Brasil ,110078,-,Carlos Eduardo,08/09,Brazil,8433.0,São Bento (SP) 
 ,'NoneType' object has no attribute 'find_all',,,,,121585,,,,,,
-"Jun 30, 2016",,End of loan,England,1035,Sheff Wed ,122115,"1,00 Mill. €",Vincent Sasso,15/16,Portugal,1075,Braga 
-"Jul 1, 2015",,Loan fee:130 Th. €,Portugal,1075,Braga ,122115,"1,20 Mill. €",Vincent Sasso,15/16,England,1035,Sheff Wed 
-"Jan 22, 2013",,750 Th. €,Portugal,1436,Beira-Mar ,122115,200 Th. €,Vincent Sasso,12/13,Portugal,1075,Braga 
-"Jul 19, 2012",,Free transfer,France,995,FC Nantes ,122115,200 Th. €,Vincent Sasso,12/13,Portugal,1436,Beira-Mar 
-"Jul 1, 2009",,-,France,10850,FC Nantes B ,122115,-,Vincent Sasso,09/10,France,995,FC Nantes 
-"Aug 3, 2015",,Free transfer,Portugal,1075,Braga ,122844,300 Th. €,Victor Golas,15/16,Bulgaria,2531,Botev Plovdiv 
-"Jul 5, 2014",,Free transfer,Portugal,10949,Sporting B ,122844,300 Th. €,Victor Golas,14/15,Portugal,1075,Braga 
-"Jun 30, 2012",,End of loan,Portugal,3327,Penafiel ,122844,350 Th. €,Victor Golas,11/12,Portugal,10949,Sporting B 
-"Jul 1, 2011",,Loan,Portugal,336,Sporting CP ,122844,100 Th. €,Victor Golas,11/12,Portugal,3327,Penafiel 
-"Jun 30, 2011",,End of loan,Portugal,2503,Boavista ,122844,100 Th. €,Victor Golas,10/11,Portugal,336,Sporting CP 
-"Jul 1, 2010",,Loan,Portugal,336,Sporting CP ,122844,-,Victor Golas,10/11,Portugal,2503,Boavista 
-"Jun 30, 2010",,End of loan,Portugal,11085,Real SC ,122844,-,Victor Golas,09/10,Portugal,336,Sporting CP 
-"Jul 2, 2009",,Loan,Portugal,10283,Sporting U19 ,122844,-,Victor Golas,09/10,Portugal,11085,Real SC 
-"Dec 10, 2014",,draft,United States,626,Revolution ,125700,500 Th. €,Tony Taylor,14/15,United States,40058,NYC FC 
-"Aug 18, 2014",,?,Cyprus,829,Omonia Nikosia ,125700,500 Th. €,Tony Taylor,14/15,United States,626,Revolution 
-"Jul 1, 2013",,?,Portugal,1465,Estoril ,125700,800 Th. €,Tony Taylor,13/14,Cyprus,829,Omonia Nikosia 
-"Dec 31, 2011",,End of loan,Portugal,5227,Atlético ,125700,250 Th. €,Tony Taylor,11/12,Portugal,1465,Estoril 
-"Jul 1, 2011",,Loan,Portugal,1465,Estoril ,125700,100 Th. €,Tony Taylor,11/12,Portugal,5227,Atlético 
-"Jan 1, 2010",,?,United States,15031,Jacksonville Dolphins ,125700,-,Tony Taylor,09/10,Portugal,1465,Estoril 
-"Jan 14, 2015",,Free transfer,Japan,20805,Gainare Tottori ,128833,-,Ramazotti,14/15,Singapore,14320,DPMM FC 
-"Aug 13, 2014",,?,Brazil,20092,ASA ,128833,-,Ramazotti,14/15,Japan,20805,Gainare Tottori 
-"Mar 15, 2014",,?,Brazil,22690,Passo Fundo ,128833,-,Ramazotti,13/14,Brazil,20092,ASA 
-"Jan 8, 2014",,-,Brazil,515,Unattached ,128833,-,Ramazotti,13/14,,22690,Passo Fundo 
-"May 1, 2013",,-,Brazil,8793,Bragantino ,128833,-,Ramazotti,12/13,,515,Unattached 
-"Jan 1, 2013",,Free transfer,Portugal,2424,Gil Vicente ,128833,300 Th. €,Ramazotti,12/13,Brazil,8793,Bragantino 
-"Jul 1, 2012",,Free transfer,Switzerland,260,FC Zürich ,128833,300 Th. €,Ramazotti,12/13,Portugal,2424,Gil Vicente 
-"Jan 1, 2012",,?,Brazil,7478,Santo André ,128833,300 Th. €,Ramazotti,11/12,Switzerland,260,FC Zürich 
-"Dec 1, 2011",,End of loan,Japan,9597,Avispa Fukuoka ,128833,800 Th. €,Ramazotti,11/12,Brazil,7478,Santo André 
-"Jul 1, 2011",,Loan,Brazil,7478,Santo André ,128833,800 Th. €,Ramazotti,11/12,Japan,9597,Avispa Fukuoka 
-"Jun 1, 2011",,End of loan,Portugal,2424,Gil Vicente ,128833,350 Th. €,Ramazotti,10/11,Brazil,7478,Santo André 
-"Jul 1, 2010",,Loan,Brazil,7478,Santo André ,128833,50 Th. €,Ramazotti,10/11,Portugal,2424,Gil Vicente 
-"Sep 1, 2009",,-,Brazil,515,Unattached ,128833,-,Ramazotti,09/10,,7478,Santo André 
-"Jun 1, 2009",,-,Brazil,734,União São João ,128833,-,Ramazotti,08/09,,515,Unattached 
-"Mar 1, 2009",,Free transfer,Brazil,21849,Ipitanga Bahia ,128833,-,Ramazotti,08/09,Brazil,734,União São João 
-"Jan 1, 2009",,Free transfer,Brazil,14807,Palmeiras B ,128833,-,Ramazotti,08/09,Brazil,21849,Ipitanga Bahia 
-"May 1, 2008",,End of loan,Brazil,10117,Grêmio Esportivo Juventus (SC) ,128833,-,Ramazotti,07/08,Brazil,14807,Palmeiras B 
-"Jan 1, 2008",,Loan,Brazil,14807,Palmeiras B ,128833,-,Ramazotti,07/08,Brazil,10117,Grêmio Esportivo Juventus (SC) 
-"Jan 6, 2015",,-,Portugal,2995,Paços Ferreira ,129224,200 Th. €,Duarte Duarte,14/15,Angola,7084,Petro Luanda 
-"Jun 1, 2014",,End of loan,Portugal,8827,Oliveirense ,129224,200 Th. €,Duarte Duarte,13/14,Portugal,2995,Paços Ferreira 
-"Jan 8, 2014",,Loan,Portugal,2995,Paços Ferreira ,129224,200 Th. €,Duarte Duarte,13/14,Portugal,8827,Oliveirense 
-"Sep 10, 2013",,Free transfer,Portugal,10330,Benfica B ,129224,200 Th. €,Duarte Duarte,13/14,Portugal,2995,Paços Ferreira 
-"Jun 30, 2013",,End of loan,Portugal,2995,Paços Ferreira ,129224,200 Th. €,Duarte Duarte,13/14,Portugal,10330,Benfica B 
-"Jan 31, 2013",,Loan,Portugal,10330,Benfica B ,129224,200 Th. €,Duarte Duarte,12/13,Portugal,2995,Paços Ferreira 
-"Jul 1, 2012",,?,Portugal,4297,Varzim ,129224,100 Th. €,Duarte Duarte,12/13,Portugal,10330,Benfica B 
-"Jul 1, 2011",,?,Portugal,2424,Gil Vicente ,129224,100 Th. €,Duarte Duarte,11/12,Portugal,4297,Varzim 
-"Jul 1, 2009",,?,Portugal,8424,Vilaverdense FC ,129224,-,Duarte Duarte,09/10,Portugal,2424,Gil Vicente 
-"Feb 2, 2016",,?,Portugal,3327,Penafiel ,130666,250 Th. €,Bruninho,15/16,Portugal,7117,Bragança 
-"Jul 1, 2014",,?,Portugal,1085,Vitória Setúbal ,130666,400 Th. €,Bruninho,14/15,Portugal,3327,Penafiel 
-"Jul 1, 2012",,?,Portugal,8493,Padroense ,130666,-,Bruninho,12/13,Portugal,1085,Vitória Setúbal 
-"Jul 1, 2010",,?,Portugal,25834,Candal ,130666,-,Bruninho,10/11,Portugal,8493,Padroense 
-"Jan 1, 2016",,?,Portugal,10331,Porto B ,131094,700 Th. €,Héctor Quiñónes,15/16,Colombia,2350,Millonarios 
-"Jun 30, 2015",,End of loan,Portugal,3327,Penafiel ,131094,"1,20 Mill. €",Héctor Quiñónes,14/15,Portugal,10331,Porto B 
-"Sep 1, 2014",,Loan,Portugal,10331,Porto B ,131094,"1,00 Mill. €",Héctor Quiñónes,14/15,Portugal,3327,Penafiel 
-"Jul 1, 2013",,-,Portugal,720,FC Porto ,131094,"1,00 Mill. €",Héctor Quiñónes,13/14,Portugal,10331,Porto B 
-"Aug 31, 2012",,"1,98 Mill. €",Colombia,11854,Atlético Junior ,131094,450 Th. €,Héctor Quiñónes,12/13,Portugal,720,FC Porto 
-"Jan 1, 2012",,?,Colombia,9961,Deportivo Cali ,131094,-,Héctor Quiñónes,11/12,Colombia,11854,Atlético Junior 
-"Dec 31, 2011",,End of loan,Italy,10959,Udinese U19 ,131094,-,Héctor Quiñónes,11/12,Colombia,9961,Deportivo Cali 
-"Jul 1, 2011",,Loan,Colombia,9961,Deportivo Cali ,131094,-,Héctor Quiñónes,11/12,Italy,10959,Udinese U19 
-"Jul 1, 2010",,-,Colombia,20589,Dep. Cali U19 ,131094,-,Héctor Quiñónes,10/11,Colombia,9961,Deportivo Cali 
-"Jun 30, 2016",,End of loan,Turkey,3205,Kayserispor ,131933,"3,00 Mill. €",Diego Lopes,15/16,Portugal,294,Benfica 
-"Jul 17, 2015",,Loan,Portugal,294,Benfica ,131933,"4,00 Mill. €",Diego Lopes,15/16,Turkey,3205,Kayserispor 
-"Jul 1, 2015",,100 Th. €,Portugal,2425,Rio Ave FC ,131933,"4,00 Mill. €",Diego Lopes,15/16,Portugal,294,Benfica 
-"Aug 4, 2013",,?,Portugal,10330,Benfica B ,131933,800 Th. €,Diego Lopes,13/14,Portugal,2425,Rio Ave FC 
-"Jun 30, 2013",,End of loan,Portugal,2425,Rio Ave FC ,131933,500 Th. €,Diego Lopes,12/13,Portugal,10330,Benfica B 
-"Jul 1, 2012",,Loan,Portugal,8889,Benfica U19 ,131933,-,Diego Lopes,12/13,Portugal,2425,Rio Ave FC 
-"May 9, 2016",,Free transfer,Brazil,21727,Batatais ,132061,50 Th. €,Eliandro,15/16,Brazil,8793,Bragantino 
-"Jan 29, 2016",,Free transfer,Lithuania,602,Zalgiris ,132061,50 Th. €,Eliandro,15/16,Brazil,21727,Batatais 
-"Jul 1, 2015",,-,Lithuania,515,Unattached ,132061,25 Th. €,Eliandro,14/15,,602,Zalgiris 
-"May 4, 2015",,-,Malta,10262,Birkirkara FC ,132061,-,Eliandro,14/15,,515,Unattached 
-"Jul 1, 2014",,?,Brazil,11932,Cabofriense ,132061,-,Eliandro,14/15,Malta,10262,Birkirkara FC 
-"Jan 1, 2014",,Free transfer,Brazil,609,Cruzeiro ,132061,-,Eliandro,13/14,Brazil,11932,Cabofriense 
-"Jun 30, 2013",,End of loan,Portugal,982,Nacional ,132061,-,Eliandro,12/13,Brazil,609,Cruzeiro 
-"Aug 28, 2012",,Loan,Brazil,609,Cruzeiro ,132061,-,Eliandro,12/13,Portugal,982,Nacional 
-"Aug 27, 2012",,End of loan,Brazil,3270,Betim EC ,132061,-,Eliandro,12/13,Brazil,609,Cruzeiro 
-"Jun 1, 2012",,Loan,Brazil,609,Cruzeiro ,132061,-,Eliandro,11/12,Brazil,3270,Ipatinga FC 
-"May 1, 2012",,End of loan,Brazil,5215,Villa Nova AC ,132061,-,Eliandro,11/12,Brazil,609,Cruzeiro 
-"Jan 1, 2012",,Loan,Brazil,609,Cruzeiro ,132061,-,Eliandro,11/12,Brazil,5215,Villa Nova AC 
-"Dec 1, 2011",,End of loan,Brazil,7209,ABC ,132061,-,Eliandro,11/12,Brazil,609,Cruzeiro 
-"Sep 1, 2011",,Loan,Brazil,609,Cruzeiro ,132061,150 Th. €,Eliandro,11/12,Brazil,7209,ABC 
-"Aug 1, 2011",,End of loan,Brazil,2863,América-MG ,132061,150 Th. €,Eliandro,11/12,Brazil,609,Cruzeiro 
-"Jan 1, 2011",,Loan,Brazil,609,Cruzeiro ,132061,-,Eliandro,10/11,Brazil,2863,América-MG 
-"Nov 1, 2010",,End of loan,Brazil,8718,Sport ,132061,-,Eliandro,10/11,Brazil,609,Cruzeiro 
-"Aug 1, 2010",,Loan,Brazil,609,Cruzeiro ,132061,-,Eliandro,10/11,Brazil,8718,Sport 
-"Jan 1, 2010",,-,Brazil,16658,Cruzeiro B ,132061,-,Eliandro,09/10,Brazil,609,Cruzeiro 
-"Jul 1, 2014",,?,Mexico,23505,Leones Negros ,136897,400 Th. €,Gabriel Rodríguez,14/15,Chile,14723,Ñublense 
-"Aug 15, 2013",,Free transfer,Portugal,2424,Gil Vicente ,136897,400 Th. €,Gabriel Rodríguez,13/14,Mexico,23505,Leones Negros 
-"Jan 18, 2013",,?,Chile,14723,Ñublense ,136897,550 Th. €,Gabriel Rodríguez,12/13,Portugal,2424,Gil Vicente 
-"Jan 1, 2013",,?,Chile,6363,Audax Italiano ,136897,550 Th. €,Gabriel Rodríguez,12/13,Chile,14723,Ñublense 
-"Jan 1, 2012",,?,Argentina,12301,Aldosivi ,136897,550 Th. €,Gabriel Rodríguez,11/12,Chile,6363,Audax Italiano 
-"Jul 1, 2011",,?,Argentina,14831,Boca II ,136897,550 Th. €,Gabriel Rodríguez,11/12,Argentina,12301,Aldosivi 
-"Jun 30, 2011",,End of loan,Greece,4602,Olymp. Volos ,136897,550 Th. €,Gabriel Rodríguez,10/11,Argentina,14831,Boca II 
-"Jan 1, 2011",,Loan,Argentina,14831,Boca II ,136897,550 Th. €,Gabriel Rodríguez,10/11,Greece,4602,Olymp. Volos 
-"Dec 1, 2010",,End of loan,Chile,14723,Ñublense ,136897,500 Th. €,Gabriel Rodríguez,10/11,Argentina,14831,Boca II 
-"Dec 1, 2009",,Loan,Argentina,14831,Boca II ,136897,-,Gabriel Rodríguez,09/10,Chile,14723,Ñublense 
-"Jan 1, 2009",,-,Argentina,15098,Boca U20 ,136897,-,Gabriel Rodríguez,08/09,Argentina,14831,Boca II 
-"Jul 13, 2015",,Free transfer,Portugal,1301,Marítimo ,138649,900 Th. €,Semedo,15/16,Portugal,3349,Feirense 
-"Jun 30, 2015",,End of loan,Portugal,2424,Gil Vicente ,138649,600 Th. €,Semedo,14/15,Portugal,1301,Marítimo 
-"Feb 2, 2015",,Loan,Portugal,1301,Marítimo ,138649,400 Th. €,Semedo,14/15,Portugal,2424,Gil Vicente 
-"Dec 31, 2014",,End of loan,Portugal,4750,Olhanense ,138649,400 Th. €,Semedo,14/15,Portugal,1301,Marítimo 
-"Aug 3, 2014",,Loan,Portugal,1301,Marítimo ,138649,400 Th. €,Semedo,14/15,Portugal,4750,Olhanense 
-"Jun 30, 2014",,End of loan,Portugal,7378,Portimonense ,138649,400 Th. €,Semedo,13/14,Portugal,1301,Marítimo 
-"Jul 1, 2013",,Loan,Portugal,1301,Marítimo ,138649,400 Th. €,Semedo,13/14,Portugal,7378,Portimonense 
-"Jul 23, 2012",,Free transfer,Portugal,7378,Portimonense ,138649,400 Th. €,Semedo,12/13,Portugal,1301,Marítimo 
-"Jul 1, 2011",,Free transfer,Portugal,6986,Pinhalnovense ,138649,-,Semedo,11/12,Portugal,7378,Portimonense 
-"Jul 1, 2009",,Free transfer,Portugal,33634,Futebol Benfica ,138649,-,Semedo,09/10,Portugal,6986,Pinhalnovense 
-"Jul 1, 2008",,Free transfer,Portugal,13573,1º Dezembro ,138649,-,Semedo,08/09,Portugal,33634,Futebol Benfica 
-"Jul 1, 2007",,Free transfer,Portugal,14910,Estrela Amadora ,138649,-,Semedo,07/08,Portugal,13573,1º Dezembro 
-"Jul 1, 2015",,Free transfer,Portugal,2995,Paços Ferreira ,138652,100 Th. €,Luís Sousa,15/16,Portugal,1992,Sintrense 
-"Jun 30, 2015",,End of loan,Portugal,7811,Castelo Branco ,138652,100 Th. €,Luís Sousa,14/15,Portugal,2995,Paços Ferreira 
-"Jul 1, 2014",,Loan,Portugal,2995,Paços Ferreira ,138652,100 Th. €,Luís Sousa,14/15,Portugal,7811,Castelo Branco 
-"Jun 30, 2014",,End of loan,Portugal,3336,Desportivo Aves ,138652,100 Th. €,Luís Sousa,13/14,Portugal,2995,Paços Ferreira 
-"Jul 1, 2013",,Loan,Portugal,2995,Paços Ferreira ,138652,100 Th. €,Luís Sousa,13/14,Portugal,3336,Desportivo Aves 
-"Jan 31, 2013",,?,Portugal,6987,Fátima ,138652,-,Luís Sousa,12/13,Portugal,2995,Paços Ferreira 
-"Jul 1, 2012",,Free transfer,Portugal,7056,Mafra ,138652,-,Luís Sousa,12/13,Portugal,6987,Fátima 
-"Jul 1, 2011",,Free transfer,Portugal,6986,Pinhalnovense ,138652,-,Luís Sousa,11/12,Portugal,7056,Mafra 
-"Jul 1, 2009",,Free transfer,Portugal,4535,Odivelas ,138652,-,Luís Sousa,09/10,Portugal,6986,Pinhalnovense 
-"Jul 1, 2008",,-,Portugal,20026,Odivelas U19 ,138652,-,Luís Sousa,08/09,Portugal,4535,Odivelas 
-"Jun 30, 2016",,End of loan,Portugal,1301,Marítimo ,139337,"2,00 Mill. €",Tiago Rodrigues,15/16,Portugal,720,FC Porto 
-"Jul 31, 2015",,Loan,Portugal,720,FC Porto ,139337,"2,20 Mill. €",Tiago Rodrigues,15/16,Portugal,1301,Marítimo 
-"Jul 1, 2015",,-,Portugal,10331,Porto B ,139337,"2,20 Mill. €",Tiago Rodrigues,15/16,Portugal,720,FC Porto 
-"Jun 30, 2015",,End of loan,Portugal,982,Nacional ,139337,"1,20 Mill. €",Tiago Rodrigues,14/15,Portugal,10331,Porto B 
-"Jan 4, 2015",,Loan,Portugal,10331,Porto B ,139337,"1,70 Mill. €",Tiago Rodrigues,14/15,Portugal,982,Nacional 
-"Jun 30, 2014",,End of loan,Portugal,2420,Vit. Guimarães ,139337,"1,70 Mill. €",Tiago Rodrigues,13/14,Portugal,10331,Porto B 
-"Sep 2, 2013",,Loan,Portugal,10331,Porto B ,139337,"1,70 Mill. €",Tiago Rodrigues,13/14,Portugal,2420,Vit. Guimarães 
-"Jul 1, 2013",,500 Th. €,Portugal,2420,Vit. Guimarães ,139337,700 Th. €,Tiago Rodrigues,13/14,Portugal,10331,Porto B 
-"Jan 1, 2013",,-,Portugal,15136,Guimarães B ,139337,100 Th. €,Tiago Rodrigues,12/13,Portugal,2420,Vit. Guimarães 
-"Jun 30, 2012",,End of loan,Portugal,7789,Amarante ,139337,-,Tiago Rodrigues,11/12,Portugal,15136,Guimarães B 
-"Jul 1, 2011",,Loan,Portugal,15581,Guimarães U19 ,139337,-,Tiago Rodrigues,11/12,Portugal,7789,Amarante 
-"Jul 1, 2009",,-,Portugal,47988,VSC Juvenis ,139337,-,Tiago Rodrigues,09/10,Portugal,15581,Guimarães U19 
-"Jul 1, 2008",,Free transfer,Portugal,48365,Sporting Sub17 ,139337,-,Tiago Rodrigues,08/09,Portugal,47988,VSC Juvenis 
-"Jul 1, 2013",,-,Portugal,15136,Guimarães B ,139341,400 Th. €,Josué Sá,13/14,Portugal,2420,Vit. Guimarães 
-"Jun 30, 2012",,End of loan,Portugal,3325,Chaves ,139341,-,Josué Sá,11/12,Portugal,15136,Guimarães B 
-"Jul 1, 2011",,Loan,Portugal,15581,Guimarães U19 ,139341,-,Josué Sá,11/12,Portugal,3325,Chaves 
-"Jul 1, 2009",,-,Portugal,48365,Sporting Sub17 ,139341,-,Josué Sá,09/10,Portugal,15581,Guimarães U19 
-"Jun 30, 2016",,End of loan,Spain,681,Real Sociedad ,139396,"5,00 Mill. €",Bruma,15/16,Turkey,141,Galatasaray 
-"Jul 14, 2015",,"Loan fee:1,90 Mill. €",Turkey,141,Galatasaray ,139396,"7,25 Mill. €",Bruma,15/16,Spain,681,Real Sociedad 
-"Jun 30, 2014",,End of loan,Turkey,524,Gaziantepspor ,139396,"10,00 Mill. €",Bruma,13/14,Turkey,141,Galatasaray 
-"Jan 29, 2014",,Loan,Turkey,141,Galatasaray ,139396,"10,00 Mill. €",Bruma,13/14,Turkey,524,Gaziantepspor 
-"Sep 3, 2013",,"10,00 Mill. €",Portugal,336,Sporting CP ,139396,"2,50 Mill. €",Bruma,13/14,Turkey,141,Galatasaray 
-"Feb 4, 2013",,-,Portugal,10949,Sporting B ,139396,"1,70 Mill. €",Bruma,12/13,Portugal,336,Sporting CP 
-"Jul 1, 2012",,-,Portugal,10283,Sporting U19 ,139396,-,Bruma,12/13,Portugal,10949,Sporting B 
-"Jul 1, 2011",,-,Portugal,48365,Sporting Sub17 ,139396,-,Bruma,11/12,Portugal,10283,Sporting U19 
-"Jan 6, 2016",,?,Ecuador,4561,CS Emelec ,141444,500 Th. €,Vinicio Angulo,15/16,Mexico,40188,San Luis 
-"Dec 31, 2015",,End of loan,Mexico,30111,Oaxaca ,141444,500 Th. €,Vinicio Angulo,15/16,Ecuador,4561,CS Emelec 
-"Jul 8, 2015",,Loan,Ecuador,4561,CS Emelec ,141444,500 Th. €,Vinicio Angulo,15/16,Mexico,30111,Oaxaca 
-"Jun 30, 2015",,End of loan,Mexico,10091,Dorados de Sin. ,141444,500 Th. €,Vinicio Angulo,14/15,Ecuador,4561,CS Emelec 
-"Jan 7, 2015",,Loan,Ecuador,4561,CS Emelec ,141444,500 Th. €,Vinicio Angulo,14/15,Mexico,10091,Dorados de Sin. 
-"Aug 4, 2014",,End of loan,Ecuador,1143,CD El Nacional ,141444,800 Th. €,Vinicio Angulo,14/15,Ecuador,4561,CS Emelec 
-"Feb 11, 2014",,Loan,Ecuador,4561,CS Emelec ,141444,450 Th. €,Vinicio Angulo,13/14,Ecuador,1143,CD El Nacional 
-"Jan 28, 2013",,?,Ecuador,25952,Norte América ,141444,-,Vinicio Angulo,12/13,Ecuador,4561,CS Emelec 
-"Jan 25, 2013",,End of loan,Portugal,2995,Paços Ferreira ,141444,-,Vinicio Angulo,12/13,Ecuador,25952,Norte América 
-"Sep 3, 2012",,Loan,Ecuador,25952,Norte América ,141444,-,Vinicio Angulo,12/13,Portugal,2995,Paços Ferreira 
-"Jun 26, 2012",,?,Ecuador,19309,Independiente ,141444,-,Vinicio Angulo,11/12,Ecuador,25952,Norte América 
-"Jan 2, 2012",,Free transfer,Ecuador,3523,Barcelona SC ,141444,-,Vinicio Angulo,11/12,Ecuador,19309,Independiente 
-"Jan 20, 2009",,-,Ecuador,19309,Independiente ,141444,-,Vinicio Angulo,08/09,Ecuador,3523,Barcelona SC 
-"Feb 26, 2008",,?,Ecuador,22587,Barca SC U20 ,141444,-,Vinicio Angulo,07/08,Ecuador,19309,Independiente 
-"Nov 18, 2007",,End of loan,Ecuador,25544,Alfaro Moreno ,141444,-,Vinicio Angulo,07/08,Ecuador,22587,Barca SC U20 
-"Sep 4, 2007",,Loan,Ecuador,22587,Barca SC U20 ,141444,-,Vinicio Angulo,07/08,Ecuador,25544,Alfaro Moreno 
-"May 22, 2007",,?,Ecuador,30730,CSCD Fedeguayas ,141444,-,Vinicio Angulo,06/07,Ecuador,22587,Barca SC U20 
-"Feb 3, 2016",,Free transfer,Brazil,12037,Friburguense ,147369,100 Th. €,Thalles,15/16,Brazil,33171,Atibaia-SP 
-"Dec 2, 2014",,-,Brazil,515,Unattached ,147369,100 Th. €,Thalles,14/15,,12037,Friburguense 
-"Jul 1, 2013",,-,Portugal,4750,Olhanense ,147369,100 Th. €,Thalles,13/14,,515,Unattached 
-"Jan 1, 2013",,Free transfer,Brazil,14807,Palmeiras B ,147369,-,Thalles,12/13,Portugal,4750,Olhanense 
-"Jan 1, 2012",,Free transfer,Brazil,5677,Vila Nova ,147369,-,Thalles,11/12,Brazil,14807,Palmeiras B 
-"Oct 1, 2011",,End of loan,Brazil,12421,Itumbiara ,147369,-,Thalles,11/12,Brazil,5677,Vila Nova 
-"Sep 1, 2011",,Loan,Brazil,5677,Vila Nova ,147369,-,Thalles,11/12,Brazil,12421,Itumbiara 
-"Jan 1, 2011",,-,Brazil,18664,Vila Nova ,147369,-,Thalles,10/11,Brazil,5677,Vila Nova 
-"Jul 1, 2014",,-,Thailand,515,Unattached ,147881,"1,00 Mill. €",Márcio Rosário,14/15,,34853,Suphanburi FC 
-"Apr 2, 2014",,-,Portugal,1301,Marítimo ,147881,"1,00 Mill. €",Márcio Rosário,13/14,,515,Unattached 
-"Aug 12, 2012",,Free transfer,Brazil,2646,Náutico ,147881,400 Th. €,Márcio Rosário,12/13,Portugal,1301,Marítimo 
-"May 1, 2012",,Free transfer,Brazil,2462,Fluminense ,147881,750 Th. €,Márcio Rosário,11/12,Brazil,2646,Náutico 
-"May 1, 2011",,Free transfer,Brazil,537,Botafogo ,147881,750 Th. €,Márcio Rosário,10/11,Brazil,2462,Fluminense 
-"Aug 1, 2010",,Free transfer,United Arab Emirates,2524,Al-Jazira ,147881,-,Márcio Rosário,10/11,Brazil,537,Botafogo 
-"Aug 1, 2008",,?,Brazil,25993,Linhares-ES ,147881,-,Márcio Rosário,08/09,United Arab Emirates,2524,Al-Jazira 
-"Jun 30, 2008",,End of loan,Brazil,1751,América-RN ,147881,-,Márcio Rosário,07/08,Brazil,25993,Linhares-ES 
-"May 1, 2008",,Loan,Brazil,25993,Linhares-ES ,147881,-,Márcio Rosário,07/08,Brazil,1751,América-RN 
-"Apr 1, 2008",,End of loan,Brazil,616,Esporte Clube Internacional (RS) ,147881,-,Márcio Rosário,07/08,Brazil,25993,Linhares-ES 
-"Jan 1, 2008",,Loan,Brazil,25993,Linhares-ES ,147881,-,Márcio Rosário,07/08,Brazil,616,Esporte Clube Internacional (RS) 
-"Dec 1, 2007",,End of loan,Brazil,4906,Macaé ,147881,-,Márcio Rosário,07/08,Brazil,25993,Linhares-ES 
-"Sep 1, 2007",,Loan,Brazil,25993,Linhares-ES ,147881,-,Márcio Rosário,07/08,Brazil,4906,Macaé 
-"Dec 15, 2015",,-,Brazil,27323,Coimbra-MG ,149244,800 Th. €,Afonso,15/16,,515,Unattached 
-"May 1, 2015",,?,Brazil,18545,Alagoano ,149244,800 Th. €,Afonso,14/15,Brazil,27323,Coimbra-MG 
-"Oct 17, 2014",,?,Brazil,9030,Botafogo FC ,149244,800 Th. €,Afonso,14/15,Brazil,18545,Alagoano 
-"Dec 31, 2013",,?,Brazil,11449,CRB ,149244,800 Th. €,Afonso,13/14,Brazil,9030,Botafogo FC 
-"Jul 1, 2013",,?,Brazil,3266,Corinthians ,149244,800 Th. €,Afonso,13/14,Brazil,11449,CRB 
-"Jun 30, 2013",,End of loan,Portugal,2990,Coimbra ,149244,800 Th. €,Afonso,12/13,Brazil,3266,Corinthians 
-"Jul 1, 2012",,Loan,Brazil,3266,Corinthians ,149244,75 Th. €,Afonso,12/13,Portugal,2990,Coimbra 
-"Dec 1, 2011",,End of loan,Japan,596,Gamba Osaka ,149244,75 Th. €,Afonso,11/12,Brazil,3266,Corinthians 
-"Mar 1, 2011",,Loan,Brazil,3266,Corinthians ,149244,-,Afonso,10/11,Japan,596,Gamba Osaka 
-"Aug 1, 2010",,End of loan,Brazil,20092,ASA ,149244,-,Afonso,10/11,Brazil,3266,Corinthians 
-"May 1, 2010",,Loan,Brazil,3266,Corinthians ,149244,-,Afonso,09/10,Brazil,20092,ASA 
-"Jun 30, 2016",,End of loan,Belgium,29228,Mouscron ,150568,"1,00 Mill. €",Valentín Viola,15/16,Cyprus,429,Apol. Limassol 
-"Jan 15, 2016",,-,Portugal,10949,Sporting B ,150568,"2,50 Mill. €",Valentín Viola,15/16,Cyprus,429,Apol. Limassol 
-"Jan 15, 2016",,Loan,Cyprus,429,Apol. Limassol ,150568,"2,50 Mill. €",Valentín Viola,15/16,Belgium,29228,Mouscron 
-"Jul 1, 2015",,-,Portugal,336,Sporting CP ,150568,"2,50 Mill. €",Valentín Viola,15/16,Portugal,10949,Sporting B 
-"Jun 30, 2015",,End of loan,Turkey,1506,Karabükspor ,150568,"2,50 Mill. €",Valentín Viola,14/15,Portugal,336,Sporting CP 
-"Aug 1, 2014",,Loan fee:200 Th. €,Portugal,336,Sporting CP ,150568,"2,50 Mill. €",Valentín Viola,14/15,Turkey,1506,Karabükspor 
-"Jun 30, 2014",,End of loan,Argentina,1444,Racing Club ,150568,"2,50 Mill. €",Valentín Viola,13/14,Portugal,336,Sporting CP 
-"Aug 1, 2013",,Loan fee:450 Th. €,Portugal,336,Sporting CP ,150568,"2,50 Mill. €",Valentín Viola,13/14,Argentina,1444,Racing Club 
-"Jul 31, 2012",,"4,00 Mill. €",Argentina,1444,Racing Club ,150568,"1,40 Mill. €",Valentín Viola,12/13,Portugal,336,Sporting CP 
-"Jan 1, 2011",,-,Argentina,15119,Racing U20 ,150568,50 Th. €,Valentín Viola,10/11,Argentina,1444,Racing Club 
-"Jan 28, 2016",,Free transfer,Brazil,21829,Oeste ,151142,150 Th. â‚¬,JÃºnior Lopes,15/16,Brazil,17561,Boa Esporte 
-"Aug 4, 2015",,Free transfer,Brazil,3197,GoiÃ¡s EC ,151142,100 Th. â‚¬,JÃºnior Lopes,15/16,Brazil,21829,Oeste 
-"Jan 6, 2015",,Free transfer,Brazil,22790,Guarany-CE ,151142,100 Th. â‚¬,JÃºnior Lopes,14/15,Brazil,3197,GoiÃ¡s EC 
-"Jul 1, 2014",,?,Brazil,309,ParanÃ¡ ,151142,100 Th. â‚¬,JÃºnior Lopes,14/15,Brazil,22790,Guarany-CE 
-"Jan 1, 2014",,?,Brazil,16108,Nova IguaÃ§u ,151142,100 Th. â‚¬,JÃºnior Lopes,13/14,Brazil,309,ParanÃ¡ 
-"Jun 1, 2013",,Free transfer,Portugal,2990,Coimbra ,151142,100 Th. â‚¬,JÃºnior Lopes,12/13,Brazil,16108,Nova IguaÃ§u 
-"Jul 1, 2012",,Free transfer,Brazil,8793,Bragantino ,151142,-,JÃºnior Lopes,12/13,Portugal,2990,Coimbra 
-"May 1, 2010",,Free transfer,Brazil,22332,Horizonte ,151142,-,JÃºnior Lopes,09/10,Brazil,8793,Bragantino 
-"Aug 18, 2015",,"1,80 Mill. €",Portugal,1465,Estoril ,152176,"3,20 Mill. €",Sebá,15/16,Greece,683,Olympiacos 
-"Jul 12, 2013",,250 Th. €,Brazil,609,Cruzeiro ,152176,"1,00 Mill. €",Sebá,13/14,Portugal,1465,Estoril 
-"Jun 30, 2013",,End of loan,Portugal,10331,Porto B ,152176,"1,00 Mill. €",Sebá,12/13,Brazil,609,Cruzeiro 
-"Jul 1, 2012",,Loan,Brazil,609,Cruzeiro ,152176,250 Th. €,Sebá,12/13,Portugal,10331,Porto B 
-"May 1, 2012",,End of loan,Brazil,32405,Nacional-MG ,152176,250 Th. €,Sebá,11/12,Brazil,609,Cruzeiro 
-"Jan 1, 2012",,Loan,Brazil,609,Cruzeiro ,152176,250 Th. €,Sebá,11/12,Brazil,32405,Nacional-MG 
-"May 1, 2011",,End of loan,Brazil,32405,Nacional-MG ,152176,-,Sebá,10/11,Brazil,609,Cruzeiro 
-"Feb 1, 2011",,Loan,Brazil,609,Cruzeiro ,152176,-,Sebá,10/11,Brazil,32405,Nacional-MG 
-"Jan 1, 2011",,-,Brazil,16658,Cruzeiro B ,152176,-,Sebá,10/11,Brazil,609,Cruzeiro 
-"Sep 14, 2014",,-,Portugal,7179,Tondela ,153673,200 Th. €,Ricardo Andrade,14/15,,515,Unattached 
-"Jul 1, 2013",,?,Portugal,979,Moreirense  ,153673,200 Th. €,Ricardo Andrade,13/14,Portugal,7179,Tondela 
-"Jul 1, 2011",,?,Portugal,6987,Fátima ,153673,150 Th. €,Ricardo Andrade,11/12,Portugal,979,Moreirense  
-"Jan 1, 2011",,Free transfer,Portugal,3345,Leixões ,153673,-,Ricardo Andrade,10/11,Portugal,6987,Fátima 
-"Jul 1, 2010",,?,Portugal,979,Moreirense  ,153673,-,Ricardo Andrade,10/11,Portugal,3345,Leixões 
-"Jul 1, 2009",,?,Brazil,5120,Brasinha ,153673,-,Ricardo Andrade,09/10,Portugal,979,Moreirense  
-"Jul 1, 2015",,Free transfer,Portugal,4750,Olhanense ,158375,700 Th. €,Ricardo Ribeiro,15/16,Portugal,2457,Belenenses 
-"Feb 2, 2015",,?,Portugal,7788,Académico Viseu ,158375,600 Th. €,Ricardo Ribeiro,14/15,Portugal,4750,Olhanense 
-"Sep 1, 2014",,?,Portugal,979,Moreirense  ,158375,600 Th. €,Ricardo Ribeiro,14/15,Portugal,7788,Académico Viseu 
-"Jun 30, 2014",,End of loan,Portugal,1465,Estoril ,158375,800 Th. €,Ricardo Ribeiro,13/14,Portugal,979,Moreirense  
-"Jul 1, 2013",,Loan,Portugal,979,Moreirense  ,158375,800 Th. €,Ricardo Ribeiro,13/14,Portugal,1465,Estoril 
-"Jan 1, 2008",,-,Portugal,15570,Moreirense FC U19 ,158375,-,Ricardo Ribeiro,07/08,Portugal,979,Moreirense  
-"Aug 27, 2015",,Free transfer,Portugal,1301,Marítimo ,158516,"1,40 Mill. €",Gegé,15/16,Portugal,8024,Arouca 
-"Jul 1, 2012",,?,Portugal,10140,Covilhã ,158516,250 Th. €,Gegé,12/13,Portugal,1301,Marítimo 
-"Jul 1, 2011",,?,Portugal,3348,Trofense ,158516,100 Th. €,Gegé,11/12,Portugal,10140,Covilhã 
-"Jul 1, 2010",,?,Portugal,2431,Estrela Amadora ,158516,-,Gegé,10/11,Portugal,3348,Trofense 
-"Jul 1, 2009",,?,Portugal,4751,Sporting Pombal ,158516,-,Gegé,09/10,Portugal,2431,Estrela Amadora 
-"Aug 27, 2015",,"9,50 Mill. €",Portugal,1075,Braga ,159142,"7,50 Mill. €",Aderlan Santos,15/16,Spain,1049,Valencia CF 
-"Jul 1, 2013",,-,Portugal,10789,Braga B ,159142,500 Th. €,Aderlan Santos,13/14,Portugal,1075,Braga 
-"Jul 1, 2012",,?,Portugal,3348,Trofense ,159142,350 Th. €,Aderlan Santos,12/13,Portugal,10789,Braga B 
-"Jul 1, 2010",,?,Brazil,22952,Salgueiro ,159142,-,Aderlan Santos,10/11,Portugal,3348,Trofense 
-"Jun 30, 2016",,End of loan,Portugal,7179,Tondela ,159570,700 Th. €,Bruno Nascimento,15/16,Germany,3,1. FC Köln 
-"Jul 15, 2015",,Loan,Germany,3,1. FC Köln ,159570,400 Th. €,Bruno Nascimento,15/16,Portugal,7179,Tondela 
-"Jun 30, 2015",,End of loan,Portugal,1465,Estoril ,159570,250 Th. €,Bruno Nascimento,14/15,Germany,3,1. FC Köln 
-"Aug 13, 2014",,Loan,Germany,3,1. FC Köln ,159570,300 Th. €,Bruno Nascimento,14/15,Portugal,1465,Estoril 
-"Jul 1, 2013",,?,Brazil,17300,Desp. Brasil ,159570,600 Th. €,Bruno Nascimento,13/14,Germany,3,1. FC Köln 
-"Jun 30, 2013",,End of loan,Germany,3,1. FC Köln ,159570,600 Th. €,Bruno Nascimento,12/13,Brazil,17300,Desp. Brasil 
-"Jan 29, 2013",,Loan,Brazil,17300,Desp. Brasil ,159570,500 Th. €,Bruno Nascimento,12/13,Germany,3,1. FC Köln 
-"Jan 28, 2013",,End of loan,Portugal,1465,Estoril ,159570,500 Th. €,Bruno Nascimento,12/13,Brazil,17300,Desp. Brasil 
-"Aug 1, 2010",,Loan,Brazil,17300,Desp. Brasil ,159570,-,Bruno Nascimento,10/11,Portugal,1465,Estoril 
-"Feb 10, 2016",,Free transfer,Brazil,33313,Galícia-BA ,160681,100 Th. €,Pedro Henrique,15/16,Romania,36590,Poli Timisoara 
-"Jul 1, 2015",,Free transfer,Romania,36590,Poli Timisoara ,160681,450 Th. €,Pedro Henrique,15/16,Brazil,33313,Galícia-BA 
-"Aug 27, 2014",,?,Brazil,33313,Galícia-BA ,160681,400 Th. €,Pedro Henrique,14/15,Romania,36590,Poli Timisoara 
-"Jan 1, 2014",,?,Portugal,1465,Estoril ,160681,400 Th. €,Pedro Henrique,13/14,Brazil,33313,Galícia-BA 
-"Jun 30, 2013",,End of loan,Portugal,10140,Covilhã ,160681,400 Th. €,Pedro Henrique,12/13,Portugal,1465,Estoril 
-"Jan 31, 2013",,Loan,Portugal,1465,Estoril ,160681,400 Th. €,Pedro Henrique,12/13,Portugal,10140,Covilhã 
-"Jul 1, 2012",,?,Portugal,2421,Freamunde ,160681,100 Th. €,Pedro Henrique,12/13,Portugal,1465,Estoril 
-"Jul 1, 2010",,-,Portugal,515,Unattached ,160681,-,Pedro Henrique,10/11,,2421,Freamunde 
-"Jan 1, 2010",,-,Brazil,15466,Sport Club Internacional B ,160681,-,Pedro Henrique,09/10,,515,Unattached 
-"Jul 1, 2008",,Free transfer,Brazil,14724,Club de Regatas Vasco da Gama B ,160681,-,Pedro Henrique,08/09,Brazil,15466,Sport Club Internacional B 
-"Jul 1, 2014",,-,Portugal,515,Unattached ,168672,500 Th. €,Feliz,14/15,,3329,Famalicão 
-"Jul 1, 2013",,-,Portugal,6144,Ribeirão ,168672,450 Th. €,Feliz,13/14,,515,Unattached 
-"Jul 1, 2012",,-,Portugal,2425,Rio Ave FC ,168672,450 Th. €,Feliz,12/13,Portugal,6144,Ribeirão 
-"Jun 30, 2012",,End of loan,Portugal,3348,Trofense ,168672,450 Th. €,Feliz,11/12,Portugal,2425,Rio Ave FC 
-"Aug 1, 2011",,Loan,Portugal,2425,Rio Ave FC ,168672,-,Feliz,11/12,Portugal,3348,Trofense 
-"Jul 1, 2011",,Free transfer,Portugal,6144,Ribeirão ,168672,-,Feliz,11/12,Portugal,2425,Rio Ave FC 
-"Jul 1, 2010",,?,Portugal,8187,Serzedelo ,168672,-,Feliz,10/11,Portugal,6144,Ribeirão 
-"Jul 1, 2008",,?,Portugal,15581,Guimarães U19 ,168672,-,Feliz,08/09,Portugal,8187,Serzedelo 
-"Jul 1, 2013",,Free transfer,Portugal,979,Moreirense  ,168674,500 Th. €,Augusto,13/14,France,2067,US Créteil 
-"Jul 1, 2011",,Free transfer,Portugal,6144,Ribeirão ,168674,-,Augusto,11/12,Portugal,979,Moreirense  
-"Jul 1, 2012",,-,Portugal,15019,Setúbal U19 ,169681,-,Frederico Venâncio,12/13,Portugal,1085,Vitória Setúbal 
-"Jan 1, 2012",,?,Portugal,8889,Benfica U19 ,169681,-,Frederico Venâncio,11/12,Portugal,15019,Setúbal U19 
-"Jul 1, 2013",,125 Th. €,Portugal,1436,Beira-Mar ,171068,400 Th. €,Hélder Lopes,13/14,Portugal,2995,Paços Ferreira 
-"Jul 1, 2012",,Free transfer,Portugal,7179,Tondela ,171068,-,Hélder Lopes,12/13,Portugal,1436,Beira-Mar 
-"Jul 1, 2011",,Free transfer,Portugal,3265,Espinho ,171068,-,Hélder Lopes,11/12,Portugal,7179,Tondela 
-"Jul 1, 2010",,Free transfer,Portugal,25835,Oliveira Douro ,171068,-,Hélder Lopes,10/11,Portugal,3265,Espinho 
-"Dec 1, 2009",,Free transfer,Portugal,10005,Mirandela ,171068,-,Hélder Lopes,09/10,Portugal,25835,Oliveira Douro 
-"Dec 1, 2008",,Free transfer,Portugal,48010,CD Candal Sub19 ,171068,-,Hélder Lopes,08/09,Portugal,10005,Mirandela 
-"Dec 1, 2006",,Free transfer,Portugal,48036,Padroense Sub19 ,171068,-,Hélder Lopes,06/07,Portugal,48010,CD Candal Sub19 
-"Jan 1, 2015",,Free transfer,Brazil,17964,Botafogo ,175377,-,Pio,14/15,Brazil,10870,Fortaleza 
-"May 1, 2013",,Free transfer,Brazil,3876,Mirassol Futebol Clube (SP) ,175377,-,Pio,12/13,Brazil,17964,Botafogo 
-"Feb 1, 2013",,Free transfer,Brazil,25671,Monte Azul-SP ,175377,-,Pio,12/13,Brazil,3876,Mirassol Futebol Clube (SP) 
-"Jan 8, 2013",,End of loan,Portugal,2424,Gil Vicente ,175377,-,Pio,12/13,Brazil,25671,Monte Azul-SP 
-"Jul 1, 2012",,Loan,Brazil,25671,Monte Azul-SP ,175377,-,Pio,12/13,Portugal,2424,Gil Vicente 
-"May 31, 2012",,End of loan,Brazil,15064,Guaratinguetá ,175377,-,Pio,11/12,Brazil,25671,Monte Azul-SP 
-"Feb 1, 2012",,Loan,Brazil,25671,Monte Azul-SP ,175377,-,Pio,11/12,Brazil,15064,Guaratinguetá 
-"Jan 1, 2012",,Free transfer,Brazil,7209,ABC ,175377,-,Pio,11/12,Brazil,25671,Monte Azul-SP 
-"Sep 1, 2010",,Free transfer,Brazil,11086,Treze Futebol Clube (PB) ,175377,-,Pio,10/11,Brazil,7209,ABC 
-"Jul 31, 2014",,"5,00 Mill. €",Portugal,336,Sporting CP ,175722,"3,50 Mill. €",Eric Dier,14/15,England,148,Spurs 
-"Jan 1, 2013",,-,Portugal,10949,Sporting B ,175722,600 Th. €,Eric Dier,12/13,Portugal,336,Sporting CP 
-"Jun 30, 2012",,End of loan,England,9261,Everton U21 ,175722,-,Eric Dier,11/12,Portugal,10949,Sporting B 
-"Jan 1, 2011",,Loan,Portugal,10949,Sporting B ,175722,-,Eric Dier,10/11,England,9261,Everton U21 
-"Feb 29, 2016",,-,Brazil,515,Unattached ,177544,650 Th. €,Revson,15/16,,46403,Inter de Lages 
-"Dec 8, 2015",,-,Brazil,2035,Avaí ,177544,750 Th. €,Revson,15/16,,515,Unattached 
-"Nov 30, 2015",,End of loan,Brazil,21599,Luverdense ,177544,750 Th. €,Revson,15/16,Brazil,2035,Avaí 
-"Aug 26, 2015",,Loan,Brazil,2035,Avaí ,177544,750 Th. €,Revson,15/16,Brazil,21599,Luverdense 
-"Jan 2, 2014",,Free transfer,Portugal,982,Nacional ,177544,700 Th. €,Revson,13/14,Brazil,2035,Avaí 
-"Oct 19, 2013",,End of loan,Bulgaria,208,CSKA Sofia ,177544,700 Th. €,Revson,13/14,Portugal,982,Nacional 
-"Jul 1, 2013",,Loan,Portugal,982,Nacional ,177544,700 Th. €,Revson,13/14,Bulgaria,208,CSKA Sofia 
-"Jul 1, 2012",,Free transfer,Brazil,291,São Caetano ,177544,150 Th. €,Revson,12/13,Portugal,982,Nacional 
-"Jul 1, 2011",,Free transfer,Brazil,2035,Avaí ,177544,150 Th. €,Revson,11/12,Brazil,291,São Caetano 
-"Jan 1, 2011",,-,Brazil,17660,Avaí ,177544,-,Revson,10/11,Brazil,2035,Avaí 
-"Sep 1, 2010",,Free transfer,Brazil,27275,Pato Branco-PR ,177544,-,Revson,10/11,Brazil,17660,Avaí 
-"Jun 30, 2015",,End of loan,Portugal,7378,Portimonense ,179043,150 Th. â‚¬,Dieguinho,14/15,Portugal,1465,Estoril 
-"Feb 1, 2015",,Loan,Portugal,1465,Estoril ,179043,150 Th. â‚¬,Dieguinho,14/15,Portugal,7378,Portimonense 
-"Jan 16, 2015",,Free transfer,Portugal,1436,Beira-Mar ,179043,150 Th. â‚¬,Dieguinho,14/15,Portugal,1465,Estoril 
-"Jul 1, 2013",,?,Brazil,17300,Desp. Brasil ,179043,100 Th. â‚¬,Dieguinho,13/14,Portugal,1436,Beira-Mar 
-"May 1, 2013",,End of loan,Portugal,1465,Estoril ,179043,100 Th. â‚¬,Dieguinho,12/13,Brazil,17300,Desp. Brasil 
-"Jul 1, 2012",,Loan,Brazil,17300,Desp. Brasil ,179043,-,Dieguinho,12/13,Portugal,1465,Estoril 
-"Jun 30, 2012",,End of loan,Brazil,309,ParanÃ¡ ,179043,-,Dieguinho,11/12,Brazil,17300,Desp. Brasil 
-"Apr 1, 2012",,Loan,Brazil,17300,Desp. Brasil ,179043,-,Dieguinho,11/12,Brazil,309,ParanÃ¡ 
-"Mar 1, 2012",,End of loan,Brazil,2035,AvaÃ­ ,179043,-,Dieguinho,11/12,Brazil,17300,Desp. Brasil 
-"Sep 1, 2011",,Loan,Brazil,17300,Desp. Brasil ,179043,-,Dieguinho,11/12,Brazil,2035,AvaÃ­ 
-"Aug 1, 2011",,End of loan,Brazil,309,ParanÃ¡ ,179043,-,Dieguinho,11/12,Brazil,17300,Desp. Brasil 
-"Jun 1, 2011",,Loan,Brazil,17300,Desp. Brasil ,179043,-,Dieguinho,10/11,Brazil,309,ParanÃ¡ 
-"May 1, 2011",,?,Brazil,309,ParanÃ¡ ,179043,-,Dieguinho,10/11,Brazil,17300,Desp. Brasil 
-"Mar 1, 2011",,-,Brazil,16670,ParanÃ¡ B ,179043,-,Dieguinho,10/11,Brazil,309,ParanÃ¡ 
-"Jul 16, 2015",,Free transfer,Portugal,2420,Vit. Guimarães ,179350,"1,40 Mill. €",Nii Plange,15/16,Portugal,2990,Coimbra 
-"Sep 2, 2013",,Free transfer,Portugal,10949,Sporting B ,179350,300 Th. €,Nii Plange,13/14,Portugal,2420,Vit. Guimarães 
-"Jul 1, 2012",,Free transfer,Ghana,9082,Fetteh Feyenoord ,179350,-,Nii Plange,12/13,Portugal,10949,Sporting B 
-"Jun 30, 2009",,End of loan,Cote d'Ivoire,3891,ASEC Mimosas ,179350,-,Nii Plange,08/09,Ghana,9082,Fetteh Feyenoord 
-"Jul 1, 2008",,Loan,Ghana,9082,Fetteh Feyenoord ,179350,-,Nii Plange,08/09,Cote d'Ivoire,3891,ASEC Mimosas 
-"Jun 30, 2012",,End of loan,Portugal,5753,Camacha ,191179,-,Douglas Pará,11/12,Portugal,982,Nacional 
-"Jul 1, 2011",,Loan,Portugal,982,Nacional ,191179,-,Douglas Pará,11/12,Portugal,5753,Camacha 
-"Jun 1, 2011",,?,Brazil,32079,Angra-RJ ,191179,-,Douglas Pará,10/11,Portugal,982,Nacional 
-"Jun 30, 2016",,End of loan,Spain,3368,Levante UD ,193515,"2,00 Mill. €",Nabil Ghilas,15/16,Portugal,720,FC Porto 
-"Jul 10, 2015",,Loan,Portugal,720,FC Porto ,193515,"3,50 Mill. €",Nabil Ghilas,15/16,Spain,3368,Levante UD 
-"Jun 30, 2015",,End of loan,Spain,993,Córdoba CF ,193515,"3,50 Mill. €",Nabil Ghilas,14/15,Portugal,720,FC Porto 
-"Sep 1, 2014",,Loan,Portugal,720,FC Porto ,193515,"4,00 Mill. €",Nabil Ghilas,14/15,Spain,993,Córdoba CF 
-"Jul 8, 2013",,"3,80 Mill. €",Portugal,979,Moreirense  ,193515,"3,70 Mill. €",Nabil Ghilas,13/14,Portugal,720,FC Porto 
-"Jun 30, 2011",,End of loan,Portugal,6912,Vizela ,193515,-,Nabil Ghilas,10/11,Portugal,979,Moreirense  
-"Jul 2, 2010",,Loan,Portugal,979,Moreirense  ,193515,-,Nabil Ghilas,10/11,Portugal,6912,Vizela 
-"Jul 1, 2010",,Free transfer,France,7670,Cassis Carnoux ,193515,-,Nabil Ghilas,10/11,Portugal,979,Moreirense  
-"Jun 30, 2015",,End of loan,Portugal,979,Moreirense  ,197157,900 Th. €,Gerso,14/15,Portugal,1465,Estoril 
-"Jul 30, 2014",,Loan,Portugal,1465,Estoril ,197157,700 Th. €,Gerso,14/15,Portugal,979,Moreirense  
-"Dec 31, 2011",,End of loan,Portugal,6156,Tourizense ,197157,-,Gerso,10/11,Portugal,2990,Coimbra 
-"Jul 1, 2011",,Free transfer,Portugal,2990,Coimbra ,197157,-,Gerso,11/12,Portugal,1465,Estoril 
-"Aug 1, 2010",,Free transfer,Portugal,2990,Coimbra ,197157,-,Gerso,10/11,Portugal,6156,Tourizense 
-"Jul 1, 2010",,-,Portugal,15559,Académica U19 ,197157,-,Gerso,10/11,Portugal,2990,Coimbra 
-"Jul 1, 2015",,?,Portugal,2503,Boavista ,204453,750 Th. €,Brito,15/16,Angola,26740,C.R.D. Libolo 
-"Jul 1, 2014",,?,Portugal,2424,Gil Vicente ,204453,500 Th. €,Brito,14/15,Portugal,2503,Boavista 
-"Jul 1, 2012",,?,Portugal,2432,Torreense ,204453,-,Brito,12/13,Portugal,2424,Gil Vicente 
-"Jul 1, 2011",,?,Portugal,19561,Sertanense ,204453,-,Brito,11/12,Portugal,2432,Torreense 
-"Jun 1, 2015",,Free transfer,,75,Unknown ,211305,200 Th. €,Nilson Júnior,14/15,,75,Unknown 
-"Jan 1, 2015",,Free transfer,Brazil,11449,CRB ,211305,200 Th. €,Nilson Júnior,14/15,,75,Unknown 
-"Jun 30, 2013",,End of loan,Portugal,979,Moreirense  ,211305,200 Th. €,Nilson Júnior,12/13,Brazil,11449,CRB 
-"Jul 1, 2012",,Loan,Brazil,11449,CRB ,211305,-,Nilson Júnior,12/13,Portugal,979,Moreirense  
-"Jan 1, 2011",,-,Brazil,17952,CRB ,211305,-,Nilson Júnior,10/11,Brazil,11449,CRB 
-"Jun 30, 2016",,End of loan,Portugal,1075,Braga ,212899,"2,00 Mill. €",Filipe Augusto,15/16,Portugal,2425,Rio Ave FC 
-"Aug 31, 2015",,Loan,Portugal,2425,Rio Ave FC ,212899,"2,00 Mill. €",Filipe Augusto,15/16,Portugal,1075,Braga 
-"Jun 30, 2015",,End of loan,Spain,1049,Valencia CF ,212899,"2,00 Mill. €",Filipe Augusto,14/15,Portugal,2425,Rio Ave FC 
-"Sep 1, 2014",,Loan,Portugal,2425,Rio Ave FC ,212899,"2,00 Mill. €",Filipe Augusto,14/15,Spain,1049,Valencia CF 
-"Jul 1, 2012",,"2,20 Mill. €",Brazil,10010,Bahia ,212899,200 Th. €,Filipe Augusto,12/13,Portugal,2425,Rio Ave FC 
-"Jan 1, 2012",,-,Brazil,17817,EC Bahia B ,212899,-,Filipe Augusto,11/12,Brazil,10010,Bahia 
-"Aug 26, 2015",,Free transfer,Greece,5219,AOK Kerkyra ,214860,250 Th. €,Konstantinos Manolas,15/16,Greece,2672,APO Levadiakos 
-"Jan 27, 2015",,Free transfer,Greece,7646,AO Chania ,214860,200 Th. €,Konstantinos Manolas,14/15,Greece,5219,AOK Kerkyra 
-"Aug 27, 2013",,Free transfer,Greece,2672,APO Levadiakos ,214860,100 Th. €,Konstantinos Manolas,13/14,Greece,7646,AO Chania 
-"Jul 17, 2012",,Free transfer,Greece,6678,Thrasyvoulos ,214860,50 Th. €,Konstantinos Manolas,12/13,Greece,2672,APO Levadiakos 
-"Jan 1, 2012",,Free transfer,Greece,7632,AEK Athens U20 ,214860,-,Konstantinos Manolas,11/12,Greece,6678,Thrasyvoulos 
-"Jul 14, 2015",,Free transfer,Italy,130,Parma ,216259,400 Th. â‚¬,Lucas Souza,15/16,Portugal,7179,Tondela 
-"Jun 30, 2015",,End of loan,Portugal,979,Moreirense  ,216259,600 Th. â‚¬,Lucas Souza,14/15,Italy,130,Parma 
-"Feb 1, 2015",,Loan,Italy,130,Parma ,216259,600 Th. â‚¬,Lucas Souza,14/15,Portugal,979,Moreirense  
-"Aug 25, 2014",,700 Th. â‚¬,Portugal,4750,Olhanense ,216259,700 Th. â‚¬,Lucas Souza,14/15,Italy,130,Parma 
-"Jan 1, 2013",,Free transfer,Brazil,309,ParanÃ¡ ,216259,-,Lucas Souza,12/13,Portugal,4750,Olhanense 
-"Jan 1, 2012",,Free transfer,Brazil,8144,Clube AtlÃ©tico Juventus (SP) ,216259,-,Lucas Souza,11/12,Brazil,309,ParanÃ¡ 
-"Jul 1, 2015",,"15,00 Mill. €",Portugal,294,Benfica ,221025,"20,00 Mill. €",André Gomes,15/16,Spain,1049,Valencia CF 
-"Jun 30, 2015",,End of loan,Spain,1049,Valencia CF ,221025,"15,00 Mill. €",André Gomes,14/15,Portugal,294,Benfica 
-"Jul 17, 2014",,Loan,Portugal,294,Benfica ,221025,"5,00 Mill. €",André Gomes,14/15,Spain,1049,Valencia CF 
-"Jul 1, 2012",,-,Portugal,8889,Benfica U19 ,221025,-,André Gomes,12/13,Portugal,294,Benfica 
-"Jun 30, 2015",,End of loan,Portugal,8024,Arouca ,234449,750 Th. €,Fabrice Fokobo,14/15,Portugal,10949,Sporting B 
-"Jan 15, 2015",,Loan,Portugal,10949,Sporting B ,234449,750 Th. €,Fabrice Fokobo,14/15,Portugal,8024,Arouca 
-"Jul 11, 2012",,Free transfer,Cameroon,37354,Njalla Quan SA ,234449,-,Fabrice Fokobo,12/13,Portugal,10949,Sporting B 
-"Jun 30, 2011",,End of loan,Greece,6626,PAO U20 ,234449,-,Fabrice Fokobo,10/11,Cameroon,37354,Njalla Quan SA 
-"Jul 1, 2010",,Loan,Cameroon,37354,Njalla Quan SA ,234449,-,Fabrice Fokobo,10/11,Greece,6626,PAO U20 
-"Jun 30, 2016",,End of loan,Portugal,2639,Leiria ,234752,400 Th. €,Edgar Abreu,15/16,Portugal,982,Nacional 
-"Jan 29, 2016",,Loan,Portugal,982,Nacional ,234752,400 Th. €,Edgar Abreu,15/16,Portugal,2639,Leiria 
-"Jun 30, 2014",,End of loan,Portugal,10005,Mirandela ,234752,100 Th. €,Edgar Abreu,13/14,Portugal,982,Nacional 
-"Jan 31, 2014",,Loan,Portugal,982,Nacional ,234752,100 Th. €,Edgar Abreu,13/14,Portugal,10005,Mirandela 
-"Jul 1, 2012",,-,Portugal,15561,Nacional U19 ,234752,-,Edgar Abreu,12/13,Portugal,982,Nacional 
-"Jul 1, 2012",,-,Portugal,15561,Nacional U19 ,234764,-,Nuno Campos,12/13,Portugal,982,Nacional 
-"Jun 30, 2016",,End of loan,Portugal,4864,Oriental ,234773,75 Th. €,Sérgio Duarte,15/16,Portugal,982,Nacional 
-"Jul 6, 2015",,Loan,Portugal,982,Nacional ,234773,100 Th. €,Sérgio Duarte,15/16,Portugal,4864,Oriental 
-"Jun 30, 2015",,End of loan,Portugal,40582,Lusitano FCV ,234773,100 Th. €,Sérgio Duarte,14/15,Portugal,982,Nacional 
-"Jul 1, 2014",,Loan,Portugal,982,Nacional ,234773,100 Th. €,Sérgio Duarte,14/15,Portugal,40582,Lusitano FCV 
-"Jun 30, 2014",,End of loan,Portugal,10005,Mirandela ,234773,100 Th. €,Sérgio Duarte,13/14,Portugal,982,Nacional 
-"Jul 1, 2013",,Loan,Portugal,982,Nacional ,234773,100 Th. €,Sérgio Duarte,13/14,Portugal,10005,Mirandela 
-"Jul 1, 2012",,-,Portugal,15561,Nacional U19 ,234773,-,Sérgio Duarte,12/13,Portugal,982,Nacional 
-"Jul 1, 2013",,-,Portugal,15561,Nacional U19 ,234811,100 Th. €,Rui Silva,13/14,Portugal,982,Nacional 
-"Jul 1, 2012",,Free transfer,Portugal,47794,FC Maia Lidador ,234811,-,Rui Silva,12/13,Portugal,15561,Nacional U19 
-"Jul 1, 2015",,-,Portugal,15136,Guimarães B ,235639,900 Th. €,Luís Rocha,15/16,Portugal,2420,Vit. Guimarães 
-"Jul 1, 2012",,-,Portugal,15581,Guimarães U19 ,235639,-,Luís Rocha,12/13,Portugal,15136,Guimarães B 
-"Jul 1, 2008",,Free transfer,Portugal,20728,Famalicão U19 ,235639,-,Luís Rocha,08/09,Portugal,15581,Guimarães U19 
-"Jul 17, 2015",,Free transfer,Portugal,15136,Guimarães B ,235655,150 Th. €,Pedro Lemos,15/16,Portugal,2424,Gil Vicente 
-"Jul 1, 2012",,-,Portugal,15581,Guimarães U19 ,235655,-,Pedro Lemos,12/13,Portugal,15136,Guimarães B 
-"Jul 1, 2010",,-,Portugal,47988,VSC Juvenis ,235655,-,Pedro Lemos,10/11,Portugal,15581,Guimarães U19 
-"Jun 30, 2016",,End of loan,Portugal,1085,Vitória Setúbal ,236541,850 Th. €,Salim Cissé,15/16,Portugal,10949,Sporting B 
-"Feb 1, 2016",,Loan,Portugal,10949,Sporting B ,236541,"1,20 Mill. €",Salim Cissé,15/16,Portugal,1085,Vitória Setúbal 
-"Jun 30, 2015",,End of loan,Portugal,2990,Coimbra ,236541,"1,75 Mill. €",Salim Cissé,14/15,Portugal,10949,Sporting B 
-"Jan 27, 2015",,Loan,Portugal,10949,Sporting B ,236541,"2,00 Mill. €",Salim Cissé,14/15,Portugal,2990,Coimbra 
-"Jun 30, 2014",,End of loan,Portugal,8024,Arouca ,236541,"2,00 Mill. €",Salim Cissé,13/14,Portugal,10949,Sporting B 
-"Jan 20, 2014",,Loan,Portugal,10949,Sporting B ,236541,"2,00 Mill. €",Salim Cissé,13/14,Portugal,8024,Arouca 
-"Jul 5, 2013",,750 Th. €,Portugal,2990,Coimbra ,236541,"2,00 Mill. €",Salim Cissé,13/14,Portugal,10949,Sporting B 
-"Jul 1, 2012",,?,Italy,4255,Arezzo ,236541,-,Salim Cissé,12/13,Portugal,2990,Coimbra 
-"Jun 30, 2016",,End of loan,Portugal,3349,Feirense ,237663,500 Th. €,Kukula,15/16,Portugal,10787,Marítimo B 
-"Aug 31, 2015",,Loan,Portugal,10787,Marítimo B ,237663,350 Th. €,Kukula,15/16,Portugal,3349,Feirense 
-"Jul 1, 2012",,-,Portugal,15562,Marítimo U19 ,237663,-,Kukula,12/13,Portugal,10787,Marítimo B 
-"Jul 1, 2012",,-,Portugal,15567,Gil Vicente FC U19 ,237678,-,Pék's,12/13,Portugal,2424,Gil Vicente 
-"Dec 1, 2014",,?,Portugal,7179,Tondela ,239033,400 Th. €,Rafael Batatinha,14/15,Portugal,2423,Santa Clara 
-"Jan 28, 2014",,?,Portugal,1436,Beira-Mar ,239033,400 Th. €,Rafael Batatinha,13/14,Portugal,7179,Tondela 
-"Jul 1, 2012",,?,Portugal,7179,Tondela ,239033,-,Rafael Batatinha,12/13,Portugal,1436,Beira-Mar 
-"Jul 1, 2011",,?,Portugal,4747,Anadia ,239033,-,Rafael Batatinha,11/12,Portugal,7179,Tondela 
-"Dec 1, 2010",,?,Brazil,10010,Bahia ,239033,-,Rafael Batatinha,10/11,Portugal,4747,Anadia 
-"Dec 1, 2015",,?,Angola,29294,Kabuscorp SC ,239053,300 Th. €,Jaime Poulson,15/16,Angola,9539,Inter Luanda 
-"Dec 10, 2014",,Free transfer,Portugal,2995,Paços Ferreira ,239053,300 Th. €,Jaime Poulson,14/15,Angola,29294,Kabuscorp SC 
-"Jun 30, 2014",,End of loan,Portugal,3336,Desportivo Aves ,239053,300 Th. €,Jaime Poulson,13/14,Portugal,2995,Paços Ferreira 
-"Sep 2, 2013",,Loan,Portugal,2995,Paços Ferreira ,239053,300 Th. €,Jaime Poulson,13/14,Portugal,3336,Desportivo Aves 
-"Jul 1, 2012",,?,Portugal,4297,Varzim ,239053,-,Jaime Poulson,12/13,Portugal,2995,Paços Ferreira 
-"Jul 1, 2011",,?,Portugal,5222,Paredes ,239053,-,Jaime Poulson,11/12,Portugal,4297,Varzim 
-"Jul 1, 2010",,?,Portugal,3265,Espinho ,239053,-,Jaime Poulson,10/11,Portugal,5222,Paredes 
-"Jul 1, 2008",,?,Portugal,12963,Boavista U19 ,239053,-,Jaime Poulson,08/09,Portugal,3265,Espinho 
-"Jul 6, 2015",,?,Portugal,5227,Atlético ,241546,200 Th. €,Thomas Agyiri,15/16,Portugal,4294,Farense 
-"Jul 29, 2014",,?,Finland,2275,TPS ,241546,200 Th. €,Thomas Agyiri,14/15,Portugal,5227,Atlético 
-"Apr 8, 2014",,?,England,9265,Man City U21 ,241546,100 Th. €,Thomas Agyiri,13/14,Finland,2275,TPS 
-"Dec 31, 2013",,End of loan,Finland,2275,TPS ,241546,100 Th. €,Thomas Agyiri,13/14,England,9265,Man City U21 
-"Aug 26, 2013",,Loan,England,9265,Man City U21 ,241546,100 Th. €,Thomas Agyiri,13/14,Finland,2275,TPS 
-"Jun 30, 2013",,End of loan,Portugal,2424,Gil Vicente ,241546,-,Thomas Agyiri,12/13,England,9265,Man City U21 
-"Aug 1, 2012",,Loan,England,9265,Man City U21 ,241546,-,Thomas Agyiri,12/13,Portugal,2424,Gil Vicente 
-"Jul 1, 2012",,?,Ghana,40902,Right to Dream ,241546,-,Thomas Agyiri,12/13,England,9265,Man City U21 
-"Aug 1, 2015",,500 Th. €,Saudi Arabia,39495,Al-Ahli U23 ,242267,250 Th. €,Saleh Javier,15/16,Saudi Arabia,22381,Al-Raed 
-"Jun 1, 2015",,-,Saudi Arabia,18487,Ahli ,242267,250 Th. €,Saleh Javier,14/15,Saudi Arabia,39495,Al-Ahli U23 
-"Jun 1, 2013",,Free transfer,Portugal,1436,Beira-Mar ,242267,500 Th. €,Saleh Javier,13/14,Saudi Arabia,18487,Ahli 
-"Jun 1, 2011",,500 Th. €,Saudi Arabia,39495,Al-Ahli U23 ,242267,-,Saleh Javier,11/12,Portugal,1436,Beira-Mar 
-"Jul 1, 2014",,Free transfer,South Africa,2303,Black Aces ,243042,50 Th. €,Paulo Loureiro,14/15,,75,Unknown 
-"Jul 15, 2013",,?,Portugal,2995,Paços Ferreira ,243042,100 Th. €,Paulo Loureiro,13/14,South Africa,2303,Black Aces 
-"Jul 1, 2012",,?,Portugal,2503,Boavista ,243042,-,Paulo Loureiro,12/13,Portugal,2995,Paços Ferreira 
-"Jul 1, 2011",,-,Portugal,12963,Boavista U19 ,243042,-,Paulo Loureiro,11/12,Portugal,2503,Boavista 
-"Jul 1, 2010",,?,Portugal,8889,Benfica U19 ,243042,-,Paulo Loureiro,10/11,Portugal,12963,Boavista U19 
-"Aug 6, 2014",,?,Portugal,2425,Rio Ave FC ,244294,200 Th. €,André Costa,14/15,Portugal,3336,Desportivo Aves 
-"Jun 30, 2014",,End of loan,Portugal,3323,Gondomar ,244294,200 Th. €,André Costa,13/14,Portugal,2425,Rio Ave FC 
-"Jul 1, 2013",,Loan,Portugal,2425,Rio Ave FC ,244294,200 Th. €,André Costa,13/14,Portugal,3323,Gondomar 
-"Jul 1, 2012",,?,Portugal,3323,Gondomar ,244294,-,André Costa,12/13,Portugal,2425,Rio Ave FC 
-"Jul 1, 2011",,-,Portugal,15606,Gondomar SC U19 ,244294,-,André Costa,11/12,Portugal,3323,Gondomar 
-"Jul 1, 2010",,?,Portugal,15567,Gil Vicente FC U19 ,244294,-,André Costa,10/11,Portugal,15606,Gondomar SC U19 
-"Jun 1, 2013",,Free transfer,Portugal,1436,Beira-Mar ,246267,-,Felipe Desco,12/13,Brazil,31958,Itapirense-SP 
-"Jan 1, 2013",,40 Th. €,Egypt,45941,Wadi Degla U23 ,254981,25 Th. €,Ali Ghazal,12/13,Portugal,982,Nacional 
-"Jul 1, 2015",,?,Portugal,1992,Sintrense ,256564,100 Th. €,David Crespo,15/16,Portugal,13573,1º Dezembro 
-"Jul 1, 2014",,?,Portugal,2432,Torreense ,256564,100 Th. €,David Crespo,14/15,Portugal,1992,Sintrense 
-"Jul 1, 2013",,?,Portugal,982,Nacional ,256564,100 Th. €,David Crespo,13/14,Portugal,2432,Torreense 
-"Jul 1, 2012",,-,Portugal,15561,Nacional U19 ,256564,-,David Crespo,12/13,Portugal,982,Nacional 
-"Dec 31, 2016",,End of loan,Brazil,1785,Santa Cruz ,257057,750 Th. €,Uillian Correia,16/17,Brazil,609,Cruzeiro 
-"Mar 18, 2016",,Loan,Brazil,609,Cruzeiro ,257057,750 Th. €,Uillian Correia,15/16,Brazil,1785,Santa Cruz 
-"Sep 4, 2015",,375 Th. €,Brazil,2029,Ceará SC ,257057,750 Th. €,Uillian Correia,15/16,Brazil,609,Cruzeiro 
-"Jan 12, 2015",,Free transfer,Brazil,3319,Sampaio Corrêa ,257057,600 Th. €,Uillian Correia,14/15,Brazil,2029,Ceará SC 
-"Jan 1, 2014",,?,Portugal,2995,Paços Ferreira ,257057,100 Th. €,Uillian Correia,13/14,Brazil,3319,Sampaio Corrêa 
-"Jun 30, 2013",,End of loan,Portugal,3349,Feirense ,257057,-,Uillian Correia,12/13,Portugal,2995,Paços Ferreira 
-"Jan 23, 2013",,Loan,Portugal,2995,Paços Ferreira ,257057,-,Uillian Correia,12/13,Portugal,3349,Feirense 
-"Jul 1, 2012",,?,Brazil,28024,Santa Cruz-RS ,257057,-,Uillian Correia,12/13,Portugal,2995,Paços Ferreira 
-"Jan 1, 2011",,?,Brazil,22785,Rio Branco ,257057,-,Uillian Correia,10/11,Brazil,28024,Santa Cruz-RS 
-"Jan 1, 2010",,?,Brazil,16656,Paranaense ,257057,-,Uillian Correia,09/10,Brazil,22785,Rio Branco 
-,'NoneType' object has no attribute 'find_all',,,,,257665,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,257683,,,,,,
-"Jul 12, 2014",,800 Th. €,Portugal,1085,Vitória Setúbal ,261927,"1,00 Mill. €",Ricardo Horta,14/15,Spain,1084,Málaga CF 
-"Jan 1, 2013",,-,Portugal,15019,Setúbal U19 ,261927,-,Ricardo Horta,12/13,Portugal,1085,Vitória Setúbal 
-"Jul 1, 2011",,?,Portugal,8889,Benfica U19 ,261927,-,Ricardo Horta,11/12,Portugal,15019,Setúbal U19 
-"Aug 1, 2015",,?,Portugal,5227,Atlético ,270055,350 Th. €,Kiki,15/16,Portugal,2424,Gil Vicente 
-"Jan 31, 2014",,?,England,3696,Dag & Red FC ,270055,100 Th. €,Kiki,13/14,Portugal,5227,Atlético 
-"Sep 23, 2013",,?,Portugal,2425,Rio Ave FC ,270055,-,Kiki,13/14,England,3696,Dag & Red FC 
-"Jul 1, 2012",,-,Portugal,8105,Rio Ave FC U19 ,270055,-,Kiki,12/13,Portugal,2425,Rio Ave FC 
-"Jul 1, 2011",,Free transfer,Portugal,9844,FC Porto U19 ,270055,-,Kiki,11/12,Portugal,8105,Rio Ave FC U19 
-"Jul 1, 2013",,?,Portugal,2425,Rio Ave FC ,275287,-,Rúben Oliveira,13/14,Portugal,3349,Feirense 
-"Dec 31, 2012",,End of loan,Portugal,8105,Rio Ave FC U19 ,275287,-,Rúben Oliveira,12/13,Portugal,2425,Rio Ave FC 
-"Jul 1, 2012",,Loan,Portugal,15802,Feirense U19 ,275287,-,Rúben Oliveira,12/13,Portugal,8105,Rio Ave FC U19 
+,'NoneType' object has no attribute 'find_all',,,,,257665,,,,,,

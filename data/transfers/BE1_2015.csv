@@ -1,402 +1,738 @@
 date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
-"Jul 1, 2015",,?,Greece,683,Olympiacos ,42938,700 Th. €,Athanasios Papazoglou,15/16,Belgium,601,KV Kortrijk 
-"Jun 30, 2015",,End of loan,Greece,3060,Atromitos Athen ,42938,700 Th. €,Athanasios Papazoglou,14/15,Greece,683,Olympiacos 
-"Aug 8, 2014",,Loan,Greece,683,Olympiacos ,42938,600 Th. €,Athanasios Papazoglou,14/15,Greece,3060,Atromitos Athen 
-"Jul 6, 2014",,Free transfer,Greece,653,OFI Kreta ,42938,600 Th. €,Athanasios Papazoglou,14/15,Greece,683,Olympiacos 
-"Aug 8, 2012",,Free transfer,Greece,1091,PAOK Saloniki ,42938,500 Th. €,Athanasios Papazoglou,12/13,Greece,653,OFI Kreta 
-"Jun 30, 2011",,End of loan,Greece,6676,Ast. Tripolis ,42938,500 Th. €,Athanasios Papazoglou,10/11,Greece,1091,PAOK Saloniki 
-"Jan 31, 2011",,Loan,Greece,1091,PAOK Saloniki ,42938,700 Th. €,Athanasios Papazoglou,10/11,Greece,6676,Ast. Tripolis 
-"Jul 1, 2009",,Free transfer,Greece,605,Aris Saloniki ,42938,800 Th. €,Athanasios Papazoglou,09/10,Greece,1091,PAOK Saloniki 
-"Jul 1, 2006",,-,Greece,14778,Aris U20 ,42938,-,Athanasios Papazoglou,06/07,Greece,605,Aris Saloniki 
-"Jun 30, 2016",,End of loan,Belgium,2727,OH Leuven ,59148,450 Th. €,Oleksandr Volovyk,15/16,Ukraine,660,Shakhtar D. 
-"Aug 20, 2015",,Loan,Ukraine,660,Shakhtar D. ,59148,600 Th. €,Oleksandr Volovyk,15/16,Belgium,2727,OH Leuven 
-"Jul 1, 2013",,?,Ukraine,2783,Metalurg D. ,59148,"1,50 Mill. €",Oleksandr Volovyk,13/14,Ukraine,660,Shakhtar D. 
-"Jan 1, 2008",,-,Ukraine,12425,Metalurg Donetsk II ,59148,-,Oleksandr Volovyk,07/08,Ukraine,2783,Metalurg D. 
-"Dec 31, 2007",,End of loan,Ukraine,10468,Stal Alchevsk ,59148,-,Oleksandr Volovyk,07/08,Ukraine,12425,Metalurg Donetsk II 
-"Jul 1, 2007",,Loan,Ukraine,12425,Metalurg Donetsk II ,59148,-,Oleksandr Volovyk,07/08,Ukraine,10468,Stal Alchevsk 
-"Jul 1, 2006",,?,Ukraine,26461,Khmelnytsky ,59148,-,Oleksandr Volovyk,06/07,Ukraine,12425,Metalurg Donetsk II 
-"Jul 1, 2015",,Free transfer,Croatia,2362,Slaven Belupo ,60838,750 Th. €,Marko Miric,15/16,Belgium,498,KSC Lokeren 
-"Aug 11, 2014",,Free transfer,Belarus,23664,FK Minsk ,60838,300 Th. €,Marko Miric,14/15,Croatia,2362,Slaven Belupo 
-"Jan 30, 2014",,Free transfer,Serbia,159,Red Star ,60838,300 Th. €,Marko Miric,13/14,Belarus,23664,FK Minsk 
-"Jun 30, 2013",,End of loan,Serbia,4645,Radnicki 1923 ,60838,400 Th. €,Marko Miric,12/13,Serbia,159,Red Star 
-"Jan 26, 2013",,Loan,Serbia,159,Red Star ,60838,400 Th. €,Marko Miric,12/13,Serbia,4645,Radnicki 1923 
-"Jan 1, 2012",,153 Th. €,Serbia,15276,Spartak Sub. ,60838,800 Th. €,Marko Miric,11/12,Serbia,159,Red Star 
-"Jul 1, 2009",,?,Serbia,12135,FK Metalac ,60838,50 Th. €,Marko Miric,09/10,Serbia,15276,Spartak Sub. 
-"Jul 9, 2015",,Free transfer,Denmark,2778,Nordsjaelland ,66638,750 Th. €,Mario Ticinovic,15/16,Belgium,498,KSC Lokeren 
-"Jul 1, 2012",,135 Th. €,Croatia,447,Hajduk Split ,66638,500 Th. €,Mario Ticinovic,12/13,Denmark,2778,Nordsjaelland 
-"Jun 30, 2012",,End of loan,Denmark,2778,Nordsjaelland ,66638,500 Th. €,Mario Ticinovic,11/12,Croatia,447,Hajduk Split 
-"Jan 1, 2012",,Loan,Croatia,447,Hajduk Split ,66638,500 Th. €,Mario Ticinovic,11/12,Denmark,2778,Nordsjaelland 
-"Dec 31, 2010",,End of loan,Croatia,10314,Karlovac 1919 ,66638,850 Th. €,Mario Ticinovic,10/11,Croatia,447,Hajduk Split 
-"Aug 1, 2010",,Loan,Croatia,447,Hajduk Split ,66638,"1,00 Mill. €",Mario Ticinovic,10/11,Croatia,10314,Karlovac 1919 
-"Jul 1, 2008",,-,Croatia,36344,Hajduk U17 ,66638,150 Th. €,Mario Ticinovic,08/09,Croatia,447,Hajduk Split 
-"Jul 1, 2006",,-,Croatia,36360,Hajduk Jgd ,66638,-,Mario Ticinovic,06/07,Croatia,36344,Hajduk U17 
-"Jul 1, 2004",,Free transfer,Croatia,36423,Junak Sinj Jgd ,66638,-,Mario Ticinovic,04/05,Croatia,36360,Hajduk Jgd 
-"Jul 1, 2015",,?,Belgium,5026,Lommel United ,83407,500 Th. €,Romero Regales,15/16,Belgium,2727,OH Leuven 
-"Jul 1, 2013",,Free transfer,Belgium,3225,Patro Eisden ,83407,75 Th. €,Romero Regales,13/14,Belgium,5026,Lommel United 
-"Jul 1, 2012",,Free transfer,Belgium,3598,Excelsior Veldwezelt ,83407,75 Th. €,Romero Regales,12/13,Belgium,3225,Patro Eisden 
-"Jun 1, 2011",,Free transfer,Netherlands,12612,FC Vinkenslag ,83407,75 Th. €,Romero Regales,10/11,Belgium,3598,Excelsior Veldwezelt 
-"Jul 1, 2009",,Free transfer,Netherlands,385,Fortuna Sittard ,83407,75 Th. €,Romero Regales,09/10,Netherlands,12612,FC Vinkenslag 
-"Jul 1, 2008",,-,Netherlands,18338,Sittard U21 ,83407,-,Romero Regales,08/09,Netherlands,385,Fortuna Sittard 
-"Jul 1, 2007",,Free transfer,Netherlands,20250,RKVV Almania ,83407,-,Romero Regales,07/08,Netherlands,18338,Sittard U21 
-"Jan 1, 2016",,Free transfer,Denmark,1053,Aalborg BK ,93315,600 Th. €,Henrik Dalsgaard,15/16,Belgium,3508,Zulte Waregem 
-"Jan 1, 2009",,Free transfer,Denmark,20974,Møldrup/Tostr. ,93315,-,Henrik Dalsgaard,08/09,Denmark,1053,Aalborg BK 
-"Jun 30, 2016",,End of loan,Belgium,28643,Waasl.-Beveren ,98827,800 Th. €,Ousseynou Cissé,15/16,Spain,367,Rayo Vallecano 
-"Jan 3, 2016",,Loan,Spain,367,Rayo Vallecano ,98827,800 Th. €,Ousseynou Cissé,15/16,Belgium,28643,Waasl.-Beveren 
-"Jul 5, 2015",,Free transfer,France,2969,Dijon ,98827,800 Th. €,Ousseynou Cissé,15/16,Spain,367,Rayo Vallecano 
-"Jul 1, 2012",,Free transfer,France,1416,SC Amiens ,98827,300 Th. €,Ousseynou Cissé,12/13,France,2969,Dijon 
-"Jul 1, 2009",,-,France,16671,SC Amiens B ,98827,-,Ousseynou Cissé,09/10,France,1416,SC Amiens 
-"Aug 31, 2015",,Free transfer,France,290,AJ Auxerre ,108587,500 Th. â‚¬,Amara Baby,15/16,Belgium,172,RSC Charleroi 
-"Sep 1, 2014",,Free transfer,France,1175,LB ChÃ¢teauroux ,108587,500 Th. â‚¬,Amara Baby,14/15,France,290,AJ Auxerre 
-"Jun 30, 2014",,End of loan,France,1080,Stade Laval ,108587,500 Th. â‚¬,Amara Baby,13/14,France,1175,LB ChÃ¢teauroux 
-"Aug 13, 2013",,Loan,France,1175,LB ChÃ¢teauroux ,108587,500 Th. â‚¬,Amara Baby,13/14,France,1080,Stade Laval 
-"Jun 30, 2013",,End of loan,France,1164,Le Mans ,108587,500 Th. â‚¬,Amara Baby,12/13,France,1175,LB ChÃ¢teauroux 
-"Aug 23, 2012",,Loan,France,1175,LB ChÃ¢teauroux ,108587,500 Th. â‚¬,Amara Baby,12/13,France,1164,Le Mans 
-"Jul 1, 2009",,-,France,12761,LB ChÃ¢teauroux B ,108587,-,Amara Baby,09/10,France,1175,LB ChÃ¢teauroux 
-"Jul 1, 2015",,Free transfer,Belgium,1245,AS Eupen ,110724,400 Th. €,Michael Lallemand,15/16,Belgium,601,KV Kortrijk 
-"Jul 1, 2012",,Free transfer,Belgium,24394,Standard Res. ,110724,200 Th. €,Michael Lallemand,12/13,Belgium,1245,AS Eupen 
-"Jun 30, 2012",,End of loan,Belgium,1245,AS Eupen ,110724,200 Th. €,Michael Lallemand,11/12,Belgium,24394,Standard Res. 
-"Jul 1, 2011",,Loan,Belgium,24394,Standard Res. ,110724,-,Michael Lallemand,11/12,Belgium,1245,AS Eupen 
-"Jul 1, 2010",,-,Belgium,8164,Standard U19 ,110724,-,Michael Lallemand,10/11,Belgium,24394,Standard Res. 
-"Jul 1, 2009",,-,Belgium,10459,Standard Youth ,110724,-,Michael Lallemand,09/10,Belgium,8164,Standard U19 
-"Jul 7, 2015",,?,Israel,6105,FC Ashdod ,112008,350 Th. €,Ofir Marciano,15/16,Belgium,29228,Mouscron 
-"Jul 1, 2008",,-,Israel,26926,FC Ashdod U19 ,112008,-,Ofir Marciano,08/09,Israel,6105,FC Ashdod 
-"Aug 6, 2015",,?,Finland,1008,HJK Helsinki ,123595,300 Th. €,Valtteri Moren,15/16,Belgium,28643,Waasl.-Beveren 
-"Jan 1, 2011",,-,Finland,11131,Klubi-04 ,123595,50 Th. €,Valtteri Moren,10/11,Finland,1008,HJK Helsinki 
-"Jan 1, 2009",,?,Finland,8807,PK-35 ,123595,-,Valtteri Moren,08/09,Finland,11131,Klubi-04 
-"Jan 1, 2007",,?,Finland,22298,FC Kiffen 08 ,123595,-,Valtteri Moren,06/07,Finland,8807,PK-35 
-"Jan 8, 2016",,"1,00 Mill. €",Brazil,221,Santos FC ,124701,"1,75 Mill. €",Rafael Galhardo,15/16,Belgium,58,RSC Anderlecht 
-"Dec 31, 2015",,End of loan,Brazil,210,Grêmio ,124701,"1,75 Mill. €",Rafael Galhardo,15/16,Brazil,221,Santos FC 
-"Jan 10, 2015",,Loan,Brazil,221,Santos FC ,124701,500 Th. €,Rafael Galhardo,14/15,Brazil,210,Grêmio 
-"Dec 31, 2014",,End of loan,Brazil,10010,Bahia ,124701,500 Th. €,Rafael Galhardo,14/15,Brazil,221,Santos FC 
-"Jan 1, 2014",,Loan,Brazil,221,Santos FC ,124701,500 Th. €,Rafael Galhardo,13/14,Brazil,10010,Bahia 
-"May 16, 2012",,Swap deal,Brazil,614,Flamengo ,124701,400 Th. €,Rafael Galhardo,11/12,Brazil,221,Santos FC 
-"Aug 1, 2009",,-,Brazil,16666,Flamengo ,124701,-,Rafael Galhardo,09/10,Brazil,614,Flamengo 
-"Aug 25, 2015",,500 Th. €,Poland,318,Ruch Chorzow ,127437,300 Th. €,Eduards Visnakovs,15/16,Belgium,968,KVC Westerlo 
-"Aug 28, 2014",,200 Th. €,Poland,88,Widzew Lodz ,127437,650 Th. €,Eduards Visnakovs,14/15,Poland,318,Ruch Chorzow 
-"Jul 22, 2013",,Free transfer,Kazakhstan,10480,Schachtjor K. ,127437,200 Th. €,Eduards Visnakovs,13/14,Poland,88,Widzew Lodz 
-"Jul 1, 2012",,?,Latvia,2782,Ventspils ,127437,200 Th. €,Eduards Visnakovs,12/13,Kazakhstan,10480,Schachtjor K. 
-"Aug 1, 2009",,?,Latvia,25233,FC Tranzits ,127437,-,Eduards Visnakovs,09/10,Latvia,2782,Ventspils 
-"Jan 4, 2016",,?,Sweden,699,Helsingborgs IF ,131827,900 Th. €,Jere Uronen,15/16,Belgium,1184,KRC Genk 
-"Jan 1, 2012",,700 Th. €,Finland,2275,TPS ,131827,-,Jere Uronen,11/12,Sweden,699,Helsingborgs IF 
-"Jul 1, 2011",,-,Finland,15697,TPS U19 ,131827,-,Jere Uronen,11/12,Finland,2275,TPS 
-"Jul 2, 2015",,Free transfer,Greece,47,Iraklis ,136518,125 Th. €,Konstantinos Rougalas,15/16,Belgium,2727,OH Leuven 
-"Feb 9, 2015",,Free transfer,Greece,683,Olympiacos ,136518,-,Konstantinos Rougalas,14/15,Greece,47,Iraklis 
-"Feb 7, 2015",,End of loan,Spain,3679,Atl. Madrid B ,136518,-,Konstantinos Rougalas,14/15,Greece,683,Olympiacos 
-"Aug 13, 2014",,Loan,Greece,683,Olympiacos ,136518,200 Th. €,Konstantinos Rougalas,14/15,Spain,3679,Atl. Madrid B 
-"Jun 30, 2014",,End of loan,Greece,980,Fostiras ,136518,200 Th. €,Konstantinos Rougalas,13/14,Greece,683,Olympiacos 
-"Jan 29, 2014",,Loan,Greece,683,Olympiacos ,136518,200 Th. €,Konstantinos Rougalas,13/14,Greece,980,Fostiras 
-"Dec 31, 2013",,End of loan,Greece,5220,Ergotelis ,136518,200 Th. €,Konstantinos Rougalas,13/14,Greece,683,Olympiacos 
-"Sep 2, 2013",,Loan,Greece,683,Olympiacos ,136518,250 Th. €,Konstantinos Rougalas,13/14,Greece,5220,Ergotelis 
-"Jul 1, 2012",,-,Greece,7661,Olympiakos U20 ,136518,150 Th. €,Konstantinos Rougalas,12/13,Greece,683,Olympiacos 
-"Jul 1, 2015",,140 Th. €,China,27190,SIPG ,140205,750 Th. €,Bernie Ibini-Isei,15/16,Belgium,2282,Club Brugge 
-"May 31, 2015",,End of loan,Australia,8054,Sydney FC ,140205,750 Th. €,Bernie Ibini-Isei,14/15,China,27190,SIPG 
-"Jul 1, 2014",,Loan,China,27190,SIPG ,140205,500 Th. €,Bernie Ibini-Isei,14/15,Australia,8054,Sydney FC 
-"May 31, 2014",,End of loan,Australia,6954,Central Coast Mariners ,140205,500 Th. €,Bernie Ibini-Isei,13/14,China,27190,SH East Asia 
-"Jan 8, 2014",,Loan,China,27190,SH East Asia ,140205,400 Th. €,Bernie Ibini-Isei,13/14,Australia,6954,Central Coast Mariners 
-"Jul 1, 2013",,450 Th. €,Australia,6954,Central Coast Mariners ,140205,500 Th. €,Bernie Ibini-Isei,13/14,China,27190,SH East Asia 
-"Jul 1, 2011",,-,Australia,26206,C. Coast U21 ,140205,-,Bernie Ibini-Isei,11/12,Australia,6954,Central Coast Mariners 
-"Aug 1, 2010",,End of loan,Australia,11375,Blacktown City Demons ,140205,-,Bernie Ibini-Isei,10/11,Australia,26206,C. Coast U21 
-"Jan 1, 2010",,Loan,Australia,26206,C. Coast U21 ,140205,-,Bernie Ibini-Isei,09/10,Australia,11375,Blacktown City Demons 
-"Jul 14, 2015",,?,Norway,1100,SK Brann ,151567,300 Th. €,Erdin Demir,15/16,Belgium,28643,Waasl.-Beveren 
-"Jan 1, 2012",,500 Th. €,Sweden,701,Trelleborgs FF ,151567,200 Th. €,Erdin Demir,11/12,Norway,1100,SK Brann 
-"Jan 1, 2011",,Free transfer,Sweden,3903,Bunkeflo ,151567,-,Erdin Demir,10/11,Sweden,701,Trelleborgs FF 
-"Jul 1, 2014",,transfervrij,Belgium,2974,Francs Borains ,156384,250 Th. €,William Dutoit,14/15,Belgium,475,Sint-Truiden 
-"Jul 1, 2010",,?,France,17131,ASM Belfort ,156384,-,William Dutoit,10/11,Belgium,2974,Francs Borains 
-"Jul 1, 2009",,?,France,16087,Vesoul ,156384,-,William Dutoit,09/10,France,17131,ASM Belfort 
-"Jul 1, 2008",,?,France,17131,ASM Belfort ,156384,-,William Dutoit,08/09,France,16087,Vesoul 
-"Feb 1, 2016",,?,Belgium,9010,FCV Dender EH ,160746,200 Th. €,Mehdi Terki,15/16,Belgium,498,KSC Lokeren 
-"Aug 2, 2012",,?,Belgium,43562,KAA Gent II ,160746,200 Th. €,Mehdi Terki,12/13,Belgium,9010,FCV Dender EH 
-"Jul 1, 2011",,?,Belgium,1411,RAEC Mons ,160746,200 Th. €,Mehdi Terki,11/12,Belgium,43562,KAA Gent II 
-"Jul 1, 2010",,-,Belgium,3602,RAEC Mons U19 ,160746,-,Mehdi Terki,10/11,Belgium,1411,RAEC Mons 
-"Jul 10, 2015",,Free transfer,Spain,237,RCD Mallorca ,161356,400 Th. €,Filip Markovic,15/16,Belgium,29228,Mouscron 
-"Aug 15, 2014",,Free transfer,Portugal,10330,Benfica B ,161356,700 Th. €,Filip Markovic,14/15,Spain,237,RCD Mallorca 
-"Jul 1, 2013",,Free transfer,Serbia,669,FK Partizan ,161356,-,Filip Markovic,13/14,Portugal,10330,Benfica B 
-"Jun 30, 2013",,End of loan,Serbia,4646,Teleoptik Zemun ,161356,-,Filip Markovic,12/13,Serbia,669,FK Partizan 
-"Aug 1, 2012",,Loan,Serbia,669,FK Partizan ,161356,-,Filip Markovic,12/13,Serbia,4646,Teleoptik Zemun 
-"Jul 1, 2012",,Free transfer,Serbia,4646,Teleoptik Zemun ,161356,-,Filip Markovic,12/13,Serbia,669,FK Partizan 
-"Jul 25, 2014",,?,Belgium,3494,KRC Genk U19 ,161658,-,Gaëtan Hendrickx,14/15,Belgium,475,Sint-Truiden 
-"Jul 1, 2012",,-,Belgium,34282,Genk Youth ,161658,-,Gaëtan Hendrickx,13/14,Belgium,3494,KRC Genk U19 
-"Jul 1, 2011",,?,Belgium,10459,Standard Youth ,161658,-,Gaëtan Hendrickx,11/12,Belgium,34282,Genk Youth 
-"Jun 30, 2016",,End of loan,Belgium,3508,Zulte Waregem ,163053,"1,50 Mill. €",Mame Thiam,15/16,Italy,506,Juventus 
-"Jul 25, 2015",,Loan,Italy,506,Juventus ,163053,700 Th. €,Mame Thiam,15/16,Belgium,3508,Zulte Waregem 
-"Jul 1, 2015",,"1,40 Mill. €",Italy,4718,Virtus Lanciano ,163053,700 Th. €,Mame Thiam,15/16,Italy,506,Juventus 
-"Jul 15, 2013",,?,Italy,46,Inter ,163053,375 Th. €,Mame Thiam,13/14,Italy,4718,Virtus Lanciano 
-"Jun 30, 2013",,End of loan,Italy,4554,Südtirol ,163053,375 Th. €,Mame Thiam,12/13,Italy,46,Inter 
-"Jul 12, 2012",,Loan,Italy,46,Inter ,163053,250 Th. €,Mame Thiam,12/13,Italy,4554,Südtirol 
-"Jun 30, 2012",,End of loan,Italy,2331,AS Avellino ,163053,250 Th. €,Mame Thiam,11/12,Italy,46,Inter 
-"Aug 1, 2011",,Loan,Italy,5380,Inter ,163053,75 Th. €,Mame Thiam,11/12,Italy,2331,AS Avellino 
-"Jul 1, 2010",,?,Italy,19114,Sassuolo ,163053,-,Mame Thiam,10/11,Italy,5380,Inter 
-"Jul 1, 2015",,?,Luxembourg,11976,CS Fola Esch ,163724,175 Th. €,Laurent Jans,15/16,Belgium,28643,Waasl.-Beveren 
-"Jul 1, 2011",,Free transfer,Luxembourg,29557,FF Norden 02 ,163724,-,Laurent Jans,11/12,Luxembourg,11976,CS Fola Esch 
-"Jul 1, 2008",,-,Luxembourg,34264,FF Norden02 U17 ,163724,-,Laurent Jans,08/09,Luxembourg,29557,FF Norden 02 
-"Jul 7, 2015",,?,France,1420,SCO Angers ,175635,500 Th. €,Fabien Boyer,15/16,Belgium,601,KV Kortrijk 
-"Jun 30, 2015",,End of loan,France,1175,LB Châteauroux ,175635,500 Th. €,Fabien Boyer,14/15,France,1420,SCO Angers 
-"Jul 8, 2014",,Loan,France,1420,SCO Angers ,175635,500 Th. €,Fabien Boyer,14/15,France,1175,LB Châteauroux 
-"Jul 1, 2012",,Free transfer,France,8154,FC Stade Rennes B ,175635,-,Fabien Boyer,12/13,France,1420,SCO Angers 
-"Jul 1, 2011",,Free transfer,France,9881,Jura Sud  ,175635,-,Fabien Boyer,11/12,France,8154,FC Stade Rennes B 
-"Jul 1, 2010",,Free transfer,Monaco,9668,Monaco B ,175635,-,Fabien Boyer,10/11,France,9881,Jura Sud  
-"Jun 30, 2016",,End of loan,Belgium,475,Sint-Truiden ,178314,"1,00 Mill. €",Victorien Angban,15/16,England,9250,Chelsea U21 
-"Jul 14, 2015",,Loan,England,9250,Chelsea U21 ,178314,-,Victorien Angban,15/16,Belgium,475,Sint-Truiden 
-"Jul 1, 2014",,-,England,6918,Chelsea U18 ,178314,-,Victorien Angban,14/15,England,9250,Chelsea U21 
-"Jan 1, 2012",,?,Cote d'Ivoire,1156,Stade d'Abidjan ,178314,-,Victorien Angban,11/12,England,6918,Chelsea U18 
-"Jun 30, 2016",,End of loan,Belgium,601,KV Kortrijk ,179481,650 Th. €,Michael Olaitan,15/16,Greece,683,Olympiacos 
-"Jan 17, 2016",,Loan,Greece,683,Olympiacos ,179481,"1,25 Mill. €",Michael Olaitan,15/16,Belgium,601,KV Kortrijk 
-"Jan 14, 2016",,End of loan,Netherlands,317,FC Twente ,179481,"1,25 Mill. €",Michael Olaitan,15/16,Greece,683,Olympiacos 
-"Jul 30, 2015",,Loan,Greece,683,Olympiacos ,179481,"2,00 Mill. €",Michael Olaitan,15/16,Netherlands,317,FC Twente 
-"Jun 30, 2015",,End of loan,Greece,5220,Ergotelis ,179481,"2,00 Mill. €",Michael Olaitan,14/15,Greece,683,Olympiacos 
-"Jan 29, 2015",,Loan,Greece,683,Olympiacos ,179481,"3,00 Mill. €",Michael Olaitan,14/15,Greece,5220,Ergotelis 
-"Jul 1, 2013",,Free transfer,Greece,2079,PAE Veria ,179481,700 Th. €,Michael Olaitan,13/14,Greece,683,Olympiacos 
-"Jan 1, 2011",,Free transfer,Nigeria,25897,Mighty Jets ,179481,-,Michael Olaitan,10/11,Greece,2079,PAE Veria 
-"Aug 30, 2015",,150 Th. €,Croatia,447,Hajduk Split ,179899,300 Th. €,Tomislav Kis,15/16,Belgium,601,KV Kortrijk 
-"Jun 30, 2015",,End of loan,Slovenia,23253,NK Zavrc ,179899,300 Th. €,Tomislav Kis,14/15,Croatia,447,Hajduk Split 
-"Feb 2, 2015",,Loan,Croatia,447,Hajduk Split ,179899,300 Th. €,Tomislav Kis,14/15,Slovenia,23253,NK Zavrc 
-"Dec 31, 2014",,End of loan,Croatia,24575,HNK Gorica ,179899,200 Th. €,Tomislav Kis,14/15,Croatia,447,Hajduk Split 
-"Jul 14, 2014",,Loan,Croatia,447,Hajduk Split ,179899,200 Th. €,Tomislav Kis,14/15,Croatia,24575,HNK Gorica 
-"Jun 30, 2014",,End of loan,Croatia,11148,NK Dugopolje ,179899,200 Th. €,Tomislav Kis,13/14,Croatia,447,Hajduk Split 
-"Feb 7, 2014",,Loan,Croatia,447,Hajduk Split ,179899,200 Th. €,Tomislav Kis,13/14,Croatia,11148,NK Dugopolje 
-"Jan 1, 2012",,-,Croatia,11032,Hajduk U19 ,179899,-,Tomislav Kis,11/12,Croatia,447,Hajduk Split 
-"Jul 15, 2011",,60 Th. €,Croatia,36347,C. Sesvete U17 ,179899,-,Tomislav Kis,11/12,Croatia,11032,Hajduk U19 
-"Jul 1, 2009",,-,Croatia,41354,C. Sesvete Jgd ,179899,-,Tomislav Kis,09/10,Croatia,36347,C. Sesvete U17 
-"Aug 18, 2008",,?,Croatia,36341,D. Zagreb Jgd. ,179899,-,Tomislav Kis,08/09,Croatia,41354,C. Sesvete Jgd 
-"Aug 26, 2005",,?,Croatia,22559,NK Dubrava ,179899,-,Tomislav Kis,05/06,Croatia,36341,D. Zagreb Jgd. 
-"Jan 1, 2016",,"1,60 Mill. €",Norway,2817,Strømsgodset ,180767,"1,10 Mill. €",Gustav Wikheim,15/16,Belgium,157,KAA Gent 
-"Aug 1, 2010",,-,Norway,15693,Strømsgodset IF U19 ,180767,-,Gustav Wikheim,10/11,Norway,2817,Strømsgodset 
-"Jan 29, 2016",,800 Th. €,Congo DR,8428,TP Mazembe ,182201,500 Th. €,Mbwana Samatta,15/16,Belgium,1184,KRC Genk 
-"Jul 1, 2011",,70 Th. €,Tanzania,14191,Simba SC ,182201,-,Mbwana Samatta,11/12,Congo DR,8428,TP Mazembe 
-"Jul 1, 2010",,?,Tanzania,26912,African Lyon ,182201,-,Mbwana Samatta,10/11,Tanzania,14191,Simba SC 
-"Jun 30, 2016",,End of loan,Belgium,29228,Mouscron ,182875,700 Th. €,Jean-Charles Castelletto,15/16,Belgium,2282,Club Brugge 
-"Feb 1, 2016",,Loan,Belgium,2282,Club Brugge ,182875,800 Th. €,Jean-Charles Castelletto,15/16,Belgium,29228,Mouscron 
-"Jul 23, 2015",,800 Th. €,France,290,AJ Auxerre ,182875,800 Th. €,Jean-Charles Castelletto,15/16,Belgium,2282,Club Brugge 
-"Jul 1, 2013",,-,France,10820,AJ Auxerre B ,182875,-,Jean-Charles Castelletto,13/14,France,290,AJ Auxerre 
-"Jul 1, 2012",,-,France,7817,AJ Auxerre U19 ,182875,-,Jean-Charles Castelletto,12/13,France,10820,AJ Auxerre B 
-"Apr 6, 2016",,End of loan,Belgium,2715,Seraing United ,182878,200 Th. €,Adrian Adam,15/16,Belgium,172,RSC Charleroi 
-"Jan 2, 2016",,Loan,Belgium,172,RSC Charleroi ,182878,125 Th. €,Adrian Adam,15/16,Belgium,2715,Seraing United 
-"Jan 1, 2016",,End of loan,Belgium,3225,Patro Eisden ,182878,125 Th. €,Adrian Adam,15/16,Belgium,172,RSC Charleroi 
-"Aug 31, 2015",,Loan,Belgium,172,RSC Charleroi ,182878,-,Adrian Adam,15/16,Belgium,3225,Patro Eisden 
-"Jul 1, 2015",,?,France,8158,Nizza B ,182878,-,Adrian Adam,15/16,Belgium,172,RSC Charleroi 
-"Jan 13, 2016",,?,France,7042,US Boulogne ,190146,150 Th. €,Xavier Mercier,15/16,Belgium,601,KV Kortrijk 
-"Jul 1, 2014",,Free transfer,France,3135,Beauvais ,190146,150 Th. €,Xavier Mercier,14/15,France,7042,US Boulogne 
-"Aug 1, 2012",,Free transfer,France,855,Guingamp ,190146,150 Th. €,Xavier Mercier,12/13,France,3135,Beauvais 
-"Jul 1, 2011",,-,France,12748,EA Guingamp B ,190146,-,Xavier Mercier,11/12,France,855,Guingamp 
-"Jul 1, 2010",,Free transfer,France,27011,US Lesquin ,190146,-,Xavier Mercier,10/11,France,12748,EA Guingamp B 
-"Jul 1, 2009",,Free transfer,France,6572,HSC Montpellier B ,190146,-,Xavier Mercier,09/10,France,27011,US Lesquin 
-"Jan 2, 2016",,?,Belgium,515,Unattached ,192526,200 Th. €,Kevin Tapoko,15/16,,29228,Mouscron 
-"Dec 23, 2015",,-,Belgium,2727,OH Leuven ,192526,200 Th. €,Kevin Tapoko,15/16,,515,Unattached 
-"Feb 2, 2015",,?,Belgium,1910,Dessel Sport ,192526,50 Th. €,Kevin Tapoko,14/15,Belgium,2727,OH Leuven 
-"Nov 7, 2014",,-,Belgium,515,Unattached ,192526,50 Th. €,Kevin Tapoko,14/15,,1910,Dessel Sport 
-"Jul 1, 2014",,-,Belgium,1910,Dessel Sport ,192526,50 Th. €,Kevin Tapoko,14/15,,515,Unattached 
-"Sep 30, 2013",,Free transfer,Switzerland,527,Lausanne-Sport ,192526,50 Th. €,Kevin Tapoko,13/14,Belgium,1910,Dessel Sport 
-"Aug 30, 2012",,Free transfer,France,9802,FC Le Mans B ,192526,-,Kevin Tapoko,12/13,Switzerland,527,Lausanne-Sport 
-"Jul 1, 2011",,Free transfer,France,7813,Olympique Lyon U19 ,192526,-,Kevin Tapoko,11/12,France,9802,FC Le Mans B 
-"Jul 1, 2015",,?,Belgium,2715,Seraing United ,193321,200 Th. €,Luigi Vaccaro,15/16,Belgium,29228,Mouscron 
-"Jul 29, 2014",,?,Belgium,3172,CS Visé ,193321,250 Th. €,Luigi Vaccaro,14/15,Belgium,2715,Seraing United 
-"Jul 1, 2013",,Free transfer,Belgium,1245,AS Eupen ,193321,250 Th. €,Luigi Vaccaro,13/14,Belgium,3172,CS Visé 
-"Jul 1, 2011",,-,Belgium,15651,AS Eupen Reserve ,193321,-,Luigi Vaccaro,11/12,Belgium,1245,AS Eupen 
-"Jul 1, 2016",,?,Belgium,2727,OH Leuven ,195910,"1,20 Mill. €",Yohan Croizet,16/17,Belgium,354,KV Mechelen 
-"Jul 1, 2014",,transfervrij,Belgium,1199,RE Virton ,195910,100 Th. €,Yohan Croizet,14/15,Belgium,2727,OH Leuven 
-"Jul 1, 2013",,transfervrij,France,347,FC Metz ,195910,100 Th. €,Yohan Croizet,13/14,Belgium,1199,RE Virton 
-"Jul 1, 2012",,-,France,8179,FC Metz B ,195910,-,Yohan Croizet,12/13,France,347,FC Metz 
-"Jul 1, 2011",,-,France,10849,FC Metz U19 ,195910,-,Yohan Croizet,11/12,France,8179,FC Metz B 
-"Jul 1, 2015",,Free transfer,Belgium,1411,RAEC Mons ,196721,400 Th. €,Yannick Loemba,15/16,Belgium,2861,KV Oostende 
-"Jul 15, 2014",,?,Belgium,6342,White Star ,196721,200 Th. €,Yannick Loemba,14/15,Belgium,1411,RAEC Mons 
-"Jul 5, 2015",,Free transfer,France,1416,SC Amiens ,198394,100 Th. €,Marvin Baudry,15/16,Belgium,3508,Zulte Waregem 
-"Jul 1, 2012",,-,France,16671,SC Amiens B ,198394,-,Marvin Baudry,12/13,France,1416,SC Amiens 
-"Jun 30, 2016",,End of loan,Belgium,157,KAA Gent ,200796,100 Th. €,Alexis Scholl,15/16,Portugal,10330,Benfica B 
-"Feb 1, 2016",,Loan,Portugal,10330,Benfica B ,200796,25 Th. €,Alexis Scholl,15/16,Belgium,157,KAA Gent 
-"Aug 7, 2015",,Free transfer,Belgium,30857,Anderlecht Res. ,200796,25 Th. €,Alexis Scholl,15/16,Portugal,10330,Benfica B 
-"Jul 1, 2013",,-,Belgium,3038,RSC Anderlecht U19 ,200796,-,Alexis Scholl,13/14,Belgium,30857,Anderlecht Res. 
-"Jan 1, 2013",,-,Belgium,25005,RSCA Youth ,200796,-,Alexis Scholl,12/13,Belgium,3038,RSC Anderlecht U19 
-"Jul 1, 2015",,Free transfer,Belgium,2715,Seraing United ,201248,300 Th. €,Mickaël Tirpan,15/16,Belgium,29228,Mouscron 
-"Jul 1, 2014",,Free transfer,Belgium,2974,Francs Borains ,201248,75 Th. €,Mickaël Tirpan,14/15,Belgium,2715,Seraing United 
-"Jan 15, 2014",,?,Belgium,9010,FCV Dender EH ,201248,75 Th. €,Mickaël Tirpan,13/14,Belgium,2974,Francs Borains 
-"Jun 30, 2016",,End of loan,Belgium,1184,KRC Genk ,207877,"1,80 Mill. €",Ruslan Malinovsky,15/16,Ukraine,660,Shakhtar D. 
-"Jan 1, 2016",,Loan,Ukraine,660,Shakhtar D. ,207877,"1,80 Mill. €",Ruslan Malinovsky,15/16,Belgium,1184,KRC Genk 
-"Dec 31, 2015",,End of loan,Ukraine,10690,Zorya Lugansk ,207877,"1,80 Mill. €",Ruslan Malinovsky,15/16,Ukraine,660,Shakhtar D. 
-"Jan 7, 2014",,Loan,Ukraine,660,Shakhtar D. ,207877,200 Th. €,Ruslan Malinovsky,13/14,Ukraine,10690,Zorya Lugansk 
-"Dec 31, 2013",,End of loan,Ukraine,28998,FK Sevastopol II ,207877,200 Th. €,Ruslan Malinovsky,13/14,Ukraine,37825,Shakhtar 3 
-"Aug 31, 2012",,Loan,Ukraine,37825,Shakhtar 3 ,207877,-,Ruslan Malinovsky,12/13,Ukraine,28998,FK Sevastopol II 
-"Jul 1, 2009",,-,Ukraine,31606,Shakhtar Donetsk U17 ,207877,-,Ruslan Malinovsky,09/10,Ukraine,37825,Shakhtar 3 
-"Jan 1, 2006",,?,Ukraine,75,Unknown ,207877,-,Ruslan Malinovsky,05/06,,31606,Shakhtar Donetsk U17 
-"Jul 1, 2015",,-,Belgium,11973,KV Mechelen U19 ,212574,-,Jordy Peffer,15/16,Belgium,354,KV Mechelen 
-"Jul 1, 2012",,?,Belgium,25005,RSCA Youth ,212574,-,Jordy Peffer,12/13,Belgium,11973,KV Mechelen U19 
-"Jul 1, 2015",,?,Belgium,1199,RE Virton ,216489,200 Th. €,Fabien Antunes,15/16,Belgium,2861,KV Oostende 
-"Jul 1, 2015",,?,Belgium,1199,RE Virton ,216489,200 Th. €,Fabien Antunes,15/16,Belgium,2861,KV Oostende 
-"Jul 14, 2014",,?,France,1154,Red Star 93 ,216489,-,Fabien Antunes,14/15,Belgium,1199,RE Virton 
-"Jul 1, 2013",,Free transfer,France,11374,JA Drancy ,216489,-,Fabien Antunes,13/14,France,1154,Red Star 93 
-"Jan 19, 2016",,Free transfer,Germany,72,1860 Munich ,226194,200 Th. €,Fejsal Mulic,15/16,Belgium,29228,Mouscron 
-"Jul 2, 2015",,-,Germany,73,1860 München II ,226194,200 Th. €,Fejsal Mulic,15/16,Germany,72,1860 Munich 
-"Jul 1, 2013",,?,Serbia,27127,Pazar U19 ,226194,-,Fejsal Mulic,13/14,Germany,73,1860 München II 
-"Jan 20, 2016",,?,France,1160,Olympique Nîmes ,226290,250 Th. €,Fabien Tchenkoua,15/16,Belgium,475,Sint-Truiden 
-"Jul 8, 2015",,Free transfer,France,1290,Grenoble ,226290,250 Th. €,Fabien Tchenkoua,15/16,France,1160,Olympique Nîmes 
-"Aug 8, 2014",,Free transfer,France,10004,Paris FC ,226290,250 Th. €,Fabien Tchenkoua,14/15,France,1290,Grenoble 
-"Aug 12, 2013",,Free transfer,France,1081,CS Sedan ,226290,250 Th. €,Fabien Tchenkoua,13/14,France,10004,Paris FC 
-"Jul 1, 2012",,-,France,10880,CS Sedan-Ardennes B ,226290,-,Fabien Tchenkoua,12/13,France,1081,CS Sedan 
-"Jul 1, 2016",,Free transfer,Belgium,498,KSC Lokeren ,226542,50 Th. €,Tars Notteboom,16/17,Belgium,3126,RC Gent-Zeehaven 
-"Jul 1, 2015",,-,Belgium,43564,KSC Lokeren II ,226542,-,Tars Notteboom,15/16,Belgium,498,KSC Lokeren 
-"Jul 1, 2014",,-,Belgium,3493,KSC Lokeren U19 ,226542,-,Tars Notteboom,14/15,Belgium,43564,KSC Lokeren II 
-"Jul 1, 2014",,Free transfer,Belgium,1096,Royal Antwerpen ,231642,150 Th. €,Salomon Nirisarike,14/15,Belgium,475,Sint-Truiden 
-"Jun 30, 2016",,End of loan,Belgium,2727,OH Leuven ,232848,500 Th. €,Samuel Asamoah,16/17,Belgium,1245,AS Eupen 
-"Jul 16, 2015",,Loan,Belgium,1245,AS Eupen ,232848,500 Th. €,Samuel Asamoah,15/16,Belgium,2727,OH Leuven 
-"Jul 1, 2012",,Free transfer,Qatar,25393,ASPIRE Academy ,232848,-,Samuel Asamoah,12/13,Belgium,1245,AS Eupen 
-"Jan 5, 2016",,?,England,991,MK Dons ,232859,200 Th. €,Cristian Benavente,15/16,Belgium,172,RSC Charleroi 
-"Jul 17, 2015",,Free transfer,Spain,6767,R. M. Castilla ,232859,-,Cristian Benavente,15/16,England,991,MK Dons 
-"Jul 1, 2013",,-,Spain,28870,Real Madrid U19 ,232859,200 Th. €,Cristian Benavente,13/14,Spain,6767,R. M. Castilla 
-"Jul 1, 2011",,-,Spain,13711,R. Madrid Youth ,232859,-,Cristian Benavente,11/12,Spain,28870,Real Madrid U19 
-"Jul 1, 2016",,"2,20 Mill. €",Egypt,7,Ahly ,234189,"1,50 Mill. €",Trezeguet,16/17,Belgium,58,RSC Anderlecht 
-"Jun 30, 2016",,End of loan,Belgium,58,RSC Anderlecht ,234189,"1,50 Mill. €",Trezeguet,15/16,Egypt,7,Ahly 
-"Aug 6, 2015",,"Loan fee:1,00 Mill. €",Egypt,7,Ahly ,234189,"1,80 Mill. €",Trezeguet,15/16,Belgium,58,RSC Anderlecht 
-"Jul 1, 2012",,-,Egypt,15917,El Ahly U23 ,234189,-,Trezeguet,12/13,Egypt,7,Ahly 
-"Jul 12, 2015",,Free transfer,Portugal,10331,Porto B ,234499,300 Th. €,Frédéric Maciel,15/16,Belgium,29228,Mouscron 
-"Jul 1, 2013",,-,Portugal,9844,FC Porto U19 ,234499,300 Th. €,Frédéric Maciel,13/14,Portugal,10331,Porto B 
-"Jul 1, 2011",,-,Portugal,47962,Dragon Force ,234499,-,Frédéric Maciel,11/12,Portugal,9844,FC Porto U19 
-"Jul 1, 2016",,Free transfer,Belgium,475,Sint-Truiden ,237829,400 Th. €,Mathias Schils,16/17,Belgium,5026,Lommel United 
-"Jul 1, 2012",,-,Belgium,10431,St. Truiden U19 ,237829,-,Mathias Schils,12/13,Belgium,475,Sint-Truiden 
-"Jan 7, 2016",,"1,50 Mill. €",Belgium,475,Sint-Truiden ,237846,"1,20 Mill. €",Edmílson Junior,15/16,Belgium,3057,Standard Liège 
-"Jul 1, 2012",,-,Belgium,10431,St. Truiden U19 ,237846,-,Edmílson Junior,12/13,Belgium,475,Sint-Truiden 
-"Feb 1, 2016",,350 Th. €,Croatia,2362,Slaven Belupo ,238474,500 Th. €,Ljuban Crepulja,15/16,Belgium,354,KV Mechelen 
-"Jul 1, 2013",,Free transfer,Croatia,485,Hrv Dragovoljac ,238474,-,Ljuban Crepulja,13/14,Croatia,2362,Slaven Belupo 
-"Aug 10, 2012",,?,Croatia,9641,Din. Zagreb U19 ,238474,-,Ljuban Crepulja,12/13,Croatia,485,Hrv Dragovoljac 
-"Aug 8, 2011",,?,Croatia,26029,Lokomotiva U19 ,238474,-,Ljuban Crepulja,11/12,Croatia,9641,Din. Zagreb U19 
-"Jul 30, 2010",,?,Croatia,552,Segesta Sisak ,238474,-,Ljuban Crepulja,10/11,Croatia,26029,Lokomotiva U19 
-"Jul 1, 2009",,-,Croatia,38732,Segesta U17 ,238474,-,Ljuban Crepulja,09/10,Croatia,552,Segesta Sisak 
-"Jul 1, 2008",,-,Croatia,38731,Segesta Jgd ,238474,-,Ljuban Crepulja,08/09,Croatia,38732,Segesta U17 
-"Nov 5, 2015",,-,Belgium,9631,Westerlo U19 ,240057,-,Gijs Brouwers,15/16,Belgium,968,KVC Westerlo 
-"Jul 1, 2014",,-,Belgium,3494,KRC Genk U19 ,240057,-,Gijs Brouwers,14/15,Belgium,9631,Westerlo U19 
-"Jul 1, 2014",,?,Belgium,34282,Genk Youth ,240057,-,Gijs Brouwers,14/15,Belgium,3494,KRC Genk U19 
-"Jan 4, 2016",,"1,10 Mill. €",Albania,12469,KF Skënderbeu ,248393,725 Th. €,Peter Olayinka,15/16,Belgium,157,KAA Gent 
-"Aug 31, 2014",,30 Th. €,Albania,21234,FK Bylis Ballsh ,248393,50 Th. €,Peter Olayinka,14/15,Albania,12469,KF Skënderbeu 
-"Jun 30, 2014",,End of loan,Cyprus,41333,Yenicami AK ,248393,25 Th. €,Peter Olayinka,13/14,Albania,21234,FK Bylis Ballsh 
-"Sep 4, 2013",,Loan,Albania,21234,FK Bylis Ballsh ,248393,25 Th. €,Peter Olayinka,13/14,Cyprus,41333,Yenicami AK 
-"Jul 1, 2012",,-,Albania,35858,FK Bylis U19 ,248393,-,Peter Olayinka,12/13,Albania,21234,FK Bylis Ballsh 
-"Jan 28, 2012",,?,Nigeria,35498,36 Lion FC ,248393,-,Peter Olayinka,11/12,Albania,35858,FK Bylis U19 
-"Jul 1, 2015",,-,Belgium,8164,Standard U19 ,249543,-,Ryan Mmaee,15/16,Belgium,3057,Standard Liège 
-"Jul 1, 2013",,?,Belgium,34281,Gent Youth ,249543,-,Ryan Mmaee,13/14,Belgium,8164,Standard U19 
-"Jul 1, 2015",,Free transfer,Belgium,43560,Club Brugge 21 ,250590,-,Senne Van Dooren,15/16,Belgium,28643,Waasl.-Beveren 
-"Jul 1, 2013",,-,Belgium,14645,Beerschot U19 ,250590,-,Senne Van Dooren,13/14,Belgium,43560,Club Brugge 21 
-"Jan 16, 2016",,150 Th. €,Romania,312,Dinamo Bukarest ,250638,"1,00 Mill. €",Collins Fai,15/16,Belgium,3057,Standard Liège 
-"Jul 20, 2013",,Free transfer,Cameroon,5070,Union Douala ,250638,50 Th. €,Collins Fai,13/14,Romania,312,Dinamo Bukarest 
-"Jun 30, 2013",,End of loan,Cameroon,37354,Njalla Quan SA ,250638,-,Collins Fai,12/13,Cameroon,5070,Union Douala 
-"Jan 1, 2013",,Loan,Cameroon,5070,Union Douala ,250638,-,Collins Fai,12/13,Cameroon,37354,Njalla Quan SA 
-"Jul 1, 2011",,Free transfer,Cameroon,18671,FC Bamenda ,250638,-,Collins Fai,11/12,Cameroon,5070,Union Douala 
-"Feb 1, 2016",,?,Ghana,13607,Liberty Prof. ,254280,-,Reuben Acquah,15/16,Belgium,354,KV Mechelen 
-"Jan 1, 2014",,?,Ghana,28962,RB Ghana ,254280,-,Reuben Acquah,13/14,Ghana,13607,Liberty Prof. 
-"Jun 30, 2016",,End of loan,Belgium,2727,OH Leuven ,258139,250 Th. €,Slobodan Urosevic,15/16,Serbia,788,Napredak 
-"Jul 2, 2015",,Loan,Serbia,788,Napredak ,258139,350 Th. €,Slobodan Urosevic,15/16,Belgium,2727,OH Leuven 
-"Aug 1, 2014",,?,Serbia,902,Rad ,258139,150 Th. €,Slobodan Urosevic,14/15,Serbia,788,Napredak 
-"Dec 31, 2012",,End of loan,Serbia,8975,BASK Belgrad ,258139,-,Slobodan Urosevic,12/13,Serbia,902,Rad 
-"Jul 1, 2012",,Loan,Serbia,902,Rad ,258139,-,Slobodan Urosevic,12/13,Serbia,8975,BASK Belgrad 
-"Jul 1, 2015",,Free transfer,Slovakia,540,Slo. Bratislava ,260979,450 Th. €,Branislav Ninaj,15/16,Belgium,498,KSC Lokeren 
-"Jan 1, 2013",,-,Slovakia,19858,Bratislava U19 ,260979,-,Branislav Ninaj,12/13,Slovakia,540,Slo. Bratislava 
-"Jun 30, 2016",,End of loan,Belgium,498,KSC Lokeren ,264063,700 Th. €,Sergiy Bolbat,15/16,Ukraine,660,Shakhtar D. 
-"Jul 20, 2015",,Loan,Ukraine,660,Shakhtar D. ,264063,900 Th. €,Sergiy Bolbat,15/16,Belgium,498,KSC Lokeren 
-"Jul 1, 2015",,-,Ukraine,8963,Shakhtar II ,264063,900 Th. €,Sergiy Bolbat,15/16,Ukraine,660,Shakhtar D. 
-"Jun 30, 2015",,End of loan,Ukraine,6414,Metalist ,264063,900 Th. €,Sergiy Bolbat,14/15,Ukraine,8963,Shakhtar II 
-"Aug 31, 2014",,Loan,Ukraine,8963,Shakhtar II ,264063,700 Th. €,Sergiy Bolbat,14/15,Ukraine,6414,Metalist 
-"Jun 30, 2014",,End of loan,Ukraine,2783,Metalurg D. ,264063,700 Th. €,Sergiy Bolbat,13/14,Ukraine,8963,Shakhtar II 
-"Sep 2, 2013",,Loan,Ukraine,8963,Shakhtar II ,264063,-,Sergiy Bolbat,13/14,Ukraine,2783,Metalurg D. 
-"Jul 1, 2013",,-,Ukraine,37825,Shakhtar 3 ,264063,-,Sergiy Bolbat,13/14,Ukraine,8963,Shakhtar II 
-"Jul 1, 2015",,-,Belgium,30857,Anderlecht Res. ,264176,-,Liam Bossin,15/16,Belgium,58,RSC Anderlecht 
-"Jul 1, 2013",,?,Belgium,6342,White Star ,264176,-,Liam Bossin,13/14,Belgium,30857,Anderlecht Res. 
-"Jul 1, 2015",,-,Belgium,8164,Standard U19 ,265568,-,Achraf Achaoui,15/16,Belgium,3057,Standard Liège 
-"Jul 1, 2013",,?,Belgium,34281,Gent Youth ,265568,-,Achraf Achaoui,13/14,Belgium,8164,Standard U19 
-"Jul 1, 2014",,-,Belgium,10431,St. Truiden U19 ,268122,-,Iebe Swers,14/15,Belgium,475,Sint-Truiden 
-"Aug 31, 2015",,?,Ghana,35141,New Edubiase ,269553,-,Abraham Attobrah,15/16,Belgium,601,KV Kortrijk 
-"Aug 31, 2015",,"3,50 Mill. €",Brazil,1023,Palmeiras ,270414,"2,50 Mill. €",Leandro Pereira,15/16,Belgium,2282,Club Brugge 
-"Jan 1, 2015",,"1,50 Mill. €",Brazil,16837,Cianorte ,270414,300 Th. €,Leandro Pereira,14/15,Brazil,1023,Palmeiras 
-"Dec 10, 2014",,End of loan,Brazil,17776,Chapecoense ,270414,300 Th. €,Leandro Pereira,14/15,Brazil,16837,Cianorte 
-"Apr 7, 2014",,Loan,Brazil,16837,Cianorte ,270414,-,Leandro Pereira,13/14,Brazil,17776,Chapecoense 
-"Apr 4, 2014",,End of loan,Brazil,10247,Portuguesa ,270414,-,Leandro Pereira,13/14,Brazil,16837,Cianorte 
-"Jan 15, 2014",,Loan,Brazil,16837,Cianorte ,270414,-,Leandro Pereira,13/14,Brazil,10247,Portuguesa 
-"Jan 13, 2014",,Free transfer,Brazil,3297,Capivariano FC ,270414,-,Leandro Pereira,13/14,Brazil,16837,Cianorte 
-"Nov 1, 2013",,End of loan,Brazil,16441,Icasa ,270414,-,Leandro Pereira,13/14,Brazil,3297,Capivariano FC 
-"May 1, 2013",,Loan,Brazil,3297,Capivariano FC ,270414,-,Leandro Pereira,12/13,Brazil,16441,Icasa 
-"Jun 30, 2016",,End of loan,Belgium,29228,Mouscron ,271284,"1,00 Mill. €",Cristian Manea,15/16,Cyprus,429,Apol. Limassol 
-"Aug 31, 2015",,Loan,Cyprus,429,Apol. Limassol ,271284,"1,50 Mill. €",Cristian Manea,15/16,Belgium,29228,Mouscron 
-"Jun 30, 2015",,End of loan,Romania,29831,FC Viitorul ,271284,"1,50 Mill. €",Cristian Manea,14/15,Cyprus,429,Apol. Limassol 
-"Jul 2, 2014",,Loan,Cyprus,429,Apol. Limassol ,271284,300 Th. €,Cristian Manea,14/15,Romania,29831,FC Viitorul 
-"Jul 1, 2014",,"2,50 Mill. €",Romania,29831,FC Viitorul ,271284,300 Th. €,Cristian Manea,14/15,Cyprus,429,Apol. Limassol 
-"Mar 1, 2014",,-,Romania,32721,Ac. Hagi (FCV) ,271284,-,Cristian Manea,13/14,Romania,29831,FC Viitorul 
-"Jul 1, 2015",,Free transfer,France,11300,AC Arles-Avign. ,276896,400 Th. €,Samuel Gigot,15/16,Belgium,601,KV Kortrijk 
-"Jul 1, 2013",,-,France,24020,AC Arles ,276896,-,Samuel Gigot,13/14,France,11300,AC Arles-Avign. 
-"Jul 1, 2015",,?,Belgium,2715,Seraing United ,277145,450 Th. €,Florent Stevance,15/16,Belgium,172,RSC Charleroi 
-"Jul 1, 2014",,transfervrij,Belgium,2974,Francs Borains ,277145,-,Florent Stevance,14/15,Belgium,2715,Seraing United 
-"Jul 1, 2013",,?,France,30398,AS Aulnoye ,277145,-,Florent Stevance,13/14,Belgium,2974,Francs Borains 
-"Jul 9, 2014",,Free transfer,Belgium,3172,CS Visé ,278702,-,Faycal Rherras,14/15,Belgium,475,Sint-Truiden 
-"Jul 1, 2013",,?,Belgium,14645,Beerschot U19 ,278702,-,Faycal Rherras,13/14,Belgium,3172,CS Visé 
-"Jul 1, 2012",,?,Belgium,6640,Club Bruges U19 ,278702,-,Faycal Rherras,12/13,Belgium,14645,Beerschot U19 
-"Jul 1, 2010",,?,Belgium,10459,Standard Youth ,278702,-,Faycal Rherras,10/11,Belgium,25003,Club Brugge Jgd 
-"Jul 1, 2015",,Free transfer,Belgium,3105,RCS Verviers ,280700,-,Yohan Boli,15/16,Belgium,475,Sint-Truiden 
-"Jul 1, 2014",,-,Belgium,2977,KSV Roeselare ,280700,-,Yohan Boli,14/15,Belgium,3105,RCS Verviers 
-"Jul 1, 2013",,?,France,10880,CS Sedan-Ardennes B ,280700,-,Yohan Boli,13/14,Belgium,2977,KSV Roeselare 
-"Jan 1, 2012",,?,France,17531,CS Avion ,280700,-,Yohan Boli,11/12,France,10880,CS Sedan-Ardennes B 
-"Jul 1, 2015",,-,Belgium,15687,Oud-Heverlee Leuven U19 ,283580,-,Nick Gillekens,15/16,Belgium,2727,OH Leuven 
-"Jul 1, 2015",,Free transfer,Belgium,46736,KRC Genk II ,285946,-,Dieter Creemers,15/16,Belgium,498,KSC Lokeren 
-"Jul 1, 2014",,-,Belgium,3494,KRC Genk U19 ,285946,-,Dieter Creemers,14/15,Belgium,46736,KRC Genk II 
-"Jul 1, 2015",,-,Belgium,10459,Standard Youth ,285998,-,Ayrton Mboko,14/15,Belgium,8164,Standard U19 
-"Jun 30, 2016",,End of loan,Belgium,3057,Standard Liège ,288496,"4,00 Mill. €",Gabriel Boschilia,15/16,France,162,Monaco 
-"Jan 9, 2016",,Loan,France,162,Monaco ,288496,"5,00 Mill. €",Gabriel Boschilia,15/16,Belgium,3057,Standard Liège 
-"Aug 11, 2015",,"9,06 Mill. €",Brazil,585,São Paulo ,288496,"3,00 Mill. €",Gabriel Boschilia,15/16,France,162,Monaco 
-"Jan 20, 2014",,-,Brazil,14679,São Paulo U17 ,288496,-,Gabriel Boschilia,13/14,Brazil,585,São Paulo 
-"Jul 1, 2015",,Free transfer,Belgium,30857,Anderlecht Res. ,289581,-,Glenn Leemans,15/16,Belgium,28643,Waasl.-Beveren 
-"Jul 1, 2014",,-,Belgium,3038,RSC Anderlecht U19 ,289581,-,Glenn Leemans,14/15,Belgium,30857,Anderlecht Res. 
-"Jul 1, 2015",,-,Belgium,6640,Club Bruges U19 ,289640,-,Jens Teunckens,15/16,Belgium,2282,Club Brugge 
-"Jan 7, 2016",,?,Belgium,475,Sint-Truiden ,291222,"1,50 Mill. €",Jean-Luc Dompé,15/16,Belgium,3057,Standard Liège 
-"Jul 1, 2015",,Free transfer,France,1423,FC Valenciennes ,291222,400 Th. €,Jean-Luc Dompé,15/16,Belgium,475,Sint-Truiden 
-"Jan 1, 2015",,-,France,16663,Valenciennes B ,291222,-,Jean-Luc Dompé,14/15,France,1423,FC Valenciennes 
-"Jul 1, 2015",,?,Belgium,8164,Standard U19 ,292806,-,Casper de Norre,15/16,Belgium,10431,St. Truiden U19 
-"Jul 1, 2015",,?,Belgium,34281,Gent Youth ,292809,-,Mathias Janssens,15/16,Belgium,28643,Waasl.-Beveren 
-"Jul 1, 2014",,?,Belgium,41621,Mons Youth ,292809,-,Mathias Janssens,14/15,Belgium,34281,Gent Youth 
-"Jul 30, 2015",,?,Nigeria,42221,El-Kadme Acad. ,295327,-,Saviour Godwin,15/16,Belgium,2861,KV Oostende 
-"Jul 1, 2015",,350 Th. €,Portugal,10949,Sporting B ,301815,100 Th. €,Lewis Enoh,15/16,Belgium,498,KSC Lokeren 
-"Jun 30, 2015",,End of loan,Portugal,3345,Leixões ,301815,100 Th. €,Lewis Enoh,14/15,Portugal,10949,Sporting B 
-"Jan 22, 2015",,Loan,Portugal,10949,Sporting B ,301815,100 Th. €,Lewis Enoh,14/15,Portugal,3345,Leixões 
-"Jan 1, 2014",,35 Th. €,Portugal,11298,Sourense ,301815,-,Lewis Enoh,13/14,Portugal,10949,Sporting B 
-"Jul 1, 2013",,?,Portugal,35119,Alcanenense ,301815,-,Lewis Enoh,13/14,Portugal,11298,Sourense 
-"Oct 25, 2015",,-,Belgium,30857,Anderlecht Res. ,303259,-,Dodi Lukebakio,15/16,Belgium,58,RSC Anderlecht 
-"Jul 1, 2014",,-,Belgium,3038,RSC Anderlecht U19 ,303259,-,Dodi Lukebakio,14/15,Belgium,30857,Anderlecht Res. 
-"Jul 23, 2015",,?,Ghana,37487,Dreams FC ,306382,-,Benjamin Tetteh,15/16,Belgium,3057,Standard Liège 
-"Jul 1, 2014",,?,Ghana,36368,Tudu Mighty Jet ,306382,-,Benjamin Tetteh,14/15,Ghana,37487,Dreams FC 
-"Jul 1, 2015",,?,Belgium,2977,KSV Roeselare ,316406,350 Th. €,Olivier Myny,15/16,Belgium,28643,Waasl.-Beveren 
-"Jul 1, 2014",,Free transfer,Belgium,43293,Zulte II ,316406,-,Olivier Myny,14/15,Belgium,2977,KSV Roeselare 
+"Jul 1, 2015",,?,Greece,683.0,Olympiacos ,42938,700 Th. €,Athanasios Papazoglou,15/16,Belgium,601.0,KV Kortrijk 
+"Jun 30, 2015",,End of loan,Greece,3060.0,Atromitos Athen ,42938,700 Th. €,Athanasios Papazoglou,14/15,Greece,683.0,Olympiacos 
+"Aug 8, 2014",,Loan,Greece,683.0,Olympiacos ,42938,600 Th. €,Athanasios Papazoglou,14/15,Greece,3060.0,Atromitos Athen 
+"Jul 6, 2014",,Free transfer,Greece,653.0,OFI Kreta ,42938,600 Th. €,Athanasios Papazoglou,14/15,Greece,683.0,Olympiacos 
+"Aug 8, 2012",,Free transfer,Greece,1091.0,PAOK Saloniki ,42938,500 Th. €,Athanasios Papazoglou,12/13,Greece,653.0,OFI Kreta 
+"Jun 30, 2011",,End of loan,Greece,6676.0,Ast. Tripolis ,42938,500 Th. €,Athanasios Papazoglou,10/11,Greece,1091.0,PAOK Saloniki 
+"Jan 31, 2011",,Loan,Greece,1091.0,PAOK Saloniki ,42938,700 Th. €,Athanasios Papazoglou,10/11,Greece,6676.0,Ast. Tripolis 
+"Jul 1, 2009",,Free transfer,Greece,605.0,Aris Saloniki ,42938,800 Th. €,Athanasios Papazoglou,09/10,Greece,1091.0,PAOK Saloniki 
+"Jul 1, 2006",,-,Greece,14778.0,Aris U20 ,42938,-,Athanasios Papazoglou,06/07,Greece,605.0,Aris Saloniki 
+"Jun 30, 2016",,End of loan,Belgium,2727.0,OH Leuven ,59148,450 Th. €,Oleksandr Volovyk,15/16,Ukraine,660.0,Shakhtar D. 
+"Aug 20, 2015",,Loan,Ukraine,660.0,Shakhtar D. ,59148,600 Th. €,Oleksandr Volovyk,15/16,Belgium,2727.0,OH Leuven 
+"Jul 1, 2013",,?,Ukraine,2783.0,Metalurg D. ,59148,"1,50 Mill. €",Oleksandr Volovyk,13/14,Ukraine,660.0,Shakhtar D. 
+"Jan 1, 2008",,-,Ukraine,12425.0,Metalurg Donetsk II ,59148,-,Oleksandr Volovyk,07/08,Ukraine,2783.0,Metalurg D. 
+"Dec 31, 2007",,End of loan,Ukraine,10468.0,Stal Alchevsk ,59148,-,Oleksandr Volovyk,07/08,Ukraine,12425.0,Metalurg Donetsk II 
+"Jul 1, 2007",,Loan,Ukraine,12425.0,Metalurg Donetsk II ,59148,-,Oleksandr Volovyk,07/08,Ukraine,10468.0,Stal Alchevsk 
+"Jul 1, 2006",,?,Ukraine,26461.0,Khmelnytsky ,59148,-,Oleksandr Volovyk,06/07,Ukraine,12425.0,Metalurg Donetsk II 
+"Jul 1, 2015",,Free transfer,Croatia,2362.0,Slaven Belupo ,60838,750 Th. €,Marko Miric,15/16,Belgium,498.0,KSC Lokeren 
+"Aug 11, 2014",,Free transfer,Belarus,23664.0,FK Minsk ,60838,300 Th. €,Marko Miric,14/15,Croatia,2362.0,Slaven Belupo 
+"Jan 30, 2014",,Free transfer,Serbia,159.0,Red Star ,60838,300 Th. €,Marko Miric,13/14,Belarus,23664.0,FK Minsk 
+"Jun 30, 2013",,End of loan,Serbia,4645.0,Radnicki 1923 ,60838,400 Th. €,Marko Miric,12/13,Serbia,159.0,Red Star 
+"Jan 26, 2013",,Loan,Serbia,159.0,Red Star ,60838,400 Th. €,Marko Miric,12/13,Serbia,4645.0,Radnicki 1923 
+"Jan 1, 2012",,153 Th. €,Serbia,15276.0,Spartak Sub. ,60838,800 Th. €,Marko Miric,11/12,Serbia,159.0,Red Star 
+"Jul 1, 2009",,?,Serbia,12135.0,FK Metalac ,60838,50 Th. €,Marko Miric,09/10,Serbia,15276.0,Spartak Sub. 
+"Jul 9, 2015",,Free transfer,Denmark,2778.0,Nordsjaelland ,66638,750 Th. €,Mario Ticinovic,15/16,Belgium,498.0,KSC Lokeren 
+"Jul 1, 2012",,135 Th. €,Croatia,447.0,Hajduk Split ,66638,500 Th. €,Mario Ticinovic,12/13,Denmark,2778.0,Nordsjaelland 
+"Jun 30, 2012",,End of loan,Denmark,2778.0,Nordsjaelland ,66638,500 Th. €,Mario Ticinovic,11/12,Croatia,447.0,Hajduk Split 
+"Jan 1, 2012",,Loan,Croatia,447.0,Hajduk Split ,66638,500 Th. €,Mario Ticinovic,11/12,Denmark,2778.0,Nordsjaelland 
+"Dec 31, 2010",,End of loan,Croatia,10314.0,Karlovac 1919 ,66638,850 Th. €,Mario Ticinovic,10/11,Croatia,447.0,Hajduk Split 
+"Aug 1, 2010",,Loan,Croatia,447.0,Hajduk Split ,66638,"1,00 Mill. €",Mario Ticinovic,10/11,Croatia,10314.0,Karlovac 1919 
+"Jul 1, 2008",,-,Croatia,36344.0,Hajduk U17 ,66638,150 Th. €,Mario Ticinovic,08/09,Croatia,447.0,Hajduk Split 
+"Jul 1, 2006",,-,Croatia,36360.0,Hajduk Jgd ,66638,-,Mario Ticinovic,06/07,Croatia,36344.0,Hajduk U17 
+"Jul 1, 2004",,Free transfer,Croatia,36423.0,Junak Sinj Jgd ,66638,-,Mario Ticinovic,04/05,Croatia,36360.0,Hajduk Jgd 
+"Jul 1, 2015",,?,Belgium,5026.0,Lommel United ,83407,500 Th. €,Romero Regales,15/16,Belgium,2727.0,OH Leuven 
+"Jul 1, 2013",,Free transfer,Belgium,3225.0,Patro Eisden ,83407,75 Th. €,Romero Regales,13/14,Belgium,5026.0,Lommel United 
+"Jul 1, 2012",,Free transfer,Belgium,3598.0,Excelsior Veldwezelt ,83407,75 Th. €,Romero Regales,12/13,Belgium,3225.0,Patro Eisden 
+"Jun 1, 2011",,Free transfer,Netherlands,12612.0,FC Vinkenslag ,83407,75 Th. €,Romero Regales,10/11,Belgium,3598.0,Excelsior Veldwezelt 
+"Jul 1, 2009",,Free transfer,Netherlands,385.0,Fortuna Sittard ,83407,75 Th. €,Romero Regales,09/10,Netherlands,12612.0,FC Vinkenslag 
+"Jul 1, 2008",,-,Netherlands,18338.0,Sittard U21 ,83407,-,Romero Regales,08/09,Netherlands,385.0,Fortuna Sittard 
+"Jul 1, 2007",,Free transfer,Netherlands,20250.0,RKVV Almania ,83407,-,Romero Regales,07/08,Netherlands,18338.0,Sittard U21 
+"Jan 1, 2016",,Free transfer,Denmark,1053.0,Aalborg BK ,93315,600 Th. €,Henrik Dalsgaard,15/16,Belgium,3508.0,Zulte Waregem 
+"Jan 1, 2009",,Free transfer,Denmark,20974.0,Møldrup/Tostr. ,93315,-,Henrik Dalsgaard,08/09,Denmark,1053.0,Aalborg BK 
+"Jun 30, 2016",,End of loan,Belgium,28643.0,Waasl.-Beveren ,98827,800 Th. €,Ousseynou Cissé,15/16,Spain,367.0,Rayo Vallecano 
+"Jan 3, 2016",,Loan,Spain,367.0,Rayo Vallecano ,98827,800 Th. €,Ousseynou Cissé,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 5, 2015",,Free transfer,France,2969.0,Dijon ,98827,800 Th. €,Ousseynou Cissé,15/16,Spain,367.0,Rayo Vallecano 
+"Jul 1, 2012",,Free transfer,France,1416.0,SC Amiens ,98827,300 Th. €,Ousseynou Cissé,12/13,France,2969.0,Dijon 
+"Jul 1, 2009",,-,France,16671.0,SC Amiens B ,98827,-,Ousseynou Cissé,09/10,France,1416.0,SC Amiens 
+"Aug 31, 2015",,Free transfer,France,290.0,AJ Auxerre ,108587,500 Th. â‚¬,Amara Baby,15/16,Belgium,172.0,RSC Charleroi 
+"Sep 1, 2014",,Free transfer,France,1175.0,LB ChÃ¢teauroux ,108587,500 Th. â‚¬,Amara Baby,14/15,France,290.0,AJ Auxerre 
+"Jun 30, 2014",,End of loan,France,1080.0,Stade Laval ,108587,500 Th. â‚¬,Amara Baby,13/14,France,1175.0,LB ChÃ¢teauroux 
+"Aug 13, 2013",,Loan,France,1175.0,LB ChÃ¢teauroux ,108587,500 Th. â‚¬,Amara Baby,13/14,France,1080.0,Stade Laval 
+"Jun 30, 2013",,End of loan,France,1164.0,Le Mans ,108587,500 Th. â‚¬,Amara Baby,12/13,France,1175.0,LB ChÃ¢teauroux 
+"Aug 23, 2012",,Loan,France,1175.0,LB ChÃ¢teauroux ,108587,500 Th. â‚¬,Amara Baby,12/13,France,1164.0,Le Mans 
+"Jul 1, 2009",,-,France,12761.0,LB ChÃ¢teauroux B ,108587,-,Amara Baby,09/10,France,1175.0,LB ChÃ¢teauroux 
+"Jul 1, 2015",,Free transfer,Belgium,1245.0,AS Eupen ,110724,400 Th. €,Michael Lallemand,15/16,Belgium,601.0,KV Kortrijk 
+"Jul 1, 2012",,Free transfer,Belgium,24394.0,Standard Res. ,110724,200 Th. €,Michael Lallemand,12/13,Belgium,1245.0,AS Eupen 
+"Jun 30, 2012",,End of loan,Belgium,1245.0,AS Eupen ,110724,200 Th. €,Michael Lallemand,11/12,Belgium,24394.0,Standard Res. 
+"Jul 1, 2011",,Loan,Belgium,24394.0,Standard Res. ,110724,-,Michael Lallemand,11/12,Belgium,1245.0,AS Eupen 
+"Jul 1, 2010",,-,Belgium,8164.0,Standard U19 ,110724,-,Michael Lallemand,10/11,Belgium,24394.0,Standard Res. 
+"Jul 1, 2009",,-,Belgium,10459.0,Standard Youth ,110724,-,Michael Lallemand,09/10,Belgium,8164.0,Standard U19 
+"Jul 7, 2015",,?,Israel,6105.0,FC Ashdod ,112008,350 Th. €,Ofir Marciano,15/16,Belgium,29228.0,Mouscron 
+"Jul 1, 2008",,-,Israel,26926.0,FC Ashdod U19 ,112008,-,Ofir Marciano,08/09,Israel,6105.0,FC Ashdod 
+"Aug 6, 2015",,?,Finland,1008.0,HJK Helsinki ,123595,300 Th. €,Valtteri Moren,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jan 1, 2011",,-,Finland,11131.0,Klubi-04 ,123595,50 Th. €,Valtteri Moren,10/11,Finland,1008.0,HJK Helsinki 
+"Jan 1, 2009",,?,Finland,8807.0,PK-35 ,123595,-,Valtteri Moren,08/09,Finland,11131.0,Klubi-04 
+"Jan 1, 2007",,?,Finland,22298.0,FC Kiffen 08 ,123595,-,Valtteri Moren,06/07,Finland,8807.0,PK-35 
+"Jan 8, 2016",,"1,00 Mill. €",Brazil,221.0,Santos FC ,124701,"1,75 Mill. €",Rafael Galhardo,15/16,Belgium,58.0,RSC Anderlecht 
+"Dec 31, 2015",,End of loan,Brazil,210.0,Grêmio ,124701,"1,75 Mill. €",Rafael Galhardo,15/16,Brazil,221.0,Santos FC 
+"Jan 10, 2015",,Loan,Brazil,221.0,Santos FC ,124701,500 Th. €,Rafael Galhardo,14/15,Brazil,210.0,Grêmio 
+"Dec 31, 2014",,End of loan,Brazil,10010.0,Bahia ,124701,500 Th. €,Rafael Galhardo,14/15,Brazil,221.0,Santos FC 
+"Jan 1, 2014",,Loan,Brazil,221.0,Santos FC ,124701,500 Th. €,Rafael Galhardo,13/14,Brazil,10010.0,Bahia 
+"May 16, 2012",,Swap deal,Brazil,614.0,Flamengo ,124701,400 Th. €,Rafael Galhardo,11/12,Brazil,221.0,Santos FC 
+"Aug 1, 2009",,-,Brazil,16666.0,Flamengo ,124701,-,Rafael Galhardo,09/10,Brazil,614.0,Flamengo 
+"Aug 25, 2015",,500 Th. €,Poland,318.0,Ruch Chorzow ,127437,300 Th. €,Eduards Visnakovs,15/16,Belgium,968.0,KVC Westerlo 
+"Aug 28, 2014",,200 Th. €,Poland,88.0,Widzew Lodz ,127437,650 Th. €,Eduards Visnakovs,14/15,Poland,318.0,Ruch Chorzow 
+"Jul 22, 2013",,Free transfer,Kazakhstan,10480.0,Schachtjor K. ,127437,200 Th. €,Eduards Visnakovs,13/14,Poland,88.0,Widzew Lodz 
+"Jul 1, 2012",,?,Latvia,2782.0,Ventspils ,127437,200 Th. €,Eduards Visnakovs,12/13,Kazakhstan,10480.0,Schachtjor K. 
+"Aug 1, 2009",,?,Latvia,25233.0,FC Tranzits ,127437,-,Eduards Visnakovs,09/10,Latvia,2782.0,Ventspils 
+"Jan 4, 2016",,?,Sweden,699.0,Helsingborgs IF ,131827,900 Th. €,Jere Uronen,15/16,Belgium,1184.0,KRC Genk 
+"Jan 1, 2012",,700 Th. €,Finland,2275.0,TPS ,131827,-,Jere Uronen,11/12,Sweden,699.0,Helsingborgs IF 
+"Jul 1, 2011",,-,Finland,15697.0,TPS U19 ,131827,-,Jere Uronen,11/12,Finland,2275.0,TPS 
+"Jul 2, 2015",,Free transfer,Greece,47.0,Iraklis ,136518,125 Th. €,Konstantinos Rougalas,15/16,Belgium,2727.0,OH Leuven 
+"Feb 9, 2015",,Free transfer,Greece,683.0,Olympiacos ,136518,-,Konstantinos Rougalas,14/15,Greece,47.0,Iraklis 
+"Feb 7, 2015",,End of loan,Spain,3679.0,Atl. Madrid B ,136518,-,Konstantinos Rougalas,14/15,Greece,683.0,Olympiacos 
+"Aug 13, 2014",,Loan,Greece,683.0,Olympiacos ,136518,200 Th. €,Konstantinos Rougalas,14/15,Spain,3679.0,Atl. Madrid B 
+"Jun 30, 2014",,End of loan,Greece,980.0,Fostiras ,136518,200 Th. €,Konstantinos Rougalas,13/14,Greece,683.0,Olympiacos 
+"Jan 29, 2014",,Loan,Greece,683.0,Olympiacos ,136518,200 Th. €,Konstantinos Rougalas,13/14,Greece,980.0,Fostiras 
+"Dec 31, 2013",,End of loan,Greece,5220.0,Ergotelis ,136518,200 Th. €,Konstantinos Rougalas,13/14,Greece,683.0,Olympiacos 
+"Sep 2, 2013",,Loan,Greece,683.0,Olympiacos ,136518,250 Th. €,Konstantinos Rougalas,13/14,Greece,5220.0,Ergotelis 
+"Jul 1, 2012",,-,Greece,7661.0,Olympiakos U20 ,136518,150 Th. €,Konstantinos Rougalas,12/13,Greece,683.0,Olympiacos 
+"Jul 1, 2015",,140 Th. €,China,27190.0,SIPG ,140205,750 Th. €,Bernie Ibini-Isei,15/16,Belgium,2282.0,Club Brugge 
+"May 31, 2015",,End of loan,Australia,8054.0,Sydney FC ,140205,750 Th. €,Bernie Ibini-Isei,14/15,China,27190.0,SIPG 
+"Jul 1, 2014",,Loan,China,27190.0,SIPG ,140205,500 Th. €,Bernie Ibini-Isei,14/15,Australia,8054.0,Sydney FC 
+"May 31, 2014",,End of loan,Australia,6954.0,Central Coast Mariners ,140205,500 Th. €,Bernie Ibini-Isei,13/14,China,27190.0,SH East Asia 
+"Jan 8, 2014",,Loan,China,27190.0,SH East Asia ,140205,400 Th. €,Bernie Ibini-Isei,13/14,Australia,6954.0,Central Coast Mariners 
+"Jul 1, 2013",,450 Th. €,Australia,6954.0,Central Coast Mariners ,140205,500 Th. €,Bernie Ibini-Isei,13/14,China,27190.0,SH East Asia 
+"Jul 1, 2011",,-,Australia,26206.0,C. Coast U21 ,140205,-,Bernie Ibini-Isei,11/12,Australia,6954.0,Central Coast Mariners 
+"Aug 1, 2010",,End of loan,Australia,11375.0,Blacktown City Demons ,140205,-,Bernie Ibini-Isei,10/11,Australia,26206.0,C. Coast U21 
+"Jan 1, 2010",,Loan,Australia,26206.0,C. Coast U21 ,140205,-,Bernie Ibini-Isei,09/10,Australia,11375.0,Blacktown City Demons 
+"Jul 14, 2015",,?,Norway,1100.0,SK Brann ,151567,300 Th. €,Erdin Demir,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jan 1, 2012",,500 Th. €,Sweden,701.0,Trelleborgs FF ,151567,200 Th. €,Erdin Demir,11/12,Norway,1100.0,SK Brann 
+"Jan 1, 2011",,Free transfer,Sweden,3903.0,Bunkeflo ,151567,-,Erdin Demir,10/11,Sweden,701.0,Trelleborgs FF 
+"Jul 1, 2014",,transfervrij,Belgium,2974.0,Francs Borains ,156384,250 Th. €,William Dutoit,14/15,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2010",,?,France,17131.0,ASM Belfort ,156384,-,William Dutoit,10/11,Belgium,2974.0,Francs Borains 
+"Jul 1, 2009",,?,France,16087.0,Vesoul ,156384,-,William Dutoit,09/10,France,17131.0,ASM Belfort 
+"Jul 1, 2008",,?,France,17131.0,ASM Belfort ,156384,-,William Dutoit,08/09,France,16087.0,Vesoul 
+"Feb 1, 2016",,?,Belgium,9010.0,FCV Dender EH ,160746,200 Th. €,Mehdi Terki,15/16,Belgium,498.0,KSC Lokeren 
+"Aug 2, 2012",,?,Belgium,43562.0,KAA Gent II ,160746,200 Th. €,Mehdi Terki,12/13,Belgium,9010.0,FCV Dender EH 
+"Jul 1, 2011",,?,Belgium,1411.0,RAEC Mons ,160746,200 Th. €,Mehdi Terki,11/12,Belgium,43562.0,KAA Gent II 
+"Jul 1, 2010",,-,Belgium,3602.0,RAEC Mons U19 ,160746,-,Mehdi Terki,10/11,Belgium,1411.0,RAEC Mons 
+"Jul 10, 2015",,Free transfer,Spain,237.0,RCD Mallorca ,161356,400 Th. €,Filip Markovic,15/16,Belgium,29228.0,Mouscron 
+"Aug 15, 2014",,Free transfer,Portugal,10330.0,Benfica B ,161356,700 Th. €,Filip Markovic,14/15,Spain,237.0,RCD Mallorca 
+"Jul 1, 2013",,Free transfer,Serbia,669.0,FK Partizan ,161356,-,Filip Markovic,13/14,Portugal,10330.0,Benfica B 
+"Jun 30, 2013",,End of loan,Serbia,4646.0,Teleoptik Zemun ,161356,-,Filip Markovic,12/13,Serbia,669.0,FK Partizan 
+"Aug 1, 2012",,Loan,Serbia,669.0,FK Partizan ,161356,-,Filip Markovic,12/13,Serbia,4646.0,Teleoptik Zemun 
+"Jul 1, 2012",,Free transfer,Serbia,4646.0,Teleoptik Zemun ,161356,-,Filip Markovic,12/13,Serbia,669.0,FK Partizan 
+"Jul 25, 2014",,?,Belgium,3494.0,KRC Genk U19 ,161658,-,Gaëtan Hendrickx,14/15,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2012",,-,Belgium,34282.0,Genk Youth ,161658,-,Gaëtan Hendrickx,13/14,Belgium,3494.0,KRC Genk U19 
+"Jul 1, 2011",,?,Belgium,10459.0,Standard Youth ,161658,-,Gaëtan Hendrickx,11/12,Belgium,34282.0,Genk Youth 
+"Jun 30, 2016",,End of loan,Belgium,3508.0,Zulte Waregem ,163053,"1,50 Mill. €",Mame Thiam,15/16,Italy,506.0,Juventus 
+"Jul 25, 2015",,Loan,Italy,506.0,Juventus ,163053,700 Th. €,Mame Thiam,15/16,Belgium,3508.0,Zulte Waregem 
+"Jul 1, 2015",,"1,40 Mill. €",Italy,4718.0,Virtus Lanciano ,163053,700 Th. €,Mame Thiam,15/16,Italy,506.0,Juventus 
+"Jul 15, 2013",,?,Italy,46.0,Inter ,163053,375 Th. €,Mame Thiam,13/14,Italy,4718.0,Virtus Lanciano 
+"Jun 30, 2013",,End of loan,Italy,4554.0,Südtirol ,163053,375 Th. €,Mame Thiam,12/13,Italy,46.0,Inter 
+"Jul 12, 2012",,Loan,Italy,46.0,Inter ,163053,250 Th. €,Mame Thiam,12/13,Italy,4554.0,Südtirol 
+"Jun 30, 2012",,End of loan,Italy,2331.0,AS Avellino ,163053,250 Th. €,Mame Thiam,11/12,Italy,46.0,Inter 
+"Aug 1, 2011",,Loan,Italy,5380.0,Inter ,163053,75 Th. €,Mame Thiam,11/12,Italy,2331.0,AS Avellino 
+"Jul 1, 2010",,?,Italy,19114.0,Sassuolo ,163053,-,Mame Thiam,10/11,Italy,5380.0,Inter 
+"Jul 1, 2015",,?,Luxembourg,11976.0,CS Fola Esch ,163724,175 Th. €,Laurent Jans,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2011",,Free transfer,Luxembourg,29557.0,FF Norden 02 ,163724,-,Laurent Jans,11/12,Luxembourg,11976.0,CS Fola Esch 
+"Jul 1, 2008",,-,Luxembourg,34264.0,FF Norden02 U17 ,163724,-,Laurent Jans,08/09,Luxembourg,29557.0,FF Norden 02 
+"Jul 7, 2015",,?,France,1420.0,SCO Angers ,175635,500 Th. €,Fabien Boyer,15/16,Belgium,601.0,KV Kortrijk 
+"Jun 30, 2015",,End of loan,France,1175.0,LB Châteauroux ,175635,500 Th. €,Fabien Boyer,14/15,France,1420.0,SCO Angers 
+"Jul 8, 2014",,Loan,France,1420.0,SCO Angers ,175635,500 Th. €,Fabien Boyer,14/15,France,1175.0,LB Châteauroux 
+"Jul 1, 2012",,Free transfer,France,8154.0,FC Stade Rennes B ,175635,-,Fabien Boyer,12/13,France,1420.0,SCO Angers 
+"Jul 1, 2011",,Free transfer,France,9881.0,Jura Sud  ,175635,-,Fabien Boyer,11/12,France,8154.0,FC Stade Rennes B 
+"Jul 1, 2010",,Free transfer,Monaco,9668.0,Monaco B ,175635,-,Fabien Boyer,10/11,France,9881.0,Jura Sud  
+"Jun 30, 2016",,End of loan,Belgium,475.0,Sint-Truiden ,178314,"1,00 Mill. €",Victorien Angban,15/16,England,9250.0,Chelsea U21 
+"Jul 14, 2015",,Loan,England,9250.0,Chelsea U21 ,178314,-,Victorien Angban,15/16,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2014",,-,England,6918.0,Chelsea U18 ,178314,-,Victorien Angban,14/15,England,9250.0,Chelsea U21 
+"Jan 1, 2012",,?,Cote d'Ivoire,1156.0,Stade d'Abidjan ,178314,-,Victorien Angban,11/12,England,6918.0,Chelsea U18 
+"Jun 30, 2016",,End of loan,Belgium,601.0,KV Kortrijk ,179481,650 Th. €,Michael Olaitan,15/16,Greece,683.0,Olympiacos 
+"Jan 17, 2016",,Loan,Greece,683.0,Olympiacos ,179481,"1,25 Mill. €",Michael Olaitan,15/16,Belgium,601.0,KV Kortrijk 
+"Jan 14, 2016",,End of loan,Netherlands,317.0,FC Twente ,179481,"1,25 Mill. €",Michael Olaitan,15/16,Greece,683.0,Olympiacos 
+"Jul 30, 2015",,Loan,Greece,683.0,Olympiacos ,179481,"2,00 Mill. €",Michael Olaitan,15/16,Netherlands,317.0,FC Twente 
+"Jun 30, 2015",,End of loan,Greece,5220.0,Ergotelis ,179481,"2,00 Mill. €",Michael Olaitan,14/15,Greece,683.0,Olympiacos 
+"Jan 29, 2015",,Loan,Greece,683.0,Olympiacos ,179481,"3,00 Mill. €",Michael Olaitan,14/15,Greece,5220.0,Ergotelis 
+"Jul 1, 2013",,Free transfer,Greece,2079.0,PAE Veria ,179481,700 Th. €,Michael Olaitan,13/14,Greece,683.0,Olympiacos 
+"Jan 1, 2011",,Free transfer,Nigeria,25897.0,Mighty Jets ,179481,-,Michael Olaitan,10/11,Greece,2079.0,PAE Veria 
+"Aug 30, 2015",,150 Th. €,Croatia,447.0,Hajduk Split ,179899,300 Th. €,Tomislav Kis,15/16,Belgium,601.0,KV Kortrijk 
+"Jun 30, 2015",,End of loan,Slovenia,23253.0,NK Zavrc ,179899,300 Th. €,Tomislav Kis,14/15,Croatia,447.0,Hajduk Split 
+"Feb 2, 2015",,Loan,Croatia,447.0,Hajduk Split ,179899,300 Th. €,Tomislav Kis,14/15,Slovenia,23253.0,NK Zavrc 
+"Dec 31, 2014",,End of loan,Croatia,24575.0,HNK Gorica ,179899,200 Th. €,Tomislav Kis,14/15,Croatia,447.0,Hajduk Split 
+"Jul 14, 2014",,Loan,Croatia,447.0,Hajduk Split ,179899,200 Th. €,Tomislav Kis,14/15,Croatia,24575.0,HNK Gorica 
+"Jun 30, 2014",,End of loan,Croatia,11148.0,NK Dugopolje ,179899,200 Th. €,Tomislav Kis,13/14,Croatia,447.0,Hajduk Split 
+"Feb 7, 2014",,Loan,Croatia,447.0,Hajduk Split ,179899,200 Th. €,Tomislav Kis,13/14,Croatia,11148.0,NK Dugopolje 
+"Jan 1, 2012",,-,Croatia,11032.0,Hajduk U19 ,179899,-,Tomislav Kis,11/12,Croatia,447.0,Hajduk Split 
+"Jul 15, 2011",,60 Th. €,Croatia,36347.0,C. Sesvete U17 ,179899,-,Tomislav Kis,11/12,Croatia,11032.0,Hajduk U19 
+"Jul 1, 2009",,-,Croatia,41354.0,C. Sesvete Jgd ,179899,-,Tomislav Kis,09/10,Croatia,36347.0,C. Sesvete U17 
+"Aug 18, 2008",,?,Croatia,36341.0,D. Zagreb Jgd. ,179899,-,Tomislav Kis,08/09,Croatia,41354.0,C. Sesvete Jgd 
+"Aug 26, 2005",,?,Croatia,22559.0,NK Dubrava ,179899,-,Tomislav Kis,05/06,Croatia,36341.0,D. Zagreb Jgd. 
+"Jan 1, 2016",,"1,60 Mill. €",Norway,2817.0,Strømsgodset ,180767,"1,10 Mill. €",Gustav Wikheim,15/16,Belgium,157.0,KAA Gent 
+"Aug 1, 2010",,-,Norway,15693.0,Strømsgodset IF U19 ,180767,-,Gustav Wikheim,10/11,Norway,2817.0,Strømsgodset 
+"Jan 29, 2016",,800 Th. €,Congo DR,8428.0,TP Mazembe ,182201,500 Th. €,Mbwana Samatta,15/16,Belgium,1184.0,KRC Genk 
+"Jul 1, 2011",,70 Th. €,Tanzania,14191.0,Simba SC ,182201,-,Mbwana Samatta,11/12,Congo DR,8428.0,TP Mazembe 
+"Jul 1, 2010",,?,Tanzania,26912.0,African Lyon ,182201,-,Mbwana Samatta,10/11,Tanzania,14191.0,Simba SC 
+"Jun 30, 2016",,End of loan,Belgium,29228.0,Mouscron ,182875,700 Th. €,Jean-Charles Castelletto,15/16,Belgium,2282.0,Club Brugge 
+"Feb 1, 2016",,Loan,Belgium,2282.0,Club Brugge ,182875,800 Th. €,Jean-Charles Castelletto,15/16,Belgium,29228.0,Mouscron 
+"Jul 23, 2015",,800 Th. €,France,290.0,AJ Auxerre ,182875,800 Th. €,Jean-Charles Castelletto,15/16,Belgium,2282.0,Club Brugge 
+"Jul 1, 2013",,-,France,10820.0,AJ Auxerre B ,182875,-,Jean-Charles Castelletto,13/14,France,290.0,AJ Auxerre 
+"Jul 1, 2012",,-,France,7817.0,AJ Auxerre U19 ,182875,-,Jean-Charles Castelletto,12/13,France,10820.0,AJ Auxerre B 
+"Apr 6, 2016",,End of loan,Belgium,2715.0,Seraing United ,182878,200 Th. €,Adrian Adam,15/16,Belgium,172.0,RSC Charleroi 
+"Jan 2, 2016",,Loan,Belgium,172.0,RSC Charleroi ,182878,125 Th. €,Adrian Adam,15/16,Belgium,2715.0,Seraing United 
+"Jan 1, 2016",,End of loan,Belgium,3225.0,Patro Eisden ,182878,125 Th. €,Adrian Adam,15/16,Belgium,172.0,RSC Charleroi 
+"Aug 31, 2015",,Loan,Belgium,172.0,RSC Charleroi ,182878,-,Adrian Adam,15/16,Belgium,3225.0,Patro Eisden 
+"Jul 1, 2015",,?,France,8158.0,Nizza B ,182878,-,Adrian Adam,15/16,Belgium,172.0,RSC Charleroi 
+"Jan 13, 2016",,?,France,7042.0,US Boulogne ,190146,150 Th. €,Xavier Mercier,15/16,Belgium,601.0,KV Kortrijk 
+"Jul 1, 2014",,Free transfer,France,3135.0,Beauvais ,190146,150 Th. €,Xavier Mercier,14/15,France,7042.0,US Boulogne 
+"Aug 1, 2012",,Free transfer,France,855.0,Guingamp ,190146,150 Th. €,Xavier Mercier,12/13,France,3135.0,Beauvais 
+"Jul 1, 2011",,-,France,12748.0,EA Guingamp B ,190146,-,Xavier Mercier,11/12,France,855.0,Guingamp 
+"Jul 1, 2010",,Free transfer,France,27011.0,US Lesquin ,190146,-,Xavier Mercier,10/11,France,12748.0,EA Guingamp B 
+"Jul 1, 2009",,Free transfer,France,6572.0,HSC Montpellier B ,190146,-,Xavier Mercier,09/10,France,27011.0,US Lesquin 
+"Jan 2, 2016",,?,Belgium,515.0,Unattached ,192526,200 Th. €,Kevin Tapoko,15/16,,29228.0,Mouscron 
+"Dec 23, 2015",,-,Belgium,2727.0,OH Leuven ,192526,200 Th. €,Kevin Tapoko,15/16,,515.0,Unattached 
+"Feb 2, 2015",,?,Belgium,1910.0,Dessel Sport ,192526,50 Th. €,Kevin Tapoko,14/15,Belgium,2727.0,OH Leuven 
+"Nov 7, 2014",,-,Belgium,515.0,Unattached ,192526,50 Th. €,Kevin Tapoko,14/15,,1910.0,Dessel Sport 
+"Jul 1, 2014",,-,Belgium,1910.0,Dessel Sport ,192526,50 Th. €,Kevin Tapoko,14/15,,515.0,Unattached 
+"Sep 30, 2013",,Free transfer,Switzerland,527.0,Lausanne-Sport ,192526,50 Th. €,Kevin Tapoko,13/14,Belgium,1910.0,Dessel Sport 
+"Aug 30, 2012",,Free transfer,France,9802.0,FC Le Mans B ,192526,-,Kevin Tapoko,12/13,Switzerland,527.0,Lausanne-Sport 
+"Jul 1, 2011",,Free transfer,France,7813.0,Olympique Lyon U19 ,192526,-,Kevin Tapoko,11/12,France,9802.0,FC Le Mans B 
+"Jul 1, 2015",,?,Belgium,2715.0,Seraing United ,193321,200 Th. €,Luigi Vaccaro,15/16,Belgium,29228.0,Mouscron 
+"Jul 29, 2014",,?,Belgium,3172.0,CS Visé ,193321,250 Th. €,Luigi Vaccaro,14/15,Belgium,2715.0,Seraing United 
+"Jul 1, 2013",,Free transfer,Belgium,1245.0,AS Eupen ,193321,250 Th. €,Luigi Vaccaro,13/14,Belgium,3172.0,CS Visé 
+"Jul 1, 2011",,-,Belgium,15651.0,AS Eupen Reserve ,193321,-,Luigi Vaccaro,11/12,Belgium,1245.0,AS Eupen 
+"Jul 1, 2016",,?,Belgium,2727.0,OH Leuven ,195910,"1,20 Mill. €",Yohan Croizet,16/17,Belgium,354.0,KV Mechelen 
+"Jul 1, 2014",,transfervrij,Belgium,1199.0,RE Virton ,195910,100 Th. €,Yohan Croizet,14/15,Belgium,2727.0,OH Leuven 
+"Jul 1, 2013",,transfervrij,France,347.0,FC Metz ,195910,100 Th. €,Yohan Croizet,13/14,Belgium,1199.0,RE Virton 
+"Jul 1, 2012",,-,France,8179.0,FC Metz B ,195910,-,Yohan Croizet,12/13,France,347.0,FC Metz 
+"Jul 1, 2011",,-,France,10849.0,FC Metz U19 ,195910,-,Yohan Croizet,11/12,France,8179.0,FC Metz B 
+"Jul 1, 2015",,Free transfer,Belgium,1411.0,RAEC Mons ,196721,400 Th. €,Yannick Loemba,15/16,Belgium,2861.0,KV Oostende 
+"Jul 15, 2014",,?,Belgium,6342.0,White Star ,196721,200 Th. €,Yannick Loemba,14/15,Belgium,1411.0,RAEC Mons 
+"Jul 5, 2015",,Free transfer,France,1416.0,SC Amiens ,198394,100 Th. €,Marvin Baudry,15/16,Belgium,3508.0,Zulte Waregem 
+"Jul 1, 2012",,-,France,16671.0,SC Amiens B ,198394,-,Marvin Baudry,12/13,France,1416.0,SC Amiens 
+"Jun 30, 2016",,End of loan,Belgium,157.0,KAA Gent ,200796,100 Th. €,Alexis Scholl,15/16,Portugal,10330.0,Benfica B 
+"Feb 1, 2016",,Loan,Portugal,10330.0,Benfica B ,200796,25 Th. €,Alexis Scholl,15/16,Belgium,157.0,KAA Gent 
+"Aug 7, 2015",,Free transfer,Belgium,30857.0,Anderlecht Res. ,200796,25 Th. €,Alexis Scholl,15/16,Portugal,10330.0,Benfica B 
+"Jul 1, 2013",,-,Belgium,3038.0,RSC Anderlecht U19 ,200796,-,Alexis Scholl,13/14,Belgium,30857.0,Anderlecht Res. 
+"Jan 1, 2013",,-,Belgium,25005.0,RSCA Youth ,200796,-,Alexis Scholl,12/13,Belgium,3038.0,RSC Anderlecht U19 
+"Jul 1, 2015",,Free transfer,Belgium,2715.0,Seraing United ,201248,300 Th. €,Mickaël Tirpan,15/16,Belgium,29228.0,Mouscron 
+"Jul 1, 2014",,Free transfer,Belgium,2974.0,Francs Borains ,201248,75 Th. €,Mickaël Tirpan,14/15,Belgium,2715.0,Seraing United 
+"Jan 15, 2014",,?,Belgium,9010.0,FCV Dender EH ,201248,75 Th. €,Mickaël Tirpan,13/14,Belgium,2974.0,Francs Borains 
+"Jun 30, 2016",,End of loan,Belgium,1184.0,KRC Genk ,207877,"1,80 Mill. €",Ruslan Malinovsky,15/16,Ukraine,660.0,Shakhtar D. 
+"Jan 1, 2016",,Loan,Ukraine,660.0,Shakhtar D. ,207877,"1,80 Mill. €",Ruslan Malinovsky,15/16,Belgium,1184.0,KRC Genk 
+"Dec 31, 2015",,End of loan,Ukraine,10690.0,Zorya Lugansk ,207877,"1,80 Mill. €",Ruslan Malinovsky,15/16,Ukraine,660.0,Shakhtar D. 
+"Jan 7, 2014",,Loan,Ukraine,660.0,Shakhtar D. ,207877,200 Th. €,Ruslan Malinovsky,13/14,Ukraine,10690.0,Zorya Lugansk 
+"Dec 31, 2013",,End of loan,Ukraine,28998.0,FK Sevastopol II ,207877,200 Th. €,Ruslan Malinovsky,13/14,Ukraine,37825.0,Shakhtar 3 
+"Aug 31, 2012",,Loan,Ukraine,37825.0,Shakhtar 3 ,207877,-,Ruslan Malinovsky,12/13,Ukraine,28998.0,FK Sevastopol II 
+"Jul 1, 2009",,-,Ukraine,31606.0,Shakhtar Donetsk U17 ,207877,-,Ruslan Malinovsky,09/10,Ukraine,37825.0,Shakhtar 3 
+"Jan 1, 2006",,?,Ukraine,75.0,Unknown ,207877,-,Ruslan Malinovsky,05/06,,31606.0,Shakhtar Donetsk U17 
+"Jul 1, 2015",,-,Belgium,11973.0,KV Mechelen U19 ,212574,-,Jordy Peffer,15/16,Belgium,354.0,KV Mechelen 
+"Jul 1, 2012",,?,Belgium,25005.0,RSCA Youth ,212574,-,Jordy Peffer,12/13,Belgium,11973.0,KV Mechelen U19 
+"Jul 1, 2015",,?,Belgium,1199.0,RE Virton ,216489,200 Th. €,Fabien Antunes,15/16,Belgium,2861.0,KV Oostende 
+"Jul 14, 2014",,?,France,1154.0,Red Star 93 ,216489,-,Fabien Antunes,14/15,Belgium,1199.0,RE Virton 
+"Jul 1, 2013",,Free transfer,France,11374.0,JA Drancy ,216489,-,Fabien Antunes,13/14,France,1154.0,Red Star 93 
+"Jan 19, 2016",,Free transfer,Germany,72.0,1860 Munich ,226194,200 Th. €,Fejsal Mulic,15/16,Belgium,29228.0,Mouscron 
+"Jul 2, 2015",,-,Germany,73.0,1860 München II ,226194,200 Th. €,Fejsal Mulic,15/16,Germany,72.0,1860 Munich 
+"Jul 1, 2013",,?,Serbia,27127.0,Pazar U19 ,226194,-,Fejsal Mulic,13/14,Germany,73.0,1860 München II 
+"Jan 20, 2016",,?,France,1160.0,Olympique Nîmes ,226290,250 Th. €,Fabien Tchenkoua,15/16,Belgium,475.0,Sint-Truiden 
+"Jul 8, 2015",,Free transfer,France,1290.0,Grenoble ,226290,250 Th. €,Fabien Tchenkoua,15/16,France,1160.0,Olympique Nîmes 
+"Aug 8, 2014",,Free transfer,France,10004.0,Paris FC ,226290,250 Th. €,Fabien Tchenkoua,14/15,France,1290.0,Grenoble 
+"Aug 12, 2013",,Free transfer,France,1081.0,CS Sedan ,226290,250 Th. €,Fabien Tchenkoua,13/14,France,10004.0,Paris FC 
+"Jul 1, 2012",,-,France,10880.0,CS Sedan-Ardennes B ,226290,-,Fabien Tchenkoua,12/13,France,1081.0,CS Sedan 
+"Jul 1, 2016",,Free transfer,Belgium,498.0,KSC Lokeren ,226542,50 Th. €,Tars Notteboom,16/17,Belgium,3126.0,RC Gent-Zeehaven 
+"Jul 1, 2015",,-,Belgium,43564.0,KSC Lokeren II ,226542,-,Tars Notteboom,15/16,Belgium,498.0,KSC Lokeren 
+"Jul 1, 2014",,-,Belgium,3493.0,KSC Lokeren U19 ,226542,-,Tars Notteboom,14/15,Belgium,43564.0,KSC Lokeren II 
+"Jul 1, 2014",,Free transfer,Belgium,1096.0,Royal Antwerpen ,231642,150 Th. €,Salomon Nirisarike,14/15,Belgium,475.0,Sint-Truiden 
+"Jun 30, 2016",,End of loan,Belgium,2727.0,OH Leuven ,232848,500 Th. €,Samuel Asamoah,16/17,Belgium,1245.0,AS Eupen 
+"Jul 16, 2015",,Loan,Belgium,1245.0,AS Eupen ,232848,500 Th. €,Samuel Asamoah,15/16,Belgium,2727.0,OH Leuven 
+"Jul 1, 2012",,Free transfer,Qatar,25393.0,ASPIRE Academy ,232848,-,Samuel Asamoah,12/13,Belgium,1245.0,AS Eupen 
+"Jan 5, 2016",,?,England,991.0,MK Dons ,232859,200 Th. €,Cristian Benavente,15/16,Belgium,172.0,RSC Charleroi 
+"Jul 17, 2015",,Free transfer,Spain,6767.0,R. M. Castilla ,232859,-,Cristian Benavente,15/16,England,991.0,MK Dons 
+"Jul 1, 2013",,-,Spain,28870.0,Real Madrid U19 ,232859,200 Th. €,Cristian Benavente,13/14,Spain,6767.0,R. M. Castilla 
+"Jul 1, 2011",,-,Spain,13711.0,R. Madrid Youth ,232859,-,Cristian Benavente,11/12,Spain,28870.0,Real Madrid U19 
+"Jul 1, 2016",,"2,20 Mill. €",Egypt,7.0,Ahly ,234189,"1,50 Mill. €",Trezeguet,16/17,Belgium,58.0,RSC Anderlecht 
+"Jun 30, 2016",,End of loan,Belgium,58.0,RSC Anderlecht ,234189,"1,50 Mill. €",Trezeguet,15/16,Egypt,7.0,Ahly 
+"Aug 6, 2015",,"Loan fee:1,00 Mill. €",Egypt,7.0,Ahly ,234189,"1,80 Mill. €",Trezeguet,15/16,Belgium,58.0,RSC Anderlecht 
+"Jul 1, 2012",,-,Egypt,15917.0,El Ahly U23 ,234189,-,Trezeguet,12/13,Egypt,7.0,Ahly 
+"Jul 12, 2015",,Free transfer,Portugal,10331.0,Porto B ,234499,300 Th. €,Frédéric Maciel,15/16,Belgium,29228.0,Mouscron 
+"Jul 1, 2013",,-,Portugal,9844.0,FC Porto U19 ,234499,300 Th. €,Frédéric Maciel,13/14,Portugal,10331.0,Porto B 
+"Jul 1, 2011",,-,Portugal,47962.0,Dragon Force ,234499,-,Frédéric Maciel,11/12,Portugal,9844.0,FC Porto U19 
+"Jul 1, 2016",,Free transfer,Belgium,475.0,Sint-Truiden ,237829,400 Th. €,Mathias Schils,16/17,Belgium,5026.0,Lommel United 
+"Jul 1, 2012",,-,Belgium,10431.0,St. Truiden U19 ,237829,-,Mathias Schils,12/13,Belgium,475.0,Sint-Truiden 
+"Jan 7, 2016",,"1,50 Mill. €",Belgium,475.0,Sint-Truiden ,237846,"1,20 Mill. €",Edmílson Junior,15/16,Belgium,3057.0,Standard Liège 
+"Jul 1, 2012",,-,Belgium,10431.0,St. Truiden U19 ,237846,-,Edmílson Junior,12/13,Belgium,475.0,Sint-Truiden 
+"Feb 1, 2016",,350 Th. €,Croatia,2362.0,Slaven Belupo ,238474,500 Th. €,Ljuban Crepulja,15/16,Belgium,354.0,KV Mechelen 
+"Jul 1, 2013",,Free transfer,Croatia,485.0,Hrv Dragovoljac ,238474,-,Ljuban Crepulja,13/14,Croatia,2362.0,Slaven Belupo 
+"Aug 10, 2012",,?,Croatia,9641.0,Din. Zagreb U19 ,238474,-,Ljuban Crepulja,12/13,Croatia,485.0,Hrv Dragovoljac 
+"Aug 8, 2011",,?,Croatia,26029.0,Lokomotiva U19 ,238474,-,Ljuban Crepulja,11/12,Croatia,9641.0,Din. Zagreb U19 
+"Jul 30, 2010",,?,Croatia,552.0,Segesta Sisak ,238474,-,Ljuban Crepulja,10/11,Croatia,26029.0,Lokomotiva U19 
+"Jul 1, 2009",,-,Croatia,38732.0,Segesta U17 ,238474,-,Ljuban Crepulja,09/10,Croatia,552.0,Segesta Sisak 
+"Jul 1, 2008",,-,Croatia,38731.0,Segesta Jgd ,238474,-,Ljuban Crepulja,08/09,Croatia,38732.0,Segesta U17 
+"Nov 5, 2015",,-,Belgium,9631.0,Westerlo U19 ,240057,-,Gijs Brouwers,15/16,Belgium,968.0,KVC Westerlo 
+"Jul 1, 2014",,-,Belgium,3494.0,KRC Genk U19 ,240057,-,Gijs Brouwers,14/15,Belgium,9631.0,Westerlo U19 
+"Jul 1, 2014",,?,Belgium,34282.0,Genk Youth ,240057,-,Gijs Brouwers,14/15,Belgium,3494.0,KRC Genk U19 
+"Jan 4, 2016",,"1,10 Mill. €",Albania,12469.0,KF Skënderbeu ,248393,725 Th. €,Peter Olayinka,15/16,Belgium,157.0,KAA Gent 
+"Aug 31, 2014",,30 Th. €,Albania,21234.0,FK Bylis Ballsh ,248393,50 Th. €,Peter Olayinka,14/15,Albania,12469.0,KF Skënderbeu 
+"Jun 30, 2014",,End of loan,Cyprus,41333.0,Yenicami AK ,248393,25 Th. €,Peter Olayinka,13/14,Albania,21234.0,FK Bylis Ballsh 
+"Sep 4, 2013",,Loan,Albania,21234.0,FK Bylis Ballsh ,248393,25 Th. €,Peter Olayinka,13/14,Cyprus,41333.0,Yenicami AK 
+"Jul 1, 2012",,-,Albania,35858.0,FK Bylis U19 ,248393,-,Peter Olayinka,12/13,Albania,21234.0,FK Bylis Ballsh 
+"Jan 28, 2012",,?,Nigeria,35498.0,36 Lion FC ,248393,-,Peter Olayinka,11/12,Albania,35858.0,FK Bylis U19 
+"Jul 1, 2015",,-,Belgium,8164.0,Standard U19 ,249543,-,Ryan Mmaee,15/16,Belgium,3057.0,Standard Liège 
+"Jul 1, 2013",,?,Belgium,34281.0,Gent Youth ,249543,-,Ryan Mmaee,13/14,Belgium,8164.0,Standard U19 
+"Jul 1, 2015",,Free transfer,Belgium,43560.0,Club Brugge 21 ,250590,-,Senne Van Dooren,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2013",,-,Belgium,14645.0,Beerschot U19 ,250590,-,Senne Van Dooren,13/14,Belgium,43560.0,Club Brugge 21 
+"Jan 16, 2016",,150 Th. €,Romania,312.0,Dinamo Bukarest ,250638,"1,00 Mill. €",Collins Fai,15/16,Belgium,3057.0,Standard Liège 
+"Jul 20, 2013",,Free transfer,Cameroon,5070.0,Union Douala ,250638,50 Th. €,Collins Fai,13/14,Romania,312.0,Dinamo Bukarest 
+"Jun 30, 2013",,End of loan,Cameroon,37354.0,Njalla Quan SA ,250638,-,Collins Fai,12/13,Cameroon,5070.0,Union Douala 
+"Jan 1, 2013",,Loan,Cameroon,5070.0,Union Douala ,250638,-,Collins Fai,12/13,Cameroon,37354.0,Njalla Quan SA 
+"Jul 1, 2011",,Free transfer,Cameroon,18671.0,FC Bamenda ,250638,-,Collins Fai,11/12,Cameroon,5070.0,Union Douala 
+"Feb 1, 2016",,?,Ghana,13607.0,Liberty Prof. ,254280,-,Reuben Acquah,15/16,Belgium,354.0,KV Mechelen 
+"Jan 1, 2014",,?,Ghana,28962.0,RB Ghana ,254280,-,Reuben Acquah,13/14,Ghana,13607.0,Liberty Prof. 
+"Jun 30, 2016",,End of loan,Belgium,2727.0,OH Leuven ,258139,250 Th. €,Slobodan Urosevic,15/16,Serbia,788.0,Napredak 
+"Jul 2, 2015",,Loan,Serbia,788.0,Napredak ,258139,350 Th. €,Slobodan Urosevic,15/16,Belgium,2727.0,OH Leuven 
+"Aug 1, 2014",,?,Serbia,902.0,Rad ,258139,150 Th. €,Slobodan Urosevic,14/15,Serbia,788.0,Napredak 
+"Dec 31, 2012",,End of loan,Serbia,8975.0,BASK Belgrad ,258139,-,Slobodan Urosevic,12/13,Serbia,902.0,Rad 
+"Jul 1, 2012",,Loan,Serbia,902.0,Rad ,258139,-,Slobodan Urosevic,12/13,Serbia,8975.0,BASK Belgrad 
+"Jul 1, 2015",,Free transfer,Slovakia,540.0,Slo. Bratislava ,260979,450 Th. €,Branislav Ninaj,15/16,Belgium,498.0,KSC Lokeren 
+"Jan 1, 2013",,-,Slovakia,19858.0,Bratislava U19 ,260979,-,Branislav Ninaj,12/13,Slovakia,540.0,Slo. Bratislava 
+"Jun 30, 2016",,End of loan,Belgium,498.0,KSC Lokeren ,264063,700 Th. €,Sergiy Bolbat,15/16,Ukraine,660.0,Shakhtar D. 
+"Jul 20, 2015",,Loan,Ukraine,660.0,Shakhtar D. ,264063,900 Th. €,Sergiy Bolbat,15/16,Belgium,498.0,KSC Lokeren 
+"Jul 1, 2015",,-,Ukraine,8963.0,Shakhtar II ,264063,900 Th. €,Sergiy Bolbat,15/16,Ukraine,660.0,Shakhtar D. 
+"Jun 30, 2015",,End of loan,Ukraine,6414.0,Metalist ,264063,900 Th. €,Sergiy Bolbat,14/15,Ukraine,8963.0,Shakhtar II 
+"Aug 31, 2014",,Loan,Ukraine,8963.0,Shakhtar II ,264063,700 Th. €,Sergiy Bolbat,14/15,Ukraine,6414.0,Metalist 
+"Jun 30, 2014",,End of loan,Ukraine,2783.0,Metalurg D. ,264063,700 Th. €,Sergiy Bolbat,13/14,Ukraine,8963.0,Shakhtar II 
+"Sep 2, 2013",,Loan,Ukraine,8963.0,Shakhtar II ,264063,-,Sergiy Bolbat,13/14,Ukraine,2783.0,Metalurg D. 
+"Jul 1, 2013",,-,Ukraine,37825.0,Shakhtar 3 ,264063,-,Sergiy Bolbat,13/14,Ukraine,8963.0,Shakhtar II 
+"Jul 1, 2015",,-,Belgium,30857.0,Anderlecht Res. ,264176,-,Liam Bossin,15/16,Belgium,58.0,RSC Anderlecht 
+"Jul 1, 2013",,?,Belgium,6342.0,White Star ,264176,-,Liam Bossin,13/14,Belgium,30857.0,Anderlecht Res. 
+"Jul 1, 2015",,-,Belgium,8164.0,Standard U19 ,265568,-,Achraf Achaoui,15/16,Belgium,3057.0,Standard Liège 
+"Jul 1, 2013",,?,Belgium,34281.0,Gent Youth ,265568,-,Achraf Achaoui,13/14,Belgium,8164.0,Standard U19 
+"Jul 1, 2014",,-,Belgium,10431.0,St. Truiden U19 ,268122,-,Iebe Swers,14/15,Belgium,475.0,Sint-Truiden 
+"Aug 31, 2015",,?,Ghana,35141.0,New Edubiase ,269553,-,Abraham Attobrah,15/16,Belgium,601.0,KV Kortrijk 
+"Aug 31, 2015",,"3,50 Mill. €",Brazil,1023.0,Palmeiras ,270414,"2,50 Mill. €",Leandro Pereira,15/16,Belgium,2282.0,Club Brugge 
+"Jan 1, 2015",,"1,50 Mill. €",Brazil,16837.0,Cianorte ,270414,300 Th. €,Leandro Pereira,14/15,Brazil,1023.0,Palmeiras 
+"Dec 10, 2014",,End of loan,Brazil,17776.0,Chapecoense ,270414,300 Th. €,Leandro Pereira,14/15,Brazil,16837.0,Cianorte 
+"Apr 7, 2014",,Loan,Brazil,16837.0,Cianorte ,270414,-,Leandro Pereira,13/14,Brazil,17776.0,Chapecoense 
+"Apr 4, 2014",,End of loan,Brazil,10247.0,Portuguesa ,270414,-,Leandro Pereira,13/14,Brazil,16837.0,Cianorte 
+"Jan 15, 2014",,Loan,Brazil,16837.0,Cianorte ,270414,-,Leandro Pereira,13/14,Brazil,10247.0,Portuguesa 
+"Jan 13, 2014",,Free transfer,Brazil,3297.0,Capivariano FC ,270414,-,Leandro Pereira,13/14,Brazil,16837.0,Cianorte 
+"Nov 1, 2013",,End of loan,Brazil,16441.0,Icasa ,270414,-,Leandro Pereira,13/14,Brazil,3297.0,Capivariano FC 
+"May 1, 2013",,Loan,Brazil,3297.0,Capivariano FC ,270414,-,Leandro Pereira,12/13,Brazil,16441.0,Icasa 
+"Jun 30, 2016",,End of loan,Belgium,29228.0,Mouscron ,271284,"1,00 Mill. €",Cristian Manea,15/16,Cyprus,429.0,Apol. Limassol 
+"Aug 31, 2015",,Loan,Cyprus,429.0,Apol. Limassol ,271284,"1,50 Mill. €",Cristian Manea,15/16,Belgium,29228.0,Mouscron 
+"Jun 30, 2015",,End of loan,Romania,29831.0,FC Viitorul ,271284,"1,50 Mill. €",Cristian Manea,14/15,Cyprus,429.0,Apol. Limassol 
+"Jul 2, 2014",,Loan,Cyprus,429.0,Apol. Limassol ,271284,300 Th. €,Cristian Manea,14/15,Romania,29831.0,FC Viitorul 
+"Jul 1, 2014",,"2,50 Mill. €",Romania,29831.0,FC Viitorul ,271284,300 Th. €,Cristian Manea,14/15,Cyprus,429.0,Apol. Limassol 
+"Mar 1, 2014",,-,Romania,32721.0,Ac. Hagi (FCV) ,271284,-,Cristian Manea,13/14,Romania,29831.0,FC Viitorul 
+"Jul 1, 2015",,Free transfer,France,11300.0,AC Arles-Avign. ,276896,400 Th. €,Samuel Gigot,15/16,Belgium,601.0,KV Kortrijk 
+"Jul 1, 2013",,-,France,24020.0,AC Arles ,276896,-,Samuel Gigot,13/14,France,11300.0,AC Arles-Avign. 
+"Jul 1, 2015",,?,Belgium,2715.0,Seraing United ,277145,450 Th. €,Florent Stevance,15/16,Belgium,172.0,RSC Charleroi 
+"Jul 1, 2014",,transfervrij,Belgium,2974.0,Francs Borains ,277145,-,Florent Stevance,14/15,Belgium,2715.0,Seraing United 
+"Jul 1, 2013",,?,France,30398.0,AS Aulnoye ,277145,-,Florent Stevance,13/14,Belgium,2974.0,Francs Borains 
+"Jul 9, 2014",,Free transfer,Belgium,3172.0,CS Visé ,278702,-,Faycal Rherras,14/15,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2013",,?,Belgium,14645.0,Beerschot U19 ,278702,-,Faycal Rherras,13/14,Belgium,3172.0,CS Visé 
+"Jul 1, 2012",,?,Belgium,6640.0,Club Bruges U19 ,278702,-,Faycal Rherras,12/13,Belgium,14645.0,Beerschot U19 
+"Jul 1, 2010",,?,Belgium,10459.0,Standard Youth ,278702,-,Faycal Rherras,10/11,Belgium,25003.0,Club Brugge Jgd 
+"Jul 1, 2015",,Free transfer,Belgium,3105.0,RCS Verviers ,280700,-,Yohan Boli,15/16,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2014",,-,Belgium,2977.0,KSV Roeselare ,280700,-,Yohan Boli,14/15,Belgium,3105.0,RCS Verviers 
+"Jul 1, 2013",,?,France,10880.0,CS Sedan-Ardennes B ,280700,-,Yohan Boli,13/14,Belgium,2977.0,KSV Roeselare 
+"Jan 1, 2012",,?,France,17531.0,CS Avion ,280700,-,Yohan Boli,11/12,France,10880.0,CS Sedan-Ardennes B 
+"Jul 1, 2015",,-,Belgium,15687.0,Oud-Heverlee Leuven U19 ,283580,-,Nick Gillekens,15/16,Belgium,2727.0,OH Leuven 
+"Jul 1, 2015",,Free transfer,Belgium,46736.0,KRC Genk II ,285946,-,Dieter Creemers,15/16,Belgium,498.0,KSC Lokeren 
+"Jul 1, 2014",,-,Belgium,3494.0,KRC Genk U19 ,285946,-,Dieter Creemers,14/15,Belgium,46736.0,KRC Genk II 
+"Jul 1, 2015",,-,Belgium,10459.0,Standard Youth ,285998,-,Ayrton Mboko,14/15,Belgium,8164.0,Standard U19 
+"Jun 30, 2016",,End of loan,Belgium,3057.0,Standard Liège ,288496,"4,00 Mill. €",Gabriel Boschilia,15/16,France,162.0,Monaco 
+"Jan 9, 2016",,Loan,France,162.0,Monaco ,288496,"5,00 Mill. €",Gabriel Boschilia,15/16,Belgium,3057.0,Standard Liège 
+"Aug 11, 2015",,"9,06 Mill. €",Brazil,585.0,São Paulo ,288496,"3,00 Mill. €",Gabriel Boschilia,15/16,France,162.0,Monaco 
+"Jan 20, 2014",,-,Brazil,14679.0,São Paulo U17 ,288496,-,Gabriel Boschilia,13/14,Brazil,585.0,São Paulo 
+"Jul 1, 2015",,Free transfer,Belgium,30857.0,Anderlecht Res. ,289581,-,Glenn Leemans,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2014",,-,Belgium,3038.0,RSC Anderlecht U19 ,289581,-,Glenn Leemans,14/15,Belgium,30857.0,Anderlecht Res. 
+"Jul 1, 2015",,-,Belgium,6640.0,Club Bruges U19 ,289640,-,Jens Teunckens,15/16,Belgium,2282.0,Club Brugge 
+"Jan 7, 2016",,?,Belgium,475.0,Sint-Truiden ,291222,"1,50 Mill. €",Jean-Luc Dompé,15/16,Belgium,3057.0,Standard Liège 
+"Jul 1, 2015",,Free transfer,France,1423.0,FC Valenciennes ,291222,400 Th. €,Jean-Luc Dompé,15/16,Belgium,475.0,Sint-Truiden 
+"Jan 1, 2015",,-,France,16663.0,Valenciennes B ,291222,-,Jean-Luc Dompé,14/15,France,1423.0,FC Valenciennes 
+"Jul 1, 2015",,?,Belgium,8164.0,Standard U19 ,292806,-,Casper de Norre,15/16,Belgium,10431.0,St. Truiden U19 
+"Jul 1, 2015",,?,Belgium,34281.0,Gent Youth ,292809,-,Mathias Janssens,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2014",,?,Belgium,41621.0,Mons Youth ,292809,-,Mathias Janssens,14/15,Belgium,34281.0,Gent Youth 
+"Jul 30, 2015",,?,Nigeria,42221.0,El-Kadme Acad. ,295327,-,Saviour Godwin,15/16,Belgium,2861.0,KV Oostende 
+"Jul 1, 2015",,350 Th. €,Portugal,10949.0,Sporting B ,301815,100 Th. €,Lewis Enoh,15/16,Belgium,498.0,KSC Lokeren 
+"Jun 30, 2015",,End of loan,Portugal,3345.0,Leixões ,301815,100 Th. €,Lewis Enoh,14/15,Portugal,10949.0,Sporting B 
+"Jan 22, 2015",,Loan,Portugal,10949.0,Sporting B ,301815,100 Th. €,Lewis Enoh,14/15,Portugal,3345.0,Leixões 
+"Jan 1, 2014",,35 Th. €,Portugal,11298.0,Sourense ,301815,-,Lewis Enoh,13/14,Portugal,10949.0,Sporting B 
+"Jul 1, 2013",,?,Portugal,35119.0,Alcanenense ,301815,-,Lewis Enoh,13/14,Portugal,11298.0,Sourense 
+"Oct 25, 2015",,-,Belgium,30857.0,Anderlecht Res. ,303259,-,Dodi Lukebakio,15/16,Belgium,58.0,RSC Anderlecht 
+"Jul 1, 2014",,-,Belgium,3038.0,RSC Anderlecht U19 ,303259,-,Dodi Lukebakio,14/15,Belgium,30857.0,Anderlecht Res. 
+"Jul 23, 2015",,?,Ghana,37487.0,Dreams FC ,306382,-,Benjamin Tetteh,15/16,Belgium,3057.0,Standard Liège 
+"Jul 1, 2014",,?,Ghana,36368.0,Tudu Mighty Jet ,306382,-,Benjamin Tetteh,14/15,Ghana,37487.0,Dreams FC 
+"Jul 1, 2015",,?,Belgium,2977.0,KSV Roeselare ,316406,350 Th. €,Olivier Myny,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2014",,Free transfer,Belgium,43293.0,Zulte II ,316406,-,Olivier Myny,14/15,Belgium,2977.0,KSV Roeselare 
+,,,,,,326336,,,,,,
+"Jul 1, 2015",,Free transfer,Belgium,1411.0,RAEC Mons ,337689,300 Th. €,Roman Ferber,15/16,Belgium,172.0,RSC Charleroi 
+"Jul 1, 2016",,400 Th. €,Uganda,29757.0,Vipers SC ,339005,400 Th. €,Farouk Miya,16/17,Belgium,3057.0,Standard Liège 
+"Jun 30, 2016",,End of loan,Belgium,3057.0,Standard Liège ,339005,400 Th. €,Farouk Miya,15/16,Uganda,29757.0,Vipers SC 
+"Jan 21, 2016",,Loan,Uganda,29757.0,Vipers SC ,339005,-,Farouk Miya,15/16,Belgium,3057.0,Standard Liège 
+"Jul 1, 2015",,-,Belgium,8164.0,Standard U19 ,347625,-,Beni Badibanga,15/16,Belgium,3057.0,Standard Liège 
+"Jul 1, 2015",,-,Belgium,15687.0,Oud-Heverlee Leuven U19 ,349281,25 Th. €,Tuur Houben,15/16,Belgium,2727.0,OH Leuven 
+"Jul 1, 2015",,?,France,7042.0,US Boulogne ,351837,-,Elohim Rolland,15/16,Belgium,601.0,KV Kortrijk 
+"Jul 1, 2014",,Free transfer,France,17768.0,Lyon-la-Duchere ,351837,-,Elohim Rolland,14/15,France,7042.0,US Boulogne 
+"Jul 1, 2011",,Free transfer,France,18633.0,FC Villefranche ,351837,-,Elohim Rolland,11/12,France,17768.0,Lyon-la-Duchere 
+"Jul 1, 2015",,-,Belgium,43560.0,Club Brugge 21 ,355707,-,Lennert Desmul,15/16,Belgium,2282.0,Club Brugge 
+"Jul 1, 2014",,-,Belgium,6640.0,Club Bruges U19 ,355707,-,Lennert Desmul,14/15,Belgium,43560.0,Club Brugge 21 
+"Jul 1, 2015",,-,Belgium,3494.0,KRC Genk U19 ,356081,-,Bryan Heynen,15/16,Belgium,1184.0,KRC Genk 
+"Jul 1, 2015",,-,Belgium,15687.0,Oud-Heverlee Leuven U19 ,358907,25 Th. €,Din Sula,15/16,Belgium,2727.0,OH Leuven 
+"Jan 4, 2016",,750 Th. €,Norway,2761.0,FK Haugesund ,363537,600 Th. €,Simon Diédhiou,15/16,Belgium,157.0,KAA Gent 
+"Mar 9, 2015",,?,Senegal,28578.0,Diambars ,363537,-,Simon Diédhiou,14/15,Norway,2761.0,FK Haugesund 
+"Aug 31, 2015",,?,Senegal,46322.0,Mbour P.C. ,364233,-,Sidy Sarr,15/16,Belgium,601.0,KV Kortrijk 
+"Jan 1, 2015",,?,Senegal,31624.0,AS Dakar Sacré Coeur ,364233,-,Sidy Sarr,14/15,Senegal,46322.0,Mbour P.C. 
+"Jul 1, 2015",,Free transfer,Belgium,30857.0,Anderlecht Res. ,364567,-,Joher Khadim Rassoul,15/16,Belgium,498.0,KSC Lokeren 
+"Jul 1, 2015",,Free transfer,Belgium,8164.0,Standard U19 ,369267,-,Maximiliano Caufriez,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2014",,Free transfer,Belgium,25005.0,RSCA Youth ,369267,-,Maximiliano Caufriez,14/15,Belgium,8164.0,Standard U19 
+"Jul 1, 2015",,Free transfer,Slovenia,18030.0,NK Domzale U19 ,372380,50 Th. €,Emil Velic,15/16,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2015",,-,Belgium,43564.0,KSC Lokeren II ,380173,-,Tjorven Melens,15/16,Belgium,498.0,KSC Lokeren 
+"Jul 1, 2015",,-,Belgium,9631.0,Westerlo U19 ,383208,-,Stijn Jeurissen,15/16,Belgium,968.0,KVC Westerlo 
+"Jul 1, 2014",,?,Belgium,25005.0,RSCA Youth ,383208,-,Stijn Jeurissen,14/15,Belgium,9631.0,Westerlo U19 
+"Jul 1, 2013",,?,Belgium,34282.0,Genk Youth ,383208,-,Stijn Jeurissen,13/14,Belgium,25005.0,RSCA Youth 
+,,,,,,383372,,,,,,
+,,,,,,384240,,,,,,
+"Aug 12, 2015",,"1,40 Mill. €",Slovakia,16181.0,AS Trencin U19 ,387626,-,Leon Bailey,15/16,Belgium,1184.0,KRC Genk 
+"Jun 30, 2016",,End of loan,Belgium,3057.0,Standard Liège ,398807,50 Th. €,Juan Olivier Simo Kingue,15/16,,75.0,Unknown 
+"Jan 4, 2016",,Loan,Belgium,75.0,Unknown ,398807,-,Juan Olivier Simo Kingue,15/16,,3057.0,Standard Liège 
+"Jan 18, 2016",,?,Belgium,10431.0,St. Truiden U19 ,402884,-,Nicolas Gerits,15/16,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2016",,Free transfer,Belgium,49388.0,Beveren Res. ,405191,50 Th. €,Kevin Hebbelinck,16/17,,75.0,Unknown 
+"Jul 1, 2015",,?,Belgium,24394.0,Standard Res. ,405973,-,Fadel Gobitaka,15/16,Belgium,3057.0,Standard Liège 
+"Jan 1, 2016",,?,Belgium,10431.0,St. Truiden U19 ,411119,-,Reno Wilmots,15/16,Belgium,475.0,Sint-Truiden 
+,,,,,,414657,,,,,,
+,,,,,,419427,,,,,,
+,,,,,,421110,,,,,,
+"Mar 31, 2016",,-,Belgium,52562.0,Mouscron Res. ,430120,-,Maksym  Bah,15/16,Belgium,29228.0,Mouscron 
+"Jul 1, 2016",,-,Belgium,52562.0,Mouscron Res. ,434514,-, Benjamin  van Durmen,16/17,Belgium,29228.0,Mouscron 
+,,,,,,434515,,,,,,
+,,,,,,435147,,,,,,
+"Jan 26, 2016",,"1,30 Mill. €",Greece,683.0,Olympiacos ,77828,"2,00 Mill. €",Mathieu Dossevi,15/16,Belgium,3057.0,Standard Liège 
+"Jan 25, 2016",,End of loan,Belgium,3057.0,Standard Liège ,77828,"2,00 Mill. €",Mathieu Dossevi,15/16,Greece,683.0,Olympiacos 
+"Sep 1, 2015",,Loan,Greece,683.0,Olympiacos ,77828,"2,00 Mill. €",Mathieu Dossevi,15/16,Belgium,3057.0,Standard Liège 
+"Jul 7, 2014",,Free transfer,France,1423.0,FC Valenciennes ,77828,"2,00 Mill. €",Mathieu Dossevi,14/15,Greece,683.0,Olympiacos 
+"Aug 27, 2010",,"1,00 Mill. €",France,1164.0,Le Mans ,77828,"1,40 Mill. €",Mathieu Dossevi,10/11,France,1423.0,FC Valenciennes 
+"Jul 1, 2008",,-,France,9802.0,FC Le Mans B ,77828,-,Mathieu Dossevi,08/09,France,1164.0,Le Mans 
+"Jul 1, 2005",,Free transfer,France,16037.0,FC Tours U19 ,77828,-,Mathieu Dossevi,05/06,France,9802.0,FC Le Mans B 
+"Jun 30, 2016",,End of loan,Belgium,354.0,KV Mechelen ,22149,400 Th. €,Jean-François Gillet,15/16,Italy,1627.0,Catania 
+"Jul 13, 2015",,Loan,Italy,1627.0,Catania ,22149,200 Th. €,Jean-François Gillet,15/16,Belgium,354.0,KV Mechelen 
+"Jan 30, 2015",,200 Th. €,Italy,416.0,Torino ,22149,400 Th. €,Jean-François Gillet,14/15,Italy,1627.0,Catania 
+"Jul 5, 2012",,"2,00 Mill. €",Italy,1025.0,Bologna ,22149,"2,50 Mill. €",Jean-François Gillet,12/13,Italy,416.0,Torino 
+"Jul 1, 2011",,"1,36 Mill. €",Italy,332.0,Bari ,22149,"3,70 Mill. €",Jean-François Gillet,11/12,Italy,1025.0,Bologna 
+"Jul 1, 2004",,?,Italy,2251.0,Treviso ,22149,-,Jean-François Gillet,04/05,Italy,332.0,Bari 
+"Jul 1, 2003",,?,Italy,332.0,Bari ,22149,-,Jean-François Gillet,03/04,Italy,2251.0,Treviso 
+"Jul 1, 2000",,"2,50 Mill. €",Italy,2919.0,Calcio Monza ,22149,-,Jean-François Gillet,00/01,Italy,332.0,Bari 
+"Jul 1, 1999",,?,Belgium,3057.0,Standard Liège ,22149,-,Jean-François Gillet,99/00,Italy,2919.0,Calcio Monza 
+"Jul 1, 1998",,-,Belgium,8164.0,Standard U19 ,22149,-,Jean-François Gillet,98/99,Belgium,3057.0,Standard Liège 
+"Jun 30, 2016",,End of loan,Belgium,29228.0,Mouscron ,99977,"1,20 Mill. €",Marko Scepovic,15/16,Greece,683.0,Olympiacos 
+"Jul 21, 2015",,Loan,Greece,683.0,Olympiacos ,99977,"1,50 Mill. €",Marko Scepovic,15/16,Belgium,29228.0,Mouscron 
+"Jun 30, 2015",,End of loan,Russia,3725.0,Terek Grozny ,99977,"1,50 Mill. €",Marko Scepovic,14/15,Greece,683.0,Olympiacos 
+"Feb 25, 2015",,Loan fee:200 Th. €,Greece,683.0,Olympiacos ,99977,"1,80 Mill. €",Marko Scepovic,14/15,Russia,3725.0,Terek Grozny 
+"Feb 1, 2015",,End of loan,Spain,237.0,RCD Mallorca ,99977,"1,80 Mill. €",Marko Scepovic,14/15,Greece,683.0,Olympiacos 
+"Aug 20, 2014",,Loan,Greece,683.0,Olympiacos ,99977,"2,50 Mill. €",Marko Scepovic,14/15,Spain,237.0,RCD Mallorca 
+"Sep 2, 2013",,"2,50 Mill. €",Serbia,669.0,FK Partizan ,99977,"1,50 Mill. €",Marko Scepovic,13/14,Greece,683.0,Olympiacos 
+"Jul 1, 2010",,Free transfer,Serbia,4646.0,Teleoptik Zemun ,99977,450 Th. €,Marko Scepovic,10/11,Serbia,669.0,FK Partizan 
+"Jun 30, 2016",,End of loan,Belgium,3508.0,Zulte Waregem ,229005,"1,20 Mill. €",Abdou Diallo,15/16,France,162.0,Monaco 
+"Jul 1, 2015",,Loan,France,162.0,Monaco ,229005,500 Th. €,Abdou Diallo,15/16,Belgium,3508.0,Zulte Waregem 
+"Jul 1, 2014",,-,Monaco,9668.0,Monaco B ,229005,-,Abdou Diallo,14/15,France,162.0,Monaco 
+"Jul 1, 2013",,-,Monaco,9669.0,Monaco U19 ,229005,-,Abdou Diallo,13/14,Monaco,9668.0,Monaco B 
+"Jul 3, 2015",,Free transfer,France,1147.0,Ajaccio ,44689,400 Th. €,Gary Coulibaly,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Aug 25, 2014",,Free transfer,France,1080.0,Stade Laval ,44689,500 Th. €,Gary Coulibaly,14/15,France,1147.0,Ajaccio 
+"Jan 31, 2014",,Free transfer,France,162.0,Monaco ,44689,500 Th. €,Gary Coulibaly,13/14,France,1080.0,Stade Laval 
+"Jan 19, 2014",,-,France,162.0,Monaco ,44689,500 Th. €,Gary Coulibaly,13/14,,515.0,Unattached 
+"Aug 22, 2011",,500 Th. €,France,2580.0,Istres ,44689,750 Th. €,Gary Coulibaly,11/12,France,162.0,Monaco 
+"Jul 1, 2009",,Free transfer,France,595.0,SC Bastia ,44689,50 Th. €,Gary Coulibaly,08/09,France,2580.0,Istres 
+"Jul 1, 2004",,-,France,9652.0,SC Bastia B ,44689,-,Gary Coulibaly,04/05,France,595.0,SC Bastia 
+"Jan 18, 2016",,Free transfer,Greece,265.0,Panathinaikos ,46062,"1,75 Mill. €",Sotiris Ninis,15/16,Belgium,172.0,RSC Charleroi 
+"Nov 6, 2014",,-,Greece,515.0,Unattached ,46062,"3,00 Mill. €",Sotiris Ninis,14/15,,265.0,Panathinaikos 
+"Aug 22, 2014",,-,Italy,130.0,Parma ,46062,"3,00 Mill. €",Sotiris Ninis,14/15,,515.0,Unattached 
+"Jun 30, 2014",,End of loan,Greece,1091.0,PAOK Saloniki ,46062,"3,00 Mill. €",Sotiris Ninis,13/14,Italy,130.0,Parma 
+"Aug 31, 2013",,Loan,Italy,130.0,Parma ,46062,"3,60 Mill. €",Sotiris Ninis,13/14,Greece,1091.0,PAOK Saloniki 
+"Jul 1, 2012",,Free transfer,Greece,265.0,Panathinaikos ,46062,"6,00 Mill. €",Sotiris Ninis,12/13,Italy,130.0,Parma 
+"Jul 1, 2006",,-,Greece,6626.0,PAO U20 ,46062,-,Sotiris Ninis,06/07,Greece,265.0,Panathinaikos 
+"Jun 30, 2016",,End of loan,Belgium,172.0,RSC Charleroi ,205849,300 Th. €,Gjoko Zajkov,15/16,France,273.0,Rennes 
+"Aug 25, 2015",,Loan,France,273.0,Rennes ,205849,300 Th. €,Gjoko Zajkov,15/16,Belgium,172.0,RSC Charleroi 
+"Jul 1, 2014",,?,Macedonia,4641.0,Rabotnicki ,205849,250 Th. €,Gjoko Zajkov,14/15,France,273.0,Rennes 
+"Jul 1, 2011",,-,Macedonia,19993.0,Rabot. Youth ,205849,-,Gjoko Zajkov,11/12,Macedonia,4641.0,Rabotnicki 
+"Jan 3, 2016",,500 Th. €,France,995.0,FC Nantes ,57372,"3,00 Mill. €",Lucas Deaux,15/16,Belgium,157.0,KAA Gent 
+"Jul 10, 2012",,Free transfer,France,1421.0,Reims ,57372,400 Th. €,Lucas Deaux,12/13,France,995.0,FC Nantes 
+"Jul 1, 2006",,-,France,11204.0,Stade Reims B ,57372,-,Lucas Deaux,06/07,France,1421.0,Reims 
+"Jun 30, 2016",,End of loan,Belgium,3508.0,Zulte Waregem ,41818,"1,00 Mill. €",Steve de Ridder,15/16,Denmark,190.0,FC Copenhagen 
+"Jul 1, 2015",,Loan,Denmark,190.0,FC Copenhagen ,41818,"1,25 Mill. €",Steve de Ridder,15/16,Belgium,3508.0,Zulte Waregem 
+"Jul 1, 2014",,"2,00 Mill. €",Netherlands,200.0,FC Utrecht ,41818,"1,00 Mill. €",Steve de Ridder,14/15,Denmark,190.0,FC Copenhagen 
+"Aug 1, 2013",,Free transfer,England,180.0,Southampton ,41818,500 Th. €,Steve de Ridder,13/14,Netherlands,200.0,FC Utrecht 
+"Mar 4, 2013",,End of loan,England,355.0,Bolton ,41818,500 Th. €,Steve de Ridder,12/13,England,180.0,Southampton 
+"Jan 31, 2013",,Loan,England,180.0,Southampton ,41818,500 Th. €,Steve de Ridder,12/13,England,355.0,Bolton 
+"Jul 1, 2011",,?,Netherlands,642.0,De Graafschap ,41818,850 Th. €,Steve de Ridder,11/12,England,180.0,Southampton 
+"Jul 1, 2008",,?,Belgium,157.0,KAA Gent ,41818,100 Th. €,Steve de Ridder,08/09,Netherlands,642.0,De Graafschap 
+"Jun 30, 2008",,End of loan,Belgium,3134.0,KFC VW Hamme ,41818,100 Th. €,Steve de Ridder,07/08,Belgium,157.0,KAA Gent 
+"Dec 1, 2006",,Loan,Belgium,157.0,KAA Gent ,41818,100 Th. €,Steve de Ridder,06/07,Belgium,3134.0,KFC VW Hamme 
+"Jun 30, 2006",,End of loan,Belgium,1111.0,Eendracht Aalst ,41818,-,Steve de Ridder,05/06,Belgium,157.0,KAA Gent 
+"Jul 1, 2005",,Loan,Belgium,157.0,KAA Gent ,41818,-,Steve de Ridder,05/06,Belgium,1111.0,Eendracht Aalst 
+"Jul 1, 2004",,-,Belgium,3791.0,KAA Gent U19 ,41818,-,Steve de Ridder,04/05,Belgium,157.0,KAA Gent 
+"Jul 30, 2015",,?,Portugal,10330.0,Benfica B ,290336,-,Rochinha,15/16,Belgium,3057.0,Standard Liège 
+"Jun 30, 2015",,End of loan,England,355.0,Bolton ,290336,-,Rochinha,14/15,Portugal,10330.0,Benfica B 
+"Jan 24, 2015",,Loan,Portugal,10330.0,Benfica B ,290336,-,Rochinha,14/15,England,355.0,Bolton 
+"Jul 1, 2014",,-,Portugal,8889.0,Benfica U19 ,290336,-,Rochinha,14/15,Portugal,10330.0,Benfica B 
+"Jan 1, 2012",,?,Portugal,12963.0,Boavista U19 ,290336,-,Rochinha,11/12,Portugal,8889.0,Benfica U19 
+"Jul 1, 2011",,Free transfer,Portugal,15802.0,Feirense U19 ,290336,-,Rochinha,11/12,Portugal,12963.0,Boavista U19 
+"Jul 1, 2010",,Free transfer,Portugal,47962.0,Dragon Force ,290336,-,Rochinha,10/11,Portugal,15802.0,Feirense U19 
+"Jul 1, 2013",,Free transfer,Monaco,9668.0,Monaco B ,111011,200 Th. €,Yvan Erichot,13/14,Belgium,475.0,Sint-Truiden 
+"Jun 30, 2013",,End of loan,Belgium,475.0,Sint-Truiden ,111011,200 Th. €,Yvan Erichot,12/13,Monaco,9668.0,Monaco B 
+"Jan 31, 2013",,Loan,Monaco,9668.0,Monaco B ,111011,200 Th. €,Yvan Erichot,12/13,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2012",,-,France,162.0,Monaco ,111011,200 Th. €,Yvan Erichot,12/13,Monaco,9668.0,Monaco B 
+"Dec 29, 2011",,End of loan,Portugal,2639.0,Leiria ,111011,300 Th. €,Yvan Erichot,11/12,France,162.0,Monaco 
+"Jul 5, 2011",,Loan,France,162.0,Monaco ,111011,300 Th. €,Yvan Erichot,11/12,Portugal,2639.0,Leiria 
+"Jun 30, 2011",,End of loan,France,3524.0,Clermont Foot ,111011,300 Th. €,Yvan Erichot,10/11,France,162.0,Monaco 
+"Jul 29, 2010",,Loan,France,162.0,Monaco ,111011,50 Th. €,Yvan Erichot,10/11,France,3524.0,Clermont Foot 
+"Jul 1, 2010",,-,Monaco,9668.0,Monaco B ,111011,-,Yvan Erichot,10/11,France,162.0,Monaco 
+"Jun 30, 2017",,End of loan,Belgium,3508.0,Zulte Waregem ,164913,900 Th. €,Soualiho Meïté,16/17,France,1082.0,LOSC Lille 
+"Feb 1, 2016",,Loan,France,1082.0,LOSC Lille ,164913,"1,25 Mill. €",Soualiho Meïté,15/16,Belgium,3508.0,Zulte Waregem 
+"Jun 30, 2013",,End of loan,France,290.0,AJ Auxerre ,164913,"1,50 Mill. €",Soualiho Meïté,12/13,France,1082.0,LOSC Lille 
+"Jan 29, 2013",,Loan,France,1082.0,LOSC Lille ,164913,400 Th. €,Soualiho Meïté,12/13,France,290.0,AJ Auxerre 
+"Jan 28, 2013",,"1,50 Mill. €",France,290.0,AJ Auxerre ,164913,400 Th. €,Soualiho Meïté,12/13,France,1082.0,LOSC Lille 
+"Jul 1, 2011",,-,France,7817.0,AJ Auxerre U19 ,164913,-,Soualiho Meïté,11/12,France,290.0,AJ Auxerre 
+"Jun 30, 2016",,End of loan,Belgium,29228.0,Mouscron ,150568,"1,00 Mill. €",Valentín Viola,15/16,Cyprus,429.0,Apol. Limassol 
+"Jan 15, 2016",,-,Portugal,10949.0,Sporting B ,150568,"2,50 Mill. €",Valentín Viola,15/16,Cyprus,429.0,Apol. Limassol 
+"Jan 15, 2016",,Loan,Cyprus,429.0,Apol. Limassol ,150568,"2,50 Mill. €",Valentín Viola,15/16,Belgium,29228.0,Mouscron 
+"Jul 1, 2015",,-,Portugal,336.0,Sporting CP ,150568,"2,50 Mill. €",Valentín Viola,15/16,Portugal,10949.0,Sporting B 
+"Jun 30, 2015",,End of loan,Turkey,1506.0,Karabükspor ,150568,"2,50 Mill. €",Valentín Viola,14/15,Portugal,336.0,Sporting CP 
+"Aug 1, 2014",,Loan fee:200 Th. €,Portugal,336.0,Sporting CP ,150568,"2,50 Mill. €",Valentín Viola,14/15,Turkey,1506.0,Karabükspor 
+"Jun 30, 2014",,End of loan,Argentina,1444.0,Racing Club ,150568,"2,50 Mill. €",Valentín Viola,13/14,Portugal,336.0,Sporting CP 
+"Aug 1, 2013",,Loan fee:450 Th. €,Portugal,336.0,Sporting CP ,150568,"2,50 Mill. €",Valentín Viola,13/14,Argentina,1444.0,Racing Club 
+"Jul 31, 2012",,"4,00 Mill. €",Argentina,1444.0,Racing Club ,150568,"1,40 Mill. €",Valentín Viola,12/13,Portugal,336.0,Sporting CP 
+"Jan 1, 2011",,-,Argentina,15119.0,Racing U20 ,150568,50 Th. €,Valentín Viola,10/11,Argentina,1444.0,Racing Club 
+"Aug 31, 2015",,?,France,290.0,AJ Auxerre ,107548,500 Th. €,Livio Nabab,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 25, 2014",,Free transfer,France,11300.0,AC Arles-Avign. ,107548,750 Th. €,Livio Nabab,14/15,France,290.0,AJ Auxerre 
+"Sep 2, 2013",,?,France,1162.0,SM Caen ,107548,900 Th. €,Livio Nabab,13/14,France,11300.0,AC Arles-Avign. 
+"Jun 30, 2011",,End of loan,France,1080.0,Stade Laval ,107548,300 Th. €,Livio Nabab,10/11,France,1162.0,SM Caen 
+"Jan 25, 2011",,Loan,France,1162.0,SM Caen ,107548,400 Th. €,Livio Nabab,10/11,France,1080.0,Stade Laval 
+"Jul 1, 2009",,-,France,12770.0,SM Caen B ,107548,-,Livio Nabab,09/10,France,1162.0,SM Caen 
+"Jul 1, 2015",,Free transfer,Portugal,1465.0,Estoril ,27178,"2,00 Mill. €",Rúben Fernandes,15/16,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2013",,?,Portugal,7378.0,Portimonense ,27178,400 Th. €,Rúben Fernandes,13/14,Portugal,1465.0,Estoril 
+"Jul 1, 2009",,Free transfer,Portugal,4297.0,Varzim ,27178,50 Th. €,Rúben Fernandes,09/10,Portugal,7378.0,Portimonense 
+"Jul 1, 2007",,?,Portugal,7378.0,Portimonense ,27178,-,Rúben Fernandes,07/08,Portugal,4297.0,Varzim 
+"Jul 1, 2004",,-,Portugal,15610.0,Portimonense ,27178,-,Rúben Fernandes,04/05,Portugal,7378.0,Portimonense 
+"Feb 1, 2016",,Free transfer,Germany,127.0,SC Paderborn ,31535,700 Th. €,Nick Proschwitz,15/16,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2015",,Free transfer,England,1148.0,Brentford ,31535,700 Th. €,Nick Proschwitz,15/16,Germany,127.0,SC Paderborn 
+"May 31, 2015",,End of loan,England,990.0,Coventry City ,31535,750 Th. €,Nick Proschwitz,14/15,England,1148.0,Brentford 
+"Feb 27, 2015",,Loan,England,1148.0,Brentford ,31535,750 Th. €,Nick Proschwitz,14/15,England,990.0,Coventry City 
+"Aug 7, 2014",,Free transfer,England,3008.0,Hull City ,31535,"1,00 Mill. €",Nick Proschwitz,14/15,England,1148.0,Brentford 
+"May 31, 2014",,End of loan,England,349.0,Barnsley FC ,31535,"1,00 Mill. €",Nick Proschwitz,13/14,England,3008.0,Hull City 
+"Jan 23, 2014",,Loan,England,3008.0,Hull City ,31535,"1,00 Mill. €",Nick Proschwitz,13/14,England,349.0,Barnsley FC 
+"Jul 18, 2012",,"3,30 Mill. €",Germany,127.0,SC Paderborn ,31535,"1,50 Mill. €",Nick Proschwitz,12/13,England,3008.0,Hull City 
+"Jul 1, 2011",,"1,00 Mill. €",Switzerland,938.0,FC Thun ,31535,600 Th. €,Nick Proschwitz,11/12,Germany,127.0,SC Paderborn 
+"Jul 1, 2010",,Free transfer,Switzerland,163.0,FC Vaduz ,31535,400 Th. €,Nick Proschwitz,10/11,Switzerland,938.0,FC Thun 
+"Jul 1, 2009",,Free transfer,Germany,1065.0,Hannover 96 II ,31535,150 Th. €,Nick Proschwitz,09/10,Switzerland,163.0,FC Vaduz 
+"Jul 1, 2008",,Free transfer,Germany,143.0,Wolfsburg II ,31535,100 Th. €,Nick Proschwitz,08/09,Germany,1065.0,Hannover 96 II 
+"Jan 1, 2007",,Free transfer,Germany,389.0,Hamburger SV II ,31535,50 Th. €,Nick Proschwitz,06/07,Germany,143.0,Wolfsburg II 
+"Jul 1, 2005",,Free transfer,Germany,8925.0,Hoffenheim U19 ,31535,-,Nick Proschwitz,05/06,Germany,389.0,Hamburger SV II 
+"Jul 1, 2004",,Free transfer,Germany,2612.0,Gr. Fürth U19 ,31535,-,Nick Proschwitz,04/05,Germany,8925.0,Hoffenheim U19 
+"Jun 30, 2016",,End of loan,Belgium,354.0,KV Mechelen ,74288,650 Th. €,Nassim Ben Khalifa,15/16,Turkey,825.0,Eskisehirspor 
+"Feb 1, 2016",,Loan,Turkey,825.0,Eskisehirspor ,74288,650 Th. €,Nassim Ben Khalifa,15/16,Belgium,354.0,KV Mechelen 
+"Jul 11, 2015",,?,Switzerland,504.0,Grasshoppers ,74288,750 Th. €,Nassim Ben Khalifa,15/16,Turkey,825.0,Eskisehirspor 
+"Jul 1, 2014",,150 Th. €,Germany,82.0,VfL Wolfsburg ,74288,750 Th. €,Nassim Ben Khalifa,14/15,Switzerland,504.0,Grasshoppers 
+"Jun 30, 2014",,End of loan,Switzerland,504.0,Grasshoppers ,74288,750 Th. €,Nassim Ben Khalifa,13/14,Germany,82.0,VfL Wolfsburg 
+"Jul 1, 2012",,Loan,Germany,82.0,VfL Wolfsburg ,74288,500 Th. €,Nassim Ben Khalifa,12/13,Switzerland,504.0,Grasshoppers 
+"Jun 30, 2012",,End of loan,Switzerland,452.0,BSC Young Boys ,74288,500 Th. €,Nassim Ben Khalifa,11/12,Germany,82.0,VfL Wolfsburg 
+"Jul 1, 2011",,Loan,Germany,82.0,VfL Wolfsburg ,74288,"1,25 Mill. €",Nassim Ben Khalifa,11/12,Switzerland,452.0,BSC Young Boys 
+"Jun 30, 2011",,End of loan,Germany,4.0,1.FC Nuremberg ,74288,"1,25 Mill. €",Nassim Ben Khalifa,10/11,Germany,82.0,VfL Wolfsburg 
+"Jan 14, 2011",,Loan,Germany,82.0,VfL Wolfsburg ,74288,"1,75 Mill. €",Nassim Ben Khalifa,10/11,Germany,4.0,1.FC Nuremberg 
+"Jul 1, 2010",,"1,60 Mill. €",Switzerland,504.0,Grasshoppers ,74288,"2,50 Mill. €",Nassim Ben Khalifa,10/11,Germany,82.0,VfL Wolfsburg 
+"Jul 1, 2009",,-,Switzerland,5502.0,GCZ II ,74288,50 Th. €,Nassim Ben Khalifa,09/10,Switzerland,504.0,Grasshoppers 
+"Jul 1, 2008",,50 Th. €,Switzerland,14197.0,Team Vaud U16 ,74288,-,Nassim Ben Khalifa,08/09,Switzerland,5502.0,GCZ II 
+"Jul 28, 2015",,"3,00 Mill. €",Italy,1038.0,Sampdoria ,35249,"6,00 Mill. €",Stefano Okaka,15/16,Belgium,58.0,RSC Anderlecht 
+"Jan 31, 2014",,?,Italy,130.0,Parma ,35249,"1,20 Mill. €",Stefano Okaka,13/14,Italy,1038.0,Sampdoria 
+"Jun 30, 2013",,End of loan,Italy,3522.0,Spezia Calcio ,35249,"1,20 Mill. €",Stefano Okaka,12/13,Italy,130.0,Parma 
+"Aug 21, 2012",,Loan,Italy,130.0,Parma ,35249,"2,00 Mill. €",Stefano Okaka,12/13,Italy,3522.0,Spezia Calcio 
+"Aug 20, 2012",,Free transfer,Italy,12.0,AS Roma ,35249,"2,00 Mill. €",Stefano Okaka,12/13,Italy,130.0,Parma 
+"Jun 30, 2012",,End of loan,Italy,130.0,Parma ,35249,"2,00 Mill. €",Stefano Okaka,11/12,Italy,12.0,AS Roma 
+"Jan 1, 2012",,Loan,Italy,12.0,AS Roma ,35249,"2,90 Mill. €",Stefano Okaka,11/12,Italy,130.0,Parma 
+"Jun 30, 2011",,End of loan,Italy,332.0,Bari ,35249,"2,90 Mill. €",Stefano Okaka,10/11,Italy,12.0,AS Roma 
+"Jan 1, 2011",,Loan,Italy,12.0,AS Roma ,35249,"3,50 Mill. €",Stefano Okaka,10/11,Italy,332.0,Bari 
+"Jun 30, 2010",,End of loan,England,931.0,Fulham FC ,35249,"4,00 Mill. €",Stefano Okaka,09/10,Italy,12.0,AS Roma 
+"Feb 1, 2010",,Loan fee:175 Th. €,Italy,12.0,AS Roma ,35249,"4,00 Mill. €",Stefano Okaka,09/10,England,931.0,Fulham FC 
+"Jun 30, 2009",,End of loan,Italy,19.0,Brescia ,35249,"3,50 Mill. €",Stefano Okaka,08/09,Italy,12.0,AS Roma 
+"Feb 1, 2009",,Loan,Italy,12.0,AS Roma ,35249,"3,50 Mill. €",Stefano Okaka,08/09,Italy,19.0,Brescia 
+"Jun 30, 2008",,End of loan,Italy,1385.0,Modena FC ,35249,"2,00 Mill. €",Stefano Okaka,07/08,Italy,12.0,AS Roma 
+"Jul 1, 2007",,Loan,Italy,12.0,AS Roma ,35249,"1,50 Mill. €",Stefano Okaka,07/08,Italy,1385.0,Modena FC 
+"Jul 1, 2005",,-,Italy,11997.0,Roma Primavera ,35249,-,Stefano Okaka,05/06,Italy,12.0,AS Roma 
+"Jul 1, 2004",,?,Italy,19099.0,Cittadella ,35249,-,Stefano Okaka,04/05,Italy,11997.0,Roma Primavera 
+"Jan 29, 2016",,"1,00 Mill. €",Slovakia,7918.0,AS Trencin ,381362,300 Th. €,Wesley,15/16,Belgium,2282.0,Club Brugge 
+"Jul 1, 2015",,?,Brazil,28612.0,Itabuna Esporte Clube (BA) ,381362,-,Wesley,15/16,Slovakia,7918.0,AS Trencin 
+"Aug 31, 2015",,Free transfer,Spain,367.0,Rayo Vallecano ,188853,"1,00 Mill. €",Alejandro Pozuelo,15/16,Belgium,1184.0,KRC Genk 
+"Jul 24, 2014",,Free transfer,England,2288.0,Swansea ,188853,"2,00 Mill. €",Alejandro Pozuelo,14/15,Spain,367.0,Rayo Vallecano 
+"Jul 2, 2013",,500 Th. €,Spain,150.0,Real Betis ,188853,"1,00 Mill. €",Alejandro Pozuelo,13/14,England,2288.0,Swansea 
+"Jul 1, 2012",,-,Spain,2865.0,Betis B ,188853,800 Th. €,Alejandro Pozuelo,12/13,Spain,150.0,Real Betis 
+"Jun 30, 2016",,End of loan,Belgium,2282.0,Club Brugge ,148489,"1,30 Mill. €",Mikel Agu,15/16,Portugal,10331.0,Porto B 
+"Aug 31, 2015",,Loan,Portugal,10331.0,Porto B ,148489,"1,00 Mill. €",Mikel Agu,15/16,Belgium,2282.0,Club Brugge 
+"Jul 1, 2012",,-,Portugal,9844.0,FC Porto U19 ,148489,-,Mikel Agu,12/13,Portugal,10331.0,Porto B 
+"Dec 16, 2015",,-,Belgium,515.0,Unattached ,35650,500 Th. €,Jean Calvé,15/16,,2727.0,OH Leuven 
+"Jul 1, 2015",,-,France,1162.0,SM Caen ,35650,500 Th. €,Jean Calvé,01/02,,515.0,Unattached 
+"Jul 1, 2012",,Free transfer,France,1159.0,AS Nancy ,35650,700 Th. €,Jean Calvé,12/13,France,1162.0,SM Caen 
+"May 1, 2011",,End of loan,England,350.0,Sheffield Utd. ,35650,500 Th. €,Jean Calvé,10/11,France,1159.0,AS Nancy 
+"Aug 1, 2010",,Loan,France,1159.0,AS Nancy ,35650,"1,30 Mill. €",Jean Calvé,10/11,England,350.0,Sheffield Utd. 
+"Jun 30, 2010",,End of loan,France,1290.0,Grenoble ,35650,"1,30 Mill. €",Jean Calvé,09/10,France,1159.0,AS Nancy 
+"Oct 27, 2009",,Loan,France,1159.0,AS Nancy ,35650,900 Th. €,Jean Calvé,09/10,France,1290.0,Grenoble 
+"Jun 30, 2009",,End of loan,France,1158.0,FC Lorient ,35650,"2,00 Mill. €",Jean Calvé,08/09,France,1159.0,AS Nancy 
+"Jan 28, 2009",,Loan,France,1159.0,AS Nancy ,35650,"2,20 Mill. €",Jean Calvé,08/09,France,1158.0,FC Lorient 
+"Jul 1, 2008",,Free transfer,France,1164.0,Le Mans ,35650,"2,50 Mill. €",Jean Calvé,08/09,France,1159.0,AS Nancy 
+"Jul 1, 2006",,"1,00 Mill. €",France,750.0,FC Sochaux ,35650,"1,30 Mill. €",Jean Calvé,06/07,France,1164.0,Le Mans 
+"Jul 1, 2004",,-,France,10825.0,FC Sochaux B ,35650,-,Jean Calvé,04/05,France,750.0,FC Sochaux 
+"Jul 23, 2015",,Free transfer,Serbia,53.0,OFK Beograd ,143556,400 Th. €,Nikola Aksentijevic,15/16,Belgium,29228.0,Mouscron 
+"Sep 1, 2014",,Free transfer,Netherlands,499.0,Vitesse ,143556,500 Th. €,Nikola Aksentijevic,14/15,Serbia,53.0,OFK Beograd 
+"Jun 30, 2014",,End of loan,Serbia,669.0,FK Partizan ,143556,900 Th. €,Nikola Aksentijevic,13/14,Netherlands,499.0,Vitesse 
+"Jul 1, 2013",,Loan,Netherlands,499.0,Vitesse ,143556,"1,50 Mill. €",Nikola Aksentijevic,13/14,Serbia,669.0,FK Partizan 
+"Aug 30, 2012",,?,Serbia,669.0,FK Partizan ,143556,900 Th. €,Nikola Aksentijevic,12/13,Netherlands,499.0,Vitesse 
+"Jul 1, 2011",,Free transfer,Serbia,4646.0,Teleoptik Zemun ,143556,-,Nikola Aksentijevic,11/12,Serbia,669.0,FK Partizan 
+"Jan 1, 2011",,Free transfer,Serbia,12373.0,FK Partizan U19 ,143556,-,Nikola Aksentijevic,10/11,Serbia,4646.0,Teleoptik Zemun 
+"Jun 30, 2016",,End of loan,Belgium,475.0,Sint-Truiden ,253125,150 Th. €,Joao Rodríguez,15/16,England,9250.0,Chelsea U21 
+"Aug 3, 2015",,Loan,England,9250.0,Chelsea U21 ,253125,150 Th. €,Joao Rodríguez,15/16,Belgium,475.0,Sint-Truiden 
+"Jun 30, 2015",,End of loan,Portugal,1085.0,Vitória Setúbal ,253125,150 Th. €,Joao Rodríguez,14/15,England,9250.0,Chelsea U21 
+"Feb 2, 2015",,Loan,England,9250.0,Chelsea U21 ,253125,150 Th. €,Joao Rodríguez,14/15,Portugal,1085.0,Vitória Setúbal 
+"Jan 8, 2015",,End of loan,France,595.0,SC Bastia ,253125,150 Th. €,Joao Rodríguez,14/15,England,9250.0,Chelsea U21 
+"Aug 6, 2014",,Loan,England,9250.0,Chelsea U21 ,253125,-,Joao Rodríguez,14/15,France,595.0,SC Bastia 
+"Jun 30, 2014",,End of loan,Colombia,32040.0,Uniautónoma ,253125,-,Joao Rodríguez,13/14,England,9250.0,Chelsea U21 
+"Jan 31, 2014",,Loan,England,9250.0,Chelsea U21 ,253125,-,Joao Rodríguez,13/14,Colombia,32040.0,Uniautónoma 
+"Dec 31, 2013",,End of loan,Colombia,24474.0,Quindío U19 ,253125,-,Joao Rodríguez,12/13,England,9250.0,Chelsea U21 
+"Sep 1, 2012",,Loan,England,6918.0,Chelsea U18 ,253125,-,Joao Rodríguez,12/13,Colombia,24474.0,Quindío U19 
+"Feb 23, 2012",,?,Colombia,2351.0,Quindío ,253125,-,Joao Rodríguez,11/12,England,6918.0,Chelsea U18 
+"Jan 1, 2012",,?,Colombia,18265.0,CBJ Cali ,253125,-,Joao Rodríguez,11/12,Colombia,2351.0,Quindío 
+"Jul 1, 2015",,Free transfer,France,3524.0,Clermont Foot ,160567,600 Th. €,Thibault Moulin,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2013",,Free transfer,France,1162.0,SM Caen ,160567,500 Th. €,Thibault Moulin,13/14,France,3524.0,Clermont Foot 
+"Jun 30, 2012",,End of loan,France,1175.0,LB Châteauroux ,160567,600 Th. €,Thibault Moulin,11/12,France,1162.0,SM Caen 
+"Aug 1, 2011",,Loan,France,1162.0,SM Caen ,160567,500 Th. €,Thibault Moulin,11/12,France,1175.0,LB Châteauroux 
+"Jan 1, 2011",,-,France,12770.0,SM Caen B ,160567,-,Thibault Moulin,10/11,France,1162.0,SM Caen 
+"Jun 30, 2017",,End of loan,Belgium,475.0,Sint-Truiden ,385271,400 Th. €,Allan,16/17,England,31.0,Liverpool 
+"Jan 18, 2016",,Loan,England,31.0,Liverpool ,385271,400 Th. €,Allan,15/16,Belgium,475.0,Sint-Truiden 
+"Dec 31, 2015",,End of loan,Finland,23777.0,SJK ,385271,400 Th. €,Allan,15/16,England,31.0,Liverpool 
+"Sep 2, 2015",,Loan,England,31.0,Liverpool ,385271,-,Allan,15/16,Finland,23777.0,SJK 
+"Aug 1, 2015",,710 Th. €,Brazil,15083.0,Inter U20 ,385271,-,Allan,15/16,England,31.0,Liverpool 
+"Jul 23, 2015",,?,Spain,237.0,RCD Mallorca ,46553,400 Th. €,Nikola Gulan,15/16,Belgium,29228.0,Mouscron 
+"Sep 1, 2014",,Free transfer,Serbia,669.0,FK Partizan ,46553,350 Th. €,Nikola Gulan,14/15,Spain,237.0,RCD Mallorca 
+"Jul 1, 2013",,Free transfer,Italy,1385.0,Modena FC ,46553,350 Th. €,Nikola Gulan,13/14,Serbia,669.0,FK Partizan 
+"Aug 7, 2012",,Free transfer,Italy,430.0,Fiorentina ,46553,300 Th. €,Nikola Gulan,12/13,Italy,1385.0,Modena FC 
+"Jun 30, 2012",,End of loan,Italy,862.0,Chievo Verona ,46553,300 Th. €,Nikola Gulan,11/12,Italy,430.0,Fiorentina 
+"Jan 1, 2012",,Loan,Italy,430.0,Fiorentina ,46553,500 Th. €,Nikola Gulan,11/12,Italy,862.0,Chievo Verona 
+"Jun 30, 2010",,End of loan,Italy,749.0,FC Empoli ,46553,500 Th. €,Nikola Gulan,09/10,Italy,430.0,Fiorentina 
+"Aug 1, 2009",,Loan,Italy,430.0,Fiorentina ,46553,750 Th. €,Nikola Gulan,09/10,Italy,749.0,FC Empoli 
+"Jun 30, 2009",,End of loan,Germany,72.0,1860 Munich ,46553,750 Th. €,Nikola Gulan,08/09,Italy,430.0,Fiorentina 
+"Feb 1, 2009",,Loan,Italy,430.0,Fiorentina ,46553,900 Th. €,Nikola Gulan,08/09,Germany,72.0,1860 Munich 
+"Jun 30, 2008",,End of loan,Italy,1038.0,Sampdoria ,46553,900 Th. €,Nikola Gulan,07/08,Italy,430.0,Fiorentina 
+"Jan 1, 2008",,Loan,Italy,430.0,Fiorentina ,46553,600 Th. €,Nikola Gulan,07/08,Italy,1038.0,Sampdoria 
+"Jul 1, 2007",,"2,50 Mill. €",Serbia,669.0,FK Partizan ,46553,250 Th. €,Nikola Gulan,07/08,Italy,430.0,Fiorentina 
+"Jul 1, 2006",,-,Serbia,12373.0,FK Partizan U19 ,46553,-,Nikola Gulan,06/07,Serbia,669.0,FK Partizan 
+"Sep 3, 2015",,-,Belgium,515.0,Unattached ,68442,"1,75 Mill. €",Vagner,15/16,,29228.0,Mouscron 
+"Jul 1, 2015",,-,Portugal,1465.0,Estoril ,68442,"1,75 Mill. €",Vagner,15/16,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Brazil,17300.0,Desp. Brasil ,68442,50 Th. €,Vagner,11/12,Portugal,1465.0,Estoril 
+"Jun 30, 2010",,End of loan,Portugal,1465.0,Estoril ,68442,50 Th. €,Vagner,10/11,Brazil,17300.0,Desp. Brasil 
+"Jan 1, 2010",,Loan,Brazil,17300.0,Desp. Brasil ,68442,50 Th. €,Vagner,09/10,Portugal,1465.0,Estoril 
+"Apr 30, 2009",,End of loan,Brazil,4773.0,Ituano ,68442,50 Th. €,Vagner,08/09,Brazil,17300.0,Desp. Brasil 
+"Feb 1, 2009",,Loan,Brazil,17300.0,Desp. Brasil ,68442,50 Th. €,Vagner,08/09,Brazil,4773.0,Ituano 
+"Jan 1, 2009",,-,Brazil,515.0,Unattached ,68442,50 Th. €,Vagner,08/09,,17300.0,Desp. Brasil 
+"Jan 1, 2008",,-,Brazil,679.0,Atlético-PR ,68442,-,Vagner,07/08,,515.0,Unattached 
+"Jan 1, 2005",,-,Brazil,16656.0,Paranaense ,68442,-,Vagner,04/05,Brazil,679.0,Atlético-PR 
+"Jul 1, 2015",,?,Belgium,1199.0,RE Virton ,104543,150 Th. €,Théo Defourny,15/16,Belgium,29228.0,Mouscron 
+"Sep 1, 2014",,Free transfer,France,1041.0,Olympique Lyon ,104543,150 Th. €,Théo Defourny,14/15,Belgium,1199.0,RE Virton 
+"Jul 1, 2013",,-,France,12764.0,Olymp. Lyon B ,104543,-,Théo Defourny,13/14,France,1041.0,Olympique Lyon 
+"Jun 30, 2013",,End of loan,France,1564.0,FC Rouen ,104543,-,Théo Defourny,12/13,France,12764.0,Olymp. Lyon B 
+"Jul 1, 2012",,Loan,France,12764.0,Olymp. Lyon B ,104543,-,Théo Defourny,12/13,France,1564.0,FC Rouen 
+"Jun 30, 2012",,End of loan,Belgium,1096.0,Royal Antwerpen ,104543,-,Théo Defourny,11/12,France,12764.0,Olymp. Lyon B 
+"Jul 19, 2011",,Loan,France,12764.0,Olymp. Lyon B ,104543,-,Théo Defourny,11/12,Belgium,1096.0,Royal Antwerpen 
+"Jul 1, 2011",,-,France,7813.0,Olympique Lyon U19 ,104543,-,Théo Defourny,11/12,France,12764.0,Olymp. Lyon B 
+"Jun 30, 2016",,End of loan,Belgium,58.0,RSC Anderlecht ,94307,"4,50 Mill. €",Filip Djuricic,15/16,Portugal,294.0,Benfica 
+"Jan 25, 2016",,Loan fee:500 Th. €,Portugal,294.0,Benfica ,94307,"5,00 Mill. €",Filip Djuricic,15/16,Belgium,58.0,RSC Anderlecht 
+"Jun 30, 2015",,End of loan,England,180.0,Southampton ,94307,"5,00 Mill. €",Filip Djuricic,14/15,Portugal,294.0,Benfica 
+"Feb 2, 2015",,Loan,Portugal,294.0,Benfica ,94307,"5,00 Mill. €",Filip Djuricic,14/15,England,180.0,Southampton 
+"Feb 1, 2015",,End of loan,Germany,39.0,1.FSV Mainz 05 ,94307,"5,00 Mill. €",Filip Djuricic,14/15,Portugal,294.0,Benfica 
+"Jul 23, 2014",,Loan fee:400 Th. €,Portugal,294.0,Benfica ,94307,"7,00 Mill. €",Filip Djuricic,14/15,Germany,39.0,1.FSV Mainz 05 
+"Jul 1, 2013",,"8,00 Mill. €",Netherlands,306.0,SC Heerenveen ,94307,"7,00 Mill. €",Filip Djuricic,13/14,Portugal,294.0,Benfica 
+"Jan 1, 2010",,Free transfer,Serbia,4661.0,Radnicki Obrenovac ,94307,-,Filip Djuricic,09/10,Netherlands,306.0,SC Heerenveen 
+"Jul 1, 2008",,Free transfer,Greece,7661.0,Olympiakos U20 ,94307,-,Filip Djuricic,08/09,Serbia,4661.0,Radnicki Obrenovac 
+"Jul 1, 2007",,Free transfer,Serbia,11137.0,Red Star U19 ,94307,-,Filip Djuricic,07/08,Greece,7661.0,Olympiakos U20 
+"Jul 15, 2015",,Free transfer,Slovakia,540.0,Slo. Bratislava ,81897,450 Th. €,Mamadou Bagayoko,14/15,Belgium,475.0,Sint-Truiden 
+"Jun 30, 2009",,End of loan,Slovakia,2781.0,Petrzalka ,81897,50 Th. €,Mamadou Bagayoko,08/09,Slovakia,540.0,Slo. Bratislava 
+"Jan 1, 2009",,Loan,Slovakia,540.0,Slo. Bratislava ,81897,50 Th. €,Mamadou Bagayoko,08/09,Slovakia,2781.0,Petrzalka 
+"Sep 1, 2008",,Free transfer,Cote d'Ivoire,2936.0,Africa Sports ,81897,50 Th. €,Mamadou Bagayoko,08/09,Slovakia,540.0,Slo. Bratislava 
+"Jan 11, 2016",,100 Th. €,Netherlands,500.0,Helmond Sport ,273004,150 Th. €,Aleksandar Bjelica,15/16,Belgium,354.0,KV Mechelen 
+"Jul 1, 2015",,Free transfer,Netherlands,1269.0,PEC Zwolle ,273004,150 Th. €,Aleksandar Bjelica,15/16,Netherlands,500.0,Helmond Sport 
+"Jan 10, 2015",,-,Netherlands,515.0,Unattached ,273004,125 Th. €,Aleksandar Bjelica,14/15,,1269.0,PEC Zwolle 
+"Nov 14, 2014",,-,Netherlands,200.0,FC Utrecht ,273004,125 Th. €,Aleksandar Bjelica,14/15,,515.0,Unattached 
+"Nov 9, 2014",,End of loan,Netherlands,468.0,Sparta R. ,273004,125 Th. €,Aleksandar Bjelica,14/15,Netherlands,200.0,FC Utrecht 
+"Jul 1, 2014",,Loan,Netherlands,200.0,FC Utrecht ,273004,100 Th. €,Aleksandar Bjelica,14/15,Netherlands,468.0,Sparta R. 
+"Jul 1, 2013",,-,Netherlands,4694.0,FC Utrecht U19 ,273004,-,Aleksandar Bjelica,13/14,Netherlands,200.0,FC Utrecht 
+"Jul 1, 2012",,?,Netherlands,10709.0,ADO U19 ,273004,-,Aleksandar Bjelica,12/13,Netherlands,4694.0,FC Utrecht U19 
+"Jul 5, 2015",,?,France,1159.0,AS Nancy ,45166,800 Th. €,Joël Sami,15/16,Belgium,3508.0,Zulte Waregem 
+"Jul 1, 2008",,Free transfer,France,1416.0,SC Amiens ,45166,"1,20 Mill. €",Joël Sami,08/09,France,1159.0,AS Nancy 
+"Jul 1, 2004",,Free transfer,France,1424.0,AS Valence ,45166,-,Joël Sami,04/05,France,1416.0,SC Amiens 
+"Jul 1, 2002",,-,France,16029.0,AS Valence U19 ,45166,-,Joël Sami,02/03,France,1424.0,AS Valence 
+"Jun 30, 2016",,End of loan,Belgium,475.0,Sint-Truiden ,186863,"1,50 Mill. €",Cristian Cuevas,15/16,England,631.0,Chelsea 
+"Aug 10, 2015",,Loan,England,631.0,Chelsea ,186863,"1,50 Mill. €",Cristian Cuevas,15/16,Belgium,475.0,Sint-Truiden 
+"Jun 30, 2015",,End of loan,Chile,1037.0,U. de Chile ,186863,"1,50 Mill. €",Cristian Cuevas,14/15,England,631.0,Chelsea 
+"Jul 4, 2014",,Loan,England,631.0,Chelsea ,186863,"1,50 Mill. €",Cristian Cuevas,14/15,Chile,1037.0,U. de Chile 
+"Jun 30, 2014",,End of loan,Netherlands,3892.0,FC Eindhoven ,186863,"1,50 Mill. €",Cristian Cuevas,13/14,England,631.0,Chelsea 
+"Feb 7, 2014",,Loan,England,631.0,Chelsea ,186863,"1,70 Mill. €",Cristian Cuevas,13/14,Netherlands,3892.0,FC Eindhoven 
+"Jan 31, 2014",,End of loan,Netherlands,499.0,Vitesse ,186863,"1,70 Mill. €",Cristian Cuevas,13/14,England,631.0,Chelsea 
+"Aug 7, 2013",,Loan,England,631.0,Chelsea ,186863,"1,70 Mill. €",Cristian Cuevas,13/14,Netherlands,499.0,Vitesse 
+"Jul 23, 2013",,"1,90 Mill. €",Chile,11470.0,O'Higgins ,186863,75 Th. €,Cristian Cuevas,13/14,England,631.0,Chelsea 
+"Jan 1, 2011",,-,Chile,24423.0,O'Higgins U19 ,186863,-,Cristian Cuevas,10/11,Chile,11470.0,O'Higgins 
+"Aug 28, 2014",,?,Belgium,1096.0,Royal Antwerpen ,58097,400 Th. €,John Bostock,14/15,Belgium,2727.0,OH Leuven 
+"Jul 11, 2013",,Free transfer,England,148.0,Spurs ,58097,-,John Bostock,13/14,Belgium,1096.0,Royal Antwerpen 
+"May 24, 2013",,End of loan,United States,11141.0,Toronto ,58097,-,John Bostock,12/13,England,148.0,Spurs 
+"Mar 8, 2013",,Loan,England,148.0,Spurs ,58097,-,John Bostock,12/13,United States,11141.0,Toronto 
+"Dec 31, 2012",,End of loan,England,352.0,Swindon Town ,58097,-,John Bostock,12/13,England,148.0,Spurs 
+"Aug 30, 2012",,Loan,England,148.0,Spurs ,58097,-,John Bostock,12/13,England,352.0,Swindon Town 
+"May 1, 2012",,End of loan,England,352.0,Swindon Town ,58097,-,John Bostock,11/12,England,148.0,Spurs 
+"Mar 1, 2012",,Loan,England,148.0,Spurs ,58097,-,John Bostock,11/12,England,352.0,Swindon Town 
+"Feb 1, 2012",,End of loan,England,1035.0,Sheff Wed ,58097,-,John Bostock,11/12,England,148.0,Spurs 
+"Jan 1, 2012",,Loan,England,148.0,Spurs ,58097,-,John Bostock,11/12,England,1035.0,Sheff Wed 
+"Dec 1, 2010",,End of loan,England,3008.0,Hull City ,58097,300 Th. €,John Bostock,10/11,England,148.0,Spurs 
+"Aug 1, 2010",,Loan,England,148.0,Spurs ,58097,300 Th. €,John Bostock,10/11,England,3008.0,Hull City 
+"Jan 1, 2010",,End of loan,England,1148.0,Brentford ,58097,300 Th. €,John Bostock,09/10,England,148.0,Spurs 
+"Nov 1, 2009",,Loan,England,148.0,Spurs ,58097,300 Th. €,John Bostock,09/10,England,1148.0,Brentford 
+"Jul 1, 2008",,"2,00 Mill. €",England,873.0,Crystal Palace ,58097,300 Th. €,John Bostock,08/09,England,148.0,Spurs 
+"Jul 1, 2007",,-,England,6950.0,Palace U18 ,58097,-,John Bostock,07/08,England,873.0,Crystal Palace 
+"Jun 30, 2016",,End of loan,Belgium,58.0,RSC Anderlecht ,38003,"2,50 Mill. €",Alexander Büttner,15/16,Russia,121.0,Dinamo Moscow 
+"Jan 31, 2016",,Loan fee:500 Th. €,Russia,121.0,Dinamo Moscow ,38003,"3,00 Mill. €",Alexander Büttner,15/16,Belgium,58.0,RSC Anderlecht 
+"Jul 1, 2014",,"5,50 Mill. €",England,985.0,Manchester Utd. ,38003,"3,50 Mill. €",Alexander Büttner,14/15,Russia,121.0,Dinamo Moscow 
+"Aug 21, 2012",,"5,00 Mill. €",Netherlands,499.0,Vitesse ,38003,"3,00 Mill. €",Alexander Büttner,12/13,England,985.0,Manchester Utd. 
+"Jul 1, 2008",,-,Netherlands,7465.0,Vit./AGOVV U19 ,38003,50 Th. €,Alexander Büttner,08/09,Netherlands,499.0,Vitesse 
+"Jul 1, 2005",,-,Netherlands,32791.0,Ajax Youth ,38003,-,Alexander Büttner,05/06,Netherlands,7465.0,Vit./AGOVV U19 
+"Jul 1, 2015",,Free transfer,Germany,18.0,Bor. M'gladbach ,7028,250 Th. €,Filip Daems,15/16,Belgium,968.0,KVC Westerlo 
+"Jan 20, 2005",,300 Th. €,Turkey,820.0,Genclerbirligi ,7028,"3,50 Mill. €",Filip Daems,04/05,Germany,18.0,Bor. M'gladbach 
+"Jul 1, 2001",,400 Th. €,Belgium,204.0,Lierse SK ,7028,-,Filip Daems,01/02,Turkey,820.0,Genclerbirligi 
+"Jul 1, 1998",,"1,00 Mill. €",Belgium,9681.0,ASV Geel ,7028,-,Filip Daems,98/99,Belgium,204.0,Lierse SK 
+"Nov 16, 2015",,-,Belgium,515.0,Unattached ,123639,"1,40 Mill. â‚¬",May Mahlangu,15/16,,475.0,Sint-Truiden 
+"Jul 1, 2015",,-,Turkey,2293.0,Konyaspor ,123639,"1,40 Mill. â‚¬",May Mahlangu,15/16,,515.0,Unattached 
+"Feb 2, 2015",,Free transfer,Sweden,801.0,IFK GÃ¶teborg ,123639,"2,50 Mill. â‚¬",May Mahlangu,14/15,Turkey,2293.0,Konyaspor 
+"Mar 4, 2014",,Free transfer,Sweden,699.0,Helsingborgs IF ,123639,"2,50 Mill. â‚¬",May Mahlangu,13/14,Sweden,801.0,IFK GÃ¶teborg 
+"Jun 30, 2009",,End of loan,Sweden,2005.0,IFK HÃ¤ssleholm ,123639,-,May Mahlangu,08/09,Sweden,699.0,Helsingborgs IF 
+"Aug 1, 2008",,Loan,Sweden,699.0,Helsingborgs IF ,123639,-,May Mahlangu,08/09,Sweden,2005.0,IFK HÃ¤ssleholm 
+"Jul 1, 2008",,?,South Africa,30509.0,Alexandra Utd. ,123639,-,May Mahlangu,08/09,Sweden,699.0,Helsingborgs IF 
+"Jul 1, 2006",,?,South Africa,38389.0,Stars of Africa ,123639,-,May Mahlangu,06/07,South Africa,30509.0,Alexandra Utd. 
+"Feb 1, 2016",,"2,50 Mill. €",Turkey,6890.0,Basaksehir ,208505,"2,50 Mill. €",Stéphane Badji,15/16,Belgium,58.0,RSC Anderlecht 
+"Feb 2, 2015",,700 Th. €,Norway,1100.0,SK Brann ,208505,900 Th. €,Stéphane Badji,14/15,Turkey,6890.0,Basaksehir 
+"Mar 1, 2013",,950 Th. €,Norway,2038.0,Sogndal ,208505,800 Th. €,Stéphane Badji,12/13,Norway,1100.0,SK Brann 
+"Jan 1, 2012",,?,Senegal,22419.0,Casa Sports ,208505,-,Stéphane Badji,11/12,Norway,2038.0,Sogndal 
+"Jan 1, 2016",,"1,00 Mill. €",France,1420.0,SCO Angers ,12029,"1,00 Mill. €",Ludovic Butelle,15/16,Belgium,2282.0,Club Brugge 
+"Jul 1, 2014",,Free transfer,France,11300.0,AC Arles-Avign. ,12029,600 Th. €,Ludovic Butelle,14/15,France,1420.0,SCO Angers 
+"Jul 2, 2011",,Free transfer,France,1082.0,LOSC Lille ,12029,750 Th. €,Ludovic Butelle,11/12,France,11300.0,AC Arles-Avign. 
+"Jun 30, 2011",,End of loan,France,1160.0,Olympique Nîmes ,12029,750 Th. €,Ludovic Butelle,10/11,France,1082.0,LOSC Lille 
+"Jul 1, 2010",,Loan,France,1082.0,LOSC Lille ,12029,"1,50 Mill. €",Ludovic Butelle,10/11,France,1160.0,Olympique Nîmes 
+"Jul 1, 2009",,Free transfer,Spain,1049.0,Valencia CF ,12029,700 Th. €,Ludovic Butelle,09/10,France,1082.0,LOSC Lille 
+"Jun 30, 2009",,End of loan,France,1082.0,LOSC Lille ,12029,700 Th. €,Ludovic Butelle,08/09,Spain,1049.0,Valencia CF 
+"Sep 1, 2008",,Loan,Spain,1049.0,Valencia CF ,12029,900 Th. €,Ludovic Butelle,08/09,France,1082.0,LOSC Lille 
+"Jun 30, 2008",,End of loan,Spain,366.0,Real Valladolid ,12029,900 Th. €,Ludovic Butelle,07/08,Spain,1049.0,Valencia CF 
+"Jul 1, 2007",,Loan,Spain,1049.0,Valencia CF ,12029,"1,00 Mill. €",Ludovic Butelle,07/08,Spain,366.0,Real Valladolid 
+"Jun 30, 2005",,End of loan,Spain,7971.0,Hércules CF ,12029,"1,75 Mill. €",Ludovic Butelle,04/05,Spain,1049.0,Valencia CF 
+"Jan 1, 2005",,Loan,Spain,1049.0,Valencia CF ,12029,"1,75 Mill. €",Ludovic Butelle,04/05,Spain,7971.0,Hércules CF 
+"Jul 1, 2004",,Free transfer,France,347.0,FC Metz ,12029,-,Ludovic Butelle,04/05,Spain,1049.0,Valencia CF 
+"Jul 1, 2001",,-,France,8179.0,FC Metz B ,12029,-,Ludovic Butelle,01/02,France,347.0,FC Metz 
+"Jan 12, 2016",,"2,50 Mill. €",Greece,265.0,Panathinaikos ,63487,"3,75 Mill. €",Nikolaos Karelis,15/16,Belgium,1184.0,KRC Genk 
+"Jul 30, 2013",,80 Th. €,Russia,4128.0,Amkar Perm ,63487,400 Th. €,Nikolaos Karelis,13/14,Greece,265.0,Panathinaikos 
+"Jul 31, 2012",,Free transfer,Greece,5220.0,Ergotelis ,63487,400 Th. €,Nikolaos Karelis,12/13,Russia,4128.0,Amkar Perm 
+"Jul 1, 2007",,-,Greece,19326.0,Ergotelis U20 ,63487,-,Nikolaos Karelis,07/08,Greece,5220.0,Ergotelis 
+"Jul 1, 2015",,-,France,826.0,Lens ,191182,250 Th. €,Benjamin Boulenger,15/16,Belgium,172.0,RSC Charleroi 
+"Jan 1, 2015",,-,France,8152.0,RC Lens B ,191182,100 Th. €,Benjamin Boulenger,14/15,France,826.0,Lens 
+"Aug 29, 2013",,Free transfer,France,7042.0,US Boulogne ,191182,100 Th. €,Benjamin Boulenger,13/14,France,8152.0,RC Lens B 
+"Jul 1, 2011",,Free transfer,France,30398.0,AS Aulnoye ,191182,-,Benjamin Boulenger,11/12,France,7042.0,US Boulogne 
 ,'NoneType' object has no attribute 'find_all',,,,,326336,,,,,,
-"Jul 1, 2015",,Free transfer,Belgium,1411,RAEC Mons ,337689,300 Th. €,Roman Ferber,15/16,Belgium,172,RSC Charleroi 
-"Jul 1, 2016",,400 Th. €,Uganda,29757,Vipers SC ,339005,400 Th. €,Farouk Miya,16/17,Belgium,3057,Standard Liège 
-"Jun 30, 2016",,End of loan,Belgium,3057,Standard Liège ,339005,400 Th. €,Farouk Miya,15/16,Uganda,29757,Vipers SC 
-"Jan 21, 2016",,Loan,Uganda,29757,Vipers SC ,339005,-,Farouk Miya,15/16,Belgium,3057,Standard Liège 
-"Jul 1, 2015",,-,Belgium,8164,Standard U19 ,347625,-,Beni Badibanga,15/16,Belgium,3057,Standard Liège 
-"Jul 1, 2015",,-,Belgium,15687,Oud-Heverlee Leuven U19 ,349281,25 Th. €,Tuur Houben,15/16,Belgium,2727,OH Leuven 
-"Jul 1, 2015",,?,France,7042,US Boulogne ,351837,-,Elohim Rolland,15/16,Belgium,601,KV Kortrijk 
-"Jul 1, 2014",,Free transfer,France,17768,Lyon-la-Duchere ,351837,-,Elohim Rolland,14/15,France,7042,US Boulogne 
-"Jul 1, 2011",,Free transfer,France,18633,FC Villefranche ,351837,-,Elohim Rolland,11/12,France,17768,Lyon-la-Duchere 
-"Jul 1, 2015",,-,Belgium,43560,Club Brugge 21 ,355707,-,Lennert Desmul,15/16,Belgium,2282,Club Brugge 
-"Jul 1, 2014",,-,Belgium,6640,Club Bruges U19 ,355707,-,Lennert Desmul,14/15,Belgium,43560,Club Brugge 21 
-"Jul 1, 2015",,-,Belgium,3494,KRC Genk U19 ,356081,-,Bryan Heynen,15/16,Belgium,1184,KRC Genk 
-"Jul 1, 2015",,-,Belgium,15687,Oud-Heverlee Leuven U19 ,358907,25 Th. €,Din Sula,15/16,Belgium,2727,OH Leuven 
-"Jan 4, 2016",,750 Th. €,Norway,2761,FK Haugesund ,363537,600 Th. €,Simon Diédhiou,15/16,Belgium,157,KAA Gent 
-"Mar 9, 2015",,?,Senegal,28578,Diambars ,363537,-,Simon Diédhiou,14/15,Norway,2761,FK Haugesund 
-"Aug 31, 2015",,?,Senegal,46322,Mbour P.C. ,364233,-,Sidy Sarr,15/16,Belgium,601,KV Kortrijk 
-"Jan 1, 2015",,?,Senegal,31624,AS Dakar Sacré Coeur ,364233,-,Sidy Sarr,14/15,Senegal,46322,Mbour P.C. 
-"Jul 1, 2015",,Free transfer,Belgium,30857,Anderlecht Res. ,364567,-,Joher Khadim Rassoul,15/16,Belgium,498,KSC Lokeren 
-"Jul 1, 2015",,Free transfer,Belgium,8164,Standard U19 ,369267,-,Maximiliano Caufriez,15/16,Belgium,28643,Waasl.-Beveren 
-"Jul 1, 2014",,Free transfer,Belgium,25005,RSCA Youth ,369267,-,Maximiliano Caufriez,14/15,Belgium,8164,Standard U19 
-"Jul 1, 2015",,Free transfer,Slovenia,18030,NK Domzale U19 ,372380,50 Th. €,Emil Velic,15/16,Belgium,475,Sint-Truiden 
-"Jul 1, 2015",,-,Belgium,43564,KSC Lokeren II ,380173,-,Tjorven Melens,15/16,Belgium,498,KSC Lokeren 
-"Jul 1, 2015",,-,Belgium,9631,Westerlo U19 ,383208,-,Stijn Jeurissen,15/16,Belgium,968,KVC Westerlo 
-"Jul 1, 2014",,?,Belgium,25005,RSCA Youth ,383208,-,Stijn Jeurissen,14/15,Belgium,9631,Westerlo U19 
-"Jul 1, 2013",,?,Belgium,34282,Genk Youth ,383208,-,Stijn Jeurissen,13/14,Belgium,25005,RSCA Youth 
-,'NoneType' object has no attribute 'find_all',,,,,383372,,,,,,
-,'NoneType' object has no attribute 'find_all',,,,,384240,,,,,,
-"Aug 12, 2015",,"1,40 Mill. €",Slovakia,16181,AS Trencin U19 ,387626,-,Leon Bailey,15/16,Belgium,1184,KRC Genk 
-"Jun 30, 2016",,End of loan,Belgium,3057,Standard Liège ,398807,50 Th. €,Juan Olivier Simo Kingue,15/16,,75,Unknown 
-"Jan 4, 2016",,Loan,Belgium,75,Unknown ,398807,-,Juan Olivier Simo Kingue,15/16,,3057,Standard Liège 
-"Jan 18, 2016",,?,Belgium,10431,St. Truiden U19 ,402884,-,Nicolas Gerits,15/16,Belgium,475,Sint-Truiden 
-"Jul 1, 2016",,Free transfer,Belgium,49388,Beveren Res. ,405191,50 Th. €,Kevin Hebbelinck,16/17,,75,Unknown 
-"Jul 1, 2015",,?,Belgium,24394,Standard Res. ,405973,-,Fadel Gobitaka,15/16,Belgium,3057,Standard Liège 
-"Jan 1, 2016",,?,Belgium,10431,St. Truiden U19 ,411119,-,Reno Wilmots,15/16,Belgium,475,Sint-Truiden 
 ,'NoneType' object has no attribute 'find_all',,,,,414657,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,419427,,,,,,
-,'NoneType' object has no attribute 'find_all',,,,,421110,,,,,,
-"Mar 31, 2016",,-,Belgium,52562,Mouscron Res. ,430120,-,Maksym  Bah,15/16,Belgium,29228,Mouscron 
-"Jul 1, 2016",,-,Belgium,52562,Mouscron Res. ,434514,-, Benjamin  van Durmen,16/17,Belgium,29228,Mouscron 
-,'NoneType' object has no attribute 'find_all',,,,,434515,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,435147,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,383372,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,384240,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,434515,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,421110,,,,,,
