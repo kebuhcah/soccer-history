@@ -26,13 +26,10 @@ def extractLeagues(leagues):
                 transfersTodo = index.index.tolist()
                 if os.path.isfile(transfersFile):
                     oldTransfers = pd.read_csv(transfersFile)
-                    if not 'id' in oldTransfers.columns:
+                    if (not 'id' in oldTransfers.columns) or (not 'playerName' in oldTransfers.columns):
                         print "bad transfers file"
-                    elif 'error' in oldTransfers.columns:
-                        transfersTodo = [id for id in index.index \
-                                if not id in oldTransfers[pd.isnull(oldTransfers['error'])]['id'].tolist()]
                     else:
-                        transfersTodo = [id for id in index.index if not id in oldTransfers['id'].tolist()]
+                        transfersTodo = [id for id in index.index if not id in oldTransfers[pd.notnull(oldTransfers['playerName'])]['id'].tolist()]
                 dataList=[]
                 transfersList=[]
                 todo = set(personalTodo+transfersTodo)
