@@ -23,28 +23,26 @@ clubId,league,name
 1194,GB2,Rotherham United
 466,GB2,Preston North End
 991,GB2,Milton Keynes Dons
-366,ES2,Real Valladolid CF
-142,ES2,Real Zaragoza
-3302,ES2,UD Almería
-993,ES2,Córdoba CF
-6688,ES2,Bilbao Athletic
-1531,ES2,Elche CF
+150,ES2,Real Betis Balompié
 237,ES2,RCD Mallorca
-331,ES2,CA Osasuna
-1244,ES2,CD Leganés
-12321,ES2,Girona FC
-5648,ES2,Gimnàstic de Tarragona
-4032,ES2,SD Ponferradina
-1108,ES2,Deportivo Alavés
-11596,ES2,AD Alcorcón
-2497,ES2,Real Oviedo
-648,ES2,CD Tenerife
-2296,ES2,CD Numancia
-1532,ES2,Albacete Balompié
+366,ES2,Real Valladolid CF
+630,ES2,Racing Santander
+1533,ES2,SD Eibar
+2464,ES2,FC Barcelona B
+2502,ES2,CD Castellón
+2855,ES2,SD Compostela
+2923,ES2,CD Badajoz
+3239,ES2,UE Lleida
+6688,ES2,Bilbao Athletic
+6767,ES2,Real Madrid Castilla
+10744,ES2,Palamós CF
 11000,ES2,CD Lugo
-13222,ES2,CD Mirandés
-5358,ES2,SD Huesca
-26132,ES2,UE Llagostera
+11422,ES2,CE Sabadell
+38011,ES2,CP Mérida
+42872,ES2,CA Marbella
+42873,ES2,Sestao Sport Club
+42903,ES2,UE Figueres
+1050,ES2,Villarreal CF
 1390,IT2,Cagliari Calcio
 2921,IT2,Delfino Pescara 1936
 1429,IT2,AC Cesena
@@ -67,24 +65,30 @@ clubId,league,name
 20519,IT2,Virtus Entella
 1385,IT2,Modena FC 1912
 4331,IT2,Trapani Calcio
-23826,L2,RasenBallsport Leipzig
-60,L2,SC Freiburg
-4,L2,1.FC Nuremberg
-89,L2,1.FC Union Berlin
-2,L2,1.FC Kaiserslautern
-38,L2,Fortuna Düsseldorf
-35,L2,FC St. Pauli
+21,L2,Chemnitzer FC
 23,L2,Eintracht Braunschweig
-80,L2,VfL Bochum
-72,L2,TSV 1860 Munich
-48,L2,Karlsruher SC
-127,L2,SC Paderborn 07
-65,L2,SpVgg Greuther Fürth
-293,L2,FSV Frankfurt
-254,L2,SV Sandhausen
-10,L2,Arminia Bielefeld
-2036,L2,1.FC Heidenheim 1846
+35,L2,FC St. Pauli
+39,L2,1.FSV Mainz 05
+44,L2,Hertha BSC
+60,L2,SC Freiburg
+81,L2,VfL Osnabrück
+85,L2,SV Waldhof Mannheim
+92,L2,SC Fortuna Köln
+105,L2,SV Darmstadt 98
+113,L2,FC Carl Zeiss Jena
+166,L2,VfB Oldenburg
+247,L2,SV Meppen
+459,L2,FC 08 Homburg
+662,L2,FC Remscheid
+10848,L2,VfB Leipzig
+30,L2,FC Hansa Rostock
+38,L2,Fortuna Düsseldorf
+42,L2,Hannover 96
 52,L2,MSV Duisburg
+66,L2,SpVgg Unterhaching
+71,L2,Stuttgarter Kickers
+82,L2,VfL Wolfsburg
+299,L2,Wuppertaler SV
 347,FR2,FC Metz
 826,FR2,RC Lens
 1159,FR2,AS Nancy-Lorraine
@@ -167,25 +171,24 @@ clubId,league,name
 4864,PO2,Clube Oriental Lissabon
 8827,PO2,UD Oliveirense
 7056,PO2,CD Mafra
-8817,NL2,Ajax Amsterdam U21
 132,NL2,NAC Breda
-9715,NL2,PSV Eindhoven U21
-1435,NL2,Go Ahead Eagles Deventer
-468,NL2,Sparta Rotterdam
-1426,NL2,VVV-Venlo
-3892,NL2,FC Eindhoven
-1283,NL2,FC Emmen
-1455,NL2,FC Dordrecht
-724,NL2,FC Volendam
-235,NL2,RKC Waalwijk
-723,NL2,Almere City FC
+306,NL2,SC Heerenveen
+467,NL2,NEC Nijmegen
 500,NL2,Helmond Sport
-384,NL2,MVV Maastricht
-404,NL2,FC Den Bosch
-385,NL2,Fortuna Sittard
-1228,NL2,FC Oss
+642,NL2,De Graafschap Doetinchem
+643,NL2,HFC Haarlem
+798,NL2,Excelsior Rotterdam
+1090,NL2,AZ Alkmaar
+1227,NL2,RBC Roosendaal
+1228,NL2,TOP Oss
+1268,NL2,ADO Den Haag
+1269,NL2,FC Zwolle
+1283,NL2,SBV Emmen
+1284,NL2,BV Veendam
+1304,NL2,SC Heracles '74
+1426,NL2,VVV-Venlo
 1434,NL2,SC Telstar
-18216,NL2,Achilles '29
+3892,NL2,EVV SC Eindhoven
 1096,BE2,Royal FC Antwerpen
 520,BE2,Cercle Brugge
 1245,BE2,AS Eupen
@@ -342,15 +345,12 @@ clubId,league,name
 2491,AJ1,SV Werder Bremen U19
 2663,AJ1,Hannover 96 U19
 9196,AJ1,Eintracht Braunschweig U19
-8663,AJ1,FC Carl Zeiss Jena U19
 2492,AJ1,FC Energie Cottbus U19
-13432,AJ1,TSV Havelse U19
+8663,AJ1,FC Carl Zeiss Jena U19
 2486,AJ1,FC St. Pauli U19
 2509,AJ1,Hamburger SV U19
 2827,AJ1,Hertha BSC U19
 6869,AJ1,Holstein Kiel U19
-7680,AJ1,Rot-Weiß Erfurt U19
-40719,AJ1,FC Viktoria 1889 Berlin U19
 1464,AJ2,Borussia Dortmund U19
 4713,AJ2,Bayer 04 Leverkusen U19
 1463,AJ2,FC Schalke 04 U19

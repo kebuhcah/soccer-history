@@ -1,10 +1,4 @@
 clubId,league,name
-301,RO1C,Steaua Bucharest
-13499,RO1C,Astra Giurgiu
-312,RO1C,Dinamo Bukarest
-8715,RO1C,Pandurii Targu Jiu
-29831,RO1C,FC Viitorul
-16650,RO1C,ASA Tirgu Mures
 22220,KAS1,FC Astana
 10482,KAS1,Kairat Almaty
 16779,KAS1,Ordabasy Shymkent
@@ -45,40 +39,34 @@ clubId,league,name
 709,UNG1,Budapest Honvéd FC
 12163,UNG1,Paksi FC
 6049,UNG1,Békéscsaba 1912 Elöre SE
-15945,RO1R,Concordia Chiajna
-7769,RO1R,CFR Cluj
-40812,RO1R,CS U Craiova
-40843,RO1R,FC Voluntari
-8818,RO1R,FC Botosani
-36590,RO1R,ACS Poli Timisoara
-9465,RO1R,Petrolul Ploiesti
-33966,RO1R,CSMS Iasi
-713,WER1,BATE Borisov
 1180,WER1,Dinamo Minsk
-10695,WER1,Shakhtjor Soligorsk
 3886,WER1,Belshina Bobruisk
-23664,WER1,FK Minsk
-7964,WER1,Torpedo-BelAZ Zhodino
-14178,WER1,Neman Grodno
-19726,WER1,Granit Mikashevichi
-17959,WER1,FK Vitebsk
-29525,WER1,FK Gorodeya
-27238,WER1,FK Slutsk
-46070,WER1,Krumkachi Minsk
-6423,WER1,Slavia Mozyr
-36755,WER1,Isloch Minskiy Rayon
-8563,WER1,Naftan Novopolotsk
+4363,WER1,Torpedo-SKA Minsk
+4394,WER1,Dnepr-Transmash Mogilev
 6131,WER1,Dinamo Brest
-790,SL1,NK Maribor
-4772,SL1,NK Olimpija Ljubljana
-6248,SL1,NK Domzale
-23253,SL1,NK Zavrc
+6423,WER1,Slavia Mozyr
+7964,WER1,Torpedo Zhodino
+10695,WER1,Shakhtjor Soligorsk
+14178,WER1,Neman Grodno
+24015,WER1,FK Molodechno-2000
+27204,WER1,Zvezda-VA-BGU Minsk
+713,WER1,BATE Borisov
+8563,WER1,Naftan Novopolotsk
+10694,WER1,FK Gomel
+12718,WER1,Darida-TDZH-Zhdanovichi
+14176,WER1,Lokomotiv Minsk
+433,SL1,FC Koper
 710,SL1,NK Celje
 789,SL1,NK Rudar Velenje
-433,SL1,FC Koper
+2565,SL1,NK Dravograd
+3566,SL1,NK Smartno 1928
+4059,SL1,ND Mura 05
+4507,SL1,NK Primorje Ajdovscina
+4770,SL1,ND FC Ljubljana
+4772,SL1,NK Olimpija Ljubljana
+4935,SL1,NK Korotan Prevalje
+790,SL1,NK Maribor
 5862,SL1,ND Gorica
-12908,SL1,NK Krka Novo Mesto
-17136,SL1,NK Krsko
 540,SLO1,Slovan Bratislava
 7918,SLO1,AS Trencin
 1443,SLO1,MSK Zilina
@@ -92,21 +80,7 @@ clubId,league,name
 6163,SLO1,FK Senica
 35488,SLO1,MFK Skalica
 663,GEO1,Dinamo Tbilisi
-32017,GEO1,FC Dila Gori
-11435,GEO1,Chikhura Sachkhere
-6365,GEO1,Lokomotivi Tbilisi
 253,GEO1,Torpedo Kutaisi
-11344,GEO1,Dinamo Batumi
-2950,GEO1,FC Samtredia
-41133,GEO1,FC Saburtalo
-19090,GEO1,FC Tskhinvali
-28971,GEO1,FC Kolkheti-1913 Poti
-10531,GEO1,Sioni Bolnisi
-24564,GEO1,FC Guria Lanchkhuti
-37760,GEO1,Shukura Kobuleti
-31551,GEO1,Merani Martvili
-26558,GEO1,FC Zugdidi
-41311,GEO1,FC Sapovnela Terjola
 22010,AZ1,FK Gabala
 10625,AZ1,Qarabag Agdam
 8956,AZ1,Inter Baku
@@ -137,18 +111,20 @@ clubId,league,name
 45520,MOL1,CSF Speranta Nisporeni
 46643,MOL1,FC Petrocub Sărata-Galbenă
 41494,MOL1,FC Saxan Ceadir-Lunga
-1008,FI1,HJK Helsinki
-23777,FI1,SJK Seinäjoki
-8042,FI1,FC Inter Turku
-3776,FI1,Rovaniemen Palloseura
+304,FI1,FC Jazz Pori
+480,FI1,FC Jokerit
+2275,FI1,Turun Palloseura
+2688,FI1,Myllykosken Pallo -47
 2925,FI1,FC Lahti
-3189,FI1,Ilves Tampere
-6017,FI1,IFK Mariehamn
+3650,FI1,FF Jaro
+5063,FI1,AC Allianssi
 6251,FI1,Kuopion Palloseura
-20924,FI1,Helsinki IFK
-1102,FI1,Vaasan Palloseura
-8807,FI1,Pallokerho-35
-17398,FI1,PS Kemi Kings
+6578,FI1,FC Hämeenlinna
+7315,FI1,FC KTP
+8042,FI1,FC Inter Turku
+8045,FI1,Tampere United
+1008,FI1,HJK Helsinki
+1225,FI1,FC Haka
 77,MAZ1,Vardar Skopje
 1167,MAZ1,Shkendija Tetovo
 4641,MAZ1,Rabotnicki Skopje
@@ -187,30 +163,14 @@ clubId,league,name
 11912,ARM1,FC Ararat Yerevan
 23911,ARM1,Gandzasar Kapan
 14344,ARM1,FC Ulisses Yerevan
-22783,EST1,Nomme Kalju FC
-1002,EST1,FC Flora Tallinn
 5771,EST1,Levadia Tallinn
-30433,EST1,FC Infonet
-22832,EST1,JK Sillamäe Kalev
-23371,EST1,Paide Linnameeskond
 7130,EST1,JK Trans Narva
-25408,EST1,Pärnu Linnameeskond
-43214,EST1,Jalgpallikool Tammeka
-32397,EST1,Rakvere JK Tarvas
-853,LUX1,F91 Dudelange
-11914,LUX1,FC Differdange 03
-11976,LUX1,CS Fola Esch
-12346,LUX1,FC Progrès Niederkorn
-1257,LUX1,Jeunesse Esch
-2660,LUX1,FC Victoria Rosport
-21835,LUX1,FC UNA Strassen
-13467,LUX1,Racing FC Union Luxembourg
-3905,LUX1,FC Wiltz 71
-9283,LUX1,FC Etzella Ettelbruck
-21274,LUX1,US Mondorf-Les-Bains
-15154,LUX1,FC RM Hamm Benfica
-2230,LUX1,CS Grevenmacher
-19689,LUX1,US Rumelange
+8964,EST1,TVMK Tallinn
+23368,EST1,FC Kuressaare
+25410,EST1,FC Warrior Valga
+32395,EST1,JK Viljandi Tulevik
+1002,EST1,FC Flora Tallinn
+25562,EST1,Levadia Tallinn II
 43162,LET1,FK Liepaja
 48325,LET1,FC Riga
 27118,LET1,FK Jelgava

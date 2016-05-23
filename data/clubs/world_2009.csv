@@ -1,20 +1,20 @@
 clubId,league,name
-10948,CSL,Guangzhou Evergrande Taobao
-22219,CSL,Jiangsu Suning
-36630,CSL,Hebei China Fortune
 3182,CSL,Shandong Luneng Taishan
-3183,CSL,Shanghai Greenland Shenhua
-3176,CSL,Beijing Guoan
-27190,CSL,Shanghai SIPG
-3187,CSL,Tianjin Teda
-35272,CSL,Shijiazhuang Ever Bright
-18916,CSL,Guangzhou R&F
-1326,CSL,Chongqing Lifan
-4768,CSL,Changchun Yatai
+17250,CSL,Shaanxi Chanba
 9982,CSL,Henan Jianye
 1079,CSL,Liaoning FC
-8539,CSL,Yanbian Funde
+3187,CSL,Tianjin Teda
+3178,CSL,Dalian Shide
 17276,CSL,Hangzhou Greentown
+4768,CSL,Changchun Yatai
+3176,CSL,Beijing Guoan
+1326,CSL,Chongqing Lifan
+1320,CSL,Shenzhen FC
+8536,CSL,Qingdao Jonoon
+22219,CSL,Jiangsu Sainty
+17238,CSL,Shanghai Shenxin
+3183,CSL,Shanghai Shenhua
+18916,CSL,Changsha Ginde
 828,JL11,Urawa Red Diamonds
 596,JL11,Gamba Osaka
 6631,JL11,FC Tokyo
@@ -61,58 +61,62 @@ clubId,league,name
 3612,QSL,Al-Ahli Sports Club
 5381,QSL,Al-Khor Sports Club
 26730,QSL,Al-Mesaimeer Sports Club
-6502,RSK1,Jeonbuk Hyundai Motors
-6505,RSK1,Sangju Sangmu Phoenix
-3535,RSK1,Ulsan Hyundai
 3301,RSK1,Suwon Samsung Bluewings
 6500,RSK1,FC Seoul
-311,RSK1,Pohang Steelers
-19684,RSK1,Jeju United
-6503,RSK1,Jeonnam Dragons
-3610,RSK1,Seongnam FC
-31622,RSK1,Suwon FC
+6502,RSK1,Jeonbuk Hyundai Motors
 2996,RSK1,Incheon United FC
-30925,RSK1,Gwangju FC
-1076,IRN1,Esteghlal FC
+6505,RSK1,Sangju Sangmu Phoenix
+3610,RSK1,Seongnam FC
+311,RSK1,Pohang Steelers
+21459,RSK1,Gangwon FC
+16696,RSK1,Gyeongnam FC
+2582,RSK1,Busan IPark
+6503,RSK1,Jeonnam Dragons
+19684,RSK1,Jeju United
+6504,RSK1,Daegu FC
+6499,RSK1,Daejeon Citizen FC
+3535,RSK1,Ulsan Hyundai
 4947,IRN1,Sepahan FC
+22609,IRN1,Steel Azin FC
+1076,IRN1,Esteghlal FC
 6079,IRN1,Persepolis FC
-12935,IRN1,Tractor Sazi FC
-6081,IRN1,Zob Ahan Esfahan
-32502,IRN1,Naft Tehran
 6076,IRN1,Foolad FC
-6080,IRN1,Saipa FC
-40472,IRN1,Esteghlal Khuzestan
-17499,IRN1,Malavan of Bandar Anzali
+6081,IRN1,Zob Ahan Esfahan
+17575,IRN1,Shahin Bushehr
 7202,IRN1,Saba Battery Qom
-31273,IRN1,Gostaresh Foolad FC
-42192,IRN1,Padideh Khorasan FC
-10684,IRN1,Rah Ahan Yazdan FC
-42197,IRN1,Siah Jamegan Khorasan  FC
+6080,IRN1,Saipa FC
+17499,IRN1,Malavan of Bandar Anzali
 22161,IRN1,Esteghlal Ahvaz
+54,IRN1,PAS Hamedan
+7390,IRN1,FC Aboomoslem
+19628,IRN1,Mes Kerman
+6078,IRN1,Paykan FC
+10684,IRN1,Rah Ahan Yazdan FC
+29126,IRN1,Moghavemat Sepasi FC
+12935,IRN1,Tractor Sazi FC
 1114,SA1,Al-Hilal Riyadh
 18544,SA1,Al-Nasr Riyadh
-18487,SA1,Al-Ahli Jeddah
-9840,SA1,Al-Shabab Riyadh
-28844,SA1,Al-Taawon
 8023,SA1,Al-Ittihad Jeddah
-22381,SA1,Al-Raed
+9840,SA1,Al-Shabab Riyadh
+18487,SA1,Al-Ahli Jeddah
+7732,SA1,Al-Ettifaq
 17209,SA1,Al-Wahda Mekka
+9131,SA1,Al-Hazm
+22381,SA1,Al-Raed
+26069,SA1,Al Qadisiyah FC
 26586,SA1,Najran SC
 27221,SA1,Al-Fateh
-28848,SA1,Al-Faisaly Harmah
-32343,SA1,Hajer Club
-26069,SA1,Al Qadisiyah FC
-6070,SA1,Al-Khaleej
-7831,AUS1,Brisbane Roar
 8054,AUS1,Sydney FC
-36100,AUS1,Western Sydney Wanderers
-25580,AUS1,Melbourne City FC
-7006,AUS1,Melbourne Victory
-8445,AUS1,Wellington Phoenix
 970,AUS1,Perth Glory
-875,AUS1,Adelaide United
-5551,AUS1,Newcastle United Jets
+15889,AUS1,Gold Coast United
+19723,AUS1,Northern Fury FC
+7831,AUS1,Brisbane Roar
 6954,AUS1,Central Coast Mariners
+25580,AUS1,Melbourne Heart FC
+7006,AUS1,Melbourne Victory
+5551,AUS1,Newcastle United Jets
+875,AUS1,Adelaide United
+8445,AUS1,Wellington Phoenix
 25449,THA1,Buriram United
 21283,THA1,Muangthong United
 34853,THA1,Suphanburi FC
@@ -131,14 +135,14 @@ clubId,league,name
 6761,THA1,Navy FC
 50658,THA1,Sukhothai FC
 25447,THA1,Big Bang Chula United
+11396,NZL1,Waitakere United
 11391,NZL1,Auckland City FC
+16020,NZL1,Waikato FC
+16021,NZL1,YoungHeart Manawatu
 18385,NZL1,Team Wellington
+8795,NZL1,Otago United
 11319,NZL1,Hawke’s Bay United
 16183,NZL1,Canterbury United
-16020,NZL1,WaiBOP United
-30746,NZL1,Wellington Phoenix Reserves
-11396,NZL1,Waitakere United
-8795,NZL1,Southern United
 15974,HGKG,Eastern AA
 15979,HGKG,Kitchee SC
 11720,HGKG,South China AA
@@ -168,15 +172,18 @@ clubId,league,name
 45299,IND1,Chennaiyin FC
 45277,IND1,Kerala Blasters FC
 45080,IND1,Delhi Dynamos FC
-6731,SIN1,Tampines Rovers
-14320,SIN1,DPMM FC
-15356,SIN1,Warriors FC
+8845,SIN1,Etoile FC
+15356,SIN1,Singapore Armed Forces FC
 4131,SIN1,Home United
-11979,SIN1,Hougang United
-24991,SIN1,Balestier Khalsa
+1226,SIN1,Geylang United
+6731,SIN1,Tampines Rovers
 23472,SIN1,Albirex Niigata (Singapore)
+15752,SIN1,Gombak United
+6882,SIN1,Woodlands Wellington
+11979,SIN1,Sengkang Punggol
 15367,SIN1,Courts Young Lions
-1226,SIN1,Geylang International
+24991,SIN1,Balestier Khalsa
+28520,SIN1,Beijing Guoan Talent
 41030,INIL,Bengaluru FC
 14101,INIL,Mohun Bagan AC
 27140,INIL,Salgaocar SC Goa
@@ -200,38 +207,36 @@ clubId,league,name
 43588,PHI1,Laos FC
 7,EGY1,El Ahly Cairo
 664,EGY1,Zamalek SC
-23387,EGY1,Smouha SC
 3595,EGY1,Ismaily SC
 9218,EGY1,Enppi Club
-18234,EGY1,Wadi Degla FC
-23222,EGY1,Entag El Harby
-9219,EGY1,Tala'ea El Gaish
-10957,EGY1,Petrojet
-22702,EGY1,Masr El Makasa
-12093,EGY1,Harras El Hodoud
-3369,EGY1,Arab Contractors SC
 3963,EGY1,Ittehad Alexandria
-22707,EGY1,El Dakhlia SC
-18268,EGY1,El Shorta
+12093,EGY1,Harras El Hodoud
+10957,EGY1,Petrojet
 9094,EGY1,Masry Port Said
-22507,EGY1,Aswan FC
+9219,EGY1,Tala'ea El Gaish
+20572,EGY1,El Gouna FC
+3369,EGY1,Arab Contractors SC
+18268,EGY1,El Shorta
+16216,EGY1,Asyut Petrol
+23222,EGY1,Entag El Harby
 13446,EGY1,Ghazl Mahalla
-568,SFA1,Kaizer Chiefs
+19466,EGY1,Mansoura SC
 6356,SFA1,Mamelodi Sundowns FC
-10680,SFA1,Bidvest Wits FC
-2891,SFA1,SuperSport United
 2557,SFA1,Orlando Pirates
+2891,SFA1,SuperSport United
 2926,SFA1,Ajax Cape Town
-8607,SFA1,Bloemfontein Celtic
-2303,SFA1,Mpumalanga Black Aces FC
+2695,SFA1,Moroka Swallows
+568,SFA1,Kaizer Chiefs
 13831,SFA1,Platinum Stars FC
-9368,SFA1,Free State Stars
-23285,SFA1,University of Pretoria FC.
-7011,SFA1,Lamontville Golden Arrows
-14187,SFA1,Maritzburg United FC
-31283,SFA1,Chippa United
-21202,SFA1,Polokwane City FC
+9370,SFA1,AmaZulu FC
 2238,SFA1,Jomo Cosmos
+2303,SFA1,Mpumalanga Black Aces FC
+14187,SFA1,Maritzburg United FC
+7204,SFA1,Santos FC Cape Town
+8607,SFA1,Bloemfontein Celtic
+10680,SFA1,Bidvest Wits FC
+7011,SFA1,Lamontville Golden Arrows
+9368,SFA1,Free State Stars
 6772,ALG1,USM Alger
 8850,ALG1,MC Algier
 18272,ALG1,ES Sétif
@@ -248,22 +253,20 @@ clubId,league,name
 37682,ALG1,RC Rélizane
 8544,ALG1,USM Blida
 37683,ALG1,RC Arbaa
-819,TUN1,Club Africain Tunis
 250,TUN1,Etoile Sportive du Sahel
+819,TUN1,Club Africain Tunis
 3342,TUN1,Esperance Tunis
 581,TUN1,Club Sportif Sfaxien
 4812,TUN1,Stade Tunisien
-12717,TUN1,Club Bizertin
-18792,TUN1,AS Marsa
-18793,TUN1,EGS Gafsa
 22815,TUN1,CS Hammam-Lif
-22821,TUN1,Stade Gabèsien
+12717,TUN1,Club Bizertin
+22813,TUN1,Avenir Sportif de Kasserine
+8117,TUN1,Olympique Beja
+22817,TUN1,ES Hammam Sousse
+18793,TUN1,EGS Gafsa
+9890,TUN1,US Monastir
 2205,TUN1,ES Zarzis
 17534,TUN1,JS Kairouanaise
-39801,TUN1,Etoile Sportive Metlaoui
-44805,TUN1,EO Sidi Bouzid
-30507,TUN1,US Ben Guerdane
-22813,TUN1,Avenir Sportif de Kasserine
 2068,MAR1,Raja Casablanca
 9100,MAR1,Moghreb Tétouan
 9099,MAR1,FAR Rabat
@@ -285,10 +288,10 @@ clubId,league,name
 3601,GHPL,Hearts of Oak
 28374,GHPL,Aduana Stars
 31855,GHPL,Medeama SC
+37487,GHPL,Dreams FC
 13607,GHPL,Liberty Professionals Accra
 35137,GHPL,Berekum Chelsea
 35141,GHPL,New Edubiase United
-37487,GHPL,Dreams FC
 25065,GHPL,Bechem United
 2030,GHPL,Sekondi Hasaacas FC
 46484,GHPL,West African Football Academy

@@ -1,23 +1,23 @@
 clubId,league,name
 585,BRA1,São Paulo Futebol Clube
-1023,BRA1,Sociedade Esportiva Palmeiras
-609,BRA1,Cruzeiro Esporte Clube
-330,BRA1,Clube Atlético Mineiro
-199,BRA1,Sport Club Corinthians Paulista
-210,BRA1,Grêmio Foot-Ball Porto Alegrense
-6600,BRA1,Sport Club Internacional
-2462,BRA1,Fluminense Football Club
-614,BRA1,Clube de Regatas do Flamengo
 221,BRA1,Santos FC
-679,BRA1,Atlético Paranaense
-8718,BRA1,Sport Club do Recife
+330,BRA1,Clube Atlético Mineiro
+210,BRA1,Grêmio Foot-Ball Porto Alegrense
+609,BRA1,Cruzeiro Esporte Clube
+6600,BRA1,Sport Club Internacional
+614,BRA1,Clube de Regatas do Flamengo
+199,BRA1,Sport Club Corinthians Paulista
+2462,BRA1,Fluminense Football Club
+1023,BRA1,Sociedade Esportiva Palmeiras
+978,BRA1,Club de Regatas Vasco da Gama
+2035,BRA1,Avaí Futebol Clube (SC)
 537,BRA1,Botafogo Rio de Janeiro
-1134,BRA1,Associação Atlética Ponte Preta
+2029,BRA1,Ceará Sporting Club
+679,BRA1,Atlético Paranaense
+10010,BRA1,Esporte Clube Bahia
+15172,BRA1,Atlético Goianiense
 776,BRA1,Coritiba Foot Ball Club
-2125,BRA1,Esporte Clube Vitória
-17776,BRA1,Associação Chapecoense de Futebol
 4064,BRA1,Figueirense Futebol Clube
-1785,BRA1,Santa Cruz Futebol Clube (PE)
 2863,BRA1,América Futebol Clube (MG)
 209,AR1N,Club Atlético River Plate
 189,AR1N,Club Atlético Boca Juniors
@@ -49,44 +49,42 @@ clubId,league,name
 12301,AR1N,Club Atlético Aldosivi (MdP)
 19806,AR1N,Club Atlético Patronato
 12454,AR1N,Club Atlético Sarmiento (Junin)
-7055,MEX1,Tigres UANL
 2407,MEX1,CF Monterrey
 3631,MEX1,CF América
-4941,MEX1,Club León FC
-7633,MEX1,UNAM Pumas
 1403,MEX1,Santos Laguna
-4035,MEX1,CF Pachuca
-6711,MEX1,Deportivo Guadalajara
-1804,MEX1,Deportivo Toluca
+7055,MEX1,Tigres UANL
 3711,MEX1,CD Cruz Azul
-5138,MEX1,Tiburones Rojos de Veracruz
-4961,MEX1,Querétaro FC
 5623,MEX1,Monarcas Morelia
-5662,MEX1,Puebla FC
-4774,MEX1,Chiapas FC
+1804,MEX1,Deportivo Toluca
+4774,MEX1,Jaguares de Chiapas
 8590,MEX1,Atlas Guadalajara
-13353,MEX1,Club Tijuana
-10091,MEX1,Dorados de Sinaloa
-8172,COLP,Atlético Nacional
-10093,COLP,Independiente Medellín
-2350,COLP,Millonarios FC
+4035,MEX1,CF Pachuca
+6709,MEX1,CF Atlante
+5662,MEX1,Puebla FC
+6711,MEX1,Deportivo Guadalajara
+1146,MEX1,Club Necaxa
+4565,MEX1,Estudiantes Tecos
+7633,MEX1,UNAM Pumas
+11693,MEX1,San Luis FC
+4961,MEX1,Querétaro FC
 11648,COLP,Independiente Santa Fe
+8172,COLP,Atlético Nacional
 11854,COLP,CD Atlético Junior
-9961,COLP,Deportivo Cali
-10090,COLP,Deportivo Pasto
-10503,COLP,Deportes Tolima
-20590,COLP,Rionegro Águilas
+10093,COLP,Independiente Medellín
+9811,COLP,Deportivo Pereira
 6984,COLP,Once Caldas
-17425,COLP,CD La Equidad
-6495,COLP,Atlético Bucaramanga
-14583,COLP,CD Atlético Huila
-22902,COLP,Alianza Petrolera
-14649,COLP,Boyacá Chicó FC
-18231,COLP,Boyacá Patriotas FC
-39252,COLP,Jaguares de Córdoba
-17467,COLP,Cortuluá
+2350,COLP,Millonarios FC
+2352,COLP,CD América de Cali
 7136,COLP,Envigado FC
-32041,COLP,Fortaleza FC
+17425,COLP,CD La Equidad
+13379,COLP,Cúcuta Deportivo
+10503,COLP,Deportes Tolima
+14583,COLP,CD Atlético Huila
+9961,COLP,Deportivo Cali
+20590,COLP,Itagüí Ditaires
+13046,COLP,CD Real Cartagena
+14649,COLP,Boyacá Chicó FC
+2351,COLP,Deportes Quindío
 4561,ECPE,CS Emelec
 9855,ECPE,LDU Quito
 3523,ECPE,Barcelona SC Guayaquil
@@ -99,103 +97,105 @@ clubId,league,name
 25715,ECPE,Fuerza Amarilla SC
 8781,ECPE,Deportivo Cuenca
 19304,ECPE,Delfín SC
+2433,CHL1,CSD Colo Colo
 1037,CHL1,Club Universidad de Chile
 3277,CHL1,CD Universidad Católica
-2433,CHL1,CSD Colo Colo
-5622,CHL1,Universidad Concepción
-6363,CHL1,Audax Italiano
 4321,CHL1,Unión Española
+15952,CHL1,Unión San Felipe
 2723,CHL1,Santiago Wanderers
-6536,CHL1,CD Palestino
-6368,CHL1,CD Huachipato
-20514,CHL1,Unión La Calera
-23162,CHL1,CD San Marcos de Arica
-17482,CHL1,CD Cobresal
+9103,CHL1,Deportes Cobreloa
 11470,CHL1,CD O'Higgins
-19280,CHL1,CD San Luis de Quillota
-17222,CHL1,Club de Deportes Antofagasta
+13337,CHL1,CD Santiago Morning
+6368,CHL1,CD Huachipato
+14723,CHL1,CD Ñublense
+5622,CHL1,Universidad Concepción
+5747,CHL1,Deportes La Serena
+6363,CHL1,Audax Italiano
 18076,CHL1,Club Deportes Iquique
+6536,CHL1,CD Palestino
+17482,CHL1,CD Cobresal
+20514,CHL1,Unión La Calera
 861,URU1,CA Peñarol
 866,URU1,Club Nacional
+1306,URU1,Danubio FC
 2419,URU1,Atletico River Plate Montevideo
 2619,URU1,Defensor Sporting Club
-2403,URU1,Montevideo Wanderers
-1806,URU1,IA Sud America Montevideo
-10632,URU1,CA Rentistas
 3829,URU1,CA Fénix
 10663,URU1,Liverpool FC Montevideo
-14758,URU1,Racing Club de Montevideo
-6044,URU1,Club Plaza Colonia
 14806,URU1,CA Cerro
+14758,URU1,Racing Club de Montevideo
+14598,URU1,Rampla Juniors FC
+10960,URU1,Central Español
+2403,URU1,Montevideo Wanderers
+17494,URU1,Tacuarembó Futbol Club
+7477,URU1,Miramar Misiones
+10679,URU1,Bella Vista Montevideo
 18078,URU1,El Tanque Sisley
-1306,URU1,Danubio FC
-17428,URU1,Juventud de Las Piedras
-28665,URU1,Club Atlético Villa Teresa
 6593,PERC,Universitario de Deportes
-1450,PERC,Sporting Cristal Lima
-2734,PERC,FBC Melgar
-6889,PERC,Universidad César Vallejo
-11622,PERC,Universidad San Martín de Porres
 184,PERC,Alianza Lima
-21655,PERC,Sport Huancayo
-17974,PERC,Deportivo Municipal
-28999,PERC,Real Garcilaso
 4576,PERC,Club Juan Aurich
-51896,PERC,Defensor La Bocana
+11622,PERC,Universidad San Martín de Porres
+1450,PERC,Sporting Cristal Lima
+6889,PERC,Universidad César Vallejo
+2734,PERC,FBC Melgar
+2730,PERC,Sport Boys Callao
+25774,PERC,CD León de Huánuco
+2729,PERC,Club Cienciano
+21178,PERC,Inti Gas Deportes Ayacucho
 31337,PERC,CD Unión Comercio
+21655,PERC,Sport Huancayo
+25763,PERC,Cobresol FBC
 17479,PERC,Club Alianza Atletico Sullana
-21178,PERC,Ayacucho FC
-21170,PERC,UTC Cajamarca
-47107,PERC,Comerciantes Unidos
+21184,PERC,Colegio Nacional Iquitos
+4720,PDV1,Deportivo Saprissa
 2677,PDV1,CS Herediano
 6478,PDV1,LD Alajuelense
-4720,PDV1,Deportivo Saprissa
+8602,PDV1,Brujas FC
+26103,PDV1,Limón FC
+9807,PDV1,Puntarenas FC
 18577,PDV1,CS Cartaginés
-23609,PDV1,Universidad de Costa Rica
-35060,PDV1,CS Uruguay de Coronado
-18575,PDV1,AD Carmelita
-18574,PDV1,Belén FC
 20541,PDV1,Santos de Guápiles FC
 8601,PDV1,Municipal Pérez Zeledón
-18579,PDV1,AD Municipal Liberia
-26103,PDV1,Limón FC
+18659,PDV1,AD San Carlos
+31385,PDV1,CD Barrio México
+23609,PDV1,Universidad de Costa Rica
 13297,VZ1A,Deportivo Táchira
-531,VZ1A,Caracas FC
 18018,VZ1A,Zamora FC
-17194,VZ1A,Mineros de Guayana
+531,VZ1A,Caracas FC
 26468,VZ1A,Deportivo La Guaira
-30504,VZ1A,Atlético Venezuela
-8331,VZ1A,Aragua FC
-14682,VZ1A,Carabobo Futbol Club
+17194,VZ1A,Mineros de Guayana
 18006,VZ1A,Deportivo Anzoátegui SC
-19396,VZ1A,Zulia Fútbol Club
-25380,VZ1A,Deportivo Lara
 17392,VZ1A,Trujillanos FC
-26408,VZ1A,Estudiantes de Caracas SC
+14682,VZ1A,Carabobo Futbol Club
+19396,VZ1A,Zulia Fútbol Club
+30504,VZ1A,Atlético Venezuela
+25380,VZ1A,Deportivo Lara
+8331,VZ1A,Aragua FC
 14555,VZ1A,Estudiantes de Mérida
+26408,VZ1A,Estudiantes de Caracas SC
 22918,VZ1A,Portuguesa Fútbol Club
 30500,VZ1A,Ureña Sport Club
+43159,VZ1A,Deportivo JBL del Zulia
 29750,VZ1A,Petare FC
 14596,VZ1A,Monagas Sport Club
-43159,VZ1A,Deportivo JBL del Zulia
 17489,VZ1A,Llaneros de Guanare EF
-10010,BRA2,Esporte Clube Bahia
-978,BRA2,Club de Regatas Vasco da Gama
+2125,BRA2,Esporte Clube Vitória
 3197,BRA2,Goiás Esporte Clube
-2029,BRA2,Ceará Sporting Club
-3330,BRA2,Joinville Esporte Clube (SC)
+8698,BRA2,Grêmio Barueri Futebol Ltda.
+8718,BRA2,Sport Club do Recife
+291,BRA2,AD São Caetano (SP)
+1134,BRA2,Associação Atlética Ponte Preta
 2646,BRA2,Clube Náutico Capibaribe
-6347,BRA2,Paysandu Sport Club
+10247,BRA2,Associação Portuguesa de Desportos (SP)
 7178,BRA2,Criciúma Esporte Clube
-2035,BRA2,Avaí Futebol Clube (SC)
-15172,BRA2,Atlético Goianiense
-11449,BRA2,Clube de Regatas Brasil (AL)
+15064,BRA2,Guaratinguetá Futebol Ltda. (SP)
+15656,BRA2,Duque de Caxias Futebol Clube (RJ)
 8793,BRA2,Clube Atlético Bragantino (SP)
-3319,BRA2,Sampaio Corrêa Futebol Clube (MA)
-21829,BRA2,Oeste Futebol Clube (SP)
-21599,BRA2,Luverdense Esporte Clube (MT)
-309,BRA2,Paraná Clube
 5677,BRA2,Vila Nova Futebol Clube (GO)
-1693,BRA2,Londrina Esporte Clube PR
-8294,BRA2,Tupi Foot Ball Club MG
-10560,BRA2,Grêmio Esportivo Brasil RS
+7209,BRA2,ABC Futebol Clube (RN)
+1755,BRA2,Guarani Futebol Clube (SP)
+309,BRA2,Paraná Clube
+17561,BRA2,Boa Esporte Clube (MG)
+22952,BRA2,Salgueiro Atlético Clube (PE)
+20092,BRA2,Agremiação Sportiva Arapiraquense (AL)
+16441,BRA2,AD Recreativa Cultural Icasa (CE)
