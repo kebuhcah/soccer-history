@@ -1,10 +1,4 @@
 clubId,league,name
-301,RO1C,Steaua Bucharest
-13499,RO1C,Astra Giurgiu
-312,RO1C,Dinamo Bukarest
-8715,RO1C,Pandurii Targu Jiu
-29831,RO1C,FC Viitorul
-16650,RO1C,ASA Tirgu Mures
 22220,KAS1,FC Astana
 10482,KAS1,Kairat Almaty
 16779,KAS1,Ordabasy Shymkent
@@ -45,40 +39,34 @@ clubId,league,name
 709,UNG1,Budapest Honvéd FC
 12163,UNG1,Paksi FC
 6049,UNG1,Békéscsaba 1912 Elöre SE
-15945,RO1R,Concordia Chiajna
-7769,RO1R,CFR Cluj
-40812,RO1R,CS U Craiova
-40843,RO1R,FC Voluntari
-8818,RO1R,FC Botosani
-36590,RO1R,ACS Poli Timisoara
-9465,RO1R,Petrolul Ploiesti
-33966,RO1R,CSMS Iasi
 713,WER1,BATE Borisov
-1180,WER1,Dinamo Minsk
-10695,WER1,Shakhtjor Soligorsk
 3886,WER1,Belshina Bobruisk
-23664,WER1,FK Minsk
-7964,WER1,Torpedo-BelAZ Zhodino
-14178,WER1,Neman Grodno
-19726,WER1,Granit Mikashevichi
-17959,WER1,FK Vitebsk
-29525,WER1,FK Gorodeya
-27238,WER1,FK Slutsk
-46070,WER1,Krumkachi Minsk
-6423,WER1,Slavia Mozyr
-36755,WER1,Isloch Minskiy Rayon
-8563,WER1,Naftan Novopolotsk
+4363,WER1,Torpedo-SKA Minsk
+4394,WER1,Dnepr-Transmash Mogilev
 6131,WER1,Dinamo Brest
+6423,WER1,Slavia Mozyr
+7964,WER1,Torpedo Zhodino
+8563,WER1,Naftan Novopolotsk
+10695,WER1,Shakhtjor Soligorsk
+12718,WER1,Darida Zhdanovichi
+14178,WER1,Neman Grodno
+27204,WER1,Zvezda-VA-BGU Minsk
+1180,WER1,Dinamo Minsk
+10640,WER1,MTZ-Ripo Minsk
+10694,WER1,FK Gomel
+17959,WER1,Lokomotiv Vitebsk
+433,SL1,FC Koper
+710,SL1,NK Celje
+2565,SL1,NK Dravograd
+3566,SL1,NK Smartno 1928
+3812,SL1,NS Drava Ptuj
+4059,SL1,ND Mura 05
+4507,SL1,NK Primorje Ajdovscina
+4770,SL1,ND FC Ljubljana
+5862,SL1,ND Gorica
+6248,SL1,NK Domzale
 790,SL1,NK Maribor
 4772,SL1,NK Olimpija Ljubljana
-6248,SL1,NK Domzale
-23253,SL1,NK Zavrc
-710,SL1,NK Celje
-789,SL1,NK Rudar Velenje
-433,SL1,FC Koper
-5862,SL1,ND Gorica
-12908,SL1,NK Krka Novo Mesto
-17136,SL1,NK Krsko
 540,SLO1,Slovan Bratislava
 7918,SLO1,AS Trencin
 1443,SLO1,MSK Zilina
@@ -137,18 +125,20 @@ clubId,league,name
 45520,MOL1,CSF Speranta Nisporeni
 46643,MOL1,FC Petrocub Sărata-Galbenă
 41494,MOL1,FC Saxan Ceadir-Lunga
-1008,FI1,HJK Helsinki
-23777,FI1,SJK Seinäjoki
-8042,FI1,FC Inter Turku
-3776,FI1,Rovaniemen Palloseura
+304,FI1,FC Jazz Pori
+1225,FI1,FC Haka
+2275,FI1,Turun Palloseura
+2688,FI1,Myllykosken Pallo -47
 2925,FI1,FC Lahti
-3189,FI1,Ilves Tampere
-6017,FI1,IFK Mariehamn
-6251,FI1,Kuopion Palloseura
-20924,FI1,Helsinki IFK
-1102,FI1,Vaasan Palloseura
-8807,FI1,Pallokerho-35
-17398,FI1,PS Kemi Kings
+3650,FI1,FF Jaro
+3776,FI1,Rovaniemen Palloseura
+5063,FI1,AC Allianssi
+6578,FI1,FC Hämeenlinna
+7315,FI1,FC KTP
+8042,FI1,FC Inter Turku
+8045,FI1,Tampere United
+10927,FI1,Tornion Pallo -47
+1008,FI1,HJK Helsinki
 77,MAZ1,Vardar Skopje
 1167,MAZ1,Shkendija Tetovo
 4641,MAZ1,Rabotnicki Skopje
@@ -187,30 +177,26 @@ clubId,league,name
 11912,ARM1,FC Ararat Yerevan
 23911,ARM1,Gandzasar Kapan
 14344,ARM1,FC Ulisses Yerevan
-22783,EST1,Nomme Kalju FC
-1002,EST1,FC Flora Tallinn
 5771,EST1,Levadia Tallinn
-30433,EST1,FC Infonet
-22832,EST1,JK Sillamäe Kalev
-23371,EST1,Paide Linnameeskond
 7130,EST1,JK Trans Narva
-25408,EST1,Pärnu Linnameeskond
-43214,EST1,Jalgpallikool Tammeka
-32397,EST1,Rakvere JK Tarvas
+25410,EST1,FC Warrior Valga
+25488,EST1,FC Lootus Kohtla-Järve
+32395,EST1,JK Viljandi Tulevik
+33479,EST1,JK Merkuur Tartu
+1002,EST1,FC Flora Tallinn
+8964,EST1,TVMK Tallinn
 853,LUX1,F91 Dudelange
-11914,LUX1,FC Differdange 03
-11976,LUX1,CS Fola Esch
-12346,LUX1,FC Progrès Niederkorn
 1257,LUX1,Jeunesse Esch
+1522,LUX1,Avenir Beggen
 2660,LUX1,FC Victoria Rosport
-21835,LUX1,FC UNA Strassen
-13467,LUX1,Racing FC Union Luxembourg
 3905,LUX1,FC Wiltz 71
-9283,LUX1,FC Etzella Ettelbruck
-21274,LUX1,US Mondorf-Les-Bains
-15154,LUX1,FC RM Hamm Benfica
-2230,LUX1,CS Grevenmacher
+9284,LUX1,Swift Hesperange
 19689,LUX1,US Rumelange
+21438,LUX1,FC Mondercange
+21951,LUX1,Spora Luxemburg
+21955,LUX1,Union Luxemburg
+2230,LUX1,CS Grevenmacher
+9283,LUX1,FC Etzella Ettelbruck
 43162,LET1,FK Liepaja
 48325,LET1,FC Riga
 27118,LET1,FK Jelgava
