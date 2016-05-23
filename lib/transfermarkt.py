@@ -9,6 +9,18 @@ import re
 import os.path 
 import datetime 
 
+tier1=["GB1", "ES1", "IT1", "L1", "FR1", "TR1", "RU1", "PO1", "NL1", "BE1", "MLS1", 
+            "UKR1", "GR1", "C1", "RO1", "KR1", "A1", "TS1", "DK1", "PL1", "SE1", "SER1", "NO1", "ISR1", "SC1", "BU1", "ZYP1"]
+tier2=["GB2", "ES2", "IT2", "L2", "FR2", "TR2", "RU2", "PO2", "NL2", "BE2", "NAFC"]
+tier3=["GB3", "L3", "IT3A", "IT3B", "IT3C"]
+youthLeagues=["GB21", "AJ1", "AJ2", "AJ3", "ITJ1", "ITJ2", "ITJ3"]
+otherEurope = ["KAS1", "BOS1", "UNG1", "WER1", "SL1", "SLO1", "GEO1", "AZ1", "ALB1", "MOL1", 
+                           "FI1", "MAZ1", "MNE1", "LI1", "ARM1", "EST1", "LUX1", "LET1", "MAL1", "IS1", "IR1", "WAL1","NIR1", "FARO"]
+world=["CSL", "JL11", "UAE1", "QSL", "RSK1", "IRN1", "SA1", "AUS1", "THA1", "NZL1", "HGKG", "LIB1", "IND1", "SIN1", "INIL", "PHI1",
+             "EGY1", "SFA1", "ALG1", "TUN1", "MAR1", "GHPL"]
+americas=["BRA1", "AR1N", "MEX1", "COLP", "ECPE", "CHL1", "URU1", "PERC", "PDV1", "VZ1A", "BRA2"]
+
+
 # transfermarkt blocks default useragent
 useragent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'
 # "lol" can be anything - transfermarkt ignores it/uses it for semantic url
@@ -106,7 +118,8 @@ def getPlayerDataFromBs(bs):
         result3["2nd club id"] = result3["2nd club"].split("/verein/")[-1].strip()
         result3["2nd club"] = result3["2nd club"].split("HREFs:")[0].strip()
     if "Social media" in result3:    
-        socialmedia = dict([(url.split("://")[-1].split("/")[0].split(".com")[0].split(".")[-1].strip(), url) for url in result3["Social media"].split("SOCMED: ")[-1].split("####") if url.startswith("http")])    
+        socialmedia = dict([(url.split("://")[-1].split("/")[0].split(".com")[0].split(".")[-1].strip(), url) \
+                            for url in result3["Social media"].split("SOCMED: ")[-1].split("####") if url.startswith("http")])    
         for platform in ['twitter', 'facebook', 'instagram']:
             if platform in socialmedia:
                 result3[platform]=socialmedia[platform]
