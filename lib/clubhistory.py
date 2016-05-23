@@ -17,7 +17,7 @@ def getSeasonSideFile(season,side,leagues):
         DataFrame(clubs).to_csv(file,index=False,encoding='utf-8')
         print str(datetime.datetime.now()), "finished", side, season
 
-for season in range(2015,2000,-1):
+for season in range(2015,1989,-1):
     getSeasonSideFile(season,"top",tier1)
     getSeasonSideFile(season,"bottom",tier2+tier3+youthLeagues)
     getSeasonSideFile(season,"other",otherEurope)
