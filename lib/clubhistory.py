@@ -9,7 +9,7 @@ def getSeasonSideFile(season,side,leagues):
         for league in leagues:
             print str(datetime.datetime.now()), "processing", league, season
             try:
-                result=getClubsByLeagueId(league)
+                result=getClubsByLeagueId(league,season)
                 [club.update({'league': league}) for club in result]
                 clubs.extend(result)
             except Exception as e:
