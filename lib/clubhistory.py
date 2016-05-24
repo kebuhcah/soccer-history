@@ -23,3 +23,4 @@ for season in range(2015,1989,-1):
     getSeasonSideFile(season,"other",otherEurope)
     getSeasonSideFile(season,"world",world)
     getSeasonSideFile(season,"americas",americas)
+    getSeasonSideFile(season,"deeper",defunct + deep)
