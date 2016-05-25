@@ -19,7 +19,9 @@ otherEurope = ["KAS1", "BOS1", "UNG1", "WER1", "SL1", "SLO1", "GEO1", "AZ1", "AL
 world=["CSL", "JL11", "UAE1", "QSL", "RSK1", "IRN1", "SA1", "AUS1", "THA1", "NZL1", "HGKG", "LIB1", "IND1", "SIN1", "INIL", "PHI1",
              "EGY1", "SFA1", "ALG1", "TUN1", "MAR1", "GHPL"]
 americas=["BRA1", "AR1N", "MEX1", "COLP", "ECPE", "CHL1", "URU1", "PERC", "PDV1", "VZ1A", "BRA2"]
-
+defunct=["EFD2","ENSD","GBJG"]
+deep=["RLW3","RLSW","RLN3","RLN4","RLB3","ES3A","ES3B","ES3C","ES3D","510","511",
+            "TR3A","TR3B","TR4A","TR4B","TR4C", "GB4","CNAT", "NLAJ", "NLAE"]
 
 # transfermarkt blocks default useragent
 useragent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'
