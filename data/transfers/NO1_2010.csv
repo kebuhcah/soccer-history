@@ -1,0 +1,946 @@
+date,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Aug 5, 2014","2,40 Mill. €",Norway,195,Rosenborg BK ,121686,"1,00 Mill. €",Cristian Gamboa,14/15,England,984,West Brom 
+"Jan 1, 2013",400 Th. €,Denmark,190,FC Copenhagen ,121686,600 Th. €,Cristian Gamboa,12/13,Norway,195,Rosenborg BK 
+"Dec 31, 2012",End of loan,Norway,195,Rosenborg BK ,121686,600 Th. €,Cristian Gamboa,12/13,Denmark,190,FC Copenhagen 
+"Aug 23, 2012",Loan,Denmark,190,FC Copenhagen ,121686,250 Th. €,Cristian Gamboa,12/13,Norway,195,Rosenborg BK 
+"Aug 1, 2011",?,Norway,3837,Fredrikstad ,121686,275 Th. €,Cristian Gamboa,11/12,Denmark,190,FC Copenhagen 
+"Jul 7, 2010",?,Costa Rica,18579,Águilas ,121686,50 Th. €,Cristian Gamboa,10/11,Norway,3837,Fredrikstad 
+"Aug 13, 2013",?,Norway,195,Rosenborg BK ,62983,"1,70 Mill. €",Borek Dockal,13/14,Czech Republic,197,Sparta Praha 
+"Aug 1, 2011","1,00 Mill. €",Czech Republic,697,Slovan Liberec ,62983,900 Th. €,Borek Dockal,11/12,Norway,195,Rosenborg BK 
+"Dec 31, 2010",End of loan,Turkey,2293,Konyaspor ,62983,800 Th. €,Borek Dockal,10/11,Czech Republic,697,Slovan Liberec 
+"Jul 1, 2010",Loan,Czech Republic,697,Slovan Liberec ,62983,800 Th. €,Borek Dockal,10/11,Turkey,2293,Konyaspor 
+"Jul 1, 2008",650 Th. €,Czech Republic,62,Slavia Prag ,62983,450 Th. €,Borek Dockal,08/09,Czech Republic,697,Slovan Liberec 
+"Jun 30, 2008",End of loan,Czech Republic,697,Slovan Liberec ,62983,450 Th. €,Borek Dockal,07/08,Czech Republic,62,Slavia Prag 
+"Jan 1, 2008",Loan,Czech Republic,62,Slavia Prag ,62983,-,Borek Dockal,07/08,Czech Republic,697,Slovan Liberec 
+"Dec 1, 2007",End of loan,Czech Republic,6380,SK Kladno ,62983,-,Borek Dockal,07/08,Czech Republic,62,Slavia Prag 
+"Jul 1, 2007",Loan,Czech Republic,62,Slavia Prag ,62983,-,Borek Dockal,07/08,Czech Republic,6380,SK Kladno 
+"Feb 3, 2015",Free transfer,Norway,1293,Tromsö ,156917,-,Lars Henrik Andreassen,14/15,Norway,8442,Tromsdalen UIL 
+"Mar 28, 2014",?,Norway,36222,Finnsnes IL ,156917,50 Th. €,Lars Henrik Andreassen,13/14,Norway,1293,Tromsö 
+"Jan 1, 2012",?,Norway,1293,Tromsö ,156917,50 Th. €,Lars Henrik Andreassen,11/12,Norway,36222,Finnsnes IL 
+"Feb 1, 2016",?,Malta,32130,Naxxar Lions FC ,180750,-,Sidoine Oussou,15/16,France,3135,Beauvais 
+"Aug 18, 2015",-,Malta,515,Unattached ,180750,-,Sidoine Oussou,15/16,,32130,Naxxar Lions FC 
+"Jan 1, 2015",-,Norway,76,Valerenga ,180750,-,Sidoine Oussou,14/15,,515,Unattached 
+"Dec 31, 2013",End of loan,Hungary,12423,Kecskeméti TE ,180750,50 Th. €,Sidoine Oussou,13/14,Norway,76,Valerenga 
+"Jul 23, 2013",Loan,Norway,76,Valerenga ,180750,50 Th. €,Sidoine Oussou,13/14,Hungary,12423,Kecskeméti TE 
+"Jan 1, 2013",End of loan,Belgium,3172,CS Visé ,180750,50 Th. €,Sidoine Oussou,12/13,Norway,76,Valerenga 
+"Aug 31, 2012",Loan,Norway,76,Valerenga ,180750,100 Th. €,Sidoine Oussou,12/13,Belgium,3172,CS Visé 
+"Jan 1, 2011",?,Benin,25354,ASPAC FC ,180750,-,Sidoine Oussou,10/11,Norway,76,Valerenga 
+"Dec 1, 2008",?,Benin,515,Unattached ,180750,-,Sidoine Oussou,08/09,,25354,ASPAC FC 
+"Jan 12, 2015",?,Norway,687,Molde FK ,180752,25 Th. €,Ivar Furu,14/15,Norway,27688,Byasen 
+"Dec 31, 2014",End of loan,Norway,13519,Ranheim IL ,180752,25 Th. €,Ivar Furu,14/15,Norway,687,Molde FK 
+"Aug 11, 2014",Loan,Norway,687,Molde FK ,180752,-,Ivar Furu,14/15,Norway,13519,Ranheim IL 
+"Aug 9, 2014",End of loan,Iceland,3237,KR Reykjavík ,180752,-,Ivar Furu,14/15,Norway,687,Molde FK 
+"Mar 29, 2014",Loan,Norway,687,Molde FK ,180752,-,Ivar Furu,13/14,Iceland,3237,KR Reykjavík 
+"Jan 1, 2014",-,Norway,16581,Molde FK U19 ,180752,-,Ivar Furu,13/14,Norway,687,Molde FK 
+"Jul 1, 2016",-,Poland,8936,Miedz Legnica ,18961,100 Th. €,Tadas Labukas,16/17,,515,Unattached 
+"Jan 12, 2015",Free transfer,Lithuania,32832,Trakai ,18961,150 Th. €,Tadas Labukas,14/15,Poland,8936,Miedz Legnica 
+"Mar 7, 2014",Free transfer,Russia,1186,Torpedo Moscow ,18961,75 Th. €,Tadas Labukas,13/14,Lithuania,32832,Trakai 
+"Jan 24, 2013",?,Latvia,1043,Skonto Riga ,18961,250 Th. €,Tadas Labukas,12/13,Russia,1186,Torpedo Moscow 
+"Mar 1, 2012",Free transfer,Norway,1100,SK Brann ,18961,200 Th. €,Tadas Labukas,11/12,Latvia,1043,Skonto Riga 
+"Jul 1, 2011",Free transfer,Poland,6107,Arka Gdynia ,18961,425 Th. €,Tadas Labukas,11/12,Norway,1100,SK Brann 
+"Jul 1, 2009",150 Th. €,Romania,4959,Otelul Galati ,18961,450 Th. €,Tadas Labukas,09/10,Poland,6107,Arka Gdynia 
+"Jun 30, 2009",End of loan,Azerbaijan,8956,Inter Baku ,18961,450 Th. €,Tadas Labukas,08/09,Romania,4959,Otelul Galati 
+"Jul 1, 2008",Loan,Romania,4959,Otelul Galati ,18961,450 Th. €,Tadas Labukas,08/09,Azerbaijan,8956,Inter Baku 
+"Jan 1, 2007",Free transfer,Lithuania,602,Zalgiris ,18961,-,Tadas Labukas,06/07,Romania,4959,Otelul Galati 
+"Jan 1, 2006",Free transfer,Russia,121,Dinamo Moscow ,18961,-,Tadas Labukas,05/06,Lithuania,602,Zalgiris 
+"Jan 1, 2003",Free transfer,Lithuania,5228,Atlantas ,18961,-,Tadas Labukas,02/03,Russia,121,Dinamo Moscow 
+"Feb 10, 2014",?,Norway,687,Molde FK ,180754,50 Th. €,Pal Erik Ulvestad,13/14,Norway,21101,Kristiansund BK 
+"Jul 15, 2013",End of loan,Norway,632,Hönefoss ,180754,50 Th. €,Pal Erik Ulvestad,13/14,Norway,687,Molde FK 
+"Apr 5, 2013",Loan,Norway,687,Molde FK ,180754,50 Th. €,Pal Erik Ulvestad,12/13,Norway,632,Hönefoss 
+"Nov 30, 2012",End of loan,Norway,21101,Kristiansund BK ,180754,100 Th. €,Pal Erik Ulvestad,12/13,Norway,687,Molde FK 
+"Apr 1, 2012",Loan,Norway,687,Molde FK ,180754,150 Th. €,Pal Erik Ulvestad,11/12,Norway,21101,Kristiansund BK 
+"Feb 1, 2011",?,Norway,30114,SK Herd ,180754,-,Pal Erik Ulvestad,10/11,Norway,687,Molde FK 
+"Jan 16, 2015",Free transfer,Norway,9987,Ullensaker/Kisa ,43539,100 Th. €,Morten Giaever,14/15,Norway,2555,Baerum SK 
+"Jan 30, 2013",?,Norway,10217,Sarpsborg 08 ,43539,300 Th. €,Morten Giaever,12/13,Norway,9987,Ullensaker/Kisa 
+"Jan 1, 2010",?,Norway,8442,Tromsdalen UIL ,43539,200 Th. €,Morten Giaever,09/10,Norway,10217,Sarpsborg 08 
+"Jan 1, 2015",-,Sweden,8877,AFC United ,93205,125 Th. €,Haris Skenderovic,14/15,,515,Unattached 
+"Aug 12, 2014",-,Sweden,515,Unattached ,93205,125 Th. €,Haris Skenderovic,14/15,,8877,AFC United 
+"Jan 1, 2014",-,Sweden,7406,Syrianska FC ,93205,150 Th. €,Haris Skenderovic,13/14,,515,Unattached 
+"Mar 1, 2012",?,Norway,1274,Stabaek IF ,93205,150 Th. €,Haris Skenderovic,11/12,Sweden,7406,Syrianska FC 
+"Jan 1, 2011",200 Th. €,Sweden,7406,Syrianska FC ,93205,275 Th. €,Haris Skenderovic,10/11,Norway,1274,Stabaek IF 
+"Jan 1, 2009",?,Sweden,7945,IK Sirius ,93205,75 Th. €,Haris Skenderovic,08/09,Sweden,7406,Syrianska FC 
+"Jan 1, 2008",?,Tunisia,9890,US Monastir ,93205,-,Haris Skenderovic,07/08,Sweden,7945,IK Sirius 
+"Jan 1, 2007",100 Th. €,Sweden,2283,Vasalunds IF ,93205,-,Haris Skenderovic,06/07,Tunisia,9890,US Monastir 
+"Jan 1, 2002",100 Th. €,Bosnia-Herzegovina,9492,J. Bihac ,93205,-,Haris Skenderovic,01/02,Sweden,2283,Vasalunds IF 
+"Dec 31, 2011",End of loan,Norway,687,Molde FK ,209431,-,Mamadou Gando Ba,11/12,Senegal,28578,Diambars 
+"Aug 1, 2011",Loan,Senegal,28578,Diambars ,209431,-,Mamadou Gando Ba,11/12,Norway,687,Molde FK 
+"Aug 1, 2014",Free transfer,Norway,6391,Porsanger IL ,209432,-,Sivert Beinset,14/15,Norway,36245,SK Traeff 
+"Jan 1, 2014",Free transfer,Norway,35022,Molde FK II ,209432,-,Sivert Beinset,13/14,Norway,6391,Porsanger IL 
+"Jan 1, 2013",-,Norway,16581,Molde FK U19 ,209432,-,Sivert Beinset,12/13,Norway,35022,Molde FK II 
+"Jan 1, 2016",?,Norway,75,Unknown ,180761,-,Qendrim Lipoveci,15/16,,13261,Asker FH 
+"Jan 1, 2015",?,Norway,48481,Rilindja IL ,180761,-,Qendrim Lipoveci,14/15,,75,Unknown 
+"Aug 1, 2014",Free transfer,Norway,175,FK Lyn ,180761,-,Qendrim Lipoveci,14/15,Norway,48481,Rilindja IL 
+"Jan 1, 2014",?,Norway,35030,Fram Larvik ,180761,-,Qendrim Lipoveci,13/14,Norway,175,FK Lyn 
+"Jan 1, 2013",?,Norway,36224,FK Jerv ,180761,-,Qendrim Lipoveci,12/13,Norway,35030,Fram Larvik 
+"Jan 1, 2012",?,Norway,6037,Pors Grenland ,180761,50 Th. €,Qendrim Lipoveci,11/12,Norway,36224,FK Jerv 
+"Aug 1, 2011",?,Norway,35023,Odds BK II ,180761,-,Qendrim Lipoveci,11/12,Norway,6037,Pors Grenland 
+"Jan 1, 2016",-,France,515,Unattached ,209434,50 Th. €,Abdou Karim Camara,15/16,,30611,Stade Montois 
+"Jul 1, 2014",-,France,5773,AS Cherbourg ,209434,50 Th. €,Abdou Karim Camara,14/15,,515,Unattached 
+"Aug 6, 2013",Free transfer,Norway,687,Molde FK ,209434,50 Th. €,Abdou Karim Camara,13/14,France,5773,AS Cherbourg 
+"Sep 10, 2011",?,Senegal,28578,Diambars ,209434,-,Abdou Karim Camara,11/12,Norway,687,Molde FK 
+"Jan 1, 2015",-,Norway,8442,Tromsdalen UIL ,180763,100 Th. â‚¬,Ludvig Rinde,14/15,,515,Unattached 
+"Jan 1, 2012",Free transfer,Norway,1293,TromsÃ¶ ,180763,50 Th. â‚¬,Ludvig Rinde,11/12,Norway,8442,Tromsdalen UIL 
+"Jun 1, 2011",-,Norway,14658,TromsÃ¸ IL U19 ,180763,-,Ludvig Rinde,10/11,Norway,1293,TromsÃ¶ 
+"Jan 1, 2016",Free transfer,Norway,1057,Bryne FK ,128028,300 Th. €,Jon Helge Tveita,15/16,Norway,10217,Sarpsborg 08 
+"Jan 1, 2014",?,Norway,239,Viking ,128028,300 Th. €,Jon Helge Tveita,13/14,Norway,1057,Bryne FK 
+"Dec 31, 2013",End of loan,Norway,1057,Bryne FK ,128028,300 Th. €,Jon Helge Tveita,13/14,Norway,239,Viking 
+"Apr 2, 2013",Loan,Norway,239,Viking ,128028,300 Th. €,Jon Helge Tveita,12/13,Norway,1057,Bryne FK 
+"Aug 1, 2011",?,Norway,10276,Stavanger IF ,128028,50 Th. €,Jon Helge Tveita,11/12,Norway,239,Viking 
+"Jan 1, 2015",?,Norway,421,Kongsvinger ,150362,50 Th. €,Tobias Henanger,14/15,Norway,36486,Arendal Fotball 
+"Mar 21, 2014",Free transfer,Norway,10217,Sarpsborg 08 ,150362,50 Th. €,Tobias Henanger,13/14,Norway,421,Kongsvinger 
+"Nov 30, 2013",End of loan,Norway,13450,Østsiden IL ,150362,50 Th. €,Tobias Henanger,13/14,Norway,10217,Sarpsborg 08 
+"Aug 8, 2013",Loan,Norway,10217,Sarpsborg 08 ,150362,50 Th. €,Tobias Henanger,13/14,Norway,13450,Østsiden IL 
+"Dec 31, 2012",End of loan,Norway,13450,Østsiden IL ,150362,-,Tobias Henanger,12/13,Norway,10217,Sarpsborg 08 
+"Aug 1, 2012",Loan,Norway,10217,Sarpsborg 08 ,150362,-,Tobias Henanger,12/13,Norway,13450,Østsiden IL 
+"Apr 1, 2014",Free transfer,Norway,2038,Sogndal ,180766,50 Th. €,Thomas Ness,13/14,Norway,35609,Fyllingsdalen 
+"Jan 1, 2011",-,Norway,19996,Sogndal IL U19 ,180766,-,Thomas Ness,10/11,Norway,2038,Sogndal 
+"Jan 1, 2016","1,60 Mill. €",Norway,2817,Strømsgodset ,180767,"1,10 Mill. €",Gustav Wikheim,15/16,Belgium,157,KAA Gent 
+"Aug 1, 2010",-,Norway,15693,Strømsgodset IF U19 ,180767,-,Gustav Wikheim,10/11,Norway,2817,Strømsgodset 
+"Jan 1, 2014",?,Norway,10913,Viking FK II ,205856,-,Magnus Kristensen,13/14,Norway,6216,FK Vidar 
+"Jan 1, 2012",-,Norway,15701,Viking FK U19 ,205856,-,Magnus Kristensen,11/12,Norway,10913,Viking FK II 
+"Jan 1, 2013",?,Norway,35029,Valerenga II ,205860,-,Gard Aarvik,12/13,,75,Unknown 
+"Jan 1, 2012",-,Norway,15700,Valerenga U19 ,205860,-,Gard Aarvik,11/12,Norway,35029,Valerenga II 
+"Dec 1, 2015",Free transfer,United States,4290,Pittsburgh ,191526,100 Th. €,Vini Dantas,15/16,United States,12667,Baltimore Blast 
+"Mar 16, 2015",Free transfer,United States,39151,Ottawa Fury ,191526,100 Th. €,Vini Dantas,14/15,United States,4290,Pittsburgh 
+"Mar 4, 2014",-,United States,515,Unattached ,191526,100 Th. €,Vini Dantas,13/14,,39151,Ottawa Fury 
+"Jan 1, 2014",-,Finland,2925,FC Lahti ,191526,100 Th. €,Vini Dantas,13/14,,515,Unattached 
+"Mar 13, 2013",?,Norway,501,FK Bodø/Glimt ,191526,100 Th. €,Vini Dantas,12/13,Finland,2925,FC Lahti 
+"Aug 31, 2012",?,Norway,687,Molde FK ,191526,100 Th. €,Vini Dantas,12/13,Norway,501,FK Bodø/Glimt 
+"Aug 1, 2011",?,England,1074,Tranmere Rovers ,191526,50 Th. €,Vini Dantas,11/12,Norway,687,Molde FK 
+"Jul 1, 2011",-,Norway,267,Start ,13351,700 Th. €,Brian Priske,11/12,,123,End of career 
+"Jan 1, 2011",?,Denmark,443,Vejle BK ,13351,700 Th. €,Brian Priske,10/11,Norway,267,Start 
+"Dec 31, 2010",End of loan,Denmark,865,FC Midtjylland ,13351,700 Th. €,Brian Priske,10/11,Denmark,443,Vejle BK 
+"Jul 1, 2010",Loan,Denmark,443,Vejle BK ,13351,400 Th. €,Brian Priske,10/11,Denmark,865,FC Midtjylland 
+"Jul 1, 2008",?,Belgium,2282,Club Brugge ,13351,"2,00 Mill. €",Brian Priske,08/09,Denmark,443,Vejle BK 
+"Jul 1, 2006","1,00 Mill. €",England,1020,Portsmouth FC ,13351,"2,00 Mill. €",Brian Priske,06/07,Belgium,2282,Club Brugge 
+"Jul 1, 2005",750 Th. €,Belgium,1184,KRC Genk ,13351,"2,50 Mill. €",Brian Priske,05/06,England,1020,Portsmouth FC 
+"Jul 1, 2003",125 Th. €,Denmark,1053,Aalborg BK ,13351,-,Brian Priske,03/04,Belgium,1184,KRC Genk 
+"Jan 1, 1999",Free transfer,Denmark,5784,Aarhus Fremad ,13351,-,Brian Priske,98/99,Denmark,1053,Aalborg BK 
+"Jul 1, 1997",Free transfer,Denmark,2414,AC Horsens ,13351,-,Brian Priske,97/98,Denmark,5784,Aarhus Fremad 
+"Jul 7, 2015",?,Norway,21101,Kristiansund BK ,157226,200 Th. €,Magnus Stamneströ,15/16,Norway,195,Rosenborg BK 
+"Jul 18, 2014",?,Norway,687,Molde FK ,157226,200 Th. €,Magnus Stamneströ,14/15,Norway,21101,Kristiansund BK 
+"Jul 17, 2014",End of loan,Norway,21101,Kristiansund BK ,157226,200 Th. €,Magnus Stamneströ,14/15,Norway,687,Molde FK 
+"Jan 1, 2014",Loan,Norway,687,Molde FK ,157226,200 Th. €,Magnus Stamneströ,13/14,Norway,21101,Kristiansund BK 
+"Dec 31, 2013",End of loan,Norway,2038,Sogndal ,157226,200 Th. €,Magnus Stamneströ,13/14,Norway,687,Molde FK 
+"Apr 4, 2013",Loan,Norway,687,Molde FK ,157226,200 Th. €,Magnus Stamneströ,12/13,Norway,2038,Sogndal 
+"Jan 1, 2012",-,Norway,16581,Molde FK U19 ,157226,100 Th. €,Magnus Stamneströ,11/12,Norway,687,Molde FK 
+"Mar 7, 2014",?,Norway,10217,Sarpsborg 08 ,200237,50 Th. €,Mathias Engebretsen,13/14,Norway,13019,Kvik Halden 
+"Dec 31, 2013",End of loan,Norway,2961,Moss FK ,200237,50 Th. €,Mathias Engebretsen,13/14,Norway,10217,Sarpsborg 08 
+"Aug 8, 2013",Loan,Norway,10217,Sarpsborg 08 ,200237,50 Th. €,Mathias Engebretsen,13/14,Norway,2961,Moss FK 
+"Dec 31, 2016",End of loan,Norway,17647,Strømmen IF ,200238,50 Th. €,Olav Öby,16/17,Norway,10217,Sarpsborg 08 
+"Jan 23, 2016",Loan,Norway,10217,Sarpsborg 08 ,200238,50 Th. €,Olav Öby,15/16,Norway,17647,Strømmen IF 
+"Dec 31, 2015",End of loan,Norway,7175,Follo FK ,200238,50 Th. €,Olav Öby,15/16,Norway,10217,Sarpsborg 08 
+"Aug 18, 2015",Loan,Norway,10217,Sarpsborg 08 ,200238,100 Th. €,Olav Öby,15/16,Norway,7175,Follo FK 
+"Mar 7, 2013",-,Norway,19848,Sarpsborg08 U19 ,200238,-,Olav Öby,12/13,Norway,10217,Sarpsborg 08 
+"Mar 7, 2015",Free transfer,Norway,267,Start ,45622,500 Th. €,Ernest Asante,14/15,Norway,1274,Stabaek IF 
+"Jan 1, 2011",?,Ghana,30605,Maxbee's FC ,45622,150 Th. €,Ernest Asante,10/11,Norway,267,Start 
+"Oct 1, 2010",?,Belgium,1073,KSK Beveren ,45622,150 Th. €,Ernest Asante,10/11,Ghana,30605,Maxbee's FC 
+"Aug 1, 2009",?,Ghana,9082,Fetteh Feyenoord ,45622,-,Ernest Asante,09/10,Belgium,1073,KSK Beveren 
+"Jan 1, 2016",Free transfer,Norway,6477,Vard ,209467,50 Th. €,Helge Sandvik,15/16,Norway,2761,FK Haugesund 
+"Jul 22, 2015",End of loan,Norway,5619,Aalesunds FK ,209467,50 Th. €,Helge Sandvik,15/16,Norway,6477,Vard 
+"May 28, 2015",Loan,Norway,6477,Vard ,209467,50 Th. €,Helge Sandvik,14/15,Norway,5619,Aalesunds FK 
+"Dec 31, 2011",End of loan,Norway,35019,FK Haugesund II ,209467,-,Helge Sandvik,11/12,Norway,6477,Vard 
+"Aug 1, 2011",Loan,Norway,6477,Vard ,209467,-,Helge Sandvik,11/12,Norway,35019,FK Haugesund II 
+"Jul 1, 2014",?,Germany,23,E. Braunschweig ,121404,"1,50 Mill. €",Omar Elabdellaoui,14/15,Greece,683,Olympiacos 
+"Jul 1, 2013",500 Th. €,England,9265,Man City U21 ,121404,"1,00 Mill. €",Omar Elabdellaoui,13/14,Germany,23,E. Braunschweig 
+"Jun 30, 2013",End of loan,Germany,23,E. Braunschweig ,121404,"1,00 Mill. €",Omar Elabdellaoui,12/13,England,9265,Man City U21 
+"Jan 19, 2013",Loan,England,9265,Man City U21 ,121404,500 Th. €,Omar Elabdellaoui,12/13,Germany,23,E. Braunschweig 
+"Jan 14, 2013",End of loan,Netherlands,234,Feyenoord ,121404,500 Th. €,Omar Elabdellaoui,12/13,England,9265,Man City U21 
+"Jul 21, 2012",Loan,England,9265,Man City U21 ,121404,500 Th. €,Omar Elabdellaoui,12/13,Netherlands,234,Feyenoord 
+"Dec 31, 2011",End of loan,Norway,2817,Strømsgodset ,121404,50 Th. €,Omar Elabdellaoui,11/12,England,9265,Man City U21 
+"Mar 31, 2011",Loan,England,9265,Man City U21 ,121404,-,Omar Elabdellaoui,10/11,Norway,2817,Strømsgodset 
+"Jul 1, 2009",-,England,6930,Man City U18 ,121404,-,Omar Elabdellaoui,09/10,England,9265,Man City U21 
+"Jul 1, 2008",Free transfer,Norway,19847,Skeid Oslo U19 ,121404,-,Omar Elabdellaoui,08/09,England,6930,Man City U18 
+"Jan 16, 2014",-,South Africa,9370,AmaZulu FC ,90175,300 Th. €,Mohammed-Awal Issah,13/14,,515,Unattached 
+"Aug 1, 2013",?,Norway,195,Rosenborg BK ,90175,300 Th. €,Mohammed-Awal Issah,13/14,South Africa,9370,AmaZulu FC 
+"Aug 1, 2011",770 Th. €,Serbia,159,Red Star ,90175,"1,75 Mill. €",Mohammed-Awal Issah,11/12,Norway,195,Rosenborg BK 
+"Jan 1, 2009",300 Th. €,South Africa,9370,AmaZulu FC ,90175,-,Mohammed-Awal Issah,08/09,Serbia,159,Red Star 
+"Aug 1, 2007",?,Ghana,44066,Real Sportive ,90175,-,Mohammed-Awal Issah,07/08,South Africa,9370,AmaZulu FC 
+"Feb 29, 2016",End of loan,England,6340,Braintree ,203840,-,Michael Crowe,15/16,England,677,Ipswich 
+"Jan 11, 2016",Loan,England,677,Ipswich ,203840,-,Michael Crowe,15/16,England,6340,Braintree 
+"Jan 10, 2016",End of loan,England,3684,Stevenage FC ,203840,-,Michael Crowe,15/16,England,677,Ipswich 
+"Nov 26, 2015",Loan,England,677,Ipswich ,203840,-,Michael Crowe,15/16,England,3684,Stevenage FC 
+"May 31, 2015",End of loan,England,2796,Woking ,203840,-,Michael Crowe,14/15,England,677,Ipswich 
+"Mar 24, 2015",Loan,England,677,Ipswich ,203840,-,Michael Crowe,14/15,England,2796,Woking 
+"Sep 5, 2013",-,England,10006,Ipswich U18 ,203840,-,Michael Crowe,13/14,England,677,Ipswich 
+"Jul 1, 2012",?,Norway,15692,IK Start U19 ,203840,-,Michael Crowe,12/13,England,10006,Ipswich U18 
+"Jan 1, 2013",?,Norway,9987,Ullensaker/Kisa ,62019,200 Th. €,Arnold Origi,12/13,Norway,353,Lilleström SK 
+"Jan 1, 2012",?,Norway,2961,Moss FK ,62019,200 Th. €,Arnold Origi,11/12,Norway,9987,Ullensaker/Kisa 
+"Dec 1, 2011",End of loan,Norway,3837,Fredrikstad ,62019,200 Th. €,Arnold Origi,11/12,Norway,2961,Moss FK 
+"Jul 1, 2011",Loan,Norway,2961,Moss FK ,62019,200 Th. €,Arnold Origi,11/12,Norway,3837,Fredrikstad 
+"Jan 1, 2007",?,Kenya,3125,Tusker FC ,62019,-,Arnold Origi,06/07,Norway,2961,Moss FK 
+"Jul 1, 2006",?,Kenya,18040,Mathare United ,62019,-,Arnold Origi,06/07,Kenya,3125,Tusker FC 
+"Dec 31, 2016",End of loan,Norway,195,Rosenborg BK ,149579,500 Th. €,Elbasan Rashani,16/17,Denmark,206,Bröndby IF 
+"Jan 11, 2016",Loan,Denmark,206,Bröndby IF ,149579,500 Th. €,Elbasan Rashani,15/16,Norway,195,Rosenborg BK 
+"Jul 24, 2014",720 Th. €,Norway,1058,Odds BK ,149579,500 Th. €,Elbasan Rashani,14/15,Denmark,206,Bröndby IF 
+"Jan 1, 2011",-,Norway,15686,Odds BK U19 ,149579,50 Th. €,Elbasan Rashani,10/11,Norway,1058,Odd Grenland 
+"Dec 1, 2013",-,Jamaica,515,Unattached ,93266,500 Th. €,Jason Morrison,13/14,,4292,Portmore United 
+"Jul 12, 2013",-,Norway,5619,Aalesunds FK ,93266,700 Th. €,Jason Morrison,13/14,,515,Unattached 
+"Jan 1, 2011",?,Norway,2817,Strømsgodset ,93266,500 Th. €,Jason Morrison,10/11,Norway,5619,Aalesunds FK 
+"Jul 1, 2010",Free transfer,Hungary,279,Ferencváros ,93266,325 Th. €,Jason Morrison,10/11,Norway,2817,Strømsgodset 
+"Jul 1, 2008",Free transfer,Belgium,6342,White Star ,93266,-,Jason Morrison,08/09,Hungary,279,Ferencváros 
+"Jul 1, 2007",Free transfer,Jamaica,4292,Portmore United ,93266,-,Jason Morrison,07/08,Belgium,6342,White Star 
+"Jul 16, 2013",-,Norway,687,Molde FK ,176885,200 Th. €,Sean Cunningham,13/14,,515,Unattached 
+"Dec 31, 2012",End of loan,Norway,1274,Stabaek IF ,176885,200 Th. €,Sean Cunningham,12/13,Norway,687,Molde FK 
+"Mar 1, 2012",Loan,Norway,687,Molde FK ,176885,50 Th. €,Sean Cunningham,11/12,Norway,1274,Stabaek IF 
+"Jan 1, 2011",-,Norway,16581,Molde FK U19 ,176885,-,Sean Cunningham,10/11,Norway,687,Molde FK 
+"Aug 31, 2015",?,Belgium,1184,KRC Genk ,91225,600 Th. €,Kim Ojo,15/16,Belgium,2727,OH Leuven 
+"Jun 30, 2015",End of loan,Hungary,708,Újpest FC ,91225,600 Th. €,Kim Ojo,14/15,Belgium,1184,KRC Genk 
+"Aug 29, 2014",Loan,Belgium,1184,KRC Genk ,91225,800 Th. €,Kim Ojo,14/15,Hungary,708,Újpest FC 
+"Jan 14, 2013","1,20 Mill. €",Norway,1100,SK Brann ,91225,"1,70 Mill. €",Kim Ojo,12/13,Belgium,1184,KRC Genk 
+"Jan 1, 2011",Free transfer,Norway,9028,Nybergsund ,91225,275 Th. €,Kim Ojo,10/11,Norway,1100,SK Brann 
+"Feb 1, 2008",Free transfer,Nigeria,5069,Plateau United ,91225,-,Kim Ojo,07/08,Norway,9028,Nybergsund 
+"Jan 8, 2016",?,Sweden,3654,Kalmar FF ,179808,300 Th. €,Lars Cramer,15/16,Norway,5619,Aalesunds FK 
+"Mar 28, 2013",?,Norway,2817,Strømsgodset ,179808,50 Th. €,Lars Cramer,12/13,Sweden,3654,Kalmar FF 
+"Dec 31, 2012",End of loan,Norway,36218,Drammen FK ,179808,50 Th. €,Lars Cramer,09/10,Norway,2817,Strømsgodset 
+"Aug 1, 2011",End of loan,Norway,13261,Asker FH ,179808,-,Lars Cramer,11/12,Norway,2817,Strømsgodset 
+"Mar 1, 2010",Loan,Norway,2817,Strømsgodset ,179808,-,Lars Cramer,09/10,Norway,13261,Asker FH 
+"Aug 1, 2009",Loan,Norway,2817,Strømsgodset ,179808,-,Lars Cramer,09/10,Norway,36218,Drammen FK 
+"Jan 1, 2008",-,Norway,15693,Strømsgodset IF U19 ,179808,-,Lars Cramer,07/08,Norway,2817,Strømsgodset 
+"Jan 1, 2012",?,Norway,2961,Moss FK ,148579,100 Th. €,Odillon Kashama,11/12,Norway,13450,Østsiden IL 
+"Aug 1, 2011",Free transfer,Norway,3837,Fredrikstad ,148579,100 Th. €,Odillon Kashama,11/12,Norway,2961,Moss FK 
+"Aug 1, 2015",Free transfer,Brazil,17964,Botafogo ,160638,-,Juninho,15/16,Malta,10603,Floriana 
+"Dec 21, 2014",?,Brazil,36304,Naviraiense-MS ,160638,-,Juninho,14/15,Brazil,17964,Botafogo 
+"Mar 31, 2014",?,Brazil,19976,Araxá ,160638,-,Juninho,13/14,Brazil,36304,Naviraiense-MS 
+"Dec 1, 2012",?,Brazil,17300,Desp. Brasil ,160638,-,Juninho,12/13,Brazil,19976,Araxá 
+"Dec 31, 2012",End of loan,Norway,35609,Fyllingsdalen ,160638,-,Juninho,12/13,Brazil,17300,Desp. Brasil 
+"Jan 1, 2012",Loan,Brazil,17300,Desp. Brasil ,160638,75 Th. €,Juninho,11/12,Norway,35609,Fyllingsdalen 
+"Jun 30, 2011",End of loan,Norway,1100,SK Brann ,160638,75 Th. €,Juninho,10/11,Brazil,17300,Desp. Brasil 
+"Aug 1, 2010",Loan,Brazil,17300,Desp. Brasil ,160638,-,Juninho,10/11,Norway,1100,SK Brann 
+"Jan 1, 2012",Free transfer,Norway,1058,Odd Grenland ,43625,100 Th. €,Ulf Riis,11/12,Norway,6037,Pors Grenland 
+"Jan 1, 2011",Free transfer,Norway,6037,Pors Grenland ,43625,-,Ulf Riis,10/11,Norway,1058,Odd Grenland 
+"Feb 1, 2016",Free transfer,Norway,9908,Notodden ,180755,50 Th. €,Aleksandar Corovic,15/16,Norway,36486,Arendal Fotball 
+"Jan 1, 2013",Free transfer,Norway,1058,Odds BK ,180755,50 Th. €,Aleksandar Corovic,12/13,Norway,9908,Notodden 
+"Jan 1, 2011",-,Norway,15686,Odds BK U19 ,180755,-,Aleksandar Corovic,10/11,Norway,1058,Odd Grenland 
+"Apr 25, 2016",Free transfer,Norway,8656,Brumunddal Fotball ,66680,-,Alain Junior Ollé Ollé,15/16,Norway,34319,Froya FK 
+"Jan 1, 2015",?,Norway,27688,Byasen ,66680,-,Alain Junior Ollé Ollé,14/15,Norway,8656,Brumunddal Fotball 
+"Mar 3, 2014",?,Norway,515,Unattached ,66680,350 Th. €,Alain Junior Ollé Ollé,13/14,,27688,Byasen 
+"Jul 1, 2013",-,Uruguay,14806,Cerro ,66680,350 Th. €,Alain Junior Ollé Ollé,13/14,,515,Unattached 
+"Feb 21, 2013",-,Uruguay,515,Unattached ,66680,350 Th. €,Alain Junior Ollé Ollé,12/13,,14806,Cerro 
+"Oct 16, 2012",-,Sweden,6139,Atvidabergs FF ,66680,350 Th. €,Alain Junior Ollé Ollé,12/13,,515,Unattached 
+"Oct 10, 2012",End of loan,Sweden,10507,Varbergs BoIS ,66680,350 Th. €,Alain Junior Ollé Ollé,12/13,Sweden,6139,Atvidabergs FF 
+"Aug 2, 2012",Loan,Sweden,6139,Atvidabergs FF ,66680,400 Th. €,Alain Junior Ollé Ollé,12/13,Sweden,10507,Varbergs BoIS 
+"Feb 1, 2012",Free transfer,Norway,1274,Stabaek IF ,66680,400 Th. €,Alain Junior Ollé Ollé,11/12,Sweden,6139,Atvidabergs FF 
+"Mar 1, 2011",Free transfer,Germany,60,SC Freiburg ,66680,200 Th. €,Alain Junior Ollé Ollé,10/11,Norway,1274,Stabaek IF 
+"Jun 30, 2010",End of loan,Germany,50,Rot Weiss Ahlen ,66680,250 Th. €,Alain Junior Ollé Ollé,09/10,Germany,60,SC Freiburg 
+"Jan 1, 2010",Loan,Germany,60,SC Freiburg ,66680,250 Th. €,Alain Junior Ollé Ollé,09/10,Germany,50,Rot Weiss Ahlen 
+"Jan 1, 2008",?,Uruguay,866,Nacional ,66680,-,Alain Junior Ollé Ollé,07/08,Germany,60,SC Freiburg 
+"Jul 1, 2006",?,Mexico,13548,Inter Riviera Maya ,66680,-,Alain Junior Ollé Ollé,06/07,Uruguay,866,Nacional 
+"Jul 1, 2005",?,Uruguay,6044,Plaza Colonia ,66680,-,Alain Junior Ollé Ollé,05/06,Mexico,13548,Inter Riviera Maya 
+"Jul 1, 2004",?,Cameroon,4811,Cintra of Yaoundé ,66680,-,Alain Junior Ollé Ollé,04/05,Uruguay,6044,Plaza Colonia 
+"Jul 1, 2016",-,Cyprus,3899,Anor. Famagusta ,191935,500 Th. €,Razak Nuhu,16/17,,515,Unattached 
+"Jul 30, 2014",Free transfer,England,9265,Man City U21 ,191935,300 Th. €,Razak Nuhu,14/15,Cyprus,3899,Anor. Famagusta 
+"Jun 30, 2014",End of loan,Cyprus,429,Apol. Limassol ,191935,300 Th. €,Razak Nuhu,13/14,England,9265,Man City U21 
+"Jan 30, 2014",Loan,England,9265,Man City U21 ,191935,400 Th. €,Razak Nuhu,13/14,Cyprus,429,Apol. Limassol 
+"Dec 31, 2013",End of loan,Norway,2817,Strømsgodset ,191935,600 Th. €,Razak Nuhu,13/14,England,9265,Man City U21 
+"Feb 1, 2011",Loan,England,9265,Man City U21 ,191935,-,Razak Nuhu,10/11,Norway,2817,Strømsgodset 
+"Jan 1, 2011",?,Ghana,40902,Right to Dream ,191935,-,Razak Nuhu,10/11,England,9265,Man City U21 
+"Feb 21, 2014",?,England,9265,Man City U21 ,164478,750 Th. €,Mohammed Abu,13/14,Norway,2817,Strømsgodset 
+"Dec 31, 2013",End of loan,Denmark,678,Aarhus GF ,164478,750 Th. €,Mohammed Abu,13/14,England,281,Manchester City 
+"Sep 2, 2013",Loan,England,281,Manchester City ,164478,750 Th. €,Mohammed Abu,13/14,Denmark,678,Aarhus GF 
+"Jun 30, 2013",End of loan,France,1158,FC Lorient ,164478,750 Th. €,Mohammed Abu,12/13,England,281,Manchester City 
+"Jan 31, 2013",Loan,England,281,Manchester City ,164478,600 Th. €,Mohammed Abu,12/13,France,1158,FC Lorient 
+"Jan 30, 2013",End of loan,Spain,367,Rayo Vallecano ,164478,600 Th. €,Mohammed Abu,12/13,England,281,Manchester City 
+"Aug 27, 2012",Loan,England,281,Manchester City ,164478,"1,20 Mill. €",Mohammed Abu,12/13,Spain,367,Rayo Vallecano 
+"Jun 30, 2012",End of loan,Norway,2817,Strømsgodset ,164478,"1,00 Mill. €",Mohammed Abu,11/12,England,281,Manchester City 
+"Mar 31, 2012",Loan,England,281,Manchester City ,164478,"1,00 Mill. €",Mohammed Abu,11/12,Norway,2817,Strømsgodset 
+"Mar 30, 2012",End of loan,Germany,24,E. Frankfurt ,164478,"1,00 Mill. €",Mohammed Abu,11/12,England,281,Manchester City 
+"Jan 31, 2012",Loan,England,281,Manchester City ,164478,"1,00 Mill. €",Mohammed Abu,11/12,Germany,24,E. Frankfurt 
+"Dec 31, 2011",End of loan,Norway,2817,Strømsgodset ,164478,"1,00 Mill. €",Mohammed Abu,11/12,England,281,Manchester City 
+"Sep 2, 2010",Loan,England,281,Manchester City ,164478,-,Mohammed Abu,10/11,Norway,2817,Strømsgodset 
+"Aug 31, 2010",?,England,75,Unknown ,164478,-,Mohammed Abu,10/11,,281,Manchester City 
+"Jan 29, 2015","1,20 Mill. €",Norway,687,Molde FK ,146561,800 Th. €,Daniel Chima Chukwu,14/15,China,17238,SH Shenxin 
+"Aug 1, 2010",Free transfer,Norway,175,FK Lyn ,146561,-,Daniel Chima Chukwu,10/11,Norway,687,Molde FK 
+"Jan 14, 2014",100 Th. €,Norway,76,Valerenga ,164487,500 Th. €,Fegor Ogude,13/14,Russia,4128,Amkar Perm 
+"Aug 1, 2010",?,Nigeria,23106,Warri Wolves FC ,164487,-,Fegor Ogude,10/11,Norway,76,Valerenga 
+"Jan 1, 2012",?,Norway,10217,Sarpsborg 08 ,42123,25 Th. €,Stian Andersröd,11/12,,75,Unknown 
+"Sep 1, 2011",-,Norway,40211,Sarpsborg 08 II ,42123,25 Th. €,Stian Andersröd,11/12,Norway,10217,Sarpsborg 08 
+"Jan 1, 2011",-,Norway,10217,Sarpsborg 08 ,42123,25 Th. €,Stian Andersröd,10/11,Norway,40211,Sarpsborg 08 II 
+"Dec 1, 2007",-,Norway,19848,Sarpsborg08 U19 ,42123,-,Stian Andersröd,07/08,Norway,10217,Sarpsborg 08 
+"Jan 21, 2015",Free transfer,Norway,2038,Sogndal ,106434,300 Th. €,Örjan Hopen,14/15,Norway,32682,Levanger FK 
+"Dec 31, 2014",End of loan,Norway,13274,Nest-Sotra IL ,106434,300 Th. €,Örjan Hopen,14/15,Norway,2038,Sogndal 
+"Jul 15, 2014",Loan,Norway,2038,Sogndal ,106434,300 Th. €,Örjan Hopen,14/15,Norway,13274,Nest-Sotra IL 
+"Dec 31, 2013",End of loan,Norway,1057,Bryne FK ,106434,300 Th. €,Örjan Hopen,13/14,Norway,2038,Sogndal 
+"Aug 8, 2013",Loan,Norway,2038,Sogndal ,106434,400 Th. €,Örjan Hopen,13/14,Norway,1057,Bryne FK 
+"Jan 1, 2010",-,Norway,19996,Sogndal IL U19 ,106434,50 Th. €,Örjan Hopen,09/10,Norway,2038,Sogndal 
+"Jan 1, 2014",Free transfer,Norway,2038,Sogndal ,106435,50 Th. €,Eivind Daniel Röed,13/14,Norway,40247,Eik-Tönsberg 
+"Jul 16, 2013",End of loan,Norway,35609,Fyllingsdalen ,106435,50 Th. €,Eivind Daniel Röed,13/14,Norway,2038,Sogndal 
+"Mar 1, 2013",Loan,Norway,2038,Sogndal ,106435,50 Th. €,Eivind Daniel Röed,12/13,Norway,35609,Fyllingsdalen 
+"Jan 1, 2010",-,Norway,19996,Sogndal IL U19 ,106435,50 Th. €,Eivind Daniel Röed,09/10,Norway,2038,Sogndal 
+"Aug 5, 2013",?,Norway,3837,Fredrikstad ,42134,500 Th. €,Ole Jörgen Halvorsen,13/14,Norway,1058,Odds BK 
+"Mar 1, 2012",?,Norway,2038,Sogndal ,42134,800 Th. €,Ole Jörgen Halvorsen,11/12,Norway,3837,Fredrikstad 
+"Aug 1, 2009",?,Norway,10217,Sarpsborg 08 ,42134,250 Th. €,Ole Jörgen Halvorsen,09/10,Norway,2038,Sogndal 
+"Jan 1, 2008",-,Norway,36453,FK Sparta ,42134,-,Ole Jörgen Halvorsen,07/08,Norway,10217,Sarpsborg 08 
+"Dec 31, 2006",End of loan,Norway,9908,Notodden ,42134,-,Ole Jörgen Halvorsen,06/07,Norway,36453,FK Sparta 
+"Jan 1, 2006",Loan,Norway,36453,FK Sparta ,42134,-,Ole Jörgen Halvorsen,05/06,Norway,9908,Notodden 
+"Jan 15, 2016",Free transfer,Sweden,2294,Landskrona ,25239,-,Jonas Sandqvist,15/16,Norway,13261,Asker FH 
+"Jan 6, 2015",Free transfer,Iceland,8037,Keflavík ÍF ,25239,200 Th. €,Jonas Sandqvist,14/15,Sweden,2294,Landskrona 
+"Feb 28, 2014",-,Iceland,515,Unattached ,25239,200 Th. €,Jonas Sandqvist,13/14,,8037,Keflavík ÍF 
+"Apr 24, 2013",-,Sweden,1056,Örebro SK ,25239,200 Th. €,Jonas Sandqvist,12/13,,515,Unattached 
+"Jan 1, 2012",Free transfer,Norway,5619,Aalesunds FK ,25239,200 Th. €,Jonas Sandqvist,11/12,Sweden,1056,Örebro SK 
+"Mar 1, 2011",Free transfer,Greece,3060,Atromitos Athen ,25239,600 Th. €,Jonas Sandqvist,10/11,Norway,5619,Aalesunds FK 
+"Jan 1, 2010",Free transfer,Sweden,496,Malmö FF ,25239,750 Th. €,Jonas Sandqvist,09/10,Greece,3060,Atromitos Athen 
+"Nov 1, 2005",?,Sweden,2294,Landskrona ,25239,400 Th. €,Jonas Sandqvist,05/06,Sweden,496,Malmö FF 
+"Jan 1, 2000",-,Sweden,15677,Landskrona BoIS U19 ,25239,-,Jonas Sandqvist,99/00,Sweden,2294,Landskrona 
+"Jan 1, 1998",Free transfer,Sweden,34573,Lunds BK U19 ,25239,-,Jonas Sandqvist,97/98,Sweden,15677,Landskrona BoIS U19 
+"Jan 1, 2008",-,Norway,36453,FK Sparta ,42136,-,Ole Hansen,07/08,Norway,10217,Sarpsborg 08 
+"Jan 1, 2006",?,Norway,75,Unknown ,42136,-,Ole Hansen,05/06,,36453,FK Sparta 
+"Feb 4, 2014",?,Uruguay,3829,CA FÃ©nix ,99993,200 Th. â‚¬,NicolÃ¡s Mezquida,13/14,United States,6321,Vancouver 
+"Dec 31, 2013",End of loan,Uruguay,14598,Rampla Jrs ,99993,200 Th. â‚¬,NicolÃ¡s Mezquida,13/14,Uruguay,3829,CA FÃ©nix 
+"Mar 1, 2013",Loan,Uruguay,3829,CA FÃ©nix ,99993,200 Th. â‚¬,NicolÃ¡s Mezquida,12/13,Uruguay,14598,Rampla Jrs 
+"Mar 16, 2012",Free transfer,Uruguay,861,PeÃ±arol ,99993,175 Th. â‚¬,NicolÃ¡s Mezquida,11/12,Uruguay,3829,CA FÃ©nix 
+"Dec 31, 2011",End of loan,Norway,353,LillestrÃ¶m SK ,99993,75 Th. â‚¬,NicolÃ¡s Mezquida,11/12,Uruguay,861,PeÃ±arol 
+"Aug 19, 2011",Loan,Uruguay,861,PeÃ±arol ,99993,100 Th. â‚¬,NicolÃ¡s Mezquida,11/12,Norway,353,LillestrÃ¶m SK 
+"Jun 30, 2011",End of loan,Norway,1100,SK Brann ,99993,100 Th. â‚¬,NicolÃ¡s Mezquida,10/11,Uruguay,861,PeÃ±arol 
+"Mar 10, 2011",Loan,Uruguay,861,PeÃ±arol ,99993,100 Th. â‚¬,NicolÃ¡s Mezquida,10/11,Norway,1100,SK Brann 
+"Jul 1, 2008",-,Uruguay,20054,PeÃ±arol U19 ,99993,-,NicolÃ¡s Mezquida,08/09,Uruguay,861,PeÃ±arol 
+"Dec 31, 2011",End of loan,Norway,267,Start ,202908,50 Th. €,Öyvind Gausdal,11/12,Norway,36256,Vindbjart FK 
+"Aug 31, 2011",Loan,Norway,36256,Vindbjart FK ,202908,-,Öyvind Gausdal,11/12,Norway,267,Start 
+"Jan 1, 2008",?,Norway,13034,IK Vag ,202908,-,Öyvind Gausdal,07/08,Norway,36256,Vindbjart FK 
+"Jan 1, 2007",?,Norway,36225,Flekkefjord FK ,202908,-,Öyvind Gausdal,06/07,Norway,13034,IK Vag 
+"Jan 1, 2014",?,Sweden,1101,IF Elfsborg ,42141,800 Th. €,Joackim Jörgensen,13/14,Norway,239,Viking 
+"Jan 1, 2012",?,Norway,10217,Sarpsborg 08 ,42141,600 Th. €,Joackim Jörgensen,11/12,Sweden,1101,IF Elfsborg 
+"Aug 1, 2009",End of loan,Norway,13347,Lørenskog IF ,42141,-,Joackim Jörgensen,09/10,Norway,10217,Sarpsborg 08 
+"Aug 1, 2008",Loan,Norway,10217,Sarpsborg 08 ,42141,-,Joackim Jörgensen,08/09,Norway,13347,Lørenskog IF 
+"Jan 1, 2008",-,Norway,36453,FK Sparta ,42141,-,Joackim Jörgensen,07/08,Norway,10217,Sarpsborg 08 
+"Jan 1, 2006",?,Norway,12604,Own Youth ,42141,-,Joackim Jörgensen,05/06,,36453,FK Sparta 
+"Jan 1, 2015",Free transfer,Norway,2961,Moss FK ,42142,50 Th. €,Berat Jusufi,14/15,,75,Unknown 
+"Jan 1, 2014",Free transfer,Norway,10217,Sarpsborg 08 ,42142,100 Th. €,Berat Jusufi,13/14,Norway,2961,Moss FK 
+"Jan 1, 2008",Free transfer,Norway,36453,FK Sparta ,42142,-,Berat Jusufi,07/08,Norway,10217,Sarpsborg 08 
+"Jan 1, 1998",?,Norway,75,Unknown ,42142,-,Berat Jusufi,97/98,,36453,FK Sparta 
+"Jan 14, 2016",Free transfer,Georgia,24564,Guria ,116895,300 Th. â‚¬,Boti Goa Demel,15/16,Kazakhstan,15299,Zhetysu 
+"Aug 1, 2015",?,Georgia,515,Unattached ,116895,300 Th. â‚¬,Boti Goa Demel,15/16,,24564,Guria 
+"Jan 1, 2015",-,Kazakhstan,15299,Zhetysu ,116895,300 Th. â‚¬,Boti Goa Demel,14/15,,515,Unattached 
+"Feb 28, 2014",Free transfer,Armenia,4807,Shirak Gyumri ,116895,225 Th. â‚¬,Boti Goa Demel,13/14,Kazakhstan,15299,Zhetysu 
+"Aug 24, 2013",Free transfer,Georgia,10719,FC Zestafoni ,116895,200 Th. â‚¬,Boti Goa Demel,13/14,Armenia,4807,Shirak Gyumri 
+"Oct 1, 2012",-,Georgia,515,Unattached ,116895,150 Th. â‚¬,Boti Goa Demel,12/13,,10719,FC Zestafoni 
+"Aug 1, 2012",-,Armenia,10639,MIKA Aschtarak ,116895,100 Th. â‚¬,Boti Goa Demel,12/13,,515,Unattached 
+"Jan 1, 2012",?,Norway,195,Rosenborg BK ,116895,100 Th. â‚¬,Boti Goa Demel,11/12,Armenia,10639,MIKA Aschtarak 
+"Mar 1, 2011",?,Armenia,10639,MIKA Aschtarak ,116895,350 Th. â‚¬,Boti Goa Demel,10/11,Norway,195,Rosenborg BK 
+"Jul 1, 2007",?,Portugal,10330,Benfica B ,116895,-,Boti Goa Demel,07/08,Armenia,10639,MIKA Aschtarak 
+"Jul 1, 2006",?,France,2067,US CrÃ©teil ,116895,-,Boti Goa Demel,06/07,Portugal,10330,Benfica B 
+"Jul 1, 2005",-,France,15625,US CrÃ©teil-Lusitanos U19 ,116895,-,Boti Goa Demel,05/06,France,2067,US CrÃ©teil 
+"Mar 1, 2016",Free transfer,Norway,13025,Sandnes Ulf ,102048,200 Th. €,Tonny Brochmann,15/16,Norway,36224,FK Jerv 
+"Jan 1, 2015",Free transfer,Norway,2038,Sogndal ,102048,300 Th. €,Tonny Brochmann,14/15,Norway,13025,Sandnes Ulf 
+"Jul 1, 2011",Free transfer,Denmark,2414,AC Horsens ,102048,100 Th. €,Tonny Brochmann,11/12,Norway,2038,Sogndal 
+"Jan 1, 2010",-,Denmark,20984,ACH Youth ,102048,-,Tonny Brochmann,09/10,Denmark,2414,AC Horsens 
+"Jul 1, 2008",-,Denmark,14347,AC Horsens U19 ,102048,-,Tonny Brochmann,08/09,Denmark,20984,ACH Youth 
+"Jan 1, 2016",-,Norway,13274,Nest-Sotra IL ,202915,25 Th. €,George Agwuocha,15/16,,515,Unattached 
+"Jul 23, 2015",Free transfer,Norway,21101,Kristiansund BK ,202915,100 Th. €,George Agwuocha,15/16,Norway,13274,Nest-Sotra IL 
+"Jan 1, 2015",-,Norway,515,Unattached ,202915,100 Th. €,George Agwuocha,14/15,,21101,Kristiansund BK 
+"Oct 17, 2014",-,Norway,17647,Strømmen IF ,202915,100 Th. €,George Agwuocha,14/15,,515,Unattached 
+"Jan 1, 2014",?,Norway,1058,Odds BK ,202915,100 Th. €,George Agwuocha,13/14,Norway,17647,Strømmen IF 
+"Dec 31, 2013",End of loan,Norway,17647,Strømmen IF ,202915,100 Th. €,George Agwuocha,13/14,Norway,1058,Odds BK 
+"Aug 10, 2013",Loan,Norway,1058,Odds BK ,202915,100 Th. €,George Agwuocha,13/14,Norway,17647,Strømmen IF 
+"Jul 1, 2011",90 Th. €,Nigeria,17004,Kwara United ,202915,-,George Agwuocha,11/12,Norway,1058,Odd Grenland 
+"Jan 1, 2013",?,Norway,75,Unknown ,202917,-,Henrik Nilsen,12/13,,36453,FK Sparta 
+"Apr 1, 2012",?,Norway,19848,Sarpsborg08 U19 ,202917,-,Henrik Nilsen,11/12,,75,Unknown 
+"Aug 9, 2013",?,Norway,2817,Strømsgodset ,202918,50 Th. €,Mads Gundersen,13/14,Norway,11338,Mjøndalen IF 
+"May 1, 2011",-,Norway,15693,Strømsgodset IF U19 ,202918,-,Mads Gundersen,10/11,Norway,2817,Strømsgodset 
+"Aug 1, 2015",?,Montenegro,12889,OFK Petrovac ,61095,100 Th. €,Mehmed Divanovic,15/16,Montenegro,15588,FK Otrant Ulcinj 
+"Jan 1, 2015",-,Montenegro,515,Unattached ,61095,100 Th. €,Mehmed Divanovic,14/15,,12889,OFK Petrovac 
+"Jun 28, 2014",-,Montenegro,4639,Mornar Bar ,61095,100 Th. €,Mehmed Divanovic,13/14,,515,Unattached 
+"Jan 1, 2013",?,Norway,10217,Sarpsborg 08 ,61095,100 Th. €,Mehmed Divanovic,12/13,Montenegro,4639,Mornar Bar 
+"Aug 1, 2010",?,Montenegro,12889,OFK Petrovac ,61095,-,Mehmed Divanovic,10/11,Norway,10217,Sarpsborg 08 
+"Jan 1, 2015",Free transfer,Norway,6390,Alta IF ,42155,-,Martin André Mathisen,14/15,Norway,39556,Bossekop UL 
+"Jan 1, 2013",?,Norway,13019,Kvik Halden ,42155,-,Martin André Mathisen,12/13,Norway,6390,Alta IF 
+"Jan 1, 2012",?,Norway,10217,Sarpsborg 08 ,42155,50 Th. €,Martin André Mathisen,11/12,Norway,13019,Kvik Halden 
+"Jan 1, 2011",,Norway,19848,Sarpsborg08 U19 ,42155,50 Th. €,Martin André Mathisen,10/11,Norway,13019,Kvik Halden 
+"Jan 4, 2016",Free transfer,Norway,501,FK Bodø/Glimt ,182956,700 Th. €,Vieux Sané,15/16,France,3911,Stade Brest 29 
+"Feb 1, 2012",?,Senegal,28578,Diambars ,182956,100 Th. €,Vieux Sané,11/12,Norway,501,FK Bodø/Glimt 
+"Dec 31, 2011",End of loan,Norway,1293,Tromsö ,182956,100 Th. €,Vieux Sané,11/12,Senegal,28578,Diambars 
+"Aug 1, 2011",Loan,Senegal,28578,Diambars ,182956,150 Th. €,Vieux Sané,11/12,Norway,1293,Tromsö 
+"Jul 1, 2012",Free transfer,Greece,265,Panathinaikos ,30386,"1,50 Mill. €",Mattias Bjärsmyr,12/13,Sweden,801,IFK Göteborg 
+"Jun 30, 2011",End of loan,Norway,195,Rosenborg BK ,30386,"2,00 Mill. €",Mattias Bjärsmyr,10/11,Greece,265,Panathinaikos 
+"Aug 1, 2010",Loan fee:200 Th. €,Greece,265,Panathinaikos ,30386,"2,50 Mill. €",Mattias Bjärsmyr,10/11,Norway,195,Rosenborg BK 
+"Jul 1, 2009",450 Th. €,Sweden,801,IFK Göteborg ,30386,"1,50 Mill. €",Mattias Bjärsmyr,09/10,Greece,265,Panathinaikos 
+"Jan 1, 2005",Free transfer,Sweden,7556,Husqvarna FF ,30386,-,Mattias Bjärsmyr,04/05,Sweden,801,IFK Göteborg 
+"Jan 20, 2016",Free transfer,Norway,7175,Follo FK ,146803,100 Th. €,Alexander Ruud Tveter,15/16,Sweden,1011,Halmstads BK 
+"Apr 5, 2013",?,Norway,3837,Fredrikstad ,146803,200 Th. €,Alexander Ruud Tveter,12/13,Norway,7175,Follo FK 
+"Jan 1, 2011",?,Norway,7175,Follo FK ,146803,275 Th. €,Alexander Ruud Tveter,10/11,Norway,3837,Fredrikstad 
+"Feb 22, 2016",Free transfer,Norway,2761,FK Haugesund ,43706,600 Th. €,Daniel Bamberg,15/16,Iceland,3737,Breidablik 
+"Mar 30, 2013",?,Sweden,1056,Örebro SK ,43706,"1,20 Mill. €",Daniel Bamberg,12/13,Norway,2761,FK Haugesund 
+"Jan 1, 2012",?,Norway,2761,FK Haugesund ,43706,"1,20 Mill. €",Daniel Bamberg,11/12,Sweden,1056,Örebro SK 
+"Feb 1, 2011",Free transfer,Sweden,2844,IFK Norrköping ,43706,325 Th. €,Daniel Bamberg,10/11,Norway,2761,FK Haugesund 
+"Feb 1, 2007",End of loan,Brazil,4064,Figueirense FC ,43706,-,Daniel Bamberg,06/07,Sweden,2844,IFK Norrköping 
+"Jan 1, 2007",Loan,Sweden,2844,IFK Norrköping ,43706,-,Daniel Bamberg,06/07,Brazil,4064,Figueirense FC 
+"Jan 31, 2015",?,Norway,267,Start ,195274,600 Th. €,Zlatko Tripic,14/15,Germany,65,Greuther Fürth 
+"Mar 13, 2014",?,Norway,687,Molde FK ,195274,200 Th. €,Zlatko Tripic,13/14,Norway,267,Start 
+"Dec 31, 2012",End of loan,Norway,3837,Fredrikstad ,195274,200 Th. €,Zlatko Tripic,12/13,Norway,687,Molde FK 
+"Aug 2, 2012",Loan,Norway,687,Molde FK ,195274,250 Th. €,Zlatko Tripic,12/13,Norway,3837,Fredrikstad 
+"Aug 1, 2011",?,Norway,2692,Egersunds IK ,195274,-,Zlatko Tripic,11/12,Norway,687,Molde FK 
+"Jan 1, 2014",Free transfer,Norway,353,Lilleström SK ,208587,200 Th. €,Marius Höibraten,13/14,Norway,2817,Strømsgodset 
+"Dec 31, 2012",End of loan,Norway,17647,Strømmen IF ,208587,50 Th. €,Marius Höibraten,12/13,Norway,353,Lilleström SK 
+"Aug 30, 2012",Loan,Norway,353,Lilleström SK ,208587,50 Th. €,Marius Höibraten,12/13,Norway,17647,Strømmen IF 
+"Jan 1, 2012",-,Norway,15678,Lillestrøm SK U19 ,208587,-,Marius Höibraten,11/12,Norway,353,Lilleström SK 
+"Jan 1, 2013",Free transfer,Norway,239,Viking ,37063,100 Th. €,Björn Andersson,12/13,Sweden,7009,GAIS Göteborg 
+"Jan 1, 2011",Free transfer,Sweden,7009,GAIS Göteborg ,37063,200 Th. €,Björn Andersson,10/11,Norway,239,Viking 
+"Jan 1, 2008",?,Sweden,8884,Qviding FIF ,37063,25 Th. €,Björn Andersson,07/08,Sweden,7009,GAIS Göteborg 
+"Jan 1, 2006",?,Sweden,9015,Trollhättan ,37063,-,Björn Andersson,05/06,Sweden,8884,Qviding FIF 
+"Jan 1, 2016",Free transfer,Sweden,1011,Halmstads BK ,38089,450 Th. €,James Keene,15/16,South Africa,10680,Bidvest Wits FC 
+"Apr 23, 2015",-,Sweden,515,Unattached ,38089,600 Th. €,James Keene,14/15,,1011,Halmstads BK 
+"Jan 1, 2015",-,India,45276,NorthEast Utd. ,38089,600 Th. €,James Keene,14/15,,515,Unattached 
+"Sep 1, 2014",Free transfer,Israel,9095,Bnei Yehuda ,38089,600 Th. €,James Keene,14/15,India,45276,NorthEast Utd. 
+"Jan 24, 2014",?,Sweden,1101,IF Elfsborg ,38089,600 Th. €,James Keene,13/14,Israel,9095,Bnei Yehuda 
+"Mar 3, 2013",End of loan,England,1020,Portsmouth FC ,38089,500 Th. €,James Keene,12/13,Sweden,1101,IF Elfsborg 
+"Jan 10, 2013",Loan,Sweden,1101,IF Elfsborg ,38089,500 Th. €,James Keene,12/13,England,1020,Portsmouth FC 
+"Dec 1, 2012",End of loan,Sweden,1044,Djurgardens IF ,38089,500 Th. €,James Keene,12/13,Sweden,1101,IF Elfsborg 
+"Apr 5, 2012",Loan,Sweden,1101,IF Elfsborg ,38089,300 Th. €,James Keene,11/12,Sweden,1044,Djurgardens IF 
+"Jan 1, 2012",End of loan,Norway,3837,Fredrikstad ,38089,300 Th. €,James Keene,11/12,Sweden,1101,IF Elfsborg 
+"Jul 1, 2011",Loan,Sweden,1101,IF Elfsborg ,38089,500 Th. €,James Keene,11/12,Norway,3837,Fredrikstad 
+"Jan 1, 2007",?,England,1020,Portsmouth FC ,38089,950 Th. €,James Keene,06/07,Sweden,1101,IF Elfsborg 
+"Dec 1, 2006",End of loan,Sweden,7009,GAIS Göteborg ,38089,950 Th. €,James Keene,06/07,England,1020,Portsmouth FC 
+"Mar 1, 2006",Loan,England,1020,Portsmouth FC ,38089,75 Th. €,James Keene,05/06,Sweden,7009,GAIS Göteborg 
+"Feb 13, 2006",End of loan,England,3489,Boston United ,38089,-,James Keene,05/06,England,1020,Portsmouth FC 
+"Jan 13, 2006",Loan,England,1020,Portsmouth FC ,38089,-,James Keene,05/06,England,3489,Boston United 
+"Dec 13, 2005",End of loan,England,989,Bournemouth ,38089,-,James Keene,05/06,England,1020,Portsmouth FC 
+"Sep 13, 2005",Loan,England,1020,Portsmouth FC ,38089,-,James Keene,05/06,England,989,Bournemouth 
+"Nov 28, 2004",End of loan,England,1195,Kidderminster ,38089,-,James Keene,04/05,England,1020,Portsmouth FC 
+"Oct 22, 2004",Loan,England,1020,Portsmouth FC ,38089,-,James Keene,04/05,England,1195,Kidderminster 
+"Oct 1, 2004",End of loan,England,35007,AFC Newbury ,38089,-,James Keene,04/05,England,1020,Portsmouth FC 
+"Sep 1, 2004",Loan,England,1020,Portsmouth FC ,38089,-,James Keene,04/05,England,35007,AFC Newbury 
+"Jul 1, 2004",-,England,6939,Portsmouth U18 ,38089,-,James Keene,04/05,England,1020,Portsmouth FC 
+"Jan 1, 2014",Free transfer,Norway,35537,FK Senja ,147658,50 Th. €,Steffen Andreassen,13/14,,75,Unknown 
+"Jan 1, 2013",?,Norway,1293,Tromsö ,147658,50 Th. €,Steffen Andreassen,12/13,Norway,35537,FK Senja 
+"Jan 1, 2011",?,Norway,8442,Tromsdalen UIL ,147658,75 Th. €,Steffen Andreassen,10/11,Norway,1293,Tromsö 
+"Feb 1, 2013",?,Norway,353,Lilleström SK ,201591,50 Th. €,Effiom Otu-Bassey,12/13,,75,Unknown 
+"Dec 31, 2012",End of loan,Norway,75,Unknown ,201591,150 Th. €,Effiom Otu-Bassey,12/13,,353,Lilleström SK 
+"Mar 1, 2012",Loan,Norway,353,Lilleström SK ,201591,150 Th. €,Effiom Otu-Bassey,11/12,,75,Unknown 
+"Aug 1, 2011",?,Norway,75,Unknown ,201591,-,Effiom Otu-Bassey,11/12,,353,Lilleström SK 
+"Jan 1, 2013",-,Norway,2038,Sogndal ,147664,50 Th. €,Joakim Rudolfsen,12/13,,515,Unattached 
+"Jan 1, 2010",?,Norway,16633,Mo ,147664,-,Joakim Rudolfsen,09/10,Norway,2038,Sogndal 
+"Jan 21, 2013",?,Norway,36224,FK Jerv ,191187,-,Emil Røkke,12/13,Norway,13445,Strindheim IL 
+"Aug 31, 2012",?,Norway,12847,RBK U19 ,191187,-,Emil Røkke,12/13,Norway,36224,FK Jerv 
+"Dec 31, 2013",End of loan,Iceland,3237,KR Reykjavík ,153430,100 Th. €,Jonas Grönner,13/14,Norway,1100,SK Brann 
+"Jul 27, 2013",Loan,Norway,1100,SK Brann ,153430,100 Th. €,Jonas Grönner,13/14,Iceland,3237,KR Reykjavík 
+"May 31, 2012",-,Norway,15691,SK Brann U19 ,153430,-,Jonas Grönner,11/12,Norway,1100,SK Brann 
+"Jan 1, 2011",-,Norway,15691,SK Brann U19 ,187172,-,Kristoffer Barmen,10/11,Norway,1100,SK Brann 
+"May 31, 2016",End of loan,Scotland,903,Hibernian FC ,180442,500 Th. €,Niklas Gunnarsson,15/16,Norway,76,Valerenga 
+"Jan 5, 2016",Loan,Norway,76,Valerenga ,180442,500 Th. €,Niklas Gunnarsson,15/16,Scotland,903,Hibernian FC 
+"Nov 30, 2015",End of loan,Sweden,1101,IF Elfsborg ,180442,500 Th. €,Niklas Gunnarsson,15/16,Norway,76,Valerenga 
+"Jul 31, 2015",Loan,Norway,76,Valerenga ,180442,500 Th. €,Niklas Gunnarsson,15/16,Sweden,1101,IF Elfsborg 
+"Jan 1, 2014",Free transfer,Norway,1058,Odds BK ,180442,400 Th. €,Niklas Gunnarsson,13/14,Norway,76,Valerenga 
+"Feb 1, 2010",?,Norway,6037,Pors Grenland ,180442,-,Niklas Gunnarsson,09/10,Norway,1058,Odd Grenland 
+"Jan 1, 2016",-,Sweden,1011,Halmstads BK ,46813,400 Th. €,King Gyan,15/16,,515,Unattached 
+"Feb 11, 2014",Free transfer,Norway,239,Viking ,46813,200 Th. €,King Gyan,13/14,Sweden,1011,Halmstads BK 
+"Mar 1, 2011",?,Norway,515,Unattached ,46813,200 Th. €,King Gyan,10/11,,239,Viking 
+"Jul 1, 2010",-,England,931,Fulham FC ,46813,300 Th. €,King Gyan,10/11,,515,Unattached 
+"May 1, 2010",End of loan,Belgium,566,Germinal Beersch ,46813,300 Th. €,King Gyan,09/10,England,931,Fulham FC 
+"Jul 1, 2006",Loan,England,931,Fulham FC ,46813,-,King Gyan,06/07,Belgium,566,Germinal Beersch 
+"Jul 1, 2015",Free transfer,Norway,239,Viking ,181985,800 Th. €,Veton Berisha,15/16,Germany,65,Greuther Fürth 
+"Jan 1, 2011",?,Norway,2692,Egersunds IK ,181985,-,Veton Berisha,10/11,Norway,239,Viking 
+"Jan 6, 2016",Free transfer,Norway,267,Start ,162536,100 Th. €,Jörgen Hammer,15/16,Norway,23184,KFUM Oslo 
+"Aug 18, 2015",?,Norway,1274,Stabaek IF ,162536,100 Th. €,Jörgen Hammer,15/16,Norway,267,Start 
+"Jan 1, 2010",-,Norway,17331,Stabaek IF U19 ,162536,-,Jörgen Hammer,09/10,Norway,1274,Stabaek IF 
+"Jan 1, 2011",?,Norway,8996,Løv-Ham ,73450,250 Th. €,Fredrik Haugen,10/11,Norway,1100,SK Brann 
+"Jan 1, 2008",-,Norway,19354,Løv-Ham U19 ,73450,-,Fredrik Haugen,07/08,Norway,8996,Løv-Ham 
+"Mar 25, 2016",Free transfer,Norway,632,Hönefoss ,158445,100 Th. €,Ugonna Anyora,15/16,Sweden,4380,Assyriska FF 
+"Feb 18, 2015",Free transfer,Norway,2761,FK Haugesund ,158445,500 Th. €,Ugonna Anyora,14/15,Norway,632,Hönefoss 
+"Jul 1, 2010",Free transfer,Nigeria,19935,Enugu Rang. U19 ,158445,-,Ugonna Anyora,10/11,Norway,2761,FK Haugesund 
+"Mar 30, 2016",Free transfer,Norway,239,Viking ,73455,200 Th. €,Aleksander Solli,15/16,Norway,3692,Raufoss IL 
+"Aug 14, 2015",?,Norway,632,Hönefoss ,73455,300 Th. €,Aleksander Solli,15/16,Norway,239,Viking 
+"Feb 18, 2013",Free transfer,Norway,76,Valerenga ,73455,50 Th. €,Aleksander Solli,12/13,Norway,632,Hönefoss 
+"Jan 1, 2011",?,Norway,8996,Løv-Ham ,73455,175 Th. €,Aleksander Solli,10/11,Norway,76,Valerenga 
+"Feb 1, 2008",?,Norway,75,Unknown ,73455,-,Aleksander Solli,07/08,,8996,Løv-Ham 
+"Aug 18, 2015",?,Norway,36224,FK Jerv ,205523,50 Th. €,Henrik Dahlum,15/16,Norway,11221,Flekkeroy IF 
+"Jan 6, 2014",Free transfer,Norway,267,Start ,205523,50 Th. €,Henrik Dahlum,13/14,Norway,36224,FK Jerv 
+"Jan 1, 2012",-,Norway,15692,IK Start U19 ,205523,75 Th. €,Henrik Dahlum,11/12,Norway,267,Start 
+"Jan 1, 2012",Free transfer,Sweden,1011,Halmstads BK ,41717,400 Th. €,Robin Malmkvist,11/12,Sweden,4380,Assyriska FF 
+"Dec 1, 2011",End of loan,Norway,1293,Tromsö ,41717,500 Th. €,Robin Malmkvist,11/12,Sweden,1011,Halmstads BK 
+"Mar 1, 2011",Loan,Sweden,1011,Halmstads BK ,41717,500 Th. €,Robin Malmkvist,10/11,Norway,1293,Tromsö 
+"Jan 1, 2010",Free transfer,Sweden,1236,Östers IF ,41717,300 Th. €,Robin Malmkvist,09/10,Sweden,1011,Halmstads BK 
+"Aug 1, 2005",-,Sweden,8767,Östers Växjö IF U19 ,41717,-,Robin Malmkvist,05/06,Sweden,1236,Östers IF 
+"Jan 10, 2016",Free transfer,Norway,36218,Drammen FK ,187638,50 Th. €,Behajdin Celina,15/16,Norway,13261,Asker FH 
+"Jan 1, 2014",?,Norway,35061,Birkebeineren ,187638,50 Th. €,Behajdin Celina,13/14,Norway,36218,Drammen FK 
+"Jan 1, 2013",?,Norway,15693,Strømsgodset IF U19 ,187638,50 Th. €,Behajdin Celina,12/13,Norway,35061,Birkebeineren 
+"Jan 1, 2015",?,Norway,36224,FK Jerv ,156922,50 Th. €,Jonas Werner,14/15,,75,Unknown 
+"Aug 1, 2014",?,Norway,11221,Flekkeroy IF ,156922,50 Th. €,Jonas Werner,14/15,Norway,36224,FK Jerv 
+"Jan 1, 2013",?,Norway,75,Unknown ,156922,50 Th. €,Jonas Werner,12/13,,11221,Flekkeroy IF 
+"Jan 1, 2012",-,Norway,267,Start ,156922,50 Th. €,Jonas Werner,11/12,,75,Unknown 
+"Jan 13, 2015",Free transfer,Norway,13274,Nest-Sotra IL ,123132,100 Th. €,Kevin Duré,14/15,Norway,14761,Asane Fotball 
+"Jul 23, 2014",Free transfer,Norway,3837,Fredrikstad ,123132,300 Th. €,Kevin Duré,13/14,Norway,13274,Nest-Sotra IL 
+"Sep 1, 2011",?,Norway,8996,Løv-Ham ,123132,125 Th. €,Kevin Duré,11/12,Norway,3837,Fredrikstad 
+"Jan 1, 2010",-,Norway,19354,Løv-Ham U19 ,123132,50 Th. €,Kevin Duré,09/10,Norway,8996,Løv-Ham 
+"Jan 1, 2013",?,Norway,10217,Sarpsborg 08 ,173473,100 Th. €,Erik Jonvik,12/13,Norway,23184,KFUM Oslo 
+"Jan 1, 2011",?,Norway,6390,Alta IF ,73474,275 Th. €,Magnus Andersen,10/11,Norway,1293,Tromsö 
+"Jan 14, 2016",Free transfer,China,17238,SH Shenxin ,79619,600 Th. €,Michael Barrantes,15/16,China,6450,WH Zall 
+"Jun 25, 2015",350 Th. €,Norway,5619,Aalesunds FK ,79619,"1,00 Mill. €",Michael Barrantes,15/16,China,17238,SH Shenxin 
+"Aug 1, 2010",?,Costa Rica,4720,Saprissa ,79619,-,Michael Barrantes,10/11,Norway,5619,Aalesunds FK 
+"Jul 1, 2007",?,Costa Rica,9807,Puntarenas FC ,79619,-,Michael Barrantes,07/08,Costa Rica,4720,Saprissa 
+"Jul 1, 2005",?,Costa Rica,18574,Belén ,79619,-,Michael Barrantes,05/06,Costa Rica,9807,Puntarenas FC 
+"Jul 1, 2004",?,Costa Rica,18628,Ramonense ,79619,-,Michael Barrantes,04/05,Costa Rica,18574,Belén 
+"Dec 21, 2015",Free transfer,United States,11141,Toronto ,168713,400 Th. €,Joe Bendik,15/16,United States,45604,Orlando 
+"Dec 12, 2012",Swap deal,United States,4291,Timbers ,168713,100 Th. €,Joe Bendik,12/13,United States,11141,Toronto 
+"Feb 1, 2012",Free transfer,Norway,2038,Sogndal ,168713,75 Th. €,Joe Bendik,11/12,United States,4291,Timbers 
+"Mar 1, 2010",-,Norway,515,Unattached ,168713,-,Joe Bendik,09/10,,2038,Sogndal 
+"Jan 1, 2010",-,United States,2934,Clemson Tigers ,168713,-,Joe Bendik,09/10,,515,Unattached 
+"Dec 31, 2015",End of loan,Norway,11338,Mjøndalen IF ,205586,100 Th. €,Tokmac Chol Nguen,15/16,Norway,2817,Strømsgodset 
+"Aug 11, 2015",Loan,Norway,2817,Strømsgodset ,205586,50 Th. €,Tokmac Chol Nguen,15/16,Norway,11338,Mjøndalen IF 
+"Dec 31, 2014",End of loan,Norway,2555,Baerum SK ,205586,50 Th. €,Tokmac Chol Nguen,14/15,Norway,2817,Strømsgodset 
+"Aug 6, 2014",Loan,Norway,2817,Strømsgodset ,205586,50 Th. €,Tokmac Chol Nguen,14/15,Norway,2555,Baerum SK 
+"Jul 11, 2011",?,Norway,36218,Drammen FK ,205586,-,Tokmac Chol Nguen,11/12,Norway,2817,Strømsgodset 
+"Mar 15, 2014",?,Norway,10217,Sarpsborg 08 ,186644,"1,00 Mill. €",Mohamed Elyounoussi,13/14,Norway,687,Molde FK 
+"Jan 1, 2011",-,Norway,19848,Sarpsborg08 U19 ,186644,-,Mohamed Elyounoussi,10/11,Norway,10217,Sarpsborg 08 
+"Feb 25, 2016",?,Norway,36486,Arendal Fotball ,205529,50 Th. €,Dardan Dreshaj,15/16,Norway,7175,Follo FK 
+"Feb 6, 2015",?,Norway,35030,Fram Larvik ,205529,50 Th. €,Dardan Dreshaj,14/15,Norway,36486,Arendal Fotball 
+"Feb 19, 2014",Free transfer,Norway,11221,Flekkeroy IF ,205529,50 Th. €,Dardan Dreshaj,13/14,Norway,35030,Fram Larvik 
+"Mar 20, 2013",Free transfer,Norway,267,Start ,205529,50 Th. €,Dardan Dreshaj,12/13,Norway,11221,Flekkeroy IF 
+"Apr 1, 2012",-,Norway,15692,IK Start U19 ,205529,-,Dardan Dreshaj,11/12,Norway,267,Start 
+"Jul 1, 2016",Free transfer,Costa Rica,2677,Herediano ,111898,275 Th. €,Dave Myrie,16/17,,75,Unknown 
+"Jul 1, 2013",?,Costa Rica,35060,CS Uruguay ,111898,225 Th. €,Dave Myrie,13/14,Costa Rica,2677,Herediano 
+"Jul 1, 2012",?,Costa Rica,26103,Limón FC ,111898,175 Th. €,Dave Myrie,12/13,Costa Rica,35060,CS Uruguay 
+"Jan 1, 2012",Free transfer,Norway,3837,Fredrikstad ,111898,50 Th. €,Dave Myrie,11/12,Costa Rica,26103,Limón FC 
+"Aug 1, 2011",?,Costa Rica,26103,Limón FC ,111898,50 Th. €,Dave Myrie,11/12,Norway,3837,Fredrikstad 
+"Mar 1, 2010",?,United States,25467,Philadelphia ,111898,-,Dave Myrie,09/10,Costa Rica,26103,Limón FC 
+"Nov 1, 2009",Free transfer,United States,432,Chicago ,111898,-,Dave Myrie,09/10,United States,25467,Philadelphia 
+"Jul 1, 2009",?,Costa Rica,6478,LD Alajuelense ,111898,-,Dave Myrie,09/10,United States,432,Chicago 
+"Jul 1, 2008",?,Costa Rica,9807,Puntarenas FC ,111898,-,Dave Myrie,08/09,Costa Rica,6478,LD Alajuelense 
+"Jul 1, 2007",?,Spain,2687,Cádiz CF ,111898,-,Dave Myrie,07/08,Costa Rica,9807,Puntarenas FC 
+"Jan 1, 2013",-,Norway,15664,Fredrikstad FK U19 ,185630,-,Havard Asheim,12/13,Norway,3837,Fredrikstad 
+"Jan 1, 2010",?,Norway,75,Unknown ,185630,-,Havard Asheim,09/10,,15664,Fredrikstad FK U19 
+"Jan 1, 2014",?,Norway,13445,Strindheim IL ,185631,-,Andreas Leirvik,13/14,Norway,35580,Nardo FK 
+"Aug 14, 2013",?,Norway,36245,SK Traeff ,185631,-,Andreas Leirvik,13/14,Norway,13445,Strindheim IL 
+"Jan 1, 2013",?,Norway,35022,Molde FK II ,185631,-,Andreas Leirvik,12/13,Norway,36245,SK Traeff 
+"Aug 1, 2012",?,Norway,17331,Stabaek IF U19 ,185631,-,Andreas Leirvik,12/13,Norway,35022,Molde FK II 
+"Jan 1, 2016",Free transfer,Norway,3837,Fredrikstad ,185632,25 Th. €,Simen Standerholen,15/16,,75,Unknown 
+"Dec 31, 2012",End of loan,Norway,13450,Østsiden IL ,185632,50 Th. €,Simen Standerholen,12/13,Norway,3837,Fredrikstad 
+"Aug 9, 2012",Loan,Norway,3837,Fredrikstad ,185632,50 Th. €,Simen Standerholen,12/13,Norway,13450,Østsiden IL 
+"Jan 1, 2012",-,Norway,15664,Fredrikstad FK U19 ,185632,-,Simen Standerholen,11/12,Norway,3837,Fredrikstad 
+"Jan 1, 2012",?,Norway,15664,Fredrikstad FK U19 ,185633,-,Sanpreet Singh,11/12,Norway,12534,Dröbak-Frogn IK 
+"Jan 1, 2010",?,Norway,12534,Dröbak-Frogn IK ,185633,-,Sanpreet Singh,09/10,Norway,15664,Fredrikstad FK U19 
+"Jan 1, 2012",-,Norway,1274,Stabaek IF ,183586,-,Pal Henning Albertsen,11/12,,123,End of career 
+"Jul 30, 2015",?,Norway,35030,Fram Larvik ,73507,200 Th. €,Lars Grorud,15/16,Norway,6399,Sandefjord 
+"Jan 1, 2015",Free transfer,Norway,3837,Fredrikstad ,73507,200 Th. €,Lars Grorud,14/15,Norway,35030,Fram Larvik 
+"Aug 9, 2012",?,Norway,1100,SK Brann ,73507,250 Th. €,Lars Grorud,12/13,Norway,3837,Fredrikstad 
+"Jan 1, 2011",?,Norway,2038,Sogndal ,73507,350 Th. €,Lars Grorud,10/11,Norway,1100,SK Brann 
+"Jan 1, 2008",?,Norway,1259,FK Tönsberg ,73507,-,Lars Grorud,07/08,Norway,2038,Sogndal 
+"Jan 1, 2014",?,Norway,1274,Stabaek IF ,183588,500 Th. €,Herman Stengel,13/14,Norway,76,Valerenga 
+"Jul 1, 2011",-,Norway,17331,Stabaek IF U19 ,183588,-,Herman Stengel,11/12,Norway,1274,Stabaek IF 
+"Jan 1, 2015",Free transfer,Norway,36240,Øystese IL ,187173,-,Lars Waage Hansen,14/15,Norway,36215,Avaldsnes IL 
+"Jan 1, 2013",Free transfer,Norway,14761,Asane Fotball ,187173,-,Lars Waage Hansen,12/13,Norway,36240,Øystese IL 
+"Jan 1, 2012",Free transfer,Norway,35019,FK Haugesund II ,187173,-,Lars Waage Hansen,11/12,Norway,14761,Asane Fotball 
+"Jan 1, 2011",-,Norway,19842,Haugesund U19 ,187173,-,Lars Waage Hansen,10/11,Norway,35019,FK Haugesund II 
+"Aug 1, 2014",?,Norway,1057,Bryne FK ,187175,50 Th. €,Eirik Jakobsen,14/15,Norway,6216,FK Vidar 
+"Jan 1, 2013",?,Norway,10913,Viking FK II ,187175,50 Th. €,Eirik Jakobsen,12/13,Norway,1057,Bryne FK 
+"Dec 31, 2012",End of loan,Norway,1057,Bryne FK ,187175,50 Th. €,Eirik Jakobsen,12/13,Norway,10913,Viking FK II 
+"Aug 22, 2012",Loan,Norway,10913,Viking FK II ,187175,50 Th. €,Eirik Jakobsen,12/13,Norway,1057,Bryne FK 
+"Jan 1, 2011",-,Norway,15701,Viking FK U19 ,187175,-,Eirik Jakobsen,10/11,Norway,10913,Viking FK II 
+"Jan 9, 2016",?,Norway,10217,Sarpsborg 08 ,208680,50 Th. €,Christian Sukke,15/16,Norway,2961,Moss FK 
+"Dec 31, 2015",End of loan,Norway,9987,Ullensaker/Kisa ,208680,50 Th. €,Christian Sukke,15/16,Norway,10217,Sarpsborg 08 
+"Aug 12, 2015",Loan,Norway,10217,Sarpsborg 08 ,208680,100 Th. €,Christian Sukke,15/16,Norway,9987,Ullensaker/Kisa 
+"Aug 11, 2015",End of loan,Norway,2038,Sogndal ,208680,100 Th. €,Christian Sukke,15/16,Norway,10217,Sarpsborg 08 
+"Mar 26, 2015",Loan,Norway,10217,Sarpsborg 08 ,208680,100 Th. €,Christian Sukke,14/15,Norway,2038,Sogndal 
+"Jan 1, 2013",-,Norway,19848,Sarpsborg08 U19 ,208680,-,Christian Sukke,12/13,Norway,10217,Sarpsborg 08 
+"Jan 1, 2014",Free transfer,Norway,1274,Stabaek IF ,161578,25 Th. €,Erik Benjaminsen,13/14,Norway,36234,Lommedalen 
+"Aug 1, 2010",-,Norway,17331,Stabaek IF U19 ,161578,-,Erik Benjaminsen,10/11,Norway,1274,Stabaek IF 
+"Jan 1, 2015",?,Estonia,1002,FC Flora ,48939,125 Th. €,Sander Post,14/15,Estonia,32395,JK Viljandi 
+"Feb 11, 2013",Free transfer,Norway,5619,Aalesunds FK ,48939,300 Th. €,Sander Post,12/13,Estonia,1002,FC Flora 
+"Mar 1, 2011",100 Th. €,Estonia,1002,FC Flora ,48939,450 Th. €,Sander Post,10/11,Norway,5619,Aalesunds FK 
+"Jun 30, 2010",End of loan,Netherlands,1435,Go Ahead Eagles ,48939,175 Th. €,Sander Post,09/10,Estonia,1002,FC Flora 
+"Aug 1, 2008",Loan fee:60 Th. €,Estonia,1002,FC Flora ,48939,-,Sander Post,08/09,Netherlands,1435,Go Ahead Eagles 
+"Mar 30, 2006",End of loan,Denmark,443,Vejle BK ,48939,-,Sander Post,05/06,Estonia,1002,FC Flora 
+"Jul 1, 2005",Loan,Estonia,1002,FC Flora ,48939,-,Sander Post,05/06,Denmark,443,Vejle BK 
+"Jun 30, 2005",End of loan,Estonia,19329,Tervis Pärnu ,48939,-,Sander Post,04/05,Estonia,1002,FC Flora 
+"Jan 1, 2005",Loan,Estonia,1002,FC Flora ,48939,-,Sander Post,04/05,Estonia,19329,Tervis Pärnu 
+"Jul 1, 2004",?,Estonia,32395,JK Viljandi ,48939,-,Sander Post,04/05,Estonia,1002,FC Flora 
+"Jul 1, 2003",?,Estonia,19327,FC Elva ,48939,-,Sander Post,03/04,Estonia,32395,JK Viljandi 
+"Jan 8, 2016",Free transfer,Norway,36218,Drammen FK ,183599,50 Th. €,Hermann Rhodén,15/16,Norway,36228,Grorud IL 
+"Jan 1, 2015",?,Norway,2817,Strømsgodset ,183599,50 Th. €,Hermann Rhodén,14/15,Norway,36218,Drammen FK 
+"Dec 31, 2014",End of loan,Norway,36218,Drammen FK ,183599,50 Th. €,Hermann Rhodén,14/15,Norway,2817,Strømsgodset 
+"Mar 1, 2014",Loan,Norway,2817,Strømsgodset ,183599,50 Th. €,Hermann Rhodén,13/14,Norway,36218,Drammen FK 
+"Dec 31, 2012",End of loan,Norway,40064,Vestfossen IF ,183599,50 Th. €,Hermann Rhodén,12/13,Norway,2817,Strømsgodset 
+"Mar 1, 2012",Loan,Norway,2817,Strømsgodset ,183599,50 Th. €,Hermann Rhodén,11/12,Norway,40064,Vestfossen IF 
+"Jun 30, 2016",End of loan,Czech Republic,697,Slovan Liberec ,125751,"1,25 Mill. €",Herolind Shala,15/16,Czech Republic,197,Sparta Praha 
+"Jul 24, 2015",Loan,Czech Republic,197,Sparta Praha ,125751,"1,25 Mill. €",Herolind Shala,15/16,Czech Republic,697,Slovan Liberec 
+"Jan 11, 2015",Free transfer,Norway,1058,Odds BK ,125751,"1,10 Mill. €",Herolind Shala,14/15,Czech Republic,197,Sparta Praha 
+"Aug 1, 2011",?,Norway,19844,Notodden FK U19 ,125751,50 Th. €,Herolind Shala,11/12,Norway,1058,Odd Grenland 
+"Jan 1, 2012",40 Th. €,Estonia,5771,Levadia ,42808,250 Th. €,Taijo Teniste,11/12,Norway,2038,Sogndal 
+"Dec 1, 2011",End of loan,Norway,2038,Sogndal ,42808,300 Th. €,Taijo Teniste,11/12,Estonia,5771,Levadia 
+"Aug 1, 2011",Loan,Estonia,5771,Levadia ,42808,300 Th. €,Taijo Teniste,11/12,Norway,2038,Sogndal 
+"Jan 1, 2008",-,Estonia,25562,Levadia II ,42808,-,Taijo Teniste,07/08,Estonia,5771,Levadia 
+"Jan 1, 2005",?,Estonia,29667,Tartu SK 10 ,42808,-,Taijo Teniste,04/05,Estonia,25562,Levadia II 
+"Jul 20, 2015",?,Norway,239,Viking ,163642,"1,20 Mill. €",Yann-Erik de Lanlay,15/16,Norway,195,Rosenborg BK 
+"Jan 1, 2010",-,Norway,15701,Viking FK U19 ,163642,-,Yann-Erik de Lanlay,09/10,Norway,239,Viking 
+"Aug 18, 2011",?,Norway,75,Unknown ,202043,-,Ruben Holsaeter,11/12,,2038,Sogndal 
+"Jan 22, 2014",?,Norway,3837,Fredrikstad ,45887,400 Th. €,Andreas Landgren,13/14,Sweden,699,Helsingborgs IF 
+"Dec 1, 2013",End of loan,Sweden,1011,Halmstads BK ,45887,400 Th. €,Andreas Landgren,13/14,Norway,3837,Fredrikstad 
+"Apr 2, 2013",Loan,Norway,3837,Fredrikstad ,45887,400 Th. €,Andreas Landgren,12/13,Sweden,1011,Halmstads BK 
+"Jan 1, 2012",?,Italy,410,Udinese Calcio ,45887,500 Th. €,Andreas Landgren,11/12,Norway,3837,Fredrikstad 
+"Dec 1, 2011",End of loan,Norway,3837,Fredrikstad ,45887,700 Th. €,Andreas Landgren,11/12,Italy,410,Udinese Calcio 
+"Aug 1, 2011",Loan,Italy,410,Udinese Calcio ,45887,700 Th. €,Andreas Landgren,11/12,Norway,3837,Fredrikstad 
+"Jun 30, 2011",End of loan,Netherlands,403,Willem II ,45887,700 Th. €,Andreas Landgren,10/11,Italy,410,Udinese Calcio 
+"Jul 1, 2010",Loan,Italy,10959,Udinese U19 ,45887,"1,00 Mill. €",Andreas Landgren,10/11,Netherlands,403,Willem II 
+"Jan 1, 2010",Free transfer,Sweden,699,Helsingborgs IF ,45887,"1,00 Mill. €",Andreas Landgren,09/10,Italy,10959,Udinese U19 
+"Jan 1, 2007",-,Sweden,8659,Helsingborg U19 ,45887,-,Andreas Landgren,06/07,Sweden,699,Helsingborgs IF 
+"Jan 1, 2010",?,Norway,75,Unknown ,183617,-,Kristoffer Haraldseid,09/10,,2761,FK Haugesund 
+"Aug 1, 2011",-,Norway,14658,TromsÃ¸ IL U19 ,191810,-,William Frantzen,11/12,Norway,1293,TromsÃ¶ 
+"Aug 11, 2014",-,Ghana,502,Asante Kotoko ,9540,-,Isaac Boakye,14/15,,515,Unattached 
+"Dec 9, 2013",Free transfer,India,35267,Chirag United ,9540,-,Isaac Boakye,13/14,Ghana,502,Asante Kotoko 
+"Aug 1, 2011",Free transfer,Norway,76,Valerenga ,9540,600 Th. €,Isaac Boakye,11/12,India,35267,Chirag United 
+"Mar 1, 2011",-,Norway,515,Unattached ,9540,600 Th. €,Isaac Boakye,10/11,,76,Valerenga 
+"Jan 1, 2011",-,Germany,4,1.FC Nuremberg ,9540,600 Th. €,Isaac Boakye,10/11,,515,Unattached 
+"Aug 1, 2008",450 Th. €,Germany,82,VfL Wolfsburg ,9540,800 Th. €,Isaac Boakye,08/09,Germany,4,1.FC Nuremberg 
+"Jun 30, 2008",End of loan,Germany,39,1.FSV Mainz 05 ,9540,800 Th. €,Isaac Boakye,07/08,Germany,82,VfL Wolfsburg 
+"Jan 1, 2008",Loan fee:100 Th. €,Germany,82,VfL Wolfsburg ,9540,"1,50 Mill. €",Isaac Boakye,07/08,Germany,39,1.FSV Mainz 05 
+"Jul 1, 2006","1,20 Mill. €",Germany,10,Arm. Bielefeld ,9540,"2,80 Mill. €",Isaac Boakye,06/07,Germany,82,VfL Wolfsburg 
+"Aug 1, 2004",300 Th. €,Ghana,502,Asante Kotoko ,9540,-,Isaac Boakye,04/05,Germany,10,Arm. Bielefeld 
+"Jun 30, 2004",End of loan,Germany,10,Arm. Bielefeld ,9540,-,Isaac Boakye,03/04,Ghana,502,Asante Kotoko 
+"Jul 1, 2003",Loan fee:100 Th. €,Ghana,502,Asante Kotoko ,9540,-,Isaac Boakye,03/04,Germany,10,Arm. Bielefeld 
+"Jun 30, 2002",End of loan,Turkey,868,Ankaragücü ,9540,-,Isaac Boakye,01/02,Ghana,502,Asante Kotoko 
+"Jul 1, 2001",Loan,Ghana,502,Asante Kotoko ,9540,-,Isaac Boakye,01/02,Turkey,868,Ankaragücü 
+"Jan 19, 2015",Free transfer,Sweden,1236,Ã–sters IF ,36678,150 Th. â‚¬,Alexander Nadj,14/15,Sweden,1109,BK HÃ¤cken 
+"Mar 1, 2012",-,Sweden,515,Unattached ,36678,175 Th. â‚¬,Alexander Nadj,11/12,,1236,Ã–sters IF 
+"Sep 1, 2011",-,Norway,353,LillestrÃ¶m SK ,36678,175 Th. â‚¬,Alexander Nadj,11/12,,515,Unattached 
+"Mar 1, 2011",?,Sweden,7411,JÃ¶nkÃ¶ping ,36678,175 Th. â‚¬,Alexander Nadj,10/11,Norway,353,LillestrÃ¶m SK 
+"Jan 1, 2008",?,Sweden,801,IFK GÃ¶teborg ,36678,75 Th. â‚¬,Alexander Nadj,07/08,Sweden,7411,JÃ¶nkÃ¶ping 
+"Dec 1, 2007",End of loan,Norway,3692,Raufoss IL ,36678,75 Th. â‚¬,Alexander Nadj,07/08,Sweden,801,IFK GÃ¶teborg 
+"Mar 1, 2006",Loan,Sweden,801,IFK GÃ¶teborg ,36678,75 Th. â‚¬,Alexander Nadj,05/06,Norway,3692,Raufoss IL 
+"Jan 1, 2005",-,Sweden,8867,IFK U19 ,36678,-,Alexander Nadj,04/05,Sweden,801,IFK GÃ¶teborg 
+"Jan 1, 2012",?,Norway,10217,Sarpsborg 08 ,146759,150 Th. €,Joakim Eyde,11/12,,75,Unknown 
+"Jan 29, 2016",?,Norway,10217,Sarpsborg 08 ,167821,50 Th. €,Kamer Qaka,15/16,Norway,21101,Kristiansund BK 
+"Jan 28, 2015",?,Norway,632,Hönefoss ,167821,50 Th. €,Kamer Qaka,14/15,Norway,10217,Sarpsborg 08 
+"Feb 28, 2014",?,Norway,3692,Raufoss IL ,167821,100 Th. €,Kamer Qaka,13/14,Norway,632,Hönefoss 
+"Mar 1, 2013",?,Norway,15700,Valerenga U19 ,167821,100 Th. €,Kamer Qaka,12/13,Norway,3692,Raufoss IL 
+"Jan 14, 2015",Free transfer,Sweden,272,AIK Solna ,126294,"1,00 Mill. €",Lalawélé Atakora,14/15,Sweden,699,Helsingborgs IF 
+"Jun 30, 2014",End of loan,Turkey,20698,Balikesirspor ,126294,700 Th. €,Lalawélé Atakora,13/14,Sweden,272,AIK Solna 
+"Jul 29, 2013",Loan,Sweden,272,AIK Solna ,126294,250 Th. €,Lalawélé Atakora,13/14,Turkey,20698,Balikesirspor 
+"Jan 1, 2012",?,Norway,3837,Fredrikstad ,126294,200 Th. €,Lalawélé Atakora,11/12,Sweden,272,AIK Solna 
+"Dec 1, 2011",End of loan,Sweden,272,AIK Solna ,126294,200 Th. €,Lalawélé Atakora,11/12,Norway,3837,Fredrikstad 
+"Aug 1, 2011",Loan,Norway,3837,Fredrikstad ,126294,50 Th. €,Lalawélé Atakora,11/12,Sweden,272,AIK Solna 
+"Aug 1, 2010",End of loan,Sweden,3622,IFK Värnamo ,126294,50 Th. €,Lalawélé Atakora,10/11,Norway,3837,Fredrikstad 
+"Mar 1, 2010",Loan,Norway,3837,Fredrikstad ,126294,50 Th. €,Lalawélé Atakora,09/10,Sweden,3622,IFK Värnamo 
+"Jan 1, 2009",-,Norway,15664,Fredrikstad FK U19 ,126294,-,Lalawélé Atakora,08/09,Norway,3837,Fredrikstad 
+"Jan 29, 2016","3,20 Mill. €",Norway,195,Rosenborg BK ,175961,"1,80 Mill. €",Ole Selnaes,15/16,France,618,Saint-Étienne 
+"Mar 1, 2012",-,Norway,12847,RBK U19 ,175961,50 Th. €,Ole Selnaes,11/12,Norway,195,Rosenborg BK 
+"Jan 8, 2016",Free transfer,Norway,687,Molde FK ,141658,"1,20 Mill. €",Etzaz Hussain,15/16,Turkey,2381,Sivasspor 
+"Aug 1, 2012",400 Th. €,Norway,3837,Fredrikstad ,141658,"1,25 Mill. €",Etzaz Hussain,12/13,Norway,687,Molde FK 
+"Mar 1, 2011",?,Norway,76,Valerenga ,141658,-,Etzaz Hussain,10/11,Norway,3837,Fredrikstad 
+"Jan 1, 2011",?,England,5242,Man Utd U18 ,141658,-,Etzaz Hussain,10/11,Norway,76,Valerenga 
+"Jan 8, 2015",Free transfer,Norway,13019,Kvik Halden ,146782,-,Dino Mulac,14/15,Norway,13450,Østsiden IL 
+"Jan 1, 2012",?,Norway,3837,Fredrikstad ,146782,50 Th. €,Dino Mulac,11/12,Norway,13019,Kvik Halden 
+"Jan 1, 2010",?,Norway,31933,Trosvik IF ,146782,-,Dino Mulac,09/10,Norway,3837,Fredrikstad 
+"Jan 1, 2014",?,Norway,13347,Lørenskog IF ,201569,150 Th. €,Andreas Fjeldstad,13/14,,75,Unknown 
+"Jan 1, 2012",Free transfer,Norway,353,Lilleström SK ,201569,150 Th. €,Andreas Fjeldstad,11/12,Norway,13347,Lørenskog IF 
+"Jan 1, 2016",Free transfer,Norway,3837,Fredrikstad ,146790,150 Th. €,Simen Rafn,15/16,Sweden,4414,Gefle IF 
+"Jan 1, 2010",-,Norway,15664,Fredrikstad FK U19 ,146790,-,Simen Rafn,09/10,Norway,3837,Fredrikstad 
+"Jan 1, 2014",?,Norway,7175,Follo FK ,201575,50 Th. €,Benjamin Dahl Hagen,13/14,,75,Unknown 
+"Apr 5, 2013",?,Norway,76,Valerenga ,201575,100 Th. €,Benjamin Dahl Hagen,12/13,Norway,7175,Follo FK 
+"Jul 31, 2012",End of loan,Norway,3837,Fredrikstad ,201575,100 Th. €,Benjamin Dahl Hagen,12/13,Norway,76,Valerenga 
+"Mar 1, 2012",Loan,Norway,76,Valerenga ,201575,100 Th. €,Benjamin Dahl Hagen,11/12,Norway,3837,Fredrikstad 
+"Aug 1, 2011",?,Norway,7175,Follo FK ,201575,-,Benjamin Dahl Hagen,11/12,Norway,76,Valerenga 
+"Jul 3, 2013",Free transfer,Denmark,1063,Viborg FF ,37225,150 Th. €,Jens-Kristian Sörensen,13/14,Denmark,19657,Vendsyssel FF 
+"Aug 1, 2011",Free transfer,Denmark,1053,Aalborg BK ,37225,250 Th. €,Jens-Kristian Sörensen,11/12,Denmark,1063,Viborg FF 
+"Jul 1, 2005",-,Denmark,9113,Aalborg BK U19 ,37225,-,Jens-Kristian Sörensen,05/06,Denmark,1053,Aalborg BK 
+"Aug 31, 2015",Free transfer,Macedonia,4641,Rabotnicki ,136167,200 Th. €,Chuma Anene,15/16,Russia,4128,Amkar Perm 
+"Jul 1, 2014",?,Norway,9987,Ullensaker/Kisa ,136167,100 Th. €,Chuma Anene,14/15,Macedonia,4641,Rabotnicki 
+"Feb 12, 2014",Free transfer,Norway,76,Valerenga ,136167,100 Th. €,Chuma Anene,13/14,Norway,9987,Ullensaker/Kisa 
+"Nov 30, 2013",End of loan,Norway,1274,Stabaek IF ,136167,100 Th. €,Chuma Anene,13/14,Norway,76,Valerenga 
+"Aug 8, 2013",Loan,Norway,76,Valerenga ,136167,100 Th. €,Chuma Anene,13/14,Norway,1274,Stabaek IF 
+"Jul 31, 2012",End of loan,Norway,9987,Ullensaker/Kisa ,136167,100 Th. €,Chuma Anene,12/13,Norway,76,Valerenga 
+"Jun 19, 2012",Loan,Norway,76,Valerenga ,136167,75 Th. €,Chuma Anene,11/12,Norway,9987,Ullensaker/Kisa 
+"Jan 1, 2012",-,Norway,15700,Valerenga U19 ,136167,-,Chuma Anene,11/12,Norway,76,Valerenga 
+"Mar 24, 2015",?,Sweden,2844,IFK Norrköping ,146798,500 Th. €,Edvard Skagestad,14/15,Norway,5619,Aalesunds FK 
+"Jan 1, 2014",Free transfer,Norway,5619,Aalesunds FK ,146798,500 Th. €,Edvard Skagestad,13/14,Sweden,2844,IFK Norrköping 
+"Jan 1, 2011",Free transfer,Norway,7175,Follo FK ,146798,250 Th. €,Edvard Skagestad,10/11,Norway,5619,Aalesunds FK 
+"Jan 1, 2006",Free transfer,Norway,48477,As IL ,146798,-,Edvard Skagestad,05/06,Norway,7175,Follo FK 
+"Jan 1, 2016",Free transfer,Norway,10217,Sarpsborg 08 ,62323,300 Th. €,Claes Kronberg,15/16,Norway,239,Viking 
+"Aug 1, 2011",?,Denmark,5733,NFC ,62323,25 Th. €,Claes Kronberg,11/12,Norway,10217,Sarpsborg 08 
+"Jan 1, 2005",-,Denmark,15638,LFA U19 ,62323,-,Claes Kronberg,04/05,Denmark,5733,NFC 
+"Mar 31, 2014",?,Norway,2761,FK Haugesund ,23415,200 Th. €,Andrés Már Jóhannesson,13/14,Iceland,2576,Fylkir 
+"Aug 14, 2013",End of loan,Iceland,2576,Fylkir ,23415,200 Th. €,Andrés Már Jóhannesson,13/14,Norway,2761,FK Haugesund 
+"May 1, 2013",Loan,Norway,2761,FK Haugesund ,23415,200 Th. €,Andrés Már Jóhannesson,12/13,Iceland,2576,Fylkir 
+"Jul 30, 2011",100 Th. €,Iceland,2576,Fylkir ,23415,200 Th. €,Andrés Már Jóhannesson,11/12,Norway,2761,FK Haugesund 
+"Aug 1, 2013",?,Norway,501,FK Bodø/Glimt ,141716,150 Th. €,Tom Erik Nordberg,13/14,Norway,32682,Levanger FK 
+"Aug 16, 2011",?,Norway,195,Rosenborg BK ,141716,325 Th. €,Tom Erik Nordberg,11/12,Norway,501,FK Bodø/Glimt 
+"Aug 1, 2011",End of loan,Norway,2761,FK Haugesund ,141716,325 Th. €,Tom Erik Nordberg,11/12,Norway,195,Rosenborg BK 
+"Mar 10, 2011",Loan,Norway,195,Rosenborg BK ,141716,325 Th. €,Tom Erik Nordberg,10/11,Norway,2761,FK Haugesund 
+"Aug 6, 2010",?,Norway,13519,Ranheim IL ,141716,-,Tom Erik Nordberg,10/11,Norway,195,Rosenborg BK 
+"Jan 1, 2010",?,Norway,32682,Levanger FK ,141716,-,Tom Erik Nordberg,09/10,Norway,13519,Ranheim IL 
+"Jan 1, 2012",?,Norway,19848,Sarpsborg08 U19 ,209471,-,Ajet Jaha,11/12,,75,Unknown 
+"Jan 1, 2012",?,Norway,267,Start ,155518,50 Th. €,Christian Folleraas,11/12,Norway,36256,Vindbjart FK 
+"Jan 1, 2011",-,Norway,15692,IK Start U19 ,155518,-,Christian Folleraas,10/11,Norway,267,Start 
+"Jan 31, 2013",?,Norway,3837,Fredrikstad ,100227,100 Th. €,Mads Hansen,12/13,Norway,11338,Mjøndalen IF 
+"Jan 19, 2011",-,Norway,11338,Mjøndalen IF ,100227,300 Th. €,Mads Hansen,10/11,Norway,3837,Fredrikstad 
+"Aug 1, 2016",End of loan,Norway,8995,IL Hödd ,206212,100 Th. €,Eirik Bergum Skaasheim,16/17,Norway,2038,Sogndal 
+"Mar 31, 2016",Loan,Norway,2038,Sogndal ,206212,100 Th. €,Eirik Bergum Skaasheim,15/16,Norway,8995,IL Hödd 
+"Mar 1, 2012",-,Norway,35025,Sogndal IL II ,206212,-,Eirik Bergum Skaasheim,11/12,Norway,2038,Sogndal 
+"Jan 1, 2011",-,Norway,19996,Sogndal IL U19 ,206212,-,Eirik Bergum Skaasheim,10/11,Norway,35025,Sogndal IL II 
+"Jan 1, 2016",Free transfer,Norway,17647,Strømmen IF ,203659,150 Th. €,Eirik Schulze,15/16,Norway,13025,Sandnes Ulf 
+"Jan 1, 2014",Free transfer,Norway,239,Viking ,203659,50 Th. €,Eirik Schulze,13/14,Norway,17647,Strømmen IF 
+"Aug 1, 2011",?,Norway,19373,Mandalskam. U19 ,203659,-,Eirik Schulze,11/12,Norway,239,Viking 
+"Jul 15, 2013",?,Norway,2038,Sogndal ,41869,500 Th. €,Per Egil Flo,13/14,Norway,687,Molde FK 
+"Jul 1, 2006",?,Norway,13002,Stryn IL ,41869,-,Per Egil Flo,06/07,Norway,2038,Sogndal 
+"Jan 27, 2015",Free transfer,Norway,13025,Sandnes Ulf ,41870,300 Th. €,Henrik Furebotn,14/15,Norway,501,FK Bodø/Glimt 
+"Jan 8, 2013",Free transfer,Norway,2038,Sogndal ,41870,600 Th. €,Henrik Furebotn,12/13,Norway,13025,Sandnes Ulf 
+"Jan 1, 2006",?,Norway,12998,Jotun/Ardalstangen IL ,41870,-,Henrik Furebotn,05/06,Norway,2038,Sogndal 
+"Jul 1, 2014",250 Th. €,Norway,687,Molde FK ,41875,"1,70 Mill. €",Even Hovland,14/15,Germany,4,1.FC Nuremberg 
+"Jan 1, 2012","1,00 Mill. €",Norway,2038,Sogndal ,41875,"2,10 Mill. €",Even Hovland,11/12,Norway,687,Molde FK 
+"Jan 1, 2008",-,Norway,19996,Sogndal IL U19 ,41875,-,Even Hovland,07/08,Norway,2038,Sogndal 
+"Jan 1, 2014",-,Norway,6477,Vard ,41876,50 Th. €,Barry Kader,13/14,,515,Unattached 
+"Mar 11, 2013",Free transfer,Romania,34767,Turnu-Severin ,41876,200 Th. €,Barry Kader,12/13,Norway,6477,Vard 
+"Sep 15, 2012",-,Romania,515,Unattached ,41876,250 Th. €,Barry Kader,12/13,,34767,Turnu-Severin 
+"Jan 1, 2012",-,Norway,2038,Sogndal ,41876,250 Th. €,Barry Kader,11/12,,515,Unattached 
+"Jul 1, 2006",?,Cote d'Ivoire,9369,Stella Club ,41876,-,Barry Kader,06/07,Norway,2038,Sogndal 
+"Aug 1, 2012",?,Norway,35025,Sogndal IL II ,203669,-,Olav Fretland,12/13,,75,Unknown 
+"Jan 1, 2011",-,Norway,19996,Sogndal IL U19 ,203669,-,Olav Fretland,10/11,Norway,35025,Sogndal IL II 
+"Jul 8, 2014",Free transfer,Hungary,7682,Lombard Pápa  ,51094,225 Th. €,Youssef Sekour,14/15,Morocco,6371,FUS Rabat 
+"Sep 1, 2013",-,Hungary,515,Unattached ,51094,250 Th. €,Youssef Sekour,13/14,,7682,Lombard Pápa  
+"Jul 1, 2013",-,Hungary,9241,Diósgyör ,51094,250 Th. €,Youssef Sekour,13/14,,515,Unattached 
+"Dec 31, 2012",End of loan,Hungary,7682,Lombard Pápa  ,51094,250 Th. €,Youssef Sekour,12/13,Hungary,9241,Diósgyör 
+"Aug 29, 2012",Loan,Hungary,9241,Diósgyör ,51094,250 Th. €,Youssef Sekour,12/13,Hungary,7682,Lombard Pápa  
+"Jan 1, 2012",-,Hungary,515,Unattached ,51094,250 Th. €,Youssef Sekour,11/12,,9241,Diósgyör 
+"Aug 1, 2011",-,Norway,353,Lilleström SK ,51094,250 Th. €,Youssef Sekour,11/12,,515,Unattached 
+"Mar 1, 2011",Free transfer,Belgium,204,Lierse SK ,51094,250 Th. €,Youssef Sekour,10/11,Norway,353,Lilleström SK 
+"Jul 1, 2010",Free transfer,France,1081,CS Sedan ,51094,150 Th. €,Youssef Sekour,10/11,Belgium,204,Lierse SK 
+"Jul 1, 2008",Free transfer,France,40,G. Bordeaux ,51094,400 Th. €,Youssef Sekour,08/09,France,1081,CS Sedan 
+"Jun 30, 2008",End of loan,France,995,FC Nantes ,51094,400 Th. €,Youssef Sekour,07/08,France,40,G. Bordeaux 
+"Aug 1, 2007",Loan,France,40,G. Bordeaux ,51094,150 Th. €,Youssef Sekour,07/08,France,995,FC Nantes 
+"Jul 1, 2007",-,France,10872,G. Bordeaux B ,51094,-,Youssef Sekour,07/08,France,40,G. Bordeaux 
+"Jan 1, 2016",?,Norway,36224,FK Jerv ,169368,600 Th. €,Ohi Omoijuanfo,15/16,Norway,1274,Stabaek IF 
+"Mar 5, 2015",?,Norway,353,Lilleström SK ,169368,400 Th. €,Ohi Omoijuanfo,14/15,Norway,36224,FK Jerv 
+"Jan 1, 2011",-,Norway,15678,Lillestrøm SK U19 ,169368,125 Th. €,Ohi Omoijuanfo,10/11,Norway,353,Lilleström SK 
+"Jul 31, 2014",Free transfer,United Arab Emirates,2150,Al-Ain FC ,45465,750 Th. €,Bouba,14/15,Portugal,2420,Vit. Guimarães 
+"Jan 20, 2014",Free transfer,Romania,7769,CFR Cluj ,45465,750 Th. €,Bouba,13/14,United Arab Emirates,2150,Al-Ain FC 
+"Dec 31, 2013",End of loan,Croatia,419,Dinamo Zagreb ,45465,750 Th. €,Bouba,13/14,Romania,7769,CFR Cluj 
+"Jul 8, 2013",Loan fee:100 Th. €,Romania,7769,CFR Cluj ,45465,"1,00 Mill. €",Bouba,13/14,Croatia,419,Dinamo Zagreb 
+"Feb 23, 2011",200 Th. €,Belgium,58,RSC Anderlecht ,45465,"1,50 Mill. €",Bouba,10/11,Romania,7769,CFR Cluj 
+"Dec 31, 2010",End of loan,Norway,195,Rosenborg BK ,45465,"2,00 Mill. €",Bouba,10/11,Belgium,58,RSC Anderlecht 
+"Aug 31, 2010",Loan,Belgium,58,RSC Anderlecht ,45465,"2,00 Mill. €",Bouba,10/11,Norway,195,Rosenborg BK 
+"Dec 1, 2007",-,Belgium,3038,Anderlecht U19 ,45465,-,Bouba,07/08,Belgium,58,RSC Anderlecht 
+"Jul 24, 2014",?,Norway,17647,Strømmen IF ,187631,100 Th. €,Marius Amundsen,14/15,Norway,353,Lilleström SK 
+"Jan 1, 2012",?,Norway,15678,Lillestrøm SK U19 ,187631,-,Marius Amundsen,11/12,Norway,17647,Strømmen IF 
+"Aug 6, 2015",-,Moldova,515,Unattached ,173468,500 Th. €,Khalifa Jabbie,15/16,,2481,Sheriff 
+"Jan 29, 2015",-,Turkey,20698,Balikesirspor ,173468,500 Th. €,Khalifa Jabbie,14/15,,515,Unattached 
+"Jan 7, 2014",Free transfer,Norway,3837,Fredrikstad ,173468,300 Th. €,Khalifa Jabbie,13/14,Turkey,20698,Balikesirspor 
+"Jan 1, 2012",Free transfer,Sierra Leone,18941,Kallon FC ,173468,600 Th. €,Khalifa Jabbie,11/12,Norway,3837,Fredrikstad 
+"Dec 31, 2011",End of loan,Norway,3837,Fredrikstad ,173468,600 Th. €,Khalifa Jabbie,11/12,Sierra Leone,18941,Kallon FC 
+"Jan 1, 2010",Loan,Sierra Leone,18941,Kallon FC ,173468,-,Khalifa Jabbie,10/11,Norway,3837,Fredrikstad 
+"Jan 1, 2013",?,Norway,13347,Lørenskog IF ,173469,50 Th. €,Colin N'Kee,12/13,,75,Unknown 
+"Aug 1, 2012",?,Norway,2817,Strømsgodset ,173469,50 Th. €,Colin N'Kee,12/13,Norway,13347,Lørenskog IF 
+"Jul 31, 2012",End of loan,Norway,17647,Strømmen IF ,173469,50 Th. €,Colin N'Kee,12/13,Norway,2817,Strømsgodset 
+"Jan 1, 2012",Loan,Norway,2817,Strømsgodset ,173469,50 Th. €,Colin N'Kee,11/12,Norway,17647,Strømmen IF 
+"Feb 15, 2016",?,Norway,5456,Ullern IF ,173472,50 Th. €,Nicolay Solberg,15/16,Norway,9987,Ullensaker/Kisa 
+"Aug 19, 2015",-,Norway,515,Unattached ,173472,50 Th. €,Nicolay Solberg,15/16,,5456,Ullern IF 
+"Jan 1, 2015",-,Norway,3837,Fredrikstad ,173472,50 Th. €,Nicolay Solberg,14/15,,515,Unattached 
+"Jan 31, 2013",?,Norway,353,Lilleström SK ,173472,200 Th. €,Nicolay Solberg,12/13,Norway,3837,Fredrikstad 
+"Dec 31, 2012",End of loan,Norway,10217,Sarpsborg 08 ,173472,200 Th. €,Nicolay Solberg,12/13,Norway,353,Lilleström SK 
+"Mar 20, 2012",Loan,Norway,353,Lilleström SK ,173472,100 Th. €,Nicolay Solberg,11/12,Norway,10217,Sarpsborg 08 
+"Jan 1, 2011",?,Norway,1259,FK Tönsberg ,173472,-,Nicolay Solberg,10/11,Norway,353,Lilleström SK 
+"Jan 1, 2015",Free transfer,Norway,1274,Stabaek IF ,152481,700 Th. €,Fredrik Brustad,14/15,Sweden,272,AIK Solna 
+"Aug 1, 2011",?,United States,9734,Orlando C. U23 ,152481,-,Fredrik Brustad,11/12,Norway,1274,Stabaek IF 
+"Jan 1, 2013",?,Norway,30114,SK Herd ,155555,100 Th. €,Dan Peter Ulvestad,12/13,Norway,21101,Kristiansund BK 
+"Mar 1, 2011",?,Norway,5619,Aalesunds FK ,155555,50 Th. €,Dan Peter Ulvestad,10/11,Norway,30114,SK Herd 
+"Mar 1, 2010",?,Norway,30114,SK Herd ,155555,-,Dan Peter Ulvestad,09/10,Norway,5619,Aalesunds FK 
+"Jan 24, 2014",Free transfer,Norway,17647,Strømmen IF ,173476,50 Th. €,Simen Möller,13/14,Norway,13233,Kjelsas IL 
+"Feb 1, 2012",Free transfer,Norway,1293,Tromsö ,173476,-,Simen Möller,11/12,Norway,17647,Strømmen IF 
+"Dec 31, 2011",End of loan,Norway,17647,Strømmen IF ,173476,-,Simen Möller,11/12,Norway,1293,Tromsö 
+"Jul 1, 2011",Loan,Norway,1293,Tromsö ,173476,-,Simen Möller,11/12,Norway,17647,Strømmen IF 
+"Mar 10, 2015",-,England,515,Unattached ,158022,"1,30 Mill. €",Fredrik Ulvestad,14/15,,1132,Burnley FC 
+"Jan 1, 2015",-,Norway,5619,Aalesunds FK ,158022,"1,30 Mill. €",Fredrik Ulvestad,14/15,,515,Unattached 
+"Jan 1, 2011",-,Norway,15647,Aalesunds FK U19 ,158022,50 Th. €,Fredrik Ulvestad,10/11,Norway,5619,Aalesunds FK 
+"Jan 1, 2013",-,Norway,5619,Aalesunds FK ,173478,50 Th. â‚¬,Ole-Christian RÃ¶rvik,12/13,,515,Unattached 
+"Jan 1, 2010",?,Norway,30487,SkarbÃ¸vik IF ,173478,-,Ole-Christian RÃ¶rvik,09/10,Norway,5619,Aalesunds FK 
+"Jan 1, 2014",?,Iceland,21875,UMF Stjarnan ,173480,25 Th. €,Robert Sandnes,13/14,Norway,267,Start 
+"Mar 21, 2013",?,Iceland,21879,Selfoss ,173480,25 Th. €,Robert Sandnes,12/13,Iceland,21875,UMF Stjarnan 
+"Feb 1, 2012",Free transfer,Norway,5619,Aalesunds FK ,173480,-,Robert Sandnes,11/12,Iceland,21879,Selfoss 
+"Feb 26, 2015",?,Norway,30721,Elverum Fotball ,155051,100 Th. €,Osei Oviasu,14/15,Norway,4309,HamKam 
+"Feb 18, 2014",?,Norway,36249,Stjördals B. ,155051,100 Th. €,Osei Oviasu,13/14,Norway,30721,Elverum Fotball 
+"Jan 1, 2013",?,Norway,13519,Ranheim IL ,155051,100 Th. €,Osei Oviasu,12/13,Norway,36249,Stjördals B. 
+"Jan 1, 2012",?,Norway,195,Rosenborg BK ,155051,100 Th. €,Osei Oviasu,11/12,Norway,13519,Ranheim IL 
+"Dec 1, 2011",End of loan,Norway,13519,Ranheim IL ,155051,100 Th. €,Osei Oviasu,11/12,Norway,195,Rosenborg BK 
+"Jan 1, 2011",Loan,Norway,195,Rosenborg BK ,155051,100 Th. €,Osei Oviasu,10/11,Norway,13519,Ranheim IL 
+"Jan 1, 2016",Free transfer,Norway,13025,Sandnes Ulf ,35248,200 Th. €,Derek Decamps,15/16,,75,Unknown 
+"Jan 15, 2014",?,France,1420,SCO Angers ,35248,300 Th. €,Derek Decamps,13/14,Norway,13025,Sandnes Ulf 
+"Dec 31, 2013",End of loan,Norway,10217,Sarpsborg 08 ,35248,200 Th. €,Derek Decamps,13/14,France,1420,SCO Angers 
+"Aug 5, 2013",Loan,France,1420,SCO Angers ,35248,200 Th. €,Derek Decamps,13/14,Norway,10217,Sarpsborg 08 
+"Jul 30, 2012",Free transfer,Norway,2761,FK Haugesund ,35248,500 Th. €,Derek Decamps,12/13,France,1420,SCO Angers 
+"Jul 1, 2011",Free transfer,South Africa,2926,Ajax Cape Town ,35248,125 Th. €,Derek Decamps,11/12,Norway,2761,FK Haugesund 
+"Aug 15, 2009",Free transfer,Spain,11596,AD Alcorcón ,35248,-,Derek Decamps,09/10,South Africa,2926,Ajax Cape Town 
+"Sep 7, 2008",Free transfer,Spain,7972,Lorca Deportiva ,35248,-,Derek Decamps,08/09,Spain,11596,AD Alcorcón 
+"Jul 1, 2007",Free transfer,Greece,2671,PAS Giannina ,35248,-,Derek Decamps,07/08,Spain,7972,Lorca Deportiva 
+"Jul 1, 2006",Free transfer,Greece,605,Aris Saloniki ,35248,-,Derek Decamps,06/07,Greece,2671,PAS Giannina 
+"Jul 1, 2005",100 Th. €,France,895,Cannes ,35248,-,Derek Decamps,05/06,Greece,605,Aris Saloniki 
+"Jul 1, 2004",-,France,16803,Cannes ,35248,-,Derek Decamps,04/05,France,895,Cannes 
+"Jun 30, 2016",-,Denmark,865,FC Midtjylland ,44465,800 Th. €,Jim Larsen,15/16,,123,End of career 
+"Aug 15, 2014",?,Belgium,2282,Club Brugge ,44465,"1,20 Mill. €",Jim Larsen,14/15,Denmark,865,FC Midtjylland 
+"Jul 11, 2012","2,50 Mill. €",Norway,195,Rosenborg BK ,44465,"1,50 Mill. €",Jim Larsen,12/13,Belgium,2282,Club Brugge 
+"Mar 1, 2011","1,07 Mill. €",Denmark,1177,Silkeborg IF ,44465,750 Th. €,Jim Larsen,10/11,Norway,195,Rosenborg BK 
+"Jul 1, 2007",Free transfer,Denmark,5874,Brabrand IF ,44465,-,Jim Larsen,07/08,Denmark,1177,Silkeborg IF 
+"Jul 1, 2005",Free transfer,Denmark,12386,Grenaa IF ,44465,-,Jim Larsen,05/06,Denmark,5874,Brabrand IF 
+"Jul 20, 2015",Free transfer,Norway,14761,Asane Fotball ,182194,50 Th. €,Kjetil Kalve,15/16,Norway,35609,Fyllingsdalen 
+"Jan 1, 2015",?,Norway,13274,Nest-Sotra IL ,182194,50 Th. €,Kjetil Kalve,14/15,Norway,14761,Asane Fotball 
+"Feb 1, 2014",Free transfer,Norway,35018,SK Brann II ,182194,50 Th. €,Kjetil Kalve,13/14,Norway,13274,Nest-Sotra IL 
+"Jul 1, 2016",?,Norway,1100,SK Brann ,201139,400 Th. €,Kristoffer Larsen,16/17,Denmark,369,Lyngby BK 
+"Dec 31, 2014",End of loan,Norway,632,Hönefoss ,201139,500 Th. €,Kristoffer Larsen,14/15,Norway,1100,SK Brann 
+"Jul 15, 2014",Loan,Norway,1100,SK Brann ,201139,400 Th. €,Kristoffer Larsen,14/15,Norway,632,Hönefoss 
+"Jan 1, 2011",?,Norway,75,Unknown ,201139,-,Kristoffer Larsen,10/11,,1100,SK Brann 
+"Jan 1, 2015",Free transfer,Norway,2555,Baerum SK ,182196,50 Th. €,Jörgen Mohus,14/15,,75,Unknown 
+"Jan 1, 2014",Free transfer,Norway,1100,SK Brann ,182196,50 Th. €,Jörgen Mohus,13/14,Norway,2555,Baerum SK 
+"Dec 31, 2011",End of loan,Norway,14761,Asane Fotball ,182196,-,Jörgen Mohus,11/12,Norway,1100,SK Brann 
+"Jan 1, 2011",Loan,Norway,1100,SK Brann ,182196,-,Jörgen Mohus,10/11,Norway,14761,Asane Fotball 
+"Dec 31, 2009",End of loan,Norway,14761,Asane Fotball ,182196,-,Jörgen Mohus,09/10,Norway,1100,SK Brann 
+"Feb 1, 2009",Loan,Norway,1100,SK Brann ,182196,-,Jörgen Mohus,08/09,Norway,14761,Asane Fotball 
+"Jan 1, 2009",?,Norway,75,Unknown ,182196,-,Jörgen Mohus,08/09,,1100,SK Brann 
+"Dec 31, 2015",End of loan,Norway,3837,Fredrikstad ,202910,200 Th. €,Henrik Kjelsrud Johansen,15/16,Norway,1058,Odds BK 
+"Jan 22, 2015",Loan,Norway,1058,Odds BK ,202910,200 Th. €,Henrik Kjelsrud Johansen,14/15,Norway,3837,Fredrikstad 
+"Jan 20, 2014",?,Norway,2761,FK Haugesund ,202910,200 Th. €,Henrik Kjelsrud Johansen,13/14,Norway,1058,Odds BK 
+"Aug 30, 2012",?,Norway,3692,Raufoss IL ,202910,50 Th. €,Henrik Kjelsrud Johansen,12/13,Norway,2761,FK Haugesund 
+"Dec 31, 2011",End of loan,Norway,353,Lilleström SK ,202910,50 Th. €,Henrik Kjelsrud Johansen,11/12,Norway,3692,Raufoss IL 
+"Aug 1, 2011",Loan,Norway,3692,Raufoss IL ,202910,-,Henrik Kjelsrud Johansen,11/12,Norway,353,Lilleström SK 
+"Jan 4, 2016","2,00 Mill. €",Norway,195,Rosenborg BK ,87479,"1,50 Mill. €",Alexander Söderlund,15/16,France,618,Saint-Étienne 
+"Jul 15, 2013",800 Th. €,Norway,2761,FK Haugesund ,87479,"1,90 Mill. €",Alexander Söderlund,13/14,Norway,195,Rosenborg BK 
+"Jan 1, 2011",?,Norway,6477,Vard ,87479,-,Alexander Söderlund,10/11,Norway,2761,FK Haugesund 
+"Jul 1, 2010",Free transfer,Italy,5514,Lecco ,87479,-,Alexander Söderlund,10/11,Norway,6477,Vard 
+"Feb 1, 2010",Free transfer,Iceland,1185,Hafnarfjördur ,87479,-,Alexander Söderlund,09/10,Italy,5514,Lecco 
+"Apr 1, 2009",?,Bulgaria,2531,Botev Plovdiv ,87479,-,Alexander Söderlund,08/09,Iceland,1185,Hafnarfjördur 
+"Jan 1, 2009",-,Bulgaria,515,Unattached ,87479,-,Alexander Söderlund,08/09,,2531,Botev Plovdiv 
+"Nov 1, 2008",-,Belgium,3728,UR Namur ,87479,-,Alexander Söderlund,08/09,,515,Unattached 
+"Aug 1, 2008",?,Italy,14847,Treviso ,87479,-,Alexander Söderlund,08/09,Belgium,3728,UR Namur 
+"Jan 1, 2008",?,Norway,6477,Vard ,87479,-,Alexander Söderlund,07/08,Italy,14847,Treviso 
+"Jan 28, 2016",Free transfer,Norway,1058,Odds BK ,61881,400 Th. €,Ulrik Flo,15/16,Denmark,1177,Silkeborg IF 
+"Aug 17, 2015",?,Norway,2038,Sogndal ,61881,500 Th. €,Ulrik Flo,15/16,Norway,1058,Odds BK 
+"Jul 1, 2007",?,Norway,13002,Stryn IL ,61881,-,Ulrik Flo,07/08,Norway,2038,Sogndal 
+"Sep 1, 2013",Free transfer,Norway,36237,Nesodden IF ,202911,-,Bjørn Erik Kristiansen,13/14,Norway,36405,Lillehammer FK 
+"Jan 1, 2013",Free transfer,Norway,13276,Sprint/Jeløy ,202911,-,Bjørn Erik Kristiansen,12/13,Norway,36237,Nesodden IF 
+"Jan 1, 2012",Free transfer,Norway,15664,Fredrikstad FK U19 ,202911,-,Bjørn Erik Kristiansen,11/12,Norway,13276,Sprint/Jeløy 
+"Jan 1, 2009",?,Norway,75,Unknown ,202911,-,Bjørn Erik Kristiansen,08/09,,15664,Fredrikstad FK U19 
+"Feb 7, 2014",?,Norway,35019,FK Haugesund II ,182205,50 Th. €,Fredrik Deilkas,13/14,Norway,6477,Vard 
+"Mar 5, 2013",?,Norway,687,Molde FK ,106431,250 Th. €,Krister Wemberg,12/13,Norway,1057,Bryne FK 
+"Dec 31, 2012",End of loan,Norway,501,FK Bodø/Glimt ,106431,250 Th. €,Krister Wemberg,12/13,Norway,687,Molde FK 
+"Jan 1, 2012",Loan,Norway,687,Molde FK ,106431,100 Th. €,Krister Wemberg,11/12,Norway,501,FK Bodø/Glimt 
+"Jan 1, 2011",?,Norway,15682,Moss FK U19 ,106431,100 Th. €,Krister Wemberg,10/11,Norway,687,Molde FK 
+"Jan 1, 2011",Swap deal,Norway,2038,Sogndal ,24512,400 Th. €,Piotr Leciejewski,10/11,Norway,1100,SK Brann 
+"Apr 1, 2008",Free transfer,Poland,256,LKS Lodz ,24512,200 Th. €,Piotr Leciejewski,07/08,Norway,2038,Sogndal 
+"Feb 1, 2008",?,Poland,6110,Korona Kielce ,24512,200 Th. €,Piotr Leciejewski,07/08,Poland,256,LKS Lodz 
+"Aug 1, 2007",?,Poland,3291,Gornik Leczna ,24512,250 Th. €,Piotr Leciejewski,07/08,Poland,6110,Korona Kielce 
+"Jul 1, 2006",Free transfer,Poland,428,G. Zabrze ,24512,100 Th. €,Piotr Leciejewski,06/07,Poland,3291,Gornik Leczna 
+"Jun 30, 2005",End of loan,Poland,6456,GKS Katowice ,24512,100 Th. €,Piotr Leciejewski,04/05,Poland,428,G. Zabrze 
+"Jan 1, 2005",Loan,Poland,428,G. Zabrze ,24512,-,Piotr Leciejewski,04/05,Poland,6456,GKS Katowice 
+"Jul 1, 2004",?,Poland,6111,Lech Zielona Gora ,24512,-,Piotr Leciejewski,04/05,Poland,428,G. Zabrze 
+"Jan 1, 2004",Free transfer,Poland,10641,Polonia Slubice ,24512,-,Piotr Leciejewski,03/04,Poland,6111,Lech Zielona Gora 
+"Jan 1, 2013",?,Norway,1293,Tromsö ,182209,175 Th. €,Hakon Kjaeve,12/13,Norway,8442,Tromsdalen UIL 
+"Dec 1, 2012",End of loan,Norway,8442,Tromsdalen UIL ,182209,175 Th. €,Hakon Kjaeve,12/13,Norway,1293,Tromsö 
+"Jan 18, 2012",Loan,Norway,1293,Tromsö ,182209,-,Hakon Kjaeve,11/12,Norway,8442,Tromsdalen UIL 
+"Jul 5, 2014",300 Th. €,Norway,195,Rosenborg BK ,112578,"1,00 Mill. €",John Chibuike,14/15,Turkey,524,Gaziantepspor 
+"Aug 1, 2011","1,00 Mill. €",Sweden,1109,BK Häcken ,112578,700 Th. €,John Chibuike,11/12,Norway,195,Rosenborg BK 
+"Mar 1, 2009",?,Nigeria,2930,Enugu Rangers IFC ,112578,-,John Chibuike,08/09,Sweden,1109,BK Häcken 
+"Feb 5, 2016",?,Germany,65,Greuther Fürth ,69059,650 Th. €,Zsolt Korcsmár,15/16,Hungary,5378,Vasas FC 
+"Jul 14, 2013",200 Th. €,Norway,1100,SK Brann ,69059,900 Th. €,Zsolt Korcsmár,13/14,Germany,65,Greuther Fürth 
+"Jan 1, 2011",300 Th. €,Hungary,708,Újpest FC ,69059,750 Th. €,Zsolt Korcsmár,10/11,Norway,1100,SK Brann 
+"Dec 31, 2010",End of loan,Norway,1100,SK Brann ,69059,750 Th. €,Zsolt Korcsmár,10/11,Hungary,708,Újpest FC 
+"Jul 19, 2010",Loan fee:65 Th. €,Hungary,708,Újpest FC ,69059,500 Th. €,Zsolt Korcsmár,10/11,Norway,1100,SK Brann 
+"Feb 1, 2005",-,Hungary,15913,Újpest U19 ,69059,-,Zsolt Korcsmár,05/06,Hungary,708,Újpest FC 
+"Jan 21, 2016",Free transfer,Norway,2555,Baerum SK ,106436,50 Th. €,Hugues Wembangomo,15/16,Norway,8995,IL Hödd 
+"Jul 24, 2015",-,Norway,515,Unattached ,106436,200 Th. €,Hugues Wembangomo,15/16,,2555,Baerum SK 
+"Jan 28, 2015",-,Norway,5619,Aalesunds FK ,106436,200 Th. €,Hugues Wembangomo,14/15,,515,Unattached 
+"Feb 1, 2012",130 Th. €,Norway,10217,Sarpsborg 08 ,106436,200 Th. €,Hugues Wembangomo,11/12,Norway,5619,Aalesunds FK 
+"Jan 1, 2009",-,Norway,19848,Sarpsborg08 U19 ,106436,-,Hugues Wembangomo,08/09,Norway,10217,Sarpsborg 08 
+"Jan 1, 2015",?,Norway,687,Molde FK ,106437,400 Th. €,Magnar Ödegaard,14/15,Norway,1293,Tromsö 
+"Dec 31, 2014",End of loan,Norway,353,Lilleström SK ,106437,400 Th. €,Magnar Ödegaard,14/15,Norway,687,Molde FK 
+"Aug 2, 2013",Loan,Norway,687,Molde FK ,106437,300 Th. €,Magnar Ödegaard,13/14,Norway,353,Lilleström SK 
+"Aug 12, 2012",75 Th. €,Norway,10217,Sarpsborg 08 ,106437,300 Th. €,Magnar Ödegaard,12/13,Norway,687,Molde FK 
+"Jan 1, 2009",?,Norway,75,Unknown ,106437,-,Magnar Ödegaard,08/09,,10217,Sarpsborg 08 
+"Mar 31, 2015",?,Sweden,3654,Kalmar FF ,61895,600 Th. €,Mats Solheim,14/15,Sweden,1059,Hammarby IF 
+"Jan 1, 2012",Free transfer,Norway,2038,Sogndal ,61895,800 Th. €,Mats Solheim,11/12,Sweden,3654,Kalmar FF 
+"Aug 1, 2006",?,Norway,13002,Stryn IL ,61895,-,Mats Solheim,06/07,Norway,2038,Sogndal 
+"Jan 1, 2015",Free transfer,Norway,30114,SK Herd ,211400,50 Th. €,Adam Sellami Honningsvaag,14/15,Norway,39557,Brattvag IL 
+"Mar 26, 2014",Free transfer,Norway,5619,Aalesunds FK ,211400,50 Th. €,Adam Sellami Honningsvaag,13/14,Norway,30114,SK Herd 
+"Jan 1, 2012",-,Norway,15647,Aalesunds FK U19 ,211400,-,Adam Sellami Honningsvaag,11/12,Norway,5619,Aalesunds FK 
+"Dec 1, 2007",?,Norway,6469,Skeid Oslo ,61903,-,Kjetil Berge,07/08,Norway,10217,Sarpsborg 08 
+"Jan 1, 2016",Free transfer,Norway,10217,Sarpsborg 08 ,61905,50 Th. €,Tom Erik Breive,15/16,,75,Unknown 
+"Jan 1, 2010",?,Norway,6469,Skeid Oslo ,61905,250 Th. €,Tom Erik Breive,09/10,Norway,10217,Sarpsborg 08 
+"Dec 31, 2009",End of loan,Norway,10217,Sarpsborg 08 ,61905,250 Th. €,Tom Erik Breive,09/10,Norway,6469,Skeid Oslo 
+"Aug 20, 2009",Loan,Norway,6469,Skeid Oslo ,61905,250 Th. €,Tom Erik Breive,09/10,Norway,10217,Sarpsborg 08 
+"Jan 1, 2015",-,Norway,36256,Vindbjart FK ,149466,50 Th. €,Johnny Kristiansen,14/15,,515,Unattached 
+"Jan 1, 2013",Free transfer,Norway,267,Start ,149466,50 Th. €,Johnny Kristiansen,12/13,Norway,36256,Vindbjart FK 
+"Jan 1, 2011",-,Norway,15692,IK Start U19 ,149466,-,Johnny Kristiansen,10/11,Norway,267,Start 
+"Jan 1, 2014",Free transfer,Norway,1058,Odds BK ,107491,300 Th. €,Paul Addo,13/14,Norway,1057,Bryne FK 
+"Nov 30, 2013",End of loan,Norway,17647,Strømmen IF ,107491,300 Th. €,Paul Addo,13/14,Norway,1058,Odds BK 
+"Apr 5, 2013",Loan,Norway,1058,Odds BK ,107491,300 Th. €,Paul Addo,12/13,Norway,17647,Strømmen IF 
+"Mar 1, 2011",?,Norway,8996,Løv-Ham ,107491,300 Th. €,Paul Addo,10/11,Norway,1058,Odd Grenland 
+"Jan 1, 2016",Free transfer,Norway,1100,SK Brann ,183718,50 Th. €,Öystein Övretveit,15/16,Norway,13274,Nest-Sotra IL 
+"Nov 30, 2015",End of loan,Norway,13274,Nest-Sotra IL ,183718,100 Th. €,Öystein Övretveit,15/16,Norway,1100,SK Brann 
+"Mar 6, 2015",Loan,Norway,1100,SK Brann ,183718,100 Th. €,Öystein Övretveit,14/15,Norway,13274,Nest-Sotra IL 
+"Jul 30, 2013",End of loan,Norway,6477,Vard ,183718,100 Th. €,Öystein Övretveit,13/14,Norway,1100,SK Brann 
+"Jun 14, 2013",Loan,Norway,1100,SK Brann ,183718,100 Th. €,Öystein Övretveit,12/13,Norway,6477,Vard 
+"Sep 2, 2011",-,Norway,15691,SK Brann U19 ,183718,-,Öystein Övretveit,11/12,Norway,1100,SK Brann 
+"Jul 1, 2016",Free transfer,Germany,1,Saarbrücken ,20455,150 Th. €,Solomon Okoronkwo,16/17,,75,Unknown 
+"Jul 7, 2015",Free transfer,Germany,254,SV Sandhausen ,20455,200 Th. €,Solomon Okoronkwo,15/16,Germany,1,Saarbrücken 
+"Jan 28, 2015",Free transfer,Germany,94,Erzgebirge Aue ,20455,300 Th. €,Solomon Okoronkwo,14/15,Germany,254,SV Sandhausen 
+"Jul 2, 2013",Free transfer,Hungary,3233,Pécsi MFC ,20455,200 Th. €,Solomon Okoronkwo,13/14,Germany,94,Erzgebirge Aue 
+"Jan 1, 2012",Free transfer,Norway,5619,Aalesunds FK ,20455,150 Th. €,Solomon Okoronkwo,11/12,Hungary,3233,Pécsi MFC 
+"Jan 1, 2011",Free transfer,Russia,2737,Saturn ,20455,300 Th. €,Solomon Okoronkwo,10/11,Norway,5619,Aalesunds FK 
+"Aug 1, 2008","1,40 Mill. €",Germany,44,Hertha BSC ,20455,800 Th. €,Solomon Okoronkwo,08/09,Russia,2737,Saturn 
+"Jun 30, 2007",End of loan,Germany,56,RW Essen ,20455,500 Th. €,Solomon Okoronkwo,06/07,Germany,44,Hertha BSC 
+"Jan 1, 2007",Loan fee:50 Th. €,Germany,44,Hertha BSC ,20455,400 Th. €,Solomon Okoronkwo,06/07,Germany,56,RW Essen 
+"Jul 1, 2005",-,Germany,515,Unattached ,20455,75 Th. €,Solomon Okoronkwo,05/06,,44,Hertha BSC 
+"Jul 1, 2004",-,Nigeria,8079,Gabros International FC ,20455,-,Solomon Okoronkwo,04/05,,515,Unattached 
+"Jan 1, 2004",-,Nigeria,19990,Gabros Int. U19 ,20455,-,Solomon Okoronkwo,03/04,Nigeria,8079,Gabros International FC 
+"Dec 31, 2011",End of loan,Norway,1293,Tromsö ,147452,150 Th. €,El Hadj Sega Ngom,11/12,Norway,6390,Alta IF 
+"Aug 1, 2011",Loan,Norway,6390,Alta IF ,147452,200 Th. €,El Hadj Sega Ngom,11/12,Norway,1293,Tromsö 
+"Aug 1, 2010",?,Senegal,25903,ASC Yeggo ,147452,-,El Hadj Sega Ngom,10/11,Norway,6390,Alta IF 
+"Jan 1, 2012",-,Norway,687,Molde FK ,168426,-,Torjus Aaland,11/12,,515,Unattached 
+"Jan 1, 2011",-,Norway,16581,Molde FK U19 ,168426,-,Torjus Aaland,10/11,Norway,687,Molde FK 
+"Jan 4, 2015",Free transfer,Sweden,1236,Östers IF ,72686,125 Th. €,Marcus Bergholtz,14/15,Sweden,3625,Ängelholm  
+"Aug 15, 2012",?,Sweden,699,Helsingborgs IF ,72686,200 Th. €,Marcus Bergholtz,12/13,Sweden,1236,Östers IF 
+"Dec 1, 2011",End of loan,Norway,1274,Stabaek IF ,72686,200 Th. €,Marcus Bergholtz,11/12,Sweden,699,Helsingborgs IF 
+"Aug 1, 2011",Loan,Sweden,699,Helsingborgs IF ,72686,200 Th. €,Marcus Bergholtz,11/12,Norway,1274,Stabaek IF 
+"Dec 1, 2010",End of loan,Sweden,3625,Ängelholm  ,72686,100 Th. €,Marcus Bergholtz,10/11,Sweden,699,Helsingborgs IF 
+"Jun 1, 2010",Loan,Sweden,699,Helsingborgs IF ,72686,150 Th. €,Marcus Bergholtz,09/10,Sweden,3625,Ängelholm  
+"Jan 1, 2008",-,Sweden,8659,Helsingborg U19 ,72686,-,Marcus Bergholtz,07/08,Sweden,699,Helsingborgs IF 
+"Jan 1, 2016",Free transfer,Norway,1058,Odds BK ,136178,300 Th. €,Emil Jonassen,15/16,Norway,501,FK Bodø/Glimt 
+"Jan 1, 2011",-,Norway,15686,Odds BK U19 ,136178,-,Emil Jonassen,10/11,Norway,1058,Odd Grenland 
+"Dec 31, 2014",End of loan,Norway,13025,Sandnes Ulf ,136180,400 Th. €,Fredrik Midtsjö,14/15,Norway,195,Rosenborg BK 
+"Mar 24, 2014",Loan,Norway,195,Rosenborg BK ,136180,300 Th. €,Fredrik Midtsjö,13/14,Norway,13025,Sandnes Ulf 
+"Dec 31, 2012",End of loan,Norway,13519,Ranheim IL ,136180,500 Th. €,Fredrik Midtsjö,12/13,Norway,195,Rosenborg BK 
+"Aug 31, 2012",Loan,Norway,195,Rosenborg BK ,136180,500 Th. €,Fredrik Midtsjö,12/13,Norway,13519,Ranheim IL 
+"Jul 1, 2011",-,Norway,12847,RBK U19 ,136180,-,Fredrik Midtsjö,11/12,Norway,195,Rosenborg BK 
+"Jan 1, 2016",600 Th. €,Austria,409,RB Salzburg ,136181,"1,50 Mill. €",Havard Nielsen,15/16,Germany,60,SC Freiburg 
+"Jun 30, 2015",End of loan,Germany,23,E. Braunschweig ,136181,"2,00 Mill. €",Havard Nielsen,14/15,Austria,409,RB Salzburg 
+"Jan 5, 2014",Loan,Austria,409,RB Salzburg ,136181,"1,00 Mill. €",Havard Nielsen,13/14,Germany,23,E. Braunschweig 
+"Jul 26, 2012","2,80 Mill. €",Norway,76,Valerenga ,136181,750 Th. €,Havard Nielsen,12/13,Austria,409,RB Salzburg 
+"Jan 1, 2011",-,Norway,15700,Valerenga U19 ,136181,-,Havard Nielsen,10/11,Norway,76,Valerenga 
+"Jan 1, 2010",-,Norway,51887,Valerenga U17 ,136181,-,Havard Nielsen,09/10,Norway,15700,Valerenga U19 
+"Jan 1, 2008",-,Norway,51888,Valerenga Jgd. ,136181,-,Havard Nielsen,07/08,Norway,51887,Valerenga U17 
+"Jan 1, 2007",Free transfer,Norway,51889,Oppsal IF Jgd. ,136181,-,Havard Nielsen,06/07,Norway,51888,Valerenga Jgd. 
+"Jan 1, 2014",?,Norway,6477,Vard ,184212,200 Th. €,Eirik Andersen,13/14,Norway,8995,IL Hödd 
+"Dec 31, 2013",End of loan,Norway,8995,IL Hödd ,184212,200 Th. €,Eirik Andersen,13/14,Norway,6477,Vard 
+"Aug 8, 2013",Loan,Norway,6477,Vard ,184212,150 Th. €,Eirik Andersen,13/14,Norway,8995,IL Hödd 
+"Aug 1, 2012",?,Norway,2761,FK Haugesund ,184212,150 Th. €,Eirik Andersen,12/13,Norway,6477,Vard 
+"Jul 31, 2012",End of loan,Norway,6477,Vard ,184212,150 Th. €,Eirik Andersen,12/13,Norway,2761,FK Haugesund 
+"Jan 1, 2012",Loan,Norway,2761,FK Haugesund ,184212,150 Th. €,Eirik Andersen,11/12,Norway,6477,Vard 
+"Jan 1, 2010",?,Norway,6477,Vard ,184212,-,Eirik Andersen,09/10,Norway,2761,FK Haugesund 
+"Jan 26, 2015",Free transfer,England,603,Cardiff ,54775,"2,50 Mill. €",Magnus Wolff Eikrem,14/15,Sweden,496,Malmö FF 
+"Jan 8, 2014","2,50 Mill. €",Netherlands,306,SC Heerenveen ,54775,"2,20 Mill. €",Magnus Wolff Eikrem,13/14,England,603,Cardiff 
+"Jul 1, 2013","1,20 Mill. €",Norway,687,Molde FK ,54775,"2,20 Mill. €",Magnus Wolff Eikrem,13/14,Netherlands,306,SC Heerenveen 
+"Jan 1, 2011",?,England,9251,Man Utd U21 ,54775,-,Magnus Wolff Eikrem,10/11,Norway,687,Molde FK 
+"Jul 1, 2008",-,England,5242,Man Utd U18 ,54775,-,Magnus Wolff Eikrem,08/09,England,9251,Man Utd U21 
+"Aug 8, 2006",?,Norway,16581,Molde FK U19 ,54775,-,Magnus Wolff Eikrem,06/07,England,5242,Man Utd U18 
+"Jul 16, 2014",?,Norway,2038,Sogndal ,136185,"1,00 Mill. €",Gustav Valsvik,14/15,Norway,2817,Strømsgodset 
+"Jan 1, 2009",?,Norway,75,Unknown ,136185,-,Gustav Valsvik,08/09,,2038,Sogndal 
+"Aug 1, 2013",?,Lebanon,7142,Al-Nejmeh ,56261,250 Th. €,Gilles Ondo,13/14,,75,Unknown 
+"Jan 1, 2013",-,Lebanon,515,Unattached ,56261,250 Th. €,Gilles Ondo,12/13,,7142,Al-Nejmeh 
+"Jul 20, 2012",-,Norway,13025,Sandnes Ulf ,56261,250 Th. €,Gilles Ondo,12/13,,515,Unattached 
+"Jan 1, 2012",?,Norway,1274,Stabaek IF ,56261,400 Th. €,Gilles Ondo,11/12,Norway,13025,Sandnes Ulf 
+"Jan 1, 2011",Free transfer,Iceland,7690,Grindavík ,56261,25 Th. €,Gilles Ondo,10/11,Norway,1274,Stabaek IF 
+"Jan 1, 2008",?,Austria,2474,Eisenstadt ,56261,-,Gilles Ondo,07/08,Iceland,7690,Grindavík 
+"Jul 1, 2007",?,France,10820,AJ Auxerre B ,56261,-,Gilles Ondo,07/08,Austria,2474,Eisenstadt 
+"Jan 1, 2014",Free transfer,Norway,353,Lilleström SK ,147451,100 Th. €,Isak Scheel,13/14,,75,Unknown 
+"Dec 31, 2012",End of loan,Norway,2555,Baerum SK ,147451,50 Th. €,Isak Scheel,12/13,Norway,353,Lilleström SK 
+"Aug 1, 2012",Loan,Norway,353,Lilleström SK ,147451,500 Th. €,Isak Scheel,12/13,Norway,2555,Baerum SK 
+"Jan 1, 2012",Free transfer,Norway,2038,Sogndal ,147451,650 Th. €,Isak Scheel,11/12,Norway,353,Lilleström SK 
+"Aug 7, 2015",Free transfer,Bolivia,5570,The Strongest ,74236,350 Th. â‚¬,Maximiliano Bajter,15/16,Chile,20514,La Calera 
+"Aug 11, 2014",Free transfer,Mexico,5138,Veracruz ,74236,350 Th. â‚¬,Maximiliano Bajter,14/15,Bolivia,5570,The Strongest 
+"Jan 1, 2014",?,Uruguay,3829,CA FÃ©nix ,74236,350 Th. â‚¬,Maximiliano Bajter,13/14,Mexico,5138,Veracruz 
+"Dec 31, 2013",End of loan,Chile,20514,La Calera ,74236,350 Th. â‚¬,Maximiliano Bajter,13/14,Uruguay,3829,CA FÃ©nix 
+"Jan 1, 2013",Loan,Uruguay,3829,CA FÃ©nix ,74236,350 Th. â‚¬,Maximiliano Bajter,12/13,Chile,20514,La Calera 
+"Dec 31, 2011",End of loan,Norway,1100,SK Brann ,74236,200 Th. â‚¬,Maximiliano Bajter,11/12,Uruguay,3829,CA FÃ©nix 
+"Jul 20, 2011",Loan,Uruguay,3829,CA FÃ©nix ,74236,425 Th. â‚¬,Maximiliano Bajter,11/12,Norway,1100,SK Brann 
+"Jul 21, 2010",?,Uruguay,75,Unknown ,74236,200 Th. â‚¬,Maximiliano Bajter,10/11,,3829,CA FÃ©nix 
+"Jan 1, 2010",?,Uruguay,861,PeÃ±arol ,74236,-,Maximiliano Bajter,09/10,,75,Unknown 
+"Jan 1, 2006",-,Uruguay,20054,PeÃ±arol U19 ,74236,-,Maximiliano Bajter,05/06,Uruguay,861,PeÃ±arol 
+"Jan 1, 2015",Free transfer,Norway,35017,Aalesunds FK II ,182269,300 Th. €,Christian Myklebust,14/15,,75,Unknown 
+"Jan 1, 2014",-,Norway,5619,Aalesunds FK ,182269,300 Th. €,Christian Myklebust,13/14,Norway,35017,Aalesunds FK II 
+"Jan 1, 2011",-,Norway,15647,Aalesunds FK U19 ,182269,-,Christian Myklebust,10/11,Norway,5619,Aalesunds FK 
+"Mar 7, 2011",?,Austria,3551,SCR Altach ,140798,250 Th. €,Joshua Gatt,10/11,Norway,687,Molde FK 
+"Jul 1, 2010",Free transfer,United States,27243,Michigan Wolves ,140798,50 Th. €,Joshua Gatt,10/11,Austria,3551,SCR Altach 

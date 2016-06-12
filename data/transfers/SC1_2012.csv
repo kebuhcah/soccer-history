@@ -1,0 +1,935 @@
+date,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Aug 22, 2013",Free transfer,Scotland,370,Aberdeen FC ,3589,450 Th. €,Gary Naysmith,13/14,Scotland,3024,East Fife 
+"Aug 1, 2012",Free transfer,England,1110,Huddersfield ,3589,500 Th. €,Gary Naysmith,12/13,Scotland,370,Aberdeen FC 
+"Jul 1, 2010",Free transfer,England,350,Sheffield Utd. ,3589,"1,25 Mill. €",Gary Naysmith,10/11,England,1110,Huddersfield 
+"Jul 1, 2007","1,50 Mill. €",England,29,Everton ,3589,"1,40 Mill. €",Gary Naysmith,07/08,England,350,Sheffield Utd. 
+"Oct 1, 2000","2,63 Mill. €",Scotland,43,Heart of Midl. ,3589,-,Gary Naysmith,00/01,England,29,Everton 
+"Jul 1, 1996",-,Scotland,30046,Hearts FC U17 ,3589,-,Gary Naysmith,96/97,Scotland,43,Heart of Midl. 
+"Jan 8, 2015",Free transfer,Scotland,3032,Peterhead FC ,60949,-,Mark Millar,14/15,Scotland,3001,Queen o. t. S. 
+"Aug 15, 2014",Free transfer,Scotland,1519,Dundee United ,60949,300 Th. €,Mark Millar,14/15,Scotland,3032,Peterhead FC 
+"May 31, 2014",End of loan,Scotland,1191,Falkirk FC ,60949,300 Th. €,Mark Millar,13/14,Scotland,1519,Dundee United 
+"Oct 31, 2013",Loan,Scotland,1519,Dundee United ,60949,300 Th. €,Mark Millar,13/14,Scotland,1191,Falkirk FC 
+"Jul 1, 2012",Free transfer,Scotland,1191,Falkirk FC ,60949,275 Th. €,Mark Millar,12/13,Scotland,1519,Dundee United 
+"Jul 1, 2010",Free transfer,Scotland,371,Celtic ,60949,125 Th. €,Mark Millar,10/11,Scotland,1191,Falkirk FC 
+"May 1, 2010",End of loan,Hungary,708,Újpest FC ,60949,125 Th. €,Mark Millar,09/10,Scotland,371,Celtic 
+"Jul 1, 2009",Loan,Scotland,371,Celtic ,60949,-,Mark Millar,09/10,Hungary,708,Újpest FC 
+"Jul 1, 2008",-,Scotland,8924,Celtic U20 ,60949,-,Mark Millar,08/09,Scotland,371,Celtic 
+"Jul 1, 2013",Free transfer,Scotland,511,Dundee FC ,167959,50 Th. €,Graham Webster,13/14,Scotland,3030,Montrose 
+"May 6, 2012",End of loan,Scotland,3032,Peterhead FC ,167959,25 Th. €,Graham Webster,11/12,Scotland,511,Dundee FC 
+"Jan 1, 2012",Loan,Scotland,511,Dundee FC ,167959,25 Th. €,Graham Webster,11/12,Scotland,3032,Peterhead FC 
+"Jul 1, 2011",-,Scotland,8945,Dundee FC U20 ,167959,-,Graham Webster,11/12,Scotland,511,Dundee FC 
+"Feb 3, 2016",-,Scotland,1241,Livingston FC ,107544,200 Th. €,Declan Gallagher,15/16,,2113,career break 
+"Jul 4, 2014",-,Scotland,511,Dundee FC ,107544,250 Th. €,Declan Gallagher,14/15,Scotland,1241,Livingston FC 
+"Jul 1, 2012",Free transfer,Scotland,2575,Clyde ,107544,-,Declan Gallagher,12/13,Scotland,511,Dundee FC 
+"Aug 1, 2011",-,Scotland,8924,Celtic U20 ,107544,-,Declan Gallagher,11/12,Scotland,2575,Clyde 
+"May 1, 2011",End of loan,Scotland,3034,Stranraer ,107544,-,Declan Gallagher,10/11,Scotland,8924,Celtic U20 
+"Oct 1, 2010",Loan,Scotland,8924,Celtic U20 ,107544,-,Declan Gallagher,10/11,Scotland,3034,Stranraer 
+"Jul 1, 2008",-,Scotland,31025,Celtic Glasgow U17 ,107544,-,Declan Gallagher,08/09,Scotland,8924,Celtic U20 
+"Jul 3, 2014",Free transfer,Scotland,903,Hibernian FC ,45594,250 Th. €,Tom Taiwo,14/15,Scotland,1191,Falkirk FC 
+"Sep 13, 2012",-,Scotland,515,Unattached ,45594,100 Th. €,Tom Taiwo,12/13,,903,Hibernian FC 
+"Jul 1, 2012",-,England,1220,Carlisle United ,45594,100 Th. €,Tom Taiwo,12/13,,515,Unattached 
+"Jul 1, 2009",Free transfer,England,631,Chelsea ,45594,-,Tom Taiwo,09/10,England,1220,Carlisle United 
+"Dec 1, 2008",Loan,England,631,Chelsea ,45594,-,Tom Taiwo,08/09,England,1211,Port Vale FC 
+"Dec 1, 2008",End of loan,England,1211,Port Vale FC ,45594,-,Tom Taiwo,08/09,England,631,Chelsea 
+"Jul 1, 2007",-,England,6918,Chelsea U18 ,45594,-,Tom Taiwo,07/08,England,631,Chelsea 
+"Jul 1, 2006",?,England,10161,Leeds United U18 ,45594,-,Tom Taiwo,06/07,England,6918,Chelsea U18 
+"Jul 1, 2000",?,England,3818,Farsley Celtic ,45594,-,Tom Taiwo,00/01,England,10161,Leeds United U18 
+"Jul 1, 2016",Free transfer,Scotland,2553,Kilmarnock FC ,211973,200 Th. €,Lee Ashcroft,16/17,Scotland,1270,Dunfermline A. 
+"Dec 1, 2013",-,Scotland,9046,Kilmarnock FC U20 ,211973,-,Lee Ashcroft,13/14,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2010",-,Scotland,31033,Kilmarnock FC U17 ,211973,-,Lee Ashcroft,10/11,Scotland,9046,Kilmarnock FC U20 
+"Nov 3, 2014",End of loan,Scotland,3001,Queen o. t. S. ,244256,-,Greg Kiltie,14/15,Scotland,2553,Kilmarnock FC 
+"Oct 3, 2014",Loan,Scotland,2553,Kilmarnock FC ,244256,-,Greg Kiltie,14/15,Scotland,3001,Queen o. t. S. 
+"Jul 1, 2014",-,Scotland,9046,Kilmarnock FC U20 ,244256,-,Greg Kiltie,14/15,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2013",-,Scotland,31033,Kilmarnock FC U17 ,244256,-,Greg Kiltie,13/14,Scotland,9046,Kilmarnock FC U20 
+"Jul 1, 2012",Free transfer,England,2436,Macclesfield ,119332,75 Th. €,Ross Draper,12/13,Scotland,2451,Inverness Cal. 
+"Jul 1, 2009",25 Th. €,England,4295,Stafford Rangers ,119332,-,Ross Draper,09/10,England,2436,Macclesfield 
+"Jul 1, 2008",Free transfer,England,3724,Hednesford ,119332,-,Ross Draper,08/09,England,4295,Stafford Rangers 
+"Jul 1, 2007",Free transfer,England,3054,Shrewsbury Town ,119332,-,Ross Draper,07/08,England,3724,Hednesford 
+"Jul 1, 2006",-,England,16282,Shrewsbury U18 ,119332,-,Ross Draper,06/07,England,3054,Shrewsbury Town 
+"Oct 26, 2014",Free transfer,Portugal,515,Unattached ,143622,500 Th. €,Reuben Gabriel,14/15,,2503,Boavista 
+"Jul 1, 2014",-,Belgium,28643,Waasl.-Beveren ,143622,500 Th. €,Reuben Gabriel,14/15,,515,Unattached 
+"Jan 23, 2014",Free transfer,Scotland,2553,Kilmarnock FC ,143622,50 Th. €,Reuben Gabriel,13/14,Belgium,28643,Waasl.-Beveren 
+"Jul 1, 2013",Free transfer,Nigeria,6799,Kano Pillars ,143622,-,Reuben Gabriel,13/14,Scotland,2553,Kilmarnock FC 
+"Sep 1, 2010",?,Nigeria,645,Enyimba Aba ,143622,-,Reuben Gabriel,10/11,Nigeria,6799,Kano Pillars 
+"Jun 1, 2009",?,Nigeria,18928,Kaduna United ,143622,-,Reuben Gabriel,08/09,Nigeria,645,Enyimba Aba 
+"Jan 1, 2007",?,Nigeria,75,Unknown ,143622,-,Reuben Gabriel,06/07,,18928,Kaduna United 
+"Jul 28, 2015",?,Scotland,371,Celtic ,192557,175 Th. €,Jackson Irvine,15/16,Scotland,2759,Ross County 
+"May 31, 2015",End of loan,Scotland,2759,Ross County ,192557,175 Th. €,Jackson Irvine,14/15,Scotland,371,Celtic 
+"Sep 1, 2014",Loan,Scotland,371,Celtic ,192557,150 Th. €,Jackson Irvine,14/15,Scotland,2759,Ross County 
+"May 31, 2014",End of loan,Scotland,2553,Kilmarnock FC ,192557,150 Th. €,Jackson Irvine,13/14,Scotland,371,Celtic 
+"Aug 15, 2013",Loan,Scotland,371,Celtic ,192557,-,Jackson Irvine,13/14,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2013",-,Scotland,8924,Celtic U20 ,192557,-,Jackson Irvine,13/14,Scotland,371,Celtic 
+"Jan 1, 2010",?,Australia,19339,Frankston Pines ,192557,-,Jackson Irvine,09/10,Scotland,8924,Celtic U20 
+"May 31, 2014",End of loan,England,11177,Fleetwood Town ,195633,25 Th. €,Charlie Taylor,13/14,England,399,Leeds 
+"Oct 15, 2013",Loan,England,399,Leeds ,195633,25 Th. €,Charlie Taylor,13/14,England,11177,Fleetwood Town 
+"May 31, 2013",End of loan,Scotland,2451,Inverness Cal. ,195633,25 Th. €,Charlie Taylor,12/13,England,399,Leeds 
+"Jan 25, 2013",Loan,England,399,Leeds ,195633,-,Charlie Taylor,12/13,Scotland,2451,Inverness Cal. 
+"Oct 30, 2012",End of loan,England,1252,York City ,195633,-,Charlie Taylor,12/13,England,399,Leeds 
+"Aug 30, 2012",Loan,England,399,Leeds ,195633,-,Charlie Taylor,12/13,England,1252,York City 
+"Jul 1, 2012",-,England,20116,Leeds U21 ,195633,-,Charlie Taylor,12/13,England,399,Leeds 
+"Feb 1, 2012",End of loan,England,1027,Bradford City ,195633,-,Charlie Taylor,11/12,England,20116,Leeds U21 
+"Jan 1, 2012",Loan,England,20116,Leeds U21 ,195633,-,Charlie Taylor,11/12,England,1027,Bradford City 
+"Jul 1, 2014",?,Switzerland,515,Unattached ,87093,50 Th. €,Branislav Micic,14/15,,10724,FC Black Stars 
+"Jan 31, 2014",-,Scotland,2759,Ross County ,87093,50 Th. €,Branislav Micic,13/14,,515,Unattached 
+"Jan 31, 2013",?,Switzerland,8508,FC Sion U21 ,87093,50 Th. €,Branislav Micic,12/13,Scotland,2759,Ross County 
+"Jul 1, 2011",-,Switzerland,321,FC Sion ,87093,50 Th. €,Branislav Micic,11/12,Switzerland,8508,FC Sion U21 
+"Jun 30, 2010",End of loan,Switzerland,12424,Le Mont LS ,87093,50 Th. €,Branislav Micic,09/10,Switzerland,321,FC Sion 
+"Mar 1, 2010",Loan,Switzerland,321,FC Sion ,87093,50 Th. €,Branislav Micic,09/10,Switzerland,12424,Le Mont LS 
+"Jul 1, 2009",?,Belgium,3728,UR Namur ,87093,-,Branislav Micic,09/10,Switzerland,321,FC Sion 
+"Feb 1, 2009",Free transfer,Switzerland,2144,FC Grenchen ,87093,-,Branislav Micic,08/09,Belgium,3728,UR Namur 
+"Jul 1, 2008",?,Switzerland,14322,FC Basel U18 ,87093,-,Branislav Micic,08/09,Switzerland,2144,FC Grenchen 
+"Oct 2, 2015",-,England,515,Unattached ,193078,225 Th. €,Zaine Francis-Angol,15/16,,1195,Kidderminster 
+"Jul 1, 2015",-,Scotland,987,Motherwell FC ,193078,225 Th. €,Zaine Francis-Angol,15/16,,515,Unattached 
+"Jul 1, 2012",-,Scotland,2987,Motherwell FC U20 ,193078,-,Zaine Francis-Angol,12/13,Scotland,987,Motherwell FC 
+"Jul 13, 2011",Free transfer,England,6928,Tottenham U18 ,193078,-,Zaine Francis-Angol,11/12,Scotland,2987,Motherwell FC U20 
+"Jan 10, 2014",Free transfer,England,3684,Stevenage FC ,116791,50 Th. €,Don Cowan,13/14,Ireland,4287,Longford Town 
+"Sep 27, 2013",-,England,515,Unattached ,116791,50 Th. €,Don Cowan,13/14,,3684,Stevenage FC 
+"Sep 5, 2013",-,England,2793,Southend United ,116791,50 Th. €,Don Cowan,13/14,,515,Unattached 
+"Aug 5, 2013",Free transfer,Scotland,511,Dundee FC ,116791,50 Th. €,Don Cowan,13/14,England,2793,Southend United 
+"Mar 15, 2013",Free transfer,England,3684,Stevenage FC ,116791,50 Th. €,Don Cowan,12/13,Scotland,511,Dundee FC 
+"Dec 22, 2012",End of loan,England,6340,Braintree ,116791,50 Th. €,Don Cowan,12/13,England,3684,Stevenage FC 
+"Nov 22, 2012",Loan,England,3684,Stevenage FC ,116791,50 Th. €,Don Cowan,12/13,England,6340,Braintree 
+"Sep 13, 2011",?,Ireland,4287,Longford Town ,116791,50 Th. €,Don Cowan,11/12,England,3684,Stevenage FC 
+"Jan 1, 2011",Free transfer,Ireland,3258,Shamrock Rovers ,116791,50 Th. €,Don Cowan,10/11,Ireland,4287,Longford Town 
+"Dec 1, 2010",End of loan,Ireland,4287,Longford Town ,116791,50 Th. €,Don Cowan,10/11,Ireland,3258,Shamrock Rovers 
+"Jul 1, 2010",Loan,Ireland,3258,Shamrock Rovers ,116791,50 Th. €,Don Cowan,10/11,Ireland,4287,Longford Town 
+"Jan 1, 2010",-,Ireland,15293,Shamrock Rovers ,116791,-,Don Cowan,09/10,Ireland,3258,Shamrock Rovers 
+"Jan 1, 2009",Free transfer,Ireland,9209,Crumlin United ,116791,-,Don Cowan,08/09,Ireland,15293,Shamrock Rovers 
+"Mar 7, 2016",Free transfer,Poland,422,Wisla Kraków ,24501,350 Th. €,Radoslaw Cierzniak,15/16,Poland,255,Legia Warszawa 
+"Jul 7, 2015",Free transfer,Scotland,1519,Dundee United ,24501,300 Th. €,Radoslaw Cierzniak,15/16,Poland,422,Wisla Kraków 
+"Jul 1, 2012",Free transfer,Poland,5689,Cracovia Kraków ,24501,300 Th. €,Radoslaw Cierzniak,12/13,Scotland,1519,Dundee United 
+"Feb 1, 2012",Free transfer,Cyprus,8701,Alki Larnaca ,24501,300 Th. €,Radoslaw Cierzniak,11/12,Poland,5689,Cracovia Kraków 
+"Jan 1, 2011",Free transfer,Poland,6110,Korona Kielce ,24501,400 Th. €,Radoslaw Cierzniak,10/11,Cyprus,8701,Alki Larnaca 
+"Jan 1, 2007",170 Th. €,Poland,238,Lech Poznan ,24501,500 Th. €,Radoslaw Cierzniak,06/07,Poland,6110,Korona Kielce 
+"Jul 1, 2006",Free transfer,Poland,176,Amica Wronki ,24501,700 Th. €,Radoslaw Cierzniak,06/07,Poland,238,Lech Poznan 
+"Jul 1, 2004",?,Poland,1756,Aluminium Konin ,24501,-,Radoslaw Cierzniak,04/05,Poland,176,Amica Wronki 
+"Jul 1, 2003",Free transfer,Poland,9055,Stomil ,24501,-,Radoslaw Cierzniak,03/04,Poland,1756,Aluminium Konin 
+"Jan 1, 2003",Free transfer,Ukraine,2477,Karpaty ,24501,-,Radoslaw Cierzniak,02/03,Poland,9055,Stomil 
+"Sep 1, 2002",?,Ukraine,4482,Volyn Lutsk ,24501,-,Radoslaw Cierzniak,02/03,Ukraine,2477,Karpaty 
+"Aug 1, 2002",?,Poland,16054,MKS Sparta ,24501,-,Radoslaw Cierzniak,02/03,Ukraine,4482,Volyn Lutsk 
+"Jul 1, 2002",Free transfer,Poland,8692,Obra Koscian ,24501,-,Radoslaw Cierzniak,02/03,Poland,16054,MKS Sparta 
+"Aug 3, 2013",Free transfer,Scotland,2759,Ross County ,11333,250 Th. €,Steffen Wohlfarth,13/14,Germany,10780,FV Ravensburg 
+"Jan 21, 2013",Free transfer,Germany,108,Wehen Wiesbaden ,11333,250 Th. €,Steffen Wohlfarth,12/13,Scotland,2759,Ross County 
+"Jul 1, 2011",Free transfer,Germany,28,FC Bayern II ,11333,300 Th. €,Steffen Wohlfarth,11/12,Germany,108,Wehen Wiesbaden 
+"Jan 1, 2011",Free transfer,Germany,4795,FC Ingolstadt ,11333,300 Th. €,Steffen Wohlfarth,10/11,Germany,28,FC Bayern II 
+"Jul 1, 2006",Free transfer,Germany,60,SC Freiburg ,11333,50 Th. €,Steffen Wohlfarth,06/07,Germany,4795,FC Ingolstadt 
+"Jul 1, 2005",-,Germany,245,SC Freiburg II ,11333,50 Th. €,Steffen Wohlfarth,05/06,Germany,60,SC Freiburg 
+"Jul 1, 2002",-,Germany,4042,SC Freiburg U19 ,11333,-,Steffen Wohlfarth,02/03,Germany,245,SC Freiburg II 
+"Jul 1, 2016",Free transfer,Scotland,2795,Raith Rovers ,193101,50 Th. €,Darren Petrie,16/17,Scotland,3033,Stirling 
+"May 2, 2016",End of loan,Scotland,3014,Albion Rovers ,193101,50 Th. €,Darren Petrie,15/16,Scotland,2795,Raith Rovers 
+"Feb 5, 2016",Loan,Scotland,2795,Raith Rovers ,193101,50 Th. €,Darren Petrie,15/16,Scotland,3014,Albion Rovers 
+"Jul 1, 2015",Free transfer,Scotland,1519,Dundee United ,193101,50 Th. €,Darren Petrie,15/16,Scotland,2795,Raith Rovers 
+"May 5, 2015",End of loan,Scotland,3023,Dumbarton FC ,193101,50 Th. €,Darren Petrie,14/15,Scotland,1519,Dundee United 
+"Jan 28, 2015",Loan,Scotland,1519,Dundee United ,193101,50 Th. €,Darren Petrie,14/15,Scotland,3023,Dumbarton FC 
+"Jul 1, 2014",-,Scotland,9044,Dundee United FC U20  ,193101,-,Darren Petrie,14/15,Scotland,1519,Dundee United 
+"May 5, 2014",End of loan,Scotland,3194,Brechin City ,193101,-,Darren Petrie,13/14,Scotland,9044,Dundee United FC U20  
+"Oct 18, 2013",Loan,Scotland,9044,Dundee United FC U20  ,193101,-,Darren Petrie,13/14,Scotland,3194,Brechin City 
+"Jul 1, 2012",-,Scotland,31026,Dundee United FC U17 ,193101,-,Darren Petrie,12/13,Scotland,9044,Dundee United FC U20  
+"Jan 1, 2011",?,Scotland,5578,Carse Thistle ,193101,-,Darren Petrie,10/11,Scotland,31026,Dundee United FC U17 
+"Jul 1, 2015",?,Scotland,26136,Broughty AFC ,193105,25 Th. €,James Thomson,15/16,,75,Unknown 
+"Feb 7, 2014",Free transfer,Scotland,511,Dundee FC ,193105,25 Th. €,James Thomson,13/14,Scotland,26136,Broughty AFC 
+"Jan 31, 2014",End of loan,Scotland,3024,East Fife ,193105,25 Th. €,James Thomson,13/14,Scotland,511,Dundee FC 
+"Dec 5, 2013",Loan,Scotland,511,Dundee FC ,193105,25 Th. €,James Thomson,13/14,Scotland,3024,East Fife 
+"Jul 1, 2013",-,Scotland,8945,Dundee FC U20 ,193105,-,James Thomson,13/14,Scotland,511,Dundee FC 
+"Jul 1, 2012",-,Scotland,9044,Dundee United FC U20  ,193105,-,James Thomson,12/13,Scotland,8945,Dundee FC U20 
+"Jul 1, 2011",-,Scotland,31026,Dundee United FC U17 ,193105,-,James Thomson,11/12,Scotland,9044,Dundee United FC U20  
+"Jul 1, 2012",-,Scotland,12578,Hearts FC U20 ,169555,-,Callum Paterson,12/13,Scotland,43,Heart of Midl. 
+"Jul 1, 2011",-,Scotland,30046,Hearts FC U17 ,169555,-,Callum Paterson,11/12,Scotland,12578,Hearts FC U20 
+"Jul 1, 2010",?,Scotland,28500,Tynecastle Colts ,169555,-,Callum Paterson,10/11,Scotland,30046,Hearts FC U17 
+"Jul 31, 2015",?,Scotland,465,St. Mirren FC ,193116,450 Th. €,John McGinn,15/16,Scotland,903,Hibernian FC 
+"Nov 1, 2012",-,Scotland,10517,St. Mirren FC U20 ,193116,-,John McGinn,12/13,Scotland,465,St. Mirren FC 
+"Jul 1, 2011",-,Scotland,31036,St. Mirren FC U17 ,193116,-,John McGinn,11/12,Scotland,10517,St. Mirren FC U20 
+"Jul 10, 2015",Free transfer,Scotland,987,Motherwell FC ,13919,300 Th. €,Simon Ramsden,15/16,England,3456,Gateshead 
+"Jul 1, 2012",Free transfer,England,1027,Bradford City ,13919,125 Th. €,Simon Ramsden,12/13,Scotland,987,Motherwell FC 
+"Jul 1, 2009",Free transfer,England,1088,Rochdale AFC ,13919,125 Th. €,Simon Ramsden,09/10,England,1027,Bradford City 
+"Jan 1, 2006",Free transfer,England,1034,Grimsby Town ,13919,125 Th. €,Simon Ramsden,05/06,England,1088,Rochdale AFC 
+"Jul 1, 2004",Free transfer,England,289,Sunderland ,13919,-,Simon Ramsden,04/05,England,1034,Grimsby Town 
+"Dec 31, 2003",End of loan,England,1045,Notts County ,13919,-,Simon Ramsden,03/04,England,289,Sunderland 
+"Aug 1, 2002",Loan,England,289,Sunderland ,13919,-,Simon Ramsden,02/03,England,1045,Notts County 
+"Jul 1, 2002",-,England,12797,Sunderland U18 ,13919,-,Simon Ramsden,02/03,England,289,Sunderland 
+"Feb 22, 2016",-,Ireland,515,Unattached ,160354,250 Th. €,Phil Roberts,15/16,,8780,Sligo Rovers 
+"Aug 28, 2015",-,Scotland,511,Dundee FC ,160354,250 Th. €,Phil Roberts,15/16,,515,Unattached 
+"May 18, 2015",End of loan,Scotland,3020,Alloa AFC ,160354,250 Th. €,Phil Roberts,14/15,Scotland,511,Dundee FC 
+"Feb 2, 2015",Loan,Scotland,511,Dundee FC ,160354,250 Th. €,Phil Roberts,14/15,Scotland,3020,Alloa AFC 
+"Jul 1, 2014",-,Scotland,515,Unattached ,160354,250 Th. €,Phil Roberts,14/15,,511,Dundee FC 
+"Mar 28, 2014",-,Scotland,1191,Falkirk FC ,160354,250 Th. €,Phil Roberts,13/14,,515,Unattached 
+"Jul 26, 2013",Free transfer,England,11,Arsenal ,160354,250 Th. €,Phil Roberts,13/14,Scotland,1191,Falkirk FC 
+"May 31, 2013",End of loan,Scotland,2451,Inverness Cal. ,160354,250 Th. €,Phil Roberts,12/13,England,11,Arsenal 
+"Aug 29, 2012",Loan,England,11,Arsenal ,160354,-,Phil Roberts,12/13,Scotland,2451,Inverness Cal. 
+"Jul 1, 2012",-,England,5679,Arsenal U18  ,160354,-,Phil Roberts,12/13,England,11,Arsenal 
+"Jul 1, 2010",Free transfer,England,6898,Norwich U18 ,160354,-,Phil Roberts,10/11,England,5679,Arsenal U18  
+"Sep 3, 2013",-,Scotland,2553,Kilmarnock FC ,223419,-,Papa Idris,13/14,,515,Unattached 
+"Mar 31, 2013",Free transfer,Nigeria,6799,Kano Pillars ,223419,-,Papa Idris,12/13,Scotland,2553,Kilmarnock FC 
+"Jan 1, 2012",?,Nigeria,18928,Kaduna United ,223419,-,Papa Idris,11/12,Nigeria,6799,Kano Pillars 
+"Aug 1, 2015",Free transfer,Scotland,3021,Arbroath ,193125,-,Jack Smith,15/16,Scotland,28457,East Kilbride FC 
+"Aug 26, 2014",Free transfer,Scotland,8916,Greenock U20 ,193125,-,Jack Smith,14/15,Scotland,3021,Arbroath 
+"Jan 30, 2014",Free transfer,Scotland,3024,East Fife ,193125,-,Jack Smith,13/14,Scotland,8916,Greenock U20 
+"Nov 1, 2013",-,Scotland,515,Unattached ,193125,-,Jack Smith,13/14,,3024,East Fife 
+"Jul 1, 2013",-,Scotland,10517,St. Mirren FC U20 ,193125,-,Jack Smith,13/14,,515,Unattached 
+"Jul 1, 2011",-,Scotland,31036,St. Mirren FC U17 ,193125,-,Jack Smith,11/12,Scotland,10517,St. Mirren FC U20 
+"Feb 11, 2016",-,Scotland,515,Unattached ,128103,75 Th. €,Steven Ross,15/16,,3028,Elgin City 
+"Jan 11, 2016",-,Scotland,3023,Dumbarton FC ,128103,75 Th. €,Steven Ross,15/16,,515,Unattached 
+"Aug 26, 2015",Free transfer,Scotland,2759,Ross County ,128103,75 Th. €,Steven Ross,15/16,Scotland,3023,Dumbarton FC 
+"May 5, 2014",End of loan,Scotland,3491,Brora Rangers ,128103,-,Steven Ross,13/14,Scotland,2759,Ross County 
+"Jan 31, 2014",Loan,Scotland,2759,Ross County ,128103,200 Th. €,Steven Ross,13/14,Scotland,3491,Brora Rangers 
+"Jul 1, 2012",-,Scotland,10520,Ross County FC U20 ,128103,-,Steven Ross,12/13,Scotland,2759,Ross County 
+"May 1, 2012",End of loan,Scotland,3458,Forres ,128103,-,Steven Ross,11/12,Scotland,10520,Ross County FC U20 
+"Jan 1, 2012",Loan,Scotland,10520,Ross County FC U20 ,128103,-,Steven Ross,11/12,Scotland,3458,Forres 
+"Dec 1, 2011",End of loan,Scotland,3491,Brora Rangers ,128103,-,Steven Ross,11/12,Scotland,10520,Ross County FC U20 
+"Aug 1, 2011",Loan,Scotland,10520,Ross County FC U20 ,128103,-,Steven Ross,11/12,Scotland,3491,Brora Rangers 
+"May 1, 2011",End of loan,Scotland,3491,Brora Rangers ,128103,-,Steven Ross,10/11,Scotland,10520,Ross County FC U20 
+"Feb 1, 2011",Loan,Scotland,10520,Ross County FC U20 ,128103,-,Steven Ross,10/11,Scotland,3491,Brora Rangers 
+"Jul 1, 2010",-,Scotland,45398,Ross County U17 ,128103,-,Steven Ross,10/11,Scotland,10520,Ross County FC U20 
+"Jul 1, 2013",-,Scotland,903,Hibernian FC ,12398,250 Th. €,Shefki Kuqi,13/14,,123,End of career 
+"Aug 17, 2012",Free transfer,England,1078,Oldham Athletic ,12398,250 Th. €,Shefki Kuqi,12/13,Scotland,903,Hibernian FC 
+"Aug 31, 2011",Free transfer,England,762,Newcastle ,12398,500 Th. €,Shefki Kuqi,11/12,England,1078,Oldham Athletic 
+"Feb 10, 2011",Free transfer,England,2288,Swansea ,12398,750 Th. €,Shefki Kuqi,10/11,England,762,Newcastle 
+"Dec 1, 2010",End of loan,England,22,Derby ,12398,750 Th. €,Shefki Kuqi,10/11,England,2288,Swansea 
+"Sep 1, 2010",Loan,England,2288,Swansea ,12398,900 Th. €,Shefki Kuqi,10/11,England,22,Derby 
+"Jan 1, 2010",Free transfer,Germany,996,TuS Koblenz ,12398,"1,00 Mill. €",Shefki Kuqi,09/10,England,2288,Swansea 
+"Jul 1, 2009",Free transfer,England,873,Crystal Palace ,12398,"1,25 Mill. €",Shefki Kuqi,09/10,Germany,996,TuS Koblenz 
+"May 1, 2008",End of loan,England,677,Ipswich ,12398,"1,50 Mill. €",Shefki Kuqi,07/08,England,873,Crystal Palace 
+"Mar 1, 2008",Loan,England,873,Crystal Palace ,12398,"1,50 Mill. €",Shefki Kuqi,07/08,England,677,Ipswich 
+"Dec 31, 2007",End of loan,England,931,Fulham FC ,12398,"3,70 Mill. €",Shefki Kuqi,07/08,England,873,Crystal Palace 
+"Aug 1, 2007",Loan,England,873,Crystal Palace ,12398,"3,70 Mill. €",Shefki Kuqi,07/08,England,931,Fulham FC 
+"Aug 1, 2006","3,75 Mill. €",England,164,Blackburn ,12398,"1,75 Mill. €",Shefki Kuqi,06/07,England,873,Crystal Palace 
+"Jul 1, 2005",Free transfer,England,677,Ipswich ,12398,"1,00 Mill. €",Shefki Kuqi,05/06,England,164,Blackburn 
+"Sep 1, 2003",Free transfer,England,1035,Sheff Wed ,12398,-,Shefki Kuqi,03/04,England,677,Ipswich 
+"Jan 1, 2002","1,50 Mill. €",England,1098,Stockport ,12398,-,Shefki Kuqi,01/02,England,1035,Sheff Wed 
+"Jan 1, 2001",450 Th. €,Finland,480,FC Jokerit ,12398,-,Shefki Kuqi,00/01,England,1098,Stockport 
+"Jul 1, 2000",Free transfer,Finland,1008,HJK Helsinki ,12398,-,Shefki Kuqi,00/01,Finland,480,FC Jokerit 
+"Jan 1, 1997",Free transfer,Finland,21520,Mikkelin ,12398,-,Shefki Kuqi,96/97,Finland,1008,HJK Helsinki 
+"Jul 1, 2015",Free transfer,Scotland,371,Celtic ,132206,50 Th. €,John Herron,15/16,England,1181,Blackpool 
+"May 5, 2015",End of loan,Scotland,3027,Cowdenbeath FC ,132206,50 Th. €,John Herron,14/15,Scotland,371,Celtic 
+"Jan 23, 2015",Loan,Scotland,371,Celtic ,132206,50 Th. €,John Herron,14/15,Scotland,3027,Cowdenbeath FC 
+"Jul 1, 2014",-,Scotland,8924,Celtic U20 ,132206,-,John Herron,14/15,Scotland,371,Celtic 
+"Jul 1, 2011",-,Scotland,31025,Celtic Glasgow U17 ,132206,-,John Herron,11/12,Scotland,8924,Celtic U20 
+"Jul 1, 2014",-,Scotland,1519,Dundee United ,242288,-,Luke Johnston,14/15,,515,Unattached 
+"Mar 9, 2014",End of loan,Scotland,3030,Montrose ,242288,-,Luke Johnston,13/14,Scotland,1519,Dundee United 
+"Dec 10, 2013",Loan,Scotland,1519,Dundee United ,242288,-,Luke Johnston,13/14,Scotland,3030,Montrose 
+"Dec 7, 2013",End of loan,Scotland,1270,Dunfermline A. ,242288,-,Luke Johnston,13/14,Scotland,1519,Dundee United 
+"Jul 30, 2013",Loan,Scotland,1519,Dundee United ,242288,-,Luke Johnston,13/14,Scotland,1270,Dunfermline A. 
+"Jul 1, 2013",-,Scotland,9044,Dundee United FC U20  ,242288,-,Luke Johnston,13/14,Scotland,1519,Dundee United 
+"Jan 1, 2012",-,Scotland,515,Unattached ,242288,-,Luke Johnston,11/12,,9044,Dundee United FC U20  
+"Nov 1, 2011",-,Australia,26209,Perth Glory U21 ,242288,-,Luke Johnston,11/12,,515,Unattached 
+"Jul 14, 2015",Free transfer,Scotland,465,St. Mirren FC ,132213,25 Th. €,Mo Yaqub,15/16,Scotland,3027,Cowdenbeath FC 
+"Jul 1, 2013",-,Scotland,10517,St. Mirren FC U20 ,132213,-,Mo Yaqub,13/14,Scotland,465,St. Mirren FC 
+"Jul 1, 2012",-,Scotland,8924,Celtic U20 ,132213,-,Mo Yaqub,12/13,Scotland,10517,St. Mirren FC U20 
+"Jul 1, 2011",-,Scotland,31025,Celtic Glasgow U17 ,132213,-,Mo Yaqub,11/12,Scotland,8924,Celtic U20 
+"Jul 1, 2014",Free transfer,England,39968,Celtic Nation ,13942,-,Colin McMenamin,14/15,Scotland,3012,Stenhousemuir 
+"Jul 1, 2013",Free transfer,Scotland,3026,Morton ,13942,300 Th. €,Colin McMenamin,13/14,England,39968,Celtic Nation 
+"Jan 24, 2013",Free transfer,Scotland,2759,Ross County ,13942,350 Th. €,Colin McMenamin,12/13,Scotland,3026,Morton 
+"Jul 1, 2011",Free transfer,Scotland,3001,Queen o. t. S. ,13942,325 Th. €,Colin McMenamin,11/12,Scotland,2759,Ross County 
+"Nov 1, 2010",-,Scotland,515,Unattached ,13942,350 Th. €,Colin McMenamin,10/11,,3001,Queen o. t. S. 
+"Oct 1, 2010",-,Scotland,511,Dundee FC ,13942,350 Th. €,Colin McMenamin,10/11,,515,Unattached 
+"Feb 1, 2008",Free transfer,Scotland,3029,Gretna ,13942,50 Th. €,Colin McMenamin,07/08,Scotland,511,Dundee FC 
+"Dec 31, 2007",End of loan,Scotland,1241,Livingston FC ,13942,50 Th. €,Colin McMenamin,07/08,Scotland,3029,Gretna 
+"Nov 1, 2007",Loan,Scotland,3029,Gretna ,13942,50 Th. €,Colin McMenamin,07/08,Scotland,1241,Livingston FC 
+"Jul 1, 2006",Free transfer,England,3054,Shrewsbury Town ,13942,50 Th. €,Colin McMenamin,06/07,Scotland,3029,Gretna 
+"Jul 1, 2005",Free transfer,Scotland,1241,Livingston FC ,13942,50 Th. €,Colin McMenamin,05/06,England,3054,Shrewsbury Town 
+"Jun 30, 2004",End of loan,Scotland,1191,Falkirk FC ,13942,-,Colin McMenamin,03/04,Scotland,1241,Livingston FC 
+"Jul 1, 2003",Loan,Scotland,1241,Livingston FC ,13942,-,Colin McMenamin,03/04,Scotland,1191,Falkirk FC 
+"Jul 1, 2002",Free transfer,England,762,Newcastle ,13942,-,Colin McMenamin,02/03,Scotland,1241,Livingston FC 
+"Jul 1, 2000",Free transfer,Scotland,3015,Annan Athletic ,13942,-,Colin McMenamin,00/01,England,762,Newcastle 
+"Jul 1, 1999",?,Scotland,15793,QotS U20 ,13942,-,Colin McMenamin,99/00,Scotland,3015,Annan Athletic 
+"Jul 1, 2015",-,Scotland,2553,Kilmarnock FC ,175739,150 Th. €,Michael Ngoo,15/16,,515,Unattached 
+"Aug 15, 2014",Free transfer,England,31,Liverpool ,175739,150 Th. €,Michael Ngoo,14/15,Scotland,2553,Kilmarnock FC 
+"May 31, 2014",End of loan,England,899,Walsall FC ,175739,150 Th. €,Michael Ngoo,13/14,England,31,Liverpool 
+"Jan 31, 2014",Loan,England,31,Liverpool ,175739,150 Th. €,Michael Ngoo,13/14,England,899,Walsall FC 
+"Oct 10, 2013",End of loan,England,972,Yeovil Town ,175739,150 Th. €,Michael Ngoo,13/14,England,31,Liverpool 
+"Jul 10, 2013",Loan,England,31,Liverpool ,175739,75 Th. €,Michael Ngoo,13/14,England,972,Yeovil Town 
+"May 31, 2013",End of loan,Scotland,43,Heart of Midl. ,175739,75 Th. €,Michael Ngoo,12/13,England,31,Liverpool 
+"Jan 25, 2013",Loan,England,31,Liverpool ,175739,-,Michael Ngoo,12/13,Scotland,43,Heart of Midl. 
+"Jul 1, 2010",-,England,6922,Liverpool U18 ,175739,-,Michael Ngoo,10/11,England,31,Liverpool 
+"Sep 1, 2009",300 Th. €,England,14987,Southend U18 ,175739,-,Michael Ngoo,09/10,England,6922,Liverpool U18 
+"Feb 1, 2016",Free transfer,England,13286,Chorley FC ,28800,150 Th. €,Lewis Guy,15/16,Scotland,3015,Annan Athletic 
+"Aug 1, 2015",Free transfer,England,6168,Barrow ,28800,150 Th. €,Lewis Guy,15/16,England,13286,Chorley FC 
+"Jan 21, 2015",Free transfer,England,3456,Gateshead ,28800,150 Th. €,Lewis Guy,14/15,England,6168,Barrow 
+"Jul 1, 2014",Free transfer,England,1220,Carlisle United ,28800,300 Th. €,Lewis Guy,14/15,England,3456,Gateshead 
+"Jul 25, 2013",Free transfer,Scotland,465,St. Mirren FC ,28800,300 Th. €,Lewis Guy,13/14,England,1220,Carlisle United 
+"Jul 1, 2012",-,Scotland,515,Unattached ,28800,800 Th. €,Lewis Guy,12/13,,465,St. Mirren FC 
+"Jan 1, 2012",-,England,991,MK Dons ,28800,800 Th. €,Lewis Guy,11/12,,515,Unattached 
+"Dec 1, 2011",End of loan,England,988,Oxford United ,28800,800 Th. €,Lewis Guy,11/12,England,991,MK Dons 
+"Nov 1, 2011",Loan,England,991,MK Dons ,28800,800 Th. €,Lewis Guy,11/12,England,988,Oxford United 
+"Sep 1, 2011",End of loan,England,988,Oxford United ,28800,800 Th. €,Lewis Guy,11/12,England,991,MK Dons 
+"Aug 1, 2011",Loan,England,991,MK Dons ,28800,800 Th. €,Lewis Guy,11/12,England,988,Oxford United 
+"Jul 1, 2010",Free transfer,England,2454,Doncaster Rov. ,28800,800 Th. €,Lewis Guy,10/11,England,991,MK Dons 
+"May 1, 2010",End of loan,England,1078,Oldham Athletic ,28800,800 Th. €,Lewis Guy,09/10,England,2454,Doncaster Rov. 
+"Mar 1, 2010",Loan,England,2454,Doncaster Rov. ,28800,800 Th. €,Lewis Guy,09/10,England,1078,Oldham Athletic 
+"Mar 1, 2009",End of loan,England,2577,Hartlepool Utd. ,28800,800 Th. €,Lewis Guy,08/09,England,2454,Doncaster Rov. 
+"Feb 1, 2009",Loan,England,2454,Doncaster Rov. ,28800,800 Th. €,Lewis Guy,08/09,England,2577,Hartlepool Utd. 
+"Jul 1, 2005",Free transfer,England,762,Newcastle ,28800,100 Th. €,Lewis Guy,05/06,England,2454,Doncaster Rov. 
+"Jul 1, 2004",-,England,6943,Newcastle U18 ,28800,-,Lewis Guy,04/05,England,762,Newcastle 
+"Sep 7, 2014",-,England,3052,Sutton United ,48259,-,Matt Lockwood,14/15,,123,End of career 
+"Jul 1, 2014",Free transfer,Scotland,511,Dundee FC ,48259,100 Th. €,Matt Lockwood,14/15,England,3052,Sutton United 
+"Aug 1, 2010",Free transfer,England,1060,Colchester Utd. ,48259,200 Th. €,Matt Lockwood,10/11,Scotland,511,Dundee FC 
+"May 1, 2010",End of loan,England,2804,Barnet ,48259,200 Th. €,Matt Lockwood,09/10,England,1060,Colchester Utd. 
+"Jan 1, 2010",Loan,England,1060,Colchester Utd. ,48259,200 Th. €,Matt Lockwood,09/10,England,2804,Barnet 
+"Nov 1, 2009",End of loan,England,3696,Dag & Red FC ,48259,200 Th. €,Matt Lockwood,09/10,England,1060,Colchester Utd. 
+"Oct 1, 2009",Loan,England,1060,Colchester Utd. ,48259,200 Th. €,Matt Lockwood,09/10,England,3696,Dag & Red FC 
+"Apr 1, 2009",End of loan,England,2804,Barnet ,48259,200 Th. €,Matt Lockwood,08/09,England,1060,Colchester Utd. 
+"Feb 1, 2009",Loan,England,1060,Colchester Utd. ,48259,200 Th. €,Matt Lockwood,08/09,England,2804,Barnet 
+"Jul 1, 2008",150 Th. €,England,703,Nottm Forest ,48259,200 Th. €,Matt Lockwood,08/09,England,1060,Colchester Utd. 
+"Jul 1, 2007",180 Th. €,England,1150,Leyton Orient ,48259,-,Matt Lockwood,07/08,England,703,Nottm Forest 
+"Jul 1, 1998",Free transfer,England,2455,Bristol Rovers ,48259,-,Matt Lockwood,98/99,England,1150,Leyton Orient 
+"Jul 1, 1996",Free transfer,England,1039,QPR ,48259,-,Matt Lockwood,96/97,England,2455,Bristol Rovers 
+"Jul 1, 1995",-,England,14987,Southend U18 ,48259,-,Matt Lockwood,95/96,England,1039,QPR 
+"Jul 4, 2015",Free transfer,Scotland,3194,Brechin City ,179844,-,Callum Tapping,15/16,Scotland,3001,Queen o. t. S. 
+"Jul 24, 2014",Free transfer,Scotland,43,Heart of Midl. ,179844,150 Th. €,Callum Tapping,14/15,Scotland,3194,Brechin City 
+"Dec 15, 2012",End of loan,Scotland,3020,Alloa AFC ,179844,-,Callum Tapping,12/13,Scotland,43,Heart of Midl. 
+"Nov 16, 2012",Loan,Scotland,43,Heart of Midl. ,179844,-,Callum Tapping,12/13,Scotland,3020,Alloa AFC 
+"Jul 1, 2012",-,Scotland,12578,Hearts FC U20 ,179844,-,Callum Tapping,12/13,Scotland,43,Heart of Midl. 
+"Aug 31, 2011",?,England,6928,Tottenham U18 ,179844,-,Callum Tapping,11/12,Scotland,12578,Hearts FC U20 
+"Jul 1, 2009",?,Scotland,31030,Hamilton Academical FC U17 ,179844,-,Callum Tapping,09/10,England,6928,Tottenham U18 
+"Jul 1, 2008",?,Scotland,31025,Celtic Glasgow U17 ,179844,-,Callum Tapping,08/09,Scotland,31030,Hamilton Academical FC U17 
+"Nov 2, 2015",-,Scotland,515,Unattached ,120967,225 Th. €,Fraser Kerr,15/16,,3027,Cowdenbeath FC 
+"Jul 1, 2015",-,Scotland,987,Motherwell FC ,120967,225 Th. €,Fraser Kerr,15/16,,515,Unattached 
+"Jul 1, 2013",Free transfer,England,24212,Birmingham U21 ,120967,175 Th. €,Fraser Kerr,13/14,Scotland,987,Motherwell FC 
+"May 31, 2013",End of loan,Scotland,987,Motherwell FC ,120967,175 Th. €,Fraser Kerr,12/13,England,24212,Birmingham U21 
+"Aug 10, 2012",Loan,England,24212,Birmingham U21 ,120967,50 Th. €,Fraser Kerr,12/13,Scotland,987,Motherwell FC 
+"Jul 1, 2011",-,England,6938,Birmingham U18 ,120967,-,Fraser Kerr,11/12,England,24212,Birmingham U21 
+"Jul 1, 2009",?,Scotland,31035,Motherwell FC U17 ,120967,-,Fraser Kerr,09/10,England,6938,Birmingham U18 
+"Jul 1, 2015",Free transfer,Scotland,511,Dundee FC ,91273,250 Th. €,Kyle Benedictus,15/16,Scotland,2795,Raith Rovers 
+"May 18, 2015",End of loan,Scotland,3020,Alloa AFC ,91273,250 Th. €,Kyle Benedictus,14/15,Scotland,511,Dundee FC 
+"Sep 1, 2014",Loan,Scotland,511,Dundee FC ,91273,300 Th. €,Kyle Benedictus,14/15,Scotland,3020,Alloa AFC 
+"Mar 1, 2011",-,Scotland,8945,Dundee FC U20 ,91273,250 Th. €,Kyle Benedictus,10/11,Scotland,511,Dundee FC 
+"Feb 1, 2011",End of loan,Scotland,3030,Montrose ,91273,250 Th. €,Kyle Benedictus,10/11,Scotland,8945,Dundee FC U20 
+"Jan 1, 2011",Loan,Scotland,8945,Dundee FC U20 ,91273,250 Th. €,Kyle Benedictus,10/11,Scotland,3030,Montrose 
+"Jul 1, 2015",Free transfer,Scotland,987,Motherwell FC ,203405,50 Th. €,Ross Stewart,15/16,Scotland,3014,Albion Rovers 
+"Jul 1, 2013",-,Scotland,2987,Motherwell FC U20 ,203405,-,Ross Stewart,13/14,Scotland,987,Motherwell FC 
+"Jul 1, 2012",-,Scotland,31035,Motherwell FC U17 ,203405,-,Ross Stewart,12/13,Scotland,2987,Motherwell FC U20 
+"Feb 2, 2015",Free transfer,Qatar,6297,Al-Gharafa ,58001,"3,00 Mill. €",Miku,14/15,Spain,367,Rayo Vallecano 
+"Sep 29, 2013","1,50 Mill. €",Spain,3709,Getafe CF ,58001,"3,00 Mill. €",Miku,13/14,Qatar,6297,Al-Gharafa 
+"Jun 30, 2013",End of loan,Scotland,371,Celtic ,58001,"4,00 Mill. €",Miku,12/13,Spain,3709,Getafe CF 
+"Aug 31, 2012",Loan,Spain,3709,Getafe CF ,58001,"5,00 Mill. €",Miku,12/13,Scotland,371,Celtic 
+"Jan 1, 2010",Free transfer,Spain,1049,Valencia CF ,58001,"1,60 Mill. €",Miku,09/10,Spain,3709,Getafe CF 
+"Jul 1, 2009",-,Spain,6182,V. Mestalla ,58001,"1,00 Mill. €",Miku,09/10,Spain,1049,Valencia CF 
+"Jun 30, 2009",End of loan,Spain,1087,UD Salamanca ,58001,"1,00 Mill. €",Miku,08/09,Spain,6182,V. Mestalla 
+"Aug 1, 2008",Loan,Spain,6182,V. Mestalla ,58001,600 Th. €,Miku,08/09,Spain,1087,UD Salamanca 
+"Jun 30, 2008",End of loan,Spain,5648,Gimnàstic ,58001,600 Th. €,Miku,07/08,Spain,6182,V. Mestalla 
+"Jul 1, 2007",Loan,Spain,6182,V. Mestalla ,58001,-,Miku,07/08,Spain,5648,Gimnàstic 
+"Jan 1, 2007",End of loan,Spain,4053,Ciudad Murcia ,58001,-,Miku,06/07,Spain,6182,V. Mestalla 
+"Jul 1, 2006",Loan,Spain,6182,V. Mestalla ,58001,-,Miku,06/07,Spain,4053,Ciudad Murcia 
+"Jun 30, 2006",End of loan,Spain,1087,UD Salamanca ,58001,-,Miku,05/06,Spain,6182,V. Mestalla 
+"Jul 1, 2005",Loan,Spain,6182,V. Mestalla ,58001,-,Miku,05/06,Spain,1087,UD Salamanca 
+"Jun 30, 2005",End of loan,Spain,11259,CD Alcoyano ,58001,-,Miku,04/05,Spain,6182,V. Mestalla 
+"Aug 1, 2004",Loan,Spain,6182,V. Mestalla ,58001,-,Miku,04/05,Spain,11259,CD Alcoyano 
+"Jul 1, 2004",-,Spain,10200,Valencia Juv. A ,58001,-,Miku,04/05,Spain,6182,V. Mestalla 
+"Jul 24, 2015",Free transfer,Scotland,3030,Montrose ,167061,175 Th. €,Leighton McIntosh,15/16,Scotland,3032,Peterhead FC 
+"Sep 19, 2014",-,Scotland,515,Unattached ,167061,175 Th. €,Leighton McIntosh,14/15,,3030,Montrose 
+"Jul 1, 2014",-,Scotland,511,Dundee FC ,167061,175 Th. €,Leighton McIntosh,14/15,,515,Unattached 
+"May 5, 2014",End of loan,Scotland,3021,Arbroath ,167061,175 Th. €,Leighton McIntosh,13/14,Scotland,511,Dundee FC 
+"Jan 30, 2014",Loan,Scotland,511,Dundee FC ,167061,175 Th. €,Leighton McIntosh,13/14,Scotland,3021,Arbroath 
+"May 5, 2013",End of loan,Scotland,3030,Montrose ,167061,-,Leighton McIntosh,12/13,Scotland,511,Dundee FC 
+"Aug 17, 2012",Loan,Scotland,511,Dundee FC ,167061,175 Th. €,Leighton McIntosh,12/13,Scotland,3030,Montrose 
+"Jul 1, 2010",-,Scotland,44586,Dundee U17 ,167061,-,Leighton McIntosh,10/11,Scotland,511,Dundee FC 
+"Sep 7, 2015",Free transfer,Japan,6631,FC Tokyo ,101015,500 Th. â‚¬,Lassad Nouioui,15/16,Tunisia,819,Club Africain 
+"May 8, 2015",-,Japan,515,Unattached ,101015,"1,00 Mill. â‚¬",Lassad Nouioui,14/15,,6631,FC Tokyo 
+"Jul 1, 2014",-,Portugal,8024,Arouca ,101015,"1,00 Mill. â‚¬",Lassad Nouioui,14/15,,515,Unattached 
+"Dec 4, 2013",-,Portugal,515,Unattached ,101015,"1,00 Mill. â‚¬",Lassad Nouioui,13/14,,8024,Arouca 
+"Aug 31, 2013",-,Scotland,371,Celtic ,101015,"2,00 Mill. â‚¬",Lassad Nouioui,13/14,,515,Unattached 
+"Sep 2, 2012",Free transfer,Spain,897,Dep. La CoruÃ±a ,101015,"2,00 Mill. â‚¬",Lassad Nouioui,12/13,Scotland,371,Celtic 
+"Feb 13, 2009",-,Spain,11603,Depor B ,101015,-,Lassad Nouioui,08/09,Spain,897,Dep. La CoruÃ±a 
+"Jan 1, 2008",Free transfer,France,12761,LB ChÃ¢teauroux B ,101015,-,Lassad Nouioui,07/08,Spain,11603,Depor B 
+"Jul 1, 2006",Free transfer,France,8305,AC Ajaccio B ,101015,-,Lassad Nouioui,06/07,France,12761,LB ChÃ¢teauroux B 
+"Jul 1, 2004",-,France,10884,AC Ajaccio U19 ,101015,-,Lassad Nouioui,04/05,France,8305,AC Ajaccio B 
+"May 31, 2016",End of loan,England,164,Blackburn ,132764,"1,50 Mill. €",Tony Watt,15/16,England,358,Charlton 
+"Jan 29, 2016",Loan,England,358,Charlton ,132764,"1,50 Mill. €",Tony Watt,15/16,England,164,Blackburn 
+"Jan 16, 2016",End of loan,England,603,Cardiff ,132764,"1,50 Mill. €",Tony Watt,15/16,England,358,Charlton 
+"Nov 23, 2015",Loan,England,358,Charlton ,132764,"1,50 Mill. €",Tony Watt,15/16,England,603,Cardiff 
+"Jan 6, 2015",?,Belgium,3057,Standard Liège ,132764,"1,50 Mill. €",Tony Watt,14/15,England,358,Charlton 
+"Jul 28, 2014","1,50 Mill. €",Scotland,371,Celtic ,132764,"1,50 Mill. €",Tony Watt,14/15,Belgium,3057,Standard Liège 
+"May 31, 2014",End of loan,Belgium,204,Lierse SK ,132764,"1,50 Mill. €",Tony Watt,13/14,Scotland,371,Celtic 
+"Aug 31, 2013",Loan,Scotland,371,Celtic ,132764,"1,25 Mill. €",Tony Watt,13/14,Belgium,204,Lierse SK 
+"Jul 1, 2012",-,Scotland,8924,Celtic U20 ,132764,50 Th. €,Tony Watt,12/13,Scotland,371,Celtic 
+"Jan 1, 2011",120 Th. €,Scotland,2802,Airdrie United ,132764,50 Th. €,Tony Watt,10/11,Scotland,8924,Celtic U20 
+"Jul 1, 2010",-,Scotland,10549,Airdrie U20 ,132764,-,Tony Watt,10/11,Scotland,2802,Airdrie United 
+"May 31, 2014",End of loan,Australia,7006,Melbourne Victory ,213672,750 Th. €,Tom Rogic,13/14,Scotland,371,Celtic 
+"Jan 20, 2014",Loan,Scotland,371,Celtic ,213672,750 Th. €,Tom Rogic,13/14,Australia,7006,Melbourne Victory 
+"Jan 21, 2013",480 Th. €,Australia,6954,Central Coast Mariners ,213672,750 Th. €,Tom Rogic,12/13,Scotland,371,Celtic 
+"Jan 2, 2012",Free transfer,Australia,21408,Blue Devils ,213672,-,Tom Rogic,11/12,Australia,6954,Central Coast Mariners 
+"Jan 1, 2012",?,England,46863,Nike Academy ,213672,-,Tom Rogic,11/12,Australia,21408,Blue Devils 
+"Jul 1, 2016",-,Scotland,2553,Kilmarnock FC ,130729,300 Th. €,Craig Slater,16/17,,515,Unattached 
+"Dec 1, 2013",-,Scotland,9046,Kilmarnock FC U20 ,130729,-,Craig Slater,13/14,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2012",?,Scotland,515,Unattached ,130729,-,Craig Slater,12/13,,9046,Kilmarnock FC U20 
+"Jan 1, 2012",-,Scotland,10517,St. Mirren FC U20 ,130729,-,Craig Slater,11/12,,515,Unattached 
+"Jul 1, 2011",-,Scotland,31036,St. Mirren FC U17 ,130729,-,Craig Slater,11/12,Scotland,10517,St. Mirren FC U20 
+"Jul 1, 2014",Free transfer,Scotland,2451,Inverness Cal. ,234161,125 Th. €,Conor Pepper,14/15,Scotland,3026,Morton 
+"Jul 27, 2012",?,Ireland,15436,St. Pats ,234161,-,Conor Pepper,12/13,Scotland,2451,Inverness Cal. 
+"Jan 1, 2012",?,England,12805,QPR U18 ,234161,-,Conor Pepper,11/12,Ireland,15436,St. Pats 
+"May 10, 2015",End of loan,Scotland,3194,Brechin City ,163515,50 Th. €,Craig Storie,14/15,Scotland,370,Aberdeen FC 
+"Jan 29, 2015",Loan,Scotland,370,Aberdeen FC ,163515,50 Th. €,Craig Storie,14/15,Scotland,3194,Brechin City 
+"Dec 8, 2013",End of loan,Scotland,3016,Forfar Athletic ,163515,50 Th. €,Craig Storie,13/14,Scotland,370,Aberdeen FC 
+"Nov 7, 2013",Loan,Scotland,370,Aberdeen FC ,163515,50 Th. €,Craig Storie,13/14,Scotland,3016,Forfar Athletic 
+"Jul 1, 2013",-,Scotland,3046,Aberdeen FC U20  ,163515,-,Craig Storie,13/14,Scotland,370,Aberdeen FC 
+"Jul 1, 2011",-,Scotland,30806,Aberdeen FC U17 ,163515,-,Craig Storie,11/12,Scotland,3046,Aberdeen FC U20  
+"Jul 1, 2016",Free transfer,England,1211,Port Vale FC ,61632,250 Th. €,Ryan McGivern,16/17,England,3054,Shrewsbury Town 
+"Jul 1, 2014",Free transfer,Scotland,903,Hibernian FC ,61632,450 Th. €,Ryan McGivern,14/15,England,1211,Port Vale FC 
+"Jul 1, 2013",Free transfer,England,281,Manchester City ,61632,500 Th. €,Ryan McGivern,13/14,Scotland,903,Hibernian FC 
+"May 31, 2013",End of loan,Scotland,903,Hibernian FC ,61632,500 Th. €,Ryan McGivern,12/13,England,281,Manchester City 
+"Aug 31, 2012",Loan,England,281,Manchester City ,61632,500 Th. €,Ryan McGivern,12/13,Scotland,903,Hibernian FC 
+"May 1, 2012",End of loan,England,698,Bristol City ,61632,500 Th. €,Ryan McGivern,11/12,England,281,Manchester City 
+"Sep 1, 2011",Loan,England,281,Manchester City ,61632,100 Th. €,Ryan McGivern,11/12,England,698,Bristol City 
+"Aug 1, 2011",End of loan,England,873,Crystal Palace ,61632,100 Th. €,Ryan McGivern,11/12,England,281,Manchester City 
+"Jul 1, 2011",Loan,England,281,Manchester City ,61632,100 Th. €,Ryan McGivern,11/12,England,873,Crystal Palace 
+"May 1, 2011",End of loan,England,899,Walsall FC ,61632,100 Th. €,Ryan McGivern,10/11,England,281,Manchester City 
+"Aug 1, 2010",Loan,England,281,Manchester City ,61632,100 Th. €,Ryan McGivern,10/11,England,899,Walsall FC 
+"May 1, 2010",End of loan,England,1003,Leicester ,61632,100 Th. €,Ryan McGivern,09/10,England,281,Manchester City 
+"Aug 1, 2009",Loan,England,281,Manchester City ,61632,100 Th. €,Ryan McGivern,09/10,England,1003,Leicester 
+"Dec 1, 2008",End of loan,England,3697,Morecambe FC ,61632,100 Th. €,Ryan McGivern,08/09,England,281,Manchester City 
+"Oct 1, 2008",Loan,England,281,Manchester City ,61632,-,Ryan McGivern,08/09,England,3697,Morecambe FC 
+"Jul 1, 2008",-,England,6930,Man City U18 ,61632,-,Ryan McGivern,08/09,England,281,Manchester City 
+"Jul 1, 2014",-,Sweden,9614,Östersunds FK ,79571,125 Th. €,Marcus Törnstrand,14/15,,515,Unattached 
+"Jun 18, 2013",Free transfer,Scotland,1519,Dundee United ,79571,125 Th. €,Marcus Törnstrand,13/14,Sweden,9614,Östersunds FK 
+"Feb 26, 2013",-,Scotland,515,Unattached ,79571,125 Th. €,Marcus Törnstrand,12/13,,1519,Dundee United 
+"Dec 31, 2012",-,Sweden,1059,Hammarby IF ,79571,125 Th. €,Marcus Törnstrand,12/13,,515,Unattached 
+"Aug 1, 2010",End of loan,Sweden,17938,Hammarby TFF ,79571,100 Th. €,Marcus Törnstrand,09/10,Sweden,1059,Hammarby IF 
+"Jan 1, 2010",Loan,Sweden,1059,Hammarby IF ,79571,250 Th. €,Marcus Törnstrand,09/10,Sweden,17938,Hammarby TFF 
+"Jan 1, 2008",Free transfer,Sweden,8955,IF Bromma U19 ,79571,-,Marcus Törnstrand,07/08,Sweden,1059,Hammarby IF 
+"Jul 1, 2014",Free transfer,Scotland,2451,Inverness Cal. ,155352,50 Th. €,Matthew Cooper,14/15,Scotland,3028,Elgin City 
+"Jul 1, 2012",Free transfer,Scotland,3046,Aberdeen FC U20  ,155352,-,Matthew Cooper,12/13,Scotland,2451,Inverness Cal. 
+"Jul 1, 2011",-,Scotland,30806,Aberdeen FC U17 ,155352,-,Matthew Cooper,11/12,Scotland,3046,Aberdeen FC U20  
+"Jul 1, 2010",?,Scotland,4223,Deveronvale FC ,155352,-,Matthew Cooper,10/11,Scotland,30806,Aberdeen FC U17 
+"Jul 1, 2016",Free transfer,England,2793,Southend United ,68315,200 Th. €,Gary Deegan,16/17,England,3054,Shrewsbury Town 
+"Aug 22, 2014",Free transfer,England,1302,Northampt. Town ,68315,275 Th. €,Gary Deegan,14/15,England,2793,Southend United 
+"Jul 25, 2013",Free transfer,Scotland,903,Hibernian FC ,68315,325 Th. €,Gary Deegan,13/14,England,1302,Northampt. Town 
+"Aug 4, 2012",?,England,990,Coventry City ,68315,250 Th. €,Gary Deegan,12/13,Scotland,903,Hibernian FC 
+"Jan 1, 2010",100 Th. €,Ireland,9211,Bohemians ,68315,75 Th. €,Gary Deegan,09/10,England,990,Coventry City 
+"Jul 1, 2008",Free transfer,Ireland,9212,Galway United ,68315,-,Gary Deegan,08/09,Ireland,9211,Bohemians 
+"Jan 1, 2008",Free transfer,Ireland,4287,Longford Town ,68315,-,Gary Deegan,07/08,Ireland,9212,Galway United 
+"Jul 1, 2007",Free transfer,Ireland,3909,Shelbourne ,68315,-,Gary Deegan,07/08,Ireland,4287,Longford Town 
+"Sep 1, 2006",End of loan,Ireland,5466,Kilkenny City ,68315,-,Gary Deegan,06/07,Ireland,3909,Shelbourne 
+"Aug 1, 2006",Loan,Ireland,3909,Shelbourne ,68315,-,Gary Deegan,06/07,Ireland,5466,Kilkenny City 
+"Jan 7, 2015",Free transfer,Scotland,3001,Queen o. t. S. ,14558,300 Th. €,John Baird,14/15,Scotland,1191,Falkirk FC 
+"Jul 1, 2014",Free transfer,Scotland,2795,Raith Rovers ,14558,300 Th. €,John Baird,14/15,Scotland,3001,Queen o. t. S. 
+"Jan 30, 2014",Free transfer,Scotland,2760,Partick Thistle ,14558,325 Th. €,John Baird,13/14,Scotland,2795,Raith Rovers 
+"Jul 1, 2013",Free transfer,Scotland,511,Dundee FC ,14558,300 Th. €,John Baird,13/14,Scotland,2760,Partick Thistle 
+"Jul 1, 2012",Free transfer,Scotland,2795,Raith Rovers ,14558,325 Th. €,John Baird,12/13,Scotland,511,Dundee FC 
+"Jul 1, 2010",Free transfer,Scotland,2802,Airdrie United ,14558,300 Th. €,John Baird,10/11,Scotland,2795,Raith Rovers 
+"Jul 1, 2009",?,Scotland,3030,Montrose ,14558,150 Th. €,John Baird,09/10,Scotland,2802,Airdrie United 
+"May 31, 2009",End of loan,Scotland,2802,Airdrie United ,14558,150 Th. €,John Baird,08/09,Scotland,3030,Montrose 
+"Jan 31, 2009",Loan,Scotland,3030,Montrose ,14558,50 Th. €,John Baird,08/09,Scotland,2802,Airdrie United 
+"Dec 1, 2008",End of loan,Scotland,3194,Brechin City ,14558,50 Th. €,John Baird,08/09,Scotland,3030,Montrose 
+"Nov 1, 2008",Loan,Scotland,3030,Montrose ,14558,50 Th. €,John Baird,08/09,Scotland,3194,Brechin City 
+"Jul 1, 2007",Free transfer,Scotland,465,St. Mirren FC ,14558,50 Th. €,John Baird,07/08,Scotland,3030,Montrose 
+"Apr 29, 2007",End of loan,Scotland,3030,Montrose ,14558,50 Th. €,John Baird,06/07,Scotland,465,St. Mirren FC 
+"Mar 3, 2007",Loan,Scotland,465,St. Mirren FC ,14558,50 Th. €,John Baird,06/07,Scotland,3030,Montrose 
+"Dec 30, 2006",End of loan,Scotland,3012,Stenhousemuir ,14558,50 Th. €,John Baird,06/07,Scotland,465,St. Mirren FC 
+"Jul 27, 2006",Loan,Scotland,465,St. Mirren FC ,14558,50 Th. €,John Baird,06/07,Scotland,3012,Stenhousemuir 
+"Jul 14, 2004",Free transfer,Scotland,2575,Clyde ,14558,-,John Baird,04/05,Scotland,465,St. Mirren FC 
+"Apr 5, 2003",-,Scotland,10516,Clyde FC U20 ,14558,-,John Baird,02/03,Scotland,2575,Clyde 
+"Dec 18, 2015",-,Scotland,515,Unattached ,9956,500 Th. €,James McFadden,15/16,,987,Motherwell FC 
+"Jul 1, 2015",-,Scotland,2578,St. Johnstone ,9956,500 Th. €,James McFadden,15/16,,515,Unattached 
+"Oct 1, 2014",-,Scotland,515,Unattached ,9956,600 Th. €,James McFadden,14/15,,2578,St. Johnstone 
+"Jul 1, 2014",-,Scotland,987,Motherwell FC ,9956,600 Th. €,James McFadden,14/15,,515,Unattached 
+"Feb 18, 2013",Free transfer,England,289,Sunderland ,9956,"1,50 Mill. €",James McFadden,12/13,Scotland,987,Motherwell FC 
+"Oct 26, 2012",-,England,515,Unattached ,9956,"1,50 Mill. €",James McFadden,12/13,,289,Sunderland 
+"Jul 1, 2012",-,England,29,Everton ,9956,"1,50 Mill. €",James McFadden,12/13,,515,Unattached 
+"Oct 17, 2011",-,England,515,Unattached ,9956,"2,00 Mill. €",James McFadden,11/12,,29,Everton 
+"Jul 1, 2011",-,England,337,Birmingham ,9956,"4,00 Mill. €",James McFadden,11/12,,515,Unattached 
+"Jan 18, 2008","7,50 Mill. €",England,29,Everton ,9956,"3,00 Mill. €",James McFadden,07/08,England,337,Birmingham 
+"Sep 1, 2003","1,75 Mill. €",Scotland,987,Motherwell FC ,9956,-,James McFadden,03/04,England,29,Everton 
+"Jul 1, 2000",-,Scotland,2987,Motherwell FC U20 ,9956,-,James McFadden,00/01,Scotland,987,Motherwell FC 
+"Jul 1, 1999",-,Scotland,31035,Motherwell FC U17 ,9956,-,James McFadden,99/00,Scotland,2987,Motherwell FC U20 
+"Jul 19, 2014",?,Scotland,5751,Nairn County ,154858,-,Archie Macphee,14/15,Scotland,3028,Elgin City 
+"Jul 18, 2013",Free transfer,Scotland,2759,Ross County ,154858,50 Th. €,Archie Macphee,13/14,Scotland,5751,Nairn County 
+"Jul 1, 2012",-,Scotland,10520,Ross County FC U20 ,154858,-,Archie Macphee,12/13,Scotland,2759,Ross County 
+"May 13, 2012",End of loan,Scotland,3028,Elgin City ,154858,-,Archie Macphee,11/12,Scotland,10520,Ross County FC U20 
+"Jul 1, 2011",Loan,Scotland,10520,Ross County FC U20 ,154858,-,Archie Macphee,11/12,Scotland,3028,Elgin City 
+"May 1, 2011",End of loan,Scotland,3458,Forres ,154858,-,Archie Macphee,10/11,Scotland,10520,Ross County FC U20 
+"Feb 1, 2011",Loan,Scotland,10520,Ross County FC U20 ,154858,-,Archie Macphee,10/11,Scotland,3458,Forres 
+"Aug 8, 2015",Free transfer,Scotland,511,Dundee FC ,14579,275 Th. €,Iain Davidson,15/16,Scotland,2795,Raith Rovers 
+"Jul 1, 2012",Free transfer,Scotland,2795,Raith Rovers ,14579,200 Th. €,Iain Davidson,12/13,Scotland,511,Dundee FC 
+"Jul 1, 2004",Free transfer,England,971,Scarborough Athletic ,14579,-,Iain Davidson,04/05,Scotland,2795,Raith Rovers 
+"Feb 19, 2004",Free transfer,Scotland,3194,Brechin City ,14579,-,Iain Davidson,03/04,England,971,Scarborough Athletic 
+"Jul 22, 2003",?,England,9264,Sunderland U21 ,14579,-,Iain Davidson,03/04,Scotland,3194,Brechin City 
+"Feb 1, 2016",200 Th. €,Scotland,1519,Dundee United ,235767,500 Th. €,John Souttar,15/16,Scotland,43,Heart of Midl. 
+"Apr 1, 2013",-,Scotland,9044,Dundee United FC U20  ,235767,-,John Souttar,12/13,Scotland,1519,Dundee United 
+"Jul 1, 2012",-,Scotland,31026,Dundee United FC U17 ,235767,-,John Souttar,12/13,Scotland,9044,Dundee United FC U20  
+"Aug 5, 2014",Free transfer,Scotland,903,Hibernian FC ,3322,500 Th. €,Ben Williams,14/15,England,1027,Bradford City 
+"Jul 10, 2012",Free transfer,England,1060,Colchester Utd. ,3322,400 Th. €,Ben Williams,12/13,Scotland,903,Hibernian FC 
+"Jul 1, 2009",85 Th. €,England,1220,Carlisle United ,3322,400 Th. €,Ben Williams,09/10,England,1060,Colchester Utd. 
+"Jul 1, 2008",Free transfer,England,1042,Crewe Alexandra ,3322,400 Th. €,Ben Williams,08/09,England,1220,Carlisle United 
+"Mar 1, 2004",Free transfer,England,985,Manchester Utd. ,3322,-,Ben Williams,03/04,England,1042,Crewe Alexandra 
+"May 1, 2003",End of loan,England,1219,Chesterfield FC ,3322,-,Ben Williams,02/03,England,985,Manchester Utd. 
+"Jan 1, 2003",Loan,England,985,Manchester Utd. ,3322,-,Ben Williams,02/03,England,1219,Chesterfield FC 
+"Dec 1, 2002",End of loan,England,990,Coventry City ,3322,-,Ben Williams,02/03,England,985,Manchester Utd. 
+"Nov 1, 2002",Loan,England,985,Manchester Utd. ,3322,-,Ben Williams,02/03,England,990,Coventry City 
+"Jul 1, 2001",-,England,5242,Man Utd U18 ,3322,-,Ben Williams,01/02,England,985,Manchester Utd. 
+"Jul 1, 2015",Free transfer,Scotland,1519,Dundee United ,43259,250 Th. €,Michael Gardyne,15/16,Scotland,2759,Ross County 
+"May 31, 2015",End of loan,Scotland,2759,Ross County ,43259,250 Th. €,Michael Gardyne,14/15,Scotland,1519,Dundee United 
+"Sep 1, 2014",Loan,Scotland,1519,Dundee United ,43259,250 Th. €,Michael Gardyne,14/15,Scotland,2759,Ross County 
+"May 31, 2014",End of loan,Scotland,2553,Kilmarnock FC ,43259,250 Th. €,Michael Gardyne,13/14,Scotland,1519,Dundee United 
+"Aug 30, 2013",Loan,Scotland,1519,Dundee United ,43259,250 Th. €,Michael Gardyne,13/14,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2012",Free transfer,Scotland,2759,Ross County ,43259,325 Th. €,Michael Gardyne,12/13,Scotland,1519,Dundee United 
+"Jan 1, 2008",?,Scotland,3026,Morton ,43259,-,Michael Gardyne,07/08,Scotland,2759,Ross County 
+"Aug 1, 2007",?,Scotland,371,Celtic ,43259,-,Michael Gardyne,07/08,Scotland,3026,Morton 
+"Apr 1, 2007",End of loan,Scotland,2759,Ross County ,43259,-,Michael Gardyne,06/07,Scotland,371,Celtic 
+"Aug 1, 2006",Loan,Scotland,371,Celtic ,43259,-,Michael Gardyne,06/07,Scotland,2759,Ross County 
+"Jul 1, 2005",-,Scotland,8924,Celtic U20 ,43259,-,Michael Gardyne,05/06,Scotland,371,Celtic 
+"Jul 1, 2003",-,Scotland,31025,Celtic Glasgow U17 ,43259,-,Michael Gardyne,03/04,Scotland,8924,Celtic U20 
+"May 31, 2016",End of loan,Scotland,1191,Falkirk FC ,200956,100 Th. €,Danny Rogers,15/16,Scotland,370,Aberdeen FC 
+"Jul 1, 2015",Loan,Scotland,370,Aberdeen FC ,200956,50 Th. €,Danny Rogers,15/16,Scotland,1191,Falkirk FC 
+"May 5, 2015",End of loan,Scotland,3023,Dumbarton FC ,200956,50 Th. €,Danny Rogers,14/15,Scotland,370,Aberdeen FC 
+"Aug 1, 2014",Loan,Scotland,370,Aberdeen FC ,200956,50 Th. €,Danny Rogers,14/15,Scotland,3023,Dumbarton FC 
+"Jul 1, 2014",-,Scotland,3046,Aberdeen FC U20  ,200956,50 Th. €,Danny Rogers,14/15,Scotland,370,Aberdeen FC 
+"Jan 13, 2014",End of loan,Scotland,2802,Airdrieonians ,200956,50 Th. €,Danny Rogers,13/14,Scotland,3046,Aberdeen FC U20  
+"Dec 13, 2013",Loan,Scotland,3046,Aberdeen FC U20  ,200956,50 Th. €,Danny Rogers,13/14,Scotland,2802,Airdrieonians 
+"Jul 1, 2011",-,Scotland,30806,Aberdeen FC U17 ,200956,-,Danny Rogers,11/12,Scotland,3046,Aberdeen FC U20  
+"Jan 13, 2016",Free transfer,Finland,23777,SJK ,173821,300 Th. €,Bahrudin Atajic,15/16,Lithuania,602,Zalgiris 
+"Feb 17, 2015",-,Finland,515,Unattached ,173821,200 Th. €,Bahrudin Atajic,14/15,,23777,SJK 
+"Sep 1, 2014",-,Scotland,371,Celtic ,173821,200 Th. €,Bahrudin Atajic,14/15,,515,Unattached 
+"May 31, 2014",End of loan,England,3054,Shrewsbury Town ,173821,200 Th. €,Bahrudin Atajic,13/14,Scotland,371,Celtic 
+"Jan 24, 2014",Loan,Scotland,371,Celtic ,173821,75 Th. €,Bahrudin Atajic,13/14,England,3054,Shrewsbury Town 
+"Jul 1, 2013",-,Scotland,8924,Celtic U20 ,173821,-,Bahrudin Atajic,13/14,Scotland,371,Celtic 
+"Jul 1, 2010",-,Scotland,31025,Celtic Glasgow U17 ,173821,-,Bahrudin Atajic,10/11,Scotland,8924,Celtic U20 
+"Jan 1, 2010",?,Sweden,40593,Malmö FF U17 ,173821,-,Bahrudin Atajic,09/10,Scotland,31025,Celtic Glasgow U17 
+"Jul 11, 2014",?,England,2288,Swansea ,192766,50 Th. €,Gwion Edwards,14/15,England,3537,Crawley Town 
+"May 31, 2014",End of loan,England,3537,Crawley Town ,192766,50 Th. €,Gwion Edwards,13/14,England,2288,Swansea 
+"Mar 27, 2014",Loan,England,2288,Swansea ,192766,50 Th. €,Gwion Edwards,13/14,England,3537,Crawley Town 
+"Jan 4, 2014",End of loan,Scotland,2578,St. Johnstone ,192766,50 Th. €,Gwion Edwards,13/14,England,2288,Swansea 
+"Jul 1, 2013",Loan,England,2288,Swansea ,192766,50 Th. €,Gwion Edwards,13/14,Scotland,2578,St. Johnstone 
+"May 31, 2013",End of loan,Scotland,2578,St. Johnstone ,192766,50 Th. €,Gwion Edwards,12/13,England,2288,Swansea 
+"Jan 31, 2013",Loan,England,2288,Swansea ,192766,-,Gwion Edwards,12/13,Scotland,2578,St. Johnstone 
+"Jul 1, 2011",-,Wales,14626,Swansea City U18 ,192766,-,Gwion Edwards,11/12,England,2288,Swansea 
+"Jul 1, 2015",-,Scotland,1241,Livingston FC ,67371,225 Th. €,Rory Boulding,15/16,,515,Unattached 
+"Mar 20, 2015",-,Scotland,515,Unattached ,67371,225 Th. €,Rory Boulding,14/15,,1241,Livingston FC 
+"Dec 31, 2014",-,Scotland,1191,Falkirk FC ,67371,225 Th. €,Rory Boulding,14/15,,515,Unattached 
+"Aug 1, 2014",-,Scotland,515,Unattached ,67371,250 Th. €,Rory Boulding,14/15,,1191,Falkirk FC 
+"Jul 1, 2013",-,Scotland,1519,Dundee United ,67371,250 Th. €,Rory Boulding,13/14,,515,Unattached 
+"Mar 7, 2013",-,Scotland,515,Unattached ,67371,250 Th. €,Rory Boulding,12/13,,1519,Dundee United 
+"Jan 16, 2013",-,Scotland,2553,Kilmarnock FC ,67371,250 Th. €,Rory Boulding,12/13,,515,Unattached 
+"Jul 21, 2012",Free transfer,Scotland,1241,Livingston FC ,67371,100 Th. €,Rory Boulding,11/12,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2011",Free transfer,England,3688,Accrington St. ,67371,25 Th. €,Rory Boulding,11/12,Scotland,1241,Livingston FC 
+"Jul 1, 2010",Free transfer,England,1027,Bradford City ,67371,25 Th. €,Rory Boulding,10/11,England,3688,Accrington St. 
+"Jul 1, 2008",Free transfer,England,3820,Mansfield Town ,67371,-,Rory Boulding,08/09,England,1027,Bradford City 
+"Oct 1, 2007",End of loan,England,3881,Hucknall Town FC ,67371,-,Rory Boulding,07/08,England,3820,Mansfield Town 
+"Sep 1, 2007",Loan,England,3820,Mansfield Town ,67371,-,Rory Boulding,07/08,England,3881,Hucknall Town FC 
+"Oct 1, 2006",End of loan,England,9463,Ilkeston Town FC ,67371,-,Rory Boulding,06/07,England,3820,Mansfield Town 
+"Aug 1, 2006",Loan,England,3820,Mansfield Town ,67371,-,Rory Boulding,06/07,England,9463,Ilkeston Town FC 
+"Jul 1, 2006",-,England,15892,Mansfield U19 ,67371,-,Rory Boulding,06/07,England,3820,Mansfield Town 
+"Jul 1, 2016",Free transfer,Scotland,2553,Kilmarnock FC ,235780,250 Th. €,Mark O'Hara,16/17,Scotland,511,Dundee FC 
+"Jan 1, 2013",-,Scotland,9046,Kilmarnock FC U20 ,235780,-,Mark O'Hara,12/13,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2012",-,Scotland,31033,Kilmarnock FC U17 ,235780,-,Mark O'Hara,12/13,Scotland,9046,Kilmarnock FC U20 
+"Jul 1, 2014",Free transfer,Scotland,3023,Dumbarton FC ,120070,200 Th. €,Paul McGinn,14/15,Scotland,511,Dundee FC 
+"Jul 1, 2013",Free transfer,Scotland,465,St. Mirren FC ,120070,100 Th. €,Paul McGinn,13/14,Scotland,3023,Dumbarton FC 
+"May 5, 2013",End of loan,Scotland,3023,Dumbarton FC ,120070,100 Th. €,Paul McGinn,12/13,Scotland,465,St. Mirren FC 
+"Jan 31, 2013",Loan,Scotland,465,St. Mirren FC ,120070,100 Th. €,Paul McGinn,12/13,Scotland,3023,Dumbarton FC 
+"Jan 26, 2013",End of loan,Scotland,3031,Queen's Park ,120070,100 Th. €,Paul McGinn,12/13,Scotland,465,St. Mirren FC 
+"Nov 24, 2012",Loan,Scotland,465,St. Mirren FC ,120070,100 Th. €,Paul McGinn,12/13,Scotland,3031,Queen's Park 
+"Sep 19, 2012",-,Scotland,515,Unattached ,120070,-,Paul McGinn,12/13,,465,St. Mirren FC 
+"Jul 1, 2012",-,Scotland,3031,Queen's Park ,120070,-,Paul McGinn,12/13,,515,Unattached 
+"Jul 1, 2008",?,Scotland,41378,St. Josephs AFC ,120070,-,Paul McGinn,08/09,Scotland,3031,Queen's Park 
+"Sep 12, 2014",Free transfer,Scotland,2759,Ross County ,33031,375 Th. €,Vangelis Ikonomou,14/15,Greece,169,Panionios 
+"Jan 3, 2014",Free transfer,Greece,2079,PAE Veria ,33031,375 Th. €,Vangelis Ikonomou,13/14,Scotland,2759,Ross County 
+"Aug 23, 2013",Free transfer,Scotland,2759,Ross County ,33031,325 Th. €,Vangelis Ikonomou,13/14,Greece,2079,PAE Veria 
+"Jan 15, 2013",Free transfer,Greece,3060,Atromitos Athen ,33031,350 Th. €,Vangelis Ikonomou,12/13,Scotland,2759,Ross County 
+"Jul 1, 2011",Free transfer,Greece,3391,AO Kavala ,33031,500 Th. €,Vangelis Ikonomou,11/12,Greece,3060,Atromitos Athen 
+"Jul 1, 2009",250 Th. €,Greece,553,Ionikos Nikea ,33031,400 Th. €,Vangelis Ikonomou,09/10,Greece,3391,AO Kavala 
+"Jun 30, 2007",End of loan,Greece,6097,Ag. Dimitrios ,33031,100 Th. €,Vangelis Ikonomou,06/07,Greece,553,Ionikos Nikea 
+"Jul 1, 2006",Loan,Greece,553,Ionikos Nikea ,33031,100 Th. €,Vangelis Ikonomou,06/07,Greece,6097,Ag. Dimitrios 
+"Jun 30, 2006",End of loan,Greece,10408,Thyella Patron ,33031,100 Th. €,Vangelis Ikonomou,05/06,Greece,553,Ionikos Nikea 
+"Jan 1, 2006",Loan,Greece,553,Ionikos Nikea ,33031,100 Th. €,Vangelis Ikonomou,05/06,Greece,10408,Thyella Patron 
+"Jul 1, 2005",Free transfer,Greece,3998,PAS Korinthos ,33031,-,Vangelis Ikonomou,05/06,Greece,553,Ionikos Nikea 
+"May 29, 2016",End of loan,England,352,Swindon Town ,173832,150 Th. €,Michael Doughty,15/16,England,1039,QPR 
+"Jan 15, 2016",Loan,England,1039,QPR ,173832,150 Th. €,Michael Doughty,15/16,England,352,Swindon Town 
+"Jan 24, 2015",End of loan,England,2814,Gillingham FC ,173832,50 Th. €,Michael Doughty,14/15,England,1039,QPR 
+"Oct 24, 2014",Loan,England,1039,QPR ,173832,50 Th. €,Michael Doughty,14/15,England,2814,Gillingham FC 
+"May 31, 2014",End of loan,England,3684,Stevenage FC ,173832,50 Th. €,Michael Doughty,13/14,England,1039,QPR 
+"Aug 16, 2013",Loan,England,1039,QPR ,173832,50 Th. €,Michael Doughty,13/14,England,3684,Stevenage FC 
+"May 31, 2013",End of loan,Scotland,2578,St. Johnstone ,173832,50 Th. €,Michael Doughty,12/13,England,1039,QPR 
+"Jan 29, 2013",Loan,England,1039,QPR ,173832,-,Michael Doughty,12/13,Scotland,2578,St. Johnstone 
+"Apr 1, 2012",End of loan,England,3717,Aldershot ,173832,-,Michael Doughty,11/12,England,1039,QPR 
+"Mar 1, 2012",Loan,England,1039,QPR ,173832,-,Michael Doughty,11/12,England,3717,Aldershot 
+"Jan 1, 2012",End of loan,England,3537,Crawley Town ,173832,-,Michael Doughty,11/12,England,1039,QPR 
+"Aug 1, 2011",Loan,England,1039,QPR ,173832,-,Michael Doughty,11/12,England,3537,Crawley Town 
+"May 1, 2011",End of loan,England,2796,Woking ,173832,-,Michael Doughty,10/11,England,1039,QPR 
+"Mar 1, 2011",Loan,England,1039,QPR ,173832,-,Michael Doughty,10/11,England,2796,Woking 
+"Jul 1, 2010",-,England,12805,QPR U18 ,173832,-,Michael Doughty,10/11,England,1039,QPR 
+"Jul 1, 2015",Free transfer,Scotland,511,Dundee FC ,140554,100 Th. €,Martin Boyle,15/16,Scotland,903,Hibernian FC 
+"May 20, 2015",End of loan,Scotland,903,Hibernian FC ,140554,100 Th. €,Martin Boyle,14/15,Scotland,511,Dundee FC 
+"Jan 3, 2015",Loan,Scotland,511,Dundee FC ,140554,100 Th. €,Martin Boyle,14/15,Scotland,903,Hibernian FC 
+"May 5, 2013",End of loan,Scotland,3030,Montrose ,140554,-,Martin Boyle,12/13,Scotland,511,Dundee FC 
+"Jan 25, 2013",Loan,Scotland,511,Dundee FC ,140554,50 Th. €,Martin Boyle,12/13,Scotland,3030,Montrose 
+"Aug 16, 2012",?,Scotland,3030,Montrose ,140554,-,Martin Boyle,12/13,Scotland,511,Dundee FC 
+"Jul 1, 2010",-,Scotland,29287,Montrose FC U19 ,140554,-,Martin Boyle,10/11,Scotland,3030,Montrose 
+"Jul 1, 2008",?,Scotland,23712,Lewis Utd. ,140554,-,Martin Boyle,08/09,Scotland,29287,Montrose FC U19 
+"Jan 12, 2016",Free transfer,Saudi Arabia,7732,Al-Ettifaq ,173835,750 Th. €,Esmaël Gonçalves,15/16,Cyprus,3899,Anor. Famagusta 
+"Jul 5, 2015",350 Th. €,Cyprus,3899,Anor. Famagusta ,173835,750 Th. €,Esmaël Gonçalves,15/16,Saudi Arabia,7732,Al-Ettifaq 
+"Jul 1, 2015",200 Th. €,Portugal,2425,Rio Ave FC ,173835,750 Th. €,Esmaël Gonçalves,15/16,Cyprus,3899,Anor. Famagusta 
+"May 31, 2015",End of loan,Cyprus,3899,Anor. Famagusta ,173835,750 Th. €,Esmaël Gonçalves,14/15,Portugal,2425,Rio Ave FC 
+"Jan 27, 2015",Loan,Portugal,2425,Rio Ave FC ,173835,750 Th. €,Esmaël Gonçalves,14/15,Cyprus,3899,Anor. Famagusta 
+"Jun 30, 2014",End of loan,Greece,2079,PAE Veria ,173835,750 Th. €,Esmaël Gonçalves,13/14,Portugal,2425,Rio Ave FC 
+"Jan 14, 2014",Loan,Portugal,2425,Rio Ave FC ,173835,"1,00 Mill. €",Esmaël Gonçalves,13/14,Greece,2079,PAE Veria 
+"Dec 31, 2013",End of loan,Cyprus,2784,APOEL Nicosia ,173835,"1,00 Mill. €",Esmaël Gonçalves,13/14,Portugal,2425,Rio Ave FC 
+"Jul 3, 2013",Loan,Portugal,2425,Rio Ave FC ,173835,"1,00 Mill. €",Esmaël Gonçalves,13/14,Cyprus,2784,APOEL Nicosia 
+"May 15, 2013",End of loan,Scotland,465,St. Mirren FC ,173835,"1,00 Mill. €",Esmaël Gonçalves,12/13,Portugal,2425,Rio Ave FC 
+"Jan 22, 2013",Loan,Portugal,2425,Rio Ave FC ,173835,"1,00 Mill. €",Esmaël Gonçalves,12/13,Scotland,465,St. Mirren FC 
+"Aug 3, 2012",400 Th. €,France,417,OGC Nice ,173835,"1,00 Mill. €",Esmaël Gonçalves,12/13,Portugal,2425,Rio Ave FC 
+"Jul 1, 2011",-,France,8158,Nizza B ,173835,-,Esmaël Gonçalves,11/12,France,417,OGC Nice 
+"Jul 1, 2009",-,France,12763,Nizza U19 ,173835,-,Esmaël Gonçalves,09/10,France,8158,Nizza B 
+"Jul 1, 2008",ablöefrei,Portugal,12963,Boavista U19 ,173835,-,Esmaël Gonçalves,08/09,France,12763,Nizza U19 
+"Aug 13, 2014",Free transfer,England,703,Nottm Forest ,227097,50 Th. €,David Morgan,14/15,England,36481,Ilkeston 
+"May 31, 2014",End of loan,England,3539,Tamworth ,227097,50 Th. €,David Morgan,13/14,England,703,Nottm Forest 
+"Oct 24, 2013",Loan,England,703,Nottm Forest ,227097,50 Th. €,David Morgan,13/14,England,3539,Tamworth 
+"May 20, 2013",End of loan,Scotland,511,Dundee FC ,227097,50 Th. €,David Morgan,12/13,England,703,Nottm Forest 
+"Jan 31, 2013",Loan,England,703,Nottm Forest ,227097,50 Th. €,David Morgan,12/13,Scotland,511,Dundee FC 
+"Jan 21, 2013",End of loan,England,1198,Lincoln City ,227097,50 Th. €,David Morgan,12/13,England,703,Nottm Forest 
+"Sep 14, 2012",Loan,England,703,Nottm Forest ,227097,-,David Morgan,12/13,England,1198,Lincoln City 
+"Jul 1, 2012",-,England,12799,Not. Forest U18 ,227097,-,David Morgan,12/13,England,703,Nottm Forest 
+"Jul 1, 2016",-,Scotland,2760,Partick Thistle ,36637,300 Th. €,Gary Miller,16/17,,515,Unattached 
+"Jul 20, 2015",Free transfer,Scotland,2578,St. Johnstone ,36637,350 Th. €,Gary Miller,15/16,Scotland,2760,Partick Thistle 
+"Jul 1, 2012",Free transfer,Scotland,2759,Ross County ,36637,275 Th. €,Gary Miller,12/13,Scotland,2578,St. Johnstone 
+"Jul 1, 2009",Free transfer,Scotland,1241,Livingston FC ,36637,225 Th. €,Gary Miller,09/10,Scotland,2759,Ross County 
+"Jun 30, 2008",End of loan,Scotland,2759,Ross County ,36637,-,Gary Miller,07/08,Scotland,1241,Livingston FC 
+"Jul 1, 2007",Loan,Scotland,1241,Livingston FC ,36637,-,Gary Miller,07/08,Scotland,2759,Ross County 
+"Dec 1, 2006",Loan,Scotland,1241,Livingston FC ,36637,-,Gary Miller,06/07,Scotland,1192,Ayr United 
+"Dec 31, 2006",End of loan,Scotland,1192,Ayr United ,36637,-,Gary Miller,06/07,Scotland,1241,Livingston FC 
+"Jul 1, 2005",-,Scotland,8912,Livingston U20 ,36637,-,Gary Miller,05/06,Scotland,1241,Livingston FC 
+"Jul 1, 2004",-,Scotland,31034,Livingston FC U17 ,36637,-,Gary Miller,04/05,Scotland,8912,Livingston U20 
+"Jul 1, 2016",Free transfer,Scotland,3034,Stranraer ,69412,-,Paul Cairney,16/17,Scotland,1192,Ayr United 
+"Jul 16, 2015",Free transfer,Scotland,2553,Kilmarnock FC ,69412,350 Th. €,Paul Cairney,15/16,Scotland,3034,Stranraer 
+"Jul 1, 2014",Free transfer,Scotland,903,Hibernian FC ,69412,450 Th. €,Paul Cairney,14/15,Scotland,2553,Kilmarnock FC 
+"Jul 2, 2012",Free transfer,Scotland,2760,Partick Thistle ,69412,350 Th. €,Paul Cairney,12/13,Scotland,903,Hibernian FC 
+"Jun 30, 2009",End of loan,Scotland,3031,Queen's Park ,69412,100 Th. €,Paul Cairney,08/09,Scotland,2760,Partick Thistle 
+"Dec 1, 2008",Loan,Scotland,2760,Partick Thistle ,69412,75 Th. €,Paul Cairney,08/09,Scotland,3031,Queen's Park 
+"Jul 1, 2008",?,Scotland,3031,Queen's Park ,69412,-,Paul Cairney,08/09,Scotland,2760,Partick Thistle 
+"Jul 1, 2005",Free transfer,Scotland,10517,St. Mirren FC U20 ,69412,-,Paul Cairney,05/06,Scotland,3031,Queen's Park 
+"Jul 1, 2004",-,Scotland,31036,St. Mirren FC U17 ,69412,-,Paul Cairney,04/05,Scotland,10517,St. Mirren FC U20 
+"Feb 17, 2016",Free transfer,Ireland,8780,Sligo Rovers ,42792,150 Th. €,Sander Puri,15/16,Czech Republic,13726,MFK Karvina 
+"Feb 1, 2015",-,Ireland,515,Unattached ,42792,150 Th. €,Sander Puri,14/15,,8780,Sligo Rovers 
+"Jul 1, 2014",-,England,1252,York City ,42792,150 Th. €,Sander Puri,14/15,,515,Unattached 
+"Jul 1, 2013",Free transfer,Scotland,465,St. Mirren FC ,42792,175 Th. €,Sander Puri,13/14,England,1252,York City 
+"Mar 15, 2013",Free transfer,Finland,6251,KuPS ,42792,175 Th. €,Sander Puri,12/13,Scotland,465,St. Mirren FC 
+"Mar 27, 2012",-,Finland,515,Unattached ,42792,300 Th. €,Sander Puri,11/12,,6251,KuPS 
+"Jan 1, 2012",-,Greece,4603,AE Larisa ,42792,400 Th. €,Sander Puri,11/12,,515,Unattached 
+"Dec 1, 2011",End of loan,Hungary,7682,Lombard Pápa  ,42792,400 Th. €,Sander Puri,11/12,Greece,4603,AE Larisa 
+"Aug 1, 2011",Loan,Greece,4603,AE Larisa ,42792,400 Th. €,Sander Puri,11/12,Hungary,7682,Lombard Pápa  
+"Jun 30, 2011",End of loan,Poland,6110,Korona Kielce ,42792,600 Th. €,Sander Puri,10/11,Greece,4603,AE Larisa 
+"Jan 1, 2011",Loan,Greece,4603,AE Larisa ,42792,600 Th. €,Sander Puri,10/11,Poland,6110,Korona Kielce 
+"Jan 1, 2010",150 Th. €,Estonia,5771,Levadia ,42792,500 Th. €,Sander Puri,09/10,Greece,4603,AE Larisa 
+"Jan 1, 2008",3 Th. €,Estonia,32395,JK Viljandi ,42792,-,Sander Puri,07/08,Estonia,5771,Levadia 
+"Jan 1, 2007",?,Estonia,5771,Levadia ,42792,-,Sander Puri,06/07,Estonia,32395,JK Viljandi 
+"Jan 1, 2005",?,Estonia,29667,Tartu SK 10 ,42792,-,Sander Puri,04/05,Estonia,5771,Levadia 
+"Jul 1, 2016",Free transfer,Scotland,3012,Stenhousemuir ,86827,-,Jon Robertson,16/17,Scotland,3020,Alloa AFC 
+"Jul 1, 2015",Free transfer,Scotland,3027,Cowdenbeath FC ,86827,200 Th. €,Jon Robertson,15/16,Scotland,3012,Stenhousemuir 
+"Aug 29, 2013",?,Scotland,465,St. Mirren FC ,86827,250 Th. €,Jon Robertson,13/14,Scotland,3027,Cowdenbeath FC 
+"Mar 3, 2013",End of loan,Scotland,3027,Cowdenbeath FC ,86827,250 Th. €,Jon Robertson,12/13,Scotland,465,St. Mirren FC 
+"Jan 31, 2013",Loan,Scotland,465,St. Mirren FC ,86827,250 Th. €,Jon Robertson,12/13,Scotland,3027,Cowdenbeath FC 
+"Jul 1, 2012",Free transfer,Scotland,3027,Cowdenbeath FC ,86827,200 Th. €,Jon Robertson,12/13,Scotland,465,St. Mirren FC 
+"May 1, 2009",End of loan,Scotland,7058,Rosyth FC ,86827,-,Jon Robertson,08/09,Scotland,3027,Cowdenbeath FC 
+"Jan 1, 2009",Loan,Scotland,3027,Cowdenbeath FC ,86827,-,Jon Robertson,08/09,Scotland,7058,Rosyth FC 
+"Dec 1, 2008",End of loan,Scotland,23744,Stoneyburn ,86827,-,Jon Robertson,08/09,Scotland,3027,Cowdenbeath FC 
+"Aug 1, 2008",Loan,Scotland,3027,Cowdenbeath FC ,86827,-,Jon Robertson,08/09,Scotland,23744,Stoneyburn 
+"Jul 1, 2007",?,Scotland,25802,Murieston B.C ,86827,-,Jon Robertson,07/08,Scotland,3027,Cowdenbeath FC 
+"Jul 1, 2006",Free transfer,Scotland,30046,Hearts FC U17 ,86827,-,Jon Robertson,06/07,Scotland,25802,Murieston B.C 
+"Jul 1, 2015",Free transfer,Scotland,3020,Alloa AFC ,37676,50 Th. €,John Gibson,15/16,Scotland,2575,Clyde 
+"Jul 1, 2014",Free transfer,Scotland,511,Dundee FC ,37676,50 Th. €,John Gibson,14/15,Scotland,3020,Alloa AFC 
+"May 5, 2014",End of loan,Scotland,3028,Elgin City ,37676,50 Th. €,John Gibson,13/14,Scotland,511,Dundee FC 
+"Mar 28, 2014",Loan,Scotland,511,Dundee FC ,37676,50 Th. €,John Gibson,13/14,Scotland,3028,Elgin City 
+"May 5, 2013",End of loan,Scotland,3030,Montrose ,37676,-,John Gibson,12/13,Scotland,511,Dundee FC 
+"Jan 25, 2013",Loan,Scotland,511,Dundee FC ,37676,50 Th. €,John Gibson,12/13,Scotland,3030,Montrose 
+"Dec 31, 2012",End of loan,Scotland,3028,Elgin City ,37676,50 Th. €,John Gibson,12/13,Scotland,511,Dundee FC 
+"Aug 3, 2012",Loan,Scotland,511,Dundee FC ,37676,50 Th. €,John Gibson,12/13,Scotland,3028,Elgin City 
+"Dec 1, 2010",End of loan,Ireland,8780,Sligo Rovers ,37676,50 Th. €,John Gibson,10/11,Scotland,511,Dundee FC 
+"Jul 1, 2010",Loan,Scotland,511,Dundee FC ,37676,-,John Gibson,10/11,Ireland,8780,Sligo Rovers 
+"Jun 30, 2010",End of loan,Scotland,3028,Elgin City ,37676,-,John Gibson,09/10,Scotland,511,Dundee FC 
+"Aug 1, 2009",Loan,Scotland,511,Dundee FC ,37676,-,John Gibson,09/10,Scotland,3028,Elgin City 
+"Jul 1, 2009",Free transfer,Scotland,9044,Dundee United FC U20  ,37676,-,John Gibson,09/10,Scotland,511,Dundee FC 
+"Jun 30, 2009",End of loan,Scotland,3016,Forfar Athletic ,37676,-,John Gibson,08/09,Scotland,9044,Dundee United FC U20  
+"Aug 1, 2008",Loan,Scotland,9044,Dundee United FC U20  ,37676,-,John Gibson,08/09,Scotland,3016,Forfar Athletic 
+"Jul 1, 2003",-,Scotland,31026,Dundee United FC U17 ,37676,-,John Gibson,03/04,Scotland,9044,Dundee United FC U20  
+"Jul 1, 2014",400 Th. €,Belgium,28643,Waasl.-Beveren ,125745,900 Th. €,Rami Gershon,14/15,Belgium,157,KAA Gent 
+"Jul 1, 2013",?,Belgium,3057,Standard Liège ,125745,"1,30 Mill. €",Rami Gershon,13/14,Belgium,28643,Waasl.-Beveren 
+"Jun 30, 2013",End of loan,Scotland,371,Celtic ,125745,"1,30 Mill. €",Rami Gershon,12/13,Belgium,3057,Standard Liège 
+"Jan 8, 2013",Loan,Belgium,3057,Standard Liège ,125745,"1,30 Mill. €",Rami Gershon,12/13,Scotland,371,Celtic 
+"Dec 31, 2011",End of loan,Belgium,601,KV Kortrijk ,125745,900 Th. €,Rami Gershon,11/12,Belgium,3057,Standard Liège 
+"Aug 1, 2010",Loan,Belgium,3057,Standard Liège ,125745,400 Th. €,Rami Gershon,10/11,Belgium,601,KV Kortrijk 
+"Jul 1, 2010",?,Israel,554,Hapoel Rishon ,125745,300 Th. €,Rami Gershon,10/11,Belgium,3057,Standard Liège 
+"Jun 30, 2010",End of loan,Belgium,3057,Standard Liège ,125745,300 Th. €,Rami Gershon,09/10,Israel,554,Hapoel Rishon 
+"Aug 1, 2009",Loan fee:35 Th. €,Israel,554,Hapoel Rishon ,125745,-,Rami Gershon,09/10,Belgium,3057,Standard Liège 
+"Jul 1, 2006",-,Israel,51891,H. Rishon U19 ,125745,-,Rami Gershon,06/07,Israel,554,Hapoel Rishon 
+"Sep 20, 2014",-,Scotland,515,Unattached ,69429,450 Th. €,Stuart Kettlewell,14/15,,3491,Brora Rangers 
+"Jul 1, 2014",-,Scotland,2759,Ross County ,69429,450 Th. €,Stuart Kettlewell,14/15,,515,Unattached 
+"Jul 1, 2009",Free transfer,Scotland,2575,Clyde ,69429,150 Th. €,Stuart Kettlewell,09/10,Scotland,2759,Ross County 
+"Jul 1, 2008",Free transfer,Scotland,3031,Queen's Park ,69429,-,Stuart Kettlewell,08/09,Scotland,2575,Clyde 
+"Jul 1, 2002",?,Scotland,45246,Lenzie YC ,69429,-,Stuart Kettlewell,02/03,Scotland,3031,Queen's Park 
+"Jul 1, 2012",-,Scotland,12578,Hearts FC U20 ,72518,50 Th. €,Jamie Walker,12/13,Scotland,43,Heart of Midl. 
+"May 6, 2012",End of loan,Scotland,2795,Raith Rovers ,72518,50 Th. €,Jamie Walker,11/12,Scotland,12578,Hearts FC U20 
+"Nov 21, 2011",Loan,Scotland,12578,Hearts FC U20 ,72518,-,Jamie Walker,11/12,Scotland,2795,Raith Rovers 
+"Jul 1, 2010",-,Scotland,30046,Hearts FC U17 ,72518,-,Jamie Walker,10/11,Scotland,12578,Hearts FC U20 
+"Jul 1, 2012",Free transfer,England,1074,Tranmere Rovers ,27980,150 Th. €,David Raven,12/13,Scotland,2451,Inverness Cal. 
+"Jul 1, 2011",Free transfer,England,3054,Shrewsbury Town ,27980,150 Th. €,David Raven,11/12,England,1074,Tranmere Rovers 
+"Jul 1, 2010",Free transfer,England,1220,Carlisle United ,27980,150 Th. €,David Raven,10/11,England,3054,Shrewsbury Town 
+"Jul 1, 2006",Free transfer,England,9252,Liverpool U21 ,27980,150 Th. €,David Raven,06/07,England,1220,Carlisle United 
+"May 1, 2006",End of loan,England,1074,Tranmere Rovers ,27980,150 Th. €,David Raven,05/06,England,9252,Liverpool U21 
+"Jan 1, 2006",Loan,England,9252,Liverpool U21 ,27980,150 Th. €,David Raven,05/06,England,1074,Tranmere Rovers 
+"Jul 1, 2004",-,England,6922,Liverpool U18 ,27980,-,David Raven,04/05,England,9252,Liverpool U21 
+"May 31, 2013",End of loan,Scotland,465,St. Mirren FC ,170321,200 Th. €,Paul Dummett,12/13,England,762,Newcastle 
+"Jan 31, 2013",Loan,England,762,Newcastle ,170321,-,Paul Dummett,12/13,Scotland,465,St. Mirren FC 
+"Jan 4, 2013",End of loan,Scotland,465,St. Mirren FC ,170321,50 Th. €,Paul Dummett,12/13,England,762,Newcastle 
+"Aug 31, 2012",Loan,England,762,Newcastle ,170321,-,Paul Dummett,12/13,Scotland,465,St. Mirren FC 
+"May 1, 2012",End of loan,England,3456,Gateshead ,170321,-,Paul Dummett,11/12,England,762,Newcastle 
+"Mar 1, 2012",Loan,England,762,Newcastle ,170321,-,Paul Dummett,11/12,England,3456,Gateshead 
+"Jul 1, 2010",-,England,6943,Newcastle U18 ,170321,-,Paul Dummett,10/11,England,762,Newcastle 
+"Jul 1, 2016",Free transfer,Scotland,3021,Arbroath ,193362,-,Jamie Reid,16/17,Scotland,3028,Elgin City 
+"Jul 1, 2015",Free transfer,Scotland,511,Dundee FC ,193362,50 Th. €,Jamie Reid,15/16,Scotland,3021,Arbroath 
+"May 5, 2015",End of loan,Scotland,3028,Elgin City ,193362,50 Th. €,Jamie Reid,14/15,Scotland,511,Dundee FC 
+"Jan 30, 2015",Loan,Scotland,511,Dundee FC ,193362,50 Th. €,Jamie Reid,14/15,Scotland,3028,Elgin City 
+"Jan 20, 2015",End of loan,Scotland,3012,Stenhousemuir ,193362,50 Th. €,Jamie Reid,14/15,Scotland,511,Dundee FC 
+"Jul 1, 2014",Loan,Scotland,511,Dundee FC ,193362,50 Th. €,Jamie Reid,14/15,Scotland,3012,Stenhousemuir 
+"Mar 15, 2014",End of loan,Scotland,3030,Montrose ,193362,50 Th. €,Jamie Reid,13/14,Scotland,511,Dundee FC 
+"Dec 5, 2013",Loan,Scotland,511,Dundee FC ,193362,50 Th. €,Jamie Reid,13/14,Scotland,3030,Montrose 
+"May 5, 2013",End of loan,Scotland,3012,Stenhousemuir ,193362,-,Jamie Reid,12/13,Scotland,511,Dundee FC 
+"Jan 1, 2013",Loan,Scotland,511,Dundee FC ,193362,-,Jamie Reid,12/13,Scotland,3012,Stenhousemuir 
+"Jul 1, 2012",-,Scotland,8945,Dundee FC U20 ,193362,-,Jamie Reid,12/13,Scotland,511,Dundee FC 
+"Jul 1, 2011",-,Scotland,44586,Dundee U17 ,193362,-,Jamie Reid,11/12,Scotland,8945,Dundee FC U20 
+"Feb 2, 2015",?,England,1088,Rochdale AFC ,67411,500 Th. €,Matt Done,14/15,England,350,Sheffield Utd. 
+"Jul 8, 2013",Free transfer,England,349,Barnsley FC ,67411,500 Th. €,Matt Done,13/14,England,1088,Rochdale AFC 
+"May 27, 2013",End of loan,Scotland,903,Hibernian FC ,67411,500 Th. €,Matt Done,12/13,England,349,Barnsley FC 
+"Jan 31, 2013",Loan,England,349,Barnsley FC ,67411,500 Th. €,Matt Done,12/13,Scotland,903,Hibernian FC 
+"Jul 1, 2011",?,England,1088,Rochdale AFC ,67411,75 Th. €,Matt Done,11/12,England,349,Barnsley FC 
+"Jul 31, 2010",Free transfer,England,3064,Hereford Utd. ,67411,50 Th. €,Matt Done,10/11,England,1088,Rochdale AFC 
+"Jul 1, 2008",35 Th. €,Wales,1112,Wrexham ,67411,-,Matt Done,08/09,England,3064,Hereford Utd. 
+"Jul 1, 2015",-,Scotland,3030,Montrose ,234324,-,Danny Cavanagh,15/16,,515,Unattached 
+"May 5, 2015",End of loan,Scotland,26137,Downfield FC ,234324,-,Danny Cavanagh,14/15,Scotland,3030,Montrose 
+"Feb 6, 2015",Loan,Scotland,3030,Montrose ,234324,-,Danny Cavanagh,14/15,Scotland,26137,Downfield FC 
+"Jul 22, 2014",Free transfer,Scotland,22388,Lochee ,234324,-,Danny Cavanagh,14/15,Scotland,3030,Montrose 
+"Aug 1, 2013",?,Scotland,8945,Dundee FC U20 ,234324,-,Danny Cavanagh,13/14,Scotland,22388,Lochee 
+"Jul 1, 2011",-,Scotland,44586,Dundee U17 ,234324,-,Danny Cavanagh,11/12,Scotland,8945,Dundee FC U20 
+"Jul 1, 2013",-,Scotland,30046,Hearts FC U17 ,193881,-,Jordan McGhee,13/14,Scotland,43,Heart of Midl. 
+"Apr 29, 2016",-,Scotland,1519,Dundee United ,193885,150 Th. €,Robbie Muirhead,15/16,,515,Unattached 
+"Jan 4, 2016",End of loan,Scotland,2760,Partick Thistle ,193885,150 Th. €,Robbie Muirhead,15/16,Scotland,1519,Dundee United 
+"Sep 1, 2015",Loan,Scotland,1519,Dundee United ,193885,75 Th. €,Robbie Muirhead,15/16,Scotland,2760,Partick Thistle 
+"Feb 2, 2015",200 Th. €,Scotland,2553,Kilmarnock FC ,193885,75 Th. €,Robbie Muirhead,14/15,Scotland,1519,Dundee United 
+"Dec 1, 2013",-,Scotland,9046,Kilmarnock FC U20 ,193885,-,Robbie Muirhead,13/14,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2013",-,Scotland,31033,Kilmarnock FC U17 ,193885,-,Robbie Muirhead,13/14,Scotland,9046,Kilmarnock FC U20 
+"Jul 1, 2014",Free transfer,Wales,23088,Airbus UK BFC ,215902,50 Th. €,Jason Oswell,14/15,Wales,31130,Newtown 
+"Jan 24, 2014",?,Wales,6316,Rhyl FC ,215902,50 Th. €,Jason Oswell,13/14,Wales,23088,Airbus UK BFC 
+"Sep 1, 2013",?,Australia,11419,APIA Leichhardt ,215902,50 Th. €,Jason Oswell,13/14,Wales,6316,Rhyl FC 
+"May 1, 2013",?,England,12869,Nantwich Town ,215902,50 Th. €,Jason Oswell,12/13,Australia,11419,APIA Leichhardt 
+"Jan 31, 2013",-,Scotland,2451,Inverness Cal. ,215902,50 Th. €,Jason Oswell,12/13,England,12869,Nantwich Town 
+"Jul 1, 2012",Free transfer,England,1042,Crewe Alexandra ,215902,-,Jason Oswell,12/13,Scotland,2451,Inverness Cal. 
+"May 1, 2012",End of loan,Wales,6316,Rhyl FC ,215902,-,Jason Oswell,11/12,England,1042,Crewe Alexandra 
+"Jan 1, 2012",Loan,England,1042,Crewe Alexandra ,215902,-,Jason Oswell,11/12,Wales,6316,Rhyl FC 
+"Jul 1, 2011",-,England,12804,Crewe U18 ,215902,-,Jason Oswell,11/12,England,1042,Crewe Alexandra 
+"Feb 27, 2015",Free transfer,Scotland,2801,Berwick Rangers ,152422,-,Dean Horribine,14/15,Scotland,17602,Spartans 
+"Jul 31, 2014",Free transfer,Scotland,903,Hibernian FC ,152422,25 Th. €,Dean Horribine,14/15,Scotland,2801,Berwick Rangers 
+"Jul 1, 2013",-,Scotland,13248,Hibernian FC U20 ,152422,-,Dean Horribine,13/14,Scotland,903,Hibernian FC 
+"Jul 1, 2010",-,Scotland,31031,Hibernian FC U17 ,152422,-,Dean Horribine,10/11,Scotland,13248,Hibernian FC U20 
+"Aug 27, 2014",315 Th. €,England,3456,Gateshead ,221561,250 Th. €,Marcus Maddison,14/15,England,1072,Peterborough 
+"Aug 2, 2013",Free transfer,Scotland,2578,St. Johnstone ,221561,50 Th. €,Marcus Maddison,13/14,England,3456,Gateshead 
+"Feb 14, 2013",-,Scotland,515,Unattached ,221561,-,Marcus Maddison,12/13,,2578,St. Johnstone 
+"Jan 31, 2013",-,England,762,Newcastle ,221561,-,Marcus Maddison,12/13,,515,Unattached 
+"Dec 23, 2012",End of loan,England,4310,Blyth Spartans ,221561,-,Marcus Maddison,12/13,England,762,Newcastle 
+"Nov 23, 2012",Loan,England,762,Newcastle ,221561,-,Marcus Maddison,12/13,England,4310,Blyth Spartans 
+"Jul 1, 2012",-,England,6943,Newcastle U18 ,221561,-,Marcus Maddison,12/13,England,762,Newcastle 
+"Aug 23, 2013",Free transfer,Scotland,2451,Inverness Cal. ,47994,225 Th. €,Simon King,13/14,England,3827,Thurrock 
+"Aug 1, 2012",Free transfer,England,2814,Gillingham FC ,47994,375 Th. €,Simon King,12/13,Scotland,2451,Inverness Cal. 
+"Nov 7, 2011",End of loan,England,2262,Plymouth Argyle ,47994,375 Th. €,Simon King,11/12,England,2814,Gillingham FC 
+"Aug 31, 2011",Loan,England,2814,Gillingham FC ,47994,375 Th. €,Simon King,11/12,England,2262,Plymouth Argyle 
+"Jul 1, 2007",300 Th. €,England,2804,Barnet ,47994,-,Simon King,07/08,England,2814,Gillingham FC 
+"Jul 1, 2003",Free transfer,England,988,Oxford United ,47994,-,Simon King,03/04,England,2804,Barnet 
+"Jul 1, 2000",-,England,15791,Oxford Utd U18 ,47994,-,Simon King,00/01,England,988,Oxford United 
+"Dec 20, 2012",-,Scotland,2759,Ross County ,106365,25 Th. €,Jon Bateson,12/13,,515,Unattached 
+"Jul 21, 2012",Free transfer,England,2436,Macclesfield ,106365,25 Th. €,Jon Bateson,12/13,Scotland,2759,Ross County 
+"Jul 1, 2011",Free transfer,England,3688,Accrington St. ,106365,25 Th. €,Jon Bateson,11/12,England,2436,Macclesfield 
+"May 1, 2011",End of loan,England,2962,Altrincham ,106365,25 Th. €,Jon Bateson,10/11,England,3688,Accrington St. 
+"Mar 1, 2011",Loan,England,3688,Accrington St. ,106365,25 Th. €,Jon Bateson,10/11,England,2962,Altrincham 
+"Jul 1, 2010",Free transfer,England,1027,Bradford City ,106365,25 Th. €,Jon Bateson,10/11,England,3688,Accrington St. 
+"Jul 1, 2009",Free transfer,England,164,Blackburn ,106365,-,Jon Bateson,09/10,England,1027,Bradford City 
+"Dec 31, 2008",End of loan,England,10895,Buxton FC ,106365,-,Jon Bateson,08/09,England,164,Blackburn 
+"Dec 1, 2008",Loan,England,164,Blackburn ,106365,-,Jon Bateson,08/09,England,10895,Buxton FC 
+"Jul 1, 2006",-,England,6949,Blackburn U18 ,106365,-,Jon Bateson,06/07,England,164,Blackburn 
+"Jul 1, 2012",Free transfer,England,3716,Newport County ,191870,-,Gary Warren,12/13,Scotland,2451,Inverness Cal. 
+"Jul 1, 2009",Free transfer,England,1099,Bath City ,191870,-,Gary Warren,09/10,Wales,3716,Newport County 
+"Jul 1, 2007",Free transfer,England,14813,Mangotsfield United ,191870,-,Gary Warren,07/08,England,1099,Bath City 
+"Jul 1, 2016",Free transfer,Scotland,3194,Brechin City ,134538,-,Robert Thomson,16/17,Scotland,3023,Dumbarton FC 
+"Jan 27, 2014",-,Scotland,515,Unattached ,134538,-,Robert Thomson,13/14,,3194,Brechin City 
+"Dec 31, 2013",-,Scotland,1270,Dunfermline A. ,134538,-,Robert Thomson,13/14,,515,Unattached 
+"Aug 28, 2013",Free transfer,Scotland,9044,Dundee United FC U20  ,134538,-,Robert Thomson,13/14,Scotland,1270,Dunfermline A. 
+"Jan 1, 2013",End of loan,Scotland,3020,Alloa AFC ,134538,-,Robert Thomson,12/13,Scotland,9044,Dundee United FC U20  
+"Jul 1, 2012",Loan,Scotland,9044,Dundee United FC U20  ,134538,-,Robert Thomson,12/13,Scotland,3020,Alloa AFC 
+"Jul 1, 2010",-,Scotland,31026,Dundee United FC U17 ,134538,-,Robert Thomson,10/11,Scotland,9044,Dundee United FC U20  
+"Aug 12, 2015",Free transfer,Germany,83,VfR Aalen ,39335,400 Th. €,Andre Hainault,15/16,Germany,187,1.FC Magdeburg 
+"Jul 10, 2013",Free transfer,Scotland,2759,Ross County ,39335,350 Th. €,Andre Hainault,13/14,Germany,83,VfR Aalen 
+"Jan 29, 2013",Free transfer,United States,9168,Houston ,39335,900 Th. €,Andre Hainault,12/13,Scotland,2759,Ross County 
+"Mar 1, 2009",-,United States,515,Unattached ,39335,350 Th. €,Andre Hainault,08/09,,9168,Houston 
+"Aug 1, 2008",-,Czech Republic,797,FK Most ,39335,250 Th. €,Andre Hainault,08/09,,515,Unattached 
+"Jun 30, 2008",End of loan,Czech Republic,197,Sparta Praha ,39335,250 Th. €,Andre Hainault,07/08,Czech Republic,797,FK Most 
+"Jan 1, 2008",Loan,Czech Republic,797,FK Most ,39335,-,Andre Hainault,07/08,Czech Republic,197,Sparta Praha 
+"Jul 1, 2005",Free transfer,Canada,4078,Montreal ,39335,-,Andre Hainault,05/06,Czech Republic,797,FK Most 
+"Jul 1, 2003",Free transfer,Canada,9167,Lakers Lac St-Louis ,39335,-,Andre Hainault,03/04,Canada,4078,Montreal 
+"Jul 1, 2015",Free transfer,Spain,16486,CF Fuenlabrada ,89516,-,Borja Pérez,15/16,Spain,11245,UD Sanse 
+"Jul 23, 2014",Free transfer,Spain,648,CD Tenerife ,89516,200 Th. €,Borja Pérez,14/15,Spain,16486,CF Fuenlabrada 
+"Aug 12, 2013",?,Scotland,2553,Kilmarnock FC ,89516,400 Th. €,Borja Pérez,13/14,Spain,648,CD Tenerife 
+"Aug 16, 2012",Free transfer,Spain,11596,AD Alcorcón ,89516,400 Th. €,Borja Pérez,12/13,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2009",?,Spain,12502,Alicante CF ,89516,-,Borja Pérez,09/10,Spain,11596,AD Alcorcón 
+"Jul 1, 2006",?,Spain,366,Real Valladolid ,89516,-,Borja Pérez,06/07,Spain,12502,Alicante CF 
+"Jul 1, 2005",-,Spain,7078,Valladolid B ,89516,-,Borja Pérez,05/06,Spain,366,Real Valladolid 
+"Jul 1, 2004",?,Spain,1244,CD Leganés ,89516,-,Borja Pérez,04/05,Spain,7078,Valladolid B 
+"Jul 1, 2003",-,Spain,17686,CD Leganés B ,89516,-,Borja Pérez,03/04,Spain,1244,CD Leganés 
+"Jul 30, 2014",Free transfer,England,33611,Crook Town ,133041,50 Th. €,Steven Hetherington,14/15,Scotland,3020,Alloa AFC 
+"Oct 1, 2013",?,England,39968,Celtic Nation ,133041,50 Th. €,Steven Hetherington,13/14,England,33611,Crook Town 
+"Jul 1, 2013",Free transfer,Scotland,987,Motherwell FC ,133041,50 Th. €,Steven Hetherington,13/14,England,39968,Celtic Nation 
+"May 5, 2013",End of loan,Scotland,2802,Airdrie United ,133041,50 Th. €,Steven Hetherington,12/13,Scotland,987,Motherwell FC 
+"Feb 8, 2013",Loan,Scotland,987,Motherwell FC ,133041,50 Th. €,Steven Hetherington,12/13,Scotland,2802,Airdrie United 
+"Aug 1, 2012",-,Scotland,2987,Motherwell FC U20 ,133041,-,Steven Hetherington,12/13,Scotland,987,Motherwell FC 
+"Jul 1, 2011",Free transfer,Scotland,7112,Rangers U20 ,133041,-,Steven Hetherington,11/12,Scotland,2987,Motherwell FC U20 
+"Jul 1, 2009",Free transfer,England,14647,Hartlepool U19 ,133041,-,Steven Hetherington,09/10,Scotland,7112,Rangers U20 
+"Jul 9, 2015",Free transfer,Scotland,43,Heart of Midl. ,129971,175 Th. €,Dale Carrick,15/16,Scotland,2553,Kilmarnock FC 
+"Feb 11, 2015",End of loan,Scotland,2795,Raith Rovers ,129971,175 Th. €,Dale Carrick,14/15,Scotland,43,Heart of Midl. 
+"Jan 30, 2015",Loan,Scotland,43,Heart of Midl. ,129971,175 Th. €,Dale Carrick,14/15,Scotland,2795,Raith Rovers 
+"Jul 1, 2013",-,Scotland,12578,Hearts FC U20 ,129971,50 Th. €,Dale Carrick,13/14,Scotland,43,Heart of Midl. 
+"Jul 1, 2011",-,Scotland,30046,Hearts FC U17 ,129971,-,Dale Carrick,11/12,Scotland,12578,Hearts FC U20 
+"May 22, 2016",End of loan,Scotland,124,Rangers ,129973,300 Th. €,Billy King,15/16,Scotland,43,Heart of Midl. 
+"Jan 28, 2016",Loan,Scotland,43,Heart of Midl. ,129973,300 Th. €,Billy King,15/16,Scotland,124,Rangers 
+"Jul 1, 2013",-,Scotland,12578,Hearts FC U20 ,129973,50 Th. €,Billy King,13/14,Scotland,43,Heart of Midl. 
+"Jul 1, 2011",-,Scotland,30046,Hearts FC U17 ,129973,-,Billy King,11/12,Scotland,12578,Hearts FC U20 
+"Jul 1, 2015",Free transfer,England,3456,Gateshead ,198582,50 Th. €,Alex Baird,15/16,,75,Unknown 
+"Oct 7, 2013",Free transfer,England,4299,Stockport S ,198582,50 Th. €,Alex Baird,13/14,England,3456,Gateshead 
+"Aug 20, 2013",Free transfer,Scotland,511,Dundee FC ,198582,50 Th. €,Alex Baird,13/14,England,4299,Stockport S 
+"Jul 1, 2012",?,England,6943,Newcastle U18 ,198582,-,Alex Baird,12/13,Scotland,511,Dundee FC 
+"Jul 1, 2016",-,Scotland,465,St. Mirren FC ,65464,125 Th. €,Alex Cooper,16/17,,515,Unattached 
+"Jan 29, 2016",Free transfer,Scotland,1191,Falkirk FC ,65464,125 Th. €,Alex Cooper,15/16,Scotland,465,St. Mirren FC 
+"Jul 3, 2014",Free transfer,Scotland,2759,Ross County ,65464,175 Th. €,Alex Cooper,14/15,Scotland,1191,Falkirk FC 
+"May 13, 2012",End of loan,Scotland,3028,Elgin City ,65464,200 Th. €,Alex Cooper,11/12,Scotland,2759,Ross County 
+"Mar 1, 2012",Loan,Scotland,2759,Ross County ,65464,200 Th. €,Alex Cooper,11/12,Scotland,3028,Elgin City 
+"Nov 1, 2011",-,Scotland,515,Unattached ,65464,-,Alex Cooper,11/12,,2759,Ross County 
+"Jul 1, 2011",-,England,9252,Liverpool U21 ,65464,-,Alex Cooper,11/12,,515,Unattached 
+"Jul 1, 2010",-,England,6922,Liverpool U18 ,65464,200 Th. €,Alex Cooper,10/11,England,9252,Liverpool U21 
+"Jan 1, 2008",145 Th. €,Scotland,45398,Ross County U17 ,65464,-,Alex Cooper,07/08,England,6922,Liverpool U18 
+"Aug 21, 2015",600 Th. €,England,762,Newcastle ,111036,"2,00 Mill. €",Mehdi Abeid,15/16,Greece,265,Panathinaikos 
+"Jun 30, 2014",End of loan,Greece,265,Panathinaikos ,111036,750 Th. €,Mehdi Abeid,13/14,England,762,Newcastle 
+"Jul 30, 2013",Loan,England,762,Newcastle ,111036,50 Th. €,Mehdi Abeid,13/14,Greece,265,Panathinaikos 
+"May 31, 2013",End of loan,Scotland,2578,St. Johnstone ,111036,50 Th. €,Mehdi Abeid,12/13,England,762,Newcastle 
+"Jan 31, 2013",Loan,England,762,Newcastle ,111036,-,Mehdi Abeid,12/13,Scotland,2578,St. Johnstone 
+"Jul 1, 2011",Free transfer,France,8152,RC Lens B ,111036,-,Mehdi Abeid,11/12,England,762,Newcastle 
+"Jul 1, 2009",-,France,10824,RC Lens U19 ,111036,-,Mehdi Abeid,09/10,France,8152,RC Lens B 
+"Jul 17, 2015",Free transfer,England,1194,Rotherham ,222148,250 Th. €,Conor Newton,15/16,England,986,Cambridge Utd. 
+"Jul 1, 2014",Free transfer,England,762,Newcastle ,222148,300 Th. €,Conor Newton,14/15,England,1194,Rotherham 
+"May 31, 2014",End of loan,Scotland,465,St. Mirren FC ,222148,300 Th. €,Conor Newton,13/14,England,762,Newcastle 
+"Aug 6, 2013",Loan,England,762,Newcastle ,222148,100 Th. €,Conor Newton,13/14,Scotland,465,St. Mirren FC 
+"May 31, 2013",End of loan,Scotland,465,St. Mirren FC ,222148,100 Th. €,Conor Newton,12/13,England,762,Newcastle 
+"Jan 1, 2013",Loan,England,762,Newcastle ,222148,-,Conor Newton,12/13,Scotland,465,St. Mirren FC 
+"Jul 1, 2008",-,England,6943,Newcastle U18 ,222148,-,Conor Newton,08/09,England,762,Newcastle 
+"Jul 1, 2015",-,Scotland,2553,Kilmarnock FC ,9161,450 Th. €,Sammy Clingan,15/16,,515,Unattached 
+"Jan 29, 2013",Free transfer,England,2454,Doncaster Rov. ,9161,750 Th. €,Sammy Clingan,12/13,Scotland,2553,Kilmarnock FC 
+"Oct 26, 2012",-,England,515,Unattached ,9161,750 Th. €,Sammy Clingan,12/13,,2454,Doncaster Rov. 
+"Jul 1, 2012",-,England,990,Coventry City ,9161,750 Th. €,Sammy Clingan,12/13,,515,Unattached 
+"Jul 24, 2009",350 Th. €,England,1123,Norwich ,9161,800 Th. €,Sammy Clingan,09/10,England,990,Coventry City 
+"Jul 1, 2008",Free transfer,England,703,Nottm Forest ,9161,400 Th. €,Sammy Clingan,08/09,England,1123,Norwich 
+"Jan 23, 2006",40 Th. €,England,543,Wolves ,9161,50 Th. €,Sammy Clingan,05/06,England,703,Nottm Forest 
+"Jan 15, 2006",End of loan,England,1219,Chesterfield FC ,9161,50 Th. €,Sammy Clingan,05/06,England,543,Wolves 
+"Aug 1, 2005",Loan,England,543,Wolves ,9161,50 Th. €,Sammy Clingan,05/06,England,1219,Chesterfield FC 
+"Dec 1, 2004",End of loan,England,1219,Chesterfield FC ,9161,50 Th. €,Sammy Clingan,04/05,England,543,Wolves 
+"Oct 1, 2004",Loan,England,543,Wolves ,9161,-,Sammy Clingan,04/05,England,1219,Chesterfield FC 
+"Jul 1, 2003",-,England,12801,Wolves U18 ,9161,-,Sammy Clingan,03/04,England,543,Wolves 
+"Aug 1, 2001",?,Northern Ireland,4421,Lisburn FC ,9161,-,Sammy Clingan,01/02,England,12801,Wolves U18 
+"Jan 8, 2013",Free transfer,England,11177,Fleetwood Town ,169934,50 Th. €,Danny Devine,12/13,Scotland,2451,Inverness Cal. 
+"Dec 31, 2012",End of loan,England,1112,Wrexham ,169934,50 Th. €,Danny Devine,12/13,England,11177,Fleetwood Town 
+"Sep 19, 2012",Loan,England,11177,Fleetwood Town ,169934,50 Th. €,Danny Devine,12/13,England,1112,Wrexham 
+"Jul 1, 2012",Free transfer,England,466,Preston NE ,169934,50 Th. €,Danny Devine,12/13,England,11177,Fleetwood Town 
+"Jul 1, 2011",-,England,6697,Preston U18 ,169934,-,Danny Devine,11/12,England,466,Preston NE 
+"Jul 30, 2013",Free transfer,Scotland,511,Dundee FC ,12751,-,Neil McGregor,13/14,Scotland,8929,Hurlford United FC 
+"May 5, 2013",End of loan,Scotland,1192,Ayr United ,12751,-,Neil McGregor,12/13,Scotland,511,Dundee FC 
+"Jan 31, 2013",Loan,Scotland,511,Dundee FC ,12751,250 Th. €,Neil McGregor,12/13,Scotland,1192,Ayr United 
+"Jul 1, 2011",Free transfer,Scotland,1270,Dunfermline A. ,12751,200 Th. €,Neil McGregor,11/12,Scotland,511,Dundee FC 
+"Jul 1, 2009",Free transfer,Scotland,2575,Clyde ,12751,175 Th. €,Neil McGregor,09/10,Scotland,1270,Dunfermline A. 
+"Jul 1, 2005",Free transfer,Scotland,2553,Kilmarnock FC ,12751,50 Th. €,Neil McGregor,05/06,Scotland,2575,Clyde 
+"Jul 1, 2003",-,Scotland,9046,Kilmarnock FC U20 ,12751,-,Neil McGregor,03/04,Scotland,2553,Kilmarnock FC 
+"Feb 6, 2016",-,England,3055,Basingstoke ,7930,150 Th. €,Rowan Vine,15/16,,515,Unattached 
+"Dec 18, 2015",Free transfer,England,20955,Gosport ,7930,150 Th. €,Rowan Vine,15/16,England,3055,Basingstoke 
+"Oct 22, 2015",Free transfer,England,2794,Havant & Water. ,7930,150 Th. €,Rowan Vine,15/16,England,20955,Gosport 
+"Feb 11, 2015",Free transfer,England,7454,Welling ,7930,150 Th. €,Rowan Vine,14/15,England,2794,Havant & Water. 
+"Jan 5, 2015",-,England,515,Unattached ,7930,300 Th. €,Rowan Vine,14/15,,7454,Welling 
+"Jul 1, 2014",-,Scotland,3026,Morton ,7930,300 Th. €,Rowan Vine,14/15,,515,Unattached 
+"Jan 31, 2014",Free transfer,Scotland,903,Hibernian FC ,7930,500 Th. €,Rowan Vine,13/14,Scotland,3026,Morton 
+"Jul 13, 2013",Free transfer,Scotland,2578,St. Johnstone ,7930,500 Th. €,Rowan Vine,13/14,Scotland,903,Hibernian FC 
+"Jul 31, 2012",Free transfer,England,1039,QPR ,7930,500 Th. €,Rowan Vine,12/13,Scotland,2578,St. Johnstone 
+"May 6, 2012",End of loan,England,2814,Gillingham FC ,7930,750 Th. €,Rowan Vine,11/12,England,1039,QPR 
+"Mar 23, 2012",Loan,England,1039,QPR ,7930,750 Th. €,Rowan Vine,11/12,England,2814,Gillingham FC 
+"Sep 26, 2011",End of loan,England,6699,Exeter City ,7930,750 Th. €,Rowan Vine,11/12,England,1039,QPR 
+"Aug 27, 2011",Loan,England,1039,QPR ,7930,"1,25 Mill. €",Rowan Vine,11/12,England,6699,Exeter City 
+"May 1, 2011",End of loan,England,991,MK Dons ,7930,"1,25 Mill. €",Rowan Vine,10/11,England,1039,QPR 
+"Jan 1, 2011",Loan,England,1039,QPR ,7930,"1,25 Mill. €",Rowan Vine,10/11,England,991,MK Dons 
+"Dec 1, 2010",End of loan,England,1148,Brentford ,7930,"1,25 Mill. €",Rowan Vine,10/11,England,1039,QPR 
+"Nov 1, 2010",Loan,England,1039,QPR ,7930,"1,25 Mill. €",Rowan Vine,10/11,England,1148,Brentford 
+"Oct 1, 2010",End of loan,England,3008,Hull City ,7930,"1,25 Mill. €",Rowan Vine,10/11,England,1039,QPR 
+"Sep 1, 2010",Loan,England,1039,QPR ,7930,"1,25 Mill. €",Rowan Vine,10/11,England,3008,Hull City 
+"Oct 1, 2007","1,50 Mill. €",England,337,Birmingham ,7930,"1,25 Mill. €",Rowan Vine,07/08,England,1039,QPR 
+"Jan 1, 2007","2,50 Mill. €",England,1031,Luton Town ,7930,650 Th. €,Rowan Vine,06/07,England,337,Birmingham 
+"Jul 1, 2004",375 Th. €,England,1020,Portsmouth FC ,7930,-,Rowan Vine,04/05,England,1031,Luton Town 
+"May 1, 2004",End of loan,England,1060,Colchester Utd. ,7930,-,Rowan Vine,03/04,England,1020,Portsmouth FC 
+"Aug 1, 2003",Loan,England,1020,Portsmouth FC ,7930,-,Rowan Vine,03/04,England,1060,Colchester Utd. 
+"May 1, 2003",End of loan,England,1148,Brentford ,7930,-,Rowan Vine,02/03,England,1020,Portsmouth FC 
+"Aug 1, 2002",Loan,England,1020,Portsmouth FC ,7930,-,Rowan Vine,02/03,England,1148,Brentford 
+"Jul 1, 2000",-,England,6939,Portsmouth U18 ,7930,-,Rowan Vine,00/01,England,1020,Portsmouth FC 
+"Jul 1, 2015",Free transfer,Scotland,2760,Partick Thistle ,52192,450 Th. €,Kallum Higginbotham,15/16,Scotland,2553,Kilmarnock FC 
+"Aug 8, 2013",Free transfer,England,1110,Huddersfield ,52192,250 Th. €,Kallum Higginbotham,13/14,Scotland,2760,Partick Thistle 
+"May 20, 2013",End of loan,Scotland,987,Motherwell FC ,52192,250 Th. €,Kallum Higginbotham,12/13,England,1110,Huddersfield 
+"Jan 9, 2013",Loan,England,1110,Huddersfield ,52192,250 Th. €,Kallum Higginbotham,12/13,Scotland,987,Motherwell FC 
+"Dec 22, 2012",End of loan,England,1220,Carlisle United ,52192,250 Th. €,Kallum Higginbotham,12/13,England,1110,Huddersfield 
+"Sep 20, 2012",Loan,England,1110,Huddersfield ,52192,250 Th. €,Kallum Higginbotham,12/13,England,1220,Carlisle United 
+"Apr 26, 2012",End of loan,England,349,Barnsley FC ,52192,250 Th. €,Kallum Higginbotham,11/12,England,1110,Huddersfield 
+"Mar 22, 2012",Loan,England,1110,Huddersfield ,52192,250 Th. €,Kallum Higginbotham,11/12,England,349,Barnsley FC 
+"Jan 31, 2012",?,Scotland,1191,Falkirk FC ,52192,175 Th. €,Kallum Higginbotham,11/12,England,1110,Huddersfield 
+"Jul 1, 2010",Free transfer,England,1088,Rochdale AFC ,52192,25 Th. €,Kallum Higginbotham,10/11,Scotland,1191,Falkirk FC 
+"May 1, 2009",End of loan,England,3688,Accrington St. ,52192,-,Kallum Higginbotham,08/09,England,1088,Rochdale AFC 
+"Jan 1, 2009",Loan,England,1088,Rochdale AFC ,52192,-,Kallum Higginbotham,08/09,England,3688,Accrington St. 
+"Jul 1, 2007",Free transfer,England,14623,Oldham U18 ,52192,-,Kallum Higginbotham,07/08,England,1088,Rochdale AFC 
+"Feb 5, 2016",-,Scotland,515,Unattached ,235771,-,Ross Fisher,15/16,,3000,East Stirling 
+"Jan 15, 2016",-,Scotland,2575,Clyde ,235771,-,Ross Fisher,15/16,,515,Unattached 
+"Jan 1, 2016",End of loan,Scotland,8942,Beith Juniors ,235771,-,Ross Fisher,15/16,Scotland,2575,Clyde 
+"Sep 2, 2015",Loan,Scotland,2575,Clyde ,235771,-,Ross Fisher,15/16,Scotland,8942,Beith Juniors 
+"Jan 3, 2015",?,Scotland,6214,Troon AFC ,235771,-,Ross Fisher,14/15,Scotland,2575,Clyde 
+"Sep 16, 2014",Free transfer,Scotland,3021,Arbroath ,235771,-,Ross Fisher,14/15,Scotland,6214,Troon AFC 
+"Jul 31, 2014",Free transfer,Scotland,3031,Queen's Park ,235771,-,Ross Fisher,14/15,Scotland,3021,Arbroath 
+"Oct 4, 2013",-,Scotland,515,Unattached ,235771,25 Th. €,Ross Fisher,13/14,,3031,Queen's Park 
+"Jul 1, 2013",-,Scotland,2553,Kilmarnock FC ,235771,25 Th. €,Ross Fisher,13/14,,515,Unattached 
+"Dec 31, 2012",End of loan,Scotland,3194,Brechin City ,235771,-,Ross Fisher,12/13,Scotland,2553,Kilmarnock FC 
+"Sep 28, 2012",Loan,Scotland,2553,Kilmarnock FC ,235771,-,Ross Fisher,12/13,Scotland,3194,Brechin City 
+"Jul 1, 2012",-,Scotland,9046,Kilmarnock FC U20 ,235771,-,Ross Fisher,12/13,Scotland,2553,Kilmarnock FC 
+"Jul 1, 2010",-,Scotland,31033,Kilmarnock FC U17 ,235771,-,Ross Fisher,10/11,Scotland,9046,Kilmarnock FC U20 
+"Sep 1, 2007",Free transfer,Scotland,2760,Partick Thistle ,22609,75 Th. €,Scott Boyd,07/08,Scotland,2759,Ross County 
+"Jun 1, 2007",Free transfer,Scotland,1241,Livingston FC ,22609,75 Th. €,Scott Boyd,06/07,Scotland,2760,Partick Thistle 
+"Dec 31, 2005",End of loan,Scotland,2760,Partick Thistle ,22609,-,Scott Boyd,05/06,Scotland,1241,Livingston FC 
+"Jul 1, 2005",Loan,Scotland,1241,Livingston FC ,22609,-,Scott Boyd,05/06,Scotland,2760,Partick Thistle 
+"Jul 1, 2001",-,Scotland,8912,Livingston U20 ,22609,-,Scott Boyd,01/02,Scotland,1241,Livingston FC 
+"Jul 1, 2016",Free transfer,England,972,Yeovil Town ,198122,25 Th. €,Jordan Gibbons,16/17,,75,Unknown 
+"Jul 1, 2015",Free transfer,England,33727,Queens Park U21 ,198122,25 Th. €,Jordan Gibbons,15/16,England,972,Yeovil Town 
+"May 31, 2013",End of loan,Scotland,2451,Inverness Cal. ,198122,25 Th. €,Jordan Gibbons,12/13,England,33727,Queens Park U21 
+"Jan 29, 2013",Loan,England,33727,Queens Park U21 ,198122,-,Jordan Gibbons,12/13,Scotland,2451,Inverness Cal. 
+"Jul 1, 2012",-,England,12805,QPR U18 ,198122,-,Jordan Gibbons,12/13,England,33727,Queens Park U21 
+"Aug 31, 2012",?,Israel,6105,FC Ashdod ,81831,400 Th. €,Efe Ambrose,12/13,Scotland,371,Celtic 
+"Jul 1, 2010",?,Nigeria,18928,Kaduna United ,81831,100 Th. €,Efe Ambrose,10/11,Israel,6105,FC Ashdod 
+"Jun 1, 2009",End of loan,Nigeria,10173,Bayelsa ,81831,100 Th. €,Efe Ambrose,08/09,Nigeria,18928,Kaduna United 
+"Jul 1, 2008",Loan,Nigeria,18928,Kaduna United ,81831,-,Efe Ambrose,08/09,Nigeria,10173,Bayelsa 
+"Jul 1, 2016",-,Scotland,3024,East Fife ,177646,-,Craig Murray,16/17,,515,Unattached 
+"Jul 10, 2015",Free transfer,Scotland,370,Aberdeen FC ,177646,50 Th. €,Craig Murray,15/16,Scotland,3024,East Fife 
+"May 5, 2015",End of loan,Scotland,1192,Ayr United ,177646,50 Th. €,Craig Murray,14/15,Scotland,370,Aberdeen FC 
+"Jan 14, 2015",Loan,Scotland,370,Aberdeen FC ,177646,50 Th. €,Craig Murray,14/15,Scotland,1192,Ayr United 
+"Jul 1, 2014",-,Scotland,3046,Aberdeen FC U20  ,177646,-,Craig Murray,14/15,Scotland,370,Aberdeen FC 
+"Feb 1, 2011",-,Scotland,30806,Aberdeen FC U17 ,177646,-,Craig Murray,10/11,Scotland,3046,Aberdeen FC U20  
+"Jul 1, 2014",Free transfer,Scotland,465,St. Mirren FC ,193107,50 Th. €,Anthony Brady,14/15,Scotland,28457,East Kilbride FC 
+"Jul 1, 2013",-,Scotland,10517,St. Mirren FC U20 ,193107,-,Anthony Brady,13/14,Scotland,465,St. Mirren FC 
+"Jul 1, 2011",-,Scotland,31036,St. Mirren FC U17 ,193107,-,Anthony Brady,11/12,Scotland,10517,St. Mirren FC U20 
+"May 1, 2016",End of loan,Scotland,3001,Queen o. t. S. ,192500,200 Th. €,Alex Harris,15/16,Scotland,903,Hibernian FC 
+"Aug 21, 2015",Loan,Scotland,903,Hibernian FC ,192500,175 Th. €,Alex Harris,15/16,Scotland,3001,Queen o. t. S. 
+"May 25, 2015",End of loan,Scotland,511,Dundee FC ,192500,175 Th. €,Alex Harris,14/15,Scotland,903,Hibernian FC 
+"Jan 3, 2015",Loan,Scotland,903,Hibernian FC ,192500,175 Th. €,Alex Harris,14/15,Scotland,511,Dundee FC 
+"Jul 1, 2013",-,Scotland,13248,Hibernian FC U20 ,192500,-,Alex Harris,13/14,Scotland,903,Hibernian FC 
+"Jul 1, 2011",-,Scotland,31031,Hibernian FC U17 ,192500,-,Alex Harris,11/12,Scotland,13248,Hibernian FC U20 
+"Jul 20, 2015",Free transfer,Scotland,124,Rangers ,3583,125 Th. €,Steve Simonsen,15/16,India,45275,FC Pune City 
+"Sep 13, 2013",-,Scotland,515,Unattached ,3583,350 Th. €,Steve Simonsen,13/14,,124,Rangers 
+"Jul 1, 2013",-,Scotland,511,Dundee FC ,3583,350 Th. €,Steve Simonsen,13/14,,515,Unattached 
+"Mar 14, 2013",-,Scotland,515,Unattached ,3583,350 Th. €,Steve Simonsen,12/13,,511,Dundee FC 
+"Jan 22, 2013",-,England,466,Preston NE ,3583,350 Th. €,Steve Simonsen,12/13,,515,Unattached 
+"Aug 17, 2012",Free transfer,England,350,Sheffield Utd. ,3583,750 Th. €,Steve Simonsen,12/13,England,466,Preston NE 
+"Jul 1, 2010",Free transfer,England,512,Stoke City ,3583,750 Th. €,Steve Simonsen,10/11,England,350,Sheffield Utd. 
+"May 1, 2010",End of loan,England,350,Sheffield Utd. ,3583,750 Th. €,Steve Simonsen,09/10,England,512,Stoke City 
+"Mar 1, 2010",Loan,England,512,Stoke City ,3583,750 Th. €,Steve Simonsen,09/10,England,350,Sheffield Utd. 
+"Jul 1, 2004",Free transfer,England,29,Everton ,3583,-,Steve Simonsen,04/05,England,512,Stoke City 
+"Jul 1, 1998","4,95 Mill. €",England,1074,Tranmere Rovers ,3583,-,Steve Simonsen,98/99,England,29,Everton 
+"Jul 1, 1997",-,England,12807,Tranmere U18 ,3583,-,Steve Simonsen,97/98,England,1074,Tranmere Rovers 
+"Jul 1, 1996",?,England,12799,Not. Forest U18 ,3583,-,Steve Simonsen,96/97,England,12807,Tranmere U18 
