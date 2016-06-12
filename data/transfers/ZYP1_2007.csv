@@ -1,0 +1,834 @@
+date,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jul 1, 2015",?,Cyprus,3393,D. Katokopias ,30721,100 Th. €,Héctor González,15/16,,75,Unknown 
+"Jul 1, 2014",?,Venezuela,30504,Atl. Venezuela ,30721,300 Th. €,Héctor González,14/15,Cyprus,3393,D. Katokopias 
+"Jul 1, 2013",?,Venezuela,17489,Llaneros EF ,30721,300 Th. €,Héctor González,13/14,Venezuela,30504,Atl. Venezuela 
+"Jul 1, 2012",?,Venezuela,14682,Carabobo FC ,30721,300 Th. €,Héctor González,12/13,Venezuela,17489,Llaneros EF 
+"Jan 1, 2012",?,Cyprus,24326,Ermis Aradippou ,30721,300 Th. €,Héctor González,11/12,Venezuela,14682,Carabobo FC 
+"Jul 1, 2011",?,Cyprus,8701,Alki Larnaca ,30721,300 Th. €,Héctor González,11/12,Cyprus,24326,Ermis Aradippou 
+"Aug 1, 2010",?,Bulgaria,4494,Chern. Burgas ,30721,400 Th. €,Héctor González,10/11,Cyprus,8701,Alki Larnaca 
+"Jul 1, 2009",Free transfer,Cyprus,2156,AEK Larnaca ,30721,400 Th. €,Héctor González,09/10,Bulgaria,4494,Chern. Burgas 
+"Jan 1, 2007",Free transfer,Venezuela,7466,UA Maracaibo ,30721,400 Th. €,Héctor González,06/07,Cyprus,2156,AEK Larnaca 
+"Jan 1, 2005",?,Argentina,1070,CA Colón ,30721,-,Héctor González,04/05,Venezuela,7466,UA Maracaibo 
+"Jan 1, 2003",?,Venezuela,531,Caracas FC ,30721,-,Héctor González,02/03,Argentina,1070,CA Colón 
+"Jul 1, 2000",?,Venezuela,14682,Carabobo FC ,30721,-,Héctor González,00/01,Venezuela,531,Caracas FC 
+"Jan 1, 2000",?,Venezuela,17194,Mineros ,30721,-,Héctor González,99/00,Venezuela,14682,Carabobo FC 
+"Jul 1, 2012",-,Belgium,3901,FC Charleroi ,32386,50 Th. €,Charly Konstantinidis,12/13,,515,Unattached 
+"Aug 1, 2010",?,Belgium,2974,Boussu Dour ,32386,50 Th. €,Charly Konstantinidis,10/11,Belgium,3901,Couillet 
+"Jul 1, 2009",-,Belgium,515,Unattached ,32386,50 Th. €,Charly Konstantinidis,09/10,,2974,Boussu Dour 
+"Oct 1, 2008",-,Cyprus,18945,Nea Salamis ,32386,50 Th. €,Charly Konstantinidis,08/09,,515,Unattached 
+"Jul 1, 2008",Free transfer,Belgium,1411,RAEC Mons ,32386,50 Th. €,Charly Konstantinidis,08/09,Cyprus,18945,Nea Salamis 
+"Jul 1, 2005",?,Belgium,3497,RSC Charleroi U19 ,32386,-,Charly Konstantinidis,05/06,Belgium,1411,RAEC Mons 
+"Jul 1, 2014",-,Cyprus,10816,Agia Napa ,13059,-,Laurent Fassotte,14/15,,123,End of career 
+"Jul 1, 2013",?,Cyprus,24326,Ermis Aradippou ,13059,200 Th. €,Laurent Fassotte,13/14,Cyprus,10816,Agia Napa 
+"Aug 1, 2011",Free transfer,Cyprus,840,En. Paralimni ,13059,200 Th. €,Laurent Fassotte,11/12,Cyprus,24326,Ermis Aradippou 
+"Jul 1, 2009",Free transfer,Cyprus,786,AEL Limassol ,13059,200 Th. €,Laurent Fassotte,09/10,Cyprus,840,En. Paralimni 
+"Jul 1, 2007",Free transfer,Belgium,3945,Sprimont  ,13059,400 Th. €,Laurent Fassotte,07/08,Cyprus,786,AEL Limassol 
+"Jan 1, 2006",Free transfer,Belgium,204,Lierse SK ,13059,750 Th. €,Laurent Fassotte,05/06,Belgium,3945,Sprimont  
+"Jul 1, 2002",?,Belgium,2973,RWD Molenbeek ,13059,-,Laurent Fassotte,02/03,Belgium,204,Lierse SK 
+"Jul 1, 2001",Free transfer,Belgium,3172,CS Visé ,13059,-,Laurent Fassotte,01/02,Belgium,2973,RWD Molenbeek 
+"Jul 1, 2000",Free transfer,Belgium,3057,Standard Liège ,13059,-,Laurent Fassotte,00/01,Belgium,3172,CS Visé 
+"Sep 1, 2013",?,Israel,554,Hapoel Rishon ,56965,200 Th. €,Lior Asulin,13/14,Israel,262,H. Petah Tikva 
+"Jul 1, 2012",?,Israel,2785,H. Ramat Gan ,56965,200 Th. €,Lior Asulin,12/13,Israel,554,Hapoel Rishon 
+"Jul 1, 2011",Free transfer,Israel,2976,H. Beer Sheva ,56965,200 Th. €,Lior Asulin,11/12,Israel,2785,H. Ramat Gan 
+"Aug 1, 2009",?,Israel,3785,M. Petah Tikva ,56965,-,Lior Asulin,09/10,Israel,2976,H. Beer Sheva 
+"Jul 1, 2008",?,Israel,1017,Hapoel Tel Aviv ,56965,-,Lior Asulin,08/09,Israel,3785,M. Petah Tikva 
+"May 1, 2008",End of loan,Cyprus,429,Apol. Limassol ,56965,-,Lior Asulin,07/08,Israel,1017,Hapoel Tel Aviv 
+"Jan 1, 2008",Loan,Israel,1017,Hapoel Tel Aviv ,56965,-,Lior Asulin,07/08,Cyprus,429,Apol. Limassol 
+"Aug 1, 2007",400 Th. €,Israel,8907,Maccabi Herzliya ,56965,-,Lior Asulin,07/08,Israel,1017,Hapoel Tel Aviv 
+"Jun 30, 2007",End of loan,Israel,9095,Bnei Yehuda ,56965,-,Lior Asulin,06/07,Israel,8907,Maccabi Herzliya 
+"Aug 1, 2006",Loan,Israel,8907,Maccabi Herzliya ,56965,-,Lior Asulin,06/07,Israel,9095,Bnei Yehuda 
+"Jun 30, 2006",End of loan,Israel,3793,B. Jerusalem ,56965,-,Lior Asulin,05/06,Israel,8907,Maccabi Herzliya 
+"Aug 1, 2004",Loan,Israel,8907,Maccabi Herzliya ,56965,-,Lior Asulin,04/05,Israel,3793,B. Jerusalem 
+"Jun 30, 2004",End of loan,Israel,4769,Bnei Sakhnin ,56965,-,Lior Asulin,03/04,Israel,8907,Maccabi Herzliya 
+"Aug 1, 2003",Loan,Israel,8907,Maccabi Herzliya ,56965,-,Lior Asulin,03/04,Israel,4769,Bnei Sakhnin 
+"Jun 30, 2003",End of loan,Israel,262,H. Petah Tikva ,56965,-,Lior Asulin,02/03,Israel,8907,Maccabi Herzliya 
+"Jul 1, 2002",Loan,Israel,8907,Maccabi Herzliya ,56965,-,Lior Asulin,02/03,Israel,262,H. Petah Tikva 
+"Jul 1, 1997",-,Israel,44162,M. Herzliya U19 ,56965,-,Lior Asulin,97/98,Israel,8907,Maccabi Herzliya 
+"Jul 1, 2012",Free transfer,Cyprus,26129,AEK Kouklia ,37996,350 Th. €,Shingayi Kaondera,12/13,,75,Unknown 
+"Jul 1, 2011",Free transfer,Cyprus,37573,Chalkanoras ,37996,350 Th. €,Shingayi Kaondera,11/12,Cyprus,26129,AEK Kouklia 
+"Jul 1, 2010",?,Cyprus,4582,Dighenis Morphou ,37996,350 Th. €,Shingayi Kaondera,10/11,Cyprus,37573,Chalkanoras 
+"Jul 1, 2009",Free transfer,Cyprus,18945,Nea Salamis ,37996,350 Th. €,Shingayi Kaondera,09/10,Cyprus,4582,Dighenis Morphou 
+"Jan 1, 2008",Free transfer,Cyprus,2156,AEK Larnaca ,37996,350 Th. €,Shingayi Kaondera,07/08,Cyprus,18945,Nea Salamis 
+"Jul 1, 2007",Free transfer,South Africa,2891,SuperSport Utd. ,37996,350 Th. €,Shingayi Kaondera,07/08,Cyprus,2156,AEK Larnaca 
+"Aug 1, 2006",?,Turkey,524,Gaziantepspor ,37996,350 Th. €,Shingayi Kaondera,06/07,South Africa,2891,SuperSport Utd. 
+"Feb 10, 2006",Free transfer,Cyprus,7475,AE Pafos  ,37996,350 Th. €,Shingayi Kaondera,05/06,Turkey,524,Gaziantepspor 
+"Jul 1, 2002",Free transfer,Poland,428,G. Zabrze ,37996,-,Shingayi Kaondera,02/03,Cyprus,7475,AE Pafos  
+"Jul 1, 1999",?,Zimbabwe,2306,Darryn Textiles ,37996,-,Shingayi Kaondera,99/00,Poland,428,G. Zabrze 
+"Jun 30, 1998",End of loan,Poland,9644,Rakow ,37996,-,Shingayi Kaondera,97/98,Zimbabwe,2306,Darryn Textiles 
+"Jul 1, 1997",Loan,Zimbabwe,2306,Darryn Textiles ,37996,-,Shingayi Kaondera,97/98,Poland,9644,Rakow 
+"Jul 29, 2014",?,Portugal,3329,Famalicão ,13960,150 Th. €,Nené,14/15,Portugal,8424,Vilaverdense FC 
+"Jan 17, 2014",?,Portugal,10140,Covilhã ,13960,150 Th. €,Nené,13/14,Portugal,3329,Famalicão 
+"Jul 1, 2012",?,Portugal,8024,Arouca ,13960,200 Th. €,Nené,12/13,Portugal,10140,Covilhã 
+"Jul 1, 2010",?,Romania,4687,FC Brasov ,13960,250 Th. €,Nené,10/11,Portugal,8024,Arouca 
+"Jul 1, 2009",100 Th. €,Cyprus,840,En. Paralimni ,13960,250 Th. €,Nené,09/10,Romania,4687,FC Brasov 
+"Dec 1, 2008",?,Cyprus,840,En. Paralimni ,13960,250 Th. €,Nené,08/09,Spain,5650,Pontevedra 
+"Jan 1, 2008",Free transfer,Qatar,1230,Al-Arabi ,13960,250 Th. €,Nené,07/08,Cyprus,840,En. Paralimni 
+"Jul 1, 2007",Free transfer,Portugal,3336,Desportivo Aves ,13960,250 Th. €,Nené,07/08,Qatar,1230,Al-Arabi 
+"Dec 31, 2005",End of loan,Portugal,2639,Leiria ,13960,50 Th. €,Nené,05/06,Portugal,3336,Desportivo Aves 
+"Jul 1, 2005",Loan,Portugal,1075,Braga ,13960,50 Th. €,Nené,05/06,Portugal,2639,Leiria 
+"Jun 30, 2005",End of loan,Portugal,3336,Desportivo Aves ,13960,50 Th. €,Nené,04/05,Portugal,1075,Braga 
+"Jul 1, 2004",Loan,Portugal,1075,Braga ,13960,-,Nené,04/05,Portugal,3336,Desportivo Aves 
+"Jan 1, 2002",Free transfer,Portugal,3323,Gondomar ,13960,-,Nené,01/02,Portugal,1075,Braga 
+"Jul 1, 2000",Free transfer,Portugal,7119,Vilafranquense ,13960,-,Nené,00/01,Portugal,3323,Gondomar 
+"Jul 1, 1999",Free transfer,Portugal,2503,Boavista ,13960,-,Nené,99/00,Portugal,7119,Vilafranquense 
+"Jul 1, 1998",-,Portugal,12963,Boavista U19 ,13960,-,Nené,98/99,Portugal,2503,Boavista 
+"Jul 1, 2012",Free transfer,Argentina,14312,C.A. Estudiantes ,26476,400 Th. €,Luis Mariano Torresi,12/13,Argentina,25184,Barracas C 
+"Jul 1, 2011",Free transfer,Argentina,12574,Godoy Cruz ,26476,400 Th. €,Luis Mariano Torresi,11/12,Argentina,14312,C.A. Estudiantes 
+"Jun 30, 2011",End of loan,Argentina,1829,Instituto ,26476,400 Th. €,Luis Mariano Torresi,10/11,Argentina,12574,Godoy Cruz 
+"Jul 1, 2010",Loan,Argentina,12574,Godoy Cruz ,26476,400 Th. €,Luis Mariano Torresi,10/11,Argentina,1829,Instituto 
+"Jun 30, 2010",End of loan,Argentina,10511,San Martín ,26476,400 Th. €,Luis Mariano Torresi,09/10,Argentina,12574,Godoy Cruz 
+"Aug 1, 2009",Loan,Argentina,12574,Godoy Cruz ,26476,50 Th. €,Luis Mariano Torresi,09/10,Argentina,10511,San Martín 
+"Jun 30, 2009",End of loan,Argentina,10511,San Martín ,26476,50 Th. €,Luis Mariano Torresi,08/09,Argentina,12574,Godoy Cruz 
+"Jan 1, 2009",Loan,Argentina,12574,Godoy Cruz ,26476,50 Th. €,Luis Mariano Torresi,08/09,Argentina,10511,San Martín 
+"Dec 1, 2008",End of loan,Mexico,10091,Dorados de Sin. ,26476,200 Th. €,Luis Mariano Torresi,08/09,Argentina,12574,Godoy Cruz 
+"Aug 1, 2008",Loan,Argentina,12574,Godoy Cruz ,26476,300 Th. €,Luis Mariano Torresi,08/09,Mexico,10091,Dorados de Sin. 
+"Jun 30, 2008",End of loan,Cyprus,429,Apol. Limassol ,26476,-,Luis Mariano Torresi,07/08,Argentina,12574,Godoy Cruz 
+"Jul 1, 2007",Loan,Argentina,12574,Godoy Cruz ,26476,-,Luis Mariano Torresi,07/08,Cyprus,429,Apol. Limassol 
+"Jun 30, 2004",End of loan,Argentina,1286,Newell's ,26476,-,Luis Mariano Torresi,03/04,Argentina,12574,Godoy Cruz 
+"Jul 1, 2003",Loan,Argentina,12574,Godoy Cruz ,26476,-,Luis Mariano Torresi,03/04,Argentina,1286,Newell's 
+"Jan 1, 1998",-,Argentina,19446,Godoy Cruz U20 ,26476,-,Luis Mariano Torresi,97/98,Argentina,12574,Godoy Cruz 
+"Nov 20, 2013",Free transfer,France,25114,Blois ,24714,350 Th. €,Hamid Rhanem,13/14,France,5086,SO Romorantin 
+"Jul 1, 2012",Free transfer,Cyprus,8553,APEP Pitsilia ,24714,350 Th. €,Hamid Rhanem,12/13,France,25114,Blois 
+"Jan 20, 2012",Free transfer,Cyprus,18945,Nea Salamis ,24714,350 Th. €,Hamid Rhanem,11/12,Cyprus,8553,APEP Pitsilia 
+"Jul 1, 2011",Free transfer,Cyprus,4582,Dighenis Morphou ,24714,350 Th. €,Hamid Rhanem,11/12,Cyprus,18945,Nea Salamis 
+"Jul 1, 2009",Free transfer,Cyprus,8554,APOP Kinyras ,24714,350 Th. €,Hamid Rhanem,09/10,Cyprus,4582,Dighenis Morphou 
+"Jan 1, 2009",Free transfer,Cyprus,2156,AEK Larnaca ,24714,350 Th. €,Hamid Rhanem,08/09,Cyprus,8554,APOP Kinyras 
+"Jul 1, 2008",Free transfer,Cyprus,840,En. Paralimni ,24714,350 Th. €,Hamid Rhanem,08/09,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2007",Free transfer,Cyprus,10816,Agia Napa ,24714,350 Th. €,Hamid Rhanem,07/08,Cyprus,840,En. Paralimni 
+"Jul 1, 2006",Free transfer,Greece,6676,Ast. Tripolis ,24714,-,Hamid Rhanem,06/07,Cyprus,10816,Agia Napa 
+"Jan 1, 2006",Free transfer,France,3524,Clermont Foot ,24714,-,Hamid Rhanem,05/06,Greece,6676,Ast. Tripolis 
+"Jul 1, 2005",Free transfer,Portugal,4814,Naval ,24714,-,Hamid Rhanem,05/06,France,3524,Clermont Foot 
+"Jul 1, 2004",Free transfer,Portugal,2434,Salgueiros ,24714,-,Hamid Rhanem,04/05,Portugal,4814,Naval 
+"Jul 1, 2003",Free transfer,Portugal,3336,Desportivo Aves ,24714,-,Hamid Rhanem,03/04,Portugal,2434,Salgueiros 
+"Jul 1, 2008",-,Cyprus,3899,Anor. Famagusta ,16395,500 Th. €,Metodi Deyanov,08/09,,123,End of career 
+"Jul 1, 2007",Free transfer,Greece,653,OFI Kreta ,16395,500 Th. €,Metodi Deyanov,07/08,Cyprus,3899,Anor. Famagusta 
+"Jan 1, 2003",250 Th. €,Bulgaria,208,CSKA Sofia ,16395,-,Metodi Deyanov,02/03,Greece,653,OFI Kreta 
+"Jul 1, 1994",-,Bulgaria,9525,ZSKA Sofia U19 ,16395,-,Metodi Deyanov,94/95,Bulgaria,208,CSKA Sofia 
+"Jul 1, 2015",Free transfer,Cyprus,42109,Karmiotissa ,24972,200 Th. €,Levan Maghradze,15/16,Cyprus,34593,Parekklisia 
+"Aug 6, 2014",Free transfer,Cyprus,24326,Ermis Aradippou ,24972,200 Th. €,Levan Maghradze,14/15,Cyprus,42109,Karmiotissa 
+"Jul 1, 2013",Free transfer,Cyprus,4590,Ethnikos ,24972,250 Th. €,Levan Maghradze,13/14,Cyprus,24326,Ermis Aradippou 
+"Jul 1, 2011",Free transfer,Cyprus,24326,Ermis Aradippou ,24972,250 Th. €,Levan Maghradze,11/12,Cyprus,4590,Ethnikos 
+"Jul 1, 2009",Free transfer,Cyprus,429,Apol. Limassol ,24972,750 Th. €,Levan Maghradze,09/10,Cyprus,24326,Ermis Aradippou 
+"Jul 1, 2007",Free transfer,Greece,128,AO Xanthi ,24972,750 Th. €,Levan Maghradze,07/08,Cyprus,429,Apol. Limassol 
+"Jul 1, 2004",Free transfer,Cyprus,786,AEL Limassol ,24972,-,Levan Maghradze,04/05,Greece,128,AO Xanthi 
+"Jul 1, 2002",?,Cyprus,7475,AE Pafos  ,24972,-,Levan Maghradze,02/03,Cyprus,786,AEL Limassol 
+"Jul 1, 2001",?,Cyprus,10586,Aris Limassol ,24972,-,Levan Maghradze,01/02,Cyprus,7475,AE Pafos  
+"Jul 1, 2000",?,Cyprus,75,Unknown ,24972,-,Levan Maghradze,00/01,,10586,Aris Limassol 
+"Jul 1, 2012",-,Romania,16650,FCM Targu Mures ,16653,75 Th. €,Adrian Iencsi,12/13,,123,End of career 
+"Jan 1, 2011",Free transfer,Romania,15945,Chiajna ,16653,250 Th. €,Adrian Iencsi,10/11,Romania,16650,FCM Targu Mures 
+"Jul 1, 2010",Free transfer,Romania,455,Rapid Bucharest ,16653,250 Th. €,Adrian Iencsi,10/11,Romania,15945,Chiajna 
+"Jan 1, 2009",Free transfer,Austria,2394,SV Kapfenberg ,16653,400 Th. €,Adrian Iencsi,08/09,Romania,455,Rapid Bucharest 
+"Aug 1, 2008",Free transfer,Cyprus,429,Apol. Limassol ,16653,"1,30 Mill. €",Adrian Iencsi,08/09,Austria,2394,SV Kapfenberg 
+"Jul 1, 2007",Free transfer,Romania,8687,C. Piatra Neamt ,16653,"1,30 Mill. €",Adrian Iencsi,07/08,Cyprus,429,Apol. Limassol 
+"Jul 1, 2006",30 Th. €,Russia,232,Spartak Moscow ,16653,"1,30 Mill. €",Adrian Iencsi,06/07,Romania,8687,C. Piatra Neamt 
+"Jul 1, 2003",700 Th. €,Romania,455,Rapid Bucharest ,16653,-,Adrian Iencsi,03/04,Russia,232,Spartak Moscow 
+"Jan 1, 1997",100 Th. €,Romania,8687,C. Piatra Neamt ,16653,-,Adrian Iencsi,96/97,Romania,455,Rapid Bucharest 
+"Jun 1, 1996",?,Romania,37265,Targu Neamt ,16653,-,Adrian Iencsi,95/96,Romania,8687,C. Piatra Neamt 
+"Jul 1, 1994",?,Romania,8687,C. Piatra Neamt ,16653,-,Adrian Iencsi,94/95,Romania,37265,Targu Neamt 
+"Jun 1, 1994",-,Romania,21534,CPN U19 ,16653,-,Adrian Iencsi,93/94,Romania,8687,C. Piatra Neamt 
+"Jan 1, 2015",?,Angola,24712,Caála ,14097,200 Th. €,Freddy,14/15,,75,Unknown 
+"Jan 1, 2014",?,Angola,14503,1º de Agosto ,14097,200 Th. €,Freddy,13/14,Angola,24712,Caála 
+"Jul 1, 2013",Free transfer,Cyprus,829,Omonia Nikosia ,14097,200 Th. €,Freddy,13/14,Angola,14503,1º de Agosto 
+"Aug 1, 2011",?,Cyprus,786,AEL Limassol ,14097,200 Th. €,Freddy,11/12,Cyprus,829,Omonia Nikosia 
+"Jan 1, 2009",?,Cyprus,840,En. Paralimni ,14097,"1,00 Mill. €",Freddy,08/09,Cyprus,786,AEL Limassol 
+"Jan 1, 2008",120 Th. €,Cyprus,3393,D. Katokopias ,14097,"1,00 Mill. €",Freddy,07/08,Cyprus,840,En. Paralimni 
+"Jul 1, 2007",Free transfer,Malaysia,12363,Negeri Sembilan ,14097,"1,00 Mill. €",Freddy,07/08,Cyprus,3393,D. Katokopias 
+"Jan 1, 2007",Free transfer,Portugal,3336,Desportivo Aves ,14097,"1,00 Mill. €",Freddy,06/07,Malaysia,12363,Negeri Sembilan FA 
+"Jul 1, 2006",Free transfer,Qatar,6297,Al-Gharafa ,14097,"1,00 Mill. €",Freddy,06/07,Portugal,3336,Desportivo Aves 
+"Jan 1, 2006",Free transfer,Portugal,979,Moreirense  ,14097,"1,00 Mill. €",Freddy,05/06,Qatar,6297,Al-Gharafa 
+"Jul 1, 2005",Free transfer,Portugal,2639,Leiria ,14097,"1,00 Mill. €",Freddy,05/06,Portugal,979,Moreirense  
+"Jul 1, 2001",Free transfer,Portugal,1465,Estoril ,14097,-,Freddy,01/02,Portugal,2639,Leiria 
+"Jul 1, 1998",-,Portugal,15605,Estoril U19 ,14097,-,Freddy,98/99,Portugal,1465,Estoril 
+"Jul 1, 2005",?,Cyprus,1402,Olympiakos N. ,25874,-,Savvas Tsiaklis,05/06,,75,Unknown 
+"Jul 1, 2004",?,Cyprus,829,Omonia Nikosia ,25874,-,Savvas Tsiaklis,04/05,Cyprus,1402,Olympiakos N. 
+"Jul 1, 2003",?,Cyprus,1402,Olympiakos N. ,25874,-,Savvas Tsiaklis,03/04,Cyprus,829,Omonia Nikosia 
+"Jul 1, 1998",?,Cyprus,829,Omonia Nikosia ,25874,-,Savvas Tsiaklis,98/99,Cyprus,1402,Olympiakos N. 
+"Jul 1, 2014",-,Cyprus,18945,Nea Salamis ,58460,-,Sinisa Dobrasinovic,14/15,,123,End of career 
+"Jul 1, 2013",-,Cyprus,515,Unattached ,58460,100 Th. €,Sinisa Dobrasinovic,13/14,,18945,Nea Salamis 
+"Jan 31, 2013",-,Kazakhstan,15299,Zhetysu ,58460,50 Th. €,Sinisa Dobrasinovic,12/13,,515,Unattached 
+"Apr 1, 2012",Free transfer,Cyprus,8701,Alki Larnaca ,58460,500 Th. €,Sinisa Dobrasinovic,11/12,Kazakhstan,15299,Zhetysu 
+"Jul 1, 2010",Free transfer,Greece,3391,AO Kavala ,58460,800 Th. €,Sinisa Dobrasinovic,10/11,Cyprus,8701,Alki Larnaca 
+"Jul 1, 2009",50 Th. €,Cyprus,3899,Anor. Famagusta ,58460,-,Sinisa Dobrasinovic,09/10,Greece,3391,AO Kavala 
+"Jul 1, 2008",50 Th. €,Cyprus,829,Omonia Nikosia ,58460,-,Sinisa Dobrasinovic,08/09,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2005",Free transfer,Cyprus,4582,Dighenis Morphou ,58460,-,Sinisa Dobrasinovic,05/06,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2003",Free transfer,Cyprus,429,Apol. Limassol ,58460,-,Sinisa Dobrasinovic,03/04,Cyprus,4582,Dighenis Morphou 
+"Jul 1, 2000",Free transfer,Belgium,498,KSC Lokeren ,58460,-,Sinisa Dobrasinovic,00/01,Cyprus,429,Apol. Limassol 
+"Jul 1, 1998",Free transfer,Slovenia,789,Rudar Velenje ,58460,-,Sinisa Dobrasinovic,98/99,Belgium,498,KSC Lokeren 
+"Jul 1, 2011",?,Cyprus,10816,Agia Napa ,42862,-,Guilherme Brandelli,11/12,,75,Unknown 
+"Jul 1, 2007",Free transfer,Germany,14715,1.FC Doppeltest ,42862,-,Guilherme Brandelli,07/08,Cyprus,10816,Agia Napa 
+"Jul 1, 2006",Free transfer,Hungary,7682,Lombard Pápa  ,42862,-,Guilherme Brandelli,06/07,Germany,14715,1.FC Doppeltest 
+"Dec 1, 2005",400 Th. €,Cyprus,2156,AEK Larnaca ,42862,-,Guilherme Brandelli,05/06,Hungary,7682,Lombard Pápa  
+"Dec 1, 2004",600 Th. €,Italy,8654,AS Ferentino ,42862,-,Guilherme Brandelli,04/05,Cyprus,2156,AEK Larnaca 
+"Dec 1, 2001",Free transfer,Brazil,6600,Internacional ,42862,-,Guilherme Brandelli,01/02,Italy,8654,AS Ferentino 
+"May 1, 2011",-,Brazil,28621,Futebol Clube Cascavel (PR) ,790,600 Th. €,Marcelo Pletsch,10/11,,123,End of career 
+"Jan 1, 2011",-,Brazil,515,Unattached ,790,600 Th. €,Marcelo Pletsch,10/11,,28621,Futebol Clube Cascavel (PR) 
+"Jul 1, 2010",-,Serbia,448,Vojvodina ,790,600 Th. €,Marcelo Pletsch,10/11,,515,Unattached 
+"Jul 1, 2009",Free transfer,Cyprus,829,Omonia Nikosia ,790,750 Th. €,Marcelo Pletsch,09/10,Serbia,448,Vojvodina 
+"Jan 1, 2008",100 Th. €,Greece,169,Panionios ,790,750 Th. €,Marcelo Pletsch,07/08,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2006",Free transfer,Germany,2,1.FC K'lautern ,790,250 Th. €,Marcelo Pletsch,06/07,Greece,169,Panionios 
+"Jul 1, 2005",-,Germany,515,Unattached ,790,"1,10 Mill. €",Marcelo Pletsch,05/06,,2,1.FC K'lautern 
+"Jan 1, 2005",-,Germany,18,Bor. M'gladbach ,790,"1,10 Mill. €",Marcelo Pletsch,04/05,,515,Unattached 
+"Jul 1, 1999",Free transfer,Portugal,722,Oliveira ,790,-,Marcelo Pletsch,99/00,Germany,18,Bor. M'gladbach 
+"Jul 1, 2014",-,Cyprus,10586,Aris Limassol ,34455,-,Dusan Kerkez,14/15,,123,End of career 
+"Jul 1, 2011",Free transfer,Cyprus,786,AEL Limassol ,34455,250 Th. €,Dusan Kerkez,11/12,Cyprus,10586,Aris Limassol 
+"Jul 1, 2007",?,Croatia,144,HNK Rijeka ,34455,325 Th. €,Dusan Kerkez,07/08,Cyprus,786,AEL Limassol 
+"Jul 1, 2005",?,Bosnia-Herzegovina,6808,Zrinjski Mostar ,34455,-,Dusan Kerkez,05/06,Croatia,144,HNK Rijeka 
+"Jul 1, 2004",?,Bosnia-Herzegovina,3451,Leotar Trebinje ,34455,-,Dusan Kerkez,04/05,Bosnia-Herzegovina,6808,Zrinjski Mostar 
+"Jul 1, 2002",?,Serbia,4661,Radnicki Obrenovac ,34455,-,Dusan Kerkez,02/03,Bosnia-Herzegovina,3451,Leotar Trebinje 
+"Jul 1, 2000",?,Serbia,20887,Jedinstvo Ub ,34455,-,Dusan Kerkez,00/01,Serbia,4661,Radnicki Obrenovac 
+"Jul 1, 1998",?,Serbia,29787,FK Partizan II ,34455,-,Dusan Kerkez,98/99,Serbia,20887,Jedinstvo Ub 
+"Jul 1, 2010",-,Greece,2671,PAS Giannina ,22808,300 Th. €,Konstantinos Louboutis,10/11,,123,End of career 
+"Jul 12, 2008",Free transfer,Greece,2672,APO Levadiakos ,22808,400 Th. €,Konstantinos Louboutis,08/09,Greece,2671,PAS Giannina 
+"Jan 12, 2008",Free transfer,Cyprus,3899,Anor. Famagusta ,22808,250 Th. €,Konstantinos Louboutis,07/08,Greece,2672,APO Levadiakos 
+"Jul 1, 2007",Free transfer,Netherlands,317,FC Twente ,22808,250 Th. €,Konstantinos Louboutis,07/08,Cyprus,3899,Anor. Famagusta 
+"Jun 30, 2007",End of loan,Netherlands,1268,ADO Den Haag ,22808,250 Th. €,Konstantinos Louboutis,06/07,Netherlands,317,FC Twente 
+"Jul 1, 2006",Loan,Netherlands,317,FC Twente ,22808,-,Konstantinos Louboutis,06/07,Netherlands,1268,ADO Den Haag 
+"Jul 1, 2005",Free transfer,Italy,839,Perugia ,22808,-,Konstantinos Louboutis,05/06,Netherlands,317,FC Twente 
+"Jun 30, 2004",End of loan,Italy,1387,AC Siena ,22808,-,Konstantinos Louboutis,03/04,Italy,839,Perugia 
+"Jul 1, 2003",Loan,Italy,839,Perugia ,22808,-,Konstantinos Louboutis,03/04,Italy,1387,AC Siena 
+"Jul 1, 2002",Free transfer,Greece,605,Aris Saloniki ,22808,-,Konstantinos Louboutis,02/03,Italy,839,Perugia 
+"Jul 1, 1995",-,Greece,14778,Aris U20 ,22808,-,Konstantinos Louboutis,95/96,Greece,605,Aris Saloniki 
+"Jul 1, 2015",?,Austria,9114,SC Neusiedl/See ,922,-,Peter Hodulik,15/16,Austria,16050,Gattendorf 
+"Jul 1, 2013",?,Slovakia,36011,Piestany ,922,150 Th. €,Peter Hodulik,13/14,Austria,9114,SC Neusiedl/See 
+"Jul 1, 2011",?,Slovakia,24742,Bernolakovo ,922,150 Th. €,Peter Hodulik,11/12,Slovakia,36011,Piestany 
+"Jul 1, 2009",?,Slovakia,515,Unattached ,922,150 Th. €,Peter Hodulik,09/10,,24742,Bernolakovo 
+"Jul 1, 2008",-,Cyprus,2156,AEK Larnaca ,922,150 Th. €,Peter Hodulik,08/09,,515,Unattached 
+"Jul 1, 2006",Free transfer,Slovakia,365,Spartak Trnava ,922,150 Th. €,Peter Hodulik,06/07,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2002",?,Germany,65,Greuther Fürth ,922,-,Peter Hodulik,02/03,Slovakia,365,Spartak Trnava 
+"Jan 1, 2002",Free transfer,Germany,8,Alem. Aachen ,922,-,Peter Hodulik,01/02,Germany,65,Greuther Fürth 
+"Jul 1, 2000",?,Germany,10848,VfB Leipzig ,922,-,Peter Hodulik,00/01,Germany,8,Alem. Aachen 
+"Jan 12, 2016",Free transfer,India,29570,Pune FC ,22556,100 Th. €,Edgar Marcelino,15/16,Cyprus,42109,Karmiotissa 
+"Jan 1, 2015",?,India,45321,FC Goa ,22556,100 Th. €,Edgar Marcelino,14/15,India,29570,Pune FC 
+"Aug 21, 2014",?,Oman,34836,Al-Seeb ,22556,100 Th. €,Edgar Marcelino,14/15,India,45321,FC Goa 
+"Jul 1, 2013",?,Cyprus,7475,AE Pafos  ,22556,100 Th. €,Edgar Marcelino,13/14,Oman,34836,Al-Seeb 
+"Jan 23, 2013",?,Morocco,4697,Kawkab Marrakech ,22556,100 Th. €,Edgar Marcelino,12/13,Cyprus,7475,AE Pafos  
+"Aug 1, 2011",Free transfer,Portugal,1465,Estoril ,22556,100 Th. €,Edgar Marcelino,11/12,Morocco,4697,Kawkab Marrakech 
+"Jan 1, 2011",?,Cyprus,8554,APOP Kinyras ,22556,100 Th. €,Edgar Marcelino,10/11,Portugal,1465,Estoril 
+"Jan 1, 2009",?,Spain,1176,Ferrol ,22556,-,Edgar Marcelino,08/09,Cyprus,8554,APOP Kinyras 
+"Jul 1, 2008",Free transfer,Cyprus,829,Omonia Nikosia ,22556,75 Th. €,Edgar Marcelino,08/09,Spain,1176,Ferrol 
+"Jan 1, 2007",?,Portugal,2420,Vit. Guimarães ,22556,75 Th. €,Edgar Marcelino,06/07,Cyprus,829,Omonia Nikosia 
+"Aug 1, 2006",Free transfer,Portugal,336,Sporting CP ,22556,75 Th. €,Edgar Marcelino,06/07,Portugal,2420,Vit. Guimarães 
+"Jun 30, 2006",End of loan,Netherlands,1227,RBC Roosendaal ,22556,75 Th. €,Edgar Marcelino,05/06,Portugal,336,Sporting CP 
+"Aug 1, 2005",Loan,Portugal,336,Sporting CP ,22556,-,Edgar Marcelino,05/06,Netherlands,1227,RBC Roosendaal 
+"Jun 30, 2005",End of loan,Portugal,3327,Penafiel ,22556,-,Edgar Marcelino,04/05,Portugal,336,Sporting CP 
+"Jul 1, 2004",Loan,Portugal,336,Sporting CP ,22556,-,Edgar Marcelino,04/05,Portugal,3327,Penafiel 
+"Jul 1, 2003",-,Portugal,10283,Sporting U19 ,22556,-,Edgar Marcelino,03/04,Portugal,336,Sporting CP 
+"Jul 1, 2015",-,Netherlands,1269,PEC Zwolle ,4638,-,Joost Broerse,15/16,,123,End of career 
+"Jul 1, 2012",Free transfer,Netherlands,798,SBV Excelsior ,4638,400 Th. €,Joost Broerse,12/13,Netherlands,1269,PEC Zwolle 
+"Aug 1, 2011",Free transfer,Cyprus,2784,APOEL Nicosia ,4638,400 Th. €,Joost Broerse,11/12,Netherlands,798,SBV Excelsior 
+"Jan 1, 2008",Free transfer,Netherlands,200,FC Utrecht ,4638,900 Th. €,Joost Broerse,07/08,Cyprus,2784,APOEL Nicosia 
+"Jul 1, 2003",Free transfer,Netherlands,202,FC Groningen ,4638,-,Joost Broerse,03/04,Netherlands,200,FC Utrecht 
+"Jul 1, 1997",Free transfer,Netherlands,4694,FC Utrecht U19 ,4638,-,Joost Broerse,97/98,Netherlands,202,FC Groningen 
+"Feb 25, 2016",-,Poland,515,Unattached ,19999,700 Th. €,Gastón Sangoy,15/16,,6107,Arka Gdynia 
+"Aug 21, 2015",-,Qatar,13509,Al-Wakrah ,19999,700 Th. €,Gastón Sangoy,15/16,,515,Unattached 
+"Jul 13, 2015",Free transfer,Cyprus,429,Apol. Limassol ,19999,700 Th. €,Gastón Sangoy,15/16,Qatar,13509,Al-Wakrah 
+"Jul 18, 2013",Free transfer,Spain,2448,Sporting Gijón ,19999,"1,20 Mill. €",Gastón Sangoy,13/14,Cyprus,429,Apol. Limassol 
+"Jul 1, 2010",800 Th. €,Cyprus,429,Apol. Limassol ,19999,400 Th. €,Gastón Sangoy,10/11,Spain,2448,Sporting Gijón 
+"Jul 1, 2007",Free transfer,Israel,19977,H. Ashkelon ,19999,300 Th. €,Gastón Sangoy,07/08,Cyprus,429,Apol. Limassol 
+"Jan 1, 2007",Free transfer,Colombia,2350,Millonarios ,19999,300 Th. €,Gastón Sangoy,06/07,Israel,19977,H. Ashkelon 
+"Jul 1, 2006",Free transfer,Peru,6593,Universitario ,19999,300 Th. €,Gastón Sangoy,06/07,Colombia,2350,Millonarios 
+"Jan 1, 2006",Free transfer,Argentina,189,Boca Juniors ,19999,50 Th. €,Gastón Sangoy,05/06,Peru,6593,Universitario 
+"Jun 30, 2005",End of loan,Netherlands,610,AFC Ajax ,19999,50 Th. €,Gastón Sangoy,04/05,Argentina,189,Boca Juniors 
+"Jul 1, 2004",Loan,Argentina,189,Boca Juniors ,19999,-,Gastón Sangoy,04/05,Netherlands,610,AFC Ajax 
+"Jan 1, 2003",-,Argentina,15098,Boca U20 ,19999,-,Gastón Sangoy,02/03,Argentina,189,Boca Juniors 
+"Jul 1, 2011",-,Cyprus,10586,Aris Limassol ,6177,400 Th. €,Paulo Costa,11/12,,123,End of career 
+"Jan 1, 2011",Free transfer,Cyprus,24326,Ermis Aradippou ,6177,400 Th. €,Paulo Costa,10/11,Cyprus,10586,Aris Limassol 
+"Jul 1, 2010",Free transfer,Cyprus,8554,APOP Kinyras ,6177,400 Th. €,Paulo Costa,10/11,Cyprus,24326,Ermis Aradippou 
+"Jan 1, 2010",200 Th. €,Greece,2672,APO Levadiakos ,6177,800 Th. €,Paulo Costa,09/10,Cyprus,8554,APOP Kinyras 
+"Jul 1, 2009",Free transfer,Cyprus,2784,APOEL Nicosia ,6177,750 Th. €,Paulo Costa,09/10,Greece,2672,APO Levadiakos 
+"Jan 1, 2009",250 Th. €,Cyprus,3899,Anor. Famagusta ,6177,750 Th. €,Paulo Costa,08/09,Cyprus,2784,APOEL Nicosia 
+"Jan 1, 2008",Free transfer,Cyprus,10586,Aris Limassol ,6177,750 Th. €,Paulo Costa,07/08,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2007",Free transfer,Greece,605,Aris Saloniki ,6177,750 Th. €,Paulo Costa,07/08,Cyprus,10586,Aris Limassol 
+"Jan 1, 2006",Free transfer,France,40,G. Bordeaux ,6177,200 Th. €,Paulo Costa,05/06,Greece,605,Aris Saloniki 
+"Jul 1, 2005",Free transfer,Portugal,720,FC Porto ,6177,200 Th. €,Paulo Costa,05/06,France,40,G. Bordeaux 
+"Jun 1, 2005",End of loan,Portugal,2424,Gil Vicente ,6177,200 Th. €,Paulo Costa,04/05,Portugal,720,FC Porto 
+"Jul 1, 2004",Loan,Portugal,720,FC Porto ,6177,-,Paulo Costa,04/05,Portugal,2424,Gil Vicente 
+"Jun 1, 2004",End of loan,France,40,G. Bordeaux ,6177,-,Paulo Costa,03/04,Portugal,720,FC Porto 
+"Jul 1, 2003",Loan,Portugal,720,FC Porto ,6177,-,Paulo Costa,03/04,France,40,G. Bordeaux 
+"Jun 1, 2003",End of loan,Italy,607,AC Venezia 1907 ,6177,-,Paulo Costa,02/03,Portugal,720,FC Porto 
+"Jul 1, 2002",Loan,Portugal,720,FC Porto ,6177,-,Paulo Costa,02/03,Italy,607,AC Venezia 1907 
+"Jul 1, 2001",Free transfer,Italy,1386,Reggina ,6177,-,Paulo Costa,01/02,Portugal,720,FC Porto 
+"Jan 1, 2001",Free transfer,Italy,46,Inter ,6177,-,Paulo Costa,00/01,Italy,1386,Reggina 
+"Jul 1, 2000",Free transfer,Portugal,2521,Alverca ,6177,-,Paulo Costa,00/01,Italy,46,Inter 
+"Jul 1, 1999",Free transfer,Portugal,2430,Lourinhanense ,6177,-,Paulo Costa,99/00,Portugal,2521,Alverca 
+"Jul 1, 1998",Free transfer,Portugal,10283,Sporting U19 ,6177,-,Paulo Costa,98/99,Portugal,2430,Lourinhanense 
+"Jul 1, 2011",-,Bolivia,6878,Bolívar ,37539,150 Th. €,Zé Carlos,11/12,,123,End of career 
+"Jul 1, 2010",Free transfer,Brazil,25294,Botafogo-DF ,37539,150 Th. €,Zé Carlos,10/11,Bolivia,6878,Bolívar 
+"Jan 1, 2010",Free transfer,Brazil,10492,Juventude ,37539,150 Th. €,Zé Carlos,09/10,Brazil,25294,Botafogo-DF 
+"Apr 1, 2009",Free transfer,Greece,2079,PAE Veria ,37539,"1,25 Mill. €",Zé Carlos,08/09,Brazil,10492,Juventude 
+"Jan 1, 2009",Free transfer,Portugal,3348,Trofense ,37539,"1,25 Mill. €",Zé Carlos,08/09,Greece,2079,PAE Veria 
+"Jul 1, 2008",Free transfer,Cyprus,2784,APOEL Nicosia ,37539,"1,25 Mill. €",Zé Carlos,08/09,Portugal,3348,Trofense 
+"Jul 1, 2007",Free transfer,Portugal,1075,Braga ,37539,"1,25 Mill. €",Zé Carlos,07/08,Cyprus,2784,APOEL Nicosia 
+"Jul 1, 2006",Free transfer,Portugal,1301,Marítimo ,37539,"1,25 Mill. €",Zé Carlos,06/07,Portugal,1075,Braga 
+"Jan 1, 2006",Free transfer,Brazil,10492,Juventude ,37539,-,Zé Carlos,05/06,Portugal,1301,Marítimo 
+"Jan 1, 2005",Free transfer,"Korea, South",311,Pohang ,37539,-,Zé Carlos,04/05,Brazil,10492,Juventude 
+"Jan 1, 2004",Free transfer,Brazil,614,Flamengo ,37539,-,Zé Carlos,03/04,"Korea, South",311,Pohang 
+"Jan 1, 2003",Free transfer,Turkey,1264,Malatyaspor ,37539,-,Zé Carlos,02/03,Brazil,614,Flamengo 
+"Jan 23, 2002",Free transfer,Brazil,537,Botafogo ,37539,-,Zé Carlos,01/02,Turkey,1264,Malatyaspor 
+"May 1, 2001",End of loan,Brazil,1755,Guarani ,37539,-,Zé Carlos,00/01,Brazil,537,Botafogo 
+"Jan 1, 2001",Loan,Brazil,537,Botafogo ,37539,-,Zé Carlos,00/01,Brazil,1755,Guarani 
+"Jan 1, 1997",Free transfer,Brazil,15172,Atlético-GO ,37539,-,Zé Carlos,96/97,Brazil,537,Botafogo 
+"Jul 1, 2010",Free transfer,Israel,810,Hapoel Haifa ,35236,200 Th. €,Emmanuel Pappoe,10/11,Ghana,13607,Liberty Prof. 
+"Jul 1, 2009",Free transfer,Cyprus,2156,AEK Larnaca ,35236,500 Th. €,Emmanuel Pappoe,09/10,Israel,810,Hapoel Haifa 
+"Jul 1, 2007",Free transfer,Israel,7532,Hapoel Kfar Saba ,35236,500 Th. €,Emmanuel Pappoe,07/08,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2005",Free transfer,Israel,6105,FC Ashdod ,35236,-,Emmanuel Pappoe,05/06,Israel,7532,Hapoel Kfar Saba 
+"Jul 1, 2003",Free transfer,Ghana,13607,Liberty Prof. ,35236,-,Emmanuel Pappoe,03/04,Israel,6105,FC Ashdod 
+"Jul 1, 2014",Free transfer,Germany,4832,Wolfratshausen ,29126,-,Damir Suljanovic,14/15,Germany,17648,Türk. Augsburg 
+"Jul 12, 2013",Free transfer,Germany,12456,ATA Spor München ,29126,300 Th. €,Damir Suljanovic,13/14,Germany,4832,Wolfratshausen 
+"Aug 1, 2012",-,Germany,515,Unattached ,29126,300 Th. €,Damir Suljanovic,12/13,,12456,ATA Spor München 
+"Jan 1, 2012",-,Germany,3677,TSV Grünwald ,29126,300 Th. €,Damir Suljanovic,11/12,,515,Unattached 
+"Aug 1, 2011",Free transfer,Germany,8829,FSV Harthof München ,29126,300 Th. €,Damir Suljanovic,11/12,Germany,3677,TSV Grünwald 
+"Jul 1, 2009",-,Germany,515,Unattached ,29126,300 Th. €,Damir Suljanovic,09/10,,8829,FSV Harthof München 
+"Apr 1, 2009",-,Slovakia,4529,Dunajska Streda ,29126,-,Damir Suljanovic,08/09,,515,Unattached 
+"Feb 1, 2009",Free transfer,Cyprus,4590,Ethnikos ,29126,-,Damir Suljanovic,08/09,Slovakia,4529,Dunajska Streda 
+"Jul 1, 2007",Free transfer,Cyprus,7475,AE Pafos  ,29126,-,Damir Suljanovic,07/08,Cyprus,4590,Ethnikos 
+"Jul 1, 2005",Free transfer,Germany,25,Energie Cottbus ,29126,-,Damir Suljanovic,05/06,Cyprus,7475,AE Pafos  
+"Jan 1, 2005",Free transfer,Morocco,2068,Raja Casablanca ,29126,-,Damir Suljanovic,04/05,Germany,25,Energie Cottbus 
+"Jan 1, 2004",75 Th. €,France,750,FC Sochaux ,29126,-,Damir Suljanovic,03/04,Morocco,2068,Raja Casablanca 
+"Jan 27, 2016",Free transfer,Switzerland,163,FC Vaduz ,9769,100 Th. €,Pavel Pergl,15/16,Switzerland,2411,FC Locarno 
+"Jul 1, 2013",Free transfer,Switzerland,2047,AC Bellinzona ,9769,100 Th. €,Pavel Pergl,13/14,Switzerland,163,FC Vaduz 
+"Jul 1, 2010",Free transfer,Israel,2785,H. Ramat Gan ,9769,200 Th. €,Pavel Pergl,10/11,Switzerland,2047,AC Bellinzona 
+"Feb 1, 2010",?,Israel,2976,H. Beer Sheva ,9769,275 Th. €,Pavel Pergl,09/10,Israel,2785,H. Ramat Gan 
+"Jul 1, 2009",Free transfer,Germany,129,Dynamo Dresden ,9769,275 Th. €,Pavel Pergl,09/10,Israel,2976,H. Beer Sheva 
+"Jan 1, 2009",Free transfer,Cyprus,2156,AEK Larnaca ,9769,750 Th. €,Pavel Pergl,08/09,Germany,129,Dynamo Dresden 
+"Jul 1, 2007",Free transfer,England,466,Preston NE ,9769,750 Th. €,Pavel Pergl,07/08,Cyprus,2156,AEK Larnaca 
+"Jan 1, 2007",Free transfer,Czech Republic,197,Sparta Praha ,9769,750 Th. €,Pavel Pergl,06/07,England,466,Preston NE 
+"Jun 30, 2006",End of loan,Germany,129,Dynamo Dresden ,9769,750 Th. €,Pavel Pergl,05/06,Czech Republic,197,Sparta Praha 
+"Jan 1, 2006",Loan,Czech Republic,197,Sparta Praha ,9769,50 Th. €,Pavel Pergl,05/06,Germany,129,Dynamo Dresden 
+"Jan 1, 2003",Free transfer,Czech Republic,2598,1.FK Pribram ,9769,-,Pavel Pergl,02/03,Czech Republic,197,Sparta Praha 
+"Jul 1, 2002",?,Czech Republic,600,FK Drnovice ,9769,-,Pavel Pergl,02/03,Czech Republic,2598,1.FK Pribram 
+"Jul 1, 1999",?,Czech Republic,135,FK Chmel Blsany ,9769,-,Pavel Pergl,99/00,Czech Republic,600,Drnovice 
+"Jul 1, 1999",?,Czech Republic,1728,Rezuz Decin ,9769,-,Pavel Pergl,99/00,Czech Republic,135,FK Chmel Blsany 
+"Jan 1, 1998",?,Czech Republic,12795,Sparta Prag U19 ,9769,-,Pavel Pergl,97/98,Czech Republic,1728,Rezuz Decin 
+"Jul 1, 1987",?,Czech Republic,1719,CKD Kompresory Prag ,9769,-,Pavel Pergl,87/88,Czech Republic,12795,Sparta Prag U19 
+"Jul 1, 2012",-,Greece,3392,Apollon 1926 ,15020,25 Th. €,Altin Haxhi,12/13,,123,End of career 
+"Jul 1, 2010",Free transfer,Cyprus,2784,APOEL Nicosia ,15020,300 Th. €,Altin Haxhi,10/11,Greece,3392,Apollon 1926 
+"Jan 1, 2008",Free transfer,Greece,5220,Ergotelis ,15020,700 Th. €,Altin Haxhi,07/08,Cyprus,2784,APOEL Nicosia 
+"Jul 1, 2006",Free transfer,Cyprus,3899,Anor. Famagusta ,15020,750 Th. €,Altin Haxhi,06/07,Greece,5220,Ergotelis 
+"Jul 1, 2005",Free transfer,Greece,3392,Apollon 1926 ,15020,750 Th. €,Altin Haxhi,05/06,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2004",Free transfer,Bulgaria,208,CSKA Sofia ,15020,-,Altin Haxhi,04/05,Greece,3392,Apollon 1926 
+"Jul 1, 2003",Free transfer,Greece,47,Iraklis ,15020,-,Altin Haxhi,03/04,Bulgaria,208,CSKA Sofia 
+"Jul 1, 2000",150 Th. €,Bulgaria,271,Litex Lovetch ,15020,-,Altin Haxhi,00/01,Greece,47,Iraklis 
+"Jul 1, 1998",Free transfer,Greece,1837,Panachaiki ,15020,-,Altin Haxhi,98/99,Bulgaria,271,Litex Lovetch 
+"Jul 1, 1996",Free transfer,Albania,21934,KS Luftëtari ,15020,-,Altin Haxhi,96/97,Greece,1837,Panachaiki 
+"Jul 1, 2012",Free transfer,Greece,6461,PAO Rouf ,29229,150 Th. €,Grigoris Kokolakis,12/13,Greece,3990,Agios Nikolaos 
+"Jul 1, 2011",Free transfer,Greece,3060,Atromitos Athen ,29229,150 Th. €,Grigoris Kokolakis,11/12,Greece,6461,PAO Rouf 
+"Jun 30, 2011",End of loan,Greece,6461,PAO Rouf ,29229,75 Th. €,Grigoris Kokolakis,10/11,Greece,3060,Atromitos Athen 
+"Jul 1, 2009",Loan,Greece,3060,Atromitos Athen ,29229,75 Th. €,Grigoris Kokolakis,09/10,Greece,6461,PAO Rouf 
+"Jan 1, 2009",Free transfer,Greece,14632,Aias Salaminas ,29229,75 Th. €,Grigoris Kokolakis,08/09,Greece,3060,Atromitos Athen 
+"Jul 1, 2006",Free transfer,Greece,265,Panathinaikos ,29229,75 Th. €,Grigoris Kokolakis,06/07,Greece,14632,Aias Salaminas 
+"Jun 30, 2006",End of loan,Greece,2670,Ethn. Piräus ,29229,75 Th. €,Grigoris Kokolakis,05/06,Greece,265,Panathinaikos 
+"Jan 1, 2006",Loan,Greece,265,Panathinaikos ,29229,75 Th. €,Grigoris Kokolakis,05/06,Greece,2670,Ethn. Piräus 
+"Dec 31, 2005",End of loan,Greece,441,Apollon Smyrnis ,29229,75 Th. €,Grigoris Kokolakis,05/06,Greece,265,Panathinaikos 
+"Jul 1, 2005",Loan,Greece,6626,PAO U20 ,29229,75 Th. €,Grigoris Kokolakis,05/06,Greece,441,Apollon Smyrnis 
+"Jan 1, 2005",Free transfer,Greece,3990,Agios Nikolaos ,29229,-,Grigoris Kokolakis,04/05,Greece,265,Panathinaikos 
+"Jul 1, 2014",Free transfer,Indonesia,14105,Persib Bandung ,34828,150 Th. €,Moses Sakyi,14/15,Portugal,25811,Moura 
+"Sep 1, 2011",?,Kazakhstan,28178,Akzhayik ,34828,150 Th. €,Moses Sakyi,11/12,Indonesia,14105,Persib Bandung 
+"Jan 1, 2010",?,Portugal,3323,Gondomar ,34828,150 Th. €,Moses Sakyi,09/10,Kazakhstan,28178,Akzhayik 
+"Aug 1, 2009",?,Portugal,4750,Olhanense ,34828,150 Th. €,Moses Sakyi,09/10,Portugal,3323,Gondomar 
+"Jun 30, 2009",End of loan,China,17276,HZ Greentown ,34828,150 Th. €,Moses Sakyi,08/09,Portugal,4750,Olhanense 
+"Feb 1, 2009",Loan,Portugal,4750,Olhanense ,34828,100 Th. €,Moses Sakyi,08/09,China,17276,HZ Greentown 
+"Jul 1, 2008",?,Cyprus,786,AEL Limassol ,34828,100 Th. €,Moses Sakyi,08/09,Portugal,4750,Olhanense 
+"Jan 1, 2008",Free transfer,Portugal,2431,Estrela Amadora ,34828,100 Th. €,Moses Sakyi,07/08,Cyprus,786,AEL Limassol 
+"Jul 1, 2006",Free transfer,Portugal,4750,Olhanense ,34828,-,Moses Sakyi,06/07,Portugal,2431,Estrela Amadora 
+"Jul 1, 2005",Free transfer,Portugal,1465,Estoril ,34828,-,Moses Sakyi,05/06,Portugal,4750,Olhanense 
+"Jan 1, 2005",Free transfer,Turkey,924,Istanbulspor ,34828,-,Moses Sakyi,04/05,Portugal,1465,Estoril 
+"Jul 1, 2004",Free transfer,Bulgaria,675,Slavia Sofia ,34828,-,Moses Sakyi,04/05,Turkey,924,Istanbulspor 
+"Jul 1, 2003",Free transfer,Bulgaria,208,CSKA Sofia ,34828,-,Moses Sakyi,03/04,Bulgaria,675,Slavia Sofia 
+"Jul 1, 2002",Free transfer,Turkey,740,Yimpas Yozgat ,34828,-,Moses Sakyi,02/03,Bulgaria,208,CSKA Sofia 
+"Jan 1, 2002",Free transfer,Germany,35,FC St. Pauli ,34828,-,Moses Sakyi,01/02,Turkey,740,Yimpas Yozgat 
+"Jul 1, 2000",Free transfer,Ghana,13607,Liberty Prof. ,34828,-,Moses Sakyi,00/01,Germany,35,FC St. Pauli 
+"Jul 1, 2010",-,Bosnia-Herzegovina,6808,Zrinjski Mostar ,34479,175 Th. €,Igor Musa,10/11,,123,End of career 
+"Aug 1, 2008",Free transfer,Cyprus,786,AEL Limassol ,34479,250 Th. €,Igor Musa,08/09,Bosnia-Herzegovina,6808,Zrinjski Mostar 
+"Jul 1, 2007",?,Croatia,447,Hajduk Split ,34479,250 Th. €,Igor Musa,07/08,Cyprus,786,AEL Limassol 
+"Jul 1, 2006",Free transfer,Croatia,2362,Slaven Belupo ,34479,-,Igor Musa,06/07,Croatia,447,Hajduk Split 
+"Jul 1, 2002",?,Spain,134,Xerez CD ,34479,-,Igor Musa,02/03,Croatia,2362,Slaven Belupo 
+"Jul 1, 1999",200 Th. €,Croatia,447,Hajduk Split ,34479,-,Igor Musa,99/00,Spain,134,Xerez CD 
+"Jul 1, 1998",250 Th. €,Croatia,144,HNK Rijeka ,34479,-,Igor Musa,98/99,Croatia,447,Hajduk Split 
+"Jul 1, 1996",?,Croatia,485,Hrv Dragovoljac ,34479,-,Igor Musa,96/97,Croatia,144,HNK Rijeka 
+"Dec 1, 2015",Free transfer,Portugal,3345,Leixões ,29360,450 Th. €,Rasheed Alabi,15/16,Cyprus,45457,Pafos FC 
+"Nov 3, 2014",-,Portugal,515,Unattached ,29360,450 Th. €,Rasheed Alabi,14/15,,3345,Leixões 
+"Jul 1, 2014",-,Cyprus,829,Omonia Nikosia ,29360,450 Th. €,Rasheed Alabi,14/15,,515,Unattached 
+"Aug 1, 2008",?,Cyprus,3393,D. Katokopias ,29360,150 Th. €,Rasheed Alabi,08/09,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2007",Free transfer,Nigeria,10644,University of Nigeria ,29360,150 Th. €,Rasheed Alabi,07/08,Cyprus,3393,D. Katokopias 
+"Jan 1, 2007",Free transfer,Greece,653,OFI Kreta ,29360,150 Th. €,Rasheed Alabi,06/07,Nigeria,10644,University of Nigeria 
+"Jan 1, 2005",Free transfer,Greece,6098,PO Atsalenios ,29360,-,Rasheed Alabi,04/05,Greece,653,OFI Kreta 
+"Jul 1, 2011",?,Cyprus,3393,D. Katokopias ,34354,100 Th. €,Zoltán Nagy,11/12,Cyprus,16024,Aradippou 
+"Jul 1, 2010",?,Cyprus,3899,Anor. Famagusta ,34354,200 Th. €,Zoltán Nagy,10/11,Cyprus,3393,D. Katokopias 
+"Jul 1, 2007",?,Cyprus,4582,Dighenis Morphou ,34354,250 Th. €,Zoltán Nagy,07/08,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2006",Free transfer,Cyprus,3899,Anor. Famagusta ,34354,250 Th. €,Zoltán Nagy,06/07,Cyprus,4582,Dighenis Morphou 
+"Jul 1, 2005",?,Cyprus,8701,Alki Larnaca ,34354,-,Zoltán Nagy,05/06,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2004",?,Hungary,9241,Diósgyör ,34354,-,Zoltán Nagy,04/05,Cyprus,8701,Alki Larnaca 
+"Jul 1, 2016",-,Switzerland,37793,Dardania LS ,19187,-,Admir Bilibani,16/17,,123,End of career 
+"Jul 1, 2015",Free transfer,Switzerland,32359,FC Orbe ,19187,-,Admir Bilibani,15/16,Switzerland,37793,Dardania LS 
+"Jan 1, 2012",Free transfer,Switzerland,37793,Dardania LS ,19187,-,Admir Bilibani,11/12,Switzerland,32359,FC Orbe 
+"Jul 1, 2011",Free transfer,Switzerland,12424,Le Mont LS ,19187,-,Admir Bilibani,11/12,Switzerland,37793,Dardania LS 
+"Jan 1, 2011",Free transfer,Switzerland,5259,FC Baulmes ,19187,-,Admir Bilibani,10/11,Switzerland,12424,Le Mont LS 
+"Jul 1, 2010",Free transfer,Switzerland,527,Lausanne-Sport ,19187,250 Th. â‚¬,Admir Bilibani,10/11,Switzerland,5259,FC Baulmes 
+"Jul 1, 2008",Free transfer,Cyprus,18945,Nea Salamis ,19187,250 Th. â‚¬,Admir Bilibani,08/09,Switzerland,527,Lausanne-Sport 
+"Jul 1, 2007",Free transfer,Switzerland,116,FC Aarau ,19187,250 Th. â‚¬,Admir Bilibani,07/08,Cyprus,18945,Nea Salamis 
+"Jul 1, 2005",Free transfer,Switzerland,322,Yverdon-Sport ,19187,-,Admir Bilibani,05/06,Switzerland,116,FC Aarau 
+"Jul 1, 2003",Free transfer,Switzerland,527,Lausanne-Sport ,19187,-,Admir Bilibani,03/04,Switzerland,322,Yverdon-Sport 
+"Jul 1, 2002",Free transfer,Switzerland,1292,Etoile Carouge ,19187,-,Admir Bilibani,02/03,Switzerland,527,Lausanne-Sport 
+"Jan 1, 2001",Free transfer,Switzerland,3530,Vevey Sports ,19187,-,Admir Bilibani,00/01,Switzerland,1292,Etoile Carouge 
+"Jan 1, 2001",Free transfer,Switzerland,625,NeuchÃ¢tel Xamax ,19187,-,Admir Bilibani,00/01,Switzerland,3530,Vevey Sports 
+"Jul 1, 2000",Free transfer,Switzerland,5507,Stade Nyonnais ,19187,-,Admir Bilibani,00/01,Switzerland,625,NeuchÃ¢tel Xamax 
+"Jan 8, 2016",-,Cyprus,3393,D. Katokopias ,34484,-,Adamos Efstathiou,15/16,,515,Unattached 
+"Jul 1, 2015",Free transfer,Cyprus,34593,Parekklisia ,34484,-,Adamos Efstathiou,15/16,Cyprus,3393,D. Katokopias 
+"Aug 9, 2014",Free transfer,Cyprus,21958,PAEEK ,34484,-,Adamos Efstathiou,14/15,Cyprus,34593,Parekklisia 
+"Jul 1, 2012",Free transfer,Cyprus,30606,Othellos Athienou ,34484,70 Th. €,Adamos Efstathiou,12/13,Cyprus,21958,PAEEK 
+"Jan 1, 2012",Free transfer,Cyprus,33620,Ethnikos Assias ,34484,70 Th. €,Adamos Efstathiou,11/12,Cyprus,30606,Othellos Athienou 
+"Jul 1, 2011",Free transfer,Cyprus,16024,Aradippou ,34484,70 Th. €,Adamos Efstathiou,11/12,Cyprus,33620,Ethnikos Assias 
+"Jan 1, 2011",Free transfer,Cyprus,10586,Aris Limassol ,34484,70 Th. €,Adamos Efstathiou,10/11,Cyprus,16024,Aradippou 
+"Jul 1, 2010",Free transfer,Cyprus,2156,AEK Larnaca ,34484,70 Th. €,Adamos Efstathiou,10/11,Cyprus,10586,Aris Limassol 
+"Jul 1, 2009",Free transfer,Cyprus,840,En. Paralimni ,34484,70 Th. €,Adamos Efstathiou,09/10,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2007",Free transfer,Cyprus,4582,Dighenis Morphou ,34484,70 Th. €,Adamos Efstathiou,07/08,Cyprus,840,En. Paralimni 
+"Jul 1, 2006",Free transfer,Cyprus,2784,APOEL Nicosia ,34484,70 Th. €,Adamos Efstathiou,06/07,Cyprus,4582,Dighenis Morphou 
+"Jul 1, 2009",-,Cyprus,2156,AEK Larnaca ,12085,-,Tininho,09/10,,123,End of career 
+"Jul 1, 2007",Free transfer,Netherlands,1268,ADO Den Haag ,12085,350 Th. €,Tininho,07/08,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2006",Free transfer,Netherlands,467,NEC Nijmegen ,12085,350 Th. €,Tininho,06/07,Netherlands,1268,ADO Den Haag 
+"Jan 1, 2004",?,Netherlands,1227,RBC Roosendaal ,12085,-,Tininho,03/04,Netherlands,467,NEC Nijmegen 
+"Jul 1, 2003",Free transfer,Brazil,2863,América-MG ,12085,-,Tininho,03/04,Netherlands,1227,RBC Roosendaal 
+"Jan 1, 2002",?,Netherlands,234,Feyenoord ,12085,-,Tininho,01/02,Brazil,2863,América-MG 
+"Jul 1, 1998",?,Netherlands,75,Unknown ,12085,-,Tininho,98/99,,234,Feyenoord 
+"Jan 1, 1995",?,Belgium,204,Lierse SK ,12085,-,Tininho,94/95,,75,Unknown 
+"Jul 1, 1994",-,Belgium,3484,Lierse SK U19 ,12085,-,Tininho,94/95,Belgium,204,Lierse SK 
+"Jan 1, 2009",-,Ghana,201,King Faisal ,3254,-,Daniel Addo,08/09,,123,End of career 
+"Jan 1, 2008",?,Cyprus,786,AEL Limassol ,3254,-,Daniel Addo,07/08,Ghana,201,King Faisal 
+"Jul 1, 2007",Free transfer,Macedonia,77,Vardar ,3254,-,Daniel Addo,07/08,Cyprus,786,AEL Limassol 
+"Jan 1, 2006",?,Lebanon,7142,Al-Nejmeh ,3254,-,Daniel Addo,05/06,Macedonia,77,Vardar 
+"Jul 1, 2003",?,Austria,541,A. Lustenau ,3254,-,Daniel Addo,03/04,Lebanon,7142,Al-Nejmeh 
+"Jan 1, 2002",?,Germany,158,Wormatia Worms ,3254,-,Daniel Addo,01/02,Austria,541,A. Lustenau 
+"Jul 1, 2000",Free transfer,Germany,15,Bay. Leverkusen ,3254,-,Daniel Addo,00/01,Germany,158,Wormatia Worms 
+"Jul 1, 1999",?,Germany,48,Karlsruher SC ,3254,-,Daniel Addo,99/00,Germany,38,F. Düsseldorf 
+"Jul 1, 1998",?,Germany,38,F. Düsseldorf ,3254,-,Daniel Addo,98/99,Germany,48,Karlsruher SC 
+"Jul 1, 1993",?,Ghana,11584,Accra Great Olympics ,3254,-,Daniel Addo,93/94,Germany,15,Bay. Leverkusen 
+"Jul 1, 2015",-,Netherlands,37678,RKVV DESO ,12087,-,Esad Razic,15/16,,123,End of career 
+"Jul 1, 2013",Free transfer,Netherlands,75,Unknown ,12087,100 Th. €,Esad Razic,13/14,,37678,RKVV DESO 
+"Jul 1, 2012",Free transfer,Germany,57,RW Oberhausen ,12087,100 Th. €,Esad Razic,12/13,,75,Unknown 
+"Jul 1, 2011",Free transfer,Netherlands,1228,FC Oss ,12087,100 Th. €,Esad Razic,11/12,Germany,57,RW Oberhausen 
+"Sep 1, 2010",-,Netherlands,515,Unattached ,12087,100 Th. €,Esad Razic,10/11,,1228,FC Oss 
+"Jul 1, 2010",-,Germany,57,RW Oberhausen ,12087,100 Th. €,Esad Razic,10/11,,515,Unattached 
+"Jan 1, 2010",Free transfer,Cyprus,1402,Olympiakos N. ,12087,100 Th. €,Esad Razic,09/10,Germany,57,RW Oberhausen 
+"Jul 1, 2009",-,Cyprus,515,Unattached ,12087,100 Th. €,Esad Razic,09/10,,1402,Olympiakos N. 
+"Jul 1, 2008",-,Cyprus,2156,AEK Larnaca ,12087,100 Th. €,Esad Razic,08/09,,515,Unattached 
+"Jul 1, 2007",Free transfer,Netherlands,500,Helmond Sport ,12087,100 Th. €,Esad Razic,07/08,Cyprus,2156,AEK Larnaca 
+"Aug 1, 2005",?,Netherlands,1227,RBC Roosendaal ,12087,100 Th. €,Esad Razic,05/06,Netherlands,500,Helmond Sport 
+"Jun 30, 2005",End of loan,Netherlands,500,Helmond Sport ,12087,100 Th. €,Esad Razic,04/05,Netherlands,1227,RBC Roosendaal 
+"Jul 1, 2004",Loan,Netherlands,1227,RBC Roosendaal ,12087,-,Esad Razic,04/05,Netherlands,500,Helmond Sport 
+"Jul 1, 2003",?,Spain,1176,Ferrol ,12087,-,Esad Razic,03/04,Netherlands,1227,RBC Roosendaal 
+"Jul 1, 2002",?,Netherlands,404,FC Den Bosch ,12087,-,Esad Razic,02/03,Spain,1176,Ferrol 
+"Jul 1, 2000",?,Sweden,1101,IF Elfsborg ,12087,-,Esad Razic,00/01,Netherlands,404,FC Den Bosch 
+"Jan 14, 2015",Free transfer,Austria,122,Sturm Graz ,34491,300 Th. €,Aleksandar Todorovski,14/15,Poland,168,Zaglebie Lubin 
+"Jul 1, 2013",Free transfer,Poland,2745,Pol. Warsaw ,34491,450 Th. €,Aleksandar Todorovski,13/14,Austria,122,Sturm Graz 
+"Jul 1, 2011",Free transfer,Serbia,902,Rad ,34491,600 Th. €,Aleksandar Todorovski,11/12,Poland,2745,Pol. Warsaw 
+"Aug 1, 2008",?,Cyprus,786,AEL Limassol ,34491,300 Th. €,Aleksandar Todorovski,08/09,Serbia,902,Rad 
+"Jul 1, 2007",?,Cyprus,4582,Dighenis Morphou ,34491,300 Th. €,Aleksandar Todorovski,07/08,Cyprus,786,AEL Limassol 
+"Jul 1, 2006",Free transfer,Cyprus,2784,APOEL Nicosia ,34491,300 Th. €,Aleksandar Todorovski,06/07,Cyprus,4582,Dighenis Morphou 
+"Jul 1, 2005",?,Serbia,5681,Radnicki Belgrad ,34491,-,Aleksandar Todorovski,05/06,Cyprus,2784,APOEL Nicosia 
+"Jul 1, 2013",?,Portugal,8827,Oliveirense ,14397,100 Th. €,Joca,13/14,Portugal,3265,Espinho 
+"Jul 1, 2012",?,Cyprus,21958,PAEEK ,14397,-,Joca,12/13,Portugal,8827,Oliveirense 
+"Aug 1, 2011",?,Spain,16568,Lorca Atlético ,14397,-,Joca,11/12,Cyprus,21958,PAEEK 
+"Jan 1, 2011",Free transfer,Cyprus,24326,Ermis Aradippou ,14397,350 Th. €,Joca,10/11,Spain,16568,Lorca Atlético 
+"Jul 1, 2009",Free transfer,Cyprus,786,AEL Limassol ,14397,350 Th. €,Joca,09/10,Cyprus,24326,Ermis Aradippou 
+"Jul 1, 2007",Free transfer,Greece,2670,Ethn. Piräus ,14397,50 Th. €,Joca,07/08,Cyprus,786,AEL Limassol 
+"Jul 1, 2006",Free transfer,Portugal,4881,Dragões ,14397,50 Th. €,Joca,06/07,Greece,2670,Ethn. Piräus 
+"Jul 1, 2005",Free transfer,Portugal,2423,Santa Clara ,14397,50 Th. €,Joca,05/06,Portugal,4881,Dragões 
+"Jul 1, 2004",Free transfer,Portugal,2424,Gil Vicente ,14397,-,Joca,04/05,Portugal,2423,Santa Clara 
+"Jul 1, 2003",Free transfer,Portugal,1085,Vitória Setúbal ,14397,-,Joca,03/04,Portugal,2424,Gil Vicente 
+"Jul 1, 2002",Free transfer,Portugal,720,FC Porto ,14397,-,Joca,02/03,Portugal,1085,Vitória Setúbal 
+"Jul 1, 1999",-,Portugal,9844,FC Porto U19 ,14397,-,Joca,99/00,Portugal,720,FC Porto 
+"Jul 1, 2015",?,Cyprus,45457,Pafos FC ,17214,400 Th. €,Alexandros Garpozis,15/16,Cyprus,37577,AEZ Zakakiou 
+"Jul 1, 2014",-,Cyprus,26129,AEK Kouklia ,17214,400 Th. €,Alexandros Garpozis,14/15,Cyprus,45457,Pafos FC 
+"Aug 1, 2013",?,Cyprus,7475,AE Pafos  ,17214,400 Th. €,Alexandros Garpozis,13/14,Cyprus,26129,AEK Kouklia 
+"Jul 1, 2011",Free transfer,Cyprus,786,AEL Limassol ,17214,400 Th. €,Alexandros Garpozis,11/12,Cyprus,7475,AE Pafos  
+"Jan 1, 2010",Free transfer,Cyprus,3899,Anor. Famagusta ,17214,450 Th. €,Alexandros Garpozis,09/10,Cyprus,786,AEL Limassol 
+"Feb 1, 2009",Free transfer,Cyprus,429,Apol. Limassol ,17214,650 Th. €,Alexandros Garpozis,08/09,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2007",Free transfer,Greece,128,AO Xanthi ,17214,650 Th. €,Alexandros Garpozis,07/08,Cyprus,429,Apol. Limassol 
+"Jan 1, 2005",Free transfer,Greece,1091,PAOK Saloniki ,17214,200 Th. €,Alexandros Garpozis,04/05,Greece,128,AO Xanthi 
+"Jan 1, 2004",Free transfer,Cyprus,786,AEL Limassol ,17214,-,Alexandros Garpozis,03/04,Greece,1091,PAOK Saloniki 
+"Jul 1, 2015",Free transfer,Cyprus,786,AEL Limassol ,45365,250 Th. €,Edmar,15/16,Cyprus,3393,D. Katokopias 
+"Jul 1, 2011",?,Cyprus,8701,Alki Larnaca ,45365,200 Th. €,Edmar,11/12,Cyprus,786,AEL Limassol 
+"Jul 1, 2010",Free transfer,Cyprus,840,En. Paralimni ,45365,50 Th. €,Edmar,10/11,Cyprus,8701,Alki Larnaca 
+"Jan 1, 2008",?,Cyprus,3393,D. Katokopias ,45365,-,Edmar,07/08,Cyprus,840,En. Paralimni 
+"Jul 1, 2007",?,Portugal,5227,Atlético ,45365,-,Edmar,07/08,Cyprus,3393,D. Katokopias 
+"Jan 1, 2007",?,Portugal,3341,Olivais ,45365,-,Edmar,06/07,Portugal,5227,Atlético 
+"Jul 1, 2006",Free transfer,Portugal,5227,Atlético ,45365,-,Edmar,06/07,Portugal,3341,Olivais 
+"Jul 1, 2005",?,Spain,8568,AD Ceuta  ,45365,-,Edmar,05/06,Portugal,5227,Atlético 
+"Jul 1, 2010",?,Cyprus,10816,Agia Napa ,14528,100 Th. €,Georgios Nikolaou,10/11,,75,Unknown 
+"Jul 1, 2009",Free transfer,Cyprus,840,En. Paralimni ,14528,100 Th. €,Georgios Nikolaou,09/10,Cyprus,10816,Agia Napa 
+"Jul 1, 2008",Free transfer,Cyprus,18945,Nea Salamis ,14528,100 Th. €,Georgios Nikolaou,08/09,Cyprus,840,En. Paralimni 
+"Jan 1, 2008",Free transfer,Cyprus,829,Omonia Nikosia ,14528,100 Th. €,Georgios Nikolaou,07/08,Cyprus,18945,Nea Salamis 
+"Jul 1, 2007",Free transfer,Cyprus,1402,Olympiakos N. ,14528,100 Th. €,Georgios Nikolaou,07/08,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2006",Free transfer,Cyprus,829,Omonia Nikosia ,14528,100 Th. €,Georgios Nikolaou,06/07,Cyprus,1402,Olympiakos N. 
+"Jul 1, 2006",Free transfer,Greece,1837,Panachaiki ,14528,100 Th. €,Georgios Nikolaou,06/07,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2005",Free transfer,Cyprus,829,Omonia Nikosia ,14528,100 Th. €,Georgios Nikolaou,05/06,Greece,1837,Panachaiki 
+"Jul 1, 2004",Free transfer,Cyprus,840,En. Paralimni ,14528,-,Georgios Nikolaou,04/05,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2010",-,Cyprus,7475,AE Pafos  ,37622,350 Th. €,Jane Nikoloski,10/11,,123,End of career 
+"Jan 1, 2009",Free transfer,Cyprus,2784,APOEL Nicosia ,37622,590 Th. €,Jane Nikoloski,08/09,Cyprus,7475,AE Pafos  
+"Jul 1, 2007",Free transfer,Croatia,2362,Slaven Belupo ,37622,590 Th. €,Jane Nikoloski,07/08,Cyprus,2784,APOEL Nicosia 
+"Jan 1, 2006",Free transfer,Iran,6079,Persepolis ,37622,-,Jane Nikoloski,05/06,Croatia,2362,Slaven Belupo 
+"Jul 1, 2007",Free transfer,England,631,Chelsea ,17350,900 Th. €,Nuno Morais,07/08,Cyprus,2784,APOEL Nicosia 
+"Jun 1, 2006",End of loan,Portugal,1301,Marítimo ,17350,"1,00 Mill. €",Nuno Morais,05/06,England,631,Chelsea 
+"Jul 1, 2005",Loan,England,631,Chelsea ,17350,750 Th. €,Nuno Morais,05/06,Portugal,1301,Marítimo 
+"Jul 1, 2004",Free transfer,Portugal,3327,Penafiel ,17350,-,Nuno Morais,04/05,England,631,Chelsea 
+"Jul 1, 2002",-,Portugal,15566,Penafiel U19 ,17350,-,Nuno Morais,02/03,Portugal,3327,Penafiel 
+"Jul 1, 2009",-,Cyprus,4590,Ethnikos ,28812,350 Th. €,Michalis Siimitras,09/10,,123,End of career 
+"Jul 1, 2006",Free transfer,Greece,6678,Thrasyvoulos ,28812,350 Th. €,Michalis Siimitras,06/07,Cyprus,4590,Ethnikos 
+"Jan 1, 2006",Free transfer,Greece,265,Panathinaikos ,28812,350 Th. €,Michalis Siimitras,05/06,Greece,6678,Thrasyvoulos 
+"Jul 1, 2005",Free transfer,Greece,553,Ionikos Nikea ,28812,200 Th. €,Michalis Siimitras,05/06,Greece,265,Panathinaikos 
+"Jan 1, 2005",Free transfer,Cyprus,3899,Anor. Famagusta ,28812,-,Michalis Siimitras,04/05,Greece,553,Ionikos Nikea 
+"Jul 1, 2003",Free transfer,Cyprus,429,Apol. Limassol ,28812,-,Michalis Siimitras,03/04,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2002",Free transfer,Cyprus,8701,Alki Larnaca ,28812,-,Michalis Siimitras,02/03,Cyprus,429,Apol. Limassol 
+"Jul 1, 2000",Free transfer,Cyprus,4590,Ethnikos ,28812,-,Michalis Siimitras,00/01,Cyprus,8701,Alki Larnaca 
+"Jul 1, 1997",Free transfer,Cyprus,3899,Anor. Famagusta ,28812,-,Michalis Siimitras,97/98,Cyprus,4590,Ethnikos 
+"Jul 1, 2015",Free transfer,Cyprus,42109,Karmiotissa ,58463,200 Th. €,Loizos Kakogiannis,15/16,Cyprus,34593,Parekklisia 
+"Aug 3, 2014",Free transfer,Greece,20058,Krousona ,58463,200 Th. €,Loizos Kakogiannis,14/15,Cyprus,42109,Karmiotissa 
+"Jul 1, 2013",Free transfer,Cyprus,10586,Aris Limassol ,58463,200 Th. €,Loizos Kakogiannis,13/14,Greece,20058,Krousona 
+"Jan 1, 2013",Free transfer,Cyprus,7475,AE Pafos  ,58463,200 Th. €,Loizos Kakogiannis,12/13,Cyprus,10586,Aris Limassol 
+"Aug 1, 2011",Free transfer,Cyprus,786,AEL Limassol ,58463,200 Th. €,Loizos Kakogiannis,11/12,Cyprus,7475,AE Pafos  
+"Jul 1, 2008",?,Cyprus,829,Omonia Nikosia ,58463,-,Loizos Kakogiannis,08/09,Cyprus,786,AEL Limassol 
+"Jul 1, 2005",?,Cyprus,4590,Ethnikos ,58463,-,Loizos Kakogiannis,05/06,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2003",?,Cyprus,429,Apol. Limassol ,58463,-,Loizos Kakogiannis,03/04,Cyprus,4590,Ethnikos 
+"Jul 1, 2015",-,Malta,32125,Mosta FC ,8139,-,Haruna Babangida,15/16,,123,End of career 
+"Jan 18, 2015",-,Malta,515,Unattached ,8139,325 Th. €,Haruna Babangida,14/15,,32125,Mosta FC 
+"Nov 21, 2012",-,Austria,2394,SV Kapfenberg ,8139,325 Th. €,Haruna Babangida,12/13,,515,Unattached 
+"Sep 13, 2012",-,Austria,515,Unattached ,8139,500 Th. €,Haruna Babangida,12/13,,2394,SV Kapfenberg 
+"Jul 1, 2012",-,Austria,2394,SV Kapfenberg ,8139,500 Th. €,Haruna Babangida,12/13,,515,Unattached 
+"Jan 1, 2012",-,Austria,515,Unattached ,8139,500 Th. €,Haruna Babangida,11/12,,2394,SV Kapfenberg 
+"Jul 1, 2011",-,Netherlands,499,Vitesse ,8139,500 Th. €,Haruna Babangida,11/12,,515,Unattached 
+"Jan 1, 2011",Free transfer,Germany,39,1.FSV Mainz 05 ,8139,500 Th. €,Haruna Babangida,10/11,Netherlands,499,Vitesse 
+"Jul 1, 2010",-,Germany,515,Unattached ,8139,"1,50 Mill. €",Haruna Babangida,10/11,,39,1.FSV Mainz 05 
+"Jan 1, 2010",-,Russia,2439,Kuban Krasnodar ,8139,"1,50 Mill. €",Haruna Babangida,09/10,,515,Unattached 
+"Jul 1, 2009",Free transfer,Cyprus,429,Apol. Limassol ,8139,"1,25 Mill. €",Haruna Babangida,09/10,Russia,2439,Kuban Krasnodar 
+"Jul 1, 2007",Free transfer,Greece,683,Olympiacos ,8139,"1,25 Mill. €",Haruna Babangida,07/08,Cyprus,429,Apol. Limassol 
+"Jul 1, 2005",Free transfer,Ukraine,2783,Metalurg D. ,8139,350 Th. €,Haruna Babangida,05/06,Greece,683,Olympiacos 
+"Jan 1, 2005",Free transfer,Spain,2464,FC Barcelona B ,8139,350 Th. €,Haruna Babangida,04/05,Ukraine,2783,Metalurg D. 
+"Jun 30, 2003",End of loan,Spain,1881,Terrassa FC ,8139,-,Haruna Babangida,02/03,Spain,2464,FC Barcelona B 
+"Jul 1, 2002",Loan,Spain,2464,FC Barcelona B ,8139,-,Haruna Babangida,02/03,Spain,1881,Terrassa FC 
+"Jul 1, 1999",300 Th. €,Netherlands,2824,Ajax U19 ,8139,-,Haruna Babangida,99/00,Spain,2464,FC Barcelona B 
+"Jul 1, 2014",-,Cyprus,24326,Ermis Aradippou ,41548,200 Th. €,Andreas Konstantinou,14/15,,515,Unattached 
+"Jan 1, 2014",?,Cyprus,840,En. Paralimni ,41548,200 Th. €,Andreas Konstantinou,13/14,Cyprus,24326,Ermis Aradippou 
+"Jul 18, 2012",-,Cyprus,515,Unattached ,41548,200 Th. €,Andreas Konstantinou,12/13,,840,En. Paralimni 
+"Jul 1, 2011",-,Cyprus,8701,Alki Larnaca ,41548,200 Th. €,Andreas Konstantinou,11/12,,515,Unattached 
+"Jan 1, 2011",Free transfer,Cyprus,3899,Anor. Famagusta ,41548,350 Th. €,Andreas Konstantinou,10/11,Cyprus,8701,Alki Larnaca 
+"Jul 1, 2007",Free transfer,Cyprus,2156,AEK Larnaca ,41548,-,Andreas Konstantinou,07/08,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2004",Free transfer,Cyprus,829,Omonia Nikosia ,41548,-,Andreas Konstantinou,04/05,Cyprus,2156,AEK Larnaca 
+"Jun 30, 2003",End of loan,Cyprus,2156,AEK Larnaca ,41548,-,Andreas Konstantinou,02/03,Cyprus,829,Omonia Nikosia 
+"Sep 1, 2002",Loan,Cyprus,829,Omonia Nikosia ,41548,-,Andreas Konstantinou,02/03,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2015",Free transfer,Cyprus,2156,AEK Larnaca ,46818,350 Th. €,Kyriakos Pavlou,15/16,Cyprus,18945,Nea Salamis 
+"Jul 1, 2011",Free transfer,Cyprus,8554,APOP Kinyras ,46818,300 Th. €,Kyriakos Pavlou,11/12,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2010",Free transfer,Greece,8758,Diagoras ,46818,200 Th. €,Kyriakos Pavlou,10/11,Cyprus,8554,APOP Kinyras 
+"Jan 1, 2010",Free transfer,Cyprus,24326,Ermis Aradippou ,46818,200 Th. €,Kyriakos Pavlou,09/10,Greece,8758,Diagoras 
+"Jul 1, 2009",Free transfer,Cyprus,829,Omonia Nikosia ,46818,200 Th. €,Kyriakos Pavlou,09/10,Cyprus,24326,Ermis Aradippou 
+"Jan 1, 2008",Free transfer,Greece,169,Panionios ,46818,200 Th. €,Kyriakos Pavlou,07/08,Cyprus,829,Omonia Nikosia 
+"Jan 1, 2007",100 Th. €,Cyprus,2156,AEK Larnaca ,46818,-,Kyriakos Pavlou,06/07,Greece,169,Panionios 
+"Jul 1, 2002",-,Cyprus,42230,AEK Larnaka U21 ,46818,-,Kyriakos Pavlou,02/03,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2011",Free transfer,Cyprus,10586,Aris Limassol ,35662,50 Th. €,David,11/12,,75,Unknown 
+"Jul 1, 2010",Free transfer,Cyprus,4590,Ethnikos ,35662,50 Th. €,David,10/11,Cyprus,10586,Aris Limassol 
+"Jan 1, 2010",?,Cyprus,429,Apol. Limassol ,35662,-,David,09/10,Cyprus,4590,Ethnikos 
+"Jul 1, 2008",?,Cyprus,3393,D. Katokopias ,35662,-,David,08/09,Cyprus,429,Apol. Limassol 
+"Jul 1, 2007",?,Portugal,5227,Atlético ,35662,-,David,07/08,Cyprus,3393,D. Katokopias 
+"Jul 1, 2006",?,Portugal,976,União Madeira ,35662,-,David,06/07,Portugal,5227,Atlético 
+"Jan 1, 2006",Free transfer,Portugal,3336,Desportivo Aves ,35662,-,David,05/06,Portugal,976,União Madeira 
+"Jul 1, 2005",?,Portugal,2432,Torreense ,35662,-,David,05/06,Portugal,3336,Desportivo Aves 
+"Jul 1, 2004",?,Portugal,8760,Portomosense ,35662,-,David,04/05,Portugal,2432,Torreense 
+"Jul 1, 2003",?,Portugal,3275,Lusitano ,35662,-,David,03/04,Portugal,8760,Portomosense 
+"Jul 1, 2002",?,Portugal,7790,Juv. Évora ,35662,-,David,02/03,Portugal,3275,Lusitano 
+"Jul 1, 2001",?,Portugal,7856,Cucujães ,35662,-,David,01/02,Portugal,7790,Juv. Évora 
+"Jul 1, 2014","1,80 Mill. €",England,1032,Reading ,37712,"3,00 Mill. €",Daniel Carriço,14/15,Spain,368,Sevilla FC 
+"Jun 30, 2014",End of loan,Spain,368,Sevilla FC ,37712,"3,00 Mill. €",Daniel Carriço,13/14,England,1032,Reading 
+"Jul 15, 2013",Loan fee:750 Th. €,England,1032,Reading ,37712,"3,00 Mill. €",Daniel Carriço,13/14,Spain,368,Sevilla FC 
+"Jan 1, 2013",750 Th. €,Portugal,336,Sporting CP ,37712,"7,00 Mill. €",Daniel Carriço,12/13,England,1032,Reading 
+"Jun 30, 2008",End of loan,Cyprus,786,AEL Limassol ,37712,-,Daniel Carriço,07/08,Portugal,336,Sporting CP 
+"Jan 1, 2008",Loan,Portugal,336,Sporting CP ,37712,-,Daniel Carriço,07/08,Cyprus,786,AEL Limassol 
+"Dec 31, 2007",End of loan,Portugal,4750,Olhanense ,37712,-,Daniel Carriço,07/08,Portugal,336,Sporting CP 
+"Jul 2, 2007",Loan,Portugal,336,Sporting CP ,37712,-,Daniel Carriço,07/08,Portugal,4750,Olhanense 
+"Jul 1, 2007",-,Portugal,10283,Sporting U19 ,37712,-,Daniel Carriço,07/08,Portugal,336,Sporting CP 
+"Jul 1, 2015",-,Venezuela,25380,Deportivo Lara ,28113,-,José Manuel Rey,15/16,,123,End of career 
+"Jul 1, 2011",?,Venezuela,17194,Mineros ,28113,300 Th. €,José Manuel Rey,11/12,Venezuela,25380,Deportivo Lara 
+"Jan 1, 2011",?,Venezuela,531,Caracas FC ,28113,300 Th. €,José Manuel Rey,10/11,Venezuela,17194,Mineros 
+"Dec 31, 2009",End of loan,Chile,2433,Colo Colo ,28113,300 Th. €,José Manuel Rey,09/10,Venezuela,531,Caracas FC 
+"Sep 1, 2009",Loan,Venezuela,531,Caracas FC ,28113,-,José Manuel Rey,09/10,Chile,2433,Colo Colo 
+"Jul 1, 2008",?,Cyprus,2156,AEK Larnaca ,28113,-,José Manuel Rey,08/09,Venezuela,531,Caracas FC 
+"Jul 1, 2007",?,Spain,5650,Pontevedra ,28113,-,José Manuel Rey,07/08,Cyprus,2156,AEK Larnaca 
+"Jun 1, 2007",?,Venezuela,531,Caracas FC ,28113,-,José Manuel Rey,06/07,Spain,5650,Pontevedra 
+"Jan 1, 2007",?,Colombia,8172,Atl. Nacional ,28113,-,José Manuel Rey,06/07,Venezuela,531,Caracas FC 
+"Jul 1, 2006",?,Venezuela,531,Caracas FC ,28113,-,José Manuel Rey,06/07,Colombia,8172,Atl. Nacional 
+"Jul 1, 2005",?,Spain,5650,Pontevedra ,28113,-,José Manuel Rey,05/06,Venezuela,531,Caracas FC 
+"Jul 1, 2004",?,Venezuela,531,Caracas FC ,28113,-,José Manuel Rey,04/05,Spain,5650,Pontevedra 
+"Jan 1, 2004",?,Ecuador,4561,CS Emelec ,28113,-,José Manuel Rey,03/04,Venezuela,531,Caracas FC 
+"Jul 1, 2003",?,Venezuela,531,Caracas FC ,28113,-,José Manuel Rey,03/04,Ecuador,4561,CS Emelec 
+"Jul 1, 2000",?,Scotland,511,Dundee FC ,28113,-,José Manuel Rey,00/01,Venezuela,531,Caracas FC 
+"Jul 1, 1999",?,Ecuador,4561,CS Emelec ,28113,-,José Manuel Rey,99/00,Scotland,511,Dundee FC 
+"Jan 1, 1999",?,Venezuela,531,Caracas FC ,28113,-,José Manuel Rey,98/99,Ecuador,4561,CS Emelec 
+"Jul 1, 1996",?,Spain,11603,Depor B ,28113,-,José Manuel Rey,96/97,Venezuela,531,Caracas FC 
+"Jul 1, 1995",?,Venezuela,22401,Marítimo ,28113,-,José Manuel Rey,95/96,Spain,11603,Depor B 
+"Jul 1, 1993",-,Venezuela,464,Own U19 ,28113,-,José Manuel Rey,93/94,,22401,Marítimo 
+"Jul 1, 2008",?,Cyprus,3393,D. Katokopias ,35666,-,Hélder Neto,08/09,Portugal,12522,Vila Meã 
+"Jan 1, 2008",?,Portugal,3348,Trofense ,35666,-,Hélder Neto,07/08,Cyprus,3393,D. Katokopias 
+"Dec 1, 2007",End of loan,Portugal,3329,Famalicão ,35666,-,Hélder Neto,07/08,Portugal,3348,Trofense 
+"Jul 1, 2007",Loan,Portugal,3348,Trofense ,35666,-,Hélder Neto,07/08,Portugal,3329,Famalicão 
+"Jul 1, 2006",?,Portugal,3336,Desportivo Aves ,35666,-,Hélder Neto,06/07,Portugal,3348,Trofense 
+"Jul 1, 2005",?,Portugal,7180,Lixa ,35666,-,Hélder Neto,05/06,Portugal,3336,Desportivo Aves 
+"Jul 1, 2014",-,Netherlands,9547,ADO '20 ,19283,-,Thijs Sluijter,14/15,,123,End of career 
+"Jul 1, 2013",transfervrij,Netherlands,10803,SV Spakenburg ,19283,250 Th. €,Thijs Sluijter,13/14,Netherlands,9547,ADO '20 
+"Jul 1, 2012",transfervrij,Netherlands,724,FC Volendam ,19283,250 Th. €,Thijs Sluijter,12/13,Netherlands,10803,SV Spakenburg 
+"Jun 30, 2012",End of loan,Netherlands,723,Almere City ,19283,250 Th. €,Thijs Sluijter,11/12,Netherlands,724,FC Volendam 
+"Jan 1, 2011",Loan,Netherlands,724,FC Volendam ,19283,300 Th. €,Thijs Sluijter,10/11,Netherlands,723,Almere City 
+"Jul 1, 2009",transfervrij,Cyprus,18945,Nea Salamis ,19283,600 Th. €,Thijs Sluijter,09/10,Netherlands,724,FC Volendam 
+"Jul 1, 2008",transfervrij,Slovakia,7918,AS Trencin ,19283,600 Th. €,Thijs Sluijter,08/09,Cyprus,18945,Nea Salamis 
+"Jan 1, 2008",-,Slovakia,515,Unattached ,19283,600 Th. €,Thijs Sluijter,07/08,,7918,AS Trencin 
+"Sep 1, 2007",-,Bulgaria,271,Litex Lovetch ,19283,600 Th. €,Thijs Sluijter,07/08,,515,Unattached 
+"Jul 1, 2006",transfervrij,Netherlands,1304,Heracles Almelo ,19283,600 Th. €,Thijs Sluijter,06/07,Bulgaria,271,Litex Lovetch 
+"Jul 1, 2001",transfervrij,Netherlands,4779,Heerenveen U19 ,19283,-,Thijs Sluijter,01/02,Netherlands,1304,Heracles Almelo 
+"Jul 1, 2008",Free transfer,Cyprus,786,AEL Limassol ,20822,250 Th. €,Tasos Giallouris,08/09,,75,Unknown 
+"Jan 1, 2008",Free transfer,Greece,2984,Egaleo AO ,20822,100 Th. €,Tasos Giallouris,07/08,Cyprus,786,AEL Limassol 
+"Jan 1, 2007",Free transfer,Cyprus,1402,Olympiakos N. ,20822,100 Th. €,Tasos Giallouris,06/07,Greece,2984,Egaleo AO 
+"Jul 1, 2004",Free transfer,Cyprus,829,Omonia Nikosia ,20822,-,Tasos Giallouris,04/05,Cyprus,1402,Olympiakos N. 
+"Sep 26, 2012",-,Cyprus,3899,Anor. Famagusta ,52914,500 Th. €,William Boaventura,12/13,,123,End of career 
+"Jul 1, 2012",?,Cyprus,2784,APOEL Nicosia ,52914,500 Th. €,William Boaventura,12/13,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2010",?,Ukraine,2783,Metalurg D. ,52914,750 Th. €,William Boaventura,10/11,Cyprus,2784,APOEL Nicosia 
+"Dec 1, 2009",End of loan,Russia,2439,Kuban Krasnodar ,52914,850 Th. €,William Boaventura,09/10,Ukraine,2783,Metalurg D. 
+"Jan 1, 2009",Loan,Ukraine,2783,Metalurg D. ,52914,850 Th. €,William Boaventura,08/09,Russia,2439,Kuban Krasnodar 
+"Jul 1, 2008",Free transfer,Cyprus,3899,Anor. Famagusta ,52914,-,William Boaventura,08/09,Ukraine,2783,Metalurg D. 
+"Jul 1, 2006",Free transfer,Cyprus,786,AEL Limassol ,52914,-,William Boaventura,06/07,Cyprus,3899,Anor. Famagusta 
+"Aug 1, 2015",-,Uruguay,2619,Defensor ,51417,-,Ignacio Risso,15/16,,123,End of career 
+"Aug 5, 2009",Free transfer,Cyprus,429,Apol. Limassol ,51417,-,Ignacio Risso,09/10,Uruguay,2619,Defensor 
+"Jul 1, 2007",Free transfer,Spain,4032,Ponferradina ,51417,-,Ignacio Risso,07/08,Cyprus,429,Apol. Limassol 
+"Jul 1, 2006",?,Argentina,1826,Quilmes ,51417,-,Ignacio Risso,06/07,Spain,4032,Ponferradina 
+"Jul 1, 2005",?,Uruguay,1306,Danubio FC ,51417,-,Ignacio Risso,05/06,Argentina,1826,Quilmes 
+"Jul 1, 2004",?,Argentina,333,CA Lanús ,51417,-,Ignacio Risso,04/05,Uruguay,1306,Danubio FC 
+"Jan 1, 2004",?,Ecuador,9855,LDU Quito ,51417,-,Ignacio Risso,03/04,Argentina,333,CA Lanús 
+"Jul 1, 2003",?,Argentina,333,CA Lanús ,51417,-,Ignacio Risso,03/04,Ecuador,9855,LDU Quito 
+"Jul 1, 2002",?,Uruguay,1306,Danubio FC ,51417,-,Ignacio Risso,02/03,Argentina,333,CA Lanús 
+"Jan 1, 1999",?,Uruguay,7477,Miramar ,51417,-,Ignacio Risso,98/99,Uruguay,1306,Danubio FC 
+"Jul 1, 2008",?,Cyprus,786,AEL Limassol ,59273,-,Moise Kande,08/09,Cyprus,21958,PAEEK 
+"Jul 1, 2007",?,France,10868,US Orléans ,59273,-,Moise Kande,07/08,Cyprus,786,AEL Limassol 
+"Jul 1, 2015",Free transfer,Cyprus,3393,D. Katokopias ,22748,50 Th. €,Bernardo Vasconcelos,15/16,Portugal,4864,Oriental 
+"Jan 1, 2015",Free transfer,Poland,7153,Zawisza ,22748,200 Th. €,Bernardo Vasconcelos,14/15,Cyprus,3393,D. Katokopias 
+"Jul 29, 2013",Free transfer,Cyprus,8701,Alki Larnaca ,22748,200 Th. €,Bernardo Vasconcelos,13/14,Poland,7153,Zawisza 
+"Jul 1, 2011",?,Cyprus,7475,AE Pafos  ,22748,200 Th. €,Bernardo Vasconcelos,11/12,Cyprus,8701,Alki Larnaca 
+"Dec 31, 2010",End of loan,Israel,2976,H. Beer Sheva ,22748,150 Th. €,Bernardo Vasconcelos,10/11,Cyprus,7475,AE Pafos  
+"Jul 1, 2010",Loan,Cyprus,7475,AE Pafos  ,22748,150 Th. €,Bernardo Vasconcelos,10/11,Israel,2976,H. Beer Sheva 
+"Jul 1, 2009",Free transfer,Cyprus,8554,APOP Kinyras ,22748,200 Th. €,Bernardo Vasconcelos,09/10,Cyprus,7475,AE Pafos  
+"Jul 1, 2008",Free transfer,Cyprus,829,Omonia Nikosia ,22748,200 Th. €,Bernardo Vasconcelos,08/09,Cyprus,8554,APOP Kinyras 
+"Jan 1, 2008",200 Th. €,Cyprus,8554,APOP Kinyras ,22748,200 Th. €,Bernardo Vasconcelos,07/08,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2006",Free transfer,Portugal,1465,Estoril ,22748,200 Th. €,Bernardo Vasconcelos,06/07,Cyprus,8554,APOP Kinyras 
+"Jul 1, 2005",Free transfer,Netherlands,235,RKC Waalwijk ,22748,200 Th. €,Bernardo Vasconcelos,05/06,Portugal,1465,Estoril 
+"Dec 31, 2004",End of loan,Portugal,2639,Leiria ,22748,200 Th. €,Bernardo Vasconcelos,04/05,Netherlands,235,RKC Waalwijk 
+"Jul 1, 2004",Loan,Netherlands,235,RKC Waalwijk ,22748,-,Bernardo Vasconcelos,04/05,Portugal,2639,Leiria 
+"Jan 1, 2004",Free transfer,Portugal,2432,Torreense ,22748,-,Bernardo Vasconcelos,03/04,Netherlands,235,RKC Waalwijk 
+"Jul 1, 2003",Free transfer,Portugal,2521,Alverca ,22748,-,Bernardo Vasconcelos,03/04,Portugal,2432,Torreense 
+"Jul 1, 2002",Free transfer,Portugal,2432,Torreense ,22748,-,Bernardo Vasconcelos,02/03,Portugal,2521,Alverca 
+"Jul 1, 2016",-,Serbia,6621,FK Cukaricki ,26079,150 Th. €,Nenad Mirosavljevic,16/17,,123,End of career 
+"Jan 1, 2014",Free transfer,Serbia,788,Napredak ,26079,300 Th. €,Nenad Mirosavljevic,13/14,Serbia,6621,FK Cukaricki 
+"Jan 1, 2012",Free transfer,Cyprus,1402,Olympiakos N. ,26079,300 Th. €,Nenad Mirosavljevic,11/12,Serbia,788,Napredak 
+"Jul 1, 2011",Free transfer,Cyprus,2784,APOEL Nicosia ,26079,300 Th. €,Nenad Mirosavljevic,11/12,Cyprus,1402,Olympiakos N. 
+"Jan 1, 2008",Free transfer,Serbia,3544,Smederevo ,26079,350 Th. €,Nenad Mirosavljevic,07/08,Cyprus,2784,APOEL Nicosia 
+"Jul 1, 2007",Free transfer,Serbia,669,FK Partizan ,26079,750 Th. €,Nenad Mirosavljevic,07/08,Serbia,3544,Smederevo 
+"Jun 30, 2007",End of loan,Spain,10496,UD Vecindario ,26079,750 Th. €,Nenad Mirosavljevic,06/07,Serbia,669,FK Partizan 
+"Jan 1, 2007",Loan,Serbia,669,FK Partizan ,26079,750 Th. €,Nenad Mirosavljevic,06/07,Spain,10496,UD Vecindario 
+"Aug 1, 2006",Free transfer,Spain,2687,Cádiz CF ,26079,750 Th. €,Nenad Mirosavljevic,06/07,Serbia,669,FK Partizan 
+"Jul 1, 2004",Free transfer,Serbia,3544,Smederevo ,26079,-,Nenad Mirosavljevic,04/05,Spain,2687,Cádiz CF 
+"Jul 1, 2000",Free transfer,Serbia,2674,Proleter Zrenj. ,26079,-,Nenad Mirosavljevic,00/01,Serbia,3544,Smederevo 
+"Jul 1, 2013",Free transfer,United Arab Emirates,815,Al-Shaab ,58464,400 Th. €,Noel Kaseke,13/14,,75,Unknown 
+"Jan 22, 2013",?,Cyprus,8701,Alki Larnaca ,58464,400 Th. €,Noel Kaseke,12/13,United Arab Emirates,815,Al-Shaab 
+"Aug 6, 2012",?,Cyprus,829,Omonia Nikosia ,58464,400 Th. €,Noel Kaseke,12/13,Cyprus,8701,Alki Larnaca 
+"Jul 1, 2007",Free transfer,Cyprus,840,En. Paralimni ,58464,-,Noel Kaseke,07/08,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2004",Free transfer,India,14101,Mohun Bagan AC ,58464,-,Noel Kaseke,04/05,Cyprus,840,En. Paralimni 
+"Jan 1, 2003",Free transfer,Zimbabwe,10665,The Highlanders ,58464,-,Noel Kaseke,02/03,India,14101,Mohun Bagan AC 
+"Aug 7, 2014",Free transfer,Cyprus,18945,Nea Salamis ,53345,250 Th. €,Giorgos Panagi,14/15,Cyprus,16024,Aradippou 
+"Jul 1, 2013",?,Cyprus,75,Unknown ,53345,300 Th. €,Giorgos Panagi,13/14,,18945,Nea Salamis 
+"Jul 1, 2012",?,Cyprus,8701,Alki Larnaca ,53345,300 Th. €,Giorgos Panagi,12/13,,75,Unknown 
+"Jun 30, 2012",End of loan,Cyprus,6043,Anagennisi Dery ,53345,300 Th. €,Giorgos Panagi,11/12,Cyprus,8701,Alki Larnaca 
+"Jan 1, 2012",Loan,Cyprus,8701,Alki Larnaca ,53345,300 Th. €,Giorgos Panagi,11/12,Cyprus,6043,Anagennisi Dery 
+"Jul 1, 2011",Free transfer,Cyprus,829,Omonia Nikosia ,53345,300 Th. €,Giorgos Panagi,11/12,Cyprus,8701,Alki Larnaca 
+"Jul 1, 2009",Free transfer,Cyprus,3899,Anor. Famagusta ,53345,-,Giorgos Panagi,09/10,Cyprus,829,Omonia Nikosia 
+"Jan 1, 2007",Free transfer,Cyprus,18945,Nea Salamis ,53345,-,Giorgos Panagi,06/07,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2009",Free transfer,Slovenia,710,NK Celje  ,26122,75 Th. €,Ales Pus,09/10,Slovenia,21411,Adria Miren 
+"Jul 1, 2008",Free transfer,Cyprus,4590,Ethnikos ,26122,-,Ales Pus,08/09,Slovenia,710,NK Celje  
+"Jul 1, 2007",Free transfer,Slovenia,433,FC Koper ,26122,-,Ales Pus,07/08,Cyprus,4590,Ethnikos 
+"Jul 1, 2006",Free transfer,Slovenia,5862,ND Gorica ,26122,-,Ales Pus,06/07,Slovenia,433,FC Koper 
+"Jul 1, 2001",?,Slovenia,11966,Ivancna Gorica ,26122,-,Ales Pus,01/02,Slovenia,5862,ND Gorica 
+"Jul 1, 2000",?,Slovenia,4772,NK Olimpija ,26122,-,Ales Pus,00/01,Slovenia,11966,Ivancna Gorica 
+"Jan 8, 2016",Free transfer,Cyprus,10816,Agia Napa ,58467,150 Th. €,Musawengosi Mguni,15/16,Cyprus,1402,Olympiakos N. 
+"Jan 1, 2015",-,Cyprus,515,Unattached ,58467,200 Th. €,Musawengosi Mguni,14/15,,10816,Agia Napa 
+"Jan 1, 2014",-,Ukraine,2783,Metalurg D. ,58467,200 Th. €,Musawengosi Mguni,13/14,,515,Unattached 
+"Aug 1, 2013",-,Ukraine,2113,career break ,58467,-,Musawengosi Mguni,13/14,,2783,Metalurg D. 
+"Jul 1, 2012",-,Russia,3725,Terek Grozny ,58467,500 Th. €,Musawengosi Mguni,12/13,,2113,career break 
+"Jan 1, 2011",?,Ukraine,2783,Metalurg D. ,58467,"1,30 Mill. €",Musawengosi Mguni,10/11,Russia,3725,Terek Grozny 
+"Jul 1, 2009",?,United Arab Emirates,15540,Al-Shabab ,58467,-,Musawengosi Mguni,09/10,Ukraine,2783,Metalurg D. 
+"Jul 1, 2008","1,50 Mill. €",Cyprus,829,Omonia Nikosia ,58467,-,Musawengosi Mguni,08/09,United Arab Emirates,15540,Al-Shabab 
+"Jul 1, 2004",?,South Africa,2514,Hellenic FC ,58467,-,Musawengosi Mguni,04/05,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2003",?,Zimbabwe,24323,Motor Action ,58467,-,Musawengosi Mguni,03/04,South Africa,2514,Hellenic FC 
+"Jul 1, 2013",-,,75,Unknown ,52825,-,Carl Lombé,13/14,,123,End of career 
+"Jul 1, 2012",?,Cyprus,10586,Aris Limassol ,52825,250 Th. €,Carl Lombé,12/13,,75,Unknown 
+"Jan 1, 2008",Free transfer,Germany,108,Wehen Wiesbaden ,52825,250 Th. €,Carl Lombé,07/08,Cyprus,10586,Aris Limassol 
+"Jul 1, 2007",Free transfer,Armenia,10301,Pyunik Erevan ,52825,-,Carl Lombé,07/08,Germany,108,Wehen Wiesbaden 
+"Jul 1, 2003",Free transfer,Cameroon,24296,Canon Yaoundé ,52825,-,Carl Lombé,03/04,Armenia,10301,Pyunik Erevan 
+"Jan 1, 2012",-,Serbia,902,Rad ,6801,300 Th. €,Predrag Ocokoljic,11/12,,123,End of career 
+"Aug 1, 2011",Free transfer,Cyprus,4590,Ethnikos ,6801,350 Th. €,Predrag Ocokoljic,11/12,Serbia,902,Rad 
+"Jul 1, 2010",Free transfer,Cyprus,3899,Anor. Famagusta ,6801,350 Th. €,Predrag Ocokoljic,10/11,Cyprus,4590,Ethnikos 
+"Jul 1, 2008",Free transfer,Cyprus,786,AEL Limassol ,6801,400 Th. €,Predrag Ocokoljic,08/09,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2007",-,Cyprus,515,Unattached ,6801,400 Th. €,Predrag Ocokoljic,07/08,,786,AEL Limassol 
+"Jul 1, 2006",-,France,1175,LB Châteauroux ,6801,400 Th. €,Predrag Ocokoljic,06/07,,515,Unattached 
+"Jul 1, 2005",Free transfer,France,415,Toulouse ,6801,400 Th. €,Predrag Ocokoljic,05/06,France,1175,LB Châteauroux 
+"Jul 1, 2003",Free transfer,Serbia,37,FK Obilic ,6801,-,Predrag Ocokoljic,03/04,France,415,Toulouse 
+"Jul 1, 1998",Free transfer,Serbia,7567,Radnicki Nis ,6801,-,Predrag Ocokoljic,98/99,Serbia,37,FK Obilic 
+"Jul 1, 1997",-,Serbia,16993,Radnicki Nis B ,6801,-,Predrag Ocokoljic,97/98,Serbia,7567,Radnicki Nis 
+"Jul 1, 2009",-,Greece,3062,GS Kallithea ,24808,100 Th. €,Vasilios Mitilineos,09/10,,515,Unattached 
+"Jan 1, 2009",Free transfer,Greece,1837,Panachaiki ,24808,100 Th. €,Vasilios Mitilineos,08/09,Greece,3062,GS Kallithea 
+"Jul 1, 2008",Free transfer,Cyprus,840,En. Paralimni ,24808,100 Th. €,Vasilios Mitilineos,08/09,Greece,1837,Panachaiki 
+"Jul 1, 2007",Free transfer,Cyprus,8701,Alki Larnaca ,24808,100 Th. €,Vasilios Mitilineos,07/08,Cyprus,840,En. Paralimni 
+"Jul 1, 2005",Free transfer,Greece,553,Ionikos Nikea ,24808,100 Th. €,Vasilios Mitilineos,05/06,Cyprus,8701,Alki Larnaca 
+"Jul 1, 2011",Free transfer,Switzerland,322,Yverdon-Sport ,19817,200 Th. €,Paquito,11/12,,75,Unknown 
+"Jul 1, 2010",Free transfer,Greece,653,OFI Kreta ,19817,200 Th. €,Paquito,10/11,Switzerland,322,Yverdon-Sport 
+"Jan 1, 2009",Free transfer,Switzerland,434,FC Luzern ,19817,500 Th. €,Paquito,08/09,Greece,653,OFI Kreta 
+"Jun 30, 2008",End of loan,Cyprus,840,En. Paralimni ,19817,500 Th. €,Paquito,07/08,Switzerland,434,FC Luzern 
+"Jul 1, 2007",Loan,Switzerland,434,FC Luzern ,19817,500 Th. €,Paquito,07/08,Cyprus,840,En. Paralimni 
+"Aug 1, 2006",?,Switzerland,510,FC Chiasso ,19817,200 Th. €,Paquito,06/07,Switzerland,434,FC Luzern 
+"Jun 30, 2006",End of loan,Italy,4083,Crotone ,19817,-,Paquito,05/06,Switzerland,510,FC Chiasso 
+"Jul 1, 2005",Loan,Switzerland,510,FC Chiasso ,19817,-,Paquito,05/06,Italy,4083,Crotone 
+"Jul 1, 2003",?,Brazil,8144,Clube Atlético Juventus (SP) ,19817,-,Paquito,03/04,Switzerland,510,FC Chiasso 
+"Jul 1, 2002",?,Italy,4031,Cosenza ,19817,-,Paquito,02/03,Brazil,8144,Clube Atlético Juventus (SP) 
+"Jul 1, 2001",?,Italy,1105,Ravenna ,19817,-,Paquito,01/02,Italy,4031,Cosenza 
+"Jan 1, 2001",?,Italy,6195,SSC Napoli ,19817,-,Paquito,00/01,Italy,1105,Ravenna 
+"Jul 15, 2015",Free transfer,Serbia,7567,Radnicki Nis ,38634,400 Th. €,Pavle Popara,15/16,United States,31068,OC Blues FC 
+"Sep 1, 2014",Free transfer,Poland,324,Pogon Szczecin ,38634,600 Th. €,Pavle Popara,14/15,Serbia,7567,Radnicki Nis 
+"Feb 2, 2014",Free transfer,Bulgaria,675,Slavia Sofia ,38634,600 Th. €,Pavle Popara,13/14,Poland,324,Pogon Szczecin 
+"Dec 1, 2010",End of loan,Romania,13499,Astra Ploiesti ,38634,550 Th. €,Pavle Popara,10/11,Bulgaria,675,Slavia Sofia 
+"Jul 1, 2010",Loan,Bulgaria,675,Slavia Sofia ,38634,550 Th. €,Pavle Popara,10/11,Romania,13499,Astra Ploiesti 
+"Jul 1, 2008",?,Cyprus,840,En. Paralimni ,38634,200 Th. €,Pavle Popara,08/09,Bulgaria,675,Slavia Sofia 
+"Aug 1, 2007",Free transfer,Greece,3392,Apollon 1926 ,38634,200 Th. €,Pavle Popara,07/08,Cyprus,840,En. Paralimni 
+"Jun 30, 2007",End of loan,Greece,6418,Panetolikos ,38634,200 Th. €,Pavle Popara,06/07,Greece,3392,Apollon 1926 
+"Jan 1, 2007",Loan,Greece,3392,Apollon 1926 ,38634,200 Th. €,Pavle Popara,06/07,Greece,6418,Panetolikos 
+"Jan 1, 2006",Free transfer,Serbia,669,FK Partizan ,38634,-,Pavle Popara,05/06,Greece,3392,Apollon 1926 
+"Jul 1, 2004",-,Serbia,12373,FK Partizan U19 ,38634,-,Pavle Popara,04/05,Serbia,669,FK Partizan 
+"Jul 1, 2011",-,Cyprus,1402,Olympiakos N. ,14316,-,Júnior,11/12,,123,End of career 
+"Jul 1, 2010",?,Cyprus,786,AEL Limassol ,14316,100 Th. €,Júnior,10/11,Cyprus,1402,Olympiakos N. 
+"Jul 1, 2008",Free transfer,Cyprus,3393,D. Katokopias ,14316,50 Th. €,Júnior,08/09,Cyprus,786,AEL Limassol 
+"Jul 1, 2007",Free transfer,Portugal,5227,Atlético ,14316,50 Th. €,Júnior,07/08,Cyprus,3393,D. Katokopias 
+"Jul 1, 2005",Free transfer,Portugal,2521,Alverca ,14316,50 Th. €,Júnior,05/06,Portugal,5227,Atlético 
+"Jul 1, 2002",?,Portugal,1465,Estoril ,14316,-,Júnior,02/03,Portugal,2521,Alverca 
+"Jul 1, 1999",?,Portugal,6119,Operário ,14316,-,Júnior,99/00,Portugal,1465,Estoril 
+"Jul 1, 1998",?,Portugal,5227,Atlético ,14316,-,Júnior,98/99,Portugal,6119,Operário 
+"Jul 1, 1997",?,Portugal,9603,Praiense ,14316,-,Júnior,97/98,Portugal,5227,Atlético 
+"Jul 4, 2015",Free transfer,Romania,13499,Astra Giurgiu ,59474,800 Th. €,Vincent Laban,15/16,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2013",Free transfer,Cyprus,3899,Anor. Famagusta ,59474,600 Th. €,Vincent Laban,13/14,Romania,13499,Astra Giurgiu 
+"Jul 1, 2007",Free transfer,Cyprus,4582,Dighenis Morphou ,59474,-,Vincent Laban,07/08,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2005",Free transfer,France,10850,FC Nantes B ,59474,-,Vincent Laban,05/06,Cyprus,4582,Dighenis Morphou 
+"Jul 1, 2014",-,Cyprus,2113,career break ,14318,-,Sunny Kingsley,14/15,,42120,Nikos & Sokrati 
+"Jan 1, 2012",-,Cyprus,2156,AEK Larnaca ,14318,800 Th. €,Sunny Kingsley,11/12,,2113,career break 
+"Jul 1, 2010",?,Ukraine,2783,Metalurg D. ,14318,"1,25 Mill. €",Sunny Kingsley,10/11,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2008",620 Th. €,Cyprus,2156,AEK Larnaca ,14318,300 Th. €,Sunny Kingsley,08/09,Ukraine,2783,Metalurg D. 
+"Jan 1, 2007",Free transfer,Egypt,664,Zamalek ,14318,300 Th. €,Sunny Kingsley,06/07,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2005",100 Th. €,Portugal,1436,Beira-Mar ,14318,300 Th. €,Sunny Kingsley,05/06,Egypt,664,Zamalek 
+"Jul 1, 2003",?,Portugal,4275,Caldas ,14318,-,Sunny Kingsley,03/04,Portugal,1436,Beira-Mar 
+"Jul 1, 2001",-,Portugal,20015,Caldas U19 ,14318,-,Sunny Kingsley,01/02,Portugal,4275,Caldas 
+"Jan 1, 2013",-,Switzerland,510,FC Chiasso ,9917,200 Th. â‚¬,Henri Siqueira-Barras,12/13,,515,Unattached 
+"Jul 1, 2012",Free transfer,Switzerland,2047,AC Bellinzona ,9917,200 Th. â‚¬,Henri Siqueira-Barras,12/13,Switzerland,510,FC Chiasso 
+"Jul 1, 2008",Free transfer,Cyprus,840,En. Paralimni ,9917,250 Th. â‚¬,Henri Siqueira-Barras,08/09,Switzerland,2047,AC Bellinzona 
+"Jul 1, 2007",Free transfer,Romania,4688,Gloria Bistrita ,9917,250 Th. â‚¬,Henri Siqueira-Barras,07/08,Cyprus,840,En. Paralimni 
+"Jan 1, 2007",Free transfer,Romania,2418,Arges Pitesti ,9917,250 Th. â‚¬,Henri Siqueira-Barras,06/07,Romania,4688,Gloria Bistrita 
+"Jul 1, 2006",Free transfer,Switzerland,2411,FC Locarno ,9917,250 Th. â‚¬,Henri Siqueira-Barras,06/07,Romania,2418,Arges Pitesti 
+"Jan 1, 2006",-,Switzerland,515,Unattached ,9917,250 Th. â‚¬,Henri Siqueira-Barras,05/06,,2411,FC Locarno 
+"Jul 1, 2005",-,Switzerland,625,NeuchÃ¢tel Xamax ,9917,200 Th. â‚¬,Henri Siqueira-Barras,05/06,,515,Unattached 
+"Aug 1, 2004",?,Switzerland,504,Grasshoppers ,9917,-,Henri Siqueira-Barras,04/05,Switzerland,625,NeuchÃ¢tel Xamax 
+"Jun 30, 2004",End of loan,Switzerland,242,FC Winterthur ,9917,-,Henri Siqueira-Barras,03/04,Switzerland,504,Grasshoppers 
+"Jan 1, 2004",Loan,Switzerland,504,Grasshoppers ,9917,-,Henri Siqueira-Barras,03/04,Switzerland,242,FC Winterthur 
+"Jul 1, 2003",-,Switzerland,5502,GC U21 ,9917,-,Henri Siqueira-Barras,03/04,Switzerland,504,Grasshoppers 
+"Jun 1, 2013",-,Brazil,28024,Santa Cruz-RS ,53232,200 Th. €,Fabinho,12/13,,515,Unattached 
+"Jan 1, 2013",Free transfer,Brazil,1693,Londrina EC ,53232,200 Th. €,Fabinho,12/13,Brazil,28024,Santa Cruz-RS 
+"Mar 1, 2012",Free transfer,Brazil,9030,Botafogo FC ,53232,200 Th. €,Fabinho,11/12,Brazil,1693,Londrina EC 
+"Jan 1, 2012",Free transfer,Latvia,1043,Skonto Riga ,53232,200 Th. €,Fabinho,11/12,Brazil,9030,Botafogo FC 
+"Jan 1, 2011",Free transfer,Cyprus,24326,Ermis Aradippou ,53232,400 Th. €,Fabinho,10/11,Latvia,1043,Skonto Riga 
+"Jul 1, 2010",?,Ukraine,2783,Metalurg D. ,53232,400 Th. €,Fabinho,10/11,Cyprus,24326,Ermis Aradippou 
+"Aug 1, 2008",300 Th. €,Romania,4687,FC Brasov ,53232,-,Fabinho,08/09,Ukraine,2783,Metalurg D. 
+"Jan 1, 2008",500 Th. €,Cyprus,3899,Anor. Famagusta ,53232,-,Fabinho,07/08,Romania,4687,FC Brasov 
+"Jul 1, 2007",?,Brazil,679,Atlético-PR ,53232,-,Fabinho,07/08,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2008",-,Cyprus,829,Omonia Nikosia ,22717,100 Th. €,Nuno Luís,08/09,,123,End of career 
+"Jul 1, 2007",?,Portugal,2990,Coimbra ,22717,100 Th. €,Nuno Luís,07/08,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2002",?,Portugal,982,Nacional ,22717,-,Nuno Luís,02/03,Portugal,2990,Coimbra 
+"Jul 1, 2001",?,Spain,1087,UD Salamanca ,22717,-,Nuno Luís,01/02,Portugal,982,Nacional 
+"Jul 1, 1998",?,Portugal,59,Campomaiorense ,22717,-,Nuno Luís,98/99,Spain,1087,UD Salamanca 
+"Jul 1, 1994",?,Portugal,2990,Coimbra ,22717,-,Nuno Luís,94/95,Portugal,59,Campomaiorense 
+"Jul 1, 1993",-,Portugal,15559,Académica U19 ,22717,-,Nuno Luís,93/94,Portugal,2990,Coimbra 
+"Jul 1, 2011",Free transfer,Greece,21600,Makedonikos ,882,350 Th. €,Tzvetomir Tchipev,11/12,,75,Unknown 
+"Jan 1, 2009",Free transfer,Greece,3062,GS Kallithea ,882,350 Th. €,Tzvetomir Tchipev,08/09,Greece,21600,Makedonikos 
+"Jan 1, 2008",Free transfer,Cyprus,18945,Nea Salamis ,882,350 Th. €,Tzvetomir Tchipev,07/08,Greece,3062,GS Kallithea 
+"Jul 1, 2007",Free transfer,Greece,653,OFI Kreta ,882,350 Th. €,Tzvetomir Tchipev,07/08,Cyprus,18945,Nea Salamis 
+"Jan 1, 2006",Free transfer,Germany,94,Erzgebirge Aue ,882,300 Th. €,Tzvetomir Tchipev,05/06,Greece,653,OFI Kreta 
+"Jul 1, 2003",Free transfer,Germany,21,Chemnitzer FC ,882,-,Tzvetomir Tchipev,03/04,Germany,94,Erzgebirge Aue 
+"Jul 1, 2001",Free transfer,Germany,57,RW Oberhausen ,882,-,Tzvetomir Tchipev,01/02,Germany,21,Chemnitzer FC 
+"Jul 1, 1999",Free transfer,Bulgaria,521,OFK Pirin ,882,-,Tzvetomir Tchipev,99/00,Germany,57,RW Oberhausen 
+"Jul 1, 2015",Free transfer,Cyprus,2156,AEK Larnaca ,15219,100 Th. €,Giannis Skopelitis,15/16,Cyprus,18945,Nea Salamis 
+"Jul 7, 2013",Free transfer,Cyprus,3899,Anor. Famagusta ,15219,200 Th. €,Giannis Skopelitis,13/14,Cyprus,2156,AEK Larnaca 
+"Aug 20, 2012",Free transfer,Cyprus,2156,AEK Larnaca ,15219,200 Th. €,Giannis Skopelitis,12/13,Cyprus,3899,Anor. Famagusta 
+"Jul 1, 2011",Free transfer,Cyprus,3899,Anor. Famagusta ,15219,200 Th. €,Giannis Skopelitis,11/12,Cyprus,2156,AEK Larnaca 
+"Jun 30, 2008",End of loan,Greece,3060,Atromitos Athen ,15219,"1,40 Mill. €",Giannis Skopelitis,07/08,Cyprus,3899,Anor. Famagusta 
+"Jan 1, 2008",Loan fee:200 Th. €,Cyprus,3899,Anor. Famagusta ,15219,"1,40 Mill. €",Giannis Skopelitis,07/08,Greece,3060,Atromitos Athen 
+"Jul 1, 2007",Free transfer,Greece,2984,Egaleo AO ,15219,"1,40 Mill. €",Giannis Skopelitis,07/08,Cyprus,3899,Anor. Famagusta 
+"Jan 1, 2006",Free transfer,England,1020,Portsmouth FC ,15219,"1,50 Mill. €",Giannis Skopelitis,05/06,Greece,2984,Egaleo AO 
+"Jan 1, 2005","1,50 Mill. €",Greece,2984,Egaleo AO ,15219,800 Th. €,Giannis Skopelitis,04/05,England,1020,Portsmouth FC 
+"Jan 1, 1997",Free transfer,Greece,441,Apollon Smyrnis ,15219,-,Giannis Skopelitis,96/97,Greece,2984,Egaleo AO 
+"Jul 1, 1996",-,Greece,19241,Apollon U20 ,15219,-,Giannis Skopelitis,96/97,Greece,441,Apollon Smyrnis 
+"Jul 1, 2015",Free transfer,Portugal,3349,Feirense ,13172,300 Th. €,Cafú,15/16,Portugal,2421,Freamunde 
+"Jul 1, 2014",Free transfer,Portugal,7788,Académico Viseu ,13172,300 Th. €,Cafú,14/15,Portugal,3349,Feirense 
+"Jul 1, 2013",Free transfer,Cyprus,8701,Alki Larnaca ,13172,400 Th. €,Cafú,13/14,Portugal,7788,Académico Viseu 
+"Jul 1, 2012",?,Cyprus,786,AEL Limassol ,13172,400 Th. €,Cafú,12/13,Cyprus,8701,Alki Larnaca 
+"Jul 1, 2011",?,Cyprus,3899,Anor. Famagusta ,13172,400 Th. €,Cafú,11/12,Cyprus,786,AEL Limassol 
+"Jul 1, 2009",Free transfer,Cyprus,829,Omonia Nikosia ,13172,500 Th. €,Cafú,09/10,Cyprus,3899,Anor. Famagusta 
+"Jan 1, 2008",Free transfer,Germany,60,SC Freiburg ,13172,500 Th. €,Cafú,07/08,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2006",Free transfer,Germany,63,Spfr. Siegen ,13172,500 Th. €,Cafú,06/07,Germany,60,SC Freiburg 
+"Jan 1, 2006",279 Th. €,Portugal,2503,Boavista ,13172,500 Th. €,Cafú,05/06,Germany,63,Spfr. Siegen 
+"Jul 1, 2002",?,Portugal,2457,Belenenses ,13172,-,Cafú,02/03,Portugal,2503,Boavista 
+"Jul 1, 1999",?,Portugal,1414,Amora ,13172,-,Cafú,99/00,Portugal,2457,Belenenses 
+"Jul 1, 1997",-,Portugal,20798,Amora U19 ,13172,-,Cafú,97/98,Portugal,1414,Amora 
+"Jul 1, 2016",Free transfer,Hungary,709,Budapest Honvéd ,43325,250 Th. €,Szabolcs Kemenes,16/17,Hungary,12163,Paksi FC 
+"Mar 1, 2010",Free transfer,Hungary,634,MTK Budapest ,43325,75 Th. €,Szabolcs Kemenes,09/10,Hungary,709,Budapest Honvéd 
+"Oct 1, 2009",Free transfer,Cyprus,24326,Ermis Aradippou ,43325,-,Szabolcs Kemenes,09/10,Hungary,634,MTK Budapest 
+"Jul 1, 2008",Free transfer,Cyprus,4590,Ethnikos ,43325,-,Szabolcs Kemenes,08/09,Cyprus,24326,Ermis Aradippou 
+"Jul 1, 2007",Free transfer,Hungary,279,Ferencváros ,43325,-,Szabolcs Kemenes,07/08,Cyprus,4590,Ethnikos 
+"Jul 1, 2005",?,England,9260,Charlton U21 ,43325,-,Szabolcs Kemenes,05/06,Hungary,279,Ferencváros 
+"Jul 1, 2004",?,Hungary,15904,Ferencváros U19 ,43325,-,Szabolcs Kemenes,04/05,England,9260,Charlton U21 
+"Aug 1, 2014",Libre para traspaso,Cyprus,18945,Nea Salamis ,33782,350 Th. €,Hélio Roque,14/15,Angola,35308,Progresso 
+"Aug 1, 2011",?,Cyprus,786,AEL Limassol ,33782,350 Th. €,Hélio Roque,11/12,Cyprus,18945,Nea Salamis 
+"Aug 1, 2007",?,Portugal,294,Benfica ,33782,300 Th. €,Hélio Roque,07/08,Cyprus,786,AEL Limassol 
+"Jun 30, 2007",End of loan,Portugal,3341,Olivais ,33782,300 Th. €,Hélio Roque,06/07,Portugal,294,Benfica 
+"Aug 1, 2006",Loan,Portugal,294,Benfica ,33782,300 Th. €,Hélio Roque,06/07,Portugal,3341,Olivais 
+"Jun 30, 2006",End of loan,Portugal,1085,Vitória Setúbal ,33782,300 Th. €,Hélio Roque,05/06,Portugal,294,Benfica 
+"Jan 1, 2006",Loan,Portugal,294,Benfica ,33782,300 Th. €,Hélio Roque,05/06,Portugal,1085,Vitória Setúbal 
+"Jul 1, 2005",-,Portugal,8889,Benfica U19 ,33782,-,Hélio Roque,05/06,Portugal,294,Benfica 
+"Jul 1, 2011",Free transfer,Cyprus,10586,Aris Limassol ,27177,175 Th. €,João Paulo,11/12,Portugal,18595,Aljustrelense 
+"Jul 1, 2010",Free transfer,Cyprus,8553,APEP Pitsilia ,27177,175 Th. €,João Paulo,10/11,Cyprus,10586,Aris Limassol 
+"Jul 1, 2009",Free transfer,Cyprus,18540,Geroskipou ,27177,-,João Paulo,09/10,Cyprus,8553,APEP Pitsilia 
+"Jul 1, 2008",Free transfer,Cyprus,3393,D. Katokopias ,27177,-,João Paulo,08/09,Cyprus,18540,Geroskipou 
+"Jul 1, 2007",Free transfer,Portugal,3268,Casa Pia ,27177,-,João Paulo,07/08,Cyprus,3393,D. Katokopias 
+"Jul 1, 2005",Free transfer,Portugal,7378,Portimonense ,27177,-,João Paulo,05/06,Portugal,3268,Casa Pia 
+"Jul 1, 2003",-,Portugal,15610,Portimonense ,27177,-,João Paulo,03/04,Portugal,7378,Portimonense 
+"Jan 9, 2013",Free transfer,Cyprus,4590,Ethnikos ,16761,150 Th. €,Abdelkarim Kissi,12/13,,75,Unknown 
+"Sep 1, 2010",?,Cyprus,8701,Alki Larnaca ,16761,150 Th. €,Abdelkarim Kissi,10/11,Cyprus,4590,Ethnikos 
+"Jul 1, 2010",?,Cyprus,24326,Ermis Aradippou ,16761,150 Th. €,Abdelkarim Kissi,10/11,Cyprus,8701,Alki Larnaca 
+"Jul 1, 2009",Free transfer,Cyprus,2156,AEK Larnaca ,16761,250 Th. €,Abdelkarim Kissi,09/10,Cyprus,24326,Ermis Aradippou 
+"Jan 1, 2009",Free transfer,Cyprus,429,Apol. Limassol ,16761,250 Th. €,Abdelkarim Kissi,08/09,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2008",Free transfer,Cyprus,840,En. Paralimni ,16761,250 Th. €,Abdelkarim Kissi,08/09,Cyprus,429,Apol. Limassol 
+"Jul 1, 2007",Free transfer,Bulgaria,6764,PFC Beroe Stara Zagora ,16761,250 Th. €,Abdelkarim Kissi,07/08,Cyprus,840,En. Paralimni 
+"Jan 1, 2007",Free transfer,Netherlands,306,SC Heerenveen ,16761,250 Th. €,Abdelkarim Kissi,06/07,Bulgaria,6764,PFC Beroe Stara Zagora 
+"Jul 1, 2005",200 Th. €,Bulgaria,271,Litex Lovetch ,16761,50 Th. €,Abdelkarim Kissi,05/06,Netherlands,306,SC Heerenveen 
+"Jan 1, 2005",Free transfer,Russia,2698,Rubin Kazan ,16761,50 Th. €,Abdelkarim Kissi,04/05,Bulgaria,271,Litex Lovetch 
+"Jan 1, 2002",?,Morocco,3282,MAS Fes ,16761,-,Abdelkarim Kissi,01/02,Russia,2698,Rubin Kazan 
+"Jul 1, 2000",?,Morocco,22941,Mouloudia ,16761,-,Abdelkarim Kissi,00/01,Morocco,3282,MAS Fes 
+"Jul 1, 2012",-,Bulgaria,2531,Botev Plovdiv ,42754,-,Armando Ambartsumyan,12/13,,123,End of career 
+"Jan 1, 2011",Free transfer,Cyprus,840,En. Paralimni ,42754,50 Th. €,Armando Ambartsumyan,10/11,Bulgaria,2531,Botev Plovdiv 
+"Jul 1, 2008",?,Cyprus,3393,D. Katokopias ,42754,-,Armando Ambartsumyan,08/09,Cyprus,840,En. Paralimni 
+"Jan 1, 2008",Free transfer,Bulgaria,675,Slavia Sofia ,42754,-,Armando Ambartsumyan,07/08,Cyprus,3393,D. Katokopias 
+"Jul 1, 2003",Free transfer,Bulgaria,5284,Marek Dupnitsa ,42754,-,Armando Ambartsumyan,03/04,Bulgaria,675,Slavia Sofia 
+"Jul 1, 2001",Free transfer,Bulgaria,4501,Maritsa ,42754,-,Armando Ambartsumyan,01/02,Bulgaria,5284,Marek Dupnitsa 
+"Jul 1, 1998",Free transfer,Bulgaria,2531,Botev Plovdiv ,42754,-,Armando Ambartsumyan,98/99,Bulgaria,4501,Maritsa 
+"Jul 1, 2008",-,Cyprus,2156,AEK Larnaca ,19707,700 Th. €,Dejan Ilic,08/09,,123,End of career 
+"Jan 1, 2008",Free transfer,Romania,7074,Poli. Timisoara ,19707,700 Th. €,Dejan Ilic,07/08,Cyprus,2156,AEK Larnaca 
+"Jul 1, 2007",Free transfer,Israel,119,M. Tel Aviv ,19707,700 Th. €,Dejan Ilic,07/08,Romania,7074,Poli. Timisoara 
+"Jan 1, 2007",Free transfer,Slovenia,5862,ND Gorica ,19707,700 Th. €,Dejan Ilic,06/07,Israel,119,M. Tel Aviv 
+"Jul 1, 2006",Free transfer,France,2580,Istres ,19707,700 Th. €,Dejan Ilic,06/07,Slovenia,5862,ND Gorica 
+"Jul 1, 2004",?,Serbia,159,Red Star ,19707,-,Dejan Ilic,04/05,France,2580,Istres 

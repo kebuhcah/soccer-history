@@ -1,0 +1,767 @@
+date,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jul 1, 2016",Free transfer,Switzerland,2155,FC Biel-Bienne ,166400,500 Th. €,Gaëtan Karlen,16/17,Switzerland,9084,NE Xamax 
+"Jul 31, 2015",?,Switzerland,938,FC Thun ,166400,600 Th. €,Gaëtan Karlen,15/16,Switzerland,2155,FC Biel-Bienne 
+"Jan 1, 2015",150 Th. €,Switzerland,321,FC Sion ,166400,450 Th. €,Gaëtan Karlen,14/15,Switzerland,938,FC Thun 
+"Jun 30, 2014",End of loan,Switzerland,2155,FC Biel-Bienne ,166400,450 Th. €,Gaëtan Karlen,13/14,Switzerland,321,FC Sion 
+"Jan 13, 2014",Loan,Switzerland,321,FC Sion ,166400,150 Th. €,Gaëtan Karlen,13/14,Switzerland,2155,FC Biel-Bienne 
+"Jul 1, 2013",-,Switzerland,8508,FC Sion U21 ,166400,50 Th. €,Gaëtan Karlen,13/14,Switzerland,321,FC Sion 
+"Jul 1, 2010",-,Switzerland,14211,Sion U18 ,166400,-,Gaëtan Karlen,10/11,Switzerland,8508,FC Sion U21 
+"Jun 30, 2016",End of loan,France,995,FC Nantes ,66052,"1,25 Mill. €",Ermir Lenjani,15/16,France,273,Rennes 
+"Aug 17, 2015",Loan,France,273,Rennes ,66052,"1,00 Mill. €",Ermir Lenjani,15/16,France,995,FC Nantes 
+"Jan 6, 2015",750 Th. €,Switzerland,257,FC St. Gallen ,66052,"1,50 Mill. €",Ermir Lenjani,14/15,France,273,Rennes 
+"Jan 1, 2013",100 Th. €,Switzerland,242,FC Winterthur ,66052,300 Th. €,Ermir Lenjani,12/13,Switzerland,257,FC St. Gallen 
+"Dec 31, 2010",End of loan,Switzerland,504,Grasshoppers ,66052,200 Th. €,Ermir Lenjani,10/11,Switzerland,242,FC Winterthur 
+"Jul 1, 2010",Loan,Switzerland,242,FC Winterthur ,66052,200 Th. €,Ermir Lenjani,10/11,Switzerland,504,Grasshoppers 
+"Jan 1, 2010",-,Switzerland,14156,Winterthur U21 ,66052,50 Th. €,Ermir Lenjani,09/10,Switzerland,242,FC Winterthur 
+"Jan 1, 2015",-,Switzerland,163,FC Vaduz ,38407,200 Th. €,Matthias Baron,14/15,,515,Unattached 
+"Jul 1, 2011",Free transfer,Switzerland,26,FC Basel ,38407,50 Th. €,Matthias Baron,11/12,Switzerland,163,FC Vaduz 
+"Jul 1, 2010",-,Switzerland,5299,FC Basel U21 ,38407,-,Matthias Baron,10/11,Switzerland,26,FC Basel 
+"Mar 1, 2010",Free transfer,Germany,9318,SV Weil ,38407,-,Matthias Baron,09/10,Switzerland,5299,FC Basel U21 
+"Jul 1, 2007",Free transfer,Germany,4042,SC Freiburg U19 ,38407,-,Matthias Baron,07/08,Germany,9318,SV Weil 
+"Jul 1, 2005",?,Germany,29194,SV Weil U17 ,38407,-,Matthias Baron,05/06,Germany,4042,SC Freiburg U19 
+"Jul 1, 2013","1,80 Mill. €",Switzerland,452,BSC Young Boys ,10255,"1,75 Mill. €",Alexander Farnerud,13/14,Italy,416,Torino 
+"Jan 1, 2011",450 Th. €,Denmark,206,Bröndby IF ,10255,"1,70 Mill. €",Alexander Farnerud,10/11,Switzerland,452,BSC Young Boys 
+"Jul 1, 2008",800 Th. €,Germany,79,VfB Stuttgart ,10255,800 Th. €,Alexander Farnerud,08/09,Denmark,206,Bröndby IF 
+"Jul 1, 2006","2,00 Mill. €",France,667,R. Strasbourg ,10255,"2,00 Mill. €",Alexander Farnerud,06/07,Germany,79,VfB Stuttgart 
+"Jan 1, 2004",950 Th. €,Sweden,2294,Landskrona ,10255,-,Alexander Farnerud,03/04,France,667,R. Strasbourg 
+"Jul 1, 2001",-,Sweden,15677,Landskrona BoIS U19 ,10255,-,Alexander Farnerud,01/02,Sweden,2294,Landskrona 
+"Jul 1, 2013",Free transfer,Switzerland,5494,Luzern U21 ,166416,50 Th. €,Michael Räber,13/14,Switzerland,36813,FC Ruswil 
+"Jul 1, 2015",-,Switzerland,5504,SC Cham ,87570,50 Th. €,Calderon Mavembo,15/16,Switzerland,30453,FC Altdorf 
+"Jul 1, 2014",?,Switzerland,2056,FC Schötz ,87570,50 Th. €,Calderon Mavembo,14/15,Switzerland,5504,SC Cham 
+"Jul 1, 2012",?,Switzerland,5494,Luzern U21 ,87570,50 Th. €,Calderon Mavembo,12/13,Switzerland,2056,FC Schötz 
+"Jul 1, 2010",?,Switzerland,4305,SC Zofingen ,87570,-,Calderon Mavembo,10/11,Switzerland,5494,Luzern U21 
+"Jul 1, 2008",Free transfer,Switzerland,5494,Luzern U21 ,87570,-,Calderon Mavembo,08/09,Switzerland,4305,SC Zofingen 
+"Jun 30, 2015",End of loan,Switzerland,163,FC Vaduz ,168979,500 Th. €,Hekuran Kryeziu,14/15,Switzerland,434,FC Luzern 
+"Jul 1, 2014",Loan,Switzerland,434,FC Luzern ,168979,500 Th. €,Hekuran Kryeziu,14/15,Switzerland,163,FC Vaduz 
+"Jul 1, 2011",-,Switzerland,5494,Luzern U21 ,168979,50 Th. €,Hekuran Kryeziu,11/12,Switzerland,434,FC Luzern 
+"Jan 1, 2011",-,Switzerland,14332,FCL U18 ,168979,-,Hekuran Kryeziu,10/11,Switzerland,5494,Luzern U21 
+"Jul 1, 2016",-,France,515,Unattached ,118298,300 Th. €,Mathieu Salamand,16/17,,8728,Bayonne 
+"Feb 16, 2016",-,France,13529,CMS Oissel ,118298,300 Th. €,Mathieu Salamand,15/16,,515,Unattached 
+"Jul 1, 2015",Free transfer,Switzerland,2155,FC Biel-Bienne ,118298,300 Th. €,Mathieu Salamand,15/16,France,13529,CMS Oissel 
+"Jan 28, 2014",?,Switzerland,938,FC Thun ,118298,450 Th. €,Mathieu Salamand,13/14,Switzerland,2155,FC Biel-Bienne 
+"Jul 1, 2012",-,Switzerland,10400,Thun U21 ,118298,100 Th. €,Mathieu Salamand,12/13,Switzerland,938,FC Thun 
+"Jul 1, 2010",Free transfer,France,7813,Olympique Lyon U19 ,118298,-,Mathieu Salamand,10/11,Switzerland,10400,Thun U21 
+"Jan 27, 2016",Free transfer,Switzerland,163,FC Vaduz ,9769,100 Th. €,Pavel Pergl,15/16,Switzerland,2411,FC Locarno 
+"Jul 1, 2013",Free transfer,Switzerland,2047,AC Bellinzona ,9769,100 Th. €,Pavel Pergl,13/14,Switzerland,163,FC Vaduz 
+"Jul 1, 2010",Free transfer,Israel,2785,H. Ramat Gan ,9769,200 Th. €,Pavel Pergl,10/11,Switzerland,2047,AC Bellinzona 
+"Feb 1, 2010",?,Israel,2976,H. Beer Sheva ,9769,275 Th. €,Pavel Pergl,09/10,Israel,2785,H. Ramat Gan 
+"Jul 1, 2009",Free transfer,Germany,129,Dynamo Dresden ,9769,275 Th. €,Pavel Pergl,09/10,Israel,2976,H. Beer Sheva 
+"Jan 1, 2009",Free transfer,Cyprus,2156,AEK Larnaca ,9769,750 Th. €,Pavel Pergl,08/09,Germany,129,Dynamo Dresden 
+"Jul 1, 2007",Free transfer,England,466,Preston NE ,9769,750 Th. €,Pavel Pergl,07/08,Cyprus,2156,AEK Larnaca 
+"Jan 1, 2007",Free transfer,Czech Republic,197,Sparta Praha ,9769,750 Th. €,Pavel Pergl,06/07,England,466,Preston NE 
+"Jun 30, 2006",End of loan,Germany,129,Dynamo Dresden ,9769,750 Th. €,Pavel Pergl,05/06,Czech Republic,197,Sparta Praha 
+"Jan 1, 2006",Loan,Czech Republic,197,Sparta Praha ,9769,50 Th. €,Pavel Pergl,05/06,Germany,129,Dynamo Dresden 
+"Jan 1, 2003",Free transfer,Czech Republic,2598,1.FK Pribram ,9769,-,Pavel Pergl,02/03,Czech Republic,197,Sparta Praha 
+"Jul 1, 2002",?,Czech Republic,600,FK Drnovice ,9769,-,Pavel Pergl,02/03,Czech Republic,2598,1.FK Pribram 
+"Jul 1, 1999",?,Czech Republic,135,FK Chmel Blsany ,9769,-,Pavel Pergl,99/00,Czech Republic,600,Drnovice 
+"Jul 1, 1999",?,Czech Republic,1728,Rezuz Decin ,9769,-,Pavel Pergl,99/00,Czech Republic,135,FK Chmel Blsany 
+"Jan 1, 1998",?,Czech Republic,12795,Sparta Prag U19 ,9769,-,Pavel Pergl,97/98,Czech Republic,1728,Rezuz Decin 
+"Jul 1, 1987",?,Czech Republic,1719,CKD Kompresory Prag ,9769,-,Pavel Pergl,87/88,Czech Republic,12795,Sparta Prag U19 
+"Jul 19, 2015",Free transfer,Austria,122,Sturm Graz ,45405,500 Th. €,Daniel Beichler,15/16,Austria,2662,SKN St. Pölten 
+"Jul 1, 2013",Free transfer,Germany,44,Hertha BSC ,45405,350 Th. €,Daniel Beichler,13/14,Austria,122,Sturm Graz 
+"Jun 30, 2013",End of loan,Germany,254,SV Sandhausen ,45405,350 Th. €,Daniel Beichler,12/13,Germany,44,Hertha BSC 
+"Jan 31, 2013",Loan,Germany,44,Hertha BSC ,45405,500 Th. €,Daniel Beichler,12/13,Germany,254,SV Sandhausen 
+"Jun 30, 2012",End of loan,Austria,266,SV  Ried ,45405,600 Th. €,Daniel Beichler,11/12,Germany,44,Hertha BSC 
+"Aug 30, 2011",Loan,Germany,44,Hertha BSC ,45405,600 Th. €,Daniel Beichler,11/12,Austria,266,SV  Ried 
+"Aug 29, 2011",End of loan,Germany,52,MSV Duisburg ,45405,600 Th. €,Daniel Beichler,11/12,Germany,44,Hertha BSC 
+"Jul 1, 2011",Loan fee:50 Th. €,Germany,44,Hertha BSC ,45405,600 Th. €,Daniel Beichler,11/12,Germany,52,MSV Duisburg 
+"Jun 30, 2011",End of loan,Switzerland,257,FC St. Gallen ,45405,600 Th. €,Daniel Beichler,10/11,Germany,44,Hertha BSC 
+"Jan 28, 2011",Loan fee:50 Th. €,Germany,44,Hertha BSC ,45405,"1,50 Mill. €",Daniel Beichler,10/11,Switzerland,257,FC St. Gallen 
+"Jul 16, 2010",650 Th. €,Austria,122,Sturm Graz ,45405,"1,75 Mill. €",Daniel Beichler,10/11,Germany,44,Hertha BSC 
+"Jul 1, 2007",-,Austria,4443,Sturm Graz II ,45405,50 Th. €,Daniel Beichler,07/08,Austria,122,Sturm Graz 
+"Jun 30, 2007",End of loan,Italy,1386,Reggina ,45405,50 Th. €,Daniel Beichler,06/07,Austria,4443,Sturm Graz II 
+"Jan 17, 2007",Loan,Austria,4443,Sturm Graz II ,45405,-,Daniel Beichler,06/07,Italy,1386,Reggina 
+"Jul 1, 2006",-,Austria,4954,Sturm U19 ,45405,-,Daniel Beichler,06/07,Austria,4443,Sturm Graz II 
+"Feb 1, 1996",Free transfer,Austria,75,Unknown ,45405,-,Daniel Beichler,95/96,,4954,Sturm U19 
+"Jul 1, 2015",Free transfer,Netherlands,723,Almere City ,4656,100 Th. â‚¬,Sander Keller,15/16,Netherlands,22703,De Meern 
+"Jul 1, 2012",-,Netherlands,515,Unattached ,4656,600 Th. â‚¬,Sander Keller,12/13,,723,Almere City 
+"Feb 1, 2012",?,Switzerland,9084,NE Xamax ,4656,600 Th. â‚¬,Sander Keller,11/12,,515,Unattached 
+"Jul 1, 2011",-,Switzerland,625,NeuchÃ¢tel Xamax ,4656,600 Th. â‚¬,Sander Keller,11/12,Switzerland,9084,NE Xamax 
+"Jan 1, 2011",?,Netherlands,200,FC Utrecht ,4656,"1,00 Mill. â‚¬",Sander Keller,10/11,Switzerland,625,NeuchÃ¢tel Xamax 
+"Jul 1, 2003",?,Netherlands,1227,RBC Roosendaal ,4656,-,Sander Keller,03/04,Netherlands,200,FC Utrecht 
+"Jul 1, 2000",?,Netherlands,200,FC Utrecht ,4656,-,Sander Keller,00/01,Netherlands,1227,RBC Roosendaal 
+"Jul 1, 1999",?,Netherlands,2824,Ajax U19 ,4656,-,Sander Keller,99/00,Netherlands,200,FC Utrecht 
+"Jul 1, 2016",-,Italy,8970,Frosinone ,159288,"1,50 Mill. €",Arlind Ajeti,16/17,,515,Unattached 
+"Nov 24, 2015",-,Italy,515,Unattached ,159288,300 Th. €,Arlind Ajeti,15/16,,8970,Frosinone 
+"Jul 1, 2015",-,Switzerland,26,FC Basel ,159288,300 Th. €,Arlind Ajeti,15/16,,515,Unattached 
+"Jul 1, 2011",-,Switzerland,5299,FC Basel U21 ,159288,50 Th. €,Arlind Ajeti,11/12,Switzerland,26,FC Basel 
+"Jul 1, 2010",-,Switzerland,14322,FC Basel U18 ,159288,-,Arlind Ajeti,10/11,Switzerland,5299,FC Basel U21 
+"Dec 1, 2004",?,Switzerland,14404,Concordia II ,159288,-,Arlind Ajeti,04/05,Switzerland,14322,FC Basel U18 
+"Jul 1, 2014",-,Switzerland,17574,FC Breitenrain ,65593,50 Th. €,Remo Burri,14/15,Switzerland,13530,FC Bern 
+"Jul 1, 2013",Free transfer,Switzerland,938,FC Thun ,65593,50 Th. €,Remo Burri,13/14,Switzerland,17574,FC Breitenrain 
+"Dec 31, 2012",End of loan,Switzerland,4369,FC Münsingen ,65593,50 Th. €,Remo Burri,12/13,Switzerland,938,FC Thun 
+"Sep 27, 2012",Loan,Switzerland,938,FC Thun ,65593,50 Th. €,Remo Burri,12/13,Switzerland,4369,FC Münsingen 
+"Jul 1, 2012",-,Switzerland,10400,Thun U21 ,65593,50 Th. €,Remo Burri,12/13,Switzerland,938,FC Thun 
+"Jun 30, 2012",End of loan,Switzerland,5496,FC Naters ,65593,50 Th. €,Remo Burri,11/12,Switzerland,10400,Thun U21 
+"Jan 1, 2012",Loan,Switzerland,10400,Thun U21 ,65593,50 Th. €,Remo Burri,11/12,Switzerland,5496,FC Naters 
+"Feb 1, 2010",?,Switzerland,5508,Young Boys U21 ,65593,-,Remo Burri,09/10,Switzerland,10400,Thun U21 
+"Dec 31, 2009",End of loan,Switzerland,4369,FC Münsingen ,65593,-,Remo Burri,09/10,Switzerland,5508,Young Boys U21 
+"Aug 1, 2009",Loan,Switzerland,5508,Young Boys U21 ,65593,-,Remo Burri,09/10,Switzerland,4369,FC Münsingen 
+"Jul 1, 2007",-,Switzerland,14438,BSC YB U18 ,65593,-,Remo Burri,07/08,Switzerland,5508,Young Boys U21 
+"Jul 1, 2015",?,Switzerland,30297,FC Suhr ,65596,150 Th. €,Dario Dussin,15/16,Switzerland,4305,SC Zofingen 
+"Jul 1, 2013",?,Switzerland,515,Unattached ,65596,150 Th. €,Dario Dussin,13/14,,30297,FC Suhr 
+"Jan 1, 2013",-,Switzerland,1978,FC Wohlen ,65596,150 Th. €,Dario Dussin,12/13,,515,Unattached 
+"Jul 1, 2012",Free transfer,Switzerland,2155,FC Biel-Bienne ,65596,150 Th. €,Dario Dussin,12/13,Switzerland,1978,FC Wohlen 
+"Jan 1, 2012",Free transfer,Switzerland,5508,Young Boys U21 ,65596,200 Th. €,Dario Dussin,11/12,Switzerland,2155,FC Biel-Bienne 
+"Jul 1, 2011",-,Switzerland,452,BSC Young Boys ,65596,200 Th. €,Dario Dussin,11/12,Switzerland,5508,Young Boys U21 
+"Jun 30, 2010",End of loan,Switzerland,2155,FC Biel-Bienne ,65596,200 Th. €,Dario Dussin,09/10,Switzerland,452,BSC Young Boys 
+"Jan 1, 2009",Loan,Switzerland,452,BSC Young Boys ,65596,50 Th. €,Dario Dussin,08/09,Switzerland,2155,FC Biel-Bienne 
+"Sep 1, 2008",-,Switzerland,5508,Young Boys U21 ,65596,-,Dario Dussin,08/09,Switzerland,452,BSC Young Boys 
+"Jul 1, 2007",?,Switzerland,1978,FC Wohlen ,65596,-,Dario Dussin,07/08,Switzerland,5508,Young Boys U21 
+"Jul 1, 2006",?,Switzerland,21243,Aargau U18 ,65596,-,Dario Dussin,06/07,Switzerland,1978,FC Wohlen 
+"Jul 1, 2005",-,Switzerland,18723,Aargau U16 ,65596,-,Dario Dussin,05/06,Switzerland,21243,Aargau U18 
+"Nov 1, 2010",-,Switzerland,515,Unattached ,33348,250 Th. €,Enrico Schirinzi,10/11,,938,FC Thun 
+"Jul 1, 2010",-,Switzerland,1978,FC Wohlen ,33348,250 Th. €,Enrico Schirinzi,10/11,,515,Unattached 
+"Jul 1, 2009",?,Switzerland,2790,FC Lugano ,33348,125 Th. €,Enrico Schirinzi,09/10,Switzerland,1978,FC Wohlen 
+"Jan 1, 2009",?,Switzerland,434,FC Luzern ,33348,125 Th. €,Enrico Schirinzi,08/09,Switzerland,2790,FC Lugano 
+"Jul 1, 2008",Free transfer,Switzerland,1978,FC Wohlen ,33348,125 Th. €,Enrico Schirinzi,08/09,Switzerland,434,FC Luzern 
+"Jul 1, 2005",75 Th. €,Switzerland,5508,Young Boys U21 ,33348,-,Enrico Schirinzi,05/06,Switzerland,1978,FC Wohlen 
+"Jul 1, 2014",-,Romania,39612,AFC Fortuna PC ,163909,50 Th. €,Mamadou Camara,14/15,,515,Unattached 
+"Jan 9, 2014",Free transfer,Romania,15947,Dinamo II ,163909,50 Th. €,Mamadou Camara,13/14,Romania,39612,AFC Fortuna PC 
+"Aug 1, 2013",Free transfer,Romania,75,Unknown ,163909,50 Th. €,Mamadou Camara,13/14,,15947,Dinamo II 
+"Jul 1, 2011",Free transfer,Switzerland,2047,AC Bellinzona ,163909,50 Th. €,Mamadou Camara,11/12,,75,Unknown 
+"Aug 18, 2010",Free transfer,Senegal,11061,US Gorée ,163909,-,Mamadou Camara,10/11,Switzerland,2047,AC Bellinzona 
+"Jul 1, 2008",Free transfer,Senegal,75,Unknown ,163909,-,Mamadou Camara,08/09,,11061,US Gorée 
+"Jun 30, 2016",End of loan,Switzerland,1288,Team Fribourg ,179794,50 Th. â‚¬,Julien Bize,15/16,Switzerland,9084,NE Xamax 
+"Jan 4, 2016",Loan,Switzerland,9084,NE Xamax ,179794,50 Th. â‚¬,Julien Bize,15/16,Switzerland,1288,Team Fribourg 
+"Jun 12, 2012",Free transfer,Switzerland,1288,Team Fribourg ,179794,-,Julien Bize,12/13,Switzerland,9084,NE Xamax 
+"Jul 1, 2011",Free transfer,Switzerland,625,NeuchÃ¢tel Xamax ,179794,50 Th. â‚¬,Julien Bize,11/12,Switzerland,1288,Team Fribourg 
+"Jul 1, 2015",-,Switzerland,10724,FC Black Stars ,127061,50 Th. €,Rodrigue Laurent,15/16,,75,Unknown 
+"Dec 10, 2014",Free transfer,France,28657,AS Illzach ,127061,50 Th. €,Rodrigue Laurent,14/15,Switzerland,10724,FC Black Stars 
+"Jul 1, 2012",-,Switzerland,5508,Young Boys U21 ,127061,50 Th. €,Rodrigue Laurent,12/13,France,28657,AS Illzach 
+"Jul 1, 2010",Free transfer,France,10825,FC Sochaux B ,127061,-,Rodrigue Laurent,10/11,Switzerland,5508,Young Boys U21 
+"Jul 1, 2014",800 Th. €,Switzerland,938,FC Thun ,173656,800 Th. €,Sékou Sanogo,14/15,Switzerland,452,BSC Young Boys 
+"Jun 30, 2013",End of loan,Switzerland,527,Lausanne-Sport ,173656,600 Th. €,Sékou Sanogo,12/13,Switzerland,938,FC Thun 
+"Jan 28, 2012",Loan,Switzerland,938,FC Thun ,173656,150 Th. €,Sékou Sanogo,11/12,Switzerland,527,Lausanne-Sport 
+"Jan 1, 2011",?,Cote d'Ivoire,2936,Africa Sports ,173656,-,Sékou Sanogo,10/11,Switzerland,938,FC Thun 
+"Jan 1, 2013",End of loan,Switzerland,2144,FC Grenchen ,168207,-,Ivo Zangger,12/13,Switzerland,2155,FC Biel-Bienne 
+"Jul 8, 2012",Loan,Switzerland,2155,FC Biel-Bienne ,168207,-,Ivo Zangger,12/13,Switzerland,2144,FC Grenchen 
+"Jul 1, 2012",Free transfer,Switzerland,5508,Young Boys U21 ,168207,-,Ivo Zangger,12/13,Switzerland,2155,FC Biel-Bienne 
+"Jul 1, 2011",-,Switzerland,14438,BSC YB U18 ,168207,-,Ivo Zangger,11/12,Switzerland,5508,Young Boys U21 
+"Aug 25, 2015",Free transfer,Tunisia,75,Unknown ,63070,150 Th. €,Mohamed Ali Nafkha,15/16,,22817,Hammam Sousse 
+"Jul 1, 2014",?,Tunisia,250,ES Sahel ,63070,200 Th. €,Mohamed Ali Nafkha,14/15,,75,Unknown 
+"Jul 1, 2013",Free transfer,Switzerland,5501,FC Zürich U21 ,63070,200 Th. €,Mohamed Ali Nafkha,13/14,Tunisia,250,ES Sahel 
+"Jul 1, 2012",-,Switzerland,260,FC Zürich ,63070,350 Th. €,Mohamed Ali Nafkha,12/13,Switzerland,5501,FC Zürich U21 
+"Jun 30, 2012",End of loan,Tunisia,250,ES Sahel ,63070,350 Th. €,Mohamed Ali Nafkha,11/12,Switzerland,260,FC Zürich 
+"Jul 8, 2011",Loan,Switzerland,260,FC Zürich ,63070,300 Th. €,Mohamed Ali Nafkha,11/12,Tunisia,250,ES Sahel 
+"Jan 12, 2010",400 Th. €,Tunisia,250,ES Sahel ,63070,600 Th. €,Mohamed Ali Nafkha,10/11,Switzerland,260,FC Zürich 
+"Jul 1, 2005",-,Tunisia,17540,ESS U19 ,63070,-,Mohamed Ali Nafkha,05/06,Tunisia,250,ES Sahel 
+"Jan 26, 2016",Free transfer,Portugal,515,Unattached ,39533,250 Th. €,Genséric Kusunga,15/16,,976,União Madeira 
+"Apr 24, 2015",-,England,1078,Oldham Athletic ,39533,250 Th. €,Genséric Kusunga,14/15,,515,Unattached 
+"Sep 2, 2013",Free transfer,Switzerland,26,FC Basel ,39533,300 Th. €,Genséric Kusunga,13/14,England,1078,Oldham Athletic 
+"Jun 30, 2013",End of loan,Switzerland,61,Servette FC ,39533,300 Th. €,Genséric Kusunga,12/13,Switzerland,26,FC Basel 
+"Jul 1, 2012",Loan,Switzerland,26,FC Basel ,39533,300 Th. €,Genséric Kusunga,12/13,Switzerland,61,Servette FC 
+"Jul 1, 2010",Free transfer,Switzerland,61,Servette FC ,39533,200 Th. €,Genséric Kusunga,10/11,Switzerland,26,FC Basel 
+"Jul 1, 2007",-,Switzerland,14179,Team Genève U17 ,39533,-,Genséric Kusunga,07/08,Switzerland,61,Servette FC 
+"Feb 23, 2015",?,Switzerland,12424,Le Mont LS ,153711,100 Th. â‚¬,Agonit Sallaj,14/15,Switzerland,9084,NE Xamax 
+"Jul 9, 2014",?,Switzerland,2053,FC Bulle ,153711,300 Th. â‚¬,Agonit Sallaj,14/15,Switzerland,12424,Le Mont LS 
+"Jan 1, 2014",-,Switzerland,515,Unattached ,153711,300 Th. â‚¬,Agonit Sallaj,13/14,,2053,FC Bulle 
+"Jul 1, 2013",-,Switzerland,2155,FC Biel-Bienne ,153711,300 Th. â‚¬,Agonit Sallaj,13/14,,515,Unattached 
+"Jun 30, 2013",End of loan,Switzerland,1288,Team Fribourg ,153711,300 Th. â‚¬,Agonit Sallaj,12/13,Switzerland,2155,FC Biel-Bienne 
+"Jan 1, 2013",Loan,Switzerland,2155,FC Biel-Bienne ,153711,300 Th. â‚¬,Agonit Sallaj,12/13,Switzerland,1288,Team Fribourg 
+"Sep 27, 2012",-,Switzerland,515,Unattached ,153711,300 Th. â‚¬,Agonit Sallaj,12/13,,2155,FC Biel-Bienne 
+"Jul 1, 2012",-,Switzerland,625,NeuchÃ¢tel Xamax ,153711,300 Th. â‚¬,Agonit Sallaj,12/13,,515,Unattached 
+"Jun 30, 2012",End of loan,Switzerland,2155,FC Biel-Bienne ,153711,300 Th. â‚¬,Agonit Sallaj,11/12,Switzerland,625,NeuchÃ¢tel Xamax 
+"Jul 1, 2011",Loan,Switzerland,625,NeuchÃ¢tel Xamax ,153711,50 Th. â‚¬,Agonit Sallaj,11/12,Switzerland,2155,FC Biel-Bienne 
+"Jul 1, 2010",-,Switzerland,9084,NE Xamax ,153711,-,Agonit Sallaj,10/11,Switzerland,625,NeuchÃ¢tel Xamax 
+"Jan 1, 2015",Free transfer,Switzerland,2144,FC Grenchen ,165510,-,Dugagjin Dedaj,14/15,Switzerland,747,FC Baden 
+"Nov 20, 2014",-,Switzerland,2144,FC Grenchen ,165510,-,Dugagjin Dedaj,14/15,,515,Unattached 
+"Sep 17, 2014",?,Switzerland,75,Unknown ,165510,-,Dugagjin Dedaj,14/15,,2144,FC Grenchen 
+"Jul 1, 2014",?,Switzerland,32358,FC Köniz ,165510,-,Dugagjin Dedaj,14/15,,75,Unknown 
+"Jul 17, 2013",?,Switzerland,2144,FC Grenchen ,165510,-,Dugagjin Dedaj,13/14,Switzerland,32358,FC Köniz 
+"Jul 1, 2012",Free transfer,Switzerland,2057,FC Wangen b.O ,165510,-,Dugagjin Dedaj,12/13,Switzerland,2144,FC Grenchen 
+"Jan 1, 2012",Free transfer,Switzerland,747,FC Baden ,165510,-,Dugagjin Dedaj,11/12,Switzerland,2057,FC Wangen b.O 
+"Jul 1, 2011",Free transfer,Switzerland,5501,FC Zürich U21 ,165510,50 Th. €,Dugagjin Dedaj,11/12,Switzerland,747,FC Baden 
+"Jul 1, 2010",Free transfer,Switzerland,30381,Herzogenbuchsee ,165510,-,Dugagjin Dedaj,10/11,Switzerland,5501,FC Zürich U21 
+"Jun 30, 2010",End of loan,Switzerland,14356,FC Olten ,165510,-,Dugagjin Dedaj,09/10,Switzerland,30381,Herzogenbuchsee 
+"Jul 1, 2009",Loan,Switzerland,30381,Herzogenbuchsee ,165510,-,Dugagjin Dedaj,09/10,Switzerland,14356,FC Olten 
+"Jul 1, 2016",-,Switzerland,9084,NE Xamax ,91271,100 Th. €,Loic Chatton,16/17,,515,Unattached 
+"Jul 3, 2013",Free transfer,Switzerland,8508,FC Sion U21 ,91271,100 Th. €,Loic Chatton,13/14,Switzerland,9084,NE Xamax 
+"Jun 30, 2012",End of loan,Switzerland,2155,FC Biel-Bienne ,91271,200 Th. €,Loic Chatton,11/12,Switzerland,8508,FC Sion U21 
+"Jan 1, 2012",Loan,Switzerland,321,FC Sion ,91271,300 Th. €,Loic Chatton,11/12,Switzerland,2155,FC Biel-Bienne 
+"Dec 1, 2011",End of loan,Switzerland,2790,FC Lugano ,91271,300 Th. €,Loic Chatton,11/12,Switzerland,321,FC Sion 
+"Jul 1, 2011",Loan,Switzerland,321,FC Sion ,91271,300 Th. €,Loic Chatton,11/12,Switzerland,2790,FC Lugano 
+"Oct 1, 2010",?,Switzerland,2155,FC Biel-Bienne ,91271,125 Th. €,Loic Chatton,10/11,Switzerland,321,FC Sion 
+"Jul 1, 2008",-,Switzerland,27998,FC Biel Jugend ,91271,-,Loic Chatton,08/09,Switzerland,2155,FC Biel-Bienne 
+"Jan 18, 2016",Free transfer,Switzerland,260,FC Zürich ,165513,"1,00 Mill. €",Berat Djimsiti,15/16,Italy,800,Atalanta 
+"Jul 1, 2012",-,Switzerland,5501,FC Zürich U21 ,165513,250 Th. €,Berat Djimsiti,12/13,Switzerland,260,FC Zürich 
+"Jul 1, 2011",-,Switzerland,14537,FC Zürich U18 ,165513,50 Th. €,Berat Djimsiti,11/12,Switzerland,5501,FC Zürich U21 
+"Jul 1, 2010",-,Switzerland,33982,FC Zürich U17 ,165513,-,Berat Djimsiti,10/11,Switzerland,14537,FC Zürich U18 
+"Jul 1, 2009",-,Switzerland,32338,FC Zürich U16 ,165513,-,Berat Djimsiti,09/10,Switzerland,33982,FC Zürich U17 
+"Jul 1, 2014",-,Switzerland,5501,FC Zürich U21 ,165527,-,Marcel Thoma,14/15,,123,End of career 
+"Jun 30, 2014",End of loan,Switzerland,2399,FC Frauenfeld ,165527,-,Marcel Thoma,13/14,Switzerland,5501,FC Zürich U21 
+"Jul 31, 2013",Loan,Switzerland,5501,FC Zürich U21 ,165527,-,Marcel Thoma,13/14,Switzerland,2399,FC Frauenfeld 
+"Jul 26, 2013","9,00 Mill. €",Switzerland,26,FC Basel ,59032,"7,00 Mill. €",Aleksandar Dragovic,13/14,Ukraine,338,Dynamo Kyiv 
+"Jan 31, 2011","1,00 Mill. €",Austria,14,Austria Vienna ,59032,"3,00 Mill. €",Aleksandar Dragovic,10/11,Switzerland,26,FC Basel 
+"Jul 1, 2008",-,Austria,4383,Austria Wien II ,59032,50 Th. €,Aleksandar Dragovic,08/09,Austria,14,Austria Vienna 
+"Jan 1, 2008",-,Austria,6611,Austria U19 ,59032,-,Aleksandar Dragovic,07/08,Austria,4383,Austria Wien II 
+"Jul 1, 2005",-,Austria,10198,Austria Youth ,59032,-,Aleksandar Dragovic,05/06,Austria,6611,Austria U19 
+"Jan 15, 2016","2,50 Mill. €",Switzerland,434,FC Luzern ,80031,"3,00 Mill. €",Darío Lezcano,15/16,Germany,4795,FC Ingolstadt 
+"Feb 1, 2012",850 Th. €,Switzerland,938,FC Thun ,80031,500 Th. €,Darío Lezcano,11/12,Switzerland,434,FC Luzern 
+"Jan 1, 2011",?,Switzerland,850,FC Wil 1900 ,80031,300 Th. €,Darío Lezcano,10/11,Switzerland,938,FC Thun 
+"Jul 1, 2008",?,Paraguay,17427,Trinidense ,80031,-,Darío Lezcano,08/09,Switzerland,850,FC Wil 1900 
+"Jul 1, 2016",Free transfer,Switzerland,257,FC St. Gallen ,43684,500 Th. â‚¬,Geoffrey TrÃ©and,16/17,Switzerland,116,FC Aarau 
+"Jul 1, 2014",16 Th. â‚¬,Switzerland,61,Servette FC ,43684,650 Th. â‚¬,Geoffrey TrÃ©and,14/15,Switzerland,257,FC St. Gallen 
+"Jul 1, 2012",?,Switzerland,321,FC Sion ,43684,350 Th. â‚¬,Geoffrey TrÃ©and,12/13,Switzerland,61,Servette FC 
+"Jan 1, 2012",?,Switzerland,625,NeuchÃ¢tel Xamax ,43684,500 Th. â‚¬,Geoffrey TrÃ©and,11/12,Switzerland,321,FC Sion 
+"Jul 1, 2010",Free transfer,Switzerland,61,Servette FC ,43684,200 Th. â‚¬,Geoffrey TrÃ©and,10/11,Switzerland,625,NeuchÃ¢tel Xamax 
+"Jul 1, 2005",?,Switzerland,1292,Etoile Carouge ,43684,-,Geoffrey TrÃ©and,05/06,Switzerland,61,Servette FC 
+"Aug 4, 2015",200 Th. €,Norway,5619,Aalesunds FK ,47781,500 Th. €,Sakari Mattila,15/16,England,931,Fulham FC 
+"Jan 1, 2014",Free transfer,Finland,1008,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,13/14,Norway,5619,Aalesunds FK 
+"May 28, 2013",Free transfer,Switzerland,2047,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,12/13,Finland,1008,HJK Helsinki 
+"Dec 31, 2012",End of loan,Finland,1008,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,12/13,Switzerland,2047,AC Bellinzona 
+"Aug 5, 2012",Loan,Switzerland,2047,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,12/13,Finland,1008,HJK Helsinki 
+"Jul 1, 2011",?,Italy,410,Udinese Calcio ,47781,250 Th. €,Sakari Mattila,11/12,Switzerland,2047,AC Bellinzona 
+"Jun 30, 2011",End of loan,Switzerland,2047,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,10/11,Italy,410,Udinese Calcio 
+"Jul 1, 2010",Loan,Italy,410,Udinese Calcio ,47781,250 Th. €,Sakari Mattila,10/11,Switzerland,2047,AC Bellinzona 
+"Jun 30, 2010",End of loan,Italy,408,Ascoli ,47781,250 Th. €,Sakari Mattila,09/10,Italy,410,Udinese 
+"Jul 1, 2009",Loan,Italy,410,Udinese ,47781,250 Th. €,Sakari Mattila,09/10,Italy,408,Ascoli 
+"Jan 1, 2009",800 Th. €,Finland,1008,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,08/09,Italy,410,Udinese 
+"Jan 1, 2008",-,Finland,15665,HJK U19 ,47781,-,Sakari Mattila,07/08,Finland,1008,HJK Helsinki 
+"Jan 1, 2016",Free transfer,Switzerland,32358,FC Köniz ,130223,100 Th. €,David Moser,15/16,Switzerland,8278,SC Düdingen 
+"Jul 1, 2015",Free transfer,Switzerland,938,FC Thun ,130223,200 Th. €,David Moser,15/16,Switzerland,32358,FC Köniz 
+"Jul 1, 2015",End of loan,Switzerland,242,FC Winterthur ,130223,200 Th. €,David Moser,15/16,Switzerland,938,FC Thun 
+"Jul 1, 2014",Loan,Switzerland,938,FC Thun ,130223,150 Th. €,David Moser,14/15,Switzerland,242,FC Winterthur 
+"Jan 1, 2011",-,Switzerland,10400,Thun U21 ,130223,50 Th. €,David Moser,10/11,Switzerland,938,FC Thun 
+"Jul 1, 2010",-,Switzerland,938,FC Thun ,130223,50 Th. €,David Moser,10/11,Switzerland,10400,Thun U21 
+"Jul 1, 2008",-,Switzerland,10400,Thun U21 ,130223,-,David Moser,08/09,Switzerland,938,FC Thun 
+"Jun 30, 2015",End of loan,Switzerland,13544,SC Brühl SG ,135344,100 Th. €,Denis Simani,14/15,Switzerland,8463,Rapperswil-Jona 
+"Jul 15, 2014",Loan,Switzerland,8463,Rapperswil-Jona ,135344,50 Th. €,Denis Simani,14/15,Switzerland,13544,SC Brühl SG 
+"Jul 29, 2013",?,Switzerland,5299,FC Basel U21 ,135344,50 Th. €,Denis Simani,13/14,Switzerland,8463,Rapperswil-Jona 
+"Jul 1, 2012",?,Switzerland,5502,GC U21 ,135344,100 Th. €,Denis Simani,12/13,Switzerland,5299,FC Basel U21 
+"Jun 30, 2012",End of loan,Switzerland,13544,SC Brühl SG ,135344,100 Th. €,Denis Simani,11/12,Switzerland,5502,GC U21 
+"Jul 1, 2011",Loan,Switzerland,5502,GC U21 ,135344,50 Th. €,Denis Simani,11/12,Switzerland,13544,SC Brühl SG 
+"Aug 1, 2010",?,Switzerland,2148,FC Gossau ,135344,50 Th. €,Denis Simani,10/11,Switzerland,5502,GC U21 
+"Dec 1, 2009",-,Switzerland,15599,FC Gossau Jugend ,135344,-,Denis Simani,09/10,Switzerland,2148,FC Gossau 
+"Mar 22, 2013",-,,515,Unattached ,18097,150 Th. €,Benjamin Kibebe,12/13,,123,End of career 
+"Jan 31, 2013",-,Denmark,865,FC Midtjylland ,18097,150 Th. €,Benjamin Kibebe,12/13,,515,Unattached 
+"Jul 1, 2012",Free transfer,Switzerland,5494,Luzern U21 ,18097,150 Th. €,Benjamin Kibebe,12/13,Denmark,865,FC Midtjylland 
+"Feb 1, 2012",-,Switzerland,434,FC Luzern ,18097,150 Th. €,Benjamin Kibebe,11/12,Switzerland,5494,Luzern U21 
+"Dec 31, 2011",End of loan,Switzerland,2074,SC Kriens ,18097,300 Th. €,Benjamin Kibebe,11/12,Switzerland,434,FC Luzern 
+"Sep 1, 2011",Loan,Switzerland,434,FC Luzern ,18097,300 Th. €,Benjamin Kibebe,11/12,Switzerland,2074,SC Kriens 
+"Jul 1, 2010",?,Denmark,2778,Nordsjaelland ,18097,500 Th. €,Benjamin Kibebe,10/11,Switzerland,434,FC Luzern 
+"Jul 1, 2008",?,Norway,5619,Aalesunds FK ,18097,-,Benjamin Kibebe,08/09,Denmark,2778,Nordsjaelland 
+"Jan 1, 2007",?,Norway,1293,Tromsö ,18097,-,Benjamin Kibebe,06/07,Norway,5619,Aalesunds FK 
+"Jan 1, 2005",Free transfer,Sweden,272,AIK Solna ,18097,-,Benjamin Kibebe,04/05,Norway,1293,Tromsö 
+"Jul 1, 1998",?,Sweden,8842,Hammarby IF U19 ,18097,-,Benjamin Kibebe,98/99,Sweden,272,AIK Solna 
+"Jul 1, 1995",?,Sweden,8955,IF Bromma U19 ,18097,-,Benjamin Kibebe,95/96,Sweden,8842,Hammarby IF U19 
+"Jul 1, 2016",-,Switzerland,938,FC Thun ,130227,"1,00 Mill. €",Sandro Wieser,16/17,,515,Unattached 
+"Jul 24, 2015",?,Germany,533,TSG Hoffenheim ,130227,350 Th. €,Sandro Wieser,15/16,Switzerland,938,FC Thun 
+"Jun 30, 2015",End of loan,Switzerland,116,FC Aarau ,130227,350 Th. €,Sandro Wieser,14/15,Germany,533,TSG Hoffenheim 
+"Jul 1, 2014",Loan,Germany,533,TSG Hoffenheim ,130227,600 Th. €,Sandro Wieser,14/15,Switzerland,116,FC Aarau 
+"Jun 30, 2014",End of loan,Austria,266,SV  Ried ,130227,600 Th. €,Sandro Wieser,13/14,Germany,533,TSG Hoffenheim 
+"Jul 1, 2013",Loan,Germany,533,TSG Hoffenheim ,130227,600 Th. €,Sandro Wieser,13/14,Austria,266,SV  Ried 
+"Jan 1, 2012","1,00 Mill. €",Switzerland,26,FC Basel ,130227,200 Th. €,Sandro Wieser,11/12,Germany,533,TSG Hoffenheim 
+"Jan 1, 2011",-,Switzerland,5299,FC Basel U21 ,130227,150 Th. €,Sandro Wieser,10/11,Switzerland,26,FC Basel 
+"Jul 1, 2010",-,Switzerland,14322,FC Basel U18 ,130227,-,Sandro Wieser,10/11,Switzerland,5299,FC Basel U21 
+"Jul 1, 2009",-,Switzerland,32336,FC Basel U16 ,130227,-,Sandro Wieser,09/10,Switzerland,14322,FC Basel U18 
+"Jan 1, 2015",Free transfer,Germany,63,Spfr. Siegen ,69826,100 Th. €,Mirson Volina,14/15,Switzerland,17574,FC Breitenrain 
+"Jul 1, 2014",Free transfer,Germany,112,SC Pfullendorf ,69826,150 Th. €,Mirson Volina,14/15,Germany,63,Spfr. Siegen 
+"Sep 20, 2013",-,Germany,515,Unattached ,69826,150 Th. €,Mirson Volina,13/14,,112,SC Pfullendorf 
+"Jul 1, 2013",-,Switzerland,938,FC Thun ,69826,150 Th. €,Mirson Volina,13/14,,515,Unattached 
+"Dec 31, 2012",End of loan,Switzerland,2155,FC Biel-Bienne ,69826,150 Th. €,Mirson Volina,12/13,Switzerland,938,FC Thun 
+"Jul 1, 2012",Loan,Switzerland,938,FC Thun ,69826,150 Th. €,Mirson Volina,12/13,Switzerland,2155,FC Biel-Bienne 
+"Jan 1, 2011",-,Switzerland,10400,Thun U21 ,69826,50 Th. €,Mirson Volina,10/11,Switzerland,938,FC Thun 
+"May 18, 2015",Free transfer,Brazil,17299,Paranavaí ,80581,150 Th. €,Dudu,14/15,Brazil,21719,São Carlos 
+"Jan 1, 2015",Free transfer,Brazil,8144,Clube Atlético Juventus (SP) ,80581,150 Th. €,Dudu,14/15,Brazil,17299,Paranavaí 
+"Jan 1, 2014",Free transfer,Brazil,45257,Votuporanguense ,80581,150 Th. €,Dudu,13/14,Brazil,8144,Clube Atlético Juventus (SP) 
+"Jun 1, 2013",Free transfer,Brazil,21727,Batatais ,80581,150 Th. €,Dudu,12/13,Brazil,45257,Votuporanguense 
+"Jan 1, 2013",Free transfer,Brazil,21719,São Carlos ,80581,150 Th. €,Dudu,12/13,Brazil,21727,Batatais 
+"Jan 1, 2012",Free transfer,Switzerland,938,FC Thun ,80581,150 Th. €,Dudu,11/12,Brazil,21719,São Carlos 
+"Dec 1, 2011",End of loan,Myanmar,26199,Yangon ,80581,150 Th. €,Dudu,11/12,Switzerland,938,FC Thun 
+"Jan 1, 2011",Loan,Switzerland,938,FC Thun ,80581,250 Th. €,Dudu,10/11,Myanmar,26199,Yangon 
+"Dec 1, 2010",End of loan,Switzerland,322,Yverdon-Sport ,80581,250 Th. €,Dudu,10/11,Switzerland,938,FC Thun 
+"Oct 1, 2010",Loan,Switzerland,938,FC Thun ,80581,250 Th. €,Dudu,10/11,Switzerland,322,Yverdon-Sport 
+"Feb 1, 2010",?,Bulgaria,4494,Chern. Burgas ,80581,-,Dudu,09/10,Switzerland,938,FC Thun 
+"Jul 1, 2008",?,Brazil,10997,Remo ,80581,-,Dudu,08/09,Bulgaria,4494,Chern. Burgas 
+"Jul 16, 2014",?,Switzerland,8463,Rapperswil-Jona ,65744,-,Mirco Graf,14/15,Switzerland,14574,FC PhÃ¶nix 
+"Jul 1, 2013",?,Switzerland,3303,FC Tuggen ,65744,-,Mirco Graf,13/14,Switzerland,8463,Rapperswil-Jona 
+"Jul 1, 2012",Free transfer,Switzerland,510,FC Chiasso ,65744,125 Th. â‚¬,Mirco Graf,12/13,Switzerland,3303,FC Tuggen 
+"Jul 1, 2011",Free transfer,Switzerland,5502,GC U21 ,65744,50 Th. â‚¬,Mirco Graf,11/12,Switzerland,510,FC Chiasso 
+"Jul 1, 2010",?,Switzerland,9178,St. Gallen U21 ,65744,50 Th. â‚¬,Mirco Graf,10/11,Switzerland,5502,GC U21 
+"Jun 30, 2010",End of loan,Switzerland,2148,FC Gossau ,65744,50 Th. â‚¬,Mirco Graf,09/10,Switzerland,9178,St. Gallen U21 
+"Aug 1, 2009",Loan,Switzerland,9178,St. Gallen U21 ,65744,50 Th. â‚¬,Mirco Graf,09/10,Switzerland,2148,FC Gossau 
+"Jul 1, 2008",?,Switzerland,2772,FC Kreuzlingen ,65744,-,Mirco Graf,08/09,Switzerland,9178,St. Gallen U21 
+"Jul 1, 2006",?,Switzerland,2399,FC Frauenfeld ,65744,-,Mirco Graf,06/07,Switzerland,2772,FC Kreuzlingen 
+"Jul 1, 2005",?,Switzerland,15604,FC Wil Jugend ,65744,-,Mirco Graf,05/06,Switzerland,2399,FC Frauenfeld 
+"Jul 1, 2004",?,Switzerland,20939,Winterthur Jgd. ,65744,-,Mirco Graf,04/05,Switzerland,15604,FC Wil Jugend 
+"Jun 30, 2016",End of loan,Italy,8970,Frosinone ,19671,800 Th. €,Daniel Pavlovic,15/16,Switzerland,504,Grasshoppers 
+"Jul 18, 2015",Loan,Switzerland,504,Grasshoppers ,19671,750 Th. €,Daniel Pavlovic,15/16,Italy,8970,Frosinone 
+"Sep 1, 2011",-,Switzerland,515,Unattached ,19671,400 Th. €,Daniel Pavlovic,11/12,,504,Grasshoppers 
+"Jul 1, 2011",-,Switzerland,1277,FC Schaffhausen ,19671,400 Th. €,Daniel Pavlovic,11/12,,515,Unattached 
+"Jun 30, 2011",End of loan,Switzerland,504,Grasshoppers ,19671,400 Th. €,Daniel Pavlovic,10/11,Switzerland,1277,FC Schaffhausen 
+"Jul 1, 2010",Loan,Switzerland,1277,FC Schaffhausen ,19671,300 Th. €,Daniel Pavlovic,10/11,Switzerland,504,Grasshoppers 
+"Jun 30, 2010",End of loan,Germany,2,1.FC K'lautern ,19671,300 Th. €,Daniel Pavlovic,09/10,Switzerland,1277,FC Schaffhausen 
+"Jul 1, 2009",Loan,Switzerland,1277,FC Schaffhausen ,19671,150 Th. €,Daniel Pavlovic,09/10,Germany,2,1.FC K'lautern 
+"Aug 1, 2007",Free transfer,Germany,245,SC Freiburg II ,19671,150 Th. €,Daniel Pavlovic,07/08,Switzerland,1277,FC Schaffhausen 
+"Jul 1, 2006",-,Germany,4042,SC Freiburg U19 ,19671,150 Th. €,Daniel Pavlovic,06/07,Germany,245,SC Freiburg II 
+"Jul 1, 2004",Free transfer,Switzerland,9248,FCSG U18 ,19671,-,Daniel Pavlovic,04/05,Germany,4042,SC Freiburg U19 
+"Jul 1, 2014",?,Portugal,7788,AcadÃ©mico Viseu ,86750,250 Th. â‚¬,Fausto LourenÃ§o,14/15,Portugal,2421,Freamunde 
+"Jan 8, 2014",?,Portugal,7179,Tondela ,86750,250 Th. â‚¬,Fausto LourenÃ§o,13/14,Portugal,7788,AcadÃ©mico Viseu 
+"Jul 1, 2013",?,Portugal,75,Unknown ,86750,250 Th. â‚¬,Fausto LourenÃ§o,13/14,,7179,Tondela 
+"Jan 1, 2013",?,Kazakhstan,16198,Atyrau ,86750,250 Th. â‚¬,Fausto LourenÃ§o,12/13,,75,Unknown 
+"Jul 1, 2012",?,Portugal,3345,LeixÃµes ,86750,250 Th. â‚¬,Fausto LourenÃ§o,12/13,Kazakhstan,16198,Atyrau 
+"Jul 1, 2011",Free transfer,Switzerland,625,NeuchÃ¢tel Xamax ,86750,50 Th. â‚¬,Fausto LourenÃ§o,11/12,Portugal,3345,LeixÃµes 
+"Jul 1, 2010",Free transfer,Cyprus,3388,Onisilos Sotira ,86750,50 Th. â‚¬,Fausto LourenÃ§o,10/11,Switzerland,625,NeuchÃ¢tel Xamax 
+"Jul 1, 2009",Free transfer,Bulgaria,19214,Lok. Mezdra ,86750,50 Th. â‚¬,Fausto LourenÃ§o,09/10,Cyprus,3388,Onisilos Sotira 
+"Jul 1, 2008",?,Portugal,2990,Coimbra ,86750,-,Fausto LourenÃ§o,08/09,Bulgaria,19214,Lok. Mezdra 
+"Jun 30, 2008",End of loan,Portugal,4747,Anadia ,86750,-,Fausto LourenÃ§o,07/08,Portugal,2990,Coimbra 
+"Jul 1, 2007",Loan,Portugal,2990,Coimbra ,86750,-,Fausto LourenÃ§o,07/08,Portugal,4747,Anadia 
+"Jun 30, 2007",End of loan,Portugal,6156,Tourizense ,86750,-,Fausto LourenÃ§o,06/07,Portugal,2990,Coimbra 
+"Jul 1, 2006",Loan,Portugal,2990,Coimbra ,86750,-,Fausto LourenÃ§o,06/07,Portugal,6156,Tourizense 
+"Jul 1, 2005",?,Portugal,9844,FC Porto U19 ,86750,-,Fausto LourenÃ§o,05/06,Portugal,2990,Coimbra 
+"Jul 1, 2004",-,Portugal,47962,Dragon Force ,86750,-,Fausto LourenÃ§o,04/05,Portugal,9844,FC Porto U19 
+"Jan 18, 2016","12,00 Mill. €",Germany,82,VfL Wolfsburg ,65255,"3,00 Mill. €",Timm Klose,15/16,England,1123,Norwich 
+"Jul 1, 2013","6,00 Mill. €",Germany,4,1.FC Nuremberg ,65255,"5,50 Mill. €",Timm Klose,13/14,Germany,82,VfL Wolfsburg 
+"Jul 1, 2011",400 Th. €,Switzerland,938,FC Thun ,65255,800 Th. €,Timm Klose,11/12,Germany,4,1.FC Nuremberg 
+"Jul 1, 2009",?,Switzerland,5299,FC Basel U21 ,65255,-,Timm Klose,09/10,Switzerland,938,FC Thun 
+"Jul 1, 2007",?,Switzerland,2016,BSC Old Boys ,65255,-,Timm Klose,07/08,Switzerland,5299,FC Basel U21 
+"Jul 1, 2006",-,Switzerland,24775,Old Boys Jugend ,65255,-,Timm Klose,06/07,Switzerland,2016,BSC Old Boys 
+"Jul 1, 2004",-,Switzerland,42366,FC Basel Jgd. ,65255,-,Timm Klose,04/05,Switzerland,24775,Old Boys Jugend 
+"Jul 1, 2014",-,Switzerland,5495,Mendrisio ,154350,100 Th. €,Branko Bankovic,14/15,Switzerland,2047,AC Bellinzona 
+"Mar 1, 2014",Free transfer,Switzerland,2047,AC Bellinzona ,154350,100 Th. €,Branko Bankovic,13/14,Switzerland,5495,Mendrisio 
+"Jul 1, 2010",-,Switzerland,15596,Team Ticino U18 ,154350,-,Branko Bankovic,10/11,Switzerland,2047,AC Bellinzona 
+"Jan 30, 2016",Free transfer,Switzerland,260,FC Zürich ,61682,500 Th. €,Amine Chermiti,15/16,France,3558,G. Ajaccio 
+"Jul 1, 2010",Free transfer,Germany,44,Hertha BSC ,61682,"1,60 Mill. €",Amine Chermiti,10/11,Switzerland,260,FC Zürich 
+"Jun 30, 2010",End of loan,Saudi Arabia,8023,Ittihad ,61682,"1,60 Mill. €",Amine Chermiti,09/10,Germany,44,Hertha BSC 
+"Aug 12, 2009",Loan fee:900 Th. €,Germany,44,Hertha BSC ,61682,"2,00 Mill. €",Amine Chermiti,09/10,Saudi Arabia,8023,Ittihad 
+"Aug 6, 2008","2,20 Mill. €",Tunisia,250,ES Sahel ,61682,"2,00 Mill. €",Amine Chermiti,08/09,Germany,44,Hertha BSC 
+"Aug 4, 2006",60 Th. €,Tunisia,17534,JS Kairouan ,61682,-,Amine Chermiti,06/07,Tunisia,250,ES Sahel 
+"May 16, 2013",-,Switzerland,260,FC Zürich ,5367,750 Th. €,Mathieu Béda,12/13,,515,Unattached 
+"Jan 1, 2011",Free transfer,Germany,72,1860 Munich ,5367,300 Th. €,Mathieu Béda,10/11,Switzerland,260,FC Zürich 
+"Jul 1, 2008",Free transfer,Germany,2,1.FC K'lautern ,5367,"1,00 Mill. €",Mathieu Béda,08/09,Germany,72,1860 Munich 
+"Jan 1, 2006",500 Th. €,Belgium,3057,Standard Liège ,5367,"1,00 Mill. €",Mathieu Béda,05/06,Germany,2,1.FC K'lautern 
+"Jul 1, 2005",Free transfer,Belgium,475,Sint-Truiden ,5367,700 Th. €,Mathieu Béda,05/06,Belgium,3057,Standard Liège 
+"Jul 1, 2004",?,France,40,G. Bordeaux ,5367,-,Mathieu Béda,04/05,Belgium,475,Sint-Truiden 
+"Jun 30, 2002",End of loan,France,1159,AS Nancy ,5367,-,Mathieu Béda,01/02,France,40,G. Bordeaux 
+"Jul 1, 2001",Loan,France,40,G. Bordeaux ,5367,-,Mathieu Béda,01/02,France,1159,AS Nancy 
+"Jul 1, 1999",450 Th. €,France,895,Cannes ,5367,-,Mathieu Béda,99/00,France,40,G. Bordeaux 
+"Jul 1, 1998",-,France,12802,AS Cannes U19 ,5367,-,Mathieu Béda,98/99,France,895,Cannes 
+"Jul 1, 2015",Free transfer,Switzerland,504,Grasshoppers ,66005,"2,25 Mill. €",Amir Abrashi,15/16,Germany,60,SC Freiburg 
+"Jul 1, 2011",150 Th. €,Switzerland,242,FC Winterthur ,66005,600 Th. €,Amir Abrashi,11/12,Switzerland,504,Grasshoppers 
+"Jun 30, 2011",End of loan,Switzerland,504,Grasshoppers ,66005,600 Th. €,Amir Abrashi,10/11,Switzerland,242,FC Winterthur 
+"Jul 1, 2010",Loan,Switzerland,242,FC Winterthur ,66005,250 Th. €,Amir Abrashi,10/11,Switzerland,504,Grasshoppers 
+"Jul 1, 2008",-,Switzerland,14156,Winterthur U21 ,66005,-,Amir Abrashi,08/09,Switzerland,242,FC Winterthur 
+"Jul 1, 2007",-,Switzerland,14536,Winterthur U18 ,66005,-,Amir Abrashi,07/08,Switzerland,14156,Winterthur U21 
+"Jul 1, 2006",-,Switzerland,20939,Winterthur Jgd. ,66005,-,Amir Abrashi,06/07,Switzerland,14536,Winterthur U18 
+"Aug 1, 2005",Free transfer,Switzerland,49162,Bischofsz. Jgd. ,66005,-,Amir Abrashi,05/06,Switzerland,20939,Winterthur Jgd. 
+"Jul 1, 2005",Free transfer,Switzerland,49163,Weinf.-B. Jgd. ,66005,-,Amir Abrashi,05/06,Switzerland,49162,Bischofsz. Jgd. 
+"Jul 1, 2003",Free transfer,Switzerland,49162,Bischofsz. Jgd. ,66005,-,Amir Abrashi,03/04,Switzerland,49163,Weinf.-B. Jgd. 
+"Jul 1, 2014",Free transfer,Serbia,159,Red Star ,19716,800 Th. €,Dragan Mrdja,14/15,Japan,7452,Omiya Ardija 
+"Aug 13, 2013",Free transfer,Switzerland,321,FC Sion ,19716,"1,50 Mill. €",Dragan Mrdja,13/14,Serbia,159,Red Star 
+"Aug 1, 2010",600 Th. €,Serbia,448,Vojvodina ,19716,"2,75 Mill. €",Dragan Mrdja,10/11,Switzerland,321,FC Sion 
+"Aug 1, 2008",?,Russia,3719,Khimki ,19716,700 Th. €,Dragan Mrdja,08/09,Serbia,448,Vojvodina 
+"Jul 1, 2007",425 Th. €,Belgium,204,Lierse SK ,19716,750 Th. €,Dragan Mrdja,07/08,Russia,3719,Khimki 
+"Dec 31, 2006",End of loan,Belgium,3508,Zulte Waregem ,19716,750 Th. €,Dragan Mrdja,06/07,Belgium,204,Lierse SK 
+"Jul 1, 2006",Loan,Belgium,204,Lierse SK ,19716,400 Th. €,Dragan Mrdja,06/07,Belgium,3508,Zulte Waregem 
+"Jan 1, 2006",200 Th. €,Serbia,159,Red Star ,19716,400 Th. €,Dragan Mrdja,05/06,Belgium,204,Lierse SK 
+"Jul 1, 2001",-,Serbia,11137,Red Star U19 ,19716,-,Dragan Mrdja,01/02,Serbia,159,Red Star 
+"Jan 5, 2015",Free transfer,Switzerland,515,Unattached ,45829,600 Th. €,Tomislav Puljic,14/15,,434,FC Luzern 
+"Jul 1, 2014",-,Switzerland,434,FC Luzern ,45829,600 Th. €,Tomislav Puljic,14/15,,515,Unattached 
+"Jul 1, 2010",Free transfer,Croatia,11194,NK Lokomotiva ,45829,400 Th. €,Tomislav Puljic,10/11,Switzerland,434,FC Luzern 
+"Jul 1, 2009",Free transfer,Croatia,552,Segesta Sisak ,45829,-,Tomislav Puljic,09/10,Croatia,11194,NK Lokomotiva 
+"Jul 1, 2008",Free transfer,Croatia,5111,Croatia Sesvete ,45829,-,Tomislav Puljic,08/09,Croatia,552,Segesta Sisak 
+"Jul 1, 2006",?,Austria,7695,Vöcklabruck ,45829,-,Tomislav Puljic,06/07,Croatia,5111,Croatia Sesvete 
+"Jan 1, 2006",?,Croatia,12109,NK Lucko ,45829,-,Tomislav Puljic,05/06,Austria,7695,Vöcklabruck 
+"Jul 1, 2005",?,Croatia,41637,NK Arbanasi ,45829,-,Tomislav Puljic,05/06,Croatia,12109,NK Lucko 
+"Jul 1, 2004",?,Croatia,11956,NK Velebit Benkovac ,45829,-,Tomislav Puljic,04/05,Croatia,41637,NK Arbanasi 
+"Jul 1, 2009",?,Switzerland,5299,FC Basel U21 ,65287,-,Nicolas Schindelholz,09/10,Switzerland,938,FC Thun 
+"Jul 1, 2015",Free transfer,Switzerland,260,FC Zürich ,107784,100 Th. €,Maurice Brunner,15/16,Switzerland,2155,FC Biel-Bienne 
+"Dec 31, 2012",End of loan,Switzerland,242,FC Winterthur ,107784,100 Th. €,Maurice Brunner,12/13,Switzerland,260,FC Zürich 
+"Sep 21, 2012",Loan,Switzerland,260,FC Zürich ,107784,100 Th. €,Maurice Brunner,12/13,Switzerland,242,FC Winterthur 
+"Jul 1, 2011",-,Switzerland,5501,FC Zürich U21 ,107784,50 Th. €,Maurice Brunner,11/12,Switzerland,260,FC Zürich 
+"Jan 1, 2016",-,Romania,13499,Astra Giurgiu ,66313,400 Th. €,Fwayo Tembo,15/16,,515,Unattached 
+"Oct 1, 2015",-,Romania,515,Unattached ,66313,650 Th. €,Fwayo Tembo,15/16,,13499,Astra Giurgiu 
+"Jul 23, 2015",-,Romania,13499,Astra Giurgiu ,66313,650 Th. €,Fwayo Tembo,15/16,,515,Unattached 
+"Feb 11, 2015",-,Romania,14572,Astra Giur. II ,66313,300 Th. €,Fwayo Tembo,14/15,Romania,13499,Astra Giurgiu 
+"Aug 26, 2013",-,Romania,13499,Astra Giurgiu ,66313,"1,00 Mill. €",Fwayo Tembo,13/14,Romania,14572,Astra Giur. II 
+"Jul 1, 2012",Free transfer,Switzerland,26,FC Basel ,66313,500 Th. €,Fwayo Tembo,12/13,Romania,13499,Astra Ploiesti 
+"Jun 30, 2012",End of loan,Tunisia,250,ES Sahel ,66313,500 Th. €,Fwayo Tembo,11/12,Switzerland,26,FC Basel 
+"Jan 1, 2012",Loan,Switzerland,26,FC Basel ,66313,500 Th. €,Fwayo Tembo,11/12,Tunisia,250,ES Sahel 
+"Jul 1, 2010",900 Th. €,Tunisia,250,ES Sahel ,66313,900 Th. €,Fwayo Tembo,10/11,Switzerland,26,FC Basel 
+"Jul 1, 2007",Free transfer,Zambia,32223,Nat. Assembly ,66313,-,Fwayo Tembo,07/08,Tunisia,250,ES Sahel 
+"Sep 7, 2015",?,Switzerland,515,Unattached ,19210,250 Th. €,Muhamed Demiri,15/16,,2016,BSC Old Boys 
+"Jul 1, 2015",-,Switzerland,257,FC St. Gallen ,19210,250 Th. €,Muhamed Demiri,15/16,,515,Unattached 
+"Jul 1, 2013",Free transfer,Switzerland,938,FC Thun ,19210,600 Th. €,Muhamed Demiri,13/14,Switzerland,257,FC St. Gallen 
+"Sep 1, 2009",Free transfer,Switzerland,2058,Concordia ,19210,150 Th. €,Muhamed Demiri,09/10,Switzerland,938,FC Thun 
+"Jul 1, 2004",-,Switzerland,14404,Concordia II ,19210,-,Muhamed Demiri,04/05,Switzerland,2058,Concordia 
+"Jul 15, 2014",?,Switzerland,1288,Team Fribourg ,155406,50 Th. â‚¬,Maxime Brenet,14/15,Switzerland,12424,Le Mont LS 
+"Jul 1, 2013",?,Switzerland,5498,FC SerriÃ¨res ,155406,50 Th. â‚¬,Maxime Brenet,13/14,Switzerland,1288,Team Fribourg 
+"Jan 1, 2012",Free transfer,Switzerland,625,NeuchÃ¢tel Xamax ,155406,50 Th. â‚¬,Maxime Brenet,11/12,Switzerland,5498,FC SerriÃ¨res 
+"Aug 20, 2014",Free transfer,Tunisia,819,Club Africain ,66319,800 Th. €,Ammar Jemal,14/15,Tunisia,250,ES Sahel 
+"Jun 30, 2014",End of loan,Saudi Arabia,27221,Fateh ,66319,800 Th. €,Ammar Jemal,13/14,Tunisia,819,Club Africain 
+"Sep 4, 2013",Loan,Tunisia,819,Club Africain ,66319,800 Th. €,Ammar Jemal,13/14,Saudi Arabia,27221,Fateh 
+"Jan 1, 2013",166 Th. €,Switzerland,452,BSC Young Boys ,66319,"1,50 Mill. €",Ammar Jemal,12/13,Tunisia,819,Club Africain 
+"Dec 31, 2012",End of loan,France,1147,Ajaccio ,66319,"1,50 Mill. €",Ammar Jemal,12/13,Switzerland,452,BSC Young Boys 
+"Aug 28, 2012",Loan,Switzerland,452,BSC Young Boys ,66319,"1,50 Mill. €",Ammar Jemal,12/13,France,1147,Ajaccio 
+"Jun 30, 2012",End of loan,Germany,3,1. FC Köln ,66319,"1,50 Mill. €",Ammar Jemal,11/12,Switzerland,452,BSC Young Boys 
+"Aug 30, 2011",Loan fee:300 Th. €,Switzerland,452,BSC Young Boys ,66319,"1,50 Mill. €",Ammar Jemal,11/12,Germany,3,1. FC Köln 
+"Jul 1, 2010","1,00 Mill. €",Tunisia,250,ES Sahel ,66319,"2,00 Mill. €",Ammar Jemal,10/11,Switzerland,452,BSC Young Boys 
+"Jul 1, 2006",-,Tunisia,31612,Etoile Sportive du Sahel U23 ,66319,-,Ammar Jemal,06/07,Tunisia,250,ES Sahel 
+"Jan 19, 2016","1,50 Mill. €",Switzerland,434,FC Luzern ,148252,"2,00 Mill. €",Remo Freuler,15/16,Italy,800,Atalanta 
+"Feb 18, 2014",?,Switzerland,242,FC Winterthur ,148252,450 Th. €,Remo Freuler,13/14,Switzerland,434,FC Luzern 
+"Jul 1, 2013",?,Switzerland,504,Grasshoppers ,148252,250 Th. €,Remo Freuler,13/14,Switzerland,242,FC Winterthur 
+"Jun 30, 2013",End of loan,Switzerland,242,FC Winterthur ,148252,250 Th. €,Remo Freuler,12/13,Switzerland,504,Grasshoppers 
+"Feb 1, 2012",Loan,Switzerland,504,Grasshoppers ,148252,50 Th. €,Remo Freuler,11/12,Switzerland,242,FC Winterthur 
+"Jul 1, 2011",-,Switzerland,5502,GC U21 ,148252,50 Th. €,Remo Freuler,11/12,Switzerland,504,Grasshoppers 
+"Jul 1, 2010",?,Switzerland,14156,Winterthur U21 ,148252,50 Th. €,Remo Freuler,10/11,Switzerland,5502,GC U21 
+"Jul 1, 2009",-,Switzerland,14536,Winterthur U18 ,148252,-,Remo Freuler,09/10,Switzerland,14156,Winterthur U21 
+"Jul 1, 2007",-,Switzerland,20939,Winterthur Jgd. ,148252,-,Remo Freuler,07/08,Switzerland,14536,Winterthur U18 
+"Jul 1, 2013",-,Italy,10118,Sorrento ,6429,50 Th. €,Axel Konan,13/14,,515,Unattached 
+"Feb 5, 2013",-,Italy,515,Unattached ,6429,400 Th. €,Axel Konan,12/13,,10118,Sorrento 
+"Jul 1, 2011",-,Switzerland,2047,AC Bellinzona ,6429,400 Th. €,Axel Konan,11/12,,515,Unattached 
+"Nov 1, 2010",-,Switzerland,515,Unattached ,6429,750 Th. €,Axel Konan,10/11,,2047,AC Bellinzona 
+"Jul 1, 2009",-,Italy,1005,Lecce ,6429,900 Th. €,Axel Konan,09/10,,515,Unattached 
+"Jun 30, 2007",End of loan,Italy,416,Torino ,6429,"1,00 Mill. €",Axel Konan,06/07,Italy,1005,Lecce 
+"Aug 1, 2006",Loan,Italy,1005,Lecce ,6429,"1,20 Mill. €",Axel Konan,06/07,Italy,416,Torino 
+"Jul 1, 1999",-,Italy,5618,Lecce U20 ,6429,-,Axel Konan,99/00,Italy,1005,Lecce 
+"Aug 12, 2013",-,Finland,515,Unattached ,25377,75 Th. €,Ville Taulo,13/14,,20924,HIFK 
+"Jan 1, 2013",-,Norway,6390,Alta IF ,25377,75 Th. €,Ville Taulo,12/13,,515,Unattached 
+"Aug 1, 2012",Free transfer,Italy,4093,Taranto ,25377,75 Th. €,Ville Taulo,12/13,Norway,6390,Alta IF 
+"Jun 30, 2012",End of loan,Finland,2925,FC Lahti ,25377,75 Th. €,Ville Taulo,11/12,Italy,4093,Taranto 
+"Mar 1, 2012",Loan,Italy,4093,Taranto ,25377,75 Th. €,Ville Taulo,11/12,Finland,2925,FC Lahti 
+"Jun 30, 2011",End of loan,Switzerland,2047,AC Bellinzona ,25377,100 Th. €,Ville Taulo,10/11,Italy,4093,Taranto 
+"Jan 1, 2011",Loan,Italy,4093,Taranto ,25377,100 Th. €,Ville Taulo,10/11,Switzerland,2047,AC Bellinzona 
+"Jan 1, 2010",Free transfer,Finland,1008,HJK Helsinki ,25377,300 Th. €,Ville Taulo,09/10,Italy,4093,Taranto 
+"Jan 1, 2008",?,Finland,2925,FC Lahti ,25377,100 Th. €,Ville Taulo,07/08,Finland,1008,HJK Helsinki 
+"Jun 30, 2015",End of loan,Switzerland,2790,FC Lugano ,165511,250 Th. €,Leandro Di Gregorio,14/15,Switzerland,260,FC Zürich 
+"Mar 24, 2014",Loan,Switzerland,260,FC Zürich ,165511,50 Th. €,Leandro Di Gregorio,13/14,Switzerland,2790,FC Lugano 
+"Jul 1, 2013",-,Switzerland,5501,FC Zürich U21 ,165511,50 Th. €,Leandro Di Gregorio,13/14,Switzerland,260,FC Zürich 
+"Jul 1, 2010",-,Switzerland,14537,FC Zürich U18 ,165511,-,Leandro Di Gregorio,10/11,Switzerland,5501,FC Zürich U21 
+"Feb 18, 2013",End of loan,Switzerland,2155,FC Biel-Bienne ,109357,50 Th. €,Michael Siegfried,12/13,Switzerland,938,FC Thun 
+"Jul 1, 2012",Loan,Switzerland,938,FC Thun ,109357,50 Th. €,Michael Siegfried,12/13,Switzerland,2155,FC Biel-Bienne 
+"Jul 1, 2010",-,Switzerland,10400,Thun U21 ,109357,50 Th. €,Michael Siegfried,10/11,Switzerland,938,FC Thun 
+"Jun 30, 2010",End of loan,Switzerland,17574,FC Breitenrain ,109357,50 Th. €,Michael Siegfried,09/10,Switzerland,10400,Thun U21 
+"Jul 1, 2009",Loan,Switzerland,10400,Thun U21 ,109357,50 Th. €,Michael Siegfried,09/10,Switzerland,17574,FC Breitenrain 
+"Feb 1, 2016",Free transfer,Germany,127,SC Paderborn ,31535,700 Th. €,Nick Proschwitz,15/16,Belgium,475,Sint-Truiden 
+"Jul 1, 2015",Free transfer,England,1148,Brentford ,31535,700 Th. €,Nick Proschwitz,15/16,Germany,127,SC Paderborn 
+"May 31, 2015",End of loan,England,990,Coventry City ,31535,750 Th. €,Nick Proschwitz,14/15,England,1148,Brentford 
+"Feb 27, 2015",Loan,England,1148,Brentford ,31535,750 Th. €,Nick Proschwitz,14/15,England,990,Coventry City 
+"Aug 7, 2014",Free transfer,England,3008,Hull City ,31535,"1,00 Mill. €",Nick Proschwitz,14/15,England,1148,Brentford 
+"May 31, 2014",End of loan,England,349,Barnsley FC ,31535,"1,00 Mill. €",Nick Proschwitz,13/14,England,3008,Hull City 
+"Jan 23, 2014",Loan,England,3008,Hull City ,31535,"1,00 Mill. €",Nick Proschwitz,13/14,England,349,Barnsley FC 
+"Jul 18, 2012","3,30 Mill. €",Germany,127,SC Paderborn ,31535,"1,50 Mill. €",Nick Proschwitz,12/13,England,3008,Hull City 
+"Jul 1, 2011","1,00 Mill. €",Switzerland,938,FC Thun ,31535,600 Th. €,Nick Proschwitz,11/12,Germany,127,SC Paderborn 
+"Jul 1, 2010",Free transfer,Switzerland,163,FC Vaduz ,31535,400 Th. €,Nick Proschwitz,10/11,Switzerland,938,FC Thun 
+"Jul 1, 2009",Free transfer,Germany,1065,Hannover 96 II ,31535,150 Th. €,Nick Proschwitz,09/10,Switzerland,163,FC Vaduz 
+"Jul 1, 2008",Free transfer,Germany,143,Wolfsburg II ,31535,100 Th. €,Nick Proschwitz,08/09,Germany,1065,Hannover 96 II 
+"Jan 1, 2007",Free transfer,Germany,389,Hamburger SV II ,31535,50 Th. €,Nick Proschwitz,06/07,Germany,143,Wolfsburg II 
+"Jul 1, 2005",Free transfer,Germany,8925,Hoffenheim U19 ,31535,-,Nick Proschwitz,05/06,Germany,389,Hamburger SV II 
+"Jul 1, 2004",Free transfer,Germany,2612,Gr. Fürth U19 ,31535,-,Nick Proschwitz,04/05,Germany,8925,Hoffenheim U19 
+"Jun 30, 2016",End of loan,Switzerland,116,FC Aarau ,61150,250 Th. €,Steven Deana,15/16,Switzerland,321,FC Sion 
+"Jul 1, 2015",Loan,Switzerland,321,FC Sion ,61150,250 Th. €,Steven Deana,15/16,Switzerland,116,FC Aarau 
+"Jul 1, 2010",?,Switzerland,163,FC Vaduz ,61150,100 Th. €,Steven Deana,10/11,Switzerland,321,FC Sion 
+"Jul 1, 2009",Free transfer,Switzerland,5502,GC U21 ,61150,-,Steven Deana,09/10,Switzerland,163,FC Vaduz 
+"Jul 1, 2007",-,Switzerland,14543,GC Zürich U18 ,61150,-,Steven Deana,07/08,Switzerland,5502,GC U21 
+"Jul 1, 2005",Free transfer,Switzerland,20939,Winterthur Jgd. ,61150,-,Steven Deana,05/06,Switzerland,14543,GC Zürich U18 
+"Jul 1, 2016",Free transfer,Switzerland,2155,FC Biel-Bienne ,111420,300 Th. €,Janick Kamber,16/17,Switzerland,1978,FC Wohlen 
+"Nov 28, 2013",-,Switzerland,515,Unattached ,111420,200 Th. €,Janick Kamber,13/14,,2155,FC Biel-Bienne 
+"Jul 1, 2013",Free transfer,Switzerland,527,Lausanne-Sport ,111420,200 Th. €,Janick Kamber,13/14,,515,Unattached 
+"Jul 1, 2011",Free transfer,Switzerland,5299,FC Basel U21 ,111420,50 Th. €,Janick Kamber,11/12,Switzerland,527,Lausanne-Sport 
+"Jul 1, 2009",-,Switzerland,14322,FC Basel U18 ,111420,-,Janick Kamber,09/10,Switzerland,5299,FC Basel U21 
+"Sep 1, 2012",-,Switzerland,515,Unattached ,111423,-,Joel Kiassumbua,12/13,,1978,FC Wohlen 
+"Jan 1, 2012",-,Switzerland,8463,Rapperswil-Jona ,111423,-,Joel Kiassumbua,11/12,,515,Unattached 
+"Aug 1, 2011",?,Switzerland,5494,Luzern U21 ,111423,50 Th. €,Joel Kiassumbua,11/12,Switzerland,8463,Rapperswil-Jona 
+"Jun 30, 2011",End of loan,Switzerland,2074,SC Kriens ,111423,50 Th. €,Joel Kiassumbua,10/11,Switzerland,5494,Luzern U21 
+"Jan 1, 2011",Loan,Switzerland,5494,Luzern U21 ,111423,-,Joel Kiassumbua,10/11,Switzerland,2074,SC Kriens 
+"Jul 1, 2010",-,Switzerland,14332,FCL U18 ,111423,-,Joel Kiassumbua,10/11,Switzerland,5494,Luzern U21 
+"Jul 1, 2015",Free transfer,Switzerland,504,Grasshoppers ,4416,350 Th. €,Michael Dingsdag,15/16,Netherlands,132,NAC Breda 
+"Oct 18, 2013",-,Switzerland,515,Unattached ,4416,500 Th. €,Michael Dingsdag,13/14,,504,Grasshoppers 
+"Jul 1, 2013",-,Switzerland,321,FC Sion ,4416,"1,00 Mill. €",Michael Dingsdag,13/14,,515,Unattached 
+"Jul 1, 2010",Free transfer,Netherlands,306,SC Heerenveen ,4416,"1,75 Mill. €",Michael Dingsdag,10/11,Switzerland,321,FC Sion 
+"Jul 1, 2006",?,Netherlands,499,Vitesse ,4416,"2,80 Mill. €",Michael Dingsdag,06/07,Netherlands,306,SC Heerenveen 
+"Jul 1, 2001",-,Netherlands,7465,Vitesse U19 ,4416,-,Michael Dingsdag,01/02,Netherlands,499,Vitesse 
+"Jul 1, 1999",?,Netherlands,8689,DWS ,4416,-,Michael Dingsdag,99/00,Netherlands,7465,Vitesse U19 
+"Dec 1, 2014",-,Brazil,1755,Guarani ,123208,-,Silas,14/15,,515,Unattached 
+"Apr 20, 2014",Free transfer,Brazil,3297,Capivariano FC ,123208,-,Silas,13/14,Brazil,1755,Guarani 
+"Jan 1, 2014",Free transfer,Brazil,28022,CuiabÃ¡-MT ,123208,-,Silas,13/14,Brazil,3297,Capivariano FC 
+"May 1, 2013",Free transfer,Brazil,3297,Capivariano FC ,123208,-,Silas,12/13,Brazil,28022,CuiabÃ¡-MT 
+"Jan 1, 2013",Free transfer,Brazil,3973,Brasiliense FC ,123208,-,Silas,12/13,Brazil,3297,Capivariano FC 
+"May 1, 2012",Free transfer,Brazil,3297,Capivariano FC ,123208,-,Silas,11/12,Brazil,3973,Brasiliense FC 
+"Jan 1, 2012",Free transfer,Brazil,1753,Campinense ,123208,-,Silas,11/12,Brazil,3297,Capivariano FC 
+"Jun 1, 2011",Free transfer,Brazil,2646,NÃ¡utico ,123208,-,Silas,10/11,Brazil,1753,Campinense 
+"Jan 1, 2011",Free transfer,Switzerland,504,Grasshoppers ,123208,150 Th. â‚¬,Silas,10/11,Brazil,2646,NÃ¡utico 
+"Jul 1, 2010",?,Portugal,3348,Trofense ,123208,150 Th. â‚¬,Silas,10/11,Switzerland,504,Grasshoppers 
+"Jun 30, 2009",End of loan,Portugal,6144,RibeirÃ£o ,123208,-,Silas,08/09,Portugal,3348,Trofense 
+"Jan 1, 2009",Loan,Portugal,3348,Trofense ,123208,-,Silas,08/09,Portugal,6144,RibeirÃ£o 
+"Dec 1, 2008",?,Brazil,24767,Vera Cruz-PE ,123208,-,Silas,08/09,Portugal,3348,Trofense 
+"Jul 1, 2015",Free transfer,Switzerland,527,Lausanne-Sport ,88401,250 Th. €,Yacoub Meité,15/16,Switzerland,12424,Le Mont LS 
+"Jul 1, 2014",Free transfer,France,895,Cannes ,88401,200 Th. €,Yacoub Meité,14/15,Switzerland,527,Lausanne-Sport 
+"Aug 18, 2013",Free transfer,France,3161,FC Tours ,88401,200 Th. €,Yacoub Meité,13/14,France,895,Cannes 
+"Aug 10, 2011",Free transfer,Switzerland,321,FC Sion ,88401,50 Th. €,Yacoub Meité,11/12,France,3161,FC Tours 
+"Jul 1, 2010",-,Switzerland,8508,FC Sion U21 ,88401,-,Yacoub Meité,10/11,Switzerland,321,FC Sion 
+"Jul 1, 2008",Free transfer,France,11199,Racing Straßburg U19 ,88401,-,Yacoub Meité,08/09,Switzerland,8508,FC Sion U21 
+"Feb 17, 2015",?,Switzerland,321,FC Sion ,88404,150 Th. €,Steve Rouiller,14/15,Switzerland,510,FC Chiasso 
+"Jul 31, 2014",Free transfer,Switzerland,22011,FC Monthey ,88404,50 Th. €,Steve Rouiller,14/15,Switzerland,321,FC Sion 
+"Jul 1, 2011",Free transfer,Switzerland,8508,FC Sion U21 ,88404,50 Th. €,Steve Rouiller,11/12,Switzerland,22011,FC Monthey 
+"Jul 1, 2008",?,Switzerland,75,Unknown ,88404,-,Steve Rouiller,08/09,,8508,FC Sion U21 
+"Jul 1, 2014",-,Netherlands,642,De Graafschap ,12117,150 Th. €,Tim Bakens,14/15,,123,End of career 
+"Jul 23, 2013",Free transfer,Netherlands,133,SC Cambuur ,12117,150 Th. €,Tim Bakens,13/14,Netherlands,642,De Graafschap 
+"Jul 16, 2012",Free transfer,Switzerland,257,FC St. Gallen ,12117,75 Th. €,Tim Bakens,12/13,Netherlands,133,SC Cambuur 
+"Jul 1, 2010",Free transfer,Netherlands,724,FC Volendam ,12117,400 Th. €,Tim Bakens,10/11,Switzerland,257,FC St. Gallen 
+"Jan 1, 2010",-,Netherlands,468,Sparta R. ,12117,450 Th. €,Tim Bakens,09/10,Netherlands,724,FC Volendam 
+"Jul 1, 2009",Free transfer,Netherlands,724,FC Volendam ,12117,450 Th. €,Tim Bakens,09/10,Netherlands,468,Sparta R. 
+"Jul 1, 2008",Free transfer,Netherlands,235,RKC Waalwijk ,12117,250 Th. €,Tim Bakens,08/09,Netherlands,724,FC Volendam 
+"Jul 1, 2005",Free transfer,Netherlands,642,De Graafschap ,12117,250 Th. €,Tim Bakens,05/06,Netherlands,235,RKC Waalwijk 
+"Jul 1, 2001",-,Netherlands,14348,Graafschap U19 ,12117,-,Tim Bakens,01/02,Netherlands,642,De Graafschap 
+"Jul 1, 2015",Free transfer,Germany,83,VfR Aalen ,16726,500 Th. €,Markus Steinhöfer,15/16,Czech Republic,197,Sparta Praha 
+"Feb 2, 2015",Free transfer,Germany,72,1860 Munich ,16726,400 Th. €,Markus Steinhöfer,14/15,Germany,83,VfR Aalen 
+"Jan 18, 2014",80 Th. €,Spain,150,Real Betis ,16726,"1,00 Mill. €",Markus Steinhöfer,13/14,Germany,72,1860 Munich 
+"Jul 15, 2013",Free transfer,Switzerland,26,FC Basel ,16726,900 Th. €,Markus Steinhöfer,13/14,Spain,150,Real Betis 
+"Jan 26, 2011",100 Th. €,Germany,24,E. Frankfurt ,16726,750 Th. €,Markus Steinhöfer,10/11,Switzerland,26,FC Basel 
+"Jun 30, 2010",End of loan,Germany,2,1.FC K'lautern ,16726,"1,50 Mill. €",Markus Steinhöfer,09/10,Germany,24,E. Frankfurt 
+"Jan 1, 2010",Loan,Germany,24,E. Frankfurt ,16726,"2,75 Mill. €",Markus Steinhöfer,09/10,Germany,2,1.FC K'lautern 
+"Jul 1, 2008",,Germany,28,FC Bayern II ,16726,"1,00 Mill. €",Markus Steinhöfer,08/09,Germany,27,Bayern Munich  
+"Jul 1, 2008",900 Th. €,Germany,27,Bayern Munich  ,16726,"1,00 Mill. €",Markus Steinhöfer,08/09,Germany,24,E. Frankfurt 
+"Jun 30, 2008",End of loan,Austria,409,RB Salzburg ,16726,"1,00 Mill. €",Markus Steinhöfer,08/09,Germany,28,FC Bayern II 
+"Jul 1, 2006",Loan,Germany,28,FC Bayern II ,16726,200 Th. €,Markus Steinhöfer,06/07,Austria,409,RB Salzburg 
+"Jul 1, 2005",-,Germany,1462,FC Bayern U19 ,16726,200 Th. €,Markus Steinhöfer,05/06,Germany,28,FC Bayern II 
+"Jul 1, 2002",Free transfer,Germany,21049,Nürnberg U17 ,16726,-,Markus Steinhöfer,02/03,Germany,1462,FC Bayern U19 
+"Jun 30, 2016",End of loan,France,826,Lens ,71225,800 Th. €,Dusan Cvetinovic,15/16,Norway,2761,FK Haugesund 
+"Aug 3, 2015",Loan,Norway,2761,FK Haugesund ,71225,"1,20 Mill. €",Dusan Cvetinovic,15/16,France,826,Lens 
+"Jul 2, 2013",Free transfer,Switzerland,163,FC Vaduz ,71225,400 Th. €,Dusan Cvetinovic,13/14,Norway,2761,FK Haugesund 
+"Jul 1, 2011",?,Switzerland,1978,FC Wohlen ,71225,250 Th. €,Dusan Cvetinovic,11/12,Switzerland,163,FC Vaduz 
+"Jun 30, 2011",End of loan,Switzerland,504,Grasshoppers ,71225,250 Th. €,Dusan Cvetinovic,10/11,Switzerland,1978,FC Wohlen 
+"Jul 1, 2010",Loan,Switzerland,1978,FC Wohlen ,71225,250 Th. €,Dusan Cvetinovic,10/11,Switzerland,504,Grasshoppers 
+"Jan 1, 2009",?,Serbia,11043,Dinamo Vranje ,71225,-,Dusan Cvetinovic,08/09,Switzerland,1978,FC Wohlen 
+"Jul 1, 2008",?,Serbia,15072,OFK Beograd U19 ,71225,-,Dusan Cvetinovic,08/09,Serbia,11043,Dinamo Vranje 
+"Feb 19, 2014",?,Switzerland,5508,Young Boys U21 ,111453,350 Th. €,Matteo Tosetti,13/14,Switzerland,2790,FC Lugano 
+"Feb 19, 2014",End of loan,Switzerland,2790,FC Lugano ,111453,350 Th. €,Matteo Tosetti,13/14,Switzerland,5508,Young Boys U21 
+"Jul 1, 2013",Loan,Switzerland,5508,Young Boys U21 ,111453,350 Th. €,Matteo Tosetti,13/14,Switzerland,2790,FC Lugano 
+"Jun 30, 2013",End of loan,Switzerland,1978,FC Wohlen ,111453,350 Th. €,Matteo Tosetti,12/13,Switzerland,5508,Young Boys U21 
+"Jan 1, 2012",Loan,Switzerland,5508,Young Boys U21 ,111453,50 Th. €,Matteo Tosetti,11/12,Switzerland,1978,FC Wohlen 
+"Jul 1, 2010",?,Switzerland,2411,FC Locarno ,111453,50 Th. €,Matteo Tosetti,10/11,Switzerland,5508,Young Boys U21 
+"Jul 1, 2009",-,Switzerland,15596,Team Ticino U18 ,111453,50 Th. €,Matteo Tosetti,09/10,Switzerland,2411,FC Locarno 
+"Jul 1, 2008",-,Switzerland,8147,Team Ticino U16 ,111453,-,Matteo Tosetti,08/09,Switzerland,15596,Team Ticino U18 
+"Jul 1, 2016","45,00 Mill. €",Germany,18,Bor. M'gladbach ,111455,"35,00 Mill. €",Granit Xhaka,16/17,England,11,Arsenal 
+"Jul 1, 2012","18,00 Mill. €",Switzerland,26,FC Basel ,111455,"8,50 Mill. €",Granit Xhaka,12/13,Germany,18,Bor. M'gladbach 
+"Jul 1, 2010",-,Switzerland,5299,FC Basel U21 ,111455,-,Granit Xhaka,10/11,Switzerland,26,FC Basel 
+"Jul 1, 2008",-,Switzerland,14322,FC Basel U18 ,111455,-,Granit Xhaka,08/09,Switzerland,5299,FC Basel U21 
+"Jul 1, 2007",-,Switzerland,32336,FC Basel U16 ,111455,-,Granit Xhaka,07/08,Switzerland,14322,FC Basel U18 
+"Jul 31, 2015",End of loan,Switzerland,2155,FC Biel-Bienne ,165732,200 Th. €,Kevin Bigler,15/16,Switzerland,938,FC Thun 
+"Jul 1, 2015",Loan,Switzerland,938,FC Thun ,165732,200 Th. €,Kevin Bigler,15/16,Switzerland,2155,FC Biel-Bienne 
+"Oct 17, 2011",-,Switzerland,10400,Thun U21 ,165732,50 Th. €,Kevin Bigler,11/12,Switzerland,938,FC Thun 
+"Jan 1, 2011",Free transfer,Switzerland,10400,Thun U21 ,165733,-,Luca Cantanna,10/11,Switzerland,1126,FCI 
+"Jul 1, 2016",-,Switzerland,938,FC Thun ,91879,500 Th. €,Andreas Wittwer,16/17,,515,Unattached 
+"Jul 1, 2008",-,Switzerland,10400,Thun U21 ,91879,-,Andreas Wittwer,08/09,Switzerland,938,FC Thun 
+"Jul 1, 2007",?,Switzerland,14438,BSC YB U18 ,91879,-,Andreas Wittwer,07/08,Switzerland,10400,Thun U21 
+"Jun 6, 2016",-,Paraguay,515,Unattached ,165746,100 Th. €,Christ Mbondi,15/16,,28609,Capiatá 
+"Jan 1, 2016",-,Algeria,37160,JS Saoura ,165746,100 Th. €,Christ Mbondi,15/16,,515,Unattached 
+"Jul 27, 2015",?,Cameroon,43000,Grassland FC ,165746,-,Christ Mbondi,15/16,Algeria,37160,JS Saoura 
+"Jan 1, 2014",-,Switzerland,8508,FC Sion U21 ,165746,-,Christ Mbondi,13/14,Cameroon,43000,Grassland FC 
+"Dec 31, 2013",End of loan,Thailand,25444,Bangkok Glass ,165746,-,Christ Mbondi,13/14,Switzerland,8508,FC Sion U21 
+"Dec 30, 2013",End of loan,Thailand,25448,Khon Kaen FC ,165746,-,Christ Mbondi,13/14,Thailand,25444,Bangkok Glass 
+"Feb 8, 2013",Loan,Thailand,25444,Bangkok Glass ,165746,-,Christ Mbondi,12/13,Thailand,25448,Khon Kaen FC 
+"Jan 1, 2013",Loan,Switzerland,8508,FC Sion U21 ,165746,-,Christ Mbondi,12/13,Thailand,25444,Bangkok Glass 
+"Sep 1, 2010",?,Cameroon,18671,FC Bamenda ,165746,-,Christ Mbondi,10/11,Switzerland,8508,FC Sion U21 
+"Jan 1, 2016",Free transfer,Switzerland,5507,Stade Nyonnais ,69492,50 Th. â‚¬,Nabil Souni,15/16,Switzerland,36811,Azzurri LS 
+"Jul 1, 2015",-,Switzerland,515,Unattached ,69492,-,Nabil Souni,15/16,,5507,Stade Nyonnais 
+"Jan 16, 2015",-,Spain,12361,Marbella FC ,69492,-,Nabil Souni,14/15,,515,Unattached 
+"Jul 22, 2014",Free transfer,Spain,16487,Lucena CF ,69492,-,Nabil Souni,14/15,Spain,12361,Marbella FC 
+"Jul 1, 2012",?,Switzerland,8508,FC Sion U21 ,69492,50 Th. â‚¬,Nabil Souni,12/13,Spain,16487,Lucena CF 
+"Feb 1, 2012",Free transfer,Switzerland,9084,NE Xamax ,69492,50 Th. â‚¬,Nabil Souni,11/12,Switzerland,8508,FC Sion U21 
+"Jan 1, 2012",-,Switzerland,625,NeuchÃ¢tel Xamax ,69492,50 Th. â‚¬,Nabil Souni,11/12,Switzerland,9084,NE Xamax 
+"Jul 1, 2011",-,Switzerland,9084,NE Xamax ,69492,50 Th. â‚¬,Nabil Souni,11/12,Switzerland,625,NeuchÃ¢tel Xamax 
+"Jul 1, 2014",-,Austria,2394,SV Kapfenberg ,18293,100 Th. €,Klemen Lavric,14/15,,515,Unattached 
+"Oct 15, 2013",-,Austria,515,Unattached ,18293,150 Th. €,Klemen Lavric,13/14,,2394,SV Kapfenberg 
+"Jul 1, 2012",-,Germany,48,Karlsruher SC ,18293,300 Th. €,Klemen Lavric,12/13,,515,Unattached 
+"Jul 1, 2011",Free transfer,Switzerland,257,FC St. Gallen ,18293,300 Th. €,Klemen Lavric,11/12,Germany,48,Karlsruher SC 
+"Jan 31, 2011",-,Switzerland,515,Unattached ,18293,700 Th. €,Klemen Lavric,10/11,,257,FC St. Gallen 
+"Jul 1, 2010",-,Austria,122,Sturm Graz ,18293,700 Th. €,Klemen Lavric,10/11,,515,Unattached 
+"Aug 31, 2009",Free transfer,Japan,7452,Omiya Ardija ,18293,900 Th. €,Klemen Lavric,09/10,Austria,122,Sturm Graz 
+"Jul 1, 2008",Free transfer,Germany,52,MSV Duisburg ,18293,"1,00 Mill. €",Klemen Lavric,08/09,Japan,7452,Omiya Ardija 
+"Jul 1, 2005","1,00 Mill. €",Germany,129,Dynamo Dresden ,18293,700 Th. €,Klemen Lavric,05/06,Germany,52,MSV Duisburg 
+"Jul 1, 2004",60 Th. €,Croatia,918,Inter Zapresic ,18293,-,Klemen Lavric,04/05,Germany,129,Dynamo Dresden 
+"Jan 1, 2004",Free transfer,Croatia,447,Hajduk Split ,18293,-,Klemen Lavric,03/04,Croatia,918,Inter Zapresic 
+"Jul 1, 2003",Free transfer,Slovenia,789,Rudar Velenje ,18293,-,Klemen Lavric,03/04,Croatia,447,Hajduk Split 
+"Jul 1, 1998",?,Slovenia,21452,Trbovlje ,18293,-,Klemen Lavric,98/99,Slovenia,789,Rudar Velenje 
+"Jan 25, 2016",100 Th. €,Switzerland,163,FC Vaduz ,3391,750 Th. €,Markus Neumayr,15/16,Switzerland,434,FC Luzern 
+"Jul 1, 2013",Free transfer,Switzerland,2047,AC Bellinzona ,3391,275 Th. €,Markus Neumayr,13/14,Switzerland,163,FC Vaduz 
+"Jul 1, 2012",Free transfer,Switzerland,938,FC Thun ,3391,150 Th. €,Markus Neumayr,11/12,Switzerland,2047,AC Bellinzona 
+"Jan 27, 2011",Free transfer,Germany,110,W. Burghausen ,3391,100 Th. €,Markus Neumayr,10/11,Switzerland,938,FC Thun 
+"Jul 1, 2010",Free transfer,Germany,56,RW Essen ,3391,350 Th. €,Markus Neumayr,10/11,Germany,110,W. Burghausen 
+"Jan 1, 2009",Free transfer,Belgium,3508,Zulte Waregem ,3391,350 Th. €,Markus Neumayr,08/09,Germany,56,RW Essen 
+"Jul 1, 2008",Free transfer,Germany,52,MSV Duisburg ,3391,350 Th. €,Markus Neumayr,08/09,Belgium,3508,Zulte Waregem 
+"Jul 1, 2006",Free transfer,England,985,Manchester Utd. ,3391,500 Th. €,Markus Neumayr,06/07,Germany,52,MSV Duisburg 
+"Jul 1, 2005",-,England,9251,Man Utd U21 ,3391,500 Th. €,Markus Neumayr,05/06,England,985,Manchester Utd. 
+"Jul 1, 2004",-,England,5242,Man Utd U18 ,3391,-,Markus Neumayr,04/05,England,9251,Man Utd U21 
+"Jul 1, 2003",300 Th. €,Germany,21057,Frankfurt U17 ,3391,-,Markus Neumayr,03/04,England,5242,Man Utd U18 
+"Mar 1, 2013",-,Switzerland,527,Lausanne-Sport ,28543,-,Rodrigo,12/13,,123,End of career 
+"Jul 1, 2012",Free transfer,Switzerland,321,FC Sion ,28543,450 Th. €,Rodrigo,12/13,Switzerland,527,Lausanne-Sport 
+"Jul 1, 2010",Free transfer,France,667,R. Strasbourg ,28543,900 Th. €,Rodrigo,10/11,Switzerland,321,FC Sion 
+"Jul 1, 2009",Free transfer,Japan,937,Júbilo Iwata ,28543,800 Th. €,Rodrigo,09/10,France,667,R. Strasbourg 
+"Jul 1, 2008",?,France,1147,Ajaccio ,28543,"2,50 Mill. €",Rodrigo,08/09,Japan,937,Júbilo Iwata 
+"Jun 30, 2008",End of loan,France,667,R. Strasbourg ,28543,"2,50 Mill. €",Rodrigo,07/08,France,1147,Ajaccio 
+"Jul 1, 2007",Loan,France,1147,Ajaccio ,28543,"1,85 Mill. €",Rodrigo,07/08,France,667,R. Strasbourg 
+"Jul 1, 2003",?,Brazil,330,Atlético-MG ,28543,-,Rodrigo,03/04,France,1147,Ajaccio 
+"Jan 1, 2003",?,Greece,2441,AEK FC ,28543,-,Rodrigo,02/03,Brazil,330,Atlético-MG 
+"Jul 1, 2000",?,Brazil,1023,Palmeiras ,28543,-,Rodrigo,00/01,Greece,2441,AEK FC 
+"Jan 1, 1998",-,Brazil,14807,Palmeiras B ,28543,-,Rodrigo,97/98,Brazil,1023,Palmeiras 
+"Jul 1, 2012",-,Switzerland,8508,FC Sion U21 ,26501,400 Th. €,George Ogararu,12/13,,123,End of career 
+"Jan 1, 2012",-,Switzerland,321,FC Sion ,26501,400 Th. €,George Ogararu,11/12,Switzerland,8508,FC Sion U21 
+"Jul 1, 2010",Free transfer,Netherlands,610,AFC Ajax ,26501,"1,25 Mill. €",George Ogararu,10/11,Switzerland,321,FC Sion 
+"Jun 30, 2009",End of loan,Romania,301,Steaua ,26501,"1,80 Mill. €",George Ogararu,08/09,Netherlands,610,AFC Ajax 
+"Sep 1, 2008",Loan,Netherlands,610,AFC Ajax ,26501,"2,00 Mill. €",George Ogararu,08/09,Romania,301,Steaua 
+"Jul 1, 2006","3,00 Mill. €",Romania,301,Steaua ,26501,300 Th. €,George Ogararu,06/07,Netherlands,610,AFC Ajax 
+"Jul 1, 2002",200 Th. €,Romania,4959,Otelul Galati ,26501,-,George Ogararu,02/03,Romania,301,Steaua 
+"Jul 1, 2001",50 Th. €,Romania,4686,FCM Resita ,26501,-,George Ogararu,01/02,Romania,4959,Otelul Galati 
+"Jul 1, 2000",Free transfer,Romania,301,Steaua ,26501,-,George Ogararu,00/01,Romania,4686,FCM Resita 
+"Jul 1, 1998",-,Romania,13837,Steaua U19 ,26501,-,George Ogararu,98/99,Romania,301,Steaua 
+"Jan 1, 2015",?,Uzbekistan,31216,FK Olmaliq ,43405,400 Th. €,Chaker Zouaghi,14/15,Uzbekistan,19401,FC Bunyodkor 
+"Feb 1, 2014",-,Uzbekistan,515,Unattached ,43405,400 Th. €,Chaker Zouaghi,13/14,,31216,FK Olmaliq 
+"Jul 16, 2013",-,Tunisia,3342,Esperance ,43405,400 Th. €,Chaker Zouaghi,13/14,,515,Unattached 
+"Jul 30, 2012",Free transfer,Switzerland,260,FC Zürich ,43405,500 Th. €,Chaker Zouaghi,12/13,Tunisia,3342,Esperance 
+"Jul 1, 2010",175 Th. €,Tunisia,250,ES Sahel ,43405,400 Th. €,Chaker Zouaghi,10/11,Switzerland,260,FC Zürich 
+"Jan 1, 2009",Free transfer,Russia,11749,Lokomotiv Moscow II ,43405,400 Th. €,Chaker Zouaghi,08/09,Tunisia,250,ES Sahel 
+"Jan 16, 2006",750 Th. €,Tunisia,250,ES Sahel ,43405,-,Chaker Zouaghi,05/06,Russia,11749,Lokomotiv Moscow II 
+"Jul 1, 2004",-,Tunisia,17540,ESS U19 ,43405,-,Chaker Zouaghi,04/05,Tunisia,250,ES Sahel 
+"Jan 19, 2016",500 Th. €,Belgium,3057,Standard Liège ,59791,"1,50 Mill. €",Jorge Teixeira,15/16,England,358,Charlton 
+"Jul 1, 2014",Free transfer,Switzerland,260,FC Zürich ,59791,700 Th. €,Jorge Teixeira,14/15,Belgium,3057,Standard Liège 
+"Jun 30, 2013",End of loan,Italy,1387,AC Siena ,59791,700 Th. €,Jorge Teixeira,12/13,Switzerland,260,FC Zürich 
+"Jan 31, 2013",Loan,Switzerland,260,FC Zürich ,59791,800 Th. €,Jorge Teixeira,12/13,Italy,1387,AC Siena 
+"Jul 1, 2010","1,20 Mill. €",Israel,1064,Maccabi Haifa ,59791,"1,00 Mill. €",Jorge Teixeira,10/11,Switzerland,260,FC Zürich 
+"Jul 1, 2009",220 Th. €,Cyprus,18540,Geroskipou ,59791,-,Jorge Teixeira,09/10,Israel,1064,Maccabi Haifa 
+"Jul 1, 2008",Free transfer,Portugal,6987,Fátima ,59791,-,Jorge Teixeira,08/09,Cyprus,18540,Geroskipou 
+"Jul 1, 2007",?,Portugal,4535,Odivelas ,59791,-,Jorge Teixeira,07/08,Portugal,6987,Fátima 
+"Jul 1, 2006",?,Portugal,3268,Casa Pia ,59791,-,Jorge Teixeira,06/07,Portugal,4535,Odivelas 
+"Jul 1, 2005",-,Portugal,20205,Casa Pia U19 ,59791,-,Jorge Teixeira,05/06,Portugal,3268,Casa Pia 
+"Jul 1, 2016",Free transfer,Belgium,2321,SK Deinze ,5021,125 Th. €,Sandro Calabro,16/17,Netherlands,6614,Scheveningen 
+"Jul 17, 2015",Free transfer,Belgium,1096,Royal Antwerpen ,5021,150 Th. €,Sandro Calabro,15/16,Belgium,2321,SK Deinze 
+"Jun 30, 2015",End of loan,Netherlands,235,RKC Waalwijk ,5021,150 Th. €,Sandro Calabro,14/15,Belgium,1096,Royal Antwerpen 
+"Jul 20, 2014",Loan,Belgium,1096,Royal Antwerpen ,5021,175 Th. €,Sandro Calabro,14/15,Netherlands,235,RKC Waalwijk 
+"Sep 2, 2013",Free transfer,Netherlands,468,Sparta R. ,5021,175 Th. €,Sandro Calabro,13/14,Belgium,1096,Royal Antwerpen 
+"Mar 1, 2012",-,Netherlands,515,Unattached ,5021,100 Th. €,Sandro Calabro,11/12,,468,Sparta R. 
+"Jan 1, 2012",-,Switzerland,257,FC St. Gallen ,5021,350 Th. €,Sandro Calabro,11/12,,515,Unattached 
+"Jul 1, 2010",Free transfer,Netherlands,1426,VVV-Venlo ,5021,"1,25 Mill. €",Sandro Calabro,10/11,Switzerland,257,FC St. Gallen 
+"Jul 1, 2007",Free transfer,Netherlands,500,Helmond Sport ,5021,400 Th. €,Sandro Calabro,07/08,Netherlands,1426,VVV-Venlo 
+"Jul 1, 2005",Free transfer,Netherlands,724,FC Volendam ,5021,400 Th. €,Sandro Calabro,05/06,Netherlands,500,Helmond Sport 
+"Jan 1, 2005",Free transfer,Netherlands,200,FC Utrecht ,5021,400 Th. €,Sandro Calabro,04/05,Netherlands,724,FC Volendam 
+"Jul 1, 2003",Free transfer,Netherlands,1268,ADO Den Haag ,5021,-,Sandro Calabro,03/04,Netherlands,200,FC Utrecht 
+"Jul 1, 2001",Free transfer,Netherlands,2826,SC Feyenoord ,5021,-,Sandro Calabro,01/02,Netherlands,1268,ADO Den Haag 
+"Jul 1, 2012",Free transfer,Switzerland,434,FC Luzern ,166304,50 Th. €,Oliver Strohhammer,12/13,Switzerland,7495,FC Ebikon 
+"Jul 1, 2011",-,Switzerland,5494,Luzern U21 ,166304,50 Th. €,Oliver Strohhammer,11/12,Switzerland,434,FC Luzern 
+"Dec 31, 2009",End of loan,Switzerland,19799,FC Sursee ,166304,-,Oliver Strohhammer,09/10,Switzerland,5494,Luzern U21 
+"Aug 1, 2009",Loan,Switzerland,5494,Luzern U21 ,166304,-,Oliver Strohhammer,09/10,Switzerland,19799,FC Sursee 
+"Jul 1, 2009",-,Switzerland,14332,FCL U18 ,166304,-,Oliver Strohhammer,09/10,Switzerland,5494,Luzern U21 
+"Jan 15, 2016",?,France,347,FC Metz ,55709,"1,50 Mill. €",Emmanuel Mayuka,15/16,Egypt,664,Zamalek 
+"Aug 31, 2015",Free transfer,England,180,Southampton ,55709,"1,50 Mill. €",Emmanuel Mayuka,15/16,France,347,FC Metz 
+"Jun 30, 2014",End of loan,France,750,FC Sochaux ,55709,"2,00 Mill. €",Emmanuel Mayuka,13/14,England,180,Southampton 
+"Sep 2, 2013",Loan,England,180,Southampton ,55709,"2,50 Mill. €",Emmanuel Mayuka,13/14,France,750,FC Sochaux 
+"Aug 29, 2012","4,00 Mill. €",Switzerland,452,BSC Young Boys ,55709,"6,00 Mill. €",Emmanuel Mayuka,12/13,England,180,Southampton 
+"Jul 1, 2010","1,00 Mill. €",Israel,119,M. Tel Aviv ,55709,"1,00 Mill. €",Emmanuel Mayuka,10/11,Switzerland,452,BSC Young Boys 
+"Jul 1, 2009",-,Israel,19856,M. Tel Aviv U19 ,55709,75 Th. €,Emmanuel Mayuka,09/10,Israel,119,M. Tel Aviv 
+"Sep 1, 2008",?,Zambia,12034,Kabwe Warriors ,55709,75 Th. €,Emmanuel Mayuka,08/09,Israel,19856,M. Tel Aviv U19 
+"Jul 1, 2016",-,Switzerland,9084,NE Xamax ,184242,100 Th. €,Thibaut de Coulon,16/17,,515,Unattached 
+"Jun 30, 2012",End of loan,Switzerland,939,SR Delémont ,184242,50 Th. €,Thibaut de Coulon,11/12,Switzerland,9084,NE Xamax 
+"Feb 1, 2012",Loan,Switzerland,9084,NE Xamax ,184242,50 Th. €,Thibaut de Coulon,11/12,Switzerland,939,SR Delémont 
+"Jul 1, 2014",Free transfer,Germany,68,SSV Reutlingen ,31158,-,Timo Hammel,14/15,Germany,9633,GSV Maichingen 
+"Jul 1, 2012",Free transfer,Germany,1262,FSV 08 Bissingen ,31158,-,Timo Hammel,12/13,Germany,68,SSV Reutlingen 
+"Aug 1, 2011",Free transfer,Switzerland,257,FC St. Gallen ,31158,100 Th. €,Timo Hammel,11/12,Germany,1262,FSV 08 Bissingen 
+"May 1, 2011",-,Switzerland,515,Unattached ,31158,100 Th. €,Timo Hammel,10/11,,257,FC St. Gallen 
+"Jul 1, 2010",-,Germany,102,Stuttgart II ,31158,100 Th. €,Timo Hammel,10/11,,515,Unattached 
+"Jul 1, 2005",-,Germany,2517,Stuttgart U19 ,31158,-,Timo Hammel,05/06,Germany,102,Stuttgart II 
+"Jul 1, 2004",-,Germany,21084,Stuttgart U17 ,31158,-,Timo Hammel,04/05,Germany,2517,Stuttgart U19 
+"Jul 1, 2003",Free transfer,Germany,36643,Sinsheim Jugend ,31158,-,Timo Hammel,03/04,Germany,21084,Stuttgart U17 
+"Jul 1, 2010",?,Switzerland,2155,FC Biel-Bienne ,64968,400 Th. €,Dennis Hediger,10/11,Switzerland,938,FC Thun 
+"Jul 1, 2006",?,Switzerland,5508,Young Boys U21 ,64968,-,Dennis Hediger,06/07,Switzerland,2155,FC Biel-Bienne 
+"Feb 28, 2014",-,Switzerland,515,Unattached ,154573,25 Th. €,Tunahan Cicek,13/14,,242,FC Winterthur 
+"Jul 1, 2013",-,Switzerland,9178,St. Gallen U21 ,154573,25 Th. €,Tunahan Cicek,13/14,,515,Unattached 
+"Jul 1, 2012",-,Switzerland,257,FC St. Gallen ,154573,150 Th. €,Tunahan Cicek,12/13,Switzerland,9178,St. Gallen U21 
+"Jul 1, 2010",-,Switzerland,9248,FCSG U18 ,154573,-,Tunahan Cicek,10/11,Switzerland,257,FC St. Gallen 
+"Jul 1, 2016",Free transfer,Germany,808,MSV Duisburg II ,159696,150 Th. €,Gianluca Hossmann,16/17,,515,Unattached 
+"Aug 13, 2015",Free transfer,Switzerland,504,Grasshoppers ,159696,250 Th. €,Gianluca Hossmann,15/16,Germany,808,MSV Duisburg II 
+"Jun 30, 2014",End of loan,Switzerland,2155,FC Biel-Bienne ,159696,250 Th. €,Gianluca Hossmann,13/14,Switzerland,504,Grasshoppers 
+"Jul 1, 2013",Loan,Switzerland,504,Grasshoppers ,159696,50 Th. €,Gianluca Hossmann,13/14,Switzerland,2155,FC Biel-Bienne 
+"Jul 1, 2012",-,Switzerland,5502,GC U21 ,159696,50 Th. €,Gianluca Hossmann,12/13,Switzerland,504,Grasshoppers 
+"Jul 1, 2009",-,Switzerland,14543,GC Zürich U18 ,159696,-,Gianluca Hossmann,09/10,Switzerland,5502,GC U21 
+"Jul 1, 2006",?,Switzerland,20939,Winterthur Jgd. ,159696,-,Gianluca Hossmann,06/07,Switzerland,14543,GC Zürich U18 
+"Jul 1, 2015",-,Austria,515,Unattached ,31186,-,Daniel Dunst,15/16,,26536,Pfaffstätten 
+"May 1, 2015",-,Austria,20113,Traiskirchen ,31186,-,Daniel Dunst,14/15,,515,Unattached 
+"Jul 1, 2014",-,Austria,515,Unattached ,31186,150 Th. €,Daniel Dunst,14/15,,20113,Traiskirchen 
+"Jan 17, 2014",-,Austria,4441,Wolfsberger AC ,31186,150 Th. €,Daniel Dunst,13/14,,515,Unattached 
+"Jul 1, 2013",Free transfer,Austria,541,A. Lustenau ,31186,250 Th. €,Daniel Dunst,13/14,Austria,4441,Wolfsberger AC 
+"Jan 14, 2012",-,Austria,515,Unattached ,31186,400 Th. €,Daniel Dunst,11/12,,541,A. Lustenau 
+"Jul 1, 2011",-,Switzerland,257,FC St. Gallen ,31186,400 Th. €,Daniel Dunst,11/12,,515,Unattached 
+"Jan 15, 2011",-,Switzerland,515,Unattached ,31186,300 Th. €,Daniel Dunst,10/11,,257,FC St. Gallen 
+"Jul 1, 2010",-,Austria,17444,Wiener Neustadt ,31186,300 Th. €,Daniel Dunst,10/11,,515,Unattached 
+"Jul 1, 2008",Free transfer,Austria,541,A. Lustenau ,31186,225 Th. €,Daniel Dunst,08/09,Austria,17444,Wiener Neustadt 
+"Jul 1, 2007",Free transfer,Austria,2364,Vienna ,31186,-,Daniel Dunst,07/08,Austria,541,A. Lustenau 
+"Jul 1, 2006",?,Austria,4375,FC Admira II ,31186,50 Th. €,Daniel Dunst,06/07,Austria,2364,Vienna 
+"Jul 1, 2003",-,Austria,9699,AKA Admira U18 ,31186,-,Daniel Dunst,03/04,Austria,4375,FC Admira II 
+"Jul 1, 2002",-,Austria,42816,AKA Admira U16 ,31186,-,Daniel Dunst,02/03,Austria,9699,AKA Admira U18 
+"Jul 1, 2000",-,Austria,42815,AKA Admira U15 ,31186,-,Daniel Dunst,00/01,Austria,42816,AKA Admira U16 
+"Jul 1, 1998",-,Austria,20133,Admira Jugend ,31186,-,Daniel Dunst,98/99,Austria,42815,AKA Admira U15 
+"Jul 13, 1993",?,Austria,48997,Pfaffstätt. J. ,31186,-,Daniel Dunst,93/94,Austria,20133,Admira Jugend 
+"Jul 1, 2014",?,Switzerland,1287,FC Solothurn ,128469,150 Th. €,Ervin Gashi,14/15,Switzerland,37851,FC Prishtina 
+"Jul 1, 2013",?,Switzerland,5496,FC Naters ,128469,-,Ervin Gashi,13/14,Switzerland,1287,FC Solothurn 
+"Jul 1, 2012",Free transfer,Switzerland,32358,FC Köniz ,128469,-,Ervin Gashi,12/13,Switzerland,5496,FC Naters 
+"Sep 1, 2011",Free transfer,Switzerland,10400,Thun U21 ,128469,50 Th. €,Ervin Gashi,11/12,Switzerland,32358,FC Köniz 
+"Jul 1, 2011",-,Switzerland,938,FC Thun ,128469,50 Th. €,Ervin Gashi,11/12,Switzerland,10400,Thun U21 
+"Jul 1, 2010",-,Switzerland,10400,Thun U21 ,128469,50 Th. €,Ervin Gashi,10/11,Switzerland,938,FC Thun 
+"Jul 1, 2014",Free transfer,Austria,18517,Wiener Viktoria ,21463,-,Thomas Prager,14/15,Cyprus,4590,Ethnikos 
+"Jan 31, 2014",-,Austria,515,Unattached ,21463,250 Th. €,Thomas Prager,13/14,,18517,Wiener Viktoria 
+"Jul 1, 2013",-,Austria,170,Rapid Vienna ,21463,250 Th. €,Thomas Prager,13/14,,515,Unattached 
+"Jul 1, 2012",30 Th. €,Switzerland,434,FC Luzern ,21463,600 Th. €,Thomas Prager,12/13,Austria,170,Rapid Vienna 
+"Jun 30, 2012",End of loan,Austria,170,Rapid Vienna ,21463,600 Th. €,Thomas Prager,11/12,Switzerland,434,FC Luzern 
+"Jul 1, 2011",Loan,Switzerland,434,FC Luzern ,21463,400 Th. €,Thomas Prager,11/12,Austria,170,Rapid Vienna 
+"Jul 1, 2010",Free transfer,Austria,413,LASK ,21463,900 Th. €,Thomas Prager,10/11,Switzerland,434,FC Luzern 
+"Aug 1, 2008",250 Th. €,Netherlands,306,SC Heerenveen ,21463,800 Th. €,Thomas Prager,08/09,Austria,413,LASK 
+"Jul 1, 2003",-,Netherlands,4779,Heerenveen U19 ,21463,-,Thomas Prager,03/04,Netherlands,306,SC Heerenveen 
+"Aug 1, 2001",?,Austria,20154,Stadlau Jugend ,21463,-,Thomas Prager,01/02,Netherlands,4779,Heerenveen U19 
+"Jul 1, 1997",?,Austria,30820,Hirschst. Jug. ,21463,-,Thomas Prager,97/98,Austria,20154,Stadlau Jugend 
+"Oct 1, 1993",?,Austria,75,Unknown ,21463,-,Thomas Prager,93/94,,30820,Hirschst. Jug. 
+"Jan 15, 2015",?,Switzerland,32358,FC Köniz ,128472,50 Th. €,Albert Spahiu,14/15,Switzerland,5496,FC Naters 
+"Jul 17, 2013",Free transfer,Germany,497,Lok Leipzig ,128472,100 Th. €,Albert Spahiu,13/14,Switzerland,32358,FC Köniz 
+"Aug 31, 2012",?,Germany,851,FSV Mainz 05 II ,128472,100 Th. €,Albert Spahiu,12/13,Germany,497,Lok Leipzig 
+"Jul 1, 2011",Free transfer,Switzerland,5508,Young Boys U21 ,128472,50 Th. €,Albert Spahiu,11/12,Germany,851,FSV Mainz 05 II 
+"Jul 1, 2009",Free transfer,Switzerland,10400,Thun U21 ,128472,-,Albert Spahiu,09/10,Switzerland,5508,Young Boys U21 
+"Jun 30, 2013",End of loan,Switzerland,504,Grasshoppers ,113125,350 Th. €,Taulant Xhaka,12/13,Switzerland,26,FC Basel 
+"Jan 18, 2012",Loan,Switzerland,26,FC Basel ,113125,150 Th. €,Taulant Xhaka,11/12,Switzerland,504,Grasshoppers 
+"Jul 1, 2010",-,Switzerland,5299,FC Basel U21 ,113125,-,Taulant Xhaka,10/11,Switzerland,26,FC Basel 
+"Jul 1, 2008",-,Switzerland,14322,FC Basel U18 ,113125,-,Taulant Xhaka,08/09,Switzerland,5299,FC Basel U21 
+"Jan 31, 2015",Free transfer,Azerbaijan,10625,Qarabag Agdam ,66022,"3,50 Mill. €",Innocent,14/15,United States,218,Quakes 
+"Oct 6, 2014",-,Azerbaijan,515,Unattached ,66022,"3,50 Mill. €",Innocent,14/15,,10625,Qarabag Agdam 
+"Jul 15, 2014",-,Italy,1387,Siena ,66022,"3,50 Mill. €",Innocent,14/15,,515,Unattached 
+"Jun 30, 2014",End of loan,Italy,1210,AS Livorno ,66022,"4,50 Mill. €",Innocent,13/14,Italy,1387,AC Siena 
+"Aug 27, 2013","Loan fee:1,00 Mill. €",Italy,1387,AC Siena ,66022,"5,00 Mill. €",Innocent,13/14,Italy,1210,AS Livorno 
+"Jul 1, 2013","2,80 Mill. €",France,1158,FC Lorient ,66022,"5,00 Mill. €",Innocent,13/14,Italy,1387,AC Siena 
+"Jun 30, 2013",End of loan,Italy,1387,AC Siena ,66022,"5,00 Mill. €",Innocent,12/13,France,1158,FC Lorient 
+"Jan 22, 2013",Loan,France,1158,FC Lorient ,66022,"1,50 Mill. €",Innocent,12/13,Italy,1387,AC Siena 
+"Aug 31, 2011","2,50 Mill. €",Switzerland,504,Grasshoppers ,66022,"1,20 Mill. €",Innocent,11/12,France,1158,FC Lorient 
+"Jul 1, 2010",150 Th. €,Switzerland,242,FC Winterthur ,66022,300 Th. €,Innocent,10/11,Switzerland,504,Grasshoppers 
+"Jul 1, 2009",Free transfer,Switzerland,5501,FC Zürich U21 ,66022,-,Innocent,09/10,Switzerland,242,FC Winterthur 
+"Jul 1, 2007",-,Switzerland,14537,FC Zürich U18 ,66022,-,Innocent,07/08,Switzerland,5501,FC Zürich U21 
+"Jul 1, 2015",Free transfer,Switzerland,1978,FC Wohlen ,166375,300 Th. €,Mario Bühler,15/16,Switzerland,163,FC Vaduz 
+"Jul 1, 2013",?,Switzerland,434,FC Luzern ,166375,100 Th. €,Mario Bühler,13/14,Switzerland,1978,FC Wohlen 
+"Jul 1, 2010",-,Switzerland,42249,FCL Jugend ,166375,-,Mario Bühler,10/11,Switzerland,434,FC Luzern 
+"Feb 1, 2016",?,Switzerland,515,Unattached ,127465,100 Th. €,Sava Bento Miladinovic,15/16,,19750,FC Ibach 
+"Jul 1, 2015",-,Switzerland,434,FC Luzern ,127465,100 Th. €,Sava Bento Miladinovic,15/16,,515,Unattached 
+"Jan 1, 2011",-,Switzerland,5494,Luzern U21 ,127465,-,Sava Bento Miladinovic,10/11,Switzerland,434,FC Luzern 
+"Jul 1, 2009",-,Switzerland,14332,FCL U18 ,127465,-,Sava Bento Miladinovic,09/10,Switzerland,5494,Luzern U21 
+"Jan 1, 2014",?,Switzerland,321,FC Sion ,20460,350 Th. €,José Goncalves,13/14,United States,626,Revolution 
+"Dec 31, 2013",End of loan,United States,626,Revolution ,20460,350 Th. €,José Goncalves,13/14,Switzerland,321,FC Sion 
+"Jan 3, 2013",Loan,Switzerland,321,FC Sion ,20460,350 Th. €,José Goncalves,12/13,United States,626,Revolution 
+"Jul 1, 2011",7 Th. €,Switzerland,257,FC St. Gallen ,20460,700 Th. €,José Goncalves,11/12,Switzerland,321,FC Sion 
+"Jan 1, 2011",-,Switzerland,515,Unattached ,20460,"2,00 Mill. €",José Goncalves,10/11,,257,FC St. Gallen 
+"Jul 1, 2010",-,Scotland,43,Heart of Midl. ,20460,"2,00 Mill. €",José Goncalves,10/11,,515,Unattached 
+"Jun 30, 2009",End of loan,Germany,4,1.FC Nuremberg ,20460,800 Th. €,José Goncalves,08/09,Scotland,43,Heart of Midl. 
+"Jul 1, 2008",Loan fee:250 Th. €,Scotland,43,Heart of Midl. ,20460,"1,00 Mill. €",José Goncalves,08/09,Germany,4,1.FC Nuremberg 
+"Jan 1, 2006",125 Th. €,Lithuania,1187,FBK Kaunas ,20460,450 Th. €,José Goncalves,05/06,Scotland,43,Heart of Midl. 
+"Dec 1, 2005","1,00 Mill. €",Switzerland,938,FC Thun ,20460,450 Th. €,José Goncalves,05/06,Lithuania,1187,FBK Kaunas 
+"Jul 1, 2005",?,Switzerland,242,FC Winterthur ,20460,50 Th. €,José Goncalves,05/06,Switzerland,938,FC Thun 
+"Jun 30, 2005",End of loan,Italy,607,AC Venezia 1907 ,20460,50 Th. €,José Goncalves,04/05,Switzerland,242,FC Winterthur 
+"Jan 1, 2005",Loan fee:250 Th. €,Switzerland,242,FC Winterthur ,20460,50 Th. €,José Goncalves,04/05,Italy,607,AC Venezia 1907 
+"Jul 1, 2004",20 Th. €,Switzerland,5299,FC Basel U21 ,20460,-,José Goncalves,04/05,Switzerland,242,FC Winterthur 
+"Jul 1, 2002",Free transfer,Switzerland,7073,Yverdon Jugend ,20460,-,José Goncalves,02/03,Switzerland,5299,FC Basel U21 
+"Jul 31, 2013",?,Switzerland,17574,FC Breitenrain ,127470,-,Marco Wiget,13/14,Switzerland,2074,SC Kriens 
+"Jul 1, 2012",?,Switzerland,3303,FC Tuggen ,127470,-,Marco Wiget,12/13,Switzerland,17574,FC Breitenrain 
+"Aug 1, 2011",?,Switzerland,5494,Luzern U21 ,127470,50 Th. €,Marco Wiget,11/12,Switzerland,3303,FC Tuggen 
+"Jul 1, 2009",-,Switzerland,14332,FCL U18 ,127470,-,Marco Wiget,09/10,Switzerland,5494,Luzern U21 
+"May 1, 2015",-,Switzerland,1126,FCI ,108799,50 Th. €,Steven Rüegg,14/15,Switzerland,9062,FC Dürrenast 
+"Jul 1, 2013",Free transfer,Switzerland,9062,FC Dürrenast ,108799,50 Th. €,Steven Rüegg,13/14,Switzerland,1126,FCI 
+"Aug 1, 2012",?,Switzerland,938,FC Thun ,108799,50 Th. €,Steven Rüegg,12/13,Switzerland,9062,FC Dürrenast 
+"Jul 1, 2012",-,Switzerland,10400,Thun U21 ,108799,50 Th. €,Steven Rüegg,12/13,Switzerland,938,FC Thun 
+"Feb 1, 2010",?,Switzerland,5508,Young Boys U21 ,108799,50 Th. €,Steven Rüegg,09/10,Switzerland,10400,Thun U21 
+"Jul 1, 2009",?,Switzerland,10400,Thun U21 ,108799,50 Th. €,Steven Rüegg,09/10,Switzerland,5508,Young Boys U21 
+"Jul 1, 2014",-,Switzerland,452,BSC Young Boys ,92156,400 Th. €,Pascal Doubai,14/15,,515,Unattached 
+"Jul 1, 2010",Free transfer,Cote d'Ivoire,20335,AS Adjamé U19 ,92156,50 Th. €,Pascal Doubai,10/11,Switzerland,452,BSC Young Boys 

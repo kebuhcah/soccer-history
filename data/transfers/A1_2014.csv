@@ -1,0 +1,645 @@
+date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jul 1, 2014",,670 Th. €,Denmark,2778,Nordsjaelland ,69646,800 Th. €,Jens Stryger Larsen,14/15,Austria,14,Austria Vienna 
+"Jul 9, 2013",,Free transfer,Denmark,206,Bröndby IF ,69646,900 Th. €,Jens Stryger Larsen,13/14,Denmark,2778,Nordsjaelland 
+"Jul 1, 2009",,-,Denmark,8815,Bröndby IF U19 ,69646,100 Th. €,Jens Stryger Larsen,09/10,Denmark,206,Bröndby IF 
+"Jan 1, 2016",,-,Austria,515,Unattached ,192530,150 Th. €,Mario Ebenhofer,15/16,,17444,Wiener Neustadt 
+"Jul 1, 2015",,-,Austria,17444,Wiener Neustadt ,192530,150 Th. €,Mario Ebenhofer,15/16,,515,Unattached 
+"Jun 30, 2015",,End of loan,Austria,2662,SKN St. Pölten ,192530,150 Th. €,Mario Ebenhofer,14/15,Austria,17444,Wiener Neustadt 
+"Jan 13, 2015",,Loan,Austria,17444,Wiener Neustadt ,192530,175 Th. €,Mario Ebenhofer,14/15,Austria,2662,SKN St. Pölten 
+"Jul 1, 2014",,?,Austria,12210,SKU Amstetten ,192530,-,Mario Ebenhofer,14/15,Austria,17444,Wiener Neustadt 
+"Jun 30, 2016",,End of loan,Austria,4467,Hartberg ,326163,-,Christopher Stadler,15/16,Austria,17444,Wiener Neustadt 
+"Jul 1, 2015",,Loan,Austria,17444,Wiener Neustadt ,326163,50 Th. €,Christopher Stadler,15/16,Austria,4467,Hartberg 
+"Jul 1, 2014",,-,Austria,23794,Wr. Neustadt II ,326163,-,Christopher Stadler,14/15,Austria,17444,Wiener Neustadt 
+"Jul 1, 2014",,Free transfer,Austria,11853,A. Salzburg ,154140,-,Fabio Strauss,14/15,Austria,10131,SV Grödig 
+"Jul 1, 2011",,-,Austria,31810,SV Austria Salzburg II ,154140,-,Fabio Strauss,11/12,Austria,11853,A. Salzburg 
+"Aug 7, 2009",,?,Austria,42825,AKA Salzb. U15 ,154140,-,Fabio Strauss,09/10,Austria,31810,SV Austria Salzburg II 
+"Jul 1, 2008",,-,Austria,20161,Salzburg Jugend ,154140,-,Fabio Strauss,08/09,Austria,42825,AKA Salzb. U15 
+"Oct 11, 2014",,-,Austria,515,Unattached ,156704,75 Th. €,Martin Schwärzler,14/15,,3551,SCR Altach 
+"Jul 1, 2014",,-,Germany,5379,FC Augsburg II ,156704,75 Th. €,Martin Schwärzler,14/15,,515,Unattached 
+"Jul 1, 2013",,-,Germany,4780,FC Augsburg U19 ,156704,75 Th. €,Martin Schwärzler,13/14,Germany,5379,FC Augsburg II 
+"Jul 1, 2012",,Free transfer,Austria,2231,FC Lustenau ,156704,75 Th. €,Martin Schwärzler,12/13,Germany,4780,FC Augsburg U19 
+"Jul 1, 2011",,-,Austria,4390,Vorarlberg U18 ,156704,50 Th. €,Martin Schwärzler,11/12,Austria,2231,FC Lustenau 
+"Jul 1, 2010",,-,Austria,42836,Vorarlberg U16 ,156704,-,Martin Schwärzler,10/11,Austria,4390,Vorarlberg U18 
+"Jul 1, 2009",,-,Austria,42835,Vorarlberg U15 ,156704,-,Martin Schwärzler,09/10,Austria,42836,Vorarlberg U16 
+"Jul 1, 2008",,-,Austria,20855,Bizau Jugend ,156704,-,Martin Schwärzler,08/09,Austria,42835,Vorarlberg U15 
+"Jul 1, 2014",,-,Austria,4443,Sturm Graz II ,243237,-,Tobias Schützenauer,14/15,Austria,122,Sturm Graz 
+"Jul 1, 2013",,-,Austria,42830,Stmk.-Sturm U16 ,243237,-,Tobias Schützenauer,13/14,Austria,4443,Sturm Graz II 
+"Jul 1, 2012",,-,Austria,42829,Sturm Graz U15 ,243237,-,Tobias Schützenauer,12/13,Austria,42830,Sturm Graz U16 
+"Jul 1, 2010",,?,Austria,20451,GAK Jugend ,243237,-,Tobias Schützenauer,10/11,Austria,42829,Sturm Graz U15 
+"Jul 1, 2015",,?,Austria,7001,Rapid Wien II ,163366,50 Th. €,Ferdinand Weinwurm,15/16,Austria,10044,SV Horn 
+"Jul 1, 2011",,?,Austria,12208,SC Retz ,163366,-,Ferdinand Weinwurm,11/12,Austria,7001,Rapid Wien II 
+"Jul 1, 2009",,?,Austria,31999,Obritz ,163366,-,Ferdinand Weinwurm,09/10,Austria,12208,SC Retz 
+"Jul 1, 2016",,Free transfer,Austria,3551,SCR Altach ,38439,300 Th. €,Felix Roth,16/17,Germany,245,SC Freiburg II 
+"Jul 1, 2013",,Free transfer,Austria,541,A. Lustenau ,38439,300 Th. €,Felix Roth,13/14,Austria,3551,SCR Altach 
+"Aug 1, 2010",,Free transfer,Germany,60,SC Freiburg ,38439,150 Th. €,Felix Roth,10/11,Austria,541,A. Lustenau 
+"Jan 27, 2008",,-,Germany,245,SC Freiburg II ,38439,-,Felix Roth,07/08,Germany,60,SC Freiburg 
+"Jul 1, 2006",,-,Germany,4042,SC Freiburg U19 ,38439,-,Felix Roth,06/07,Germany,245,SC Freiburg II 
+"Jul 1, 2005",,-,Germany,21075,SC Freiburg U17 ,38439,-,Felix Roth,05/06,Germany,4042,SC Freiburg U19 
+"Jul 1, 2003",,-,Germany,18042,Freiburg Jgd. ,38439,-,Felix Roth,03/04,Germany,21075,SC Freiburg U17 
+"Jul 1, 2002",,Free transfer,Germany,33493,Offenburg Jgd. ,38439,-,Felix Roth,02/03,Germany,18042,Freiburg Jgd. 
+"Jun 30, 2016",,End of loan,Austria,17444,Wiener Neustadt ,274984,200 Th. €,Marvin Egho,15/16,Austria,503,Admira Wacker 
+"Jan 18, 2016",,Loan,Austria,503,Admira Wacker ,274984,100 Th. €,Marvin Egho,15/16,Austria,17444,Wiener Neustadt 
+"Jul 1, 2014",,?,Austria,7001,Rapid Wien II ,274984,-,Marvin Egho,14/15,Austria,503,Admira Wacker 
+"Jul 15, 2013",,?,Austria,2890,SR Donaufeld ,274984,-,Marvin Egho,13/14,Austria,7001,Rapid Wien II 
+"Sep 1, 2011",,?,Austria,30816,Wr. Neustadt ,274984,-,Marvin Egho,11/12,Austria,2890,SR Donaufeld 
+"Jan 8, 2016",,Free transfer,Moldova,21508,Zaria Balti ,58425,350 Th. €,Igor Oshchypko,15/16,Bulgaria,2531,Botev Plovdiv 
+"Aug 21, 2015",,Free transfer,Austria,122,Sturm Graz ,58425,350 Th. €,Igor Oshchypko,15/16,Moldova,21508,Zaria Balti 
+"Jan 30, 2015",,-,Austria,515,Unattached ,58425,400 Th. €,Igor Oshchypko,14/15,,122,Sturm Graz 
+"Dec 27, 2013",,-,Ukraine,2477,Karpaty ,58425,800 Th. €,Igor Oshchypko,13/14,,515,Unattached 
+"Jul 1, 2008",,?,Ukraine,8963,Shakhtar II ,58425,250 Th. €,Igor Oshchypko,08/09,Ukraine,2477,Karpaty 
+"Jun 30, 2008",,End of loan,Ukraine,2477,Karpaty ,58425,250 Th. €,Igor Oshchypko,07/08,Ukraine,8963,Shakhtar II 
+"Jan 1, 2008",,Loan,Ukraine,8963,Shakhtar II ,58425,-,Igor Oshchypko,07/08,Ukraine,2477,Karpaty 
+"Jan 1, 2004",,Free transfer,Ukraine,75,Unknown ,58425,-,Igor Oshchypko,03/04,,8963,Shakhtar II 
+"Jul 1, 2003",,Free transfer,Russia,20777,Mostransgaz ,58425,-,Igor Oshchypko,03/04,,75,Unknown 
+"Jul 1, 2002",,Free transfer,Ukraine,31923,RUFK Kyiv ,58425,-,Igor Oshchypko,02/03,Russia,20777,Mostransgaz 
+"Jun 30, 2016",,End of loan,Austria,409,RB Salzburg ,112703,"1,50 Mill. €",Omer Damari,15/16,Germany,23826,RB Leipzig 
+"Jul 1, 2015",,Loan,Germany,23826,RB Leipzig ,112703,"3,00 Mill. €",Omer Damari,15/16,Austria,409,RB Salzburg 
+"Jan 14, 2015",,"7,00 Mill. €",Austria,14,Austria Vienna ,112703,"2,50 Mill. €",Omer Damari,14/15,Germany,23826,RB Leipzig 
+"Jul 30, 2014",,"1,20 Mill. €",Israel,1017,Hapoel Tel Aviv ,112703,"1,40 Mill. €",Omer Damari,14/15,Austria,14,Austria Vienna 
+"Jul 3, 2011",,"1,50 Mill. €",Israel,3785,M. Petah Tikva ,112703,400 Th. €,Omer Damari,11/12,Israel,1017,Hapoel Tel Aviv 
+"Jul 1, 2008",,-,Israel,26920,M. P. Tikva U19 ,112703,-,Omer Damari,08/09,Israel,3785,M. Petah Tikva 
+"Jul 1, 2015",,Free transfer,Germany,23826,RB Leipzig ,328264,350 Th. €,Smail Prevljak,15/16,Austria,409,RB Salzburg 
+"Jun 30, 2015",,End of loan,Austria,37024,FC Liefering ,328264,350 Th. €,Smail Prevljak,14/15,Germany,23826,RB Leipzig 
+"Aug 28, 2014",,Loan,Germany,23826,RB Leipzig ,328264,100 Th. €,Smail Prevljak,14/15,Austria,37024,FC Liefering 
+"Jul 1, 2014",,-,Germany,26621,RB Leipzig U19 ,328264,-,Smail Prevljak,14/15,Germany,23826,RB Leipzig 
+"Jul 1, 2013",,?,Bosnia-Herzegovina,11100,FK Igman Konjic ,328264,-,Smail Prevljak,13/14,Germany,26621,RB Leipzig U19 
+"Jan 12, 2016",,?,Austria,17444,Wiener Neustadt ,277607,50 Th. €,Martin Fraisl,15/16,Austria,7443,FAC 
+"Jul 10, 2014",,?,Austria,676,Wiener SK ,277607,-,Martin Fraisl,14/15,Austria,17444,Wiener Neustadt 
+"Jul 1, 2013",,?,Austria,18626,Sierning ,277607,-,Martin Fraisl,13/14,Austria,676,Wiener SK 
+"Jul 1, 2012",,?,Austria,19830,Seitenstetten ,277607,-,Martin Fraisl,12/13,Austria,18626,Sierning 
+"Jul 1, 2010",,?,Austria,38228,Wolfsbach ,277607,-,Martin Fraisl,10/11,Austria,19830,Seitenstetten 
+"Jul 1, 2016",,Free transfer,Austria,122,Sturm Graz ,184425,100 Th. €,Danijel Klaric,16/17,,75,Unknown 
+"Jan 1, 2016",,-,Austria,4443,Sturm Graz II ,184425,150 Th. €,Danijel Klaric,15/16,Austria,122,Sturm Graz 
+"Dec 31, 2015",,End of loan,Austria,17444,Wiener Neustadt ,184425,150 Th. €,Danijel Klaric,15/16,Austria,4443,Sturm Graz II 
+"Aug 12, 2015",,Loan,Austria,4443,Sturm Graz II ,184425,-,Danijel Klaric,15/16,Austria,17444,Wiener Neustadt 
+"Jul 1, 2014",,Free transfer,Poland,422,Wisla Kraków ,184425,50 Th. €,Danijel Klaric,14/15,Austria,4443,Sturm Graz II 
+"Feb 10, 2014",,-,Austria,4375,FC Admira II ,184425,-,Danijel Klaric,13/14,Poland,422,Wisla Kraków 
+"Jan 10, 2013",,-,Austria,9699,AKA Admira U18 ,184425,-,Danijel Klaric,12/13,Austria,4375,FC Admira II 
+"Mar 1, 2012",,?,Austria,6611,AKA Austria U18 ,184425,-,Danijel Klaric,11/12,Austria,9699,AKA Admira U18 
+"Jul 1, 2011",,?,Austria,4753,AKA Rapid U18 ,184425,-,Danijel Klaric,11/12,Austria,6611,AKA Austria U18 
+"Jan 1, 2011",,?,Austria,33689,Cro-Vienna Jgd ,184425,-,Danijel Klaric,10/11,Austria,4753,AKA Rapid U18 
+"Jul 1, 2014",,Free transfer,Austria,7448,Dornbirn ,129667,-,Reuf Durakovic,14/15,Austria,266,SV  Ried 
+"Jan 13, 2014",,-,Austria,515,Unattached ,129667,125 Th. €,Reuf Durakovic,13/14,,7448,Dornbirn 
+"Jul 1, 2013",,-,Austria,2231,FC Lustenau ,129667,125 Th. €,Reuf Durakovic,13/14,,515,Unattached 
+"Jun 30, 2013",,End of loan,Italy,26331,Varese U19 ,129667,125 Th. €,Reuf Durakovic,12/13,Austria,2231,FC Lustenau 
+"Jan 23, 2013",,Loan,Austria,2231,FC Lustenau ,129667,150 Th. €,Reuf Durakovic,12/13,Italy,26331,Varese U19 
+"Jul 8, 2011",,Free transfer,Austria,4390,Vorarlberg U18 ,129667,50 Th. €,Reuf Durakovic,11/12,Austria,2231,FC Lustenau 
+"Jul 1, 2010",,-,Austria,42836,Vorarlberg U16 ,129667,-,Reuf Durakovic,10/11,Austria,4390,Vorarlberg U18 
+"Jul 1, 2009",,-,Austria,42835,Vorarlberg U15 ,129667,-,Reuf Durakovic,09/10,Austria,42836,Vorarlberg U16 
+"Jul 1, 2008",,-,Austria,48465,Tisis Jgd. ,129667,-,Reuf Durakovic,08/09,Austria,42835,Vorarlberg U15 
+"Jul 1, 2014",,100 Th. €,Bosnia-Herzegovina,3900,B. Banja Luka ,123158,500 Th. €,Srdjan Grahovac,14/15,Austria,170,Rapid Vienna 
+"Jul 1, 2009",,-,Bosnia-Herzegovina,25088,Banja Luka U19 ,123158,-,Srdjan Grahovac,09/10,Bosnia-Herzegovina,3900,B. Banja Luka 
+"Jul 1, 2014",,"1,50 Mill. €",France,2580,Istres ,302215,-,Naby Keïta,14/15,Austria,409,RB Salzburg 
+"Nov 27, 2013",,-,France,24215,FC Istres B ,302215,-,Naby Keïta,13/14,France,2580,Istres 
+"Aug 30, 2013",,?,Guine,8474,Horoya AC ,302215,-,Naby Keïta,13/14,France,24215,FC Istres B 
+"Nov 15, 2014",,-,Austria,4383,Austria Wien II ,240778,-,Marko Kvasina,14/15,Austria,14,Austria Vienna 
+"Jan 1, 2014",,-,Austria,6611,AKA Austria U18 ,240778,-,Marko Kvasina,13/14,Austria,4383,Austria Wien II 
+"Jul 22, 2011",,?,Austria,18531,Vienna Jgd. ,240778,-,Marko Kvasina,11/12,Austria,6611,AKA Austria U18 
+"Jul 1, 2014",,-,Austria,42830,Stmk.-Sturm U16 ,268429,-,Sandi Lovric,14/15,Austria,122,Sturm Graz 
+"Jul 1, 2012",,?,Austria,33147,Lienz Jgd ,268429,-,Sandi Lovric,12/13,Austria,42830,Sturm Graz U16 
+"Sep 3, 2012",,-,Austria,515,Unattached ,83616,250 Th. €,Benedikt Zech,12/13,,3551,SCR Altach 
+"Jul 1, 2012",,-,Austria,541,A. Lustenau ,83616,250 Th. €,Benedikt Zech,12/13,,515,Unattached 
+"Jul 1, 2009",,-,Austria,4390,Vorarlberg U18 ,83616,75 Th. €,Benedikt Zech,09/10,Austria,541,A. Lustenau 
+"Jul 1, 2007",,-,Austria,42836,Vorarlberg U16 ,83616,-,Benedikt Zech,07/08,Austria,4390,Vorarlberg U18 
+"Jul 1, 2006",,-,Austria,42835,Vorarlberg U15 ,83616,-,Benedikt Zech,06/07,Austria,42836,Vorarlberg U16 
+"Jul 1, 2005",,-,Austria,33369,Ludesch Jugend ,83616,-,Benedikt Zech,04/05,Austria,42835,Vorarlberg U15 
+"Jul 1, 2015",,450 Th. €,Italy,46,Inter ,126114,"1,00 Mill. €",Lukas Spendlhofer,15/16,Austria,122,Sturm Graz 
+"Jun 30, 2015",,End of loan,Austria,122,Sturm Graz ,126114,"1,00 Mill. €",Lukas Spendlhofer,14/15,Italy,46,Inter 
+"Jul 4, 2014",,Loan,Italy,46,Inter ,126114,250 Th. €,Lukas Spendlhofer,14/15,Austria,122,Sturm Graz 
+"Jun 30, 2014",,End of loan,Italy,4361,Varese ,126114,250 Th. €,Lukas Spendlhofer,13/14,Italy,46,Inter 
+"Jul 11, 2013",,Loan,Italy,5380,Inter ,126114,250 Th. €,Lukas Spendlhofer,13/14,Italy,4361,Varese 
+"Mar 1, 2013",,-,Italy,24432,Inter Youth ,126114,75 Th. €,Lukas Spendlhofer,12/13,Italy,5380,Inter 
+"Jul 1, 2012",,-,Italy,5380,Inter ,126114,300 Th. €,Lukas Spendlhofer,12/13,Italy,24432,Inter Youth 
+"Jan 1, 2011",,72 Th. €,Austria,7560,St. Pölten U18 ,126114,-,Lukas Spendlhofer,10/11,Italy,5380,Inter 
+"Jul 1, 2007",,?,Austria,31412,1.WNSC Jgd. ,126114,-,Lukas Spendlhofer,07/08,Austria,7560,St. Pölten U18 
+"Mar 1, 2005",,?,Austria,33929,Pottschach Jgd ,126114,-,Lukas Spendlhofer,04/05,Austria,31412,1.WNSC Jgd. 
+"Jan 20, 2015",,200 Th. €,Austria,2394,SV Kapfenberg ,256167,350 Th. €,Ronivaldo,14/15,Austria,14,Austria Vienna 
+"Jan 31, 2013",,86 Th. €,Brazil,27219,Taubaté-SP ,256167,-,Ronivaldo,12/13,Austria,2394,SV Kapfenberg 
+"Dec 31, 2012",,End of loan,Brazil,39007,Osasco FC ,256167,-,Ronivaldo,12/13,Brazil,27219,Taubaté-SP 
+"Apr 1, 2012",,Loan,Brazil,27219,Taubaté-SP ,256167,-,Ronivaldo,11/12,Brazil,39007,Osasco FC 
+"Feb 1, 2012",,?,Brazil,24997,Arapongas ,256167,-,Ronivaldo,11/12,Brazil,27219,Taubaté-SP 
+"May 1, 2010",,?,Brazil,37259,CAL Beriri ,256167,-,Ronivaldo,09/10,Brazil,24997,Arapongas 
+"Apr 1, 2010",,?,Brazil,27219,Taubaté-SP ,256167,-,Ronivaldo,09/10,Brazil,37259,CAL Beriri 
+"Jan 1, 2010",,?,Brazil,14807,Palmeiras B ,256167,-,Ronivaldo,09/10,Brazil,27219,Taubaté-SP 
+"Jul 1, 2008",,?,Brazil,2646,Náutico ,256167,-,Ronivaldo,08/09,Brazil,14807,Palmeiras B 
+"Jul 1, 2014",,?,Austria,37024,FC Liefering ,129709,250 Th. €,Robert Völkl,14/15,Austria,10131,SV Grödig 
+"Jul 10, 2012",,Free transfer,Austria,6227,RB Juniors ,129709,-,Robert Völkl,12/13,Austria,37024,FC Liefering 
+"Jun 30, 2012",,End of loan,Austria,5469,USK Anif ,129709,-,Robert Völkl,11/12,Austria,6227,RB Juniors 
+"Jan 19, 2012",,Loan,Austria,6227,RB Juniors ,129709,-,Robert Völkl,11/12,Austria,5469,USK Anif 
+"Jul 1, 2010",,-,Austria,11263,AKA Salzb. U18 ,129709,-,Robert Völkl,10/11,Austria,6227,RB Juniors 
+"Jul 1, 2009",,-,Austria,42826,AKA Salzb. U16 ,129709,-,Robert Völkl,09/10,Austria,11263,Salzburg U19 
+"Jul 1, 2008",,-,Austria,42825,AKA Salzb. U15 ,129709,-,Robert Völkl,08/09,Austria,42826,AKA Salzb. U16 
+"Jul 10, 2007",,Free transfer,Germany,42287,Rosenheim Jgd. ,129709,-,Robert Völkl,07/08,Austria,42825,AKA Salzb. U15 
+"Jul 1, 2015",,?,Austria,17444,Wiener Neustadt ,62134,400 Th. €,Philip Hellquist,15/16,Austria,4441,Wolfsberger AC 
+"Jan 15, 2015",,Free transfer,Sweden,1044,Djurgardens IF ,62134,200 Th. €,Philip Hellquist,14/15,Austria,17444,Wiener Neustadt 
+"Dec 1, 2013",,End of loan,Sweden,4380,Assyriska FF ,62134,500 Th. €,Philip Hellquist,13/14,Sweden,1044,Djurgardens IF 
+"Feb 28, 2013",,Loan,Sweden,1044,Djurgardens IF ,62134,500 Th. €,Philip Hellquist,12/13,Sweden,4380,Assyriska FF 
+"Jul 1, 2008",,-,Sweden,8858,Djurgardens U19 ,62134,50 Th. €,Philip Hellquist,08/09,Sweden,1044,Djurgardens IF 
+"Jan 7, 2015",,-,Austria,37024,FC Liefering ,238266,200 Th. €,Duje Caleta–Car,14/15,Austria,409,RB Salzburg 
+"Jul 1, 2014",,?,Austria,935,Pasching/LASK ,238266,-,Duje Caleta–Car,14/15,Austria,37024,FC Liefering 
+"Jul 5, 2013",,?,Croatia,223,HNK Sibenik ,238266,-,Duje Caleta–Car,13/14,Austria,935,FC Pasching 
+"Jul 1, 2012",,-,Croatia,36346,HNK Sibenik U17 ,238266,-,Duje Caleta–Car,12/13,Croatia,223,HNK Sibenik 
+"Jul 1, 2011",,-,Croatia,36419,HNK Sibenik Jgd ,238266,-,Duje Caleta–Car,11/12,Croatia,36346,HNK Sibenik U17 
+"Jul 1, 2014",,Free transfer,Germany,4795,FC Ingolstadt ,59068,300 Th. €,Christoph Knasmüllner,14/15,Austria,503,Admira Wacker 
+"Aug 31, 2011",,100 Th. €,Italy,5380,Inter ,59068,350 Th. €,Christoph Knasmüllner,11/12,Germany,4795,FC Ingolstadt 
+"Jan 19, 2011",,500 Th. €,Germany,28,FC Bayern II ,59068,500 Th. €,Christoph Knasmüllner,10/11,Italy,5380,Inter 
+"Jan 1, 2010",,-,Germany,1462,FC Bayern U19 ,59068,50 Th. €,Christoph Knasmüllner,09/10,Germany,28,FC Bayern II 
+"Jul 1, 2008",,Free transfer,Austria,6611,Austria U19 ,59068,-,Christoph Knasmüllner,08/09,Germany,21058,FC Bayern U17 
+"Mar 1, 2002",,?,Austria,20154,Stadlau Jugend ,59068,-,Christoph Knasmüllner,01/02,Austria,10198,Austria Youth 
+"Jul 1, 2015",,-,Austria,33549,Wolfsberg II ,77507,-,Rene Robitsch,15/16,Austria,4441,Wolfsberger AC 
+"Jul 1, 2013",,Free transfer,Austria,11256,FC St. Michael ,77507,-,Rene Robitsch,13/14,Austria,33549,Wolfsberg II 
+"Jul 1, 2010",,Free transfer,Austria,18426,WSG Brückl ,77507,-,Rene Robitsch,10/11,Austria,11256,FC St. Michael 
+"Jul 1, 2008",,Free transfer,Austria,4405,St. Veit ,77507,-,Rene Robitsch,08/09,Austria,18426,WSG Brückl 
+"Jul 1, 2016",,Free transfer,Austria,409,RB Salzburg ,160968,900 Th. €,Benno Schmitz,16/17,Germany,23826,RB Leipzig 
+"Jul 1, 2014",,Free transfer,Germany,28,FC Bayern II ,160968,100 Th. €,Benno Schmitz,14/15,Austria,409,RB Salzburg 
+"Jul 1, 2013",,-,Germany,1462,FC Bayern U19 ,160968,25 Th. €,Benno Schmitz,13/14,Germany,28,FC Bayern II 
+"Jul 1, 2011",,-,Germany,21058,FC Bayern U17 ,160968,-,Benno Schmitz,11/12,Germany,1462,FC Bayern U19 
+"Jul 1, 2009",,-,Germany,18936,FC Bayern Youth ,160968,-,Benno Schmitz,09/10,Germany,21058,FC Bayern U17 
+"Jul 1, 2015",,-,Austria,4375,FC Admira II ,271050,-,Nico Löffler,15/16,Austria,503,Admira Wacker 
+"Jul 1, 2014",,-,Austria,9699,AKA Admira U18 ,271050,-,Nico Löffler,14/15,Austria,4375,FC Admira II 
+"Jan 8, 2016",,?,Austria,122,Sturm Graz ,29899,500 Th. €,Josip Tadic,15/16,Turkey,20698,Balikesirspor 
+"Jul 16, 2014",,Free transfer,Croatia,144,HNK Rijeka ,29899,300 Th. €,Josip Tadic,14/15,Austria,122,Sturm Graz 
+"Jun 30, 2014",,End of loan,Croatia,2566,NK Zadar  ,29899,300 Th. €,Josip Tadic,13/14,Croatia,144,HNK Rijeka 
+"Aug 31, 2013",,Loan,Croatia,144,HNK Rijeka ,29899,400 Th. €,Josip Tadic,13/14,Croatia,2566,NK Zadar  
+"Jul 1, 2013",,Free transfer,Australia,25580,Melbourne Heart ,29899,400 Th. €,Josip Tadic,13/14,Croatia,144,HNK Rijeka 
+"Jul 1, 2012",,Free transfer,Poland,4000,Lechia Gdansk ,29899,400 Th. €,Josip Tadic,12/13,Australia,25580,Melbourne Heart 
+"Aug 1, 2011",,Free transfer,Cyprus,829,Omonia Nikosia ,29899,500 Th. €,Josip Tadic,11/12,Poland,4000,Lechia Gdansk 
+"Jul 1, 2011",,Free transfer,Germany,10,Arm. Bielefeld ,29899,500 Th. €,Josip Tadic,11/12,Cyprus,829,Omonia Nikosia 
+"Jan 1, 2011",,Free transfer,France,1290,Grenoble ,29899,400 Th. €,Josip Tadic,10/11,Germany,10,Arm. Bielefeld 
+"Jul 1, 2009",,600 Th. €,Croatia,419,Dinamo Zagreb ,29899,"1,30 Mill. €",Josip Tadic,09/10,France,1290,Grenoble 
+"Jan 1, 2007",,500 Th. €,Germany,15,Bay. Leverkusen ,29899,400 Th. €,Josip Tadic,06/07,Croatia,419,Dinamo Zagreb 
+"Aug 1, 2005",,350 Th. €,Croatia,327,NK Osijek ,29899,400 Th. €,Josip Tadic,05/06,Germany,15,Bay. Leverkusen 
+"Jan 1, 2005",,-,Croatia,11036,NK Osijek U19 ,29899,-,Josip Tadic,04/05,Croatia,327,NK Osijek 
+"Feb 1, 2015",,-,Austria,515,Unattached ,55512,700 Th. €,Wilson Kamavuaka,14/15,,122,Sturm Graz 
+"Jul 1, 2014",,-,Belgium,354,KV Mechelen ,55512,700 Th. €,Wilson Kamavuaka,14/15,,515,Unattached 
+"Oct 6, 2013",,-,Belgium,515,Unattached ,55512,450 Th. €,Wilson Kamavuaka,13/14,,354,KV Mechelen 
+"Jul 1, 2013",,-,Germany,4,1.FC Nuremberg ,55512,450 Th. €,Wilson Kamavuaka,13/14,,515,Unattached 
+"Jun 30, 2013",,End of loan,Germany,109,Jahn Regensburg ,55512,450 Th. €,Wilson Kamavuaka,12/13,Germany,4,1.FC Nuremberg 
+"Aug 30, 2012",,Loan,Germany,4,1.FC Nuremberg ,55512,250 Th. €,Wilson Kamavuaka,12/13,Germany,109,Jahn Regensburg 
+"Jul 1, 2011",,Free transfer,Germany,983,Hoffenheim II ,55512,50 Th. €,Wilson Kamavuaka,11/12,Germany,4,1.FC Nuremberg 
+"Jul 1, 2009",,Free transfer,Germany,5295,Aachen U19  ,55512,-,Wilson Kamavuaka,09/10,Germany,983,Hoffenheim II 
+"Jul 1, 2007",,Free transfer,Germany,21048,1.FC Köln U17 ,55512,-,Wilson Kamavuaka,07/08,Germany,5295,Aachen U19  
+"Jul 1, 2005",,-,Germany,11880,1.FC Köln Yth. ,55512,-,Wilson Kamavuaka,05/06,Germany,21048,1.FC Köln U17 
+"Jul 1, 2016",,Free transfer,Austria,10131,SV Grödig ,53469,350 Th. €,Timo Brauer,16/17,,75,Unknown 
+"Jul 1, 2014",,Free transfer,Germany,389,Hamburger SV II ,53469,100 Th. €,Timo Brauer,14/15,Austria,10131,SV Grödig 
+"Jul 28, 2013",,Free transfer,Germany,8,Alem. Aachen ,53469,250 Th. €,Timo Brauer,13/14,Germany,389,Hamburger SV II 
+"Jul 1, 2012",,Free transfer,Germany,56,RW Essen ,53469,250 Th. €,Timo Brauer,12/13,Germany,8,Alem. Aachen 
+"Jan 1, 2010",,-,Germany,5119,RW Essen II ,53469,-,Timo Brauer,09/10,Germany,56,RW Essen 
+"Jul 1, 2009",,Free transfer,Germany,1463,Schalke 04 U19 ,53469,-,Timo Brauer,09/10,Germany,5119,RW Essen II 
+"Jul 1, 2007",,-,Germany,21061,Schalke 04 U17 ,53469,-,Timo Brauer,07/08,Germany,1463,Schalke 04 U19 
+"Jul 1, 2005",,-,Germany,11884,Schalke 04 Jgd. ,53469,-,Timo Brauer,05/06,Germany,21061,Schalke 04 U17 
+"Jul 1, 2003",,Free transfer,Germany,38752,SW Essen Jugend ,53469,-,Timo Brauer,03/04,Germany,11884,Schalke 04 Jgd. 
+"Jan 1, 2015",,-,Austria,37024,FC Liefering ,223967,350 Th. €,Konrad Laimer,14/15,Austria,409,RB Salzburg 
+"Jul 1, 2014",,-,Austria,11263,AKA Salzb. U18 ,223967,75 Th. €,Konrad Laimer,14/15,Austria,37024,FC Liefering 
+"Jul 1, 2013",,-,Austria,42826,AKA Salzb. U16 ,223967,-,Konrad Laimer,13/14,Austria,11263,AKA Salzb. U18 
+"Jul 1, 2012",,-,Austria,42825,AKA Salzb. U15 ,223967,-,Konrad Laimer,12/13,Austria,42826,AKA Salzb. U16 
+"Jul 1, 2011",,-,Austria,20161,Salzburg Jugend ,223967,-,Konrad Laimer,11/12,Austria,42825,AKA Salzb. U15 
+"Jul 10, 2007",,?,Austria,47388,Abersee Jgd. ,223967,-,Konrad Laimer,07/08,Austria,20161,Salzburg Jugend 
+"Jul 1, 2014",,-,Austria,4375,FC Admira II ,223969,-,Philipp Malicsek,14/15,Austria,503,Admira Wacker 
+"Jan 1, 2014",,-,Austria,9699,AKA Admira U18 ,223969,-,Philipp Malicsek,13/14,Austria,4375,FC Admira II 
+"Jul 1, 2016",,Free transfer,Austria,266,SV  Ried ,132323,300 Th. €,Denis Streker,16/17,,75,Unknown 
+"Jul 1, 2014",,Free transfer,Germany,983,Hoffenheim II ,132323,125 Th. €,Denis Streker,14/15,Austria,266,SV  Ried 
+"Jun 30, 2013",,End of loan,Germany,129,Dynamo Dresden ,132323,400 Th. €,Denis Streker,12/13,Germany,983,Hoffenheim II 
+"Jan 30, 2013",,Loan,Germany,983,Hoffenheim II ,132323,300 Th. €,Denis Streker,12/13,Germany,129,Dynamo Dresden 
+"Jul 1, 2012",,Free transfer,Germany,177,E. Frankfurt II ,132323,25 Th. €,Denis Streker,12/13,Germany,983,Hoffenheim II 
+"Jul 1, 2011",,Free transfer,Germany,1324,SV Wehen W. II ,132323,25 Th. €,Denis Streker,11/12,Germany,177,E. Frankfurt II 
+"Jan 1, 2009",,-,Germany,9451,SV Wehen W. U19 ,132323,-,Denis Streker,08/09,Germany,1324,SV Wehen W. II 
+"Jul 1, 2015",,-,Austria,4383,Austria Wien II ,223972,-,Patrick Pentz,15/16,Austria,14,Austria Vienna 
+"Jul 1, 2013",,?,Austria,42826,AKA Salzb. U16 ,223972,-,Patrick Pentz,13/14,Austria,4383,Austria Wien II 
+"Jul 1, 2012",,-,Austria,42825,AKA Salzb. U15 ,223972,-,Patrick Pentz,12/13,Austria,42826,AKA Salzb. U16 
+"Jul 1, 2011",,-,Austria,20161,Salzburg Jugend ,223972,-,Patrick Pentz,11/12,Austria,42825,AKA Salzb. U15 
+"Nov 15, 2006",,?,Austria,30817,SV Bürmoos Jugend ,223972,-,Patrick Pentz,06/07,Austria,20161,Salzburg Jugend 
+"Jul 1, 2016",,-,Germany,8925,Hoffenheim U19 ,223974,-,Stefan Posch,16/17,Germany,983,Hoffenheim II 
+"Aug 6, 2015",,200 Th. €,Austria,503,Admira Wacker ,223974,-,Stefan Posch,15/16,Germany,8925,Hoffenheim U19 
+"Jul 1, 2014",,-,Austria,4375,FC Admira II ,223974,-,Stefan Posch,14/15,Austria,503,Admira Wacker 
+"Jan 1, 2014",,-,Austria,9699,AKA Admira U18 ,223974,-,Stefan Posch,13/14,Austria,4375,FC Admira II 
+"Jun 30, 2016",,End of loan,Germany,293,FSV Frankfurt ,327911,800 Th. €,Felipe Pires,15/16,Germany,533,TSG Hoffenheim 
+"Aug 26, 2015",,Loan,Germany,533,TSG Hoffenheim ,327911,500 Th. €,Felipe Pires,15/16,Germany,293,FSV Frankfurt 
+"Aug 25, 2015",,"1,00 Mill. €",Austria,409,RB Salzburg ,327911,500 Th. €,Felipe Pires,15/16,Germany,533,TSG Hoffenheim 
+"Jan 7, 2015",,-,Austria,37024,FC Liefering ,327911,250 Th. €,Felipe Pires,14/15,Austria,409,RB Salzburg 
+"Jul 1, 2014",,Free transfer,Germany,26621,RB Leipzig U19 ,327911,-,Felipe Pires,14/15,Austria,37024,FC Liefering 
+"Jan 19, 2014",,-,Brazil,22767,Red Bull ,327911,-,Felipe Pires,13/14,Germany,26621,RB Leipzig U19 
+"Jul 1, 2015",,Free transfer,Germany,23826,RB Leipzig ,187624,250 Th. €,Fabian Bredlow,15/16,Germany,440,Hallescher FC 
+"Jun 30, 2015",,End of loan,Austria,409,RB Salzburg ,187624,250 Th. €,Fabian Bredlow,14/15,Germany,23826,RB Leipzig 
+"Jul 2, 2014",,Loan,Germany,23826,RB Leipzig ,187624,100 Th. €,Fabian Bredlow,14/15,Austria,409,RB Salzburg 
+"Jul 1, 2014",,-,Germany,26621,RB Leipzig U19 ,187624,100 Th. €,Fabian Bredlow,14/15,Germany,23826,RB Leipzig 
+"Jul 1, 2012",,Free transfer,Germany,21060,Zehlendorf U17 ,187624,-,Fabian Bredlow,12/13,Germany,26621,RB Leipzig U19 
+"Jul 1, 2010",,-,Germany,39378,Zehlendorf Jgd. ,187624,-,Fabian Bredlow,10/11,Germany,21060,Zehlendorf U17 
+"Jun 30, 2015",,End of loan,Austria,409,RB Salzburg ,111376,"4,00 Mill. €",Massimo Bruno,14/15,Germany,23826,RB Leipzig 
+"Jul 2, 2014",,Loan,Germany,23826,RB Leipzig ,111376,"8,00 Mill. €",Massimo Bruno,14/15,Austria,409,RB Salzburg 
+"Jul 1, 2014",,"5,00 Mill. €",Belgium,58,RSC Anderlecht ,111376,"8,00 Mill. €",Massimo Bruno,14/15,Germany,23826,RB Leipzig 
+"Jul 1, 2012",,-,Belgium,30857,Anderlecht Res. ,111376,-,Massimo Bruno,12/13,Belgium,58,RSC Anderlecht 
+"Jul 1, 2011",,?,Belgium,3497,RSC Charleroi U19 ,111376,-,Massimo Bruno,11/12,Belgium,30857,Anderlecht Res. 
+"Jul 1, 2009",,?,Belgium,3602,RAEC Mons U19 ,111376,-,Massimo Bruno,09/10,Belgium,3497,RSC Charleroi U19 
+"Jul 1, 2014",,-,Austria,7001,Rapid Wien II ,181720,-,Tobias Knoflach,14/15,Austria,170,Rapid Vienna 
+"Jul 1, 2011",,-,Austria,4753,AKA Rapid U18 ,181720,-,Tobias Knoflach,11/12,Austria,7001,Rapid Wien II 
+"Jan 1, 2011",,?,Austria,18531,Vienna Jgd. ,181720,-,Tobias Knoflach,10/11,Austria,4753,AKA Rapid U18 
+"Jul 1, 2002",,?,Austria,20814,FAC Jugend ,181720,-,Tobias Knoflach,02/03,Austria,18531,Vienna Jgd. 
+"Jun 30, 2016",,End of loan,Austria,122,Sturm Graz ,196227,"3,00 Mill. €",Donis Avdijaj,15/16,Germany,33,FC Schalke 04 
+"Jan 13, 2015",,Loan,Germany,33,FC Schalke 04 ,196227,"1,00 Mill. €",Donis Avdijaj,14/15,Austria,122,Sturm Graz 
+"Jul 1, 2014",,-,Germany,1463,Schalke 04 U19 ,196227,500 Th. €,Donis Avdijaj,14/15,Germany,33,FC Schalke 04 
+"Jul 1, 2013",,-,Germany,21061,Schalke 04 U17 ,196227,-,Donis Avdijaj,13/14,Germany,1463,Schalke 04 U19 
+"Jul 1, 2011",,Free transfer,Germany,23889,Osnabrück Jgd. ,196227,-,Donis Avdijaj,11/12,Germany,21061,Schalke 04 U17 
+"Jan 14, 2013",,Free transfer,Austria,7001,Rapid Wien II ,81710,150 Th. €,Daniel Luxbacher,12/13,Austria,3551,SCR Altach 
+"Jan 13, 2013",,End of loan,Austria,2231,FC Lustenau ,81710,150 Th. €,Daniel Luxbacher,12/13,Austria,7001,Rapid Wien II 
+"Jul 1, 2011",,Loan,Austria,7001,Rapid Wien II ,81710,-,Daniel Luxbacher,11/12,Austria,2231,FC Lustenau 
+"Jan 1, 2009",,-,Austria,4753,AKA Rapid U18 ,81710,-,Daniel Luxbacher,08/09,Austria,7001,Rapid Wien II 
+"Jul 1, 2008",,-,Austria,42824,AKA Rapid U16 ,81710,-,Daniel Luxbacher,08/09,Austria,4753,AKA Rapid U18 
+"Jul 1, 2007",,-,Austria,42823,AKA Rapid U15 ,81710,-,Daniel Luxbacher,07/08,Austria,42824,AKA Rapid U16 
+"Aug 7, 2006",,Free transfer,Austria,20154,Stadlau Jugend ,81710,-,Daniel Luxbacher,06/07,Austria,42823,AKA Rapid U15 
+"Aug 26, 2002",,Free transfer,Austria,30820,Hirschst. Jug. ,81710,-,Daniel Luxbacher,02/03,Austria,20154,Stadlau Jugend 
+"Jan 1, 2016",,Loan,Japan,10999,Ventforet Kofu ,147734,200 Th. €,Taisuke Akiyoshi,15/16,Japan,22171,Fagiano Okayama 
+"Aug 1, 2015",,-,Japan,515,Unattached ,147734,200 Th. €,Taisuke Akiyoshi,15/16,,10999,Ventforet Kofu 
+"Jul 1, 2015",,Free transfer,Austria,122,Sturm Graz ,147734,200 Th. €,Taisuke Akiyoshi,15/16,,515,Unattached 
+"Jul 30, 2014",,Free transfer,Bosnia-Herzegovina,14621,Zvijezda G. ,147734,450 Th. €,Taisuke Akiyoshi,14/15,Austria,122,Sturm Graz 
+"Oct 28, 2013",,-,Bosnia-Herzegovina,515,Unattached ,147734,450 Th. €,Taisuke Akiyoshi,13/14,,14621,Zvijezda G. 
+"Jul 1, 2013",,-,Bulgaria,675,Slavia Sofia ,147734,450 Th. €,Taisuke Akiyoshi,13/14,,515,Unattached 
+"Jan 1, 2012",,Free transfer,Singapore,15356,Armed Forces FC ,147734,400 Th. €,Taisuke Akiyoshi,11/12,Bulgaria,675,Slavia Sofia 
+"Jan 1, 2010",,?,Singapore,23472,Albirex Niigata ,147734,-,Taisuke Akiyoshi,09/10,Singapore,15356,Armed Forces FC 
+"Jul 1, 2015",,?,Austria,503,Admira Wacker ,81694,500 Th. €,Konstantin Kerschbaumer,15/16,England,1148,Brentford 
+"Jan 7, 2015",,Swap deal,Austria,2662,SKN St. Pölten ,81694,250 Th. €,Konstantin Kerschbaumer,14/15,Austria,503,Admira Wacker 
+"Jul 1, 2013",,?,Austria,7001,Rapid Wien II ,81694,200 Th. €,Konstantin Kerschbaumer,13/14,Austria,2662,SKN St. Pölten 
+"Jun 30, 2013",,End of loan,Austria,2662,SKN St. Pölten ,81694,200 Th. €,Konstantin Kerschbaumer,12/13,Austria,7001,Rapid Wien II 
+"Jul 1, 2012",,Loan,Austria,7001,Rapid Wien II ,81694,200 Th. €,Konstantin Kerschbaumer,12/13,Austria,2662,SKN St. Pölten 
+"Jun 30, 2012",,End of loan,Austria,2364,Vienna ,81694,200 Th. €,Konstantin Kerschbaumer,11/12,Austria,7001,Rapid Wien II 
+"Jul 1, 2011",,Loan,Austria,7001,Rapid Wien II ,81694,-,Konstantin Kerschbaumer,11/12,Austria,2364,Vienna 
+"Jan 1, 2010",,-,Austria,4753,AKA Rapid U18 ,81694,-,Konstantin Kerschbaumer,09/10,Austria,7001,Rapid Wien II 
+"Aug 1, 2009",,Free transfer,Austria,7560,St. Pölten U18 ,81694,-,Konstantin Kerschbaumer,09/10,Austria,4753,AKA Rapid U18 
+"Aug 1, 2006",,?,Austria,30775,FC Tulln Jugend ,81694,-,Konstantin Kerschbaumer,06/07,Austria,7560,St. Pölten U18 
+"Jul 1, 2015",,200 Th. €,Austria,266,SV  Ried ,85791,650 Th. €,Stefan Lainer,15/16,Austria,409,RB Salzburg 
+"Jul 1, 2014",,?,Austria,37024,FC Liefering ,85791,250 Th. €,Stefan Lainer,14/15,Austria,266,SV  Ried 
+"Jul 1, 2012",,Free transfer,Austria,6227,RB Juniors ,85791,150 Th. €,Stefan Lainer,12/13,Austria,37024,FC Liefering 
+"Jun 30, 2012",,End of loan,Austria,10131,SV Grödig ,85791,150 Th. €,Stefan Lainer,11/12,Austria,6227,RB Juniors 
+"Jul 1, 2011",,Loan,Austria,6227,RB Juniors ,85791,-,Stefan Lainer,11/12,Austria,10131,SV Grödig 
+"Jan 1, 2010",,-,Austria,11263,Salzburg U19 ,85791,-,Stefan Lainer,09/10,Austria,6227,RB Juniors 
+"Jul 1, 2008",,-,Austria,42826,AKA Salzb. U16 ,85791,-,Stefan Lainer,08/09,Austria,11263,Salzburg U19 
+"Jul 1, 2007",,-,Austria,42825,AKA Salzb. U15 ,85791,-,Stefan Lainer,07/08,Austria,42826,AKA Salzb. U16 
+"Jul 1, 2006",,Free transfer,Austria,20165,Seekirchen Jgd. ,85791,-,Stefan Lainer,06/07,Austria,42825,AKA Salzb. U15 
+"Jul 1, 2014",,Free transfer,Romania,8174,FC Vaslui ,68896,450 Th. €,César Ortiz,14/15,Austria,3551,SCR Altach 
+"Jul 26, 2013",,Free transfer,Spain,3679,Atl. Madrid B ,68896,400 Th. €,César Ortiz,13/14,Romania,8174,FC Vaslui 
+"Jun 30, 2010",,End of loan,Greece,605,Aris Saloniki ,68896,400 Th. €,César Ortiz,09/10,Spain,3679,Atl. Madrid B 
+"Jan 1, 2010",,Loan,Spain,3679,Atl. Madrid B ,68896,400 Th. €,César Ortiz,09/10,Greece,605,Aris Saloniki 
+"Dec 31, 2009",,End of loan,Spain,1532,Albacete ,68896,400 Th. €,César Ortiz,09/10,Spain,3679,Atl. Madrid B 
+"Jul 1, 2009",,Loan,Spain,3679,Atl. Madrid B ,68896,100 Th. €,César Ortiz,09/10,Spain,1532,Albacete 
+"Jul 1, 2008",,-,Spain,13,Atlético Madrid ,68896,100 Th. €,César Ortiz,08/09,Spain,3679,Atl. Madrid B 
+"Jan 1, 2008",,-,Spain,3679,Atl. Madrid B ,68896,-,César Ortiz,07/08,Spain,13,Atlético Madrid 
+"Jul 1, 2007",,-,Spain,14734,A. Madrid Youth ,68896,-,César Ortiz,07/08,Spain,3679,Atl. Madrid B 
+"Aug 31, 2015",,Free transfer,Austria,17444,Wiener Neustadt ,161244,600 Th. €,Conor O'Brien,15/16,Denmark,2414,AC Horsens 
+"Aug 1, 2014",,Free transfer,Denmark,173,Odense BK ,161244,750 Th. €,Conor O'Brien,14/15,Austria,17444,Wiener Neustadt 
+"Aug 31, 2013",,?,Denmark,2778,Nordsjaelland ,161244,750 Th. €,Conor O'Brien,13/14,Denmark,173,Odense BK 
+"Jan 29, 2013",,Free transfer,Denmark,5817,SönderjyskE ,161244,500 Th. €,Conor O'Brien,12/13,Denmark,2778,Nordsjaelland 
+"Jul 1, 2011",,Free transfer,Denmark,20108,Jammerbugt FC ,161244,-,Conor O'Brien,11/12,Denmark,5817,SönderjyskE 
+"Jul 1, 2016",,Free transfer,Austria,17444,Wiener Neustadt ,80172,100 Th. €,Julian Salamon,16/17,Austria,19578,Mannsdorf 
+"Jul 1, 2014",,Free transfer,Austria,4320,SC/ESV Parndorf ,80172,100 Th. €,Julian Salamon,14/15,Austria,17444,Wiener Neustadt 
+"Jul 1, 2011",,Free transfer,Austria,9114,SC Neusiedl/See ,80172,-,Julian Salamon,11/12,Austria,4320,SC/ESV Parndorf 
+"Jul 1, 2009",,Free transfer,Austria,6611,AKA Austria U19 ,80172,-,Julian Salamon,09/10,Austria,9114,SC Neusiedl/See 
+"Jul 1, 2006",,?,Austria,2274,AKA Bgld. U18 ,80172,-,Julian Salamon,06/07,Austria,6611,Austria U19 
+"Aug 1, 2004",,Free transfer,Austria,16682,Mattersburg Jgd ,80172,-,Julian Salamon,04/05,Austria,2274,AKA Bgld. U18 
+"Aug 1, 2003",,?,Austria,75,Unknown ,80172,-,Julian Salamon,03/04,,16682,Mattersburg Jgd 
+"Jul 1, 2014",,-,Austria,7001,Rapid Wien II ,81714,-,Philipp Prosenik,14/15,Austria,170,Rapid Vienna 
+"Oct 18, 2013",,-,Austria,515,Unattached ,81714,50 Th. €,Philipp Prosenik,13/14,,7001,Rapid Wien II 
+"Jul 14, 2013",,-,Italy,10958,AC Milan U19 ,81714,50 Th. €,Philipp Prosenik,13/14,,515,Unattached 
+"Jan 31, 2012",,?,England,6918,Chelsea U18 ,81714,-,Philipp Prosenik,11/12,Italy,10958,AC Milan U19 
+"Jul 1, 2009",,100 Th. €,Austria,7001,Rapid Wien II ,81714,-,Philipp Prosenik,09/10,England,6918,Chelsea U18 
+"Jan 1, 2009",,-,Austria,4753,AKA Rapid U18 ,81714,-,Philipp Prosenik,08/09,Austria,7001,Rapid Wien II 
+"Jul 1, 2007",,Free transfer,Austria,19358,Schwechat Jgd. ,81714,-,Philipp Prosenik,07/08,Austria,4753,AKA Rapid U18 
+"Jan 1, 2001",,?,Germany,18929,TSV 1860 Jgd. ,81714,-,Philipp Prosenik,00/01,Austria,19358,Schwechat Jgd. 
+"Jul 1, 2016",,Free transfer,Germany,293,FSV Frankfurt ,164142,800 Th. €,Lukas Gugganig,16/17,Germany,65,Greuther Fürth 
+"Jul 1, 2015",,?,Austria,37024,FC Liefering ,164142,350 Th. €,Lukas Gugganig,15/16,Germany,293,FSV Frankfurt 
+"Jul 1, 2013",,-,Austria,11263,AKA Salzb. U18 ,164142,-,Lukas Gugganig,13/14,Austria,37024,FC Liefering 
+"Jul 1, 2011",,-,Austria,42826,AKA Salzb. U16 ,164142,-,Lukas Gugganig,11/12,Austria,11263,AKA Salzb. U18 
+"Jul 1, 2010",,-,Austria,42825,AKA Salzb. U15 ,164142,-,Lukas Gugganig,10/11,Austria,42826,AKA Salzb. U16 
+"Jul 27, 2009",,?,Austria,32526,Mühldorf Jgd ,164142,-,Lukas Gugganig,09/10,Austria,42825,AKA Salzb. U15 
+"Jul 1, 2015",,-,Austria,266,SV  Ried ,239922,50 Th. €,Kevin Brandstätter,15/16,Austria,13378,Neuhofen/SVR II 
+"Jul 1, 2014",,Free transfer,Austria,4420,AKA Linz U18 ,239922,-,Kevin Brandstätter,14/15,Austria,266,SV  Ried 
+"Oct 28, 2015",,End of loan,Austria,7443,FAC ,169271,100 Th. â‚¬,Tino Casali,15/16,Austria,14,Austria Vienna 
+"Jul 6, 2015",,Loan,Austria,14,Austria Vienna ,169271,100 Th. â‚¬,Tino Casali,15/16,Austria,7443,FAC 
+"Jul 1, 2014",,-,Austria,4383,Austria Wien II ,169271,50 Th. â‚¬,Tino Casali,14/15,Austria,14,Austria Vienna 
+"Jul 1, 2013",,?,Austria,4386,AKA KÃ¤rnten U18 ,169271,-,Tino Casali,13/14,Austria,4383,Austria Wien II 
+"Jul 1, 2009",,?,Austria,16524,Spittal Jugend ,169271,-,Tino Casali,09/10,Austria,4386,AKA KÃ¤rnten U19 
+"Jan 1, 2015",,-,Ghana,28962,RB Ghana ,254284,-,David Atanga,14/15,Austria,409,RB Salzburg 
+"Sep 1, 2010",,Free transfer,Ghana,75,Unknown ,254284,-,David Atanga,10/11,,28962,RB Ghana 
+"Jul 1, 2016",,350 Th. €,Poland,238,Lech Poznan ,94030,350 Th. €,Denis Thomalla,16/17,Germany,2036,1.FC Heidenheim 
+"Jun 30, 2016",,End of loan,Germany,2036,1.FC Heidenheim ,94030,350 Th. €,Denis Thomalla,15/16,Poland,238,Lech Poznan 
+"Jan 12, 2016",,Loan,Poland,238,Lech Poznan ,94030,350 Th. €,Denis Thomalla,15/16,Germany,2036,1.FC Heidenheim 
+"Jul 1, 2015",,400 Th. €,Germany,23826,RB Leipzig ,94030,750 Th. €,Denis Thomalla,15/16,Poland,238,Lech Poznan 
+"Jun 30, 2015",,End of loan,Austria,266,SV  Ried ,94030,750 Th. €,Denis Thomalla,14/15,Germany,23826,RB Leipzig 
+"Sep 1, 2014",,Loan,Germany,23826,RB Leipzig ,94030,250 Th. €,Denis Thomalla,14/15,Austria,266,SV  Ried 
+"Jul 1, 2013",,Free transfer,Germany,983,Hoffenheim II ,94030,200 Th. €,Denis Thomalla,13/14,Germany,23826,RB Leipzig 
+"Jul 1, 2012",,-,Germany,533,TSG Hoffenheim ,94030,200 Th. €,Denis Thomalla,12/13,Germany,983,Hoffenheim II 
+"Jul 1, 2011",,-,Germany,983,Hoffenheim II ,94030,250 Th. €,Denis Thomalla,11/12,Germany,533,TSG Hoffenheim 
+"Feb 1, 2010",,400 Th. €,Germany,5370,Karlsruhe U19 ,94030,-,Denis Thomalla,09/10,Germany,983,Hoffenheim II 
+"Jul 1, 2009",,-,Germany,21068,Karlsruhe U17 ,94030,-,Denis Thomalla,09/10,Germany,5370,Karlsruhe U19 
+"Jul 1, 2015",,-,Austria,33549,Wolfsberg II ,204113,-,Christoph Rabitsch,15/16,Austria,4441,Wolfsberger AC 
+"Jul 1, 2013",,-,Austria,4386,AKA KÃ¤rnten U18 ,204113,-,Christoph Rabitsch,13/14,Austria,33549,Wolfsberg II 
+"Jul 1, 2012",,-,Austria,42822,AKA KÃ¤rnten U16 ,204113,-,Christoph Rabitsch,11/12,Austria,4386,AKA KÃ¤rnten U18 
+"Jul 1, 2011",,-,Austria,42821,AKA KÃ¤rnten U15 ,204113,-,Christoph Rabitsch,11/12,Austria,42822,AKA KÃ¤rnten U16 
+"Jul 1, 2010",,-,Austria,16524,Spittal Jugend ,204113,-,Christoph Rabitsch,10/11,Austria,42821,AKA KÃ¤rnten U15 
+"Jun 30, 2016",,End of loan,Austria,503,Admira Wacker ,159571,400 Th. €,Markus Blutsch,15/16,Austria,413,LASK 
+"Jan 9, 2015",,Loan,Austria,413,LASK ,159571,175 Th. €,Markus Blutsch,14/15,Austria,503,Admira Wacker 
+"Jan 22, 2014",,-,Austria,935,FC Pasching ,159571,-,Markus Blutsch,13/14,Austria,413,LASK 
+"Jul 1, 2012",,?,Austria,4420,AKA Linz U18 ,159571,-,Markus Blutsch,12/13,Austria,935,FC Pasching 
+"Jan 1, 2010",,?,Austria,11176,Pasching Youth ,159571,-,Markus Blutsch,09/10,Austria,4420,AKA Linz U18 
+"Jul 1, 2008",,?,Austria,20459,St. Magdalena J ,159571,-,Markus Blutsch,08/09,Austria,11176,Pasching Youth 
+"Jul 1, 2005",,?,Austria,20982,LASK Jugend ,159571,-,Markus Blutsch,05/06,Austria,20459,St. Magdalena J 
+"Jul 1, 2002",,?,Austria,20459,St. Magdalena J ,159571,-,Markus Blutsch,02/03,Austria,20982,LASK Jugend 
+"Jul 1, 2015",,?,Austria,13378,Neuhofen/SVR II ,239446,-,Robert Pervan,15/16,Austria,11140,Stadl-Paura 
+"Jul 1, 2014",,?,Austria,20447,Edelweiß ,239446,-,Robert Pervan,14/15,Austria,13378,Neuhofen/SVR II 
+"Feb 27, 2013",,?,Austria,27933,Doppl-Hart ,239446,-,Robert Pervan,12/13,Austria,20447,Edelweiß 
+"Feb 11, 2013",,?,England,1072,Peterborough ,239446,-,Robert Pervan,12/13,Austria,27933,Doppl-Hart 
+"Aug 1, 2012",,?,Switzerland,37671,NK Pajde ,239446,-,Robert Pervan,12/13,England,1072,Peterborough 
+"Jan 1, 2012",,?,Austria,27933,Doppl-Hart ,239446,-,Robert Pervan,11/12,Switzerland,37671,NK Pajde 
+"Oct 1, 2010",,?,Austria,20982,LASK Jugend ,239446,-,Robert Pervan,10/11,Austria,27933,Doppl-Hart 
+"Jul 1, 2015",,Free transfer,Austria,409,RB Salzburg ,94559,500 Th. €,Nils Quaschner,15/16,Germany,23826,RB Leipzig 
+"Jul 1, 2014",,-,Austria,37024,FC Liefering ,94559,250 Th. €,Nils Quaschner,14/15,Austria,409,RB Salzburg 
+"Jul 18, 2013",,300 Th. €,Germany,30,Hansa Rostock ,94559,200 Th. €,Nils Quaschner,13/14,Austria,37024,FC Liefering 
+"Jul 1, 2012",,-,Germany,4052,H. Rostock U19 ,94559,50 Th. €,Nils Quaschner,12/13,Germany,30,Hansa Rostock 
+"Jul 1, 2010",,-,Germany,21065,H. Rostock U17 ,94559,-,Nils Quaschner,10/11,Germany,4052,H. Rostock U19 
+"Jan 1, 2009",,-,Germany,11846,H. Rostock Yth. ,94559,-,Nils Quaschner,08/09,Germany,21065,H. Rostock U17 
+"Jun 30, 2016",,End of loan,Austria,2444,FC Wacker ,159586,100 Th. €,Daniel Rosenbichler,15/16,Austria,4375,FC Admira II 
+"Jul 3, 2015",,Loan,Austria,4375,FC Admira II ,159586,125 Th. €,Daniel Rosenbichler,15/16,Austria,2444,FC Wacker 
+"Jan 1, 2012",,-,Austria,9699,AKA Admira U18 ,159586,-,Daniel Rosenbichler,11/12,Austria,4375,FC Admira II 
+"Jul 1, 2011",,-,Austria,42816,AKA Admira U16 ,159586,-,Daniel Rosenbichler,11/12,Austria,9699,AKA Admira U18 
+"Jul 1, 2010",,-,Austria,42815,AKA Admira U15 ,159586,-,Daniel Rosenbichler,10/11,Austria,42816,AKA Admira U16 
+"Jul 15, 2009",,?,Austria,33929,Pottschach Jgd ,159586,-,Daniel Rosenbichler,09/10,Austria,42815,AKA Admira U15 
+"Aug 2, 2007",,?,Austria,49728,Kirchberg Jgd. ,159586,-,Daniel Rosenbichler,07/08,Austria,33929,Pottschach Jgd 
+"Jul 1, 2014",,Free transfer,Austria,37024,FC Liefering ,111465,75 Th. €,Domenik Schierl,14/15,Austria,17444,Wiener Neustadt 
+"Jul 10, 2012",,Free transfer,Austria,6227,RB Juniors ,111465,-,Domenik Schierl,12/13,Austria,37024,FC Liefering 
+"Jul 1, 2011",,-,Austria,11263,AKA Salzb. U18 ,111465,-,Domenik Schierl,11/12,Austria,6227,RB Juniors 
+"Jul 1, 2010",,-,Austria,42826,AKA Salzb. U16 ,111465,-,Domenik Schierl,10/11,Austria,11263,AKA Salzb. U18 
+"Jul 1, 2009",,-,Austria,42825,AKA Salzb. U15 ,111465,-,Domenik Schierl,09/10,Austria,42826,AKA Salzb. U16 
+"Jul 1, 2008",,-,Austria,20161,Salzburg Jugend ,111465,-,Domenik Schierl,08/09,Austria,42825,AKA Salzb. U15 
+"Dec 18, 2007",,Free transfer,Austria,28978,TSV St. Johann Jugend ,111465,-,Domenik Schierl,07/08,Austria,20161,Salzburg Jugend 
+"Jan 27, 2015",,?,Czech Republic,377,Banik Ostrava ,264559,400 Th. €,Patrizio Stronati,14/15,Austria,14,Austria Vienna 
+"Jan 1, 2013",,?,Czech Republic,8684,FC Hlucin ,264559,-,Patrizio Stronati,12/13,Czech Republic,377,Banik Ostrava 
+"Jan 8, 2016",,500 Th. €,Austria,10131,SV Grödig ,327912,"1,00 Mill. €",Lucas Venuto,15/16,Austria,14,Austria Vienna 
+"Jul 1, 2015",,?,Austria,37024,FC Liefering ,327912,200 Th. €,Lucas Venuto,15/16,Austria,10131,SV Grödig 
+"Jun 30, 2015",,End of loan,Austria,10131,SV Grödig ,327912,200 Th. €,Lucas Venuto,14/15,Austria,37024,FC Liefering 
+"Jan 31, 2015",,Loan,Austria,37024,FC Liefering ,327912,100 Th. €,Lucas Venuto,14/15,Austria,10131,SV Grödig 
+"Jul 1, 2014",,Free transfer,Germany,26621,RB Leipzig U19 ,327912,-,Lucas Venuto,14/15,Austria,37024,FC Liefering 
+"Jan 19, 2014",,Free transfer,Brazil,22767,Red Bull ,327912,-,Lucas Venuto,13/14,Germany,26621,RB Leipzig U19 
+"Aug 1, 2015",,-,France,8158,Nizza B ,333683,-,Joey Joseph Daser,15/16,,515,Unattached 
+"Apr 1, 2015",,Free transfer,Germany,67,Unterhaching II ,333683,-,Joey Joseph Daser,14/15,France,8158,Nizza B 
+"Jan 1, 2015",,Free transfer,Austria,17444,Wiener Neustadt ,333683,-,Joey Joseph Daser,14/15,Germany,67,Unterhaching II 
+"Aug 1, 2014",,Free transfer,Germany,5083,Dyn. Dresden II ,333683,-,Joey Joseph Daser,13/14,Austria,17444,Wiener Neustadt 
+"Jul 1, 2014",,Free transfer,Austria,11853,A. Salzburg ,333683,-,Joey Joseph Daser,13/14,Germany,5083,Dyn. Dresden II 
+"Jul 1, 2013",,Free transfer,Germany,20711,1860 Ro. U19 ,333683,-,Joey Joseph Daser,13/14,Austria,11853,A. Salzburg 
+"Jan 1, 2013",,Free transfer,Germany,14822,Heidenheim U19 ,333683,-,Joey Joseph Daser,12/13,Germany,20711,1860 Ro. U19 
+"Jul 1, 2011",,-,Germany,36121,Heidenheim U17 ,333683,-,Joey Joseph Daser,11/12,Germany,14822,Heidenheim U19 
+"Jul 1, 2010",,Free transfer,Germany,36747,U'haching Jgd. ,333683,-,Joey Joseph Daser,10/11,Germany,36121,Heidenheim U17 
+"Jul 1, 2009",,Free transfer,Germany,18936,FC Bayern Youth ,333683,-,Joey Joseph Daser,09/10,Germany,36747,U'haching Jgd. 
+"Jul 1, 2006",,Free transfer,Germany,43813,Starnberg Jgd. ,333683,-,Joey Joseph Daser,06/07,Germany,18936,FC Bayern Youth 
+"Jun 30, 2016",,End of loan,Austria,9114,SC Neusiedl/See ,353172,50 Th. €,Ahmetcan Özmen,15/16,Austria,17444,Wiener Neustadt 
+"Jan 1, 2016",,Loan,Austria,17444,Wiener Neustadt ,353172,50 Th. €,Ahmetcan Özmen,15/16,Austria,9114,SC Neusiedl/See 
+"Jan 1, 2015",,-,Austria,23794,Wr. Neustadt II ,353172,-,Ahmetcan Özmen,14/15,Austria,17444,Wiener Neustadt 
+,'NoneType' object has no attribute 'find_all',,,,,57210,,,,,,
+"Jul 1, 2014",,Free transfer,Austria,37024,FC Liefering ,120188,225 Th. €,Sandro Djuric,14/15,Austria,10131,SV Grödig 
+"Jul 10, 2012",,Free transfer,Austria,6227,RB Juniors ,120188,-,Sandro Djuric,12/13,Austria,37024,FC Liefering 
+"Jan 1, 2011",,-,Austria,11263,AKA Salzb. U18 ,120188,-,Sandro Djuric,10/11,Austria,6227,RB Juniors 
+"Jul 1, 2010",,-,Austria,42826,AKA Salzb. U16 ,120188,-,Sandro Djuric,10/11,Austria,11263,AKA Salzb. U18 
+"Jul 1, 2009",,-,Austria,42825,AKA Salzb. U15 ,120188,-,Sandro Djuric,09/10,Austria,42826,AKA Salzb. U16 
+"Jul 1, 2008",,-,Austria,20161,Salzburg Jugend ,120188,-,Sandro Djuric,08/09,Austria,42825,AKA Salzb. U15 
+"Jul 9, 2007",,?,Austria,20981,Bischofsh. Jgd. ,120188,-,Sandro Djuric,07/08,Austria,20161,Salzburg Jugend 
+"Jul 1, 2014",,Free transfer,Austria,935,Pasching/LASK ,190848,-,Philipp Schobesberger,14/15,Austria,170,Rapid Vienna 
+"Jul 1, 2011",,?,Austria,23964,Eferding ,190848,-,Philipp Schobesberger,11/12,Austria,935,FC Pasching 
+"Jan 1, 2010",,?,Austria,20982,LASK Jugend ,190848,-,Philipp Schobesberger,09/10,Austria,23964,Eferding 
+"Jul 1, 2016",,Free transfer,Austria,10131,SV Grödig ,120202,300 Th. €,Roman Kerschbaum,16/17,Austria,2444,FC Wacker 
+"Jan 19, 2015",,?,Germany,473,Nürnberg II ,120202,75 Th. €,Roman Kerschbaum,14/15,Austria,10131,SV Grödig 
+"Jul 1, 2012",,Free transfer,Austria,7560,St. Pölten U18 ,120202,-,Roman Kerschbaum,12/13,Germany,473,Nürnberg II 
+"Jul 1, 2011",,-,Austria,42828,St. Pölten U16 ,120202,-,Roman Kerschbaum,11/12,Austria,7560,St. Pölten U18 
+"Jul 1, 2009",,-,Austria,42827,St. Pölten U15 ,120202,-,Roman Kerschbaum,09/10,Austria,42828,St. Pölten U16 
+"Jul 1, 2008",,-,Austria,20816,St. Pölten Jgd ,120202,-,Roman Kerschbaum,08/09,Austria,42827,St. Pölten U15 
+"Jul 15, 2007",,?,Austria,20813,Kottingbrunn J. ,120202,-,Roman Kerschbaum,07/08,Austria,20816,St. Pölten Jgd 
+"Aug 10, 2005",,?,Austria,47678,Neunkirchen J. ,120202,-,Roman Kerschbaum,05/06,Austria,20813,Kottingbrunn J. 
+"Jul 15, 2004",,?,Austria,47677,Willendorf J. ,120202,-,Roman Kerschbaum,04/05,Austria,47678,Neunkirchen J. 
+"Jul 1, 2011",,-,Austria,7780,SCR Altach II ,120206,-,Lukas Jäger,11/12,Austria,3551,SCR Altach 
+"Jan 1, 2011",,-,Austria,4390,Vorarlberg U18 ,120206,-,Lukas Jäger,10/11,Austria,7780,SCR Altach II 
+"Jul 1, 2010",,-,Austria,42836,Vorarlberg U16 ,120206,-,Lukas Jäger,10/11,Austria,4390,Vorarlberg U18 
+"Jul 1, 2009",,-,Austria,42835,Vorarlberg U15 ,120206,-,Lukas Jäger,09/10,Austria,42836,Vorarlberg U16 
+"Jul 1, 2008",,-,Austria,41808,Alberschw. Jgd ,120206,-,Lukas Jäger,08/09,Austria,42835,Vorarlberg U15 
+"Jul 1, 2016",,Free transfer,Austria,14,Austria Vienna ,24976,750 Th. €,Vance Sikov,16/17,,75,Unknown 
+"Jul 1, 2014",,Free transfer,Ukraine,4482,Volyn Lutsk ,24976,"1,40 Mill. €",Vance Sikov,14/15,Austria,14,Austria Vienna 
+"Jul 1, 2011",,Free transfer,Cyprus,4590,Ethnikos ,24976,400 Th. €,Vance Sikov,11/12,Ukraine,4482,Volyn Lutsk 
+"Jul 1, 2008",,Free transfer,Greece,683,Olympiacos ,24976,"1,00 Mill. €",Vance Sikov,08/09,Cyprus,4590,Ethnikos 
+"Jun 30, 2008",,End of loan,Greece,3392,Apollon 1926 ,24976,"1,00 Mill. €",Vance Sikov,07/08,Greece,683,Olympiacos 
+"Jul 1, 2007",,Loan,Greece,683,Olympiacos ,24976,"1,00 Mill. €",Vance Sikov,07/08,Greece,3392,Apollon 1926 
+"Jun 30, 2007",,End of loan,Greece,5219,AO Kerkyra ,24976,"1,00 Mill. €",Vance Sikov,06/07,Greece,683,Olympiacos 
+"Jan 2, 2007",,Loan,Greece,683,Olympiacos ,24976,"1,00 Mill. €",Vance Sikov,06/07,Greece,5219,AO Kerkyra 
+"Jan 1, 2007",,130 Th. €,Macedonia,6114,Pobeda Prilep ,24976,"1,00 Mill. €",Vance Sikov,06/07,Greece,683,Olympiacos 
+"Aug 1, 2006",,135 Th. €,Greece,128,AO Xanthi ,24976,"1,00 Mill. €",Vance Sikov,06/07,Macedonia,6114,Pobeda Prilep 
+"Jan 1, 2003",,Free transfer,Macedonia,8969,Tikves ,24976,-,Vance Sikov,02/03,Greece,128,AO Xanthi 
+"Jul 1, 2015",,Free transfer,Austria,17444,Wiener Neustadt ,69012,300 Th. €,Adam Susac,15/16,Germany,94,Erzgebirge Aue 
+"Oct 3, 2014",,-,Austria,515,Unattached ,69012,350 Th. €,Adam Susac,14/15,,17444,Wiener Neustadt 
+"Jul 1, 2014",,-,Germany,129,Dynamo Dresden ,69012,350 Th. €,Adam Susac,14/15,,515,Unattached 
+"Jul 12, 2013",,Free transfer,Croatia,144,HNK Rijeka ,69012,150 Th. €,Adam Susac,13/14,Germany,129,Dynamo Dresden 
+"Jun 30, 2013",,End of loan,Croatia,1520,NK Pomorac ,69012,150 Th. €,Adam Susac,12/13,Croatia,144,HNK Rijeka 
+"Jan 10, 2013",,Loan,Croatia,144,HNK Rijeka ,69012,150 Th. €,Adam Susac,12/13,Croatia,1520,NK Pomorac 
+"Jan 1, 2012",,Free transfer,Croatia,599,NK Varazdin ,69012,300 Th. €,Adam Susac,11/12,Croatia,144,HNK Rijeka 
+"Jun 30, 2009",,End of loan,Croatia,12630,NK Sloboda Varazdin ,69012,50 Th. €,Adam Susac,08/09,Croatia,599,Varteks 
+"Jan 1, 2009",,Loan,Croatia,599,Varteks ,69012,50 Th. €,Adam Susac,08/09,Croatia,12630,NK Sloboda Varazdin 
+"Jan 1, 2008",,-,Croatia,14448,Varteks U19 ,69012,-,Adam Susac,07/08,Croatia,599,Varteks 
+"Jul 1, 2016",,-,Austria,3551,SCR Altach ,48029,75 Th. €,Sebastian Brandner,16/17,,123,End of career 
+"Sep 2, 2010",,-,Austria,515,Unattached ,48029,100 Th. €,Sebastian Brandner,10/11,,3551,SCR Altach 
+"Jul 1, 2010",,-,Austria,2364,Vienna ,48029,100 Th. €,Sebastian Brandner,10/11,,515,Unattached 
+"Jul 1, 2006",,Free transfer,Austria,7791,SV Donau ,48029,-,Sebastian Brandner,06/07,Austria,2364,Vienna 
+"Jan 1, 2004",,Free transfer,Austria,2231,FC Lustenau ,48029,-,Sebastian Brandner,03/04,Austria,7791,SV Donau 
+"Jul 1, 2001",,Free transfer,Austria,16768,Dornbirner SV ,48029,-,Sebastian Brandner,01/02,Austria,2231,FC Lustenau 
+"Jul 1, 2000",,-,Austria,33648,Dornbirner SV J ,48029,-,Sebastian Brandner,00/01,Austria,16768,Dornbirner SV 
+"Jan 7, 2015",,800 Th. €,Japan,1022,Cerezo Osaka ,165793,"1,25 Mill. €",Takumi Minamino,14/15,Austria,409,RB Salzburg 
+"Jan 1, 2013",,-,Japan,25658,Cerezo Jugend ,165793,-,Takumi Minamino,12/13,Japan,1022,Cerezo Osaka 
+"Jan 1, 2015",,Free transfer,Croatia,2362,Slaven Belupo ,85922,250 Th. €,Petar Filipovic,14/15,Austria,266,SV  Ried 
+"Jul 1, 2013",,Free transfer,Croatia,314,Cibalia ,85922,300 Th. €,Petar Filipovic,13/14,Croatia,2362,Slaven Belupo 
+"Oct 22, 2012",,-,Croatia,515,Unattached ,85922,100 Th. €,Petar Filipovic,12/13,,314,Cibalia 
+"Jul 1, 2012",,-,Germany,35,FC St. Pauli ,85922,100 Th. €,Petar Filipovic,12/13,,515,Unattached 
+"Jul 1, 2011",,-,Germany,225,FC St. Pauli II ,85922,-,Petar Filipovic,11/12,Germany,35,FC St. Pauli 
+"Jul 1, 2009",,-,Germany,2486,St. Pauli U19 ,85922,-,Petar Filipovic,09/10,Germany,225,FC St. Pauli II 
+"Jul 1, 2007",,-,Germany,21062,St. Pauli U17 ,85922,-,Petar Filipovic,07/08,Germany,2486,St. Pauli U19 
+"Jul 1, 2005",,-,Germany,29107,St. Pauli Youth ,85922,-,Petar Filipovic,05/06,Germany,21062,St. Pauli U17 
+"Nov 8, 2015",,-,Slovenia,515,Unattached ,194467,75 Th. €,Erman Bevab,15/16,,789,Rudar Velenje 
+"Jul 1, 2015",,-,Austria,122,Sturm Graz ,194467,75 Th. €,Erman Bevab,15/16,,515,Unattached 
+"Jul 1, 2014",,-,Austria,4443,Sturm Graz II ,194467,-,Erman Bevab,14/15,Austria,122,Sturm Graz 
+"Jul 1, 2012",,-,Austria,4954,Sturm U18 ,194467,-,Erman Bevab,12/13,Austria,4443,Sturm Graz II 
+"Jul 1, 2016",,350 Th. €,Bosnia-Herzegovina,282,FK Sarajevo ,46500,650 Th. €,Tomislav Barbaric,16/17,Belgium,601,KV Kortrijk 
+"Jul 3, 2015",,?,Croatia,420,RNK Split ,46500,500 Th. €,Tomislav Barbaric,15/16,Bosnia-Herzegovina,282,FK Sarajevo 
+"Feb 3, 2015",,?,Austria,122,Sturm Graz ,46500,500 Th. €,Tomislav Barbaric,14/15,Croatia,420,RNK Split 
+"Jul 1, 2014",,Free transfer,Croatia,11194,NK Lokomotiva ,46500,750 Th. €,Tomislav Barbaric,14/15,Austria,122,Sturm Graz 
+"Feb 3, 2014",,?,Croatia,419,Dinamo Zagreb ,46500,650 Th. €,Tomislav Barbaric,13/14,Croatia,11194,NK Lokomotiva 
+"Dec 31, 2013",,End of loan,Croatia,11194,NK Lokomotiva ,46500,650 Th. €,Tomislav Barbaric,13/14,Croatia,419,Dinamo Zagreb 
+"Jul 1, 2012",,Loan,Croatia,419,Dinamo Zagreb ,46500,150 Th. €,Tomislav Barbaric,12/13,Croatia,11194,NK Lokomotiva 
+"Jun 30, 2012",,End of loan,Croatia,999,NK Istra 1961  ,46500,150 Th. €,Tomislav Barbaric,11/12,Croatia,419,Dinamo Zagreb 
+"Feb 3, 2012",,Loan,Croatia,419,Dinamo Zagreb ,46500,250 Th. €,Tomislav Barbaric,11/12,Croatia,999,NK Istra 1961  
+"Dec 31, 2008",,End of loan,Croatia,11194,NK Lokomotiva ,46500,300 Th. €,Tomislav Barbaric,08/09,Croatia,419,Dinamo Zagreb 
+"Aug 18, 2008",,Loan,Croatia,419,Dinamo Zagreb ,46500,200 Th. €,Tomislav Barbaric,08/09,Croatia,11194,NK Lokomotiva 
+"Jan 1, 2008",,-,Croatia,9641,Din. Zagreb U19 ,46500,-,Tomislav Barbaric,07/08,Croatia,419,Dinamo Zagreb 
+"Jul 1, 2014",,-,Austria,4375,FC Admira II ,122792,-,Markus Wostry,14/15,Austria,503,Admira Wacker 
+"Jan 1, 2010",,-,Austria,9699,AKA Admira U18 ,122792,-,Markus Wostry,09/10,Austria,4375,FC Admira II 
+"Jul 1, 2006",,-,Austria,20133,Admira Jugend ,122792,-,Markus Wostry,06/07,Austria,9699,AKA Admira U18 
+"Jan 1, 2005",,?,Austria,10198,Austria Youth ,122792,-,Markus Wostry,04/05,Austria,20133,Admira Jugend 
+"Jul 1, 2002",,?,Austria,20133,Admira Jugend ,122792,-,Markus Wostry,02/03,Austria,10198,Austria Youth 
+"Sep 1, 2001",,?,Austria,20146,FavAC Jugend ,122792,-,Markus Wostry,01/02,Austria,20133,Admira Jugend 
+"Jul 1, 2015",,Free transfer,Austria,33549,Wolfsberg II ,89513,-,Patrick Pfennich,15/16,Austria,18140,ATSV Wolfsberg 
+"Jan 30, 2014",,Free transfer,Austria,935,FC Pasching ,89513,-,Patrick Pfennich,13/14,Austria,33549,Wolfsberg II 
+"Jul 1, 2013",,Free transfer,Austria,33549,Wolfsberg II ,89513,-,Patrick Pfennich,13/14,Austria,935,FC Pasching 
+"Jul 1, 2012",,-,Austria,4441,Wolfsberger AC ,89513,50 Th. €,Patrick Pfennich,12/13,Austria,33549,Wolfsberg II 
+"Jul 1, 2008",,-,Austria,33549,Wolfsberg II ,89513,-,Patrick Pfennich,08/09,Austria,4441,WAC - St. Andrä 
+"Jul 1, 2008",,Free transfer,Austria,18140,ATSV Wolfsberg ,89513,-,Patrick Pfennich,08/09,Austria,33549,Wolfsberg II 
+"Jun 30, 2016",,End of loan,Austria,17444,Wiener Neustadt ,158124,150 Th. €,Mustafa Yavuz,15/16,Austria,503,Admira Wacker 
+"Jul 1, 2015",,Loan,Austria,503,Admira Wacker ,158124,50 Th. €,Mustafa Yavuz,15/16,Austria,17444,Wiener Neustadt 
+"Jul 1, 2014",,-,Austria,4375,FC Admira II ,158124,-,Mustafa Yavuz,14/15,Austria,503,Admira Wacker 
+"Jul 1, 2013",,?,Austria,9885,Simmering ,158124,-,Mustafa Yavuz,13/14,Austria,4375,FC Admira II 
+"Jul 1, 2012",,?,Austria,6611,AKA Austria U18 ,158124,-,Mustafa Yavuz,12/13,Austria,9885,Simmering 
+"Jul 1, 2008",,-,Austria,10198,Austria Youth ,158124,-,Mustafa Yavuz,08/09,Austria,6611,Austria U19 
+"Jul 1, 2003",,?,Austria,20146,FavAC Jugend ,158124,-,Mustafa Yavuz,03/04,Austria,10198,Austria Youth 
+"Jul 1, 2014",,-,Austria,4443,Sturm Graz II ,194477,-,Andreas Gruber,14/15,Austria,122,Sturm Graz 
+"Jul 1, 2012",,-,Austria,4954,Sturm U18 ,194477,-,Andreas Gruber,12/13,Austria,4443,Sturm Graz II 
+"Jul 1, 2011",,-,Austria,42830,Sturm Graz U16 ,194477,-,Andreas Gruber,11/12,Austria,4954,Sturm U18 
+"Jul 1, 2010",,-,Austria,42829,Sturm Graz U15 ,194477,-,Andreas Gruber,10/11,Austria,42830,Sturm Graz U16 
+"Mar 17, 2010",,?,Austria,20451,GAK Jugend ,194477,-,Andreas Gruber,09/10,Austria,42829,Sturm Graz U15 
+"Jan 27, 2016",,-,Egypt,515,Unattached ,63409,250 Th. â‚¬,HervÃ© OussalÃ©,15/16,,9219,Gaish 
+"Jul 1, 2015",,-,Austria,4441,Wolfsberger AC ,63409,250 Th. â‚¬,HervÃ© OussalÃ©,15/16,,515,Unattached 
+"Jan 25, 2015",,?,Gabon,38445,CF Mounana ,63409,450 Th. â‚¬,HervÃ© OussalÃ©,14/15,Austria,4441,Wolfsberger AC 
+"Jul 1, 2012",,?,Algeria,13364,ASO Chlef ,63409,450 Th. â‚¬,HervÃ© OussalÃ©,12/13,Gabon,38445,CF Mounana 
+"Jan 1, 2012",,?,Algeria,8850,MC Algier ,63409,450 Th. â‚¬,HervÃ© OussalÃ©,11/12,Algeria,13364,ASO Chlef 
+"Jul 1, 2011",,Free transfer,Iran,6079,Persepolis ,63409,450 Th. â‚¬,HervÃ© OussalÃ©,11/12,Algeria,8850,MC Algier 
+"Jul 1, 2010",,?,Belgium,1411,RAEC Mons ,63409,450 Th. â‚¬,HervÃ© OussalÃ©,10/11,Iran,6079,Persepolis 
+"Jan 1, 2010",,Free transfer,Germany,8,Alem. Aachen ,63409,400 Th. â‚¬,HervÃ© OussalÃ©,09/10,Belgium,1411,RAEC Mons 
+"Jan 1, 2009",,15 Th. â‚¬,Belgium,3898,FC BrÃ¼ssel ,63409,50 Th. â‚¬,HervÃ© OussalÃ©,08/09,Germany,8,Alem. Aachen 
+"Jul 1, 2007",,-,Belgium,10970,FC BrÃ¼ssel U19 ,63409,-,HervÃ© OussalÃ©,07/08,Belgium,3898,FC BrÃ¼ssel 
+"Jul 1, 2006",,?,Burkina Faso,1122,Etoile Filante ,63409,-,HervÃ© OussalÃ©,06/07,Belgium,10970,FC BrÃ¼ssel U19 
+"Jul 1, 2016",,Free transfer,Austria,2662,SKN St. Pölten ,167350,250 Th. €,Bernd Gschweidl,16/17,,75,Unknown 
+"Jan 21, 2016",,?,Austria,10131,SV Grödig ,167350,250 Th. €,Bernd Gschweidl,15/16,Austria,2662,SKN St. Pölten 
+"Jul 1, 2014",,?,Austria,10044,SV Horn ,167350,150 Th. €,Bernd Gschweidl,14/15,Austria,10131,SV Grödig 
+"Jul 10, 2013",,?,Austria,7560,St. Pölten U18 ,167350,50 Th. €,Bernd Gschweidl,13/14,Austria,10044,SV Horn 
+"Jul 1, 2011",,-,Austria,42828,St. Pölten U16 ,167350,-,Bernd Gschweidl,11/12,Austria,7560,St. Pölten U18 
+"Jul 1, 2010",,-,Austria,42827,St. Pölten U15 ,167350,-,Bernd Gschweidl,10/11,Austria,42828,St. Pölten U16 
+"Jul 15, 2009",,?,Austria,47679,Bisamberg Jgd. ,167350,-,Bernd Gschweidl,09/10,Austria,42827,St. Pölten U15 
+"Jan 1, 2016",,Free transfer,Slovenia,710,NK Celje  ,48062,300 Th. €,Abd Al Rahman Osman Ali,15/16,Austria,20296,Stripfing 
+"Aug 31, 2015",,Free transfer,Austria,17444,Wiener Neustadt ,48062,300 Th. €,Abd Al Rahman Osman Ali,15/16,Slovenia,710,NK Celje  
+"Jul 1, 2014",,Free transfer,Austria,2394,SV Kapfenberg ,48062,250 Th. €,Abd Al Rahman Osman Ali,14/15,Austria,17444,Wiener Neustadt 
+"Jul 1, 2013",,Free transfer,Austria,2231,FC Lustenau ,48062,150 Th. €,Abd Al Rahman Osman Ali,13/14,Austria,2394,SV Kapfenberg 
+"Jan 9, 2012",,?,Austria,9885,Simmering ,48062,50 Th. €,Abd Al Rahman Osman Ali,11/12,Austria,2231,FC Lustenau 
+"Jan 5, 2011",,Free transfer,Austria,31079,SV Großkrut ,48062,-,Abd Al Rahman Osman Ali,10/11,Austria,9885,Simmering 
+"Jul 1, 2009",,Free transfer,Austria,12239,Slovan HAC ,48062,-,Abd Al Rahman Osman Ali,09/10,Austria,31079,SV Großkrut 
+"Jul 1, 2008",,Free transfer,Austria,7079,Haitzendorf ,48062,-,Abd Al Rahman Osman Ali,08/09,Austria,12239,Slovan HAC 
+"Jan 31, 2008",,?,Austria,676,Wiener SK ,48062,-,Abd Al Rahman Osman Ali,07/08,Austria,7079,Haitzendorf 
+"Jul 9, 2007",,Free transfer,Austria,7001,Rapid Wien II ,48062,-,Abd Al Rahman Osman Ali,07/08,Austria,676,Wiener SK 
+"Jan 31, 2007",,?,Austria,12239,Slovan HAC ,48062,-,Abd Al Rahman Osman Ali,06/07,Austria,7001,Rapid Wien II 
+"Aug 14, 2003",,?,Austria,49022,Egypt Austria ,48062,-,Abd Al Rahman Osman Ali,03/04,Austria,12239,Slovan HAC 
+"Feb 24, 2003",,?,Austria,18531,Vienna Jgd. ,48062,-,Abd Al Rahman Osman Ali,02/03,Austria,49022,Egypt Austria 
+"Jul 1, 2013",,-,Austria,4753,AKA Rapid U18 ,158149,-,Armin Mujakic,13/14,Austria,7001,Rapid Wien II 
+"Jul 1, 2008",,-,Austria,20134,Rapid Jugend ,158149,-,Armin Mujakic,08/09,Austria,4753,AKA Rapid U18 
+"Jul 1, 2004",,?,Austria,20150,Donaufeld Jgd. ,158149,-,Armin Mujakic,04/05,Austria,20134,Rapid Jugend 
+"Jul 11, 2014",,?,Austria,33549,Wolfsberg II ,147399,-,Andreas Dlopst,14/15,Austria,503,Admira Wacker 
+"Jul 1, 2013",,Free transfer,Austria,4480,Villacher SV ,147399,-,Andreas Dlopst,13/14,Austria,33549,Wolfsberg II 
+"Jan 1, 2012",,?,Austria,4386,AKA KÃ¤rnten U18 ,147399,-,Andreas Dlopst,11/12,Austria,4480,Villacher SV 
+"Aug 1, 2008",,?,Austria,75,Unknown ,147399,-,Andreas Dlopst,08/09,,4386,AKA KÃ¤rnten U19 
+"Jul 1, 2016",,?,Austria,409,RB Salzburg ,146889,"1,25 Mill. €",Peter Ankersen,16/17,Denmark,190,FC Copenhagen 
+"Jun 30, 2016",,End of loan,Denmark,190,FC Copenhagen ,146889,"1,25 Mill. €",Peter Ankersen,15/16,Austria,409,RB Salzburg 
+"Jul 1, 2015",,Loan,Austria,409,RB Salzburg ,146889,"1,25 Mill. €",Peter Ankersen,15/16,Denmark,190,FC Copenhagen 
+"Jul 1, 2014",,"2,50 Mill. €",Denmark,3426,Esbjerg fB ,146889,"2,00 Mill. €",Peter Ankersen,14/15,Austria,409,RB Salzburg 
+"Aug 17, 2012",,?,Norway,195,Rosenborg BK ,146889,250 Th. €,Peter Ankersen,12/13,Denmark,3426,Esbjerg fB 
+"Mar 28, 2012",,?,Denmark,33324,Vejle-Kolding ,146889,300 Th. €,Peter Ankersen,11/12,Norway,195,Rosenborg BK 
+"Jul 1, 2011",,-,Denmark,443,Vejle BK ,146889,250 Th. €,Peter Ankersen,11/12,Denmark,33324,Vejle-Kolding 
+"Jul 1, 2010",,Free transfer,Denmark,3426,Esbjerg fB ,146889,50 Th. €,Peter Ankersen,10/11,Denmark,443,Vejle BK 
+"Jul 1, 2009",,-,Denmark,14349,Esbjerg fB U19 ,146889,-,Peter Ankersen,09/10,Denmark,3426,Esbjerg fB 
+"Jul 1, 2007",,-,Denmark,11253,EfB Youth ,146889,-,Peter Ankersen,07/08,Denmark,14349,Esbjerg fB U19 
+"Jul 1, 2016",,Free transfer,Austria,2444,FC Wacker ,52170,250 Th. €,Christian Deutschmann,16/17,,75,Unknown 
+"Jul 1, 2015",,Free transfer,Austria,17444,Wiener Neustadt ,52170,250 Th. €,Christian Deutschmann,15/16,Austria,2444,FC Wacker 
+"Jun 30, 2015",,End of loan,Austria,2444,FC Wacker ,52170,250 Th. €,Christian Deutschmann,14/15,Austria,17444,Wiener Neustadt 
+"Jan 31, 2015",,Loan,Austria,17444,Wiener Neustadt ,52170,250 Th. €,Christian Deutschmann,14/15,Austria,2444,FC Wacker 
+"Jul 1, 2014",,Free transfer,Austria,2466,SC Kalsdorf ,52170,-,Christian Deutschmann,14/15,Austria,17444,Wiener Neustadt 
+"Jan 8, 2014",,?,Austria,10281,Allerheiligen ,52170,-,Christian Deutschmann,13/14,Austria,2466,SC Kalsdorf 
+"Jul 1, 2013",,Free transfer,Austria,307,DSV Leoben ,52170,-,Christian Deutschmann,13/14,Austria,10281,Allerheiligen 
+"Jan 4, 2013",,-,Austria,515,Unattached ,52170,-,Christian Deutschmann,12/13,,307,DSV Leoben 
+"Oct 30, 2012",,-,Austria,316,Grazer AK ,52170,-,Christian Deutschmann,12/13,,515,Unattached 
+"Jul 1, 2007",,-,Austria,7648,GAK 1902 II ,52170,-,Christian Deutschmann,07/08,Austria,316,Grazer AK 
+"Jul 1, 2006",,-,Austria,8575,AKA GAK U19 ,52170,-,Christian Deutschmann,06/07,Austria,7648,GAK 1902 II 
+"Jul 1, 2005",,-,Austria,48604,GAK U17 ,52170,-,Christian Deutschmann,05/06,Austria,8575,AKA GAK U19 
+"Jul 1, 2004",,-,Austria,48605,GAK U15 ,52170,-,Christian Deutschmann,04/05,Austria,48604,GAK U17 
+"Jul 15, 2002",,Free transfer,Austria,48683,Murfeld Jgd. ,52170,-,Christian Deutschmann,02/03,Austria,48605,GAK U15 
+"Apr 4, 2001",,?,Austria,48158,Gössendorf J. ,52170,-,Christian Deutschmann,00/01,Austria,48683,Murfeld Jgd. 
+"Jan 29, 2016",,?,Austria,2232,SV Wallern ,155596,-,Darijo Pecirep,15/16,Austria,2157,Blau Weiss Linz 
+"Jul 15, 2015",,Free transfer,Austria,3551,SCR Altach ,155596,200 Th. €,Darijo Pecirep,15/16,Austria,2232,SV Wallern 
+"Jun 30, 2015",,End of loan,Austria,7443,FAC ,155596,200 Th. €,Darijo Pecirep,14/15,Austria,3551,SCR Altach 
+"Feb 2, 2015",,Loan,Austria,3551,SCR Altach ,155596,200 Th. €,Darijo Pecirep,14/15,Austria,7443,FAC 
+"Jul 1, 2014",,Free transfer,Austria,2232,SV Wallern ,155596,-,Darijo Pecirep,14/15,Austria,3551,SCR Altach 
+"Mar 4, 2013",,?,Slovakia,4529,Dunajska Streda ,155596,-,Darijo Pecirep,12/13,Austria,2232,SV Wallern 
+"Sep 20, 2012",,-,Slovakia,515,Unattached ,155596,-,Darijo Pecirep,12/13,,4529,Dunajska Streda 
+"Jul 1, 2012",,-,Austria,9885,Simmering ,155596,-,Darijo Pecirep,12/13,,515,Unattached 
+"Jul 1, 2010",,Free transfer,Austria,7437,LASK II ,155596,-,Darijo Pecirep,10/11,Austria,9885,Simmering 
+"Feb 24, 2010",,Free transfer,Bosnia-Herzegovina,29260,NK Kiseljak ,155596,-,Darijo Pecirep,09/10,Austria,7437,LASK II 
+"Jul 1, 2008",,Free transfer,Bosnia-Herzegovina,75,Unknown ,155596,-,Darijo Pecirep,08/09,,29260,NK Kiseljak 
+"Jul 1, 2015",,?,Austria,4443,Sturm Graz II ,158157,-,Felix Schmied,15/16,Austria,10281,Allerheiligen 
+"Jul 1, 2012",,-,Austria,4954,Sturm U18 ,158157,-,Felix Schmied,12/13,Austria,4443,Sturm Graz II 
+"Dec 31, 2015",,End of loan,Austria,7443,FAC ,150947,150 Th. €,Alexander Frank,15/16,Austria,14,Austria Vienna 
+"Jul 7, 2015",,Loan,Austria,14,Austria Vienna ,150947,150 Th. €,Alexander Frank,15/16,Austria,7443,FAC 
+"Mar 23, 2015",,-,Austria,4383,Austria Wien II ,150947,-,Alexander Frank,14/15,Austria,14,Austria Vienna 
+"Jul 1, 2011",,-,Austria,6611,AKA Austria U18 ,150947,-,Alexander Frank,11/12,Austria,4383,Austria Wien II 
+"Jul 1, 2008",,Free transfer,Austria,20154,Stadlau Jugend ,150947,-,Alexander Frank,08/09,Austria,6611,Austria U19 
+"Jul 14, 2015",,Free transfer,Austria,3551,SCR Altach ,156629,350 Th. €,Ivan Kovacec,15/16,"Korea, South",3535,Ulsan 
+"Jul 1, 2014",,Free transfer,Austria,37024,FC Liefering ,156629,225 Th. €,Ivan Kovacec,14/15,Austria,3551,SCR Altach 
+"Jun 30, 2014",,End of loan,Austria,413,LASK ,156629,225 Th. €,Ivan Kovacec,13/14,Austria,37024,FC Liefering 
+"Jan 30, 2014",,Loan,Austria,37024,FC Liefering ,156629,250 Th. €,Ivan Kovacec,13/14,Austria,413,LASK 
+"Jul 5, 2013",,Free transfer,Austria,935,FC Pasching ,156629,-,Ivan Kovacec,13/14,Austria,37024,FC Liefering 
+"Jul 1, 2012",,Free transfer,Austria,9128,Stegersbach ,156629,-,Ivan Kovacec,12/13,Austria,935,FC Pasching 
+"Jul 1, 2010",,?,Croatia,485,Hrv Dragovoljac ,156629,-,Ivan Kovacec,10/11,Austria,9128,Stegersbach 
+"Jul 1, 2009",,?,Croatia,11060,NK Krizevci ,156629,-,Ivan Kovacec,09/10,Croatia,485,Hrv Dragovoljac 
+"Jan 1, 2009",,?,Austria,18768,Jennersdorf ,156629,-,Ivan Kovacec,08/09,Croatia,11060,NK Krizevci 
+"Jan 1, 2008",,?,Croatia,11195,NK Zagorec ,156629,-,Ivan Kovacec,07/08,Austria,18768,Jennersdorf 
+"Jul 1, 2007",,?,Austria,32264,Sankt Michael ,156629,-,Ivan Kovacec,07/08,Croatia,11195,NK Zagorec 
+"Jul 1, 2006",,?,Austria,19593,Tschantschend. ,156629,-,Ivan Kovacec,06/07,Austria,32264,Sankt Michael 
+"Jan 1, 2006",,?,Croatia,29926,NK Nedeljanec ,156629,-,Ivan Kovacec,05/06,Austria,19593,Tschantschend. 
+"Aug 1, 2005",,?,Croatia,36354,Varteks U17 ,156629,-,Ivan Kovacec,05/06,Croatia,29926,NK Nedeljanec 
+"Jan 1, 2004",,-,Croatia,36382,Varteks Jugend ,156629,-,Ivan Kovacec,03/04,Croatia,36354,Varteks U17 
+"Jul 1, 2014",,Free transfer,Austria,2981,Neumarkt ,189912,-,Thomas Goiginger,14/15,Austria,10131,SV GrÃ¶dig 
+"Jan 13, 2012",,?,Austria,771,VÃ¶cklamarkt ,189912,-,Thomas Goiginger,11/12,Austria,2981,Neumarkt 
+"Jun 20, 2011",,?,Austria,10132,Eugendorf ,189912,-,Thomas Goiginger,11/12,Austria,771,VÃ¶cklamarkt 
+"Jul 9, 2010",,?,Austria,23339,KÃ¶stendorf ,189912,-,Thomas Goiginger,10/11,Austria,10132,Eugendorf 
+"Jun 30, 2017",,End of loan,Austria,4441,Wolfsberger AC ,197084,75 Th. €,Benjamin Rosenberger,16/17,Austria,122,Sturm Graz 
+"Jul 1, 2016",,Loan,Austria,122,Sturm Graz ,197084,75 Th. €,Benjamin Rosenberger,16/17,Austria,4441,Wolfsberger AC 
+"Jul 1, 2014",,-,Austria,4443,Sturm Graz II ,197084,-,Benjamin Rosenberger,14/15,Austria,122,Sturm Graz 
+"Jul 1, 2013",,-,Austria,4954,Stmk.-Sturm U18 ,197084,-,Benjamin Rosenberger,13/14,Austria,4443,Sturm Graz II 
+"Sep 11, 2012",,?,Austria,11263,AKA Salzb. U18 ,197084,-,Benjamin Rosenberger,12/13,Austria,4954,Sturm U18 
+"Jul 1, 2012",,-,Austria,42826,AKA Salzb. U16 ,197084,-,Benjamin Rosenberger,12/13,Austria,11263,AKA Salzb. U18 
+"Jul 1, 2011",,-,Austria,42825,AKA Salzb. U15 ,197084,-,Benjamin Rosenberger,11/12,Austria,42826,AKA Salzb. U16 
+"Jul 7, 2010",,?,Austria,8575,AKA GAK U19 ,197084,-,Benjamin Rosenberger,10/11,Austria,42825,AKA Salzb. U15 
+"Jan 1, 2010",,-,Austria,20451,GAK Jugend ,197084,-,Benjamin Rosenberger,09/10,Austria,8575,AKA GAK U19 
+"Jul 16, 2007",,?,Austria,48139,Eggersdorf J. ,197084,-,Benjamin Rosenberger,07/08,Austria,20451,GAK Jugend 
+"Jul 1, 2014",,-,Austria,7780,SCR Altach II ,181725,50 Th. €,Stefan Umjenovic,14/15,Austria,3551,SCR Altach 
+"Jul 1, 2013",,-,Austria,4390,Vorarlberg U18 ,181725,50 Th. €,Stefan Umjenovic,13/14,Austria,7780,SCR Altach II 
+"Jan 1, 2011",,-,Austria,42836,Vorarlberg U16 ,181725,-,Stefan Umjenovic,10/11,Austria,4390,Vorarlberg U18 
+"Jul 1, 2010",,-,Austria,42835,Vorarlberg U15 ,181725,-,Stefan Umjenovic,10/11,Austria,42836,Vorarlberg U16 
+"Jul 1, 2009",,-,Austria,20854,Wolfurt Jugend ,181725,-,Stefan Umjenovic,09/10,Austria,42835,Vorarlberg U15 
+"Jan 22, 2015",,250 Th. €,Germany,79,VfB Stuttgart ,104414,"1,00 Mill. €",Raphael Holzhauser,14/15,Austria,14,Austria Vienna 
+"Jun 30, 2014",,End of loan,Germany,167,FC Augsburg ,104414,"2,00 Mill. €",Raphael Holzhauser,13/14,Germany,79,VfB Stuttgart 
+"Jul 1, 2013",,Loan fee:300 Th. €,Germany,79,VfB Stuttgart ,104414,"3,00 Mill. €",Raphael Holzhauser,13/14,Germany,167,FC Augsburg 
+"Jul 1, 2012",,-,Germany,102,Stuttgart II ,104414,800 Th. €,Raphael Holzhauser,12/13,Germany,79,VfB Stuttgart 
+"Jul 1, 2010",,-,Germany,2517,Stuttgart U19 ,104414,-,Raphael Holzhauser,10/11,Germany,102,Stuttgart II 
+"Jul 1, 2009",,100 Th. €,Austria,4753,AKA Rapid U18 ,104414,-,Raphael Holzhauser,09/10,Germany,2517,Stuttgart U19 
+"Jul 1, 2007",,-,Austria,20134,Rapid Jugend ,104414,-,Raphael Holzhauser,07/08,Austria,4753,AKA Rapid U18 
+"Jul 1, 2003",,Free transfer,Austria,33912,Teesdorf Jgd ,104414,-,Raphael Holzhauser,03/04,Austria,20134,Rapid Jugend 
+"Jul 1, 2015",,Free transfer,Austria,10131,SV Grödig ,336874,250 Th. €,Sunday Emmanuel,15/16,Portugal,3349,Feirense 
+"Aug 25, 2014",,?,Vietnam,36046,Than Quang Ninh ,336874,-,Sunday Emmanuel,14/15,Austria,10131,SV Grödig 
+"May 1, 2014",,?,Vietnam,35327,Thanh Hoa FC ,336874,-,Sunday Emmanuel,13/14,Vietnam,36046,Than Quang Ninh 
+"Jan 1, 2014",,?,Vietnam,10756,Bec. Binh Duong ,336874,-,Sunday Emmanuel,13/14,Vietnam,35327,Thanh Hoa FC 
+"Jan 1, 2013",,?,Vietnam,35327,Thanh Hoa FC ,336874,-,Sunday Emmanuel,12/13,Vietnam,10756,Bec. Binh Duong 
+"Jan 1, 2011",,?,Nigeria,17064,Sunshine Stars ,336874,-,Sunday Emmanuel,10/11,Vietnam,35327,Thanh Hoa FC 
+"Jul 1, 2010",,?,Nigeria,16994,Gombe United ,336874,-,Sunday Emmanuel,10/11,Nigeria,17064,Sunshine Stars 
+"Jul 1, 2012",,-,Austria,6611,AKA Austria U18 ,186358,-,Michael Endlicher,12/13,Austria,4383,Austria Wien II 
+"Jul 1, 2010",,-,Austria,10198,Austria Youth ,186358,-,Michael Endlicher,10/11,Austria,6611,AKA Austria U18 
+"Jul 17, 2015",,?,Italy,1025,Bologna ,143863,400 Th. €,Martí Riverola,15/16,Italy,704,Foggia 
+"Jun 30, 2015",,End of loan,Austria,3551,SCR Altach ,143863,400 Th. €,Martí Riverola,14/15,Italy,1025,Bologna 
+"Jan 30, 2015",,Loan,Italy,1025,Bologna ,143863,400 Th. €,Martí Riverola,14/15,Austria,3551,SCR Altach 
+"Jun 30, 2014",,End of loan,Spain,237,RCD Mallorca ,143863,500 Th. €,Martí Riverola,13/14,Italy,1025,Bologna 
+"Aug 26, 2013",,Loan,Italy,1025,Bologna ,143863,700 Th. €,Martí Riverola,13/14,Spain,237,RCD Mallorca 
+"Jul 1, 2012",,Free transfer,Spain,2464,FC Barcelona B ,143863,600 Th. €,Martí Riverola,12/13,Italy,1025,Bologna 
+"Jun 30, 2011",,End of loan,Netherlands,499,Vitesse ,143863,600 Th. €,Martí Riverola,10/11,Spain,2464,FC Barcelona B 
+"Jan 7, 2011",,Loan,Spain,2464,FC Barcelona B ,143863,200 Th. €,Martí Riverola,10/11,Netherlands,499,Vitesse 
+"Jul 1, 2010",,-,Spain,2470,Barça Juvenil A ,143863,-,Martí Riverola,10/11,Spain,2464,FC Barcelona B 
+"Jul 1, 2008",,-,Spain,14321,Barcelona Cad. ,143863,-,Martí Riverola,08/09,Spain,2470,Barça Juvenil A 
+"Jul 1, 2014",,-,Austria,4375,FC Admira II ,195577,-,Marcus Maier,14/15,Austria,503,Admira Wacker 
+"Jan 10, 2013",,-,Austria,9699,AKA Admira U18 ,195577,-,Marcus Maier,12/13,Austria,4375,FC Admira II 
+"Jul 1, 2014",,Free transfer,Austria,4390,Vorarlberg U18 ,250874,-,Marko Martinovic,14/15,Austria,7780,SCR Altach II 
+"Jul 1, 2012",,-,Austria,42836,Vorarlberg U16 ,250874,-,Marko Martinovic,12/13,Austria,4390,Vorarlberg U18 
+"Jul 1, 2011",,-,Austria,42835,Vorarlberg U15 ,250874,-,Marko Martinovic,11/12,Austria,42836,Vorarlberg U16 
+"Jul 1, 2010",,Free transfer,Austria,48546,Lochau Jgd. ,250874,-,Marko Martinovic,10/11,Austria,42835,Vorarlberg U15 

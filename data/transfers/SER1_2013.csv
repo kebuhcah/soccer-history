@@ -1,0 +1,959 @@
+date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jun 30, 2015",,End of loan,Serbia,18382.0,Sloga Kraljevo ,296963,50 Th. €,Ivan Miladinovic,14/15,Serbia,12132.0,Jagodina 
+"Jan 1, 2015",,Loan,Serbia,12132.0,Jagodina ,296963,50 Th. €,Ivan Miladinovic,14/15,Serbia,18382.0,Sloga Kraljevo 
+"Dec 31, 2014",,End of loan,Serbia,48563.0,Tabane ,296963,50 Th. €,Ivan Miladinovic,14/15,Serbia,12132.0,Jagodina 
+"Sep 1, 2013",,Loan,Serbia,12132.0,Jagodina ,296963,-,Ivan Miladinovic,13/14,Serbia,48563.0,Tabane 
+"Jul 1, 2015",,?,Canada,75.0,Unknown ,107013,100 Th. €,Aleksandar Stojiljkovic,15/16,,36503.0,SC Waterloo 
+"Jul 1, 2014",,?,Serbia,6621.0,FK Cukaricki ,107013,100 Th. €,Aleksandar Stojiljkovic,14/15,,75.0,Unknown 
+"Jun 30, 2014",,End of loan,Serbia,12931.0,Sindjelic Belgrad ,107013,100 Th. €,Aleksandar Stojiljkovic,13/14,Serbia,6621.0,FK Cukaricki 
+"Jan 21, 2014",,Loan,Serbia,6621.0,FK Cukaricki ,107013,100 Th. €,Aleksandar Stojiljkovic,13/14,Serbia,12931.0,Sindjelic Belgrad 
+"Feb 1, 2012",,?,Serbia,25070.0,Sopot ,107013,-,Aleksandar Stojiljkovic,11/12,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2010",,?,Serbia,6620.0,CSK Celarevo ,107013,-,Aleksandar Stojiljkovic,10/11,Serbia,25070.0,Sopot 
+"Jul 15, 2015",,Free transfer,Serbia,448.0,Vojvodina ,292872,150 Th. €,Nikola Mojsilovic,15/16,Serbia,4650.0,FK Backa 
+"Jun 30, 2015",,End of loan,Serbia,33328.0,Surdulica ,292872,150 Th. €,Nikola Mojsilovic,14/15,Serbia,448.0,Vojvodina 
+"Jan 1, 2015",,Loan,Serbia,448.0,Vojvodina ,292872,150 Th. €,Nikola Mojsilovic,14/15,Serbia,33328.0,Surdulica 
+"Aug 1, 2014",,?,Serbia,12132.0,Jagodina ,292872,-,Nikola Mojsilovic,14/15,Serbia,448.0,Vojvodina 
+"Jan 15, 2014",,?,Serbia,41613.0,FK IM Rakovica ,292872,-,Nikola Mojsilovic,13/14,Serbia,12132.0,Jagodina 
+"Jul 1, 2015",,Free transfer,Serbia,45575.0,FK Semendrija ,163341,-,Nemanja Lekanic,15/16,Serbia,4657.0,FK Macva Sabac 
+"Jul 1, 2014",,?,Serbia,11066.0,Sloboda Uzice ,163341,-,Nemanja Lekanic,14/15,Serbia,45575.0,FK Semendrija 
+"Feb 1, 2014",,?,Serbia,18382.0,Sloga Kraljevo ,163341,-,Nemanja Lekanic,13/14,Serbia,11066.0,Sloboda Uzice 
+"Jul 7, 2013",,?,Serbia,12931.0,Sindjelic Belgrad ,163341,-,Nemanja Lekanic,13/14,Serbia,18382.0,Sloga Kraljevo 
+"Aug 1, 2011",,?,Serbia,3521.0,FK Zemun ,163341,-,Nemanja Lekanic,11/12,Serbia,12931.0,Sindjelic Belgrad 
+"May 1, 2011",,End of loan,Serbia,3543.0,FK Mladenovac ,163341,-,Nemanja Lekanic,10/11,Serbia,3521.0,FK Zemun 
+"Jan 1, 2011",,Loan,Serbia,3521.0,FK Zemun ,163341,-,Nemanja Lekanic,10/11,Serbia,3543.0,FK Mladenovac 
+"Aug 1, 2010",,?,Serbia,23682.0,Dorcol ,163341,-,Nemanja Lekanic,10/11,Serbia,3521.0,FK Zemun 
+"Aug 1, 2009",,?,Serbia,12373.0,FK Partizan U19 ,163341,-,Nemanja Lekanic,09/10,Serbia,23682.0,Dorcol 
+"Jan 1, 2009",,?,Serbia,12931.0,Sindjelic Belgrad ,163341,-,Nemanja Lekanic,08/09,Serbia,12373.0,FK Partizan U19 
+"Jan 1, 2016",,?,Serbia,12514.0,Kolubara ,160272,150 Th. €,Slobodan Dincic,15/16,Serbia,3521.0,FK Zemun 
+"Jul 8, 2015",,Free transfer,Serbia,8819.0,Javor Ivanjica ,160272,150 Th. €,Slobodan Dincic,15/16,Serbia,12514.0,Kolubara 
+"Jul 1, 2014",,?,Vietnam,35327.0,Thanh Hoa FC ,160272,150 Th. €,Slobodan Dincic,14/15,Serbia,8819.0,Javor Ivanjica 
+"May 7, 2014",,?,Serbia,12135.0,FK Metalac ,160272,150 Th. €,Slobodan Dincic,13/14,Vietnam,35327.0,Thanh Hoa FC 
+"Jan 15, 2014",,?,Serbia,6621.0,FK Cukaricki ,160272,150 Th. €,Slobodan Dincic,13/14,Serbia,12135.0,FK Metalac 
+"Aug 1, 2012",,Free transfer,Slovenia,6248.0,NK Domzale ,160272,250 Th. €,Slobodan Dincic,12/13,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2012",,?,Portugal,2423.0,Santa Clara ,160272,250 Th. €,Slobodan Dincic,12/13,Slovenia,6248.0,NK Domzale 
+"Jul 1, 2011",,?,Serbia,8975.0,BASK Belgrad ,160272,300 Th. €,Slobodan Dincic,11/12,Portugal,2423.0,Santa Clara 
+"Jul 1, 2010",,?,Serbia,14770.0,Srem Jakovo ,160272,-,Slobodan Dincic,10/11,Serbia,8975.0,BASK Belgrad 
+"Jul 1, 2009",,?,Bosnia-Herzegovina,3451.0,Leotar Trebinje ,160272,-,Slobodan Dincic,09/10,Serbia,14770.0,Srem Jakovo 
+"Dec 31, 2015",,End of loan,Serbia,4646.0,Teleoptik Zemun ,273945,100 Th. €,Miroslav Bogosavac,15/16,Serbia,669.0,FK Partizan 
+"Aug 31, 2015",,Loan,Serbia,669.0,FK Partizan ,273945,100 Th. €,Miroslav Bogosavac,15/16,Serbia,4646.0,Teleoptik Zemun 
+"Jun 30, 2015",,End of loan,Serbia,4646.0,Teleoptik Zemun ,273945,100 Th. €,Miroslav Bogosavac,14/15,Serbia,669.0,FK Partizan 
+"Aug 15, 2013",,Loan,Serbia,669.0,FK Partizan ,273945,-,Miroslav Bogosavac,13/14,Serbia,4646.0,Teleoptik Zemun 
+"Aug 14, 2013",,-,Serbia,12373.0,FK Partizan U19 ,273945,-,Miroslav Bogosavac,13/14,Serbia,669.0,FK Partizan 
+"Aug 27, 2015",,Free transfer,Hungary,709.0,Budapest Honvéd ,60442,150 Th. €,Marko Vidovic,15/16,Albania,4040.0,FK Partizani 
+"Aug 29, 2014",,Free transfer,Moldova,13278.0,FC Tiraspol ,60442,200 Th. €,Marko Vidovic,14/15,Hungary,709.0,Budapest Honvéd 
+"Jan 20, 2014",,?,Serbia,15276.0,Spartak Sub. ,60442,200 Th. €,Marko Vidovic,13/14,Moldova,13278.0,FC Tiraspol 
+"Jul 8, 2013",,Free transfer,Hungary,27397.0,Egri FC ,60442,200 Th. €,Marko Vidovic,13/14,Serbia,15276.0,Spartak Sub. 
+"Mar 1, 2013",,-,Hungary,515.0,Unattached ,60442,300 Th. €,Marko Vidovic,12/13,,27397.0,Egri FC 
+"Dec 3, 2012",,-,Hungary,709.0,Budapest Honvéd ,60442,300 Th. €,Marko Vidovic,12/13,,515.0,Unattached 
+"Feb 20, 2012",,Free transfer,Bulgaria,156.0,Levski Sofia ,60442,250 Th. €,Marko Vidovic,11/12,Hungary,709.0,Budapest Honvéd 
+"Jan 1, 2011",,50 Th. €,Cyprus,3899.0,Anor. Famagusta ,60442,500 Th. €,Marko Vidovic,10/11,Bulgaria,156.0,Levski Sofia 
+"Jul 1, 2010",,?,Montenegro,4391.0,B. Podgorica ,60442,500 Th. €,Marko Vidovic,10/11,Cyprus,3899.0,Anor. Famagusta 
+"Jan 1, 2008",,?,Serbia,11836.0,FK Hajduk ,60442,-,Marko Vidovic,07/08,Montenegro,4391.0,B. Podgorica 
+"Aug 7, 2015",,?,Serbia,53.0,OFK Beograd ,291247,900 Th. €,Dejan Drazic,15/16,Spain,940.0,Celta de Vigo 
+"Jan 27, 2014",,-,Serbia,15072.0,OFK Beograd U19 ,291247,400 Th. €,Dejan Drazic,13/14,Serbia,53.0,OFK Beograd 
+"Jun 30, 2016",,End of loan,Serbia,75.0,Unknown ,296965,50 Th. €,Sinisa Urosevic,15/16,,12132.0,Jagodina 
+"Jul 15, 2015",,Loan,Serbia,12132.0,Jagodina ,296965,50 Th. €,Sinisa Urosevic,15/16,,75.0,Unknown 
+"Jun 30, 2015",,End of loan,Serbia,48563.0,Tabane ,296965,50 Th. €,Sinisa Urosevic,14/15,Serbia,12132.0,Jagodina 
+"Jul 1, 2013",,Loan,Serbia,12132.0,Jagodina ,296965,-,Sinisa Urosevic,13/14,Serbia,48563.0,Tabane 
+"Dec 1, 2015",,?,Serbia,37986.0,Moravac Mrstane ,285734,100 Th. €,Stefan Markovic,15/16,Serbia,11045.0,Radnicki Pirot 
+"Jul 1, 2014",,?,Serbia,7567.0,Radnicki Nis ,285734,100 Th. €,Stefan Markovic,14/15,Serbia,37986.0,Moravac Mrstane 
+"Jun 30, 2016",,End of loan,Serbia,4650.0,FK Backa ,75819,-,Stefan Zogovic,15/16,Serbia,448.0,Vojvodina 
+"Aug 1, 2015",,Loan,Serbia,448.0,Vojvodina ,75819,-,Stefan Zogovic,15/16,Serbia,4650.0,FK Backa 
+"Jun 30, 2015",,End of loan,Serbia,4650.0,FK Backa ,75819,-,Stefan Zogovic,14/15,Serbia,448.0,Vojvodina 
+"Aug 15, 2014",,Loan,Serbia,448.0,Vojvodina ,75819,-,Stefan Zogovic,14/15,Serbia,4650.0,FK Backa 
+"Aug 1, 2014",,Free transfer,Serbia,9937.0,Donji Srem ,75819,-,Stefan Zogovic,14/15,Serbia,448.0,Vojvodina 
+"Jan 1, 2014",,Free transfer,Montenegro,3070.0,FK Sutjeska Niksic ,75819,-,Stefan Zogovic,13/14,Serbia,9937.0,Donji Srem 
+"Aug 1, 2011",,Loan,Serbia,448.0,Vojvodina ,75819,-,Stefan Zogovic,11/12,Montenegro,3070.0,FK Sutjeska Niksic 
+"Jun 30, 2011",,End of loan,Serbia,2388.0,FK Novi Sad ,75819,-,Stefan Zogovic,10/11,Serbia,448.0,Vojvodina 
+"Jan 1, 2011",,Loan,Serbia,448.0,Vojvodina ,75819,-,Stefan Zogovic,10/11,Serbia,2388.0,FK Novi Sad 
+"Dec 1, 2010",,End of loan,Serbia,5757.0,FK Palic Koming ,75819,-,Stefan Zogovic,10/11,Serbia,12865.0,Vojvodina U21 
+"Aug 1, 2009",,Loan,Serbia,12865.0,Vojvodina U21 ,75819,-,Stefan Zogovic,09/10,Serbia,5757.0,FK Palic Koming 
+"Jul 1, 2015",,-,Serbia,15071.0,Napredak Krusevac U19 ,270901,-,Milos Vulic,15/16,Serbia,788.0,Napredak 
+"Jan 30, 2016",,Free transfer,Macedonia,21775.0,Teteks Tetovo ,130619,-,Darko Micevski,15/16,Serbia,4633.0,Novi Pazar 
+"Jul 1, 2015",,Free transfer,Serbia,53.0,OFK Beograd ,130619,400 Th. €,Darko Micevski,15/16,Macedonia,21775.0,Teteks Tetovo 
+"Aug 16, 2013",,?,Macedonia,21775.0,Teteks Tetovo ,130619,100 Th. €,Darko Micevski,13/14,Serbia,53.0,OFK Beograd 
+"Jan 1, 2013",,Loan,Macedonia,4641.0,Rabotnicki ,130619,100 Th. €,Darko Micevski,12/13,Macedonia,21775.0,Teteks Tetovo 
+"Jan 1, 2011",,?,Serbia,11066.0,Sloboda Uzice ,130619,100 Th. €,Darko Micevski,10/11,Macedonia,4641.0,Rabotnicki 
+"Aug 14, 2015",,Free transfer,Hungary,9241.0,Diósgyör ,147210,350 Th. €,Lazar Marjanovic,15/16,Bosnia-Herzegovina,3900.0,B. Banja Luka 
+"Feb 3, 2014",,?,Serbia,4645.0,Radnicki 1923 ,147210,250 Th. €,Lazar Marjanovic,13/14,Hungary,9241.0,Diósgyör 
+"Jul 8, 2013",,Free transfer,Bosnia-Herzegovina,6808.0,Zrinjski Mostar ,147210,275 Th. €,Lazar Marjanovic,13/14,Serbia,4645.0,Radnicki 1923 
+"Jul 1, 2011",,Free transfer,Bosnia-Herzegovina,3451.0,Leotar Trebinje ,147210,-,Lazar Marjanovic,11/12,Bosnia-Herzegovina,6808.0,Zrinjski Mostar 
+"Jul 1, 2010",,?,Serbia,11046.0,FK Srem ,147210,-,Lazar Marjanovic,10/11,Bosnia-Herzegovina,3451.0,Leotar Trebinje 
+"Jan 1, 2014",,?,Serbia,12373.0,FK Partizan U19 ,270400,-,Stefan Ilic,13/14,Serbia,15276.0,Spartak Sub. 
+"Jan 22, 2016",,?,Serbia,15276.0,Spartak Sub. ,74308,250 Th. €,Bojan Bozovic,15/16,Bahrain,34996.0,Manama Club 
+"Aug 31, 2015",,?,Saudi Arabia,37372.0,Shoalah ,74308,350 Th. €,Bojan Bozovic,15/16,Serbia,15276.0,Spartak Sub. 
+"Feb 1, 2015",,Free transfer,Serbia,788.0,Napredak ,74308,350 Th. €,Bojan Bozovic,14/15,Saudi Arabia,37372.0,Shoalah 
+"Jan 29, 2014",,?,Serbia,10319.0,FK Bezanija ,74308,200 Th. €,Bojan Bozovic,13/14,Serbia,788.0,Napredak 
+"Sep 1, 2013",,?,Thailand,34292.0,Chainat FC ,74308,200 Th. €,Bojan Bozovic,13/14,Serbia,10319.0,FK Bezanija 
+"Feb 1, 2013",,?,Serbia,11836.0,FK Hajduk ,74308,200 Th. €,Bojan Bozovic,12/13,Thailand,34292.0,Chainat FC 
+"Jul 1, 2012",,Free transfer,Hungary,3552.0,BFC Siófok ,74308,200 Th. €,Bojan Bozovic,12/13,Serbia,11836.0,FK Hajduk 
+"Jun 30, 2012",,End of loan,Hungary,709.0,Budapest Honvéd ,74308,200 Th. €,Bojan Bozovic,11/12,Hungary,3552.0,BFC Siófok 
+"Feb 20, 2012",,Loan,Hungary,3552.0,BFC Siófok ,74308,200 Th. €,Bojan Bozovic,11/12,Hungary,709.0,Budapest Honvéd 
+"Aug 1, 2011",,Free transfer,Belgium,520.0,Cercle Brugge ,74308,200 Th. €,Bojan Bozovic,11/12,Hungary,3552.0,BFC Siófok 
+"Jul 1, 2009",,Free transfer,Hungary,6056.0,Kaposvári RFC ,74308,225 Th. €,Bojan Bozovic,09/10,Belgium,520.0,Cercle Brugge 
+"Sep 1, 2006",,Free transfer,Hungary,709.0,Budapest Honvéd ,74308,-,Bojan Bozovic,06/07,Hungary,6056.0,Kaposvári RFC 
+"Jul 1, 2005",,Free transfer,Hungary,6049.0,Békéscsaba ,74308,-,Bojan Bozovic,05/06,Hungary,709.0,Budapest Honvéd 
+"Jul 1, 2004",,Free transfer,Serbia,11836.0,FK Hajduk ,74308,-,Bojan Bozovic,04/05,Hungary,6049.0,Békéscsaba 
+"Jul 1, 2003",,?,Montenegro,12888.0,Kom Podgorica ,74308,-,Bojan Bozovic,03/04,Serbia,11836.0,FK Hajduk 
+"Dec 31, 2016",,End of loan,Sudan,10721.0,Al Merreikh ,184902,150 Th. €,Karim Alhassan,16/17,Ghana,13607.0,Liberty Prof. 
+"Nov 30, 2015",,Loan,Ghana,13607.0,Liberty Prof. ,184902,150 Th. €,Karim Alhassan,15/16,Sudan,10721.0,Al Merreikh 
+"Jan 31, 2015",,?,Serbia,4645.0,Radnicki 1923 ,184902,150 Th. €,Karim Alhassan,14/15,Ghana,13607.0,Liberty Prof. 
+"Jan 29, 2014",,?,South Africa,13487.0,Black Leopards ,184902,150 Th. €,Karim Alhassan,13/14,Serbia,4645.0,Radnicki 1923 
+"Aug 1, 2013",,-,South Africa,515.0,Unattached ,184902,150 Th. €,Karim Alhassan,13/14,,13487.0,Black Leopards 
+"Jan 9, 2013",,-,Turkey,3840.0,Adana Demirspor ,184902,150 Th. €,Karim Alhassan,12/13,,515.0,Unattached 
+"Aug 24, 2012",,-,Egypt,664.0,Zamalek ,184902,50 Th. €,Karim Alhassan,12/13,Turkey,3840.0,Adana Demirspor 
+"Jul 1, 2011",,Free transfer,Ghana,3601.0,Hearts of Oak ,184902,-,Karim Alhassan,11/12,Egypt,664.0,Zamalek 
+"Jan 1, 2009",,?,Ghana,75.0,Unknown ,184902,-,Karim Alhassan,08/09,,3601.0,Hearts of Oak 
+"Jul 1, 2014",,Free transfer,Montenegro,5972.0,Rudar Pljevlja ,262215,150 Th. €,Kosta Bajic,14/15,Albania,12457.0,Besëlidhja Lezhë 
+"Jan 28, 2014",,?,Serbia,12132.0,Jagodina ,262215,150 Th. €,Kosta Bajic,13/14,Montenegro,5972.0,Rudar Pljevlja 
+"Aug 30, 2013",,?,Serbia,32098.0,Jedinstvo Uzice ,262215,-,Kosta Bajic,13/14,Serbia,12132.0,Jagodina 
+"Aug 1, 2015",,-,Romania,41430.0,FC Caransebes ,67145,25 Th. €,Cristian Muscalu,15/16,,515.0,Unattached 
+"Jul 1, 2014",,-,Romania,515.0,Unattached ,67145,50 Th. €,Cristian Muscalu,14/15,,41430.0,FC Caransebes 
+"Mar 11, 2014",,-,Portugal,1436.0,Beira-Mar ,67145,50 Th. €,Cristian Muscalu,13/14,,515.0,Unattached 
+"Feb 1, 2014",,Free transfer,Serbia,4634.0,FK Vozdovac  ,67145,50 Th. €,Cristian Muscalu,13/14,Portugal,1436.0,Beira-Mar 
+"Aug 24, 2013",,-,Serbia,515.0,Unattached ,67145,50 Th. €,Cristian Muscalu,13/14,,4634.0,FK Vozdovac  
+"Jan 30, 2013",,-,Romania,8687.0,C. Piatra Neamt ,67145,50 Th. €,Cristian Muscalu,12/13,,515.0,Unattached 
+"Jul 1, 2011",,-,Romania,515.0,Unattached ,67145,75 Th. €,Cristian Muscalu,11/12,,8687.0,C. Piatra Neamt 
+"Nov 1, 2010",,-,Poland,6106.0,Tur Turek ,67145,75 Th. €,Cristian Muscalu,10/11,,515.0,Unattached 
+"Jul 1, 2010",,Free transfer,Azerbaijan,10693.0,FC Baku ,67145,75 Th. €,Cristian Muscalu,10/11,Poland,6106.0,Tur Turek 
+"Jun 30, 2010",,End of loan,Bulgaria,4494.0,Chern. Burgas ,67145,75 Th. €,Cristian Muscalu,09/10,Azerbaijan,10693.0,FC Baku 
+"Jan 1, 2010",,Loan,Azerbaijan,10693.0,FC Baku ,67145,75 Th. €,Cristian Muscalu,09/10,Bulgaria,4494.0,Chern. Burgas 
+"Jul 1, 2009",,Free transfer,Bosnia-Herzegovina,6807.0,Slavija S. ,67145,100 Th. €,Cristian Muscalu,09/10,Azerbaijan,10693.0,FC Baku 
+"Jan 1, 2009",,Free transfer,Belgium,475.0,Sint-Truiden ,67145,100 Th. €,Cristian Muscalu,08/09,Bosnia-Herzegovina,6807.0,Slavija S. 
+"Jan 1, 2008",,Free transfer,Romania,9830.0,Jiul Petrosani ,67145,-,Cristian Muscalu,07/08,Belgium,475.0,Sint-Truiden 
+"Jul 1, 2007",,Free transfer,Germany,1461.0,1.FC Köln U19 ,67145,-,Cristian Muscalu,07/08,Romania,9830.0,Jiul Petrosani 
+"Jan 1, 2016",,Free transfer,Serbia,11066.0,Sloboda Uzice ,319482,50 Th. €,Nenad Cvetkovic,15/16,Serbia,3521.0,FK Zemun 
+"Jan 1, 2015",,End of loan,Serbia,6621.0,FK Cukaricki ,319482,-,Nenad Cvetkovic,14/15,Serbia,11066.0,Sloboda Uzice 
+"Jul 1, 2014",,Loan,Serbia,35981.0,Slob. Uzice U19 ,319482,-,Nenad Cvetkovic,14/15,Serbia,6621.0,FK Cukaricki 
+"Jan 24, 2015",,Free transfer,Serbia,788.0,Napredak ,61283,350 Th. €,Nemanja Janicic,14/15,Uzbekistan,15309.0,Loko Tashkent 
+"Jan 1, 2012",,?,Serbia,10319.0,FK Bezanija ,61283,50 Th. €,Nemanja Janicic,11/12,Serbia,788.0,Napredak 
+"Jul 1, 2011",,?,Montenegro,748.0,Mogren Budva ,61283,50 Th. €,Nemanja Janicic,11/12,Serbia,10319.0,FK Bezanija 
+"Jun 30, 2016",,End of loan,Serbia,22174.0,FK Backa ,325204,50 Th. €,Zvonko Jakovljevic,15/16,Serbia,15276.0,Spartak Sub. 
+"Aug 1, 2015",,Loan,Serbia,15276.0,Spartak Sub. ,325204,50 Th. €,Zvonko Jakovljevic,15/16,Serbia,22174.0,FK Backa 
+"Jun 30, 2015",,End of loan,Serbia,30684.0,FK Senta ,325204,50 Th. €,Zvonko Jakovljevic,14/15,Serbia,15276.0,Spartak Sub. 
+"Aug 1, 2014",,Loan,Serbia,15276.0,Spartak Sub. ,325204,-,Zvonko Jakovljevic,14/15,Serbia,30684.0,FK Senta 
+"Jul 1, 2014",,-,Serbia,35851.0,Spartak U19 ,325204,-,Zvonko Jakovljevic,14/15,Serbia,15276.0,Spartak Sub. 
+"Jul 8, 2015",,"1,00 Mill. €",Serbia,448.0,Vojvodina ,222805,"1,25 Mill. €",Srdjan Babic,15/16,Spain,9899.0,Real Sociedad B 
+"Feb 1, 2014",,-,Serbia,12865.0,Vojvodina U21 ,222805,-,Srdjan Babic,13/14,Serbia,448.0,Vojvodina 
+"Jun 30, 2016",,End of loan,Serbia,12931.0,Sindjelic Belgrad ,224342,100 Th. €,Djordje Radovanovic,15/16,Serbia,6621.0,FK Cukaricki 
+"Feb 1, 2016",,Loan,Serbia,6621.0,FK Cukaricki ,224342,100 Th. €,Djordje Radovanovic,15/16,Serbia,12931.0,Sindjelic Belgrad 
+"Dec 31, 2015",,End of loan,Serbia,3521.0,FK Zemun ,224342,100 Th. €,Djordje Radovanovic,15/16,Serbia,6621.0,FK Cukaricki 
+"Aug 1, 2015",,Loan,Serbia,6621.0,FK Cukaricki ,224342,100 Th. €,Djordje Radovanovic,15/16,Serbia,3521.0,FK Zemun 
+"Jun 30, 2015",,End of loan,Serbia,12931.0,Sindjelic Belgrad ,224342,100 Th. €,Djordje Radovanovic,14/15,Serbia,6621.0,FK Cukaricki 
+"Jan 1, 2015",,Loan,Serbia,6621.0,FK Cukaricki ,224342,100 Th. €,Djordje Radovanovic,14/15,Serbia,12931.0,Sindjelic Belgrad 
+"Aug 1, 2013",,?,Portugal,976.0,União Madeira ,224342,50 Th. €,Djordje Radovanovic,13/14,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2012",,?,Portugal,15561.0,Nacional U19 ,224342,-,Djordje Radovanovic,12/13,Portugal,976.0,União Madeira 
+,,,,,,222807,,,,,,
+"Aug 5, 2015",,Free transfer,Serbia,35851.0,Spartak U19 ,325208,-,Miljan Ljubenovic,15/16,Bosnia-Herzegovina,47286.0,FK Krupa 
+"Jun 30, 2015",,End of loan,Serbia,22174.0,FK Backa ,325208,-,Miljan Ljubenovic,14/15,Serbia,35851.0,Spartak U19 
+"Jul 1, 2014",,Loan,Serbia,35851.0,Spartak U19 ,325208,-,Miljan Ljubenovic,14/15,Serbia,22174.0,FK Backa 
+"Jun 30, 2014",,End of loan,Serbia,5757.0,FK Palic Koming ,325208,-,Miljan Ljubenovic,13/14,Serbia,35851.0,Spartak U19 
+"Jul 1, 2012",,Loan,Serbia,35851.0,Spartak U19 ,325208,-,Miljan Ljubenovic,12/13,Serbia,5757.0,FK Palic Koming 
+"Jan 10, 2016",,Free transfer,Serbia,6622.0,Mladost Lucani ,86105,200 Th. €,Aleksandar Alempijevic,15/16,Uzbekistan,19401.0,FC Bunyodkor 
+"Aug 20, 2015",,Free transfer,Serbia,6621.0,FK Cukaricki ,86105,250 Th. €,Aleksandar Alempijevic,15/16,Serbia,6622.0,Mladost Lucani 
+"Jan 1, 2015",,?,Serbia,53.0,OFK Beograd ,86105,250 Th. €,Aleksandar Alempijevic,14/15,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2014",,?,Uzbekistan,31216.0,FK Olmaliq ,86105,300 Th. €,Aleksandar Alempijevic,14/15,Serbia,53.0,OFK Beograd 
+"Feb 4, 2014",,?,Serbia,8819.0,Javor Ivanjica ,86105,300 Th. €,Aleksandar Alempijevic,13/14,Uzbekistan,31216.0,FK Olmaliq 
+"Sep 1, 2013",,Free transfer,Hungary,279.0,Ferencváros ,86105,300 Th. €,Aleksandar Alempijevic,13/14,Serbia,8819.0,Javor Ivanjica 
+"Jul 1, 2012",,Free transfer,Hungary,12423.0,Kecskeméti TE ,86105,300 Th. €,Aleksandar Alempijevic,12/13,Hungary,279.0,Ferencváros 
+"Jul 1, 2008",,?,Serbia,12373.0,FK Partizan U19 ,86105,-,Aleksandar Alempijevic,08/09,Hungary,12423.0,Kecskeméti TE 
+"Jun 30, 2016",,End of loan,Serbia,22174.0,FK Backa ,325210,-,Aleksa Matic,15/16,Serbia,35851.0,Spartak U19 
+"Jul 1, 2014",,Loan,Serbia,35851.0,Spartak U19 ,325210,-,Aleksa Matic,14/15,Serbia,22174.0,FK Backa 
+"Jun 30, 2014",,End of loan,Serbia,5757.0,FK Palic Koming ,325210,-,Aleksa Matic,13/14,Serbia,35851.0,Spartak U19 
+"Jul 1, 2013",,Loan,Serbia,35851.0,Spartak U19 ,325210,-,Aleksa Matic,13/14,Serbia,5757.0,FK Palic Koming 
+"Jul 1, 2011",,?,Serbia,8961.0,Radnicki Sombor ,325210,-,Aleksa Matic,11/12,Serbia,35851.0,Spartak U19 
+"Jun 30, 2015",,End of loan,Serbia,39049.0,FK Josanica ,284251,50 Th. €,Demir Kadric,14/15,Serbia,4633.0,Novi Pazar 
+"Jul 1, 2014",,Loan,Serbia,4633.0,Novi Pazar ,284251,50 Th. €,Demir Kadric,14/15,Serbia,39049.0,FK Josanica 
+"Jul 1, 2013",,-,Serbia,27127.0,Pazar U19 ,284251,-,Demir Kadric,13/14,Serbia,4633.0,Novi Pazar 
+"Jun 30, 2016",,End of loan,Israel,5223.0,Maccabi Netanya ,161373,500 Th. €,Nemanja Petrovic,15/16,Serbia,669.0,FK Partizan 
+"Feb 3, 2016",,Loan,Serbia,669.0,FK Partizan ,161373,500 Th. €,Nemanja Petrovic,15/16,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2013",,Free transfer,Serbia,4646.0,Teleoptik Zemun ,161373,-,Nemanja Petrovic,13/14,Serbia,669.0,FK Partizan 
+"Jul 1, 2013",,?,Serbia,4661.0,Radnicki Obrenovac ,138850,-,Stefan Drazic,13/14,Serbia,8819.0,Javor Ivanjica 
+"Jul 16, 2015",,Free transfer,France,14171.0,Évian ,48740,"1,00 Mill. €",Milos Ninkovic,15/16,Australia,8054.0,Sydney FC 
+"Aug 29, 2014",,Free transfer,Serbia,159.0,Red Star ,48740,"2,00 Mill. €",Milos Ninkovic,14/15,France,14171.0,Évian 
+"Jul 4, 2013",,Free transfer,Ukraine,338.0,Dynamo Kyiv ,48740,"2,00 Mill. €",Milos Ninkovic,13/14,Serbia,159.0,Red Star 
+"Jun 30, 2013",,End of loan,France,14171.0,Évian ,48740,"2,00 Mill. €",Milos Ninkovic,12/13,Ukraine,338.0,Dynamo Kyiv 
+"Jan 1, 2013",,Loan,Ukraine,338.0,Dynamo Kyiv ,48740,"3,00 Mill. €",Milos Ninkovic,12/13,France,14171.0,Évian 
+"Jul 1, 2004",,700 Th. €,Serbia,6621.0,FK Cukaricki ,48740,-,Milos Ninkovic,04/05,Ukraine,338.0,Dynamo Kyiv 
+"Jul 1, 2002",,-,Serbia,15058.0,Cukaricki U19 ,48740,-,Milos Ninkovic,02/03,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2016",,-,Bosnia-Herzegovina,6807.0,Slavija S. ,138853,200 Th. €,Srdjan Grujicic,16/17,,515.0,Unattached 
+"Jul 1, 2015",,Free transfer,Serbia,11066.0,Sloboda Uzice ,138853,250 Th. €,Srdjan Grujicic,15/16,Bosnia-Herzegovina,6807.0,Slavija S. 
+"Jan 1, 2015",,Free transfer,Serbia,9937.0,Donji Srem ,138853,250 Th. €,Srdjan Grujicic,14/15,Serbia,11066.0,Sloboda Uzice 
+"Jul 1, 2014",,?,Serbia,6621.0,FK Cukaricki ,138853,150 Th. €,Srdjan Grujicic,14/15,Serbia,9937.0,Donji Srem 
+"Jan 18, 2013",,?,Serbia,32098.0,Jedinstvo Uzice ,138853,50 Th. €,Srdjan Grujicic,12/13,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2012",,?,Serbia,4661.0,Radnicki Obrenovac ,138853,50 Th. €,Srdjan Grujicic,12/13,Serbia,32098.0,Jedinstvo Uzice 
+"Jul 1, 2011",,Free transfer,Serbia,4645.0,Radnicki 1923 ,138853,50 Th. €,Srdjan Grujicic,11/12,Serbia,4661.0,Radnicki Obrenovac 
+"Feb 1, 2011",,?,Serbia,4661.0,Radnicki Obrenovac ,138853,-,Srdjan Grujicic,10/11,Serbia,4645.0,Radnicki 1923 
+"Jul 15, 2015",,Free transfer,Serbia,448.0,Vojvodina ,309352,150 Th. €,Stefan Nikolic,15/16,Serbia,4650.0,FK Backa 
+"Jan 23, 2014",,Free transfer,Montenegro,10883.0,FK Mladost ,309352,-,Stefan Nikolic,13/14,Serbia,448.0,Vojvodina 
+"Aug 3, 2013",,Free transfer,Serbia,12865.0,Vojvodina U21 ,309352,-,Stefan Nikolic,13/14,Montenegro,10883.0,FK Mladost 
+"Jul 1, 2015",,?,Serbia,8819.0,Javor Ivanjica ,240060,300 Th. €,Nemanja Gojacanin,15/16,Bosnia-Herzegovina,29736.0,Mladost Obarska 
+"Jul 1, 2013",,?,Montenegro,8357.0,Jedinstvo Bijelo Polje ,240060,-,Nemanja Gojacanin,13/14,Serbia,8819.0,Javor Ivanjica 
+"Jul 1, 2016",,Free transfer,Bosnia-Herzegovina,22262.0,NK Vitez ,49772,250 Th. €,Mario Baric,16/17,Bosnia-Herzegovina,6808.0,Zrinjski Mostar 
+"Jan 13, 2016",,Free transfer,Bosnia-Herzegovina,282.0,FK Sarajevo ,49772,250 Th. €,Mario Baric,15/16,Bosnia-Herzegovina,22262.0,NK Vitez 
+"Jan 17, 2014",,Free transfer,Serbia,448.0,Vojvodina ,49772,400 Th. €,Mario Baric,13/14,Bosnia-Herzegovina,282.0,FK Sarajevo 
+"Jul 1, 2013",,Free transfer,Croatia,2362.0,Slaven Belupo ,49772,750 Th. €,Mario Baric,13/14,Serbia,448.0,Vojvodina 
+"Aug 31, 2012",,Free transfer,Belgium,157.0,KAA Gent ,49772,"1,20 Mill. €",Mario Baric,12/13,Croatia,2362.0,Slaven Belupo 
+"Aug 1, 2010",,300 Th. €,Croatia,10314.0,Karlovac 1919 ,49772,400 Th. €,Mario Baric,10/11,Belgium,157.0,KAA Gent 
+"Jul 1, 2007",,?,Croatia,11038.0,NK Zminj ,49772,-,Mario Baric,07/08,Croatia,10314.0,Karlovac 1919 
+"Jul 1, 2003",,?,Croatia,26028.0,C. Sesvete U19 ,49772,-,Mario Baric,03/04,Croatia,11038.0,NK Zminj 
+"Jan 14, 2016",,Free transfer,Bosnia-Herzegovina,628.0,Velez Mostar ,85104,225 Th. €,Dejan Jankovic,15/16,Bosnia-Herzegovina,11040.0,Radnik Bijelj. 
+"Jan 1, 2014",,?,Serbia,4634.0,FK Vozdovac  ,85104,200 Th. €,Dejan Jankovic,13/14,Bosnia-Herzegovina,628.0,Velez Mostar 
+"Jul 1, 2013",,Free transfer,Bosnia-Herzegovina,3451.0,Leotar Trebinje ,85104,200 Th. €,Dejan Jankovic,13/14,Serbia,4634.0,FK Vozdovac  
+"Jul 1, 2012",,?,Serbia,4661.0,Radnicki Obrenovac ,85104,150 Th. €,Dejan Jankovic,12/13,Bosnia-Herzegovina,3451.0,Leotar Trebinje 
+"Jan 1, 2012",,?,Serbia,11046.0,FK Srem ,85104,150 Th. €,Dejan Jankovic,11/12,Serbia,4661.0,Radnicki Obrenovac 
+"Jan 1, 2016",,-,Serbia,11044.0,Indjija ,181874,50 Th. €,Nemanja Zdravkovic,15/16,,515.0,Unattached 
+"Jul 1, 2014",,?,Serbia,788.0,Napredak ,181874,-,Nemanja Zdravkovic,14/15,Serbia,11044.0,Indjija 
+"Jun 30, 2013",,End of loan,Serbia,25298.0,Kopaonik ,181874,-,Nemanja Zdravkovic,12/13,Serbia,788.0,Napredak 
+"Jan 1, 2013",,Loan,Serbia,788.0,Napredak ,181874,-,Nemanja Zdravkovic,12/13,Serbia,25298.0,Kopaonik 
+"Jan 1, 2011",,?,Serbia,15071.0,Napredak Krusevac U19 ,181874,-,Nemanja Zdravkovic,10/11,Serbia,788.0,Napredak 
+"Jul 1, 2009",,?,Serbia,35980.0,Radn. Nis U19 ,181874,-,Nemanja Zdravkovic,09/10,Serbia,15071.0,Napredak Krusevac U19 
+"Dec 31, 2015",,End of loan,Serbia,4646.0,Teleoptik Zemun ,222838,400 Th. €,Miladin Stevanovic,15/16,Serbia,669.0,FK Partizan 
+"Aug 31, 2015",,Loan,Serbia,669.0,FK Partizan ,222838,400 Th. €,Miladin Stevanovic,15/16,Serbia,4646.0,Teleoptik Zemun 
+"Jun 30, 2014",,End of loan,Serbia,4646.0,Teleoptik Zemun ,222838,-,Miladin Stevanovic,13/14,Serbia,669.0,FK Partizan 
+"Aug 15, 2013",,Loan,Serbia,669.0,FK Partizan ,222838,-,Miladin Stevanovic,13/14,Serbia,4646.0,Teleoptik Zemun 
+"Aug 14, 2013",,-,Serbia,12373.0,FK Partizan U19 ,222838,-,Miladin Stevanovic,13/14,Serbia,669.0,FK Partizan 
+"Jul 1, 2014",,-,Serbia,6621.0,FK Cukaricki ,280852,50 Th. €,Sebastian Guerrero,14/15,,515.0,Unattached 
+"Jun 30, 2014",,End of loan,Serbia,12931.0,Sindjelic Belgrad ,280852,50 Th. €,Sebastian Guerrero,13/14,Serbia,6621.0,FK Cukaricki 
+"Jan 21, 2014",,Loan,Serbia,6621.0,FK Cukaricki ,280852,50 Th. €,Sebastian Guerrero,13/14,Serbia,12931.0,Sindjelic Belgrad 
+"Jul 24, 2013",,?,Chile,13337.0,S. Morning ,280852,-,Sebastian Guerrero,13/14,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2015",,Free transfer,Serbia,788.0,Napredak ,85114,200 Th. €,Zoran Popovic,15/16,Serbia,4634.0,FK Vozdovac  
+"Jul 1, 2014",,?,Serbia,4634.0,FK Vozdovac  ,85114,100 Th. €,Zoran Popovic,14/15,Serbia,788.0,Napredak 
+"Jan 15, 2014",,-,Serbia,515.0,Unattached ,85114,100 Th. €,Zoran Popovic,13/14,,4634.0,FK Vozdovac  
+"Oct 4, 2013",,-,Serbia,448.0,Vojvodina ,85114,100 Th. €,Zoran Popovic,13/14,,515.0,Unattached 
+"Jul 2, 2013",,?,Serbia,4634.0,FK Vozdovac  ,85114,100 Th. €,Zoran Popovic,13/14,Serbia,448.0,Vojvodina 
+"Jul 1, 2011",,?,Serbia,22364.0,FK Belgrad ,85114,100 Th. €,Zoran Popovic,11/12,Serbia,4634.0,FK Vozdovac  
+"Jul 1, 2009",,?,Serbia,4634.0,FK Vozdovac  ,85114,100 Th. €,Zoran Popovic,09/10,Serbia,22364.0,FK Belgrad 
+"Jul 1, 2015",,?,Serbia,9937.0,Donji Srem ,307325,250 Th. €,Djordje Crnomarkovic,15/16,Serbia,8819.0,Javor Ivanjica 
+"Jan 10, 2014",,?,Serbia,27098.0,Sumadija ,307325,-,Djordje Crnomarkovic,13/14,Serbia,9937.0,Donji Srem 
+"Jan 27, 2015",,?,Serbia,7567.0,Radnicki Nis ,315520,50 Th. €,Dimitrije Radojkovic,14/15,Slovenia,4059.0,Mura 05 
+"Jul 1, 2016",,Free transfer,Serbia,4633.0,Novi Pazar ,186498,400 Th. €,Milan Savic,16/17,Cyprus,3899.0,Anor. Famagusta 
+"Feb 9, 2016",,Free transfer,Serbia,53.0,OFK Beograd ,186498,400 Th. €,Milan Savic,15/16,Serbia,4633.0,Novi Pazar 
+"Feb 11, 2014",,?,Belgium,157.0,KAA Gent ,186498,100 Th. €,Milan Savic,13/14,Serbia,53.0,OFK Beograd 
+"Dec 31, 2013",,End of loan,Belgium,11057.0,Hoogstraten VV ,186498,100 Th. €,Milan Savic,13/14,Belgium,157.0,KAA Gent 
+"Sep 2, 2013",,Loan,Belgium,157.0,KAA Gent ,186498,100 Th. €,Milan Savic,13/14,Belgium,11057.0,Hoogstraten VV 
+"Jul 1, 2013",,-,Belgium,3791.0,KAA Gent U19 ,186498,-,Milan Savic,13/14,Belgium,157.0,KAA Gent 
+"Jul 1, 2012",,?,Serbia,12373.0,FK Partizan U19 ,186498,-,Milan Savic,12/13,Belgium,3791.0,KAA Gent U19 
+"Jan 15, 2016",,Free transfer,China,28377.0,HN Billows ,35971,250 Th. €,Stevan Bates,15/16,Serbia,902.0,Rad 
+"Jan 16, 2014",,?,Serbia,53.0,OFK Beograd ,35971,200 Th. €,Stevan Bates,13/14,China,28377.0,HN Billows 
+"Aug 30, 2013",,Free transfer,Iran,19628.0,Mes Kerman ,35971,200 Th. €,Stevan Bates,13/14,Serbia,53.0,OFK Beograd 
+"Jul 1, 2012",,?,Serbia,902.0,Rad ,35971,75 Th. €,Stevan Bates,12/13,Iran,19628.0,Mes Kerman 
+"Jun 30, 2012",,End of loan,Azerbaijan,8841.0,Xäzär Länkäran ,35971,75 Th. €,Stevan Bates,11/12,Serbia,902.0,Rad 
+"Feb 1, 2012",,Loan,Serbia,902.0,Rad ,35971,75 Th. €,Stevan Bates,11/12,Azerbaijan,8841.0,Xäzär Länkäran 
+"Jan 1, 2012",,Free transfer,Azerbaijan,10693.0,FC Baku ,35971,75 Th. €,Stevan Bates,11/12,Serbia,902.0,Rad 
+"Jan 1, 2011",,-,Norway,1293.0,Tromsö ,35971,75 Th. €,Stevan Bates,10/11,Azerbaijan,10693.0,FC Baku 
+"Aug 1, 2010",,?,Azerbaijan,10693.0,FC Baku ,35971,250 Th. €,Stevan Bates,10/11,Norway,1293.0,Tromsö 
+"Jul 1, 2009",,Free transfer,France,1175.0,LB Châteauroux ,35971,300 Th. €,Stevan Bates,09/10,Azerbaijan,10693.0,FC Baku 
+"Jul 1, 2006",,Free transfer,Serbia,902.0,Rad ,35971,-,Stevan Bates,06/07,France,1175.0,LB Châteauroux 
+"Jul 1, 2005",,?,Serbia,636.0,Zeleznik Belgrad ,35971,-,Stevan Bates,05/06,Serbia,902.0,Rad 
+"Dec 31, 2004",,End of loan,Russia,2703.0,Spartak V-kavkaz ,35971,-,Stevan Bates,04/05,Serbia,636.0,Zeleznik Belgrad 
+"Jan 1, 2004",,Loan,Serbia,636.0,Zeleznik Belgrad ,35971,-,Stevan Bates,03/04,Russia,2703.0,Spartak V-kavkaz 
+"Jul 1, 2000",,-,Serbia,20374.0,Zeleznik B. U19 ,35971,-,Stevan Bates,00/01,Serbia,636.0,Zeleznik Belgrad 
+"Jan 1, 2016",,Free transfer,Serbia,12135.0,FK Metalac ,186501,50 Th. €,Nikola Todoric,15/16,Serbia,18382.0,Sloga Kraljevo 
+"Jul 1, 2014",,?,Serbia,4634.0,FK Vozdovac  ,186501,-,Nikola Todoric,14/15,Serbia,12135.0,FK Metalac 
+"Feb 1, 2014",,?,Serbia,19710.0,Rad U19 ,186501,-,Nikola Todoric,13/14,Serbia,4634.0,FK Vozdovac  
+"Jul 1, 2016",,Free transfer,Montenegro,5972.0,Rudar Pljevlja ,242824,100 Th. €,Marko Lazarevic,16/17,Serbia,10319.0,FK Bezanija 
+"Jul 1, 2015",,?,Serbia,43656.0,FK Brodarac ,242824,150 Th. €,Marko Lazarevic,15/16,Montenegro,5972.0,Rudar Pljevlja 
+"Jul 1, 2014",,?,Serbia,12931.0,Sindjelic Belgrad ,242824,150 Th. €,Marko Lazarevic,14/15,Serbia,43656.0,FK Brodarac 
+"Jan 1, 2014",,Free transfer,Serbia,788.0,Napredak ,242824,150 Th. €,Marko Lazarevic,13/14,Serbia,12931.0,Sindjelic Belgrad 
+"Jul 31, 2013",,?,Serbia,4646.0,Teleoptik Zemun ,242824,-,Marko Lazarevic,13/14,Serbia,788.0,Napredak 
+"Jul 1, 2015",,Loan,Serbia,448.0,Vojvodina ,324204,-,Luka Grgic,15/16,Serbia,19488.0,Proleter 
+"Jun 30, 2015",,End of loan,Serbia,6620.0,CSK Celarevo ,324204,-,Luka Grgic,14/15,Serbia,448.0,Vojvodina 
+"Aug 27, 2014",,Loan,Serbia,448.0,Vojvodina ,324204,-,Luka Grgic,14/15,Serbia,6620.0,CSK Celarevo 
+"Jul 1, 2014",,-,Serbia,12865.0,Vojvodina U21 ,324204,-,Luka Grgic,14/15,Serbia,448.0,Vojvodina 
+"Jan 1, 2016",,Free transfer,England,985.0,Manchester Utd. ,257474,750 Th. €,Vanja Milinković-Savić,15/16,Poland,4000.0,Lechia Gdansk 
+"Jun 30, 2015",,End of loan,Serbia,448.0,Vojvodina ,257474,750 Th. €,Vanja Milinković-Savić,14/15,England,985.0,Manchester Utd. 
+"Jul 2, 2014",,Loan,England,985.0,Manchester Utd. ,257474,-,Vanja Milinković-Savić,14/15,Serbia,448.0,Vojvodina 
+"Jul 1, 2014",,"1,75 Mill. €",Serbia,448.0,Vojvodina ,257474,-,Vanja Milinković-Savić,14/15,England,985.0,Manchester Utd. 
+"Apr 2, 2014",,-,Serbia,12865.0,Vojvodina U21 ,257474,-,Vanja Milinković-Savić,13/14,Serbia,448.0,Vojvodina 
+"Jul 1, 2013",,-,Serbia,50306.0,Vojvodina U19 ,257474,-,Vanja Milinković-Savić,13/14,Serbia,12865.0,Vojvodina U21 
+"Jul 1, 2006",,?,Austria,20451.0,GAK Jugend ,257474,-,Vanja Milinković-Savić,06/07,Serbia,50306.0,Vojvodina U19 
+"Jan 19, 2016",,-,Serbia,53.0,OFK Beograd ,189071,100 Th. €,Stefan Colovic,15/16,,515.0,Unattached 
+"Aug 5, 2014",,?,Serbia,902.0,Rad ,189071,-,Stefan Colovic,14/15,Serbia,53.0,OFK Beograd 
+"Jan 30, 2014",,?,England,9254.0,Tottenham U21 ,189071,-,Stefan Colovic,13/14,Serbia,902.0,Rad 
+"Jul 1, 2012",,?,Switzerland,14322.0,FC Basel U18 ,189071,-,Stefan Colovic,12/13,England,9254.0,Tottenham U21 
+"Jul 1, 2011",,-,Switzerland,32337.0,Basel/Jura U17 ,189071,-,Stefan Colovic,11/12,Switzerland,14322.0,FC Basel U18 
+"Jul 1, 2015",,Free transfer,Bosnia-Herzegovina,6807.0,Slavija S. ,288912,200 Th. €,Miljan Govedarica,15/16,Bosnia-Herzegovina,5405.0,Sloboda Tuzla 
+"Jul 30, 2014",,Free transfer,Serbia,9937.0,Donji Srem ,288912,100 Th. €,Miljan Govedarica,14/15,Bosnia-Herzegovina,6807.0,Slavija S. 
+"Aug 1, 2015",,?,Serbia,4632.0,FK Bane Raska ,284305,50 Th. €,Sead Zupic,15/16,Serbia,39049.0,FK Josanica 
+"Jul 1, 2014",,?,Serbia,4633.0,Novi Pazar ,284305,50 Th. €,Sead Zupic,14/15,Serbia,4632.0,FK Bane Raska 
+"Jun 30, 2014",,End of loan,Serbia,39049.0,FK Josanica ,284305,50 Th. €,Sead Zupic,13/14,Serbia,4633.0,Novi Pazar 
+"Feb 1, 2014",,Loan,Serbia,4633.0,Novi Pazar ,284305,50 Th. €,Sead Zupic,13/14,Serbia,39049.0,FK Josanica 
+"Jul 1, 2013",,?,Serbia,27127.0,Pazar U19 ,284305,-,Sead Zupic,13/14,Serbia,4633.0,Novi Pazar 
+"Jan 2, 2016",,?,Japan,672.0,JEF Utd. Chiba ,50324,"1,25 Mill. €",Nejc Pecnik,15/16,Japan,7452.0,Omiya Ardija 
+"Dec 27, 2014",,Ablösefrei,Serbia,159.0,Red Star ,50324,"1,25 Mill. €",Nejc Pecnik,14/15,Japan,672.0,JEF Utd. Chiba 
+"Jul 1, 2013",,Free transfer,England,1035.0,Sheff Wed ,50324,500 Th. €,Nejc Pecnik,13/14,Serbia,159.0,Red Star 
+"Jul 16, 2012",,Free transfer,Portugal,982.0,Nacional ,50324,"1,00 Mill. €",Nejc Pecnik,12/13,England,1035.0,Sheff Wed 
+"Dec 1, 2011",,End of loan,Russia,2696.0,KS Samara ,50324,"1,50 Mill. €",Nejc Pecnik,11/12,Portugal,982.0,Nacional 
+"Jan 1, 2011",,Loan,Portugal,982.0,Nacional ,50324,"1,70 Mill. €",Nejc Pecnik,10/11,Russia,2696.0,KS Samara 
+"Jul 1, 2009",,300 Th. €,Slovenia,710.0,NK Celje  ,50324,500 Th. €,Nejc Pecnik,09/10,Portugal,982.0,Nacional 
+"Dec 31, 2008",,End of loan,Czech Republic,197.0,Sparta Praha ,50324,500 Th. €,Nejc Pecnik,08/09,Slovenia,710.0,NK Celje  
+"Jul 1, 2008",,Loan,Slovenia,710.0,NK Celje  ,50324,750 Th. €,Nejc Pecnik,08/09,Czech Republic,197.0,Sparta Praha 
+"Jul 1, 2002",,Free transfer,Slovenia,2565.0,NK Dravograd ,50324,-,Nejc Pecnik,02/03,Slovenia,710.0,NK Celje  
+"Feb 1, 2016",,-,Israel,1064.0,Maccabi Haifa ,35989,-,Nikola Drincic,15/16,,123.0,End of career 
+"Jul 1, 2015",,300 Th. €,Serbia,669.0,FK Partizan ,35989,"1,50 Mill. €",Nikola Drincic,15/16,Israel,1064.0,Maccabi Haifa 
+"Dec 20, 2013",,-,Serbia,515.0,Unattached ,35989,"2,00 Mill. €",Nikola Drincic,13/14,,669.0,FK Partizan 
+"Sep 2, 2013",,-,Russia,16704.0,Krasnodar ,35989,"3,20 Mill. €",Nikola Drincic,13/14,,515.0,Unattached 
+"Jan 1, 2011",,"1,60 Mill. €",Russia,232.0,Spartak Moscow ,35989,"3,00 Mill. €",Nikola Drincic,10/11,Russia,16704.0,Krasnodar 
+"Jan 1, 2010",,Free transfer,Russia,4128.0,Amkar Perm ,35989,"3,00 Mill. €",Nikola Drincic,09/10,Russia,232.0,Spartak Moscow 
+"Jan 17, 2007",,Free transfer,Turkey,524.0,Gaziantepspor ,35989,-,Nikola Drincic,06/07,Russia,4128.0,Amkar Perm 
+"Jul 3, 2006",,Free transfer,Serbia,669.0,FK Partizan ,35989,-,Nikola Drincic,06/07,Turkey,524.0,Gaziantepspor 
+"May 1, 2006",,End of loan,Serbia,6619.0,Banat Zrenjanin ,35989,-,Nikola Drincic,05/06,Serbia,669.0,FK Partizan 
+"Jul 1, 2005",,Loan,Serbia,669.0,FK Partizan ,35989,-,Nikola Drincic,05/06,Serbia,6619.0,Banat Zrenjanin 
+"May 1, 2005",,End of loan,Serbia,15276.0,Spartak Sub. ,35989,-,Nikola Drincic,04/05,Serbia,669.0,FK Partizan 
+"Jan 1, 2005",,Loan,Serbia,669.0,FK Partizan ,35989,-,Nikola Drincic,04/05,Serbia,15276.0,Spartak Sub. 
+"Jul 1, 2004",,?,Serbia,4646.0,Teleoptik Zemun ,35989,-,Nikola Drincic,04/05,Serbia,669.0,FK Partizan 
+"Jul 1, 2003",,-,Serbia,12373.0,FK Partizan U19 ,35989,-,Nikola Drincic,03/04,Serbia,4646.0,Teleoptik Zemun 
+"Feb 5, 2015",,-,Sweden,515.0,Unattached ,25243,-,Kevin Onyekachi Amuneke,14/15,,8485.0,IS Halmia 
+"Jul 1, 2014",,-,Serbia,11066.0,Sloboda Uzice ,25243,-,Kevin Onyekachi Amuneke,14/15,,515.0,Unattached 
+"Feb 1, 2014",,?,Portugal,7179.0,Tondela ,25243,-,Kevin Onyekachi Amuneke,13/14,Serbia,11066.0,Sloboda Uzice 
+"Jul 3, 2013",,Free transfer,Sweden,701.0,Trelleborgs FF ,25243,-,Kevin Onyekachi Amuneke,13/14,Portugal,7179.0,Tondela 
+"Mar 27, 2013",,-,Sweden,515.0,Unattached ,25243,250 Th. €,Kevin Onyekachi Amuneke,12/13,,701.0,Trelleborgs FF 
+"Aug 24, 2012",,-,Sweden,1236.0,Östers IF ,25243,250 Th. €,Kevin Onyekachi Amuneke,12/13,,515.0,Unattached 
+"Aug 1, 2011",,-,Sweden,515.0,Unattached ,25243,500 Th. €,Kevin Onyekachi Amuneke,11/12,,1236.0,Östers IF 
+"Jan 1, 2011",,-,Portugal,982.0,Nacional ,25243,500 Th. €,Kevin Onyekachi Amuneke,10/11,,515.0,Unattached 
+"Jul 1, 2009",,500 Th. €,Romania,7074.0,FC Timisoara ,25243,500 Th. €,Kevin Onyekachi Amuneke,09/10,Portugal,982.0,Nacional 
+"Jan 1, 2009",,?,Sweden,2844.0,IFK Norrköping ,25243,600 Th. €,Kevin Onyekachi Amuneke,08/09,Romania,7074.0,Poli. Timisoara 
+"Dec 1, 2007",,300 Th. €,Bulgaria,208.0,CSKA Sofia ,25243,600 Th. €,Kevin Onyekachi Amuneke,07/08,Sweden,2844.0,IFK Norrköping 
+"Jul 1, 2007",,Free transfer,Portugal,1085.0,Vitória Setúbal ,25243,600 Th. €,Kevin Onyekachi Amuneke,07/08,Bulgaria,208.0,CSKA Sofia 
+"Aug 1, 2006",,?,Sweden,2294.0,Landskrona ,25243,475 Th. €,Kevin Onyekachi Amuneke,06/07,Portugal,1085.0,Vitória Setúbal 
+"Jan 1, 2005",,Free transfer,Portugal,9844.0,FC Porto U19 ,25243,-,Kevin Onyekachi Amuneke,04/05,Sweden,2294.0,Landskrona 
+"Jul 1, 2003",,?,Portugal,8889.0,Benfica U19 ,25243,-,Kevin Onyekachi Amuneke,03/04,Portugal,9844.0,FC Porto U19 
+"Jan 12, 2016",,?,Montenegro,515.0,Unattached ,35910,200 Th. €,Radislav Sekulic,15/16,,1004.0,FK Zeta Golubovac 
+"Jul 1, 2015",,-,Serbia,12931.0,Sindjelic Belgrad ,35910,200 Th. €,Radislav Sekulic,15/16,,515.0,Unattached 
+"Feb 16, 2015",,-,Serbia,515.0,Unattached ,35910,200 Th. €,Radislav Sekulic,14/15,,12931.0,Sindjelic Belgrad 
+"Jul 1, 2014",,-,Serbia,6621.0,FK Cukaricki ,35910,200 Th. €,Radislav Sekulic,14/15,,515.0,Unattached 
+"Jul 24, 2013",,?,Serbia,10319.0,FK Bezanija ,35910,200 Th. €,Radislav Sekulic,13/14,Serbia,6621.0,FK Cukaricki 
+"Aug 1, 2012",,-,Serbia,515.0,Unattached ,35910,200 Th. €,Radislav Sekulic,12/13,,10319.0,FK Bezanija 
+"Nov 29, 2011",,-,Hungary,709.0,Budapest Honvéd ,35910,200 Th. €,Radislav Sekulic,11/12,,515.0,Unattached 
+"Jul 4, 2011",,Free transfer,Montenegro,10883.0,FK Mladost ,35910,300 Th. €,Radislav Sekulic,11/12,Hungary,709.0,Budapest Honvéd 
+"Jan 1, 2011",,?,China,36638.0,Shanghai Pudong ,35910,300 Th. €,Radislav Sekulic,10/11,Montenegro,10883.0,FK Mladost 
+"Jan 1, 2010",,?,Montenegro,748.0,Mogren Budva ,35910,300 Th. €,Radislav Sekulic,09/10,China,36638.0,Shanghai Pudong 
+"Jul 1, 2009",,Free transfer,Montenegro,4391.0,B. Podgorica ,35910,300 Th. €,Radislav Sekulic,09/10,Montenegro,748.0,Mogren Budva 
+"Jul 1, 2003",,-,Montenegro,27908.0,Buducnost P. ,35910,-,Radislav Sekulic,03/04,Montenegro,4391.0,B. Podgorica 
+"Mar 3, 2016",,Free transfer,Serbia,4650.0,FK Backa ,161954,-,Stefan Jovanovic,15/16,Bosnia-Herzegovina,3492.0,Br. Gracanica 
+"Dec 31, 2014",,End of loan,Serbia,35536.0,Pob. Belosevac ,296613,50 Th. €,Uros Vidovic,14/15,Serbia,4645.0,Radnicki 1923 
+"Aug 1, 2014",,Loan,Serbia,4645.0,Radnicki 1923 ,296613,50 Th. €,Uros Vidovic,14/15,Serbia,35536.0,Pob. Belosevac 
+"Jan 1, 2014",,?,Serbia,788.0,Napredak ,162985,400 Th. €,Petar Bojic,13/14,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2012",,?,Serbia,6622.0,Mladost Lucani ,162985,-,Petar Bojic,12/13,Serbia,788.0,Napredak 
+"Jan 9, 2015",,?,Serbia,669.0,FK Partizan ,189100,200 Th. €,Sasa Ivkovic,14/15,Serbia,4634.0,FK Vozdovac  
+"Dec 31, 2014",,End of loan,Serbia,4650.0,FK Backa ,189100,200 Th. €,Sasa Ivkovic,14/15,Serbia,669.0,FK Partizan 
+"Aug 1, 2014",,Loan,Serbia,669.0,FK Partizan ,189100,200 Th. €,Sasa Ivkovic,14/15,Serbia,4650.0,FK Backa 
+"Jun 30, 2014",,End of loan,Serbia,4646.0,Teleoptik Zemun ,189100,200 Th. €,Sasa Ivkovic,13/14,Serbia,669.0,FK Partizan 
+"Feb 1, 2014",,Loan,Serbia,669.0,FK Partizan ,189100,200 Th. €,Sasa Ivkovic,13/14,Serbia,4646.0,Teleoptik Zemun 
+"Jun 30, 2013",,End of loan,Serbia,4646.0,Teleoptik Zemun ,189100,-,Sasa Ivkovic,12/13,Serbia,669.0,FK Partizan 
+"Aug 1, 2011",,Loan,Serbia,669.0,FK Partizan ,189100,-,Sasa Ivkovic,11/12,Serbia,4646.0,Teleoptik Zemun 
+"Jul 1, 2011",,?,Serbia,6620.0,CSK Celarevo ,189100,-,Sasa Ivkovic,11/12,Serbia,669.0,FK Partizan 
+"Jul 15, 2015",,?,Serbia,448.0,Vojvodina ,304303,350 Th. €,Luka Lukovic,15/16,Switzerland,2155.0,FC Biel-Bienne 
+"Jul 1, 2014",,-,Serbia,12865.0,Vojvodina U21 ,304303,-,Luka Lukovic,14/15,Serbia,448.0,Vojvodina 
+"Jan 23, 2014",,?,Serbia,11137.0,Red Star U19 ,304303,-,Luka Lukovic,13/14,Serbia,12865.0,Vojvodina U21 
+"Feb 1, 2015",,?,Albania,8671.0,KF Vllaznia ,15539,175 Th. €,Ersin Mehmedovic,14/15,,515.0,Unattached 
+"Aug 19, 2014",,Free transfer,Serbia,4633.0,Novi Pazar ,15539,300 Th. €,Ersin Mehmedovic,14/15,Albania,8671.0,KF Vllaznia 
+"Feb 1, 2014",,Free transfer,Kazakhstan,22994.0,Taraz ,15539,300 Th. €,Ersin Mehmedovic,13/14,Serbia,4633.0,Novi Pazar 
+"Jan 1, 2012",,Free transfer,Romania,312.0,Dinamo Bukarest ,15539,350 Th. €,Ersin Mehmedovic,11/12,Kazakhstan,22994.0,Taraz 
+"Feb 1, 2011",,?,Romania,10442.0,Unirea Urziceni ,15539,350 Th. €,Ersin Mehmedovic,10/11,Romania,312.0,Dinamo Bukarest 
+"Jul 1, 2007",,200 Th. €,Romania,7074.0,Poli. Timisoara ,15539,200 Th. €,Ersin Mehmedovic,07/08,Romania,10442.0,Unirea Urziceni 
+"Jun 30, 2007",,End of loan,Romania,2754.0,FC National ,15539,200 Th. €,Ersin Mehmedovic,06/07,Romania,7074.0,Poli. Timisoara 
+"Jul 1, 2005",,Loan,Romania,7074.0,Poli. Timisoara ,15539,200 Th. €,Ersin Mehmedovic,05/06,Romania,2754.0,FC National 
+"Jan 1, 2005",,Free transfer,Belgium,157.0,KAA Gent ,15539,200 Th. €,Ersin Mehmedovic,04/05,Romania,7074.0,Poli AEK 
+"Jun 30, 2004",,End of loan,Belgium,354.0,KV Mechelen ,15539,-,Ersin Mehmedovic,03/04,Belgium,157.0,KAA Gent 
+"Jan 1, 2004",,Loan,Belgium,157.0,KAA Gent ,15539,-,Ersin Mehmedovic,03/04,Belgium,354.0,KV Mechelen 
+"Jul 1, 2002",,Free transfer,Serbia,4662.0,Remont Cacak ,15539,-,Ersin Mehmedovic,02/03,Belgium,157.0,KAA Gent 
+"Jul 1, 2001",,?,Slovenia,20656.0,Tabor Sezana ,15539,-,Ersin Mehmedovic,01/02,Serbia,4662.0,Remont Cacak 
+"Jul 1, 2000",,?,Serbia,27127.0,Pazar U19 ,15539,-,Ersin Mehmedovic,00/01,Slovenia,20656.0,Tabor Sezana 
+"Jul 13, 2015",,Free transfer,England,1035.0,Sheff Wed ,40118,450 Th. €,Dejan Kelhar,15/16,Slovenia,4772.0,NK Olimpija 
+"Aug 7, 2014",,Free transfer,Serbia,159.0,Red Star ,40118,500 Th. €,Dejan Kelhar,14/15,England,1035.0,Sheff Wed 
+"Feb 4, 2014",,Free transfer,Azerbaijan,22010.0,FK Gabala ,40118,500 Th. €,Dejan Kelhar,13/14,Serbia,159.0,Red Star 
+"Jul 1, 2012",,?,Turkey,152.0,Samsunspor ,40118,500 Th. €,Dejan Kelhar,12/13,Azerbaijan,22010.0,FK Gabala 
+"Jan 1, 2012",,35 Th. €,Israel,810.0,Hapoel Haifa ,40118,475 Th. €,Dejan Kelhar,11/12,Turkey,152.0,Samsunspor 
+"Nov 1, 2011",,Free transfer,Turkey,868.0,Ankaragücü ,40118,475 Th. €,Dejan Kelhar,11/12,Israel,810.0,Hapoel Haifa 
+"Jul 1, 2011",,Free transfer,Poland,255.0,Legia Warszawa ,40118,700 Th. €,Dejan Kelhar,11/12,Turkey,868.0,Ankaragücü 
+"Feb 1, 2011",,Free transfer,Belgium,520.0,Cercle Brugge ,40118,700 Th. €,Dejan Kelhar,10/11,Poland,255.0,Legia Warszawa 
+"Jan 1, 2009",,275 Th. €,Slovenia,710.0,NK Celje  ,40118,275 Th. €,Dejan Kelhar,08/09,Belgium,520.0,Cercle Brugge 
+"Jan 1, 2008",,Free transfer,Germany,65.0,Greuther Fürth ,40118,-,Dejan Kelhar,07/08,Slovenia,710.0,NK Celje  
+"Jul 1, 2006",,100 Th. €,Slovenia,710.0,NK Celje  ,40118,150 Th. €,Dejan Kelhar,06/07,Germany,65.0,Greuther Fürth 
+"Jul 1, 2005",,60 Th. €,Slovenia,4772.0,NK Olimpija ,40118,-,Dejan Kelhar,05/06,Slovenia,710.0,NK Celje  
+"Jan 1, 2005",,?,Slovenia,710.0,NK Celje  ,40118,-,Dejan Kelhar,04/05,Slovenia,4772.0,NK Olimpija 
+"Aug 25, 2015",,?,Serbia,448.0,Vojvodina ,322231,350 Th. €,Elmir Asani,15/16,Serbia,4634.0,FK Vozdovac  
+"Dec 31, 2014",,End of loan,Serbia,20889.0,Sloga Temerin ,322231,-,Elmir Asani,14/15,Serbia,448.0,Vojvodina 
+"Aug 27, 2014",,Loan,Serbia,448.0,Vojvodina ,322231,-,Elmir Asani,14/15,Serbia,20889.0,Sloga Temerin 
+"Jul 1, 2014",,-,Serbia,12865.0,Vojvodina U21 ,322231,-,Elmir Asani,14/15,Serbia,448.0,Vojvodina 
+"Jul 1, 2014",,?,Serbia,4634.0,FK Vozdovac  ,239802,450 Th. €,Adam Marusic,14/15,Belgium,601.0,KV Kortrijk 
+"Jan 31, 2016",,-,Serbia,515.0,Unattached ,161980,300 Th. €,Marko Paunovic,15/16,,4633.0,Novi Pazar 
+"Jul 1, 2015",,-,Serbia,788.0,Napredak ,161980,300 Th. €,Marko Paunovic,15/16,,515.0,Unattached 
+"Feb 1, 2016",,?,England,164.0,Blackburn ,134334,-,Sacha Petshi,15/16,France,2067.0,US Créteil 
+"Jul 21, 2015",,?,France,28559.0,CA Bastia ,134334,-,Sacha Petshi,15/16,England,164.0,Blackburn 
+"Oct 10, 2014",,Free transfer,Serbia,11066.0,Sloboda Uzice ,134334,-,Sacha Petshi,14/15,France,28559.0,CA Bastia 
+"Jan 27, 2014",,-,Serbia,515.0,Unattached ,134334,-,Sacha Petshi,13/14,,11066.0,Sloboda Uzice 
+"Jul 1, 2013",,-,France,1095.0,Troyes ,134334,-,Sacha Petshi,13/14,,515.0,Unattached 
+"Jun 30, 2013",,End of loan,France,10868.0,US Orléans ,134334,-,Sacha Petshi,12/13,France,1095.0,Troyes 
+"Jul 1, 2012",,Loan,France,1095.0,Troyes ,134334,150 Th. €,Sacha Petshi,12/13,France,10868.0,US Orléans 
+"Jul 1, 2011",,-,France,10846.0,ES Troyes AC B ,134334,-,Sacha Petshi,11/12,France,1095.0,Troyes 
+"Jan 1, 2012",,?,Serbia,8975.0,BASK Belgrad ,181443,125 Th. €,Nemanja Stevanovic,11/12,Serbia,6621.0,FK Cukaricki 
+"Jan 1, 2016",,Free transfer,Poland,28887.0,Chojnice ,24268,200 Th. €,Dragan Jelic,15/16,Austria,3260.0,Voitsberg 
+"Aug 1, 2015",,Free transfer,Slovenia,789.0,Rudar Velenje ,24268,200 Th. €,Dragan Jelic,15/16,Poland,28887.0,Chojnice 
+"Aug 1, 2014",,Free transfer,Serbia,7567.0,Radnicki Nis ,24268,175 Th. €,Dragan Jelic,14/15,Slovenia,789.0,Rudar Velenje 
+"Jan 28, 2014",,Free transfer,Austria,2394.0,SV Kapfenberg ,24268,175 Th. €,Dragan Jelic,13/14,Serbia,7567.0,Radnicki Nis 
+"Jan 22, 2013",,?,Slovenia,4059.0,Mura 05 ,24268,250 Th. €,Dragan Jelic,12/13,Austria,2394.0,SV Kapfenberg 
+"Feb 1, 2012",,Free transfer,Slovenia,790.0,NK Maribor ,24268,200 Th. €,Dragan Jelic,11/12,Slovenia,4059.0,Mura 05 
+"Jun 30, 2011",,End of loan,Netherlands,403.0,Willem II ,24268,250 Th. €,Dragan Jelic,10/11,Slovenia,790.0,NK Maribor 
+"Jan 1, 2011",,Loan,Slovenia,790.0,NK Maribor ,24268,250 Th. €,Dragan Jelic,10/11,Netherlands,403.0,Willem II 
+"Dec 1, 2010",,End of loan,Russia,2696.0,KS Samara ,24268,250 Th. €,Dragan Jelic,10/11,Slovenia,790.0,NK Maribor 
+"Aug 1, 2010",,Loan,Slovenia,790.0,NK Maribor ,24268,400 Th. €,Dragan Jelic,10/11,Russia,2696.0,KS Samara 
+"Jun 30, 2007",,End of loan,Turkey,126.0,Rizespor ,24268,500 Th. €,Dragan Jelic,06/07,Slovenia,790.0,NK Maribor 
+"Aug 1, 2006",,Loan fee:450 Th. €,Slovenia,790.0,NK Maribor ,24268,-,Dragan Jelic,06/07,Turkey,126.0,Rizespor 
+"Jul 1, 2004",,-,Slovenia,18031.0,NK Maribor U19 ,24268,-,Dragan Jelic,04/05,Slovenia,790.0,NK Maribor 
+"Aug 31, 2015",,Free transfer,Italy,16996.0,Hellas Verona ,327376,75 Th. €,Marko Bulat,15/16,Italy,26347.0,Virtus Lanciano 
+"Jun 30, 2015",,End of loan,Italy,26331.0,Varese U19 ,327376,75 Th. €,Marko Bulat,14/15,Italy,16996.0,Hellas Verona 
+"Feb 2, 2015",,Loan,Italy,16996.0,Hellas Verona ,327376,75 Th. €,Marko Bulat,14/15,Italy,26331.0,Varese U19 
+"Aug 30, 2014",,?,Serbia,20602.0,Jagodina U19 ,327376,-,Marko Bulat,14/15,Italy,16996.0,Hellas Verona 
+"Jan 12, 2015",,Free transfer,Serbia,788.0,Napredak ,314322,-,Darko Simic,14/15,,75.0,Unknown 
+"Jul 1, 2014",,-,Serbia,15071.0,Napredak Krusevac U19 ,314322,-,Darko Simic,14/15,Serbia,788.0,Napredak 
+"Jan 1, 2014",,Free transfer,Serbia,44345.0,Kragujevac U19 ,314322,-,Darko Simic,13/14,Serbia,15071.0,Napredak Krusevac U19 
+"Jul 1, 2016",,300 Th. €,Serbia,448.0,Vojvodina ,322798,800 Th. €,Radovan Pankov,16/17,Russia,11127.0,Ural 
+"Jul 1, 2014",,-,Serbia,12865.0,Vojvodina U21 ,322798,-,Radovan Pankov,14/15,Serbia,448.0,Vojvodina 
+"Jul 1, 2015",,?,Serbia,788.0,Napredak ,243951,100 Th. €,Nikola Popovic,15/16,Serbia,11043.0,Dinamo Vranje 
+"Jun 30, 2015",,End of loan,Serbia,12514.0,Kolubara ,243951,100 Th. €,Nikola Popovic,14/15,Serbia,788.0,Napredak 
+"Jan 1, 2015",,Loan,Serbia,788.0,Napredak ,243951,100 Th. €,Nikola Popovic,14/15,Serbia,12514.0,Kolubara 
+"Jun 30, 2014",,End of loan,Serbia,12514.0,Kolubara ,243951,-,Nikola Popovic,13/14,Serbia,788.0,Napredak 
+"Jul 1, 2013",,Loan,Serbia,788.0,Napredak ,243951,-,Nikola Popovic,13/14,Serbia,12514.0,Kolubara 
+"Dec 1, 2015",,?,Thailand,6759.0,Chiangrai Utd ,208112,100 Th. €,Keisuke Ogawa,15/16,Myanmar,26648.0,Yadanarbon FC 
+"Dec 1, 2014",,End of loan,Thailand,6759.0,Chiangrai Utd ,208112,100 Th. €,Keisuke Ogawa,14/15,Thailand,38052.0,Thai Honda FC 
+"Jul 1, 2014",,Loan,Thailand,38052.0,Thai Honda FC ,208112,100 Th. €,Keisuke Ogawa,14/15,Thailand,6759.0,Chiangrai Utd 
+"Jul 15, 2013",,Free transfer,Latvia,28932.0,FC Jurmala ,208112,50 Th. €,Keisuke Ogawa,13/14,Serbia,11066.0,Sloboda Uzice 
+"Mar 1, 2013",,Free transfer,Thailand,25446.0,Pattaya Utd ,208112,-,Keisuke Ogawa,12/13,Latvia,28932.0,FC Jurmala 
+"Jul 1, 2010",,?,Singapore,23472.0,Albirex Niigata ,208112,-,Keisuke Ogawa,10/11,Thailand,25446.0,Pattaya Utd 
+"Jul 1, 2007",,-,Singapore,2113.0,career break ,208112,-,Keisuke Ogawa,07/08,,23472.0,Albirex Niigata 
+"Jul 1, 2014",,800 Th. €,Serbia,12132.0,Jagodina ,73457,500 Th. €,Aleksandar Pesic,14/15,France,415.0,Toulouse 
+"Aug 30, 2013",,Free transfer,Moldova,2481.0,Sheriff ,73457,250 Th. €,Aleksandar Pesic,13/14,Serbia,12132.0,Jagodina 
+"Jan 1, 2011",,Free transfer,Greece,653.0,OFI Kreta ,73457,250 Th. €,Aleksandar Pesic,10/11,Moldova,2481.0,Sheriff 
+"Jul 1, 2008",,Free transfer,Serbia,35980.0,Radn. Nis U19 ,73457,25 Th. €,Aleksandar Pesic,08/09,Greece,653.0,OFI Kreta 
+"Jul 1, 2015",,Free transfer,Serbia,6621.0,FK Cukaricki ,244981,100 Th. €,Mihailo Miljkovic,15/16,Serbia,8975.0,BASK Belgrad 
+"Jun 30, 2015",,End of loan,Serbia,8975.0,BASK Belgrad ,244981,100 Th. €,Mihailo Miljkovic,14/15,Serbia,6621.0,FK Cukaricki 
+"Jan 1, 2015",,Loan,Serbia,6621.0,FK Cukaricki ,244981,50 Th. €,Mihailo Miljkovic,14/15,Serbia,8975.0,BASK Belgrad 
+"Dec 31, 2014",,End of loan,Serbia,41613.0,FK IM Rakovica ,244981,50 Th. €,Mihailo Miljkovic,14/15,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2014",,Loan,Serbia,6621.0,FK Cukaricki ,244981,50 Th. €,Mihailo Miljkovic,14/15,Serbia,41613.0,FK IM Rakovica 
+"Jul 1, 2014",,-,Serbia,15058.0,Cukaricki U19 ,298743,-,Staniša Mandić,14/15,Serbia,6621.0,FK Cukaricki 
+"Jan 1, 2016",,-,Serbia,515.0,Unattached ,287992,300 Th. €,Petar Ilic,15/16,,6620.0,CSK Celarevo 
+"Nov 25, 2015",,-,Bosnia-Herzegovina,3900.0,B. Banja Luka ,287992,300 Th. €,Petar Ilic,15/16,,515.0,Unattached 
+"Aug 6, 2014",,?,Serbia,19488.0,Proleter ,287992,100 Th. €,Petar Ilic,14/15,Bosnia-Herzegovina,3900.0,B. Banja Luka 
+"Feb 15, 2014",,?,Serbia,9937.0,Donji Srem ,287992,100 Th. €,Petar Ilic,13/14,Serbia,19488.0,Proleter 
+"Jul 1, 2013",,?,Serbia,2388.0,FK Novi Sad ,287992,-,Petar Ilic,13/14,Serbia,9937.0,Donji Srem 
+"Dec 31, 2012",,End of loan,Serbia,6620.0,CSK Celarevo ,287992,-,Petar Ilic,12/13,Serbia,2388.0,FK Novi Sad 
+"Jul 1, 2012",,Loan,Serbia,2388.0,FK Novi Sad ,287992,-,Petar Ilic,12/13,Serbia,6620.0,CSK Celarevo 
+"Jun 30, 2012",,End of loan,Serbia,27199.0,Beocin ,287992,-,Petar Ilic,11/12,Serbia,2388.0,FK Novi Sad 
+"Feb 1, 2011",,Loan,Serbia,2388.0,FK Novi Sad ,287992,-,Petar Ilic,10/11,Serbia,27199.0,Beocin 
+"Jan 1, 2011",,Free transfer,Serbia,12865.0,Vojvodina U21 ,287992,-,Petar Ilic,10/11,Serbia,2388.0,FK Novi Sad 
+"Jul 1, 2013",,30 Th. €,Serbia,11137.0,Red Star U19 ,169211,-,Dragoljub Srnic,13/14,Serbia,6621.0,FK Cukaricki 
+"Jun 30, 2013",,End of loan,Serbia,6621.0,FK Cukaricki ,169211,-,Dragoljub Srnic,12/13,Serbia,11137.0,Red Star U19 
+"Jul 1, 2012",,Loan,Serbia,11137.0,Red Star U19 ,169211,-,Dragoljub Srnic,12/13,Serbia,6621.0,FK Cukaricki 
+"Jun 30, 2012",,End of loan,Serbia,25070.0,Sopot ,169211,-,Dragoljub Srnic,11/12,Serbia,11137.0,Red Star U19 
+"Jan 1, 2011",,Loan,Serbia,11137.0,Red Star U19 ,169211,-,Dragoljub Srnic,10/11,Serbia,25070.0,Sopot 
+"Jul 1, 2008",,?,Serbia,4657.0,FK Macva Sabac ,169211,-,Dragoljub Srnic,08/09,Serbia,11137.0,Red Star U19 
+"Jul 1, 2016",,?,Serbia,8819.0,Javor Ivanjica ,283905,450 Th. €,Marko Docic,16/17,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2013",,?,Serbia,14770.0,Srem Jakovo ,283905,-,Marko Docic,13/14,Serbia,8819.0,Javor Ivanjica 
+,,,,,,283908,,,,,,
+"Jun 30, 2016",,End of loan,Serbia,48563.0,Tabane ,313093,150 Th. €,Sladjan Mijatovic,15/16,Serbia,12132.0,Jagodina 
+"Jan 1, 2015",,Loan,Serbia,12132.0,Jagodina ,313093,150 Th. €,Sladjan Mijatovic,14/15,Serbia,48563.0,Tabane 
+"Feb 11, 2014",,?,Serbia,636.0,Zeleznik Belgrad ,313093,-,Sladjan Mijatovic,13/14,Serbia,12132.0,Jagodina 
+"Feb 1, 2013",,?,Serbia,23682.0,Dorcol ,313093,-,Sladjan Mijatovic,12/13,Serbia,636.0,Zeleznik Belgrad 
+"Jul 1, 2012",,?,Serbia,15072.0,OFK Beograd U19 ,313093,-,Sladjan Mijatovic,12/13,Serbia,23682.0,Dorcol 
+"Jan 1, 2014",,?,Serbia,8819.0,Javor Ivanjica ,283911,100 Th. €,Nikola Knezevic,13/14,Serbia,36918.0,Polet Ljubic 
+"Jul 1, 2013",,?,Serbia,36918.0,Polet Ljubic ,283911,-,Nikola Knezevic,13/14,Serbia,8819.0,Javor Ivanjica 
+"Jul 1, 2012",,?,Serbia,2209.0,Borac Cacak ,283911,-,Nikola Knezevic,12/13,Serbia,36918.0,Polet Ljubic 
+"Jun 30, 2012",,End of loan,Serbia,36918.0,Polet Ljubic ,283911,-,Nikola Knezevic,11/12,Serbia,2209.0,Borac Cacak 
+"Jan 1, 2012",,Loan,Serbia,2209.0,Borac Cacak ,283911,-,Nikola Knezevic,11/12,Serbia,36918.0,Polet Ljubic 
+"Dec 31, 2011",,End of loan,Serbia,22364.0,FK Belgrad ,283911,-,Nikola Knezevic,11/12,Serbia,2209.0,Borac Cacak 
+"Jul 1, 2011",,Loan,Serbia,2209.0,Borac Cacak ,283911,-,Nikola Knezevic,11/12,Serbia,22364.0,FK Belgrad 
+"Jun 30, 2011",,End of loan,Serbia,36918.0,Polet Ljubic ,283911,-,Nikola Knezevic,10/11,Serbia,2209.0,Borac Cacak 
+"Jul 1, 2010",,Loan,Serbia,2209.0,Borac Cacak ,283911,-,Nikola Knezevic,10/11,Serbia,36918.0,Polet Ljubic 
+"Dec 31, 2009",,End of loan,Serbia,24968.0,Sloboda Cacak ,283911,-,Nikola Knezevic,09/10,Serbia,2209.0,Borac Cacak 
+"Jul 15, 2009",,Loan,Serbia,2209.0,Borac Cacak ,283911,-,Nikola Knezevic,09/10,Serbia,24968.0,Sloboda Cacak 
+"Jul 1, 2009",,?,Serbia,15034.0,Borac Cacak U19 ,283911,-,Nikola Knezevic,09/10,Serbia,2209.0,Borac Cacak 
+"Jan 26, 2016",,?,Albania,12462.0,KF Kastrioti ,61194,400 Th. €,Vladan Giljen,15/16,Montenegro,3070.0,FK Sutjeska Niksic 
+"Jul 1, 2015",,Free transfer,Albania,21781.0,KF Tërbuni Pukë ,61194,400 Th. €,Vladan Giljen,15/16,Albania,12462.0,KF Kastrioti 
+"Jul 1, 2014",,?,Montenegro,30037.0,FK Celik Niksic ,61194,400 Th. €,Vladan Giljen,14/15,Albania,21781.0,KF Tërbuni Pukë 
+"Feb 1, 2014",,?,Serbia,53.0,OFK Beograd ,61194,400 Th. €,Vladan Giljen,13/14,Montenegro,30037.0,FK Celik Niksic 
+"Aug 1, 2013",,Free transfer,Portugal,982.0,Nacional ,61194,800 Th. €,Vladan Giljen,13/14,Serbia,53.0,OFK Beograd 
+"Jul 1, 2010",,?,Montenegro,3070.0,FK Sutjeska Niksic ,61194,-,Vladan Giljen,10/11,Portugal,982.0,Nacional 
+"Jul 15, 2015",,?,Serbia,902.0,Rad ,283917,500 Th. €,Vladimir Rodic,15/16,Sweden,496.0,Malmö FF 
+"Jun 30, 2013",,End of loan,Serbia,14770.0,Srem Jakovo ,283917,-,Vladimir Rodic,12/13,Serbia,902.0,Rad 
+"Jan 1, 2013",,Loan,Serbia,902.0,Rad ,283917,-,Vladimir Rodic,12/13,Serbia,14770.0,Srem Jakovo 
+"Jun 30, 2012",,End of loan,Serbia,8975.0,BASK Belgrad ,283917,-,Vladimir Rodic,11/12,Serbia,902.0,Rad 
+"Jan 1, 2012",,Loan,Serbia,902.0,Rad ,283917,-,Vladimir Rodic,11/12,Serbia,8975.0,BASK Belgrad 
+"Dec 31, 2011",,End of loan,Serbia,5757.0,FK Palic Koming ,283917,-,Vladimir Rodic,11/12,Serbia,902.0,Rad 
+"Jul 1, 2011",,Loan,Serbia,902.0,Rad ,283917,-,Vladimir Rodic,11/12,Serbia,5757.0,FK Palic Koming 
+"Oct 9, 2015",,End of loan,China,8536.0,QD Jonoon ,39184,500 Th. €,Ismaël Fofana,15/16,Serbia,669.0,FK Partizan 
+"Jan 9, 2015",,Loan,Serbia,669.0,FK Partizan ,39184,600 Th. €,Ismaël Fofana,14/15,China,8536.0,QD Jonoon 
+"Aug 5, 2013",,200 Th. €,Armenia,4807.0,Shirak Gyumri ,39184,300 Th. €,Ismaël Fofana,13/14,Serbia,669.0,FK Partizan 
+"Jun 30, 2013",,End of loan,Iran,6081.0,Zob Ahan ,39184,300 Th. €,Ismaël Fofana,12/13,Armenia,4807.0,Shirak Gyumri 
+"Jan 1, 2013",,Loan,Armenia,4807.0,Shirak Gyumri ,39184,375 Th. €,Ismaël Fofana,12/13,Iran,6081.0,Zob Ahan 
+"Jan 1, 2012",,?,France,26184.0,FC Saint-Lo ,39184,75 Th. €,Ismaël Fofana,11/12,Armenia,4807.0,Shirak Gyumri 
+"Aug 1, 2009",,Free transfer,England,358.0,Charlton ,39184,75 Th. €,Ismaël Fofana,09/10,France,26184.0,FC Saint-Lo 
+"Jun 30, 2009",,End of loan,France,5773.0,AS Cherbourg ,39184,75 Th. €,Ismaël Fofana,08/09,England,358.0,Charlton 
+"Aug 1, 2008",,Loan fee:350 Th. €,England,358.0,Charlton ,39184,-,Ismaël Fofana,08/09,France,5773.0,AS Cherbourg 
+"May 1, 2008",,End of loan,Norway,3837.0,Fredrikstad ,39184,-,Ismaël Fofana,07/08,England,358.0,Charlton 
+"Feb 1, 2007",,Loan fee:275 Th. €,England,358.0,Charlton ,39184,-,Ismaël Fofana,06/07,Norway,3837.0,Fredrikstad 
+"Jan 1, 2007",,700 Th. €,Cote d'Ivoire,3891.0,ASEC Mimosas ,39184,-,Ismaël Fofana,06/07,England,358.0,Charlton 
+"Jan 1, 2005",,-,Cote d'Ivoire,16804.0,Mimosas U19 ,39184,-,Ismaël Fofana,04/05,Cote d'Ivoire,3891.0,ASEC Mimosas 
+"Jan 17, 2013",,?,Serbia,12514.0,Kolubara ,199443,-,Nikola Jankovic,12/13,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2014",,-,Serbia,53.0,OFK Beograd ,44308,125 Th. €,Vitalie Bulat,14/15,,515.0,Unattached 
+"Jun 30, 2014",,End of loan,Kazakhstan,35124.0,Sunkar ,44308,125 Th. €,Vitalie Bulat,13/14,Serbia,53.0,OFK Beograd 
+"Apr 2, 2014",,Loan,Serbia,53.0,OFK Beograd ,44308,125 Th. €,Vitalie Bulat,13/14,Kazakhstan,35124.0,Sunkar 
+"Jan 24, 2014",,?,Serbia,4633.0,Novi Pazar ,44308,125 Th. €,Vitalie Bulat,13/14,Serbia,53.0,OFK Beograd 
+"Aug 1, 2013",,-,Serbia,515.0,Unattached ,44308,125 Th. €,Vitalie Bulat,13/14,,4633.0,Novi Pazar 
+"Jan 1, 2013",,-,Moldova,13278.0,FC Tiraspol ,44308,125 Th. €,Vitalie Bulat,12/13,,515.0,Unattached 
+"Dec 31, 2011",,End of loan,Moldova,2481.0,Sheriff ,44308,125 Th. €,Vitalie Bulat,11/12,Moldova,13278.0,FC Tiraspol 
+"Jul 1, 2011",,Loan,Moldova,13278.0,FC Tiraspol ,44308,125 Th. €,Vitalie Bulat,11/12,Moldova,2481.0,Sheriff 
+"Jan 1, 2011",,?,Moldova,2481.0,Sheriff ,44308,125 Th. €,Vitalie Bulat,10/11,Moldova,13278.0,FC Tiraspol 
+"Dec 1, 2010",,End of loan,Moldova,21717.0,Iskra-Stali ,44308,125 Th. €,Vitalie Bulat,10/11,Moldova,2481.0,Sheriff 
+"Sep 1, 2010",,Loan,Moldova,2481.0,Sheriff ,44308,125 Th. €,Vitalie Bulat,10/11,Moldova,21717.0,Iskra-Stali 
+"Dec 31, 2008",,End of loan,Moldova,13278.0,FC Tiraspol ,44308,-,Vitalie Bulat,08/09,Moldova,2481.0,Sheriff 
+"Jan 1, 2008",,Loan,Moldova,2481.0,Sheriff ,44308,-,Vitalie Bulat,07/08,Moldova,13278.0,FC Tiraspol 
+"Jan 1, 2006",,?,Moldova,2714.0,Zimbru Chisinau ,44308,-,Vitalie Bulat,05/06,Moldova,2481.0,Sheriff 
+"Jul 1, 2015",,-,Serbia,19710.0,Rad U19 ,245023,-,Djordje Denic,15/16,Serbia,902.0,Rad 
+"Feb 1, 2016",,Free transfer,Poland,28536.0,Bytovia Bytow ,270113,100 Th. €,Shohei Okuno,15/16,,75.0,Unknown 
+"Feb 3, 2015",,Free transfer,Poland,324.0,Pogon Szczecin ,270113,300 Th. €,Shohei Okuno,14/15,Poland,28536.0,Bytovia Bytow 
+"Aug 6, 2014",,Free transfer,Serbia,11066.0,Sloboda Uzice ,270113,300 Th. €,Shohei Okuno,14/15,Poland,324.0,Pogon Szczecin 
+"Jul 19, 2013",,?,Latvia,8606.0,Auda Kekava ,270113,-,Shohei Okuno,13/14,Serbia,11066.0,Sloboda Uzice 
+"Jan 1, 2013",,Bez odstępnego,Japan,23895.0,Hannan Univ. ,270113,-,Shohei Okuno,12/13,Latvia,8606.0,Auda Kekava 
+"Jan 1, 2009",,Bez odstępnego,Japan,42871.0,Kokoku HS ,270113,-,Shohei Okuno,08/09,Japan,23895.0,Hannan Univ. 
+"Jul 1, 2014",,-,Serbia,15072.0,OFK Beograd U19 ,146396,-,Borko Duronjić,14/15,Serbia,53.0,OFK Beograd 
+"Jan 1, 2014",,?,Serbia,11137.0,Red Star U19 ,146396,-,Borko Duronjić,13/14,Serbia,15072.0,OFK Beograd U19 
+,,,,,,324906,,,,,,
+"Jul 1, 2014",,?,Serbia,902.0,Rad ,289067,-,Vuk Randjic,14/15,Serbia,33576.0,Zarkovo 
+"Jan 30, 2014",,?,Serbia,12931.0,Sindjelic Belgrad ,289067,-,Vuk Randjic,13/14,Serbia,902.0,Rad 
+"Jan 25, 2016",,Free transfer,Serbia,4633.0,Novi Pazar ,36141,300 Th. €,Ivan Todorovic,15/16,Serbia,2209.0,Borac Cacak 
+"Aug 1, 2015",,Free transfer,Serbia,6621.0,FK Cukaricki ,36141,500 Th. €,Ivan Todorovic,15/16,Serbia,4633.0,Novi Pazar 
+"Jul 24, 2013",,Free transfer,Russia,3609.0,Rotor Volgograd ,36141,600 Th. €,Ivan Todorovic,13/14,Serbia,6621.0,FK Cukaricki 
+"Jul 2, 2012",,Free transfer,Portugal,982.0,Nacional ,36141,800 Th. €,Ivan Todorovic,12/13,Russia,3609.0,Rotor Volgograd 
+"Jan 1, 2010",,Free transfer,Russia,3243.0,KamAZ ,36141,200 Th. €,Ivan Todorovic,09/10,Portugal,982.0,Nacional 
+"Aug 1, 2006",,Free transfer,Montenegro,1004.0,FK Zeta Golubovac ,36141,400 Th. €,Ivan Todorovic,06/07,Russia,3243.0,KamAZ 
+"Jul 1, 2004",,Free transfer,Serbia,4646.0,Teleoptik Zemun ,36141,-,Ivan Todorovic,04/05,Montenegro,1004.0,FK Zeta Golubovac 
+"Jul 1, 2003",,-,Serbia,669.0,FK Partizan ,36141,-,Ivan Todorovic,03/04,Serbia,4646.0,Teleoptik Zemun 
+"Jul 1, 2001",,-,Serbia,12373.0,FK Partizan U19 ,36141,-,Ivan Todorovic,01/02,Serbia,669.0,FK Partizan 
+"Jan 11, 2016",,Free transfer,Serbia,8819.0,Javor Ivanjica ,239069,200 Th. €,Bojan Cecaric,15/16,Serbia,6622.0,Mladost Lucani 
+"Jul 1, 2013",,?,Serbia,27203.0,Pazova ,239069,-,Bojan Cecaric,13/14,Serbia,8819.0,Javor Ivanjica 
+"Aug 17, 2014",,?,Serbia,788.0,Napredak ,234801,500 Th. €,Obeng Regan,14/15,Serbia,6621.0,FK Cukaricki 
+"Aug 1, 2012",,?,Ghana,502.0,Asante Kotoko ,234801,-,Obeng Regan,12/13,Serbia,788.0,Napredak 
+"Jul 1, 2015",,Free transfer,Greece,29962.0,Psachna ,245042,150 Th. €,Dusan Ivkovic,15/16,Serbia,12514.0,Kolubara 
+"Jan 19, 2015",,Free transfer,Serbia,10460.0,Timok Zajecar ,245042,150 Th. €,Dusan Ivkovic,14/15,Greece,29962.0,Psachna 
+"Jan 1, 2014",,Free transfer,Serbia,8819.0,Javor Ivanjica ,245042,150 Th. €,Dusan Ivkovic,13/14,Serbia,10460.0,Timok Zajecar 
+"Jul 1, 2013",,Free transfer,Serbia,11044.0,Indjija ,245042,-,Dusan Ivkovic,13/14,Serbia,8819.0,Javor Ivanjica 
+"Jul 31, 2013",,?,Serbia,16080.0,FK Zemun U19 ,189754,-,Dino Dolmagic,13/14,Serbia,11066.0,Sloboda Uzice 
+"Feb 5, 2016",,Free transfer,Serbia,6621.0,FK Cukaricki ,190267,150 Th. €,Nikola Sakic,15/16,Serbia,788.0,Napredak 
+"Dec 31, 2015",,End of loan,Serbia,12514.0,Kolubara ,190267,150 Th. €,Nikola Sakic,15/16,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2015",,Loan,Serbia,6621.0,FK Cukaricki ,190267,150 Th. €,Nikola Sakic,15/16,Serbia,12514.0,Kolubara 
+"Jun 30, 2015",,End of loan,Serbia,12514.0,Kolubara ,190267,150 Th. €,Nikola Sakic,14/15,Serbia,6621.0,FK Cukaricki 
+"Jan 9, 2015",,Loan,Serbia,6621.0,FK Cukaricki ,190267,150 Th. €,Nikola Sakic,14/15,Serbia,12514.0,Kolubara 
+"Dec 31, 2014",,End of loan,Serbia,12931.0,Sindjelic Belgrad ,190267,150 Th. €,Nikola Sakic,14/15,Serbia,6621.0,FK Cukaricki 
+"Aug 1, 2014",,Loan,Serbia,6621.0,FK Cukaricki ,190267,150 Th. €,Nikola Sakic,14/15,Serbia,12931.0,Sindjelic Belgrad 
+"Feb 7, 2013",,?,Serbia,11137.0,Red Star U19 ,190267,-,Nikola Sakic,12/13,Serbia,6621.0,FK Cukaricki 
+"Mar 1, 2014",,Free transfer,Serbia,11066.0,Sloboda Uzice ,49468,100 Th. €,Murad Hüseynov,13/14,Latvia,9828.0,Daugavpils 
+"Sep 10, 2013",,-,Serbia,515.0,Unattached ,49468,75 Th. €,Murad Hüseynov,13/14,,11066.0,Sloboda Uzice 
+"Jan 1, 2013",,-,Azerbaijan,36999.0,Sumgayit ,49468,75 Th. €,Murad Hüseynov,12/13,,515.0,Unattached 
+"Jul 1, 2012",,?,Azerbaijan,22010.0,FK Gabala ,49468,75 Th. €,Murad Hüseynov,12/13,Azerbaijan,36999.0,Sumgayit 
+"Jan 1, 2011",,Free transfer,Serbia,6622.0,Mladost Lucani ,49468,75 Th. €,Murad Hüseynov,10/11,Azerbaijan,22010.0,FK Gabala 
+"Jan 1, 2010",,Free transfer,Russia,12430.0,Sheksna Cherepovets ,49468,75 Th. €,Murad Hüseynov,09/10,Serbia,6622.0,Mladost Lucani 
+"Jan 1, 2009",,-,Russia,515.0,Unattached ,49468,75 Th. €,Murad Hüseynov,08/09,,12430.0,Sheksna Cherepovets 
+"Jul 1, 2008",,-,Russia,2374.0,Shinnik ,49468,75 Th. €,Murad Hüseynov,08/09,,515.0,Unattached 
+"Jan 1, 2008",,?,Russia,2700.0,Anzhi ,49468,75 Th. €,Murad Hüseynov,07/08,Russia,2374.0,Shinnik 
+"Jan 1, 2006",,-,Russia,19608.0,Anzhi U19 ,49468,-,Murad Hüseynov,05/06,Russia,2700.0,Anzhi 
+"Jun 30, 2014",,End of loan,Serbia,4646.0,Teleoptik Zemun ,245056,-,Sasa Lukic,13/14,Serbia,669.0,FK Partizan 
+"Aug 13, 2013",,Loan,Serbia,669.0,FK Partizan ,245056,-,Sasa Lukic,13/14,Serbia,4646.0,Teleoptik Zemun 
+"Aug 12, 2013",,-,Serbia,12373.0,FK Partizan U19 ,245056,-,Sasa Lukic,13/14,Serbia,669.0,FK Partizan 
+"Feb 26, 2016",,?,Bosnia-Herzegovina,25435.0,FK Gorazde ,134467,150 Th. €,Darjan Matovic,15/16,Bosnia-Herzegovina,30512.0,FK Sloboda Mrkonjic Grad 
+"Jul 13, 2015",,?,Bosnia-Herzegovina,24944.0,Proleter Teslic ,134467,150 Th. €,Darjan Matovic,15/16,Bosnia-Herzegovina,25435.0,FK Gorazde 
+"Jan 23, 2015",,?,Bosnia-Herzegovina,75.0,Unknown ,134467,150 Th. €,Darjan Matovic,14/15,,24944.0,Proleter Teslic 
+"Jul 1, 2014",,?,Serbia,8819.0,Javor Ivanjica ,134467,150 Th. €,Darjan Matovic,14/15,,75.0,Unknown 
+"Jun 30, 2014",,End of loan,Serbia,11044.0,Indjija ,134467,150 Th. €,Darjan Matovic,13/14,Serbia,8819.0,Javor Ivanjica 
+"Jan 23, 2014",,Loan,Serbia,8819.0,Javor Ivanjica ,134467,150 Th. €,Darjan Matovic,13/14,Serbia,11044.0,Indjija 
+"Jul 1, 2013",,?,Bosnia-Herzegovina,22808.0,Sutjeska Foca ,134467,-,Darjan Matovic,13/14,Serbia,8819.0,Javor Ivanjica 
+"Aug 1, 2012",,?,Bosnia-Herzegovina,25435.0,FK Gorazde ,134467,-,Darjan Matovic,12/13,Bosnia-Herzegovina,22808.0,Sutjeska Foca 
+"Jul 1, 2011",,Free transfer,Bosnia-Herzegovina,22808.0,Sutjeska Foca ,134467,-,Darjan Matovic,11/12,Bosnia-Herzegovina,25435.0,FK Gorazde 
+"Feb 1, 2016",,Free transfer,Serbia,2209.0,Borac Cacak ,128324,300 Th. €,Dusan Micic,15/16,Serbia,448.0,Vojvodina 
+"Jul 1, 2015",,-,Serbia,515.0,Unattached ,128324,150 Th. €,Dusan Micic,15/16,,2209.0,Borac Cacak 
+"Feb 2, 2015",,-,Belgium,204.0,Lierse SK ,128324,150 Th. €,Dusan Micic,14/15,,515.0,Unattached 
+"Jan 3, 2015",,-,Belgium,515.0,Unattached ,128324,150 Th. €,Dusan Micic,14/15,,204.0,Lierse SK 
+"Sep 1, 2014",,-,Serbia,788.0,Napredak ,128324,150 Th. €,Dusan Micic,14/15,,515.0,Unattached 
+"Jan 20, 2014",,?,Serbia,4634.0,FK Vozdovac  ,128324,150 Th. €,Dusan Micic,13/14,Serbia,788.0,Napredak 
+"Jul 31, 2013",,?,Serbia,19488.0,Proleter ,128324,-,Dusan Micic,13/14,Serbia,4634.0,FK Vozdovac  
+"Jan 1, 2013",,-,Serbia,515.0,Unattached ,128324,-,Dusan Micic,12/13,,19488.0,Proleter 
+"Jul 1, 2012",,-,Montenegro,11099.0,OFK Grbalj ,128324,-,Dusan Micic,12/13,,515.0,Unattached 
+"Jul 1, 2011",,?,Montenegro,5972.0,Rudar Pljevlja ,128324,-,Dusan Micic,11/12,Montenegro,11099.0,OFK Grbalj 
+"Jan 1, 2010",,?,Serbia,19488.0,Proleter ,128324,-,Dusan Micic,09/10,Montenegro,5972.0,Rudar Pljevlja 
+"Jan 23, 2016",,Free transfer,Bosnia-Herzegovina,628.0,Velez Mostar ,162127,-,Goran Matic,15/16,Serbia,38828.0,Radnicki Srem 
+"Jul 3, 2015",,Free transfer,Slovakia,20070.0,Duslo Sala ,162127,-,Goran Matic,15/16,Bosnia-Herzegovina,628.0,Velez Mostar 
+"Jan 1, 2015",,?,Serbia,4657.0,FK Macva Sabac ,162127,-,Goran Matic,14/15,Slovakia,20070.0,Duslo Sala 
+"Aug 1, 2014",,?,Serbia,6621.0,FK Cukaricki ,162127,-,Goran Matic,14/15,Serbia,4657.0,FK Macva Sabac 
+"Jun 30, 2012",,End of loan,Serbia,9937.0,Donji Srem ,162127,-,Goran Matic,11/12,Serbia,6621.0,FK Cukaricki 
+"Jan 1, 2012",,Loan,Serbia,6621.0,FK Cukaricki ,162127,-,Goran Matic,11/12,Serbia,9937.0,Donji Srem 
+"Jul 1, 2011",,?,Serbia,12931.0,Sindjelic Belgrad ,162127,-,Goran Matic,11/12,Serbia,6621.0,FK Cukaricki 
+"Jan 1, 2011",,?,Serbia,4643.0,Pozarevac ,162127,-,Goran Matic,10/11,Serbia,12931.0,Sindjelic Belgrad 
+"Jul 1, 2010",,?,Serbia,26227.0,Svilajnac ,162127,-,Goran Matic,10/11,Serbia,4643.0,Pozarevac 
+"Jun 30, 2008",,End of loan,Serbia,27248.0,Morava P ,162127,-,Goran Matic,07/08,Serbia,26227.0,Svilajnac 
+"Jul 1, 2007",,Loan,Serbia,26227.0,Svilajnac ,162127,-,Goran Matic,07/08,Serbia,27248.0,Morava P 
+"Jul 1, 2014",,?,Serbia,4645.0,Radnicki 1923 ,314195,-,Darko Bjelanovic,14/15,Serbia,35536.0,Pob. Belosevac 
+"Sep 15, 2015",,-,Finland,12942.0,OPS-jp ,79704,150 Th. €,Vladimir Nikitovic,15/16,,515.0,Unattached 
+"Jan 1, 2015",,-,Finland,515.0,Unattached ,79704,150 Th. €,Vladimir Nikitovic,14/15,,12942.0,OPS-jp 
+"Jul 1, 2014",,-,Serbia,9937.0,Donji Srem ,79704,150 Th. €,Vladimir Nikitovic,14/15,,515.0,Unattached 
+"Jan 15, 2014",,Free transfer,Serbia,36918.0,Polet Ljubic ,79704,150 Th. €,Vladimir Nikitovic,13/14,Serbia,9937.0,Donji Srem 
+"Jul 1, 2013",,Free transfer,Macedonia,9892.0,Bregalnica Stip ,79704,175 Th. €,Vladimir Nikitovic,13/14,Serbia,36918.0,Polet Ljubic 
+"Feb 11, 2013",,Free transfer,Macedonia,75.0,Unknown ,79704,175 Th. €,Vladimir Nikitovic,12/13,,9892.0,Bregalnica Stip 
+"Jul 27, 2012",,Free transfer,Macedonia,18506.0,Metalurg Skopje ,79704,175 Th. €,Vladimir Nikitovic,12/13,,75.0,Unknown 
+"Jul 1, 2012",,Free transfer,Macedonia,1167.0,Shkendija ,79704,175 Th. €,Vladimir Nikitovic,12/13,Macedonia,18506.0,Metalurg Skopje 
+"Jul 1, 2010",,Free transfer,Macedonia,75.0,Unknown ,79704,-,Vladimir Nikitovic,10/11,,1167.0,Shkendija 
+"Jul 1, 2009",,Free transfer,Bosnia-Herzegovina,282.0,FK Sarajevo ,79704,-,Vladimir Nikitovic,09/10,,75.0,Unknown 
+"Jul 1, 2008",,Free transfer,Serbia,4645.0,Radnicki 1923 ,79704,-,Vladimir Nikitovic,08/09,Bosnia-Herzegovina,282.0,FK Sarajevo 
+"Jun 30, 2015",,End of loan,Serbia,19488.0,Proleter ,326491,200 Th. €,Uros Stamenic,14/15,Serbia,448.0,Vojvodina 
+"Feb 13, 2015",,Loan,Serbia,448.0,Vojvodina ,326491,200 Th. €,Uros Stamenic,14/15,Serbia,19488.0,Proleter 
+"Jul 1, 2014",,-,Serbia,12865.0,Vojvodina U21 ,326491,-,Uros Stamenic,14/15,Serbia,448.0,Vojvodina 
+"Jun 30, 2016",,End of loan,Serbia,19488.0,Proleter ,326492,250 Th. €,Sasa Curko,15/16,Serbia,448.0,Vojvodina 
+"Feb 1, 2016",,Loan,Serbia,448.0,Vojvodina ,326492,250 Th. €,Sasa Curko,15/16,Serbia,19488.0,Proleter 
+"Jul 1, 2014",,-,Serbia,50306.0,Vojvodina U19 ,326492,-,Sasa Curko,14/15,Serbia,448.0,Vojvodina 
+"Jul 1, 2012",,?,Serbia,20481.0,Novi Sad U19 ,326492,-,Sasa Curko,12/13,Serbia,50306.0,Vojvodina U19 
+"Jul 1, 2011",,?,Germany,8221.0,Reutlingen U19 ,326492,-,Sasa Curko,11/12,Serbia,20481.0,Novi Sad U19 
+"Dec 31, 2015",,End of loan,Serbia,22174.0,FK Backa ,326493,150 Th. €,Nikola Banjac,15/16,Serbia,15276.0,Spartak Sub. 
+"Aug 12, 2015",,Loan,Serbia,15276.0,Spartak Sub. ,326493,150 Th. €,Nikola Banjac,15/16,Serbia,22174.0,FK Backa 
+"Jun 30, 2015",,End of loan,Serbia,22174.0,FK Backa ,326493,150 Th. €,Nikola Banjac,14/15,Serbia,15276.0,Spartak Sub. 
+"Jan 1, 2015",,Loan,Serbia,15276.0,Spartak Sub. ,326493,50 Th. €,Nikola Banjac,14/15,Serbia,22174.0,FK Backa 
+"Jul 1, 2014",,-,Serbia,35851.0,Spartak U19 ,326493,-,Nikola Banjac,14/15,Serbia,15276.0,Spartak Sub. 
+"Jul 1, 2016",,-,Serbia,4634.0,FK Vozdovac  ,224341,250 Th. €,Deni Pavlovic,16/17,,515.0,Unattached 
+"Feb 5, 2015",,Free transfer,Serbia,6621.0,FK Cukaricki ,224341,300 Th. €,Deni Pavlovic,14/15,Serbia,4634.0,FK Vozdovac  
+"Jul 1, 2012",,?,Portugal,15561.0,Nacional U19 ,224341,-,Deni Pavlovic,12/13,Serbia,6621.0,FK Cukaricki 
+"Jan 11, 2016",,140 Th. €,Serbia,448.0,Vojvodina ,60731,750 Th. €,Aleksandar Stanisavljevic,15/16,Greece,6676.0,Ast. Tripolis 
+"Jul 1, 2015",,Free transfer,Serbia,9937.0,Donji Srem ,60731,400 Th. €,Aleksandar Stanisavljevic,15/16,Serbia,448.0,Vojvodina 
+"Jul 1, 2014",,Free transfer,Serbia,53.0,OFK Beograd ,60731,-,Aleksandar Stanisavljevic,14/15,Serbia,9937.0,Donji Srem 
+"Jan 30, 2014",,Free transfer,Serbia,27005.0,Petrovac ,60731,-,Aleksandar Stanisavljevic,13/14,Serbia,53.0,OFK Beograd 
+"Jul 1, 2013",,Free transfer,Austria,1521.0,Vorwärts Steyr ,60731,-,Aleksandar Stanisavljevic,13/14,Serbia,27005.0,Petrovac 
+"Dec 7, 2012",,-,Austria,515.0,Unattached ,60731,-,Aleksandar Stanisavljevic,12/13,,1521.0,Vorwärts Steyr 
+"Jul 1, 2012",,-,Austria,8086.0,1. SC Sollenau ,60731,-,Aleksandar Stanisavljevic,12/13,,515.0,Unattached 
+"Jan 1, 2012",,Free transfer,Hungary,1391.0,Zalaegerszeg ,60731,75 Th. €,Aleksandar Stanisavljevic,11/12,Austria,8086.0,1. SC Sollenau 
+"Jul 1, 2011",,Free transfer,Austria,2364.0,Vienna ,60731,75 Th. €,Aleksandar Stanisavljevic,11/12,Hungary,1391.0,Zalaegerszeg 
+"Jan 1, 2011",,Free transfer,Austria,10205.0,Ostbahn XI ,60731,-,Aleksandar Stanisavljevic,10/11,Austria,2364.0,Vienna 
+"Jul 1, 2010",,Free transfer,Austria,10044.0,SV Horn ,60731,-,Aleksandar Stanisavljevic,10/11,Austria,10205.0,Ostbahn XI 
+"Jan 1, 2009",,Free transfer,Austria,4441.0,WAC - St. Andrä ,60731,-,Aleksandar Stanisavljevic,08/09,Austria,10044.0,SV Horn 
+"Jul 1, 2008",,Free transfer,Austria,266.0,SV  Ried ,60731,50 Th. €,Aleksandar Stanisavljevic,08/09,Austria,4441.0,WAC - St. Andrä 
+"Jan 1, 2008",,-,Austria,4387.0,AKA SV Ried U18 ,60731,-,Aleksandar Stanisavljevic,07/08,Austria,266.0,SV  Ried 
+"Jul 1, 2002",,Free transfer,Austria,31422.0,Braunau Jgd ,60731,-,Aleksandar Stanisavljevic,02/03,Austria,4387.0,AKA SV Ried U18 
+,,,,,,326501,,,,,,
+"Feb 20, 2015",,?,Serbia,8819.0,Javor Ivanjica ,170342,600 Th. €,Aleksandar Sofranac,14/15,Montenegro,3070.0,FK Sutjeska Niksic 
+"Jan 24, 2014",,Free transfer,Montenegro,10883.0,FK Mladost ,170342,600 Th. €,Aleksandar Sofranac,13/14,Serbia,8819.0,Javor Ivanjica 
+"Jun 30, 2016",,End of loan,Bosnia-Herzegovina,282.0,FK Sarajevo ,60220,"1,00 Mill. €",Matej Delac,15/16,England,631.0,Chelsea 
+"Aug 3, 2015",,Loan,England,631.0,Chelsea ,60220,750 Th. €,Matej Delac,15/16,Bosnia-Herzegovina,282.0,FK Sarajevo 
+"Jun 30, 2015",,End of loan,Bosnia-Herzegovina,282.0,FK Sarajevo ,60220,800 Th. €,Matej Delac,14/15,England,631.0,Chelsea 
+"Feb 27, 2015",,Loan,England,631.0,Chelsea ,60220,800 Th. €,Matej Delac,14/15,Bosnia-Herzegovina,282.0,FK Sarajevo 
+"Feb 26, 2015",,End of loan,France,11300.0,AC Arles-Avign. ,60220,800 Th. €,Matej Delac,14/15,England,631.0,Chelsea 
+"Sep 1, 2014",,Loan,England,631.0,Chelsea ,60220,750 Th. €,Matej Delac,14/15,France,11300.0,AC Arles-Avign. 
+"Jun 30, 2014",,End of loan,Bosnia-Herzegovina,282.0,FK Sarajevo ,60220,750 Th. €,Matej Delac,13/14,England,631.0,Chelsea 
+"Jan 1, 2014",,Loan,England,631.0,Chelsea ,60220,750 Th. €,Matej Delac,13/14,Bosnia-Herzegovina,282.0,FK Sarajevo 
+"Dec 31, 2013",,End of loan,Serbia,448.0,Vojvodina ,60220,750 Th. €,Matej Delac,13/14,England,631.0,Chelsea 
+"Jul 8, 2013",,Loan,England,631.0,Chelsea ,60220,500 Th. €,Matej Delac,13/14,Serbia,448.0,Vojvodina 
+"Jun 30, 2013",,End of loan,Croatia,918.0,Inter Zapresic ,60220,500 Th. €,Matej Delac,12/13,England,631.0,Chelsea 
+"Jan 10, 2013",,Loan,England,631.0,Chelsea ,60220,750 Th. €,Matej Delac,12/13,Croatia,918.0,Inter Zapresic 
+"Dec 31, 2012",,End of loan,Portugal,2420.0,Vit. Guimarães ,60220,750 Th. €,Matej Delac,12/13,England,631.0,Chelsea 
+"Jul 17, 2012",,Loan,England,631.0,Chelsea ,60220,750 Th. €,Matej Delac,12/13,Portugal,2420.0,Vit. Guimarães 
+"Jun 30, 2012",,End of loan,Czech Republic,1321.0,C. Budejovice ,60220,750 Th. €,Matej Delac,11/12,England,631.0,Chelsea 
+"Sep 1, 2011",,Loan,England,631.0,Chelsea ,60220,"1,00 Mill. €",Matej Delac,11/12,Czech Republic,1321.0,C. Budejovice 
+"Jun 30, 2011",,End of loan,Netherlands,499.0,Vitesse ,60220,"1,00 Mill. €",Matej Delac,10/11,England,631.0,Chelsea 
+"Aug 1, 2010",,Loan,England,631.0,Chelsea ,60220,"1,50 Mill. €",Matej Delac,10/11,Netherlands,499.0,Vitesse 
+"Jul 1, 2010",,"3,00 Mill. €",Croatia,918.0,Inter Zapresic ,60220,"1,50 Mill. €",Matej Delac,10/11,England,631.0,Chelsea 
+"Jul 1, 2008",,-,Croatia,36348.0,I. Zapresic U17 ,60220,50 Th. €,Matej Delac,08/09,Croatia,918.0,Inter Zapresic 
+"Jul 1, 2014",,-,Serbia,7567.0,Radnicki Nis ,311147,-,Caio,14/15,,515.0,Unattached 
+"Feb 2, 2014",,?,Brazil,16439.0,São Bernardo ,311147,-,Caio,13/14,Serbia,7567.0,Radnicki Nis 
+"Jul 1, 2015",,-,Serbia,159.0,Red Star ,24429,500 Th. €,Nikola Mijailovic,15/16,,515.0,Unattached 
+"Jul 1, 2013",,Free transfer,Russia,4128.0,Amkar Perm ,24429,800 Th. €,Nikola Mijailovic,13/14,Serbia,159.0,Red Star 
+"Mar 1, 2011",,Free transfer,Poland,6110.0,Korona Kielce ,24429,550 Th. €,Nikola Mijailovic,10/11,Russia,4128.0,Amkar Perm 
+"Aug 1, 2009",,Free transfer,Serbia,159.0,Red Star ,24429,550 Th. €,Nikola Mijailovic,09/10,Poland,6110.0,Korona Kielce 
+"Jul 1, 2008",,Free transfer,Russia,3719.0,Khimki ,24429,600 Th. €,Nikola Mijailovic,08/09,Serbia,159.0,Red Star 
+"Jan 1, 2008",,Free transfer,Poland,422.0,Wisla Kraków ,24429,675 Th. €,Nikola Mijailovic,07/08,Russia,3719.0,Khimki 
+"Jan 1, 2004",,400 Th. €,Serbia,636.0,Zeleznik Belgrad ,24429,-,Nikola Mijailovic,03/04,Poland,422.0,Wisla Kraków 
+"Jan 1, 2002",,?,Serbia,3521.0,FK Zemun ,24429,-,Nikola Mijailovic,01/02,Serbia,636.0,Zeleznik Belgrad 
+"Jan 1, 2016",,-,Serbia,4650.0,FK Backa ,192061,150 Th. €,Cedomir Tomcic,15/16,,515.0,Unattached 
+"Sep 1, 2015",,?,Serbia,19488.0,Proleter ,192061,150 Th. €,Cedomir Tomcic,15/16,Serbia,4650.0,FK Backa 
+"Jan 12, 2015",,Free transfer,Armenia,11912.0,Ararat Yerevan ,192061,150 Th. €,Cedomir Tomcic,14/15,Serbia,19488.0,Proleter 
+"Jul 29, 2014",,?,Serbia,11044.0,Indjija ,192061,175 Th. €,Cedomir Tomcic,14/15,Armenia,11912.0,Ararat Yerevan 
+"Jan 1, 2014",,?,Serbia,8819.0,Javor Ivanjica ,192061,175 Th. €,Cedomir Tomcic,13/14,Serbia,11044.0,Indjija 
+"Jul 1, 2013",,?,Serbia,11044.0,Indjija ,192061,-,Cedomir Tomcic,13/14,Serbia,8819.0,Javor Ivanjica 
+"Jul 1, 2011",,?,Serbia,27199.0,Beocin ,192061,-,Cedomir Tomcic,11/12,Serbia,11044.0,Indjija 
+,,,,,,325220,,,,,,
+"Jul 1, 2013",,?,Serbia,788.0,Napredak ,58230,-,Darko Dunjic,13/14,,75.0,Unknown 
+"Jan 1, 2012",,-,Serbia,515.0,Unattached ,58230,-,Darko Dunjic,11/12,,788.0,Napredak 
+"Jan 1, 2011",,-,France,595.0,SC Bastia ,58230,-,Darko Dunjic,10/11,,515.0,Unattached 
+"Jul 1, 2008",,150 Th. €,Ukraine,10690.0,Zorya Lugansk ,58230,400 Th. €,Darko Dunjic,08/09,France,595.0,SC Bastia 
+"Jan 1, 2007",,?,Ukraine,3592.0,Kryvbas ,58230,-,Darko Dunjic,06/07,Ukraine,10690.0,Zorya Lugansk 
+"Jul 1, 2005",,?,Serbia,6619.0,Banat Zrenjanin ,58230,-,Darko Dunjic,05/06,Ukraine,3592.0,Kryvbas 
+"Jul 1, 2003",,?,Serbia,15276.0,Spartak Sub. ,58230,-,Darko Dunjic,03/04,Serbia,6619.0,Banat Zrenjanin 
+"Jul 1, 2001",,?,Serbia,159.0,Red Star ,58230,-,Darko Dunjic,01/02,Serbia,15276.0,Spartak Sub. 
+"Jul 1, 1998",,?,Serbia,18382.0,Sloga Kraljevo ,58230,-,Darko Dunjic,98/99,Serbia,159.0,Red Star 
+"Jan 1, 2016",,Free transfer,Serbia,53.0,OFK Beograd ,292224,150 Th. €,Stefan Kovacevic,15/16,Serbia,4650.0,FK Backa 
+"Jun 30, 2015",,End of loan,Serbia,11066.0,Sloboda Uzice ,292224,150 Th. €,Stefan Kovacevic,14/15,Serbia,53.0,OFK Beograd 
+"Jan 1, 2015",,Loan,Serbia,53.0,OFK Beograd ,292224,150 Th. €,Stefan Kovacevic,14/15,Serbia,11066.0,Sloboda Uzice 
+"Jul 1, 2013",,?,Serbia,24968.0,Sloboda Cacak ,292224,-,Stefan Kovacevic,13/14,Serbia,53.0,OFK Beograd 
+"Feb 1, 2016",,?,Indonesia,31444.0,Persebaya ,5509,"1,00 Mill. €",Eric Djemba-Djemba,15/16,France,21288.0,V. de C. 
+"Jan 30, 2015",,Free transfer,India,45299.0,Chennaiyin FC ,5509,"1,00 Mill. €",Eric Djemba-Djemba,14/15,Indonesia,31444.0,Persebaya 
+"Oct 19, 2014",,-,India,515.0,Unattached ,5509,"1,00 Mill. €",Eric Djemba-Djemba,14/15,,45299.0,Chennaiyin FC 
+"Jul 1, 2014",,-,Scotland,465.0,St. Mirren FC ,5509,"1,00 Mill. €",Eric Djemba-Djemba,14/15,,515.0,Unattached 
+"Feb 5, 2014",,-,Scotland,515.0,Unattached ,5509,"1,00 Mill. €",Eric Djemba-Djemba,13/14,,465.0,St. Mirren FC 
+"Dec 23, 2013",,-,Serbia,669.0,FK Partizan ,5509,"1,00 Mill. €",Eric Djemba-Djemba,13/14,,515.0,Unattached 
+"Jul 24, 2013",,Free transfer,Israel,1017.0,Hapoel Tel Aviv ,5509,"1,00 Mill. €",Eric Djemba-Djemba,13/14,Serbia,669.0,FK Partizan 
+"Aug 12, 2012",,Free transfer,Denmark,173.0,Odense BK ,5509,"1,00 Mill. €",Eric Djemba-Djemba,12/13,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2008",,Free transfer,Qatar,965.0,Qatar SC ,5509,300 Th. €,Eric Djemba-Djemba,08/09,Denmark,173.0,Odense BK 
+"Jul 1, 2007",,Free transfer,England,405.0,Aston Villa ,5509,"2,00 Mill. €",Eric Djemba-Djemba,07/08,Qatar,965.0,Qatar SC 
+"May 1, 2007",,End of loan,England,1132.0,Burnley FC ,5509,"2,00 Mill. €",Eric Djemba-Djemba,06/07,England,405.0,Aston Villa 
+"Jan 1, 2007",,Loan,England,405.0,Aston Villa ,5509,"2,00 Mill. €",Eric Djemba-Djemba,06/07,England,1132.0,Burnley FC 
+"Jan 1, 2005",,"2,54 Mill. €",England,985.0,Manchester Utd. ,5509,"7,00 Mill. €",Eric Djemba-Djemba,04/05,England,405.0,Aston Villa 
+"Jul 1, 2003",,"4,50 Mill. €",France,995.0,FC Nantes ,5509,-,Eric Djemba-Djemba,03/04,England,985.0,Manchester Utd. 
+"Jul 1, 2001",,-,France,10850.0,FC Nantes B ,5509,-,Eric Djemba-Djemba,01/02,France,995.0,FC Nantes 
+"Jul 1, 1999",,Free transfer,Cameroon,2120.0,KSA Yaoundé ,5509,-,Eric Djemba-Djemba,99/00,France,10850.0,FC Nantes B 
+"Jan 2, 2016",,Free transfer,Serbia,448.0,Vojvodina ,197520,-,Emil Rockov,15/16,Serbia,19488.0,Proleter 
+"Jan 1, 2016",,End of loan,Serbia,19488.0,Proleter ,197520,-,Emil Rockov,15/16,Serbia,448.0,Vojvodina 
+"Aug 1, 2015",,Loan,Serbia,448.0,Vojvodina ,197520,-,Emil Rockov,15/16,Serbia,19488.0,Proleter 
+"Jun 30, 2015",,End of loan,Serbia,20889.0,Sloga Temerin ,197520,-,Emil Rockov,14/15,Serbia,448.0,Vojvodina 
+"Aug 15, 2014",,Loan,Serbia,448.0,Vojvodina ,197520,-,Emil Rockov,14/15,Serbia,20889.0,Sloga Temerin 
+"Aug 20, 2015",,Free transfer,Serbia,4633.0,Novi Pazar ,86936,300 Th. €,Zarko Udovicic,15/16,Poland,6560.0,Sosnowiec 
+"Jul 22, 2014",,?,Serbia,788.0,Napredak ,86936,300 Th. €,Zarko Udovicic,14/15,Serbia,4633.0,Novi Pazar 
+"Jan 1, 2012",,?,Serbia,6622.0,Mladost Lucani ,86936,125 Th. €,Zarko Udovicic,11/12,Serbia,788.0,Napredak 
+"Jul 1, 2015",,-,Serbia,12931.0,Sindjelic Belgrad ,47518,100 Th. €,Bojan Malinic,15/16,,515.0,Unattached 
+"Aug 2, 2014",,?,Serbia,4645.0,Radnicki 1923 ,47518,100 Th. €,Bojan Malinic,14/15,Serbia,12931.0,Sindjelic Belgrad 
+"Jul 1, 2013",,?,Albania,739.0,KS Besa Kavajë ,47518,25 Th. €,Bojan Malinic,13/14,Serbia,4645.0,Radnicki 1923 
+"Aug 1, 2012",,-,Albania,515.0,Unattached ,47518,25 Th. €,Bojan Malinic,12/13,,739.0,KS Besa Kavajë 
+"Jan 1, 2012",,-,Romania,1497.0,Bihor Oradea ,47518,25 Th. €,Bojan Malinic,11/12,,515.0,Unattached 
+"Aug 1, 2011",,Free transfer,Austria,7001.0,Rapid Wien II ,47518,-,Bojan Malinic,11/12,Romania,1497.0,Bihor Oradea 
+"Aug 1, 2009",,?,Serbia,11046.0,FK Srem ,47518,75 Th. €,Bojan Malinic,09/10,Austria,7001.0,Rapid Wien II 
+"Jul 1, 2008",,?,Serbia,11137.0,Red Star U19 ,47518,-,Bojan Malinic,08/09,Serbia,11046.0,FK Srem 
+"Jul 3, 2014",,250 Th. €,Serbia,788.0,Napredak ,130975,600 Th. €,Nenad Gavric,14/15,Serbia,159.0,Red Star 
+"Jan 1, 2012",,?,Serbia,4657.0,FK Macva Sabac ,130975,-,Nenad Gavric,11/12,Serbia,788.0,Napredak 
+"Feb 12, 2015",,?,Serbia,36915.0,Dimitrovgrad ,98459,100 Th. €,Marko Zdravkovic,14/15,Austria,9815.0,FC Bizau 
+"Aug 29, 2013",,?,Albania,30154.0,KF Himara ,98459,100 Th. €,Marko Zdravkovic,13/14,Serbia,36915.0,Dimitrovgrad 
+"Jan 26, 2013",,Free transfer,Serbia,7567.0,Radnicki Nis ,98459,100 Th. €,Marko Zdravkovic,12/13,Albania,30154.0,KF Himara 
+"Jul 1, 2012",,?,Austria,18158.0,FC Mäder ,98459,-,Marko Zdravkovic,12/13,Serbia,7567.0,Radnicki Nis 
+"Jan 30, 2012",,?,Austria,16768.0,Dornbirner SV ,98459,-,Marko Zdravkovic,11/12,Austria,18158.0,FC Mäder 
+"Jul 12, 2011",,?,Austria,4399.0,Feldkirch ,98459,-,Marko Zdravkovic,11/12,Austria,16768.0,Dornbirner SV 
+"Jul 15, 2010",,Free transfer,Austria,4428.0,Bludenz ,98459,-,Marko Zdravkovic,10/11,Austria,4399.0,Feldkirch 
+"Mar 3, 2009",,Free transfer,Montenegro,21575.0,FK Jezero ,98459,-,Marko Zdravkovic,08/09,Austria,4428.0,Bludenz 
+"Jul 1, 2016",,Free transfer,Serbia,8819.0,Javor Ivanjica ,91557,300 Th. €,Nemanja Miletic,16/17,Serbia,669.0,FK Partizan 
+"Jul 1, 2013",,?,Serbia,32115.0,Radnicki Klupci ,91557,-,Nemanja Miletic,13/14,Serbia,8819.0,Javor Ivanjica 
+"Jul 1, 2011",,?,Serbia,25070.0,Sopot ,91557,-,Nemanja Miletic,11/12,Serbia,32115.0,Radnicki Klupci 
+"Jul 1, 2009",,Free transfer,Serbia,11137.0,Red Star U19 ,91557,-,Nemanja Miletic,09/10,Serbia,25070.0,Sopot 
+"Jul 22, 2015",,?,Serbia,53.0,OFK Beograd ,167338,250 Th. €,Dejan Zarubica,15/16,Montenegro,3070.0,FK Sutjeska Niksic 
+"Jan 30, 2014",,?,Montenegro,3070.0,FK Sutjeska Niksic ,167338,-,Dejan Zarubica,13/14,Serbia,53.0,OFK Beograd 
+"Jul 1, 2012",,?,Serbia,11137.0,Red Star U19 ,167338,-,Dejan Zarubica,12/13,Montenegro,3070.0,FK Sutjeska Niksic 
+"Aug 1, 2008",,?,Montenegro,3070.0,FK Sutjeska Niksic ,167338,-,Dejan Zarubica,08/09,Serbia,11137.0,Red Star U19 
+"Jan 12, 2016",,"3,00 Mill. €",Serbia,669.0,FK Partizan ,274347,"1,30 Mill. €",Ivan Saponjic,15/16,Portugal,10330.0,Benfica B 
+"May 30, 2014",,-,Serbia,12373.0,FK Partizan U19 ,274347,-,Ivan Saponjic,13/14,Serbia,669.0,FK Partizan 
+"Jan 1, 2016",,-,Serbia,3069.0,FK Loznica ,48559,250 Th. €,Mario Bozic,15/16,,515.0,Unattached 
+"Jul 1, 2015",,Free transfer,Serbia,2209.0,Borac Cacak ,48559,250 Th. €,Mario Bozic,15/16,Serbia,3069.0,FK Loznica 
+"Aug 23, 2014",,Free transfer,Serbia,4634.0,FK Vozdovac  ,48559,250 Th. €,Mario Bozic,14/15,Serbia,2209.0,Borac Cacak 
+"Jan 21, 2014",,Free transfer,Greece,1837.0,Panachaiki ,48559,250 Th. €,Mario Bozic,13/14,Serbia,4634.0,FK Vozdovac  
+"Aug 31, 2013",,Free transfer,Azerbaijan,13328.0,Simurq ,48559,250 Th. €,Mario Bozic,13/14,Greece,1837.0,Panachaiki 
+"Aug 1, 2012",,Free transfer,China,3183.0,SH Shenhua ,48559,250 Th. €,Mario Bozic,12/13,Azerbaijan,13328.0,Simurq 
+"Feb 1, 2012",,?,Serbia,2209.0,Borac Cacak ,48559,400 Th. €,Mario Bozic,11/12,China,3183.0,SH Shenhua 
+"Jan 1, 2012",,?,Israel,6105.0,FC Ashdod ,48559,400 Th. €,Mario Bozic,11/12,Serbia,2209.0,Borac Cacak 
+"Jul 1, 2011",,?,Slovakia,540.0,Slo. Bratislava ,48559,400 Th. €,Mario Bozic,11/12,Israel,6105.0,FC Ashdod 
+"Jul 1, 2009",,275 Th. €,Hungary,708.0,Újpest FC ,48559,550 Th. €,Mario Bozic,09/10,Slovakia,540.0,Slo. Bratislava 
+"Jan 1, 2008",,120 Th. €,Hungary,11107.0,FC Fehérvár ,48559,-,Mario Bozic,07/08,Hungary,708.0,Újpest FC 
+"Jul 1, 2004",,?,Serbia,4658.0,Milicionar Belgrad ,48559,-,Mario Bozic,04/05,Hungary,11107.0,FC Fehérvár 
+"Jul 1, 2016",,?,Serbia,8819.0,Javor Ivanjica ,237489,300 Th. €,Marko Gajic,16/17,Serbia,4634.0,FK Vozdovac  
+"Jul 1, 2014",,?,Serbia,53.0,OFK Beograd ,237489,-,Marko Gajic,14/15,Serbia,8819.0,Javor Ivanjica 
+"Feb 14, 2014",,?,Serbia,27203.0,Pazova ,237489,-,Marko Gajic,13/14,Serbia,53.0,OFK Beograd 
+"Feb 1, 2016",,"6,60 Mill. €",Serbia,159.0,Red Star ,257462,"1,75 Mill. €",Luka Jovic,15/16,Portugal,10330.0,Benfica B 
+"Jul 1, 2014",,-,Serbia,11137.0,Red Star U19 ,257462,-,Luka Jovic,14/15,Serbia,159.0,Red Star 
+"Jul 1, 2014",,?,Serbia,11066.0,Sloboda Uzice ,317001,-,Petar Stanojevic,14/15,Serbia,26427.0,Sloga Požega 
+,,,,,,314277,,,,,,
+"Sep 1, 2012",,?,Senegal,27872.0,ASC Linguère ,176570,150 Th. €,Ibrahima Ndiaye,12/13,Serbia,788.0,Napredak 
+"Feb 1, 2016",,Free transfer,Serbia,4634.0,FK Vozdovac  ,239548,250 Th. €,Danijel Stojkovic,15/16,Serbia,53.0,OFK Beograd 
+"Dec 31, 2015",,End of loan,Serbia,9060.0,BSK Borca ,239548,250 Th. €,Danijel Stojkovic,15/16,Serbia,4634.0,FK Vozdovac  
+"Aug 31, 2015",,Loan,Serbia,4634.0,FK Vozdovac  ,239548,250 Th. €,Danijel Stojkovic,15/16,Serbia,9060.0,BSK Borca 
+"Jul 1, 2014",,-,Serbia,15072.0,OFK Beograd U19 ,257469,-,Stefan Jankovic,14/15,Serbia,53.0,OFK Beograd 
+"Jan 1, 2014",,?,Serbia,12373.0,FK Partizan U19 ,257469,-,Stefan Jankovic,13/14,Serbia,15072.0,OFK Beograd U19 
+"Jul 16, 2015",,?,Serbia,6622.0,Mladost Lucani ,221118,600 Th. €,Patrick Friday Eze,15/16,United Arab Emirates,31320.0,Fujairah SC 
+"Jul 12, 2014",,?,Serbia,788.0,Napredak ,221118,100 Th. €,Patrick Friday Eze,14/15,Serbia,6622.0,Mladost Lucani 
+"Jan 1, 2014",,?,Serbia,902.0,Rad ,221118,100 Th. €,Patrick Friday Eze,13/14,Serbia,788.0,Napredak 
+"Aug 31, 2013",,?,Cote d'Ivoire,2936.0,Africa Sports ,221118,-,Patrick Friday Eze,13/14,Serbia,902.0,Rad 
+"Jan 1, 2016",,?,Serbia,32099.0,Zlatib. Cajetin ,145855,150 Th. €,Danilo Pilica,15/16,Serbia,12514.0,Kolubara 
+"Aug 1, 2015",,Free transfer,Serbia,12514.0,Kolubara ,145855,150 Th. €,Danilo Pilica,15/16,Serbia,32099.0,Zlatib. Cajetin 
+"Jul 1, 2013",,?,Serbia,15552.0,FK FAP Priboj ,145855,150 Th. €,Danilo Pilica,13/14,Serbia,12514.0,Kolubara 
+"Jan 1, 2012",,Free transfer,Bosnia-Herzegovina,6807.0,Slavija S. ,145855,150 Th. €,Danilo Pilica,11/12,Serbia,15552.0,FK FAP Priboj 
+"Aug 1, 2011",,?,Serbia,4646.0,Teleoptik Zemun ,145855,150 Th. €,Danilo Pilica,11/12,Bosnia-Herzegovina,6807.0,Slavija S. 
+"Aug 31, 2015",,?,Serbia,2209.0,Borac Cacak ,221634,200 Th. €,Milan Jokic,15/16,Serbia,15276.0,Spartak Sub. 
+"Jul 1, 2015",,Free transfer,Serbia,4634.0,FK Vozdovac  ,221634,200 Th. €,Milan Jokic,15/16,Serbia,2209.0,Borac Cacak 
+"Jan 15, 2015",,Free transfer,Serbia,159.0,Red Star ,221634,150 Th. €,Milan Jokic,14/15,Serbia,4634.0,FK Vozdovac  
+"Dec 31, 2014",,End of loan,Serbia,12514.0,Kolubara ,221634,150 Th. €,Milan Jokic,14/15,Serbia,159.0,Red Star 
+"Sep 1, 2014",,Loan,Serbia,159.0,Red Star ,221634,150 Th. €,Milan Jokic,14/15,Serbia,12514.0,Kolubara 
+"Jun 30, 2014",,End of loan,Serbia,9060.0,BSK Borca ,221634,150 Th. €,Milan Jokic,13/14,Serbia,159.0,Red Star 
+"Feb 1, 2014",,Loan,Serbia,159.0,Red Star ,221634,150 Th. €,Milan Jokic,13/14,Serbia,9060.0,BSK Borca 
+"Jul 1, 2013",,31 Th. €,Serbia,12373.0,FK Partizan U19 ,221634,-,Milan Jokic,13/14,Serbia,159.0,Red Star 
+"Jan 1, 2016",,Free transfer,Serbia,2209.0,Borac Cacak ,190916,250 Th. €,Uros Djeric,15/16,Serbia,6622.0,Mladost Lucani 
+"Feb 1, 2014",,?,Serbia,7567.0,Radnicki Nis ,190916,100 Th. €,Uros Djeric,13/14,Serbia,2209.0,Borac Cacak 
+"Aug 1, 2013",,-,Serbia,515.0,Unattached ,190916,50 Th. €,Uros Djeric,13/14,,7567.0,Radnicki Nis 
+"Jan 1, 2013",,-,Croatia,918.0,Inter Zapresic ,190916,50 Th. €,Uros Djeric,12/13,,515.0,Unattached 
+"Nov 9, 2012",,Free transfer,France,1416.0,SC Amiens ,190916,50 Th. €,Uros Djeric,12/13,Croatia,918.0,Inter Zapresic 
+"Jan 5, 2011",,Free transfer,Serbia,16993.0,Radnicki Nis B ,190916,-,Uros Djeric,10/11,France,1416.0,SC Amiens 
+"Jul 1, 2014",,-,Serbia,15072.0,OFK Beograd U19 ,257477,-,Milos Zlatkovic,14/15,Serbia,53.0,OFK Beograd 
+"Jul 1, 2016",,300 Th. €,Serbia,15276.0,Spartak Sub. ,221639,350 Th. €,Stefan Milosevic,16/17,Serbia,159.0,Red Star 
+"Aug 5, 2013",,?,Serbia,12373.0,FK Partizan U19 ,221639,-,Stefan Milosevic,13/14,Serbia,15276.0,Spartak Sub. 
+"Jan 22, 2016",,Free transfer,Argentina,7468.0,Olimpo ,87496,200 Th. €,Matías Porcari,15/16,Venezuela,49482.0,Potros Barinas 
+"Jan 7, 2015",,Free transfer,Uruguay,17428.0,Juventud ,87496,200 Th. €,Matías Porcari,14/15,Argentina,7468.0,Olimpo 
+"Jan 20, 2014",,Free transfer,Serbia,4645.0,Radnicki 1923 ,87496,100 Th. €,Matías Porcari,13/14,Uruguay,17428.0,Juventud 
+"Jul 18, 2013",,?,Uruguay,17595.0,Progreso ,87496,250 Th. €,Matías Porcari,13/14,Serbia,4645.0,Radnicki 1923 
+"Jan 1, 2013",,?,Uruguay,75.0,Unknown ,87496,250 Th. €,Matías Porcari,12/13,,17595.0,Progreso 
+"Jul 1, 2012",,Free transfer,Hungary,709.0,Budapest Honvéd ,87496,250 Th. €,Matías Porcari,12/13,,75.0,Unknown 
+"Feb 1, 2012",,Free transfer,Uruguay,3829.0,CA Fénix ,87496,300 Th. €,Matías Porcari,11/12,Hungary,709.0,Budapest Honvéd 
+"Jun 30, 2010",,End of loan,Uruguay,1306.0,Danubio FC ,87496,250 Th. €,Matías Porcari,09/10,Uruguay,3829.0,CA Fénix 
+"Jul 1, 2009",,Loan,Uruguay,3829.0,CA Fénix ,87496,-,Matías Porcari,09/10,Uruguay,1306.0,Danubio FC 
+"Jul 1, 2008",,?,Argentina,12674.0,C.A.I. ,87496,-,Matías Porcari,08/09,Uruguay,3829.0,CA Fénix 
+"Jul 1, 2007",,?,Argentina,2417.0,Belgrano ,87496,-,Matías Porcari,07/08,Argentina,12674.0,C.A.I. 
+"Jan 1, 2014",,?,Serbia,902.0,Rad ,203210,100 Th. €,Tom,13/14,,75.0,Unknown 
+"Sep 1, 2013",,-,Serbia,515.0,Unattached ,203210,200 Th. €,Tom,13/14,,902.0,Rad 
+"Jan 1, 2012",,-,Bulgaria,675.0,Slavia Sofia ,203210,200 Th. €,Tom,11/12,,515.0,Unattached 
+"Jul 1, 2011",,?,Brazil,29236.0,Grêmio de Esportes Maringá (PR) ,203210,-,Tom,11/12,Bulgaria,675.0,Slavia Sofia 
+"Jan 1, 2011",,?,Brazil,14701.0,Santos B ,203210,-,Tom,10/11,Brazil,29236.0,Grêmio de Esportes Maringá (PR) 
+"Jan 1, 2010",,?,Brazil,1693.0,Londrina EC ,203210,-,Tom,09/10,Brazil,14701.0,Santos B 
+"Feb 20, 2016",,"2,00 Mill. €",Serbia,159.0,Red Star ,264140,"1,00 Mill. €",Vukasin Jovanovic,15/16,Russia,964.0,Zenit S-Pb 
+"Aug 12, 2014",,-,Serbia,11137.0,Red Star U19 ,264140,-,Vukasin Jovanovic,14/15,Serbia,159.0,Red Star 
+"Jul 1, 2015",,-,Poland,7153.0,Zawisza ,139727,150 Th. €,Stefan Denkovic,15/16,,515.0,Unattached 
+"Feb 6, 2015",,Free transfer,Hungary,37169.0,Puskás AFC ,139727,200 Th. €,Stefan Denkovic,14/15,Poland,7153.0,Zawisza 
+"Jan 24, 2014",,Free transfer,Serbia,448.0,Vojvodina ,139727,300 Th. €,Stefan Denkovic,13/14,Hungary,37169.0,Puskás AFC 
+"Jul 19, 2013",,?,Israel,810.0,Hapoel Haifa ,139727,350 Th. €,Stefan Denkovic,13/14,Serbia,448.0,Vojvodina 
+"Aug 1, 2011",,37 Th. €,Serbia,159.0,Red Star ,139727,-,Stefan Denkovic,11/12,Israel,810.0,Hapoel Haifa 
+"Jul 25, 2015",,?,Serbia,902.0,Rad ,262098,200 Th. €,Ivan Markovic,15/16,Montenegro,5972.0,Rudar Pljevlja 
+"Feb 1, 2014",,?,Serbia,6619.0,Banat Zrenjanin ,262098,-,Ivan Markovic,13/14,Serbia,902.0,Rad 
+"Jan 1, 2013",,?,Serbia,6624.0,Zeleznicar Lajkovac ,262098,-,Ivan Markovic,12/13,Serbia,6619.0,Banat Zrenjanin 
+"Jun 30, 2016",,End of loan,Montenegro,15553.0,FK Polimlje Murino ,162260,50 Th. €,Jasmin Koc,15/16,Serbia,4633.0,Novi Pazar 
+"Aug 9, 2015",,Loan,Serbia,4633.0,Novi Pazar ,162260,50 Th. €,Jasmin Koc,15/16,Montenegro,15553.0,FK Polimlje Murino 
+"Jan 1, 2014",,?,Serbia,75.0,Unknown ,162260,-,Jasmin Koc,13/14,,4633.0,Novi Pazar 
+"Jan 1, 2013",,?,Serbia,35536.0,Pob. Belosevac ,162260,-,Jasmin Koc,12/13,,75.0,Unknown 
+"Jul 1, 2012",,?,Serbia,75.0,Unknown ,162260,-,Jasmin Koc,12/13,,35536.0,Pob. Belosevac 
+"Jan 1, 2011",,Free transfer,Serbia,4633.0,Novi Pazar ,162260,-,Jasmin Koc,10/11,,75.0,Unknown 
+"Feb 15, 2016",,?,Serbia,11066.0,Sloboda Uzice ,244186,-,Nemanja Cosovic,15/16,Montenegro,4639.0,Mornar Bar 
+"Jul 1, 2015",,-,Serbia,515.0,Unattached ,244186,-,Nemanja Cosovic,15/16,,11066.0,Sloboda Uzice 
+"Jul 1, 2014",,-,Serbia,9937.0,Donji Srem ,244186,-,Nemanja Cosovic,14/15,,515.0,Unattached 
+"Feb 1, 2014",,-,Serbia,515.0,Unattached ,244186,-,Nemanja Cosovic,13/14,,9937.0,Donji Srem 
+"Nov 22, 2013",,-,Montenegro,5972.0,Rudar Pljevlja ,244186,-,Nemanja Cosovic,13/14,,515.0,Unattached 
+"Jul 1, 2013",,?,Serbia,35522.0,Stari Banovci ,244186,-,Nemanja Cosovic,13/14,Montenegro,5972.0,Rudar Pljevlja 
+"Jul 1, 2013",,?,Serbia,11836.0,FK Hajduk ,244186,-,Nemanja Cosovic,13/14,Montenegro,5972.0,Rudar Pljevlja 
+"Jan 1, 2013",,?,Montenegro,5972.0,Rudar Pljevlja ,244186,-,Nemanja Cosovic,12/13,Serbia,11836.0,FK Hajduk 
+"Jul 1, 2012",,?,Serbia,22364.0,FK Belgrad ,244186,-,Nemanja Cosovic,12/13,Serbia,35522.0,Stari Banovci 
+"Jul 1, 2011",,?,Serbia,27098.0,Sumadija ,244186,-,Nemanja Cosovic,11/12,Serbia,22364.0,FK Belgrad 
+"Jan 1, 2011",,?,Serbia,12931.0,Sindjelic Belgrad ,244186,-,Nemanja Cosovic,10/11,Serbia,27098.0,Sumadija 
+"Jan 28, 2016",,?,Serbia,12931.0,Sindjelic Belgrad ,314331,25 Th. €,Dean Tisma,15/16,Slovenia,23253.0,NK Zavrc 
+"Jul 1, 2015",,Free transfer,Italy,14907.0,Bari ,314331,25 Th. €,Dean Tisma,15/16,Serbia,12931.0,Sindjelic Belgrad 
+"Oct 12, 2014",,-,Italy,515.0,Unattached ,314331,25 Th. €,Dean Tisma,14/15,,14907.0,Bari 
+"Jul 1, 2014",,?,Serbia,12132.0,Jagodina ,314331,-,Dean Tisma,14/15,,515.0,Unattached 
+"Feb 15, 2014",,?,Serbia,11137.0,Red Star U19 ,314331,-,Dean Tisma,13/14,Serbia,12132.0,Jagodina 
+"Aug 29, 2014",,Free transfer,Serbia,159.0,Red Star ,211420,250 Th. €,Miguel Araujo,14/15,Peru,184.0,Alianza Lima 
+"Jul 28, 2013",,200 Th. €,Peru,21655.0,Sport Huancayo ,211420,-,Miguel Araujo,13/14,Serbia,159.0,Red Star 
+"Jan 1, 2012",,Free transfer,Peru,25763.0,Cobresol ,211420,-,Miguel Araujo,11/12,Peru,21655.0,Sport Huancayo 
+"Jul 13, 2011",,-,Peru,36467.0,Cobresol U20 ,211420,-,Miguel Araujo,11/12,Peru,25763.0,Cobresol 
+"Jan 16, 2015",,-,Serbia,53.0,OFK Beograd ,8669,-,Milan Obradovic,14/15,,123.0,End of career 
+"Jul 1, 2014",,Free transfer,Serbia,669.0,FK Partizan ,8669,500 Th. €,Milan Obradovic,14/15,Serbia,53.0,OFK Beograd 
+"Jul 23, 2013",,Free transfer,Ukraine,6414.0,Metalist ,8669,500 Th. €,Milan Obradovic,13/14,Serbia,669.0,FK Partizan 
+"Jun 30, 2013",,End of loan,Ukraine,9007.0,Arsenal Kyiv ,8669,500 Th. €,Milan Obradovic,12/13,Ukraine,6414.0,Metalist 
+"Feb 28, 2013",,Loan,Ukraine,6414.0,Metalist ,8669,600 Th. €,Milan Obradovic,12/13,Ukraine,9007.0,Arsenal Kyiv 
+"Jul 1, 2006",,Free transfer,Greece,1119.0,Akratitos ,8669,450 Th. €,Milan Obradovic,06/07,Ukraine,6414.0,Metalist 
+"Jul 1, 2005",,Free transfer,Serbia,4654.0,FK Zvezdara ,8669,400 Th. €,Milan Obradovic,05/06,Greece,1119.0,Akratitos 
+"Jul 1, 2004",,Free transfer,Russia,932.0,Loko Moscow ,8669,-,Milan Obradovic,04/05,Serbia,4654.0,FK Zvezdara 
+"Jun 30, 2004",,End of loan,Germany,18.0,Bor. M'gladbach ,8669,-,Milan Obradovic,03/04,Russia,932.0,Loko Moscow 
+"Jul 1, 2003",,Loan,Russia,932.0,Loko Moscow ,8669,-,Milan Obradovic,03/04,Germany,18.0,Bor. M'gladbach 
+"Jan 1, 2001",,500 Th. €,Serbia,37.0,FK Obilic ,8669,-,Milan Obradovic,00/01,Russia,932.0,Loko Moscow 
+"Jan 1, 1999",,?,Serbia,7567.0,Radnicki Nis ,8669,-,Milan Obradovic,98/99,Serbia,37.0,FK Obilic 
+"Jul 1, 1996",,-,Serbia,16993.0,Radnicki Nis B ,8669,-,Milan Obradovic,96/97,Serbia,7567.0,Radnicki Nis 
+"Jan 3, 2016",,?,Serbia,788.0,Napredak ,139742,300 Th. €,Stevan Lukovic,15/16,Serbia,6622.0,Mladost Lucani 
+"Feb 10, 2014",,Free transfer,Serbia,159.0,Red Star ,139742,100 Th. €,Stevan Lukovic,13/14,Serbia,788.0,Napredak 
+"Jun 30, 2013",,End of loan,Montenegro,11099.0,OFK Grbalj ,139742,-,Stevan Lukovic,12/13,Serbia,159.0,Red Star 
+"Feb 1, 2013",,Loan,Serbia,159.0,Red Star ,139742,-,Stevan Lukovic,12/13,Montenegro,11099.0,OFK Grbalj 
+"Dec 31, 2012",,End of loan,Serbia,12514.0,Kolubara ,139742,-,Stevan Lukovic,12/13,Serbia,159.0,Red Star 
+"Aug 1, 2012",,Loan,Serbia,159.0,Red Star ,139742,-,Stevan Lukovic,12/13,Serbia,12514.0,Kolubara 
+"Jul 1, 2012",,Free transfer,Serbia,25070.0,Sopot ,139742,-,Stevan Lukovic,12/13,Serbia,159.0,Red Star 
+"Jul 1, 2016",,-,Serbia,6621.0,FK Cukaricki ,26079,150 Th. €,Nenad Mirosavljevic,16/17,,123.0,End of career 
+"Jan 1, 2014",,Free transfer,Serbia,788.0,Napredak ,26079,300 Th. €,Nenad Mirosavljevic,13/14,Serbia,6621.0,FK Cukaricki 
+"Jan 1, 2012",,Free transfer,Cyprus,1402.0,Olympiakos N. ,26079,300 Th. €,Nenad Mirosavljevic,11/12,Serbia,788.0,Napredak 
+"Jul 1, 2011",,Free transfer,Cyprus,2784.0,APOEL Nicosia ,26079,300 Th. €,Nenad Mirosavljevic,11/12,Cyprus,1402.0,Olympiakos N. 
+"Jan 1, 2008",,Free transfer,Serbia,3544.0,Smederevo ,26079,350 Th. €,Nenad Mirosavljevic,07/08,Cyprus,2784.0,APOEL Nicosia 
+"Jul 1, 2007",,Free transfer,Serbia,669.0,FK Partizan ,26079,750 Th. €,Nenad Mirosavljevic,07/08,Serbia,3544.0,Smederevo 
+"Jun 30, 2007",,End of loan,Spain,10496.0,UD Vecindario ,26079,750 Th. €,Nenad Mirosavljevic,06/07,Serbia,669.0,FK Partizan 
+"Jan 1, 2007",,Loan,Serbia,669.0,FK Partizan ,26079,750 Th. €,Nenad Mirosavljevic,06/07,Spain,10496.0,UD Vecindario 
+"Aug 1, 2006",,Free transfer,Spain,2687.0,Cádiz CF ,26079,750 Th. €,Nenad Mirosavljevic,06/07,Serbia,669.0,FK Partizan 
+"Jul 1, 2004",,Free transfer,Serbia,3544.0,Smederevo ,26079,-,Nenad Mirosavljevic,04/05,Spain,2687.0,Cádiz CF 
+"Jul 1, 2000",,Free transfer,Serbia,2674.0,Proleter Zrenj. ,26079,-,Nenad Mirosavljevic,00/01,Serbia,3544.0,Smederevo 
+"Jul 1, 2016",,-,Hungary,6058.0,Nyíregyháza ,47078,200 Th. €,Savo Rakovic,16/17,,515.0,Unattached 
+"Aug 4, 2015",,Free transfer,Hungary,75.0,Unknown ,47078,200 Th. €,Savo Rakovic,15/16,,6058.0,Nyíregyháza 
+"Jan 1, 2015",,?,Serbia,11066.0,Sloboda Uzice ,47078,200 Th. €,Savo Rakovic,14/15,,75.0,Unknown 
+"Jan 25, 2014",,-,Serbia,515.0,Unattached ,47078,200 Th. €,Savo Rakovic,13/14,,11066.0,Sloboda Uzice 
+"Jul 1, 2013",,-,Hungary,27397.0,Egri FC ,47078,200 Th. €,Savo Rakovic,13/14,,515.0,Unattached 
+"Feb 21, 2013",,Free transfer,Hungary,9241.0,Diósgyör ,47078,200 Th. €,Savo Rakovic,12/13,Hungary,27397.0,Egri FC 
+"Aug 1, 2010",,Free transfer,Serbia,11066.0,Sloboda Uzice ,47078,250 Th. €,Savo Rakovic,10/11,Hungary,9241.0,Diósgyör 
+"Feb 19, 2016",,?,Croatia,25029.0,NK Sesvete ,2539,300 Th. €,Dajan Simac,15/16,Croatia,31983.0,NK Stupnik 
+"Aug 11, 2015",,Free transfer,Serbia,12132.0,Jagodina ,2539,300 Th. €,Dajan Simac,15/16,Croatia,25029.0,NK Sesvete 
+"Feb 19, 2014",,Free transfer,Turkey,833.0,Denizlispor ,2539,300 Th. €,Dajan Simac,13/14,Serbia,12132.0,Jagodina 
+"Aug 16, 2013",,Free transfer,Hungary,84.0,Debreceni VSC ,2539,400 Th. €,Dajan Simac,13/14,Turkey,833.0,Denizlispor 
+"Jul 1, 2010",,Free transfer,Germany,293.0,FSV Frankfurt ,2539,250 Th. €,Dajan Simac,10/11,Hungary,84.0,Debreceni VSC 
+"Jul 1, 2009",,Free transfer,Germany,108.0,Wehen Wiesbaden ,2539,450 Th. €,Dajan Simac,09/10,Germany,293.0,FSV Frankfurt 
+"Jan 1, 2004",,Free transfer,Germany,65.0,Greuther Fürth ,2539,-,Dajan Simac,03/04,Germany,108.0,SV Wehen 
+"Jul 1, 2003",,Free transfer,Germany,151.0,K'lautern II ,2539,-,Dajan Simac,03/04,Germany,65.0,Greuther Fürth 
+"Jul 1, 2001",,-,Germany,2371.0,K'lautern U19 ,2539,-,Dajan Simac,01/02,Germany,151.0,K'lautern II 
+"Jul 1, 1999",,Free transfer,Germany,9319.0,Hassia Bingen U19 ,2539,-,Dajan Simac,99/00,Germany,2371.0,K'lautern U19 
+"Jan 1, 2014",,?,Serbia,25070.0,Sopot ,239597,-,Lazar Pajovic,13/14,Serbia,4633.0,Novi Pazar 
+"Jul 1, 2013",,?,Serbia,11836.0,FK Hajduk ,239597,-,Lazar Pajovic,13/14,Serbia,25070.0,Sopot 
+"Jan 1, 2013",,?,Serbia,12514.0,Kolubara ,239597,-,Lazar Pajovic,12/13,Serbia,11836.0,FK Hajduk 
+"Nov 1, 2014",,-,Malaysia,515.0,Unattached ,68078,150 Th. €,Ivan Fatic,14/15,,22052.0,Sarawak 
+"Jul 1, 2014",,-,Montenegro,5972.0,Rudar Pljevlja ,68078,150 Th. €,Ivan Fatic,14/15,,515.0,Unattached 
+"Jan 31, 2014",,-,Montenegro,515.0,Unattached ,68078,150 Th. €,Ivan Fatic,13/14,,5972.0,Rudar Pljevlja 
+"Oct 10, 2013",,-,Serbia,448.0,Vojvodina ,68078,150 Th. €,Ivan Fatic,13/14,,515.0,Unattached 
+"Jul 28, 2013",,?,Italy,41113.0,Chievo Weitere ,68078,150 Th. €,Ivan Fatic,13/14,Serbia,448.0,Vojvodina 
+"Jun 30, 2013",,End of loan,Italy,1005.0,Lecce ,68078,150 Th. €,Ivan Fatic,12/13,Italy,41113.0,Chievo Weitere 
+"Jan 31, 2013",,Loan,Italy,862.0,Chievo Verona ,68078,350 Th. €,Ivan Fatic,12/13,Italy,1005.0,Lecce 
+"Jan 30, 2013",,End of loan,Italy,276.0,Hellas Verona ,68078,350 Th. €,Ivan Fatic,12/13,Italy,862.0,Chievo Verona 
+"Jul 17, 2012",,Loan,Italy,862.0,Chievo Verona ,68078,450 Th. €,Ivan Fatic,12/13,Italy,276.0,Hellas Verona 
+"Jun 30, 2012",,End of loan,Italy,749.0,FC Empoli ,68078,450 Th. €,Ivan Fatic,11/12,Italy,862.0,Chievo Verona 
+"Aug 1, 2011",,Loan,Italy,862.0,Chievo Verona ,68078,"1,00 Mill. €",Ivan Fatic,11/12,Italy,749.0,FC Empoli 
+"Jul 1, 2011",,300 Th. €,Italy,252.0,Genoa ,68078,"1,00 Mill. €",Ivan Fatic,11/12,Italy,862.0,Chievo Verona 
+"Jun 30, 2011",,End of loan,Italy,1429.0,AC Cesena ,68078,"1,00 Mill. €",Ivan Fatic,10/11,Italy,252.0,Genoa 
+"Aug 1, 2010",,Loan,Italy,252.0,Genoa ,68078,"1,50 Mill. €",Ivan Fatic,10/11,Italy,1429.0,AC Cesena 
+"Jul 1, 2009",,"1,00 Mill. €",Italy,46.0,Inter ,68078,500 Th. €,Ivan Fatic,09/10,Italy,252.0,Genoa 
+"Jun 30, 2009",,End of loan,Italy,380.0,Salernitana ,68078,500 Th. €,Ivan Fatic,08/09,Italy,46.0,Inter 
+"Jan 1, 2009",,Loan,Italy,46.0,Inter ,68078,50 Th. €,Ivan Fatic,08/09,Italy,380.0,Salernitana 
+"Dec 1, 2008",,End of loan,Italy,2655.0,Vicenza ,68078,50 Th. €,Ivan Fatic,08/09,Italy,46.0,Inter 
+"Jul 1, 2008",,Loan,Italy,46.0,Inter ,68078,50 Th. €,Ivan Fatic,08/09,Italy,2655.0,Vicenza 
+"Dec 1, 2007",,-,Italy,5380.0,Inter ,68078,-,Ivan Fatic,07/08,Italy,46.0,Inter 
+"Jul 1, 2007",,?,Italy,14845.0,AC Chievo ,68078,-,Ivan Fatic,07/08,Italy,5380.0,Inter 
+"Jan 1, 2007",,?,Switzerland,19273.0,FC Chiasso II ,68078,-,Ivan Fatic,06/07,Italy,14845.0,AC Chievo 
+"Jul 1, 2006",,?,Serbia,11137.0,Red Star U19 ,68078,-,Ivan Fatic,06/07,Switzerland,19273.0,FC Chiasso II 
+"Jun 30, 2016",,End of loan,Serbia,3521.0,FK Zemun ,286063,100 Th. €,Marko Trkulja,15/16,Serbia,159.0,Red Star 
+"Jan 29, 2016",,Loan,Serbia,159.0,Red Star ,286063,100 Th. €,Marko Trkulja,15/16,Serbia,3521.0,FK Zemun 
+"Jun 30, 2014",,End of loan,Serbia,15276.0,Spartak Sub. ,286063,100 Th. €,Marko Trkulja,13/14,Serbia,159.0,Red Star 
+"Feb 14, 2014",,Loan,Serbia,159.0,Red Star ,286063,100 Th. €,Marko Trkulja,13/14,Serbia,15276.0,Spartak Sub. 
+"Feb 2, 2016",,"1,00 Mill. €",Serbia,448.0,Vojvodina ,233129,"1,50 Mill. €",Mirko Ivanic,15/16,Belarus,713.0,BATE Borisov 
+"Dec 31, 2013",,End of loan,Serbia,19488.0,Proleter ,233129,-,Mirko Ivanic,13/14,Serbia,448.0,Vojvodina 
+"Aug 13, 2013",,Loan,Serbia,448.0,Vojvodina ,233129,-,Mirko Ivanic,13/14,Serbia,19488.0,Proleter 
+"Jun 30, 2013",,End of loan,Serbia,19488.0,Proleter ,233129,-,Mirko Ivanic,12/13,Serbia,448.0,Vojvodina 
+"Aug 31, 2012",,Loan,Serbia,448.0,Vojvodina ,233129,-,Mirko Ivanic,12/13,Serbia,19488.0,Proleter 
+"Feb 3, 2016",,?,Bosnia-Herzegovina,25435.0,FK Gorazde ,195066,50 Th. €,Nedjo Suka,15/16,Bosnia-Herzegovina,30354.0,FK Borac Samac 
+"Jul 13, 2015",,?,Bosnia-Herzegovina,28264.0,FK Drina HE Visegrad ,195066,75 Th. €,Nedjo Suka,15/16,Bosnia-Herzegovina,25435.0,FK Gorazde 
+"Feb 19, 2015",,?,Bosnia-Herzegovina,9860.0,Kozara Gradiska ,195066,75 Th. €,Nedjo Suka,14/15,Bosnia-Herzegovina,28264.0,FK Drina HE Visegrad 
+"Jul 6, 2014",,?,Serbia,9937.0,Donji Srem ,195066,75 Th. €,Nedjo Suka,14/15,Bosnia-Herzegovina,9860.0,Kozara Gradiska 
+"Jan 10, 2014",,?,Bosnia-Herzegovina,22808.0,Sutjeska Foca ,195066,75 Th. €,Nedjo Suka,13/14,Serbia,9937.0,Donji Srem 
+"Feb 1, 2013",,?,Bosnia-Herzegovina,29736.0,Mladost Obarska ,195066,75 Th. €,Nedjo Suka,12/13,Bosnia-Herzegovina,22808.0,Sutjeska Foca 
+"Jul 1, 2012",,?,Bosnia-Herzegovina,22808.0,Sutjeska Foca ,195066,75 Th. €,Nedjo Suka,12/13,Bosnia-Herzegovina,29736.0,Mladost Obarska 
+"Jan 1, 2012",,?,Bosnia-Herzegovina,24197.0,Rudar Prijedor ,195066,75 Th. €,Nedjo Suka,11/12,Bosnia-Herzegovina,22808.0,Sutjeska Foca 
+"Jul 1, 2011",,?,Bosnia-Herzegovina,22808.0,Sutjeska Foca ,195066,-,Nedjo Suka,11/12,Bosnia-Herzegovina,24197.0,Rudar Prijedor 
+"Jan 22, 2016",,Free transfer,Serbia,6622.0,Mladost Lucani ,181755,250 Th. €,Milos Dzugurdic,15/16,Serbia,9060.0,BSK Borca 
+"Aug 10, 2015",,Free transfer,Serbia,4634.0,FK Vozdovac  ,181755,300 Th. €,Milos Dzugurdic,15/16,Serbia,6622.0,Mladost Lucani 
+"Aug 20, 2014",,Free transfer,Serbia,15276.0,Spartak Sub. ,181755,250 Th. €,Milos Dzugurdic,14/15,Serbia,4634.0,FK Vozdovac  
+"Jul 26, 2013",,80 Th. €,Serbia,4646.0,Teleoptik Zemun ,181755,-,Milos Dzugurdic,13/14,Serbia,15276.0,Spartak Sub. 
+"Jul 1, 2011",,Free transfer,Serbia,12373.0,FK Partizan U19 ,181755,-,Milos Dzugurdic,11/12,Serbia,4646.0,Teleoptik Zemun 
+"Jul 24, 2013",,?,Portugal,976.0,União Madeira ,238506,200 Th. €,Lucas Piasentin,13/14,Serbia,6621.0,FK Cukaricki 
+"Jul 1, 2012",,?,Brazil,32079.0,Angra-RJ ,238506,-,Lucas Piasentin,12/13,Portugal,976.0,União Madeira 
+"Feb 11, 2014",,?,Serbia,9937.0,Donji Srem ,89599,100 Th. €,Vladimir Milasinovic,13/14,Serbia,11044.0,Indjija 
+"Jul 1, 2013",,?,Serbia,3543.0,FK Mladenovac ,89599,-,Vladimir Milasinovic,13/14,Serbia,9937.0,Donji Srem 
+"Jul 1, 2012",,?,Serbia,22086.0,Big Bull ,89599,-,Vladimir Milasinovic,12/13,Serbia,3543.0,FK Mladenovac 
+"Jan 1, 2011",,?,Serbia,11836.0,FK Hajduk ,89599,25 Th. €,Vladimir Milasinovic,10/11,Serbia,22086.0,Big Bull 
+"Jul 1, 2009",,?,Serbia,10319.0,FK Bezanija ,89599,25 Th. €,Vladimir Milasinovic,09/10,Serbia,12931.0,Sindjelic Belgrad 
+"Jul 1, 2009",,?,Serbia,12931.0,Sindjelic Belgrad ,89599,25 Th. €,Vladimir Milasinovic,09/10,Serbia,11836.0,FK Hajduk 
+,'NoneType' object has no attribute 'find_all',,,,,325220,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,326501,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,324906,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,222807,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,283908,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,314277,,,,,,
