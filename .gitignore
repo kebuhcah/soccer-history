@@ -5,3 +5,5 @@ lib/*.xls
 .DS_Store
 notebooks/output.*
 notebooks/*.png
+data/merged/*.csv
+*.xls
