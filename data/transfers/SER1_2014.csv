@@ -774,6 +774,16 @@ date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCou
 "Jan 20, 2014",,End of loan,Hungary,37169.0,Puskás AFC ,215038,100 Th. €,Uros Nikolic,13/14,Hungary,11107.0,Videoton FC 
 "Jul 24, 2013",,Loan,Hungary,11107.0,Videoton FC ,215038,100 Th. €,Uros Nikolic,13/14,Hungary,37169.0,Puskás AFC 
 "Feb 1, 2012",,?,Serbia,12373.0,FK Partizan U19 ,215038,-,Uros Nikolic,11/12,Hungary,11107.0,Videoton FC 
+"Jun 30, 2016",,End of loan,Serbia,10319.0,FK Bezanija ,274356,100 Th. €,Dusan Zivkovic,15/16,Serbia,159.0,Red Star 
+"Jan 29, 2016",,Loan,Serbia,159.0,Red Star ,274356,100 Th. €,Dusan Zivkovic,15/16,Serbia,10319.0,FK Bezanija 
+"Dec 31, 2015",,End of loan,Serbia,15276.0,Spartak Sub. ,274356,100 Th. €,Dusan Zivkovic,15/16,Serbia,159.0,Red Star 
+"Jul 8, 2015",,Loan,Serbia,159.0,Red Star ,274356,100 Th. €,Dusan Zivkovic,15/16,Serbia,15276.0,Spartak Sub. 
+"Jul 1, 2014",,-,Serbia,11137.0,Red Star U19 ,274356,-,Dusan Zivkovic,14/15,Serbia,159.0,Red Star 
+"Jun 30, 2016",,End of loan,Serbia,10319.0,FK Bezanija ,257463,50 Th. €,Marko Mijailovic,15/16,Serbia,159.0,Red Star 
+"Jan 29, 2016",,Loan,Serbia,159.0,Red Star ,257463,50 Th. €,Marko Mijailovic,15/16,Serbia,10319.0,FK Bezanija 
+"Jan 11, 2016",,-,Serbia,11137.0,Red Star U19 ,257463,50 Th. €,Marko Mijailovic,15/16,Serbia,159.0,Red Star 
+"Jun 30, 2015",,End of loan,Serbia,12514.0,Kolubara ,257463,-,Marko Mijailovic,14/15,Serbia,11137.0,Red Star U19 
+"Jan 18, 2015",,Loan,Serbia,11137.0,Red Star U19 ,257463,-,Marko Mijailovic,14/15,Serbia,12514.0,Kolubara 
 ,'NoneType' object has no attribute 'find_all',,,,,359008,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,377920,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,377922,,,,,,
@@ -781,7 +791,7 @@ date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCou
 ,'NoneType' object has no attribute 'find_all',,,,,377919,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,86917,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,374637,,,,,,
-,'NoneType' object has no attribute 'find_all',,,,,359439,,,,,,
+"Jul 1, 2016",,?,Serbia,4645,Radnicki 1923 ,359439,50 Th. €,Stefan Andric,16/17,Serbia,12135,FK Metalac 
 ,'NoneType' object has no attribute 'find_all',,,,,334825,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,378129,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,359437,,,,,,
@@ -789,16 +799,6 @@ date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCou
 ,'NoneType' object has no attribute 'find_all',,,,,359440,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,359441,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,358898,,,,,,
-"Jun 30, 2016",,End of loan,Serbia,10319,FK Bezanija ,274356,100 Th. €,Dusan Zivkovic,15/16,Serbia,159,Red Star 
-"Jan 29, 2016",,Loan,Serbia,159,Red Star ,274356,100 Th. €,Dusan Zivkovic,15/16,Serbia,10319,FK Bezanija 
-"Dec 31, 2015",,End of loan,Serbia,15276,Spartak Sub. ,274356,100 Th. €,Dusan Zivkovic,15/16,Serbia,159,Red Star 
-"Jul 8, 2015",,Loan,Serbia,159,Red Star ,274356,100 Th. €,Dusan Zivkovic,15/16,Serbia,15276,Spartak Sub. 
-"Jul 1, 2014",,-,Serbia,11137,Red Star U19 ,274356,-,Dusan Zivkovic,14/15,Serbia,159,Red Star 
-"Jun 30, 2016",,End of loan,Serbia,10319,FK Bezanija ,257463,50 Th. €,Marko Mijailovic,15/16,Serbia,159,Red Star 
-"Jan 29, 2016",,Loan,Serbia,159,Red Star ,257463,50 Th. €,Marko Mijailovic,15/16,Serbia,10319,FK Bezanija 
-"Jan 11, 2016",,-,Serbia,11137,Red Star U19 ,257463,50 Th. €,Marko Mijailovic,15/16,Serbia,159,Red Star 
-"Jun 30, 2015",,End of loan,Serbia,12514,Kolubara ,257463,-,Marko Mijailovic,14/15,Serbia,11137,Red Star U19 
-"Jan 18, 2015",,Loan,Serbia,11137,Red Star U19 ,257463,-,Marko Mijailovic,14/15,Serbia,12514,Kolubara 
 ,'NoneType' object has no attribute 'find_all',,,,,378132,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,145339,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,363295,,,,,,

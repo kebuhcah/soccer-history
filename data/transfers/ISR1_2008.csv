@@ -1,868 +1,878 @@
 date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
-"Jul 1, 2014",,-,Czech Republic,5545,FC Zlin ,53253,200 Th. €,Lubomír Kubica,14/15,,515,Unattached 
-"Jul 1, 2010",,Free transfer,Azerbaijan,8956,Inter Baku ,53253,300 Th. €,Lubomír Kubica,10/11,Czech Republic,5545,FC Zlin 
-"Jul 1, 2009",,?,Israel,6105,FC Ashdod ,53253,300 Th. €,Lubomír Kubica,09/10,Azerbaijan,8956,Inter Baku 
-"Jan 1, 2009",,80 Th. €,Slovenia,790,NK Maribor ,53253,300 Th. €,Lubomír Kubica,08/09,Israel,6105,FC Ashdod 
-"Jul 1, 2007",,Free transfer,Kazakhstan,10540,Irtysh ,53253,-,Lubomír Kubica,07/08,Slovenia,790,NK Maribor 
-"Jan 1, 2005",,?,Czech Republic,600,Drnovice ,53253,-,Lubomír Kubica,04/05,Kazakhstan,10540,Irtysh 
-"Jul 1, 2001",,?,Czech Republic,377,Banik Ostrava ,53253,-,Lubomír Kubica,01/02,Czech Republic,600,FK Drnovice 
-"Jul 1, 2014",,-,Israel,262,H. Petah Tikva ,113409,50 Th. €,Or Fishbein,14/15,,515,Unattached 
-"Jul 1, 2009",,-,Israel,26931,Hapoel PT U19 ,113409,-,Or Fishbein,09/10,Israel,262,H. Petah Tikva 
-"Jul 1, 2010",,-,Israel,262,H. Petah Tikva ,112660,100 Th. €,Eli Abarbanel,10/11,,123,End of career 
-"Jul 1, 2009",,?,Israel,9095,Bnei Yehuda ,112660,-,Eli Abarbanel,09/10,Israel,262,H. Petah Tikva 
-"Jul 1, 2012",,?,Israel,9095,Bnei Yehuda ,112661,100 Th. €,Nizan Aharonovich,12/13,,75,Unknown 
-"Jun 1, 2012",,Free transfer,Israel,10763,Beitar TA Ramla ,112661,100 Th. €,Nizan Aharonovich,11/12,Israel,9095,Bnei Yehuda 
-"Jan 1, 2012",,?,Israel,9095,Bnei Yehuda ,112661,150 Th. €,Nizan Aharonovich,11/12,Israel,10763,Beitar TA Ramla 
-"Jul 1, 2008",,-,Israel,26690,Bnei Yehuda U19 ,112661,-,Nizan Aharonovich,08/09,Israel,9095,Bnei Yehuda 
-"Jan 22, 2015",,Free transfer,France,1421,Reims ,112663,"1,00 Mill. €",Eliran Atar,14/15,Israel,1064,Maccabi Haifa 
-"Jul 1, 2013",,"1,50 Mill. €",Israel,119,M. Tel Aviv ,112663,"1,50 Mill. €",Eliran Atar,13/14,France,1421,Reims 
-"Jul 1, 2010",,750 Th. €,Israel,9095,Bnei Yehuda ,112663,800 Th. €,Eliran Atar,10/11,Israel,119,M. Tel Aviv 
-"Jul 1, 2007",,-,Israel,26690,Bnei Yehuda U19 ,112663,-,Eliran Atar,07/08,Israel,9095,Bnei Yehuda 
-"Aug 1, 2014",,?,Israel,20857,Hapoel Raanana ,112664,250 Th. €,Assi Baldout,14/15,Israel,9095,Bnei Yehuda 
-"Aug 1, 2013",,?,Israel,31134,Hap R. haSharon ,112664,250 Th. €,Assi Baldout,13/14,Israel,20857,Hapoel Raanana 
-"Aug 1, 2012",,?,Israel,554,Hapoel Rishon ,112664,250 Th. €,Assi Baldout,12/13,Israel,31134,Hap R. haSharon 
-"Aug 1, 2011",,?,Israel,810,Hapoel Haifa ,112664,250 Th. €,Assi Baldout,11/12,Israel,554,Hapoel Rishon 
-"Jan 1, 2011",,?,Israel,9095,Bnei Yehuda ,112664,250 Th. €,Assi Baldout,10/11,Israel,810,Hapoel Haifa 
-"Jul 1, 1998",,-,Israel,26690,Bnei Yehuda U19 ,112664,-,Assi Baldout,98/99,Israel,9095,Bnei Yehuda 
-"Jul 1, 2013",,?,Israel,554,Hapoel Rishon ,112665,-,Aviran Dalal,13/14,,75,Unknown 
-"Jul 1, 2010",,?,Israel,24026,Hapoel Bnei Lod ,112665,-,Aviran Dalal,10/11,Israel,554,Hapoel Rishon 
-"Jul 1, 2009",,?,Israel,9095,Bnei Yehuda ,112665,-,Aviran Dalal,09/10,Israel,24026,Hapoel Bnei Lod 
-"Jul 1, 2008",,?,Israel,24026,Hapoel Bnei Lod ,112665,-,Aviran Dalal,08/09,Israel,9095,Bnei Yehuda 
-"Jul 1, 2012",,?,Israel,9095,Bnei Yehuda ,112667,250 Th. €,Muhammed Hatari,12/13,,75,Unknown 
-"Jun 1, 2012",,Free transfer,Israel,262,H. Petah Tikva ,112667,250 Th. €,Muhammed Hatari,11/12,Israel,9095,Bnei Yehuda 
-"Aug 1, 2009",,?,Israel,9095,Bnei Yehuda ,112667,-,Muhammed Hatari,09/10,,75,Unknown 
-,'NoneType' object has no attribute 'find_all',,,,,85021,,,,,,
-"Jul 1, 2015",,-,Israel,6028,Kiryat Shmona ,112670,-,Tamir Cahalon,15/16,,123,End of career 
-"Jul 1, 2013",,?,Israel,6025,Hapoel Acre ,112670,600 Th. €,Tamir Cahalon,13/14,Israel,6028,Kiryat Shmona 
-"Jul 1, 2012",,?,Israel,119,M. Tel Aviv ,112670,600 Th. €,Tamir Cahalon,12/13,Israel,6025,Hapoel Acre 
-"Jun 1, 2012",,End of loan,Israel,6105,FC Ashdod ,112670,600 Th. €,Tamir Cahalon,11/12,Israel,119,M. Tel Aviv 
-"Jan 1, 2012",,Loan,Israel,119,M. Tel Aviv ,112670,600 Th. €,Tamir Cahalon,11/12,Israel,6105,FC Ashdod 
-"Dec 31, 2011",,End of loan,Poland,5689,Cracovia Kraków ,112670,600 Th. €,Tamir Cahalon,11/12,Israel,119,M. Tel Aviv 
-"Aug 1, 2011",,Loan fee:50 Th. €,Israel,119,M. Tel Aviv ,112670,600 Th. €,Tamir Cahalon,11/12,Poland,5689,Cracovia Kraków 
-"Jun 30, 2011",,End of loan,Belgium,172,RSC Charleroi ,112670,600 Th. €,Tamir Cahalon,10/11,Israel,119,M. Tel Aviv 
-"Jan 1, 2011",,Loan,Israel,119,M. Tel Aviv ,112670,400 Th. €,Tamir Cahalon,10/11,Belgium,172,RSC Charleroi 
-"Jul 1, 2009",,?,Israel,9095,Bnei Yehuda ,112670,-,Tamir Cahalon,09/10,Israel,119,M. Tel Aviv 
-"Aug 1, 2007",,?,Israel,19856,M. Tel Aviv U19 ,112670,-,Tamir Cahalon,07/08,Israel,9095,Bnei Yehuda 
-"Oct 24, 2015",,-,Israel,515,Unattached ,112674,500 Th. €,Dan Mori,15/16,,9095,Bnei Yehuda 
-"Aug 31, 2015",,-,Netherlands,499,Vitesse ,112674,500 Th. €,Dan Mori,15/16,,515,Unattached 
-"Aug 22, 2012",,Free transfer,Israel,9095,Bnei Yehuda ,112674,300 Th. €,Dan Mori,12/13,Netherlands,499,Vitesse 
-"Jul 1, 2008",,-,Israel,26690,Bnei Yehuda U19 ,112674,-,Dan Mori,08/09,Israel,9095,Bnei Yehuda 
-"Jul 1, 2008",,?,Israel,6105,FC Ashdod ,112676,-,Shai Nisim,08/09,,75,Unknown 
-"Jul 1, 2007",,?,Israel,9095,Bnei Yehuda ,112676,-,Shai Nisim,07/08,Israel,6105,FC Ashdod 
-"Jul 1, 2013",,?,Israel,7000,Hap Nazareth I. ,97831,100 Th. €,Meir Cohen,13/14,Israel,35110,Hapoel Afula 
-"Sep 1, 2012",,Free transfer,Israel,35100,M. Umm al-Fahm ,97831,100 Th. €,Meir Cohen,12/13,Israel,7000,Hap Nazareth I. 
-"Jul 1, 2011",,Free transfer,Israel,554,Hapoel Rishon ,97831,100 Th. €,Meir Cohen,11/12,Israel,35100,M. Umm al-Fahm 
-"Jan 1, 2011",,?,Israel,4769,Bnei Sakhnin ,97831,150 Th. €,Meir Cohen,10/11,Israel,554,Hapoel Rishon 
-"Jul 1, 2006",,Free transfer,Israel,31134,Hap R. haSharon ,97831,-,Meir Cohen,06/07,Israel,4769,Bnei Sakhnin 
-"Jul 11, 2015",,?,Israel,119,M. Tel Aviv ,112680,500 Th. €,Maharan Radi,15/16,Israel,2976,H. Beer Sheva 
-"Jul 1, 2012",,?,Israel,4769,Bnei Sakhnin ,112680,350 Th. €,Maharan Radi,12/13,Israel,119,M. Tel Aviv 
-"Jul 1, 2011",,?,Israel,6025,Hapoel Acre ,112680,350 Th. €,Maharan Radi,11/12,Israel,4769,Bnei Sakhnin 
-"Jul 1, 2010",,Free transfer,Israel,9095,Bnei Yehuda ,112680,300 Th. €,Maharan Radi,10/11,Israel,6025,Hapoel Acre 
-"Jul 1, 2008",,?,Israel,75,Unknown ,112680,-,Maharan Radi,08/09,,9095,Bnei Yehuda 
-"Jan 7, 2016",,?,Israel,9095,Bnei Yehuda ,112681,350 Th. €,Oz Raly,15/16,Israel,6028,Kiryat Shmona 
-"Jan 6, 2016",,End of loan,Israel,119,M. Tel Aviv ,112681,350 Th. €,Oz Raly,15/16,Israel,9095,Bnei Yehuda 
-"Sep 1, 2015",,Loan,Israel,9095,Bnei Yehuda ,112681,350 Th. €,Oz Raly,15/16,Israel,119,M. Tel Aviv 
-"Jul 1, 2007",,-,Israel,26690,Bnei Yehuda U19 ,112681,-,Oz Raly,07/08,Israel,9095,Bnei Yehuda 
-"Jul 1, 2009",,Free transfer,Israel,4769,Bnei Sakhnin ,97837,-,Tarik Ganaeim,09/10,,75,Unknown 
-"Jul 1, 2015",,Free transfer,Israel,262,H. Petah Tikva ,112686,400 Th. €,Liroy Zhairi,15/16,Israel,3793,B. Jerusalem 
-"Jul 1, 2014",,?,Israel,9095,Bnei Yehuda ,112686,400 Th. €,Liroy Zhairi,14/15,Israel,262,H. Petah Tikva 
-"Jul 1, 2013",,?,Belgium,354,KV Mechelen ,112686,400 Th. €,Liroy Zhairi,13/14,Israel,9095,Bnei Yehuda 
-"Jun 30, 2013",,End of loan,Israel,1064,Maccabi Haifa ,112686,400 Th. €,Liroy Zhairi,12/13,Belgium,354,KV Mechelen 
-"Sep 17, 2012",,Loan,Belgium,354,KV Mechelen ,112686,600 Th. €,Liroy Zhairi,12/13,Israel,1064,Maccabi Haifa 
-"Jul 1, 2011",,?,Israel,9095,Bnei Yehuda ,112686,350 Th. €,Liroy Zhairi,11/12,Belgium,354,KV Mechelen 
-"Jul 1, 2008",,-,Israel,26690,Bnei Yehuda U19 ,112686,-,Liroy Zhairi,08/09,Israel,9095,Bnei Yehuda 
-"Feb 21, 2016",,-,Finland,515,Unattached ,69680,100 Th. €,Ransford Osei,15/16,,3776,RoPS 
-"Jul 1, 2015",,-,South Africa,21202,Polokwane City  ,69680,100 Th. €,Ransford Osei,15/16,,515,Unattached 
-"Jan 26, 2015",,-,South Africa,515,Unattached ,69680,100 Th. €,Ransford Osei,14/15,,21202,Polokwane City  
-"Dec 13, 2013",,-,Ghana,502,Asante Kotoko ,69680,50 Th. €,Ransford Osei,13/14,,515,Unattached 
-"Aug 22, 2012",,Free transfer,South Africa,8607,Bloemfontein C. ,69680,50 Th. €,Ransford Osei,12/13,Ghana,502,Asante Kotoko 
-"Jan 1, 2012",,Free transfer,Spain,21550,Granada CF B ,69680,-,Ransford Osei,11/12,South Africa,8607,Bloemfontein C. 
-"Aug 1, 2010",,?,Israel,1064,Maccabi Haifa ,69680,400 Th. €,Ransford Osei,10/11,Spain,21550,Granada CF B 
-"Jun 30, 2010",,End of loan,Netherlands,317,FC Twente ,69680,400 Th. €,Ransford Osei,09/10,Israel,1064,Maccabi Haifa 
-"Jul 1, 2009",,Loan,Israel,1064,Maccabi Haifa ,69680,125 Th. €,Ransford Osei,09/10,Netherlands,317,FC Twente 
-"Aug 1, 2008",,Free transfer,Ghana,13604,Kessben FC ,69680,125 Th. €,Ransford Osei,08/09,Israel,1064,Maccabi Haifa 
-"Jul 1, 2015",,?,Bolivia,6878,Bolívar ,64049,400 Th. €,Luis Gutiérrez,15/16,Israel,6028,Kiryat Shmona 
-"Jul 1, 2013",,?,Argentina,19806,Patronato ,64049,400 Th. €,Luis Gutiérrez,13/14,Bolivia,6878,Bolívar 
-"Aug 3, 2012",,Free transfer,Bolivia,6985,Oriente P. ,64049,400 Th. €,Luis Gutiérrez,12/13,Argentina,19806,Patronato 
-"Jun 30, 2012",,End of loan,Brazil,10010,Bahia ,64049,400 Th. €,Luis Gutiérrez,11/12,Bolivia,6985,Oriente P. 
-"Jan 1, 2012",,Loan,Bolivia,6985,Oriente P. ,64049,400 Th. €,Luis Gutiérrez,11/12,Brazil,10010,Bahia 
-"Jun 30, 2009",,End of loan,Israel,6028,Kiryat Shmona ,64049,400 Th. €,Luis Gutiérrez,08/09,Bolivia,6985,Oriente P. 
-"Jan 1, 2009",,Loan fee:37 Th. €,Bolivia,6985,Oriente P. ,64049,400 Th. €,Luis Gutiérrez,08/09,Israel,6028,Kiryat Shmona 
-"Jul 1, 2007",,Free transfer,Bolivia,8056,Blooming ,64049,-,Luis Gutiérrez,07/08,Bolivia,6985,Oriente P. 
-"Jan 1, 2004",,-,Bolivia,22636,Oriente U19 ,64049,-,Luis Gutiérrez,03/04,Bolivia,6985,Oriente P. 
-"Jul 1, 2014",,?,South Africa,2891,SuperSport Utd. ,38451,550 Th. €,Bevan Fransman,14/15,South Africa,8607,Bloemfontein C. 
-"Jul 1, 2012",,?,Israel,1017,Hapoel Tel Aviv ,38451,600 Th. €,Bevan Fransman,12/13,South Africa,2891,SuperSport Utd. 
-"Jul 1, 2010",,?,Israel,5223,Maccabi Netanya ,38451,350 Th. €,Bevan Fransman,10/11,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2008",,198 Th. €,South Africa,2695,M. Swallows ,38451,350 Th. €,Bevan Fransman,08/09,Israel,5223,Maccabi Netanya 
-"Jul 1, 2006",,Free transfer,South Africa,568,Kaizer Chiefs ,38451,-,Bevan Fransman,06/07,South Africa,2695,M. Swallows 
-"Jul 1, 2003",,Free transfer,Belgium,1433,Exc. Mouscron ,38451,-,Bevan Fransman,03/04,South Africa,568,Kaizer Chiefs 
-"Jul 1, 2002",,Free transfer,South Africa,11992,Western Province United ,38451,-,Bevan Fransman,02/03,Belgium,1433,Exc. Mouscron 
-"Jul 1, 2015",,?,Argentina,31284,Club Atlético Central Córdoba (SdE) ,21557,250 Th. €,Pablo Bastianini,15/16,Mexico,34545,Coras de Tepic 
-"Jul 8, 2014",,?,Argentina,13549,Boca Unidos ,21557,250 Th. €,Pablo Bastianini,14/15,Argentina,31284,Club Atlético Central Córdoba (SdE) 
-"Jul 20, 2012",,Free transfer,Argentina,19806,Patronato ,21557,250 Th. €,Pablo Bastianini,12/13,Argentina,13549,Boca Unidos 
-"Jan 1, 2012",,?,Argentina,2154,Chacarita Jrs ,21557,250 Th. €,Pablo Bastianini,11/12,Argentina,19806,Patronato 
-"Jul 1, 2011",,-,Argentina,515,Unattached ,21557,250 Th. €,Pablo Bastianini,11/12,,2154,Chacarita Jrs 
-"Apr 1, 2011",,-,Japan,3828,Yokohama F. M. ,21557,250 Th. €,Pablo Bastianini,10/11,,515,Unattached 
-"Jan 1, 2010",,?,Argentina,13549,Boca Unidos ,21557,300 Th. €,Pablo Bastianini,09/10,Japan,3828,Yokohama F. M. 
-"Aug 1, 2009",,Free transfer,Israel,262,H. Petah Tikva ,21557,300 Th. €,Pablo Bastianini,09/10,Argentina,13549,Boca Unidos 
-"Jul 1, 2008",,?,Venezuela,531,Caracas FC ,21557,300 Th. €,Pablo Bastianini,08/09,Israel,3785,M. Petah Tikva 
-"Jan 1, 2008",,?,Italy,10686,Celano ,21557,300 Th. €,Pablo Bastianini,07/08,Venezuela,531,Caracas FC 
-"Jul 1, 2007",,Free transfer,Greece,553,Ionikos Nikea ,21557,300 Th. €,Pablo Bastianini,07/08,Italy,10686,Celano 
-"Dec 1, 2006",,Free transfer,England,972,Yeovil Town ,21557,250 Th. €,Pablo Bastianini,06/07,Greece,553,Ionikos Nikea 
-"Jul 1, 2005",,Free transfer,Argentina,1826,Quilmes ,21557,250 Th. €,Pablo Bastianini,05/06,England,972,Yeovil Town 
-"Jul 1, 2003",,Free transfer,Argentina,6062,Defensores de Belgrano ,21557,-,Pablo Bastianini,03/04,Argentina,1826,Quilmes 
-"Jul 1, 2001",,Free transfer,Argentina,1234,Independiente ,21557,-,Pablo Bastianini,01/02,Argentina,6062,Defensores de Belgrano 
-"Jul 1, 1999",,Free transfer,Argentina,1030,Argentinos ,21557,-,Pablo Bastianini,99/00,Argentina,1234,Independiente 
-,'NoneType' object has no attribute 'find_all',,,,,112694,,,,,,
-"Jan 1, 2014",,?,Israel,35100,M. Umm al-Fahm ,85047,100 Th. €,Yehuda Huta,13/14,Israel,43119,Hapoel Katamon 
-"Jul 1, 2013",,?,Israel,30062,Ness Ziona ,85047,100 Th. €,Yehuda Huta,13/14,Israel,35100,M. Umm al-Fahm 
-"Jul 1, 2012",,?,Israel,1017,Hapoel Tel Aviv ,85047,100 Th. €,Yehuda Huta,12/13,Israel,30062,Ness Ziona 
-"May 1, 2011",,End of loan,Israel,262,H. Petah Tikva ,85047,100 Th. €,Yehuda Huta,10/11,Israel,1017,Hapoel Tel Aviv 
-"Feb 1, 2011",,Loan,Israel,1017,Hapoel Tel Aviv ,85047,100 Th. €,Yehuda Huta,10/11,Israel,262,H. Petah Tikva 
-"Jul 1, 2008",,-,Israel,19853,H. Tel Aviv U19 ,85047,-,Yehuda Huta,08/09,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2015",,?,Israel,20857,Hapoel Raanana ,112698,100 Th. €,Gil Blumenshtein,15/16,Israel,10763,Beitar TA Ramla 
-"Jan 1, 2015",,?,Israel,24026,Hapoel Bnei Lod ,112698,100 Th. €,Gil Blumenshtein,14/15,Israel,20857,Hapoel Raanana 
-"Jan 23, 2014",,?,Israel,19977,H. Ashkelon ,112698,100 Th. €,Gil Blumenshtein,13/14,Israel,24026,Hapoel Bnei Lod 
-"Jul 1, 2012",,Free transfer,Israel,31134,Hap R. haSharon ,112698,100 Th. €,Gil Blumenshtein,12/13,Israel,19977,H. Ashkelon 
-"Jul 1, 2011",,Free transfer,Scotland,2451,Inverness Cal. ,112698,100 Th. €,Gil Blumenshtein,11/12,Israel,31134,Hap R. haSharon 
-"Jul 1, 2010",,Free transfer,Israel,2976,H. Beer Sheva ,112698,100 Th. €,Gil Blumenshtein,10/11,Scotland,2451,Inverness Cal. 
-"Jul 1, 2009",,Free transfer,Israel,3785,M. Petah Tikva ,112698,-,Gil Blumenshtein,09/10,Israel,2976,H. Beer Sheva 
-"Jul 1, 2014",,?,Israel,3785,M. Petah Tikva ,30781,700 Th. €,Pedro Galván,14/15,Israel,9095,Bnei Yehuda 
-"Jul 1, 2013",,?,Israel,9095,Bnei Yehuda ,30781,700 Th. €,Pedro Galván,13/14,Israel,3785,M. Petah Tikva 
-"Aug 1, 2011",,Free transfer,Argentina,1106,Gimnasia ,30781,"1,00 Mill. €",Pedro Galván,11/12,Israel,9095,Bnei Yehuda 
-"Jun 30, 2010",,End of loan,Israel,9095,Bnei Yehuda ,30781,"1,25 Mill. €",Pedro Galván,09/10,Argentina,1106,Gimnasia 
-"Jul 1, 2008",,Loan,Argentina,1106,Gimnasia ,30781,"1,30 Mill. €",Pedro Galván,08/09,Israel,9095,Bnei Yehuda 
-"Jun 30, 2008",,End of loan,Argentina,10511,San Martín ,30781,"1,30 Mill. €",Pedro Galván,07/08,Argentina,1106,Gimnasia 
-"Jan 1, 2008",,Loan,Argentina,1106,Gimnasia ,30781,-,Pedro Galván,07/08,Argentina,10511,San Martín 
-"Jun 30, 2007",,End of loan,Ecuador,9854,CD Olmedo ,30781,-,Pedro Galván,06/07,Argentina,1106,Gimnasia 
-"Jan 1, 2007",,Loan,Argentina,1106,Gimnasia ,30781,-,Pedro Galván,06/07,Ecuador,9854,CD Olmedo 
-"Dec 31, 2006",,End of loan,Argentina,10511,San Martín ,30781,-,Pedro Galván,06/07,Argentina,1106,Gimnasia 
-"Jan 1, 2006",,Loan,Argentina,1106,Gimnasia ,30781,-,Pedro Galván,05/06,Argentina,10511,San Martín 
-"Jan 1, 2005",,-,Argentina,15114,Gimnasia U19 ,30781,-,Pedro Galván,04/05,Argentina,1106,Gimnasia 
-"Dec 3, 2012",,-,United States,8816,FC Dallas	 ,37438,175 Th. €,Scott Sealy,12/13,,515,Unattached 
-"Feb 1, 2012",,-,United States,515,Unattached ,37438,175 Th. €,Scott Sealy,11/12,,8816,FC Dallas	 
-"Dec 1, 2011",,-,United States,218,Quakes ,37438,175 Th. €,Scott Sealy,11/12,,515,Unattached 
-"Apr 1, 2010",,?,Israel,4769,Bnei Sakhnin ,37438,175 Th. €,Scott Sealy,09/10,United States,218,Quakes 
-"Jul 1, 2009",,?,Israel,119,M. Tel Aviv ,37438,-,Scott Sealy,09/10,Israel,4769,Bnei Sakhnin 
-"Jan 1, 2009",,Free transfer,United States,218,Quakes ,37438,-,Scott Sealy,08/09,Israel,119,M. Tel Aviv 
-"Jul 1, 2008",,Swap deal,United States,4284,Wizards ,37438,-,Scott Sealy,08/09,United States,218,Quakes 
-"Jan 1, 2005",,draft,United States,9783,Demon Deacons ,37438,-,Scott Sealy,04/05,United States,4284,Wizards 
-"Jun 30, 2016",,End of loan,Austria,409,RB Salzburg ,112703,"1,50 Mill. €",Omer Damari,15/16,Germany,23826,RB Leipzig 
-"Jul 1, 2015",,Loan,Germany,23826,RB Leipzig ,112703,"3,00 Mill. €",Omer Damari,15/16,Austria,409,RB Salzburg 
-"Jan 14, 2015",,"7,00 Mill. €",Austria,14,Austria Vienna ,112703,"2,50 Mill. €",Omer Damari,14/15,Germany,23826,RB Leipzig 
-"Jul 30, 2014",,"1,20 Mill. €",Israel,1017,Hapoel Tel Aviv ,112703,"1,40 Mill. €",Omer Damari,14/15,Austria,14,Austria Vienna 
-"Jul 3, 2011",,"1,50 Mill. €",Israel,3785,M. Petah Tikva ,112703,400 Th. €,Omer Damari,11/12,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2008",,-,Israel,26920,M. P. Tikva U19 ,112703,-,Omer Damari,08/09,Israel,3785,M. Petah Tikva 
-"Jul 1, 2012",,?,Israel,1017,Hapoel Tel Aviv ,85056,400 Th. €,Maaran Lala,12/13,Israel,810,Hapoel Haifa 
-"Jul 1, 2008",,?,Israel,2828,M. Ahi Nazareth ,85056,-,Maaran Lala,08/09,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2011",,Free transfer,Israel,22776,Maccabi Yavne ,85058,-,Maor Lubin,11/12,Israel,21535,Hakoah Amidar 
-"Dec 1, 2010",,Free transfer,Israel,7532,Hapoel Kfar Saba ,85058,-,Maor Lubin,10/11,Israel,22776,Maccabi Yavne 
-"Jul 1, 2009",,Free transfer,Israel,1017,Hapoel Tel Aviv ,85058,-,Maor Lubin,09/10,Israel,7532,Hapoel Kfar Saba 
-"Jul 1, 2008",,-,Israel,19853,H. Tel Aviv U19 ,85058,-,Maor Lubin,08/09,Israel,1017,Hapoel Tel Aviv 
-"Aug 1, 2015",,Loan,Israel,3785,M. Petah Tikva ,112707,75 Th. €,Tomer Elbaz,15/16,Israel,24026,Hapoel Bnei Lod 
-"Jul 1, 2009",,-,Israel,26920,M. P. Tikva U19 ,112707,-,Tomer Elbaz,09/10,Israel,3785,M. Petah Tikva 
-"Aug 1, 2013",,?,Israel,7532,Hapoel Kfar Saba ,86085,100 Th. €,Shmuel Kozokin,13/14,,75,Unknown 
-"Feb 1, 2013",,?,Israel,3793,B. Jerusalem ,86085,100 Th. €,Shmuel Kozokin,12/13,Israel,7532,Hapoel Kfar Saba 
-"Jul 1, 2006",,-,Israel,17373,Jerusalem U19 ,86085,-,Shmuel Kozokin,06/07,Israel,3793,B. Jerusalem 
-,'NoneType' object has no attribute 'find_all',,,,,112710,,,,,,
-"Apr 12, 2013",,-,France,3911,Stade Brest 29 ,96327,"1,00 Mill. €",John Culma,12/13,,515,Unattached 
-"Jul 1, 2011",,Free transfer,Israel,1064,Maccabi Haifa ,96327,700 Th. €,John Culma,11/12,France,3911,Stade Brest 29 
-"Jan 1, 2008",,Free transfer,Israel,4769,Bnei Sakhnin ,96327,-,John Culma,07/08,Israel,1064,Maccabi Haifa 
-"Aug 31, 2006",,Free transfer,Costa Rica,8602,Brujas FC ,96327,-,John Culma,06/07,Israel,4769,Bnei Sakhnin 
-"Jul 1, 2005",,?,Mexico,28185,Cruz Azul Hid. ,96327,-,John Culma,05/06,Costa Rica,8602,Brujas FC 
-"Jan 1, 2004",,-,Mexico,3711,CD Cruz Azul ,96327,-,John Culma,03/04,Mexico,28185,Cruz Azul Hid. 
-"Jan 1, 2001",,Free transfer,Colombia,11648,Indep. Santa Fe ,96327,-,John Culma,00/01,Mexico,3711,CD Cruz Azul 
-"Jan 1, 1999",,-,Colombia,22896,ISF U19 ,96327,-,John Culma,98/99,Colombia,11648,Indep. Santa Fe 
-"Jul 1, 2013",,?,Israel,119,M. Tel Aviv ,112712,400 Th. €,Guy Haimov,13/14,Israel,6028,Kiryat Shmona 
-"Jun 30, 2013",,End of loan,Cyprus,2156,AEK Larnaca ,112712,400 Th. €,Guy Haimov,12/13,Israel,119,M. Tel Aviv 
-"Aug 13, 2012",,Loan,Israel,119,M. Tel Aviv ,112712,400 Th. €,Guy Haimov,12/13,Cyprus,2156,AEK Larnaca 
-"Jul 1, 2011",,?,Israel,6028,Kiryat Shmona ,112712,200 Th. €,Guy Haimov,11/12,Israel,119,M. Tel Aviv 
-"Jul 1, 2009",,Free transfer,Israel,119,M. Tel Aviv ,112712,-,Guy Haimov,09/10,Israel,6028,Kiryat Shmona 
-,'NoneType' object has no attribute 'find_all',,,,,112713,,,,,,
-"Jun 12, 2015",,-,Israel,30062,Ness Ziona ,96332,-,Leonid Krupnik,14/15,,123,End of career 
-"Jul 1, 2014",,?,Israel,35100,M. Umm al-Fahm ,96332,200 Th. €,Leonid Krupnik,14/15,Israel,30062,Ness Ziona 
-"Jul 1, 2013",,Free transfer,Israel,262,H. Petah Tikva ,96332,200 Th. €,Leonid Krupnik,13/14,Israel,35100,M. Umm al-Fahm 
-"Jan 1, 2013",,?,Israel,5223,Maccabi Netanya ,96332,200 Th. €,Leonid Krupnik,12/13,Israel,262,H. Petah Tikva 
-"Nov 1, 2009",,Free transfer,United States,623,NY Red Bulls ,96332,50 Th. €,Leonid Krupnik,09/10,Israel,5223,Maccabi Netanya 
-"Jul 1, 2009",,?,Israel,1064,Maccabi Haifa ,96332,-,Leonid Krupnik,09/10,United States,623,NY Red Bulls 
-"Jul 1, 2008",,?,Israel,4769,Bnei Sakhnin ,96332,-,Leonid Krupnik,08/09,Israel,1064,Maccabi Haifa 
-"Jan 1, 2007",,?,Israel,8907,Maccabi Herzliya ,96332,-,Leonid Krupnik,06/07,Israel,4769,Bnei Sakhnin 
-"Jul 1, 2006",,?,Israel,5223,Maccabi Netanya ,96332,-,Leonid Krupnik,06/07,Israel,8907,Maccabi Herzliya 
-"Jul 1, 2005",,?,United States,4115,Charleston ,96332,-,Leonid Krupnik,05/06,Israel,5223,Maccabi Netanya 
-"Jul 1, 2003",,?,United States,16902,Wilmington ,96332,-,Leonid Krupnik,03/04,United States,4115,Charleston 
-"Jan 1, 2003",,?,United States,623,MetroStars ,96332,-,Leonid Krupnik,02/03,United States,16902,Wilmington 
-"Jul 1, 2010",,?,Israel,20857,Hapoel Raanana ,112717,75 Th. €,Erik Hort,10/11,Puerto Rico,33688,SFC Puerto Rico 
-"Jul 1, 2009",,?,Israel,119,M. Tel Aviv ,112717,-,Erik Hort,09/10,Israel,20857,Hapoel Raanana 
-"Jul 1, 2009",,Free transfer,Israel,4769,Bnei Sakhnin ,97872,-,Muhammad Shalaata,09/10,,75,Unknown 
-"Jul 7, 2015",,?,Switzerland,257,FC St. Gallen ,112724,500 Th. €,Nisso Kapiloto,15/16,Israel,3793,B. Jerusalem 
-"Jul 1, 2014",,Free transfer,Israel,3793,B. Jerusalem ,112724,250 Th. €,Nisso Kapiloto,14/15,Switzerland,257,FC St. Gallen 
-"Jul 1, 2013",,?,Cyprus,8701,Alki Larnaca ,112724,250 Th. €,Nisso Kapiloto,13/14,Israel,3793,B. Jerusalem 
-"Jul 1, 2012",,?,Israel,6025,Hapoel Acre ,112724,250 Th. €,Nisso Kapiloto,12/13,Cyprus,8701,Alki Larnaca 
-"Jul 1, 2011",,?,Israel,6105,FC Ashdod ,112724,150 Th. €,Nisso Kapiloto,11/12,Israel,6025,Hapoel Acre 
-"Jan 1, 2011",,?,Israel,119,M. Tel Aviv ,112724,150 Th. €,Nisso Kapiloto,10/11,Israel,6105,FC Ashdod 
-"Jul 1, 2008",,-,Israel,19856,M. Tel Aviv U19 ,112724,-,Nisso Kapiloto,08/09,Israel,119,M. Tel Aviv 
-"Jan 1, 2013",,?,Colombia,6984,Once Caldas ,58969,150 Th. €,Roberto Sánchez,12/13,,75,Unknown 
-"Jan 1, 2012",,?,Paraguay,18228,Club General  ,58969,150 Th. €,Roberto Sánchez,11/12,Colombia,6984,Once Caldas 
-"Jul 1, 2009",,Free transfer,Israel,2785,H. Ramat Gan ,58969,150 Th. €,Roberto Sánchez,09/10,Paraguay,18228,Club General  
-"Jul 1, 2008",,Free transfer,Greece,3060,Atromitos Athen ,58969,600 Th. €,Roberto Sánchez,08/09,Israel,2785,H. Ramat Gan 
-"Jul 1, 2007",,Free transfer,Spain,21940,FC L'Eskala ,58969,-,Roberto Sánchez,07/08,Greece,3060,Atromitos Athen 
-"Jun 1, 2012",,-,Cyprus,3899,Anor. Famagusta ,4701,-,Igor Tomasic,11/12,,123,End of career 
-"Jul 1, 2011",,-,Cyprus,515,Unattached ,4701,400 Th. €,Igor Tomasic,11/12,,3899,Anor. Famagusta 
-"Apr 1, 2011",,-,Greece,3391,AO Kavala ,4701,400 Th. €,Igor Tomasic,10/11,,515,Unattached 
-"Jul 1, 2010",,Free transfer,Israel,119,M. Tel Aviv ,4701,450 Th. €,Igor Tomasic,10/11,Greece,3391,AO Kavala 
-"Jul 1, 2008",,Free transfer,Bulgaria,156,Levski Sofia ,4701,750 Th. €,Igor Tomasic,08/09,Israel,119,M. Tel Aviv 
-"Jan 1, 2005",,?,Israel,2976,H. Beer Sheva ,4701,750 Th. €,Igor Tomasic,04/05,Bulgaria,156,Levski Sofia 
-"Jul 1, 2004",,Free transfer,Israel,262,H. Petah Tikva ,4701,-,Igor Tomasic,04/05,Israel,2976,H. Beer Sheva 
-"Jul 1, 2003",,?,Belgium,1184,KRC Genk ,4701,-,Igor Tomasic,03/04,Israel,262,H. Petah Tikva 
-"Jul 1, 2002",,?,Netherlands,192,Roda JC ,4701,-,Igor Tomasic,02/03,Belgium,1184,KRC Genk 
-"Jul 1, 2001",,?,Netherlands,384,MVV ,4701,-,Igor Tomasic,01/02,Netherlands,192,Roda JC 
-"Jul 1, 1999",,?,Netherlands,192,Roda JC ,4701,-,Igor Tomasic,99/00,Netherlands,384,MVV 
-"Jul 1, 1997",,?,Croatia,419,Dinamo Zagreb ,4701,-,Igor Tomasic,97/98,Netherlands,192,Roda JC 
-"Jul 1, 1994",,?,Croatia,8007,HNSK Moslavina ,4701,-,Igor Tomasic,94/95,Croatia,419,Dinamo Zagreb 
+"Jul 1, 2014",,-,Czech Republic,5545.0,FC Zlin ,53253,200 Th. €,Lubomír Kubica,14/15,,515.0,Unattached 
+"Jul 1, 2010",,Free transfer,Azerbaijan,8956.0,Inter Baku ,53253,300 Th. €,Lubomír Kubica,10/11,Czech Republic,5545.0,FC Zlin 
+"Jul 1, 2009",,?,Israel,6105.0,FC Ashdod ,53253,300 Th. €,Lubomír Kubica,09/10,Azerbaijan,8956.0,Inter Baku 
+"Jan 1, 2009",,80 Th. €,Slovenia,790.0,NK Maribor ,53253,300 Th. €,Lubomír Kubica,08/09,Israel,6105.0,FC Ashdod 
+"Jul 1, 2007",,Free transfer,Kazakhstan,10540.0,Irtysh ,53253,-,Lubomír Kubica,07/08,Slovenia,790.0,NK Maribor 
+"Jan 1, 2005",,?,Czech Republic,600.0,Drnovice ,53253,-,Lubomír Kubica,04/05,Kazakhstan,10540.0,Irtysh 
+"Jul 1, 2001",,?,Czech Republic,377.0,Banik Ostrava ,53253,-,Lubomír Kubica,01/02,Czech Republic,600.0,FK Drnovice 
+"Jul 1, 2014",,-,Israel,262.0,H. Petah Tikva ,113409,50 Th. €,Or Fishbein,14/15,,515.0,Unattached 
+"Jul 1, 2009",,-,Israel,26931.0,Hapoel PT U19 ,113409,-,Or Fishbein,09/10,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2010",,-,Israel,262.0,H. Petah Tikva ,112660,100 Th. €,Eli Abarbanel,10/11,,123.0,End of career 
+"Jul 1, 2009",,?,Israel,9095.0,Bnei Yehuda ,112660,-,Eli Abarbanel,09/10,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2012",,?,Israel,9095.0,Bnei Yehuda ,112661,100 Th. €,Nizan Aharonovich,12/13,,75.0,Unknown 
+"Jun 1, 2012",,Free transfer,Israel,10763.0,Beitar TA Ramla ,112661,100 Th. €,Nizan Aharonovich,11/12,Israel,9095.0,Bnei Yehuda 
+"Jan 1, 2012",,?,Israel,9095.0,Bnei Yehuda ,112661,150 Th. €,Nizan Aharonovich,11/12,Israel,10763.0,Beitar TA Ramla 
+"Jul 1, 2008",,-,Israel,26690.0,Bnei Yehuda U19 ,112661,-,Nizan Aharonovich,08/09,Israel,9095.0,Bnei Yehuda 
+"Jan 22, 2015",,Free transfer,France,1421.0,Reims ,112663,"1,00 Mill. €",Eliran Atar,14/15,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2013",,"1,50 Mill. €",Israel,119.0,M. Tel Aviv ,112663,"1,50 Mill. €",Eliran Atar,13/14,France,1421.0,Reims 
+"Jul 1, 2010",,750 Th. €,Israel,9095.0,Bnei Yehuda ,112663,800 Th. €,Eliran Atar,10/11,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2007",,-,Israel,26690.0,Bnei Yehuda U19 ,112663,-,Eliran Atar,07/08,Israel,9095.0,Bnei Yehuda 
+"Aug 1, 2014",,?,Israel,20857.0,Hapoel Raanana ,112664,250 Th. €,Assi Baldout,14/15,Israel,9095.0,Bnei Yehuda 
+"Aug 1, 2013",,?,Israel,31134.0,Hap R. haSharon ,112664,250 Th. €,Assi Baldout,13/14,Israel,20857.0,Hapoel Raanana 
+"Aug 1, 2012",,?,Israel,554.0,Hapoel Rishon ,112664,250 Th. €,Assi Baldout,12/13,Israel,31134.0,Hap R. haSharon 
+"Aug 1, 2011",,?,Israel,810.0,Hapoel Haifa ,112664,250 Th. €,Assi Baldout,11/12,Israel,554.0,Hapoel Rishon 
+"Jan 1, 2011",,?,Israel,9095.0,Bnei Yehuda ,112664,250 Th. €,Assi Baldout,10/11,Israel,810.0,Hapoel Haifa 
+"Jul 1, 1998",,-,Israel,26690.0,Bnei Yehuda U19 ,112664,-,Assi Baldout,98/99,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2013",,?,Israel,554.0,Hapoel Rishon ,112665,-,Aviran Dalal,13/14,,75.0,Unknown 
+"Jul 1, 2010",,?,Israel,24026.0,Hapoel Bnei Lod ,112665,-,Aviran Dalal,10/11,Israel,554.0,Hapoel Rishon 
+"Jul 1, 2009",,?,Israel,9095.0,Bnei Yehuda ,112665,-,Aviran Dalal,09/10,Israel,24026.0,Hapoel Bnei Lod 
+"Jul 1, 2008",,?,Israel,24026.0,Hapoel Bnei Lod ,112665,-,Aviran Dalal,08/09,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2012",,?,Israel,9095.0,Bnei Yehuda ,112667,250 Th. €,Muhammed Hatari,12/13,,75.0,Unknown 
+"Jun 1, 2012",,Free transfer,Israel,262.0,H. Petah Tikva ,112667,250 Th. €,Muhammed Hatari,11/12,Israel,9095.0,Bnei Yehuda 
+"Aug 1, 2009",,?,Israel,9095.0,Bnei Yehuda ,112667,-,Muhammed Hatari,09/10,,75.0,Unknown 
+,,,,,,85021,,,,,,
+"Jul 1, 2015",,-,Israel,6028.0,Kiryat Shmona ,112670,-,Tamir Cahalon,15/16,,123.0,End of career 
+"Jul 1, 2013",,?,Israel,6025.0,Hapoel Acre ,112670,600 Th. €,Tamir Cahalon,13/14,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2012",,?,Israel,119.0,M. Tel Aviv ,112670,600 Th. €,Tamir Cahalon,12/13,Israel,6025.0,Hapoel Acre 
+"Jun 1, 2012",,End of loan,Israel,6105.0,FC Ashdod ,112670,600 Th. €,Tamir Cahalon,11/12,Israel,119.0,M. Tel Aviv 
+"Jan 1, 2012",,Loan,Israel,119.0,M. Tel Aviv ,112670,600 Th. €,Tamir Cahalon,11/12,Israel,6105.0,FC Ashdod 
+"Dec 31, 2011",,End of loan,Poland,5689.0,Cracovia Kraków ,112670,600 Th. €,Tamir Cahalon,11/12,Israel,119.0,M. Tel Aviv 
+"Aug 1, 2011",,Loan fee:50 Th. €,Israel,119.0,M. Tel Aviv ,112670,600 Th. €,Tamir Cahalon,11/12,Poland,5689.0,Cracovia Kraków 
+"Jun 30, 2011",,End of loan,Belgium,172.0,RSC Charleroi ,112670,600 Th. €,Tamir Cahalon,10/11,Israel,119.0,M. Tel Aviv 
+"Jan 1, 2011",,Loan,Israel,119.0,M. Tel Aviv ,112670,400 Th. €,Tamir Cahalon,10/11,Belgium,172.0,RSC Charleroi 
+"Jul 1, 2009",,?,Israel,9095.0,Bnei Yehuda ,112670,-,Tamir Cahalon,09/10,Israel,119.0,M. Tel Aviv 
+"Aug 1, 2007",,?,Israel,19856.0,M. Tel Aviv U19 ,112670,-,Tamir Cahalon,07/08,Israel,9095.0,Bnei Yehuda 
+"Oct 24, 2015",,-,Israel,515.0,Unattached ,112674,500 Th. €,Dan Mori,15/16,,9095.0,Bnei Yehuda 
+"Aug 31, 2015",,-,Netherlands,499.0,Vitesse ,112674,500 Th. €,Dan Mori,15/16,,515.0,Unattached 
+"Aug 22, 2012",,Free transfer,Israel,9095.0,Bnei Yehuda ,112674,300 Th. €,Dan Mori,12/13,Netherlands,499.0,Vitesse 
+"Jul 1, 2008",,-,Israel,26690.0,Bnei Yehuda U19 ,112674,-,Dan Mori,08/09,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2008",,?,Israel,6105.0,FC Ashdod ,112676,-,Shai Nisim,08/09,,75.0,Unknown 
+"Jul 1, 2007",,?,Israel,9095.0,Bnei Yehuda ,112676,-,Shai Nisim,07/08,Israel,6105.0,FC Ashdod 
+"Jul 1, 2013",,?,Israel,7000.0,Hap Nazareth I. ,97831,100 Th. €,Meir Cohen,13/14,Israel,35110.0,Hapoel Afula 
+"Sep 1, 2012",,Free transfer,Israel,35100.0,M. Umm al-Fahm ,97831,100 Th. €,Meir Cohen,12/13,Israel,7000.0,Hap Nazareth I. 
+"Jul 1, 2011",,Free transfer,Israel,554.0,Hapoel Rishon ,97831,100 Th. €,Meir Cohen,11/12,Israel,35100.0,M. Umm al-Fahm 
+"Jan 1, 2011",,?,Israel,4769.0,Bnei Sakhnin ,97831,150 Th. €,Meir Cohen,10/11,Israel,554.0,Hapoel Rishon 
+"Jul 1, 2006",,Free transfer,Israel,31134.0,Hap R. haSharon ,97831,-,Meir Cohen,06/07,Israel,4769.0,Bnei Sakhnin 
+"Jul 11, 2015",,?,Israel,119.0,M. Tel Aviv ,112680,500 Th. €,Maharan Radi,15/16,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2012",,?,Israel,4769.0,Bnei Sakhnin ,112680,350 Th. €,Maharan Radi,12/13,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2011",,?,Israel,6025.0,Hapoel Acre ,112680,350 Th. €,Maharan Radi,11/12,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2010",,Free transfer,Israel,9095.0,Bnei Yehuda ,112680,300 Th. €,Maharan Radi,10/11,Israel,6025.0,Hapoel Acre 
+"Jul 1, 2008",,?,Israel,75.0,Unknown ,112680,-,Maharan Radi,08/09,,9095.0,Bnei Yehuda 
+"Jan 7, 2016",,?,Israel,9095.0,Bnei Yehuda ,112681,350 Th. €,Oz Raly,15/16,Israel,6028.0,Kiryat Shmona 
+"Jan 6, 2016",,End of loan,Israel,119.0,M. Tel Aviv ,112681,350 Th. €,Oz Raly,15/16,Israel,9095.0,Bnei Yehuda 
+"Sep 1, 2015",,Loan,Israel,9095.0,Bnei Yehuda ,112681,350 Th. €,Oz Raly,15/16,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2007",,-,Israel,26690.0,Bnei Yehuda U19 ,112681,-,Oz Raly,07/08,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2009",,Free transfer,Israel,4769.0,Bnei Sakhnin ,97837,-,Tarik Ganaeim,09/10,,75.0,Unknown 
+"Jul 1, 2015",,Free transfer,Israel,262.0,H. Petah Tikva ,112686,400 Th. €,Liroy Zhairi,15/16,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2014",,?,Israel,9095.0,Bnei Yehuda ,112686,400 Th. €,Liroy Zhairi,14/15,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2013",,?,Belgium,354.0,KV Mechelen ,112686,400 Th. €,Liroy Zhairi,13/14,Israel,9095.0,Bnei Yehuda 
+"Jun 30, 2013",,End of loan,Israel,1064.0,Maccabi Haifa ,112686,400 Th. €,Liroy Zhairi,12/13,Belgium,354.0,KV Mechelen 
+"Sep 17, 2012",,Loan,Belgium,354.0,KV Mechelen ,112686,600 Th. €,Liroy Zhairi,12/13,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2011",,?,Israel,9095.0,Bnei Yehuda ,112686,350 Th. €,Liroy Zhairi,11/12,Belgium,354.0,KV Mechelen 
+"Jul 1, 2008",,-,Israel,26690.0,Bnei Yehuda U19 ,112686,-,Liroy Zhairi,08/09,Israel,9095.0,Bnei Yehuda 
+"Feb 21, 2016",,-,Finland,515.0,Unattached ,69680,100 Th. €,Ransford Osei,15/16,,3776.0,RoPS 
+"Jul 1, 2015",,-,South Africa,21202.0,Polokwane City  ,69680,100 Th. €,Ransford Osei,15/16,,515.0,Unattached 
+"Jan 26, 2015",,-,South Africa,515.0,Unattached ,69680,100 Th. €,Ransford Osei,14/15,,21202.0,Polokwane City  
+"Dec 13, 2013",,-,Ghana,502.0,Asante Kotoko ,69680,50 Th. €,Ransford Osei,13/14,,515.0,Unattached 
+"Aug 22, 2012",,Free transfer,South Africa,8607.0,Bloemfontein C. ,69680,50 Th. €,Ransford Osei,12/13,Ghana,502.0,Asante Kotoko 
+"Jan 1, 2012",,Free transfer,Spain,21550.0,Granada CF B ,69680,-,Ransford Osei,11/12,South Africa,8607.0,Bloemfontein C. 
+"Aug 1, 2010",,?,Israel,1064.0,Maccabi Haifa ,69680,400 Th. €,Ransford Osei,10/11,Spain,21550.0,Granada CF B 
+"Jun 30, 2010",,End of loan,Netherlands,317.0,FC Twente ,69680,400 Th. €,Ransford Osei,09/10,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2009",,Loan,Israel,1064.0,Maccabi Haifa ,69680,125 Th. €,Ransford Osei,09/10,Netherlands,317.0,FC Twente 
+"Aug 1, 2008",,Free transfer,Ghana,13604.0,Kessben FC ,69680,125 Th. €,Ransford Osei,08/09,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2015",,?,Bolivia,6878.0,Bolívar ,64049,400 Th. €,Luis Gutiérrez,15/16,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2013",,?,Argentina,19806.0,Patronato ,64049,400 Th. €,Luis Gutiérrez,13/14,Bolivia,6878.0,Bolívar 
+"Aug 3, 2012",,Free transfer,Bolivia,6985.0,Oriente P. ,64049,400 Th. €,Luis Gutiérrez,12/13,Argentina,19806.0,Patronato 
+"Jun 30, 2012",,End of loan,Brazil,10010.0,Bahia ,64049,400 Th. €,Luis Gutiérrez,11/12,Bolivia,6985.0,Oriente P. 
+"Jan 1, 2012",,Loan,Bolivia,6985.0,Oriente P. ,64049,400 Th. €,Luis Gutiérrez,11/12,Brazil,10010.0,Bahia 
+"Jun 30, 2009",,End of loan,Israel,6028.0,Kiryat Shmona ,64049,400 Th. €,Luis Gutiérrez,08/09,Bolivia,6985.0,Oriente P. 
+"Jan 1, 2009",,Loan fee:37 Th. €,Bolivia,6985.0,Oriente P. ,64049,400 Th. €,Luis Gutiérrez,08/09,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2007",,Free transfer,Bolivia,8056.0,Blooming ,64049,-,Luis Gutiérrez,07/08,Bolivia,6985.0,Oriente P. 
+"Jan 1, 2004",,-,Bolivia,22636.0,Oriente U19 ,64049,-,Luis Gutiérrez,03/04,Bolivia,6985.0,Oriente P. 
+"Jul 1, 2014",,?,South Africa,2891.0,SuperSport Utd. ,38451,550 Th. €,Bevan Fransman,14/15,South Africa,8607.0,Bloemfontein C. 
+"Jul 1, 2012",,?,Israel,1017.0,Hapoel Tel Aviv ,38451,600 Th. €,Bevan Fransman,12/13,South Africa,2891.0,SuperSport Utd. 
+"Jul 1, 2010",,?,Israel,5223.0,Maccabi Netanya ,38451,350 Th. €,Bevan Fransman,10/11,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2008",,198 Th. €,South Africa,2695.0,M. Swallows ,38451,350 Th. €,Bevan Fransman,08/09,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2006",,Free transfer,South Africa,568.0,Kaizer Chiefs ,38451,-,Bevan Fransman,06/07,South Africa,2695.0,M. Swallows 
+"Jul 1, 2003",,Free transfer,Belgium,1433.0,Exc. Mouscron ,38451,-,Bevan Fransman,03/04,South Africa,568.0,Kaizer Chiefs 
+"Jul 1, 2002",,Free transfer,South Africa,11992.0,Western Province United ,38451,-,Bevan Fransman,02/03,Belgium,1433.0,Exc. Mouscron 
+"Jul 1, 2015",,?,Argentina,31284.0,Club Atlético Central Córdoba (SdE) ,21557,250 Th. €,Pablo Bastianini,15/16,Mexico,34545.0,Coras de Tepic 
+"Jul 8, 2014",,?,Argentina,13549.0,Boca Unidos ,21557,250 Th. €,Pablo Bastianini,14/15,Argentina,31284.0,Club Atlético Central Córdoba (SdE) 
+"Jul 20, 2012",,Free transfer,Argentina,19806.0,Patronato ,21557,250 Th. €,Pablo Bastianini,12/13,Argentina,13549.0,Boca Unidos 
+"Jan 1, 2012",,?,Argentina,2154.0,Chacarita Jrs ,21557,250 Th. €,Pablo Bastianini,11/12,Argentina,19806.0,Patronato 
+"Jul 1, 2011",,-,Argentina,515.0,Unattached ,21557,250 Th. €,Pablo Bastianini,11/12,,2154.0,Chacarita Jrs 
+"Apr 1, 2011",,-,Japan,3828.0,Yokohama F. M. ,21557,250 Th. €,Pablo Bastianini,10/11,,515.0,Unattached 
+"Jan 1, 2010",,?,Argentina,13549.0,Boca Unidos ,21557,300 Th. €,Pablo Bastianini,09/10,Japan,3828.0,Yokohama F. M. 
+"Aug 1, 2009",,Free transfer,Israel,262.0,H. Petah Tikva ,21557,300 Th. €,Pablo Bastianini,09/10,Argentina,13549.0,Boca Unidos 
+"Jul 1, 2008",,?,Venezuela,531.0,Caracas FC ,21557,300 Th. €,Pablo Bastianini,08/09,Israel,3785.0,M. Petah Tikva 
+"Jan 1, 2008",,?,Italy,10686.0,Celano ,21557,300 Th. €,Pablo Bastianini,07/08,Venezuela,531.0,Caracas FC 
+"Jul 1, 2007",,Free transfer,Greece,553.0,Ionikos Nikea ,21557,300 Th. €,Pablo Bastianini,07/08,Italy,10686.0,Celano 
+"Dec 1, 2006",,Free transfer,England,972.0,Yeovil Town ,21557,250 Th. €,Pablo Bastianini,06/07,Greece,553.0,Ionikos Nikea 
+"Jul 1, 2005",,Free transfer,Argentina,1826.0,Quilmes ,21557,250 Th. €,Pablo Bastianini,05/06,England,972.0,Yeovil Town 
+"Jul 1, 2003",,Free transfer,Argentina,6062.0,Defensores de Belgrano ,21557,-,Pablo Bastianini,03/04,Argentina,1826.0,Quilmes 
+"Jul 1, 2001",,Free transfer,Argentina,1234.0,Independiente ,21557,-,Pablo Bastianini,01/02,Argentina,6062.0,Defensores de Belgrano 
+"Jul 1, 1999",,Free transfer,Argentina,1030.0,Argentinos ,21557,-,Pablo Bastianini,99/00,Argentina,1234.0,Independiente 
+,,,,,,112694,,,,,,
+"Jan 1, 2014",,?,Israel,35100.0,M. Umm al-Fahm ,85047,100 Th. €,Yehuda Huta,13/14,Israel,43119.0,Hapoel Katamon 
+"Jul 1, 2013",,?,Israel,30062.0,Ness Ziona ,85047,100 Th. €,Yehuda Huta,13/14,Israel,35100.0,M. Umm al-Fahm 
+"Jul 1, 2012",,?,Israel,1017.0,Hapoel Tel Aviv ,85047,100 Th. €,Yehuda Huta,12/13,Israel,30062.0,Ness Ziona 
+"May 1, 2011",,End of loan,Israel,262.0,H. Petah Tikva ,85047,100 Th. €,Yehuda Huta,10/11,Israel,1017.0,Hapoel Tel Aviv 
+"Feb 1, 2011",,Loan,Israel,1017.0,Hapoel Tel Aviv ,85047,100 Th. €,Yehuda Huta,10/11,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2008",,-,Israel,19853.0,H. Tel Aviv U19 ,85047,-,Yehuda Huta,08/09,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2015",,?,Israel,20857.0,Hapoel Raanana ,112698,100 Th. €,Gil Blumenshtein,15/16,Israel,10763.0,Beitar TA Ramla 
+"Jan 1, 2015",,?,Israel,24026.0,Hapoel Bnei Lod ,112698,100 Th. €,Gil Blumenshtein,14/15,Israel,20857.0,Hapoel Raanana 
+"Jan 23, 2014",,?,Israel,19977.0,H. Ashkelon ,112698,100 Th. €,Gil Blumenshtein,13/14,Israel,24026.0,Hapoel Bnei Lod 
+"Jul 1, 2012",,Free transfer,Israel,31134.0,Hap R. haSharon ,112698,100 Th. €,Gil Blumenshtein,12/13,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2011",,Free transfer,Scotland,2451.0,Inverness Cal. ,112698,100 Th. €,Gil Blumenshtein,11/12,Israel,31134.0,Hap R. haSharon 
+"Jul 1, 2010",,Free transfer,Israel,2976.0,H. Beer Sheva ,112698,100 Th. €,Gil Blumenshtein,10/11,Scotland,2451.0,Inverness Cal. 
+"Jul 1, 2009",,Free transfer,Israel,3785.0,M. Petah Tikva ,112698,-,Gil Blumenshtein,09/10,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2014",,?,Israel,3785.0,M. Petah Tikva ,30781,700 Th. €,Pedro Galván,14/15,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2013",,?,Israel,9095.0,Bnei Yehuda ,30781,700 Th. €,Pedro Galván,13/14,Israel,3785.0,M. Petah Tikva 
+"Aug 1, 2011",,Free transfer,Argentina,1106.0,Gimnasia ,30781,"1,00 Mill. €",Pedro Galván,11/12,Israel,9095.0,Bnei Yehuda 
+"Jun 30, 2010",,End of loan,Israel,9095.0,Bnei Yehuda ,30781,"1,25 Mill. €",Pedro Galván,09/10,Argentina,1106.0,Gimnasia 
+"Jul 1, 2008",,Loan,Argentina,1106.0,Gimnasia ,30781,"1,30 Mill. €",Pedro Galván,08/09,Israel,9095.0,Bnei Yehuda 
+"Jun 30, 2008",,End of loan,Argentina,10511.0,San Martín ,30781,"1,30 Mill. €",Pedro Galván,07/08,Argentina,1106.0,Gimnasia 
+"Jan 1, 2008",,Loan,Argentina,1106.0,Gimnasia ,30781,-,Pedro Galván,07/08,Argentina,10511.0,San Martín 
+"Jun 30, 2007",,End of loan,Ecuador,9854.0,CD Olmedo ,30781,-,Pedro Galván,06/07,Argentina,1106.0,Gimnasia 
+"Jan 1, 2007",,Loan,Argentina,1106.0,Gimnasia ,30781,-,Pedro Galván,06/07,Ecuador,9854.0,CD Olmedo 
+"Dec 31, 2006",,End of loan,Argentina,10511.0,San Martín ,30781,-,Pedro Galván,06/07,Argentina,1106.0,Gimnasia 
+"Jan 1, 2006",,Loan,Argentina,1106.0,Gimnasia ,30781,-,Pedro Galván,05/06,Argentina,10511.0,San Martín 
+"Jan 1, 2005",,-,Argentina,15114.0,Gimnasia U19 ,30781,-,Pedro Galván,04/05,Argentina,1106.0,Gimnasia 
+"Dec 3, 2012",,-,United States,8816.0,FC Dallas	 ,37438,175 Th. €,Scott Sealy,12/13,,515.0,Unattached 
+"Feb 1, 2012",,-,United States,515.0,Unattached ,37438,175 Th. €,Scott Sealy,11/12,,8816.0,FC Dallas	 
+"Dec 1, 2011",,-,United States,218.0,Quakes ,37438,175 Th. €,Scott Sealy,11/12,,515.0,Unattached 
+"Apr 1, 2010",,?,Israel,4769.0,Bnei Sakhnin ,37438,175 Th. €,Scott Sealy,09/10,United States,218.0,Quakes 
+"Jul 1, 2009",,?,Israel,119.0,M. Tel Aviv ,37438,-,Scott Sealy,09/10,Israel,4769.0,Bnei Sakhnin 
+"Jan 1, 2009",,Free transfer,United States,218.0,Quakes ,37438,-,Scott Sealy,08/09,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2008",,Swap deal,United States,4284.0,Wizards ,37438,-,Scott Sealy,08/09,United States,218.0,Quakes 
+"Jan 1, 2005",,draft,United States,9783.0,Demon Deacons ,37438,-,Scott Sealy,04/05,United States,4284.0,Wizards 
+"Jun 30, 2016",,End of loan,Austria,409.0,RB Salzburg ,112703,"1,50 Mill. €",Omer Damari,15/16,Germany,23826.0,RB Leipzig 
+"Jul 1, 2015",,Loan,Germany,23826.0,RB Leipzig ,112703,"3,00 Mill. €",Omer Damari,15/16,Austria,409.0,RB Salzburg 
+"Jan 14, 2015",,"7,00 Mill. €",Austria,14.0,Austria Vienna ,112703,"2,50 Mill. €",Omer Damari,14/15,Germany,23826.0,RB Leipzig 
+"Jul 30, 2014",,"1,20 Mill. €",Israel,1017.0,Hapoel Tel Aviv ,112703,"1,40 Mill. €",Omer Damari,14/15,Austria,14.0,Austria Vienna 
+"Jul 3, 2011",,"1,50 Mill. €",Israel,3785.0,M. Petah Tikva ,112703,400 Th. €,Omer Damari,11/12,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2008",,-,Israel,26920.0,M. P. Tikva U19 ,112703,-,Omer Damari,08/09,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2012",,?,Israel,1017.0,Hapoel Tel Aviv ,85056,400 Th. €,Maaran Lala,12/13,Israel,810.0,Hapoel Haifa 
+"Jul 1, 2008",,?,Israel,2828.0,M. Ahi Nazareth ,85056,-,Maaran Lala,08/09,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2011",,Free transfer,Israel,22776.0,Maccabi Yavne ,85058,-,Maor Lubin,11/12,Israel,21535.0,Hakoah Amidar 
+"Dec 1, 2010",,Free transfer,Israel,7532.0,Hapoel Kfar Saba ,85058,-,Maor Lubin,10/11,Israel,22776.0,Maccabi Yavne 
+"Jul 1, 2009",,Free transfer,Israel,1017.0,Hapoel Tel Aviv ,85058,-,Maor Lubin,09/10,Israel,7532.0,Hapoel Kfar Saba 
+"Jul 1, 2008",,-,Israel,19853.0,H. Tel Aviv U19 ,85058,-,Maor Lubin,08/09,Israel,1017.0,Hapoel Tel Aviv 
+"Aug 1, 2015",,Loan,Israel,3785.0,M. Petah Tikva ,112707,75 Th. €,Tomer Elbaz,15/16,Israel,24026.0,Hapoel Bnei Lod 
+"Jul 1, 2009",,-,Israel,26920.0,M. P. Tikva U19 ,112707,-,Tomer Elbaz,09/10,Israel,3785.0,M. Petah Tikva 
+"Aug 1, 2013",,?,Israel,7532.0,Hapoel Kfar Saba ,86085,100 Th. €,Shmuel Kozokin,13/14,,75.0,Unknown 
+"Feb 1, 2013",,?,Israel,3793.0,B. Jerusalem ,86085,100 Th. €,Shmuel Kozokin,12/13,Israel,7532.0,Hapoel Kfar Saba 
+"Jul 1, 2006",,-,Israel,17373.0,Jerusalem U19 ,86085,-,Shmuel Kozokin,06/07,Israel,3793.0,B. Jerusalem 
+,,,,,,112710,,,,,,
+"Apr 12, 2013",,-,France,3911.0,Stade Brest 29 ,96327,"1,00 Mill. €",John Culma,12/13,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Israel,1064.0,Maccabi Haifa ,96327,700 Th. €,John Culma,11/12,France,3911.0,Stade Brest 29 
+"Jan 1, 2008",,Free transfer,Israel,4769.0,Bnei Sakhnin ,96327,-,John Culma,07/08,Israel,1064.0,Maccabi Haifa 
+"Aug 31, 2006",,Free transfer,Costa Rica,8602.0,Brujas FC ,96327,-,John Culma,06/07,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2005",,?,Mexico,28185.0,Cruz Azul Hid. ,96327,-,John Culma,05/06,Costa Rica,8602.0,Brujas FC 
+"Jan 1, 2004",,-,Mexico,3711.0,CD Cruz Azul ,96327,-,John Culma,03/04,Mexico,28185.0,Cruz Azul Hid. 
+"Jan 1, 2001",,Free transfer,Colombia,11648.0,Indep. Santa Fe ,96327,-,John Culma,00/01,Mexico,3711.0,CD Cruz Azul 
+"Jan 1, 1999",,-,Colombia,22896.0,ISF U19 ,96327,-,John Culma,98/99,Colombia,11648.0,Indep. Santa Fe 
+"Jul 1, 2013",,?,Israel,119.0,M. Tel Aviv ,112712,400 Th. €,Guy Haimov,13/14,Israel,6028.0,Kiryat Shmona 
+"Jun 30, 2013",,End of loan,Cyprus,2156.0,AEK Larnaca ,112712,400 Th. €,Guy Haimov,12/13,Israel,119.0,M. Tel Aviv 
+"Aug 13, 2012",,Loan,Israel,119.0,M. Tel Aviv ,112712,400 Th. €,Guy Haimov,12/13,Cyprus,2156.0,AEK Larnaca 
+"Jul 1, 2011",,?,Israel,6028.0,Kiryat Shmona ,112712,200 Th. €,Guy Haimov,11/12,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2009",,Free transfer,Israel,119.0,M. Tel Aviv ,112712,-,Guy Haimov,09/10,Israel,6028.0,Kiryat Shmona 
+,,,,,,112713,,,,,,
+"Jun 12, 2015",,-,Israel,30062.0,Ness Ziona ,96332,-,Leonid Krupnik,14/15,,123.0,End of career 
+"Jul 1, 2014",,?,Israel,35100.0,M. Umm al-Fahm ,96332,200 Th. €,Leonid Krupnik,14/15,Israel,30062.0,Ness Ziona 
+"Jul 1, 2013",,Free transfer,Israel,262.0,H. Petah Tikva ,96332,200 Th. €,Leonid Krupnik,13/14,Israel,35100.0,M. Umm al-Fahm 
+"Jan 1, 2013",,?,Israel,5223.0,Maccabi Netanya ,96332,200 Th. €,Leonid Krupnik,12/13,Israel,262.0,H. Petah Tikva 
+"Nov 1, 2009",,Free transfer,United States,623.0,NY Red Bulls ,96332,50 Th. €,Leonid Krupnik,09/10,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2009",,?,Israel,1064.0,Maccabi Haifa ,96332,-,Leonid Krupnik,09/10,United States,623.0,NY Red Bulls 
+"Jul 1, 2008",,?,Israel,4769.0,Bnei Sakhnin ,96332,-,Leonid Krupnik,08/09,Israel,1064.0,Maccabi Haifa 
+"Jan 1, 2007",,?,Israel,8907.0,Maccabi Herzliya ,96332,-,Leonid Krupnik,06/07,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2006",,?,Israel,5223.0,Maccabi Netanya ,96332,-,Leonid Krupnik,06/07,Israel,8907.0,Maccabi Herzliya 
+"Jul 1, 2005",,?,United States,4115.0,Charleston ,96332,-,Leonid Krupnik,05/06,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2003",,?,United States,16902.0,Wilmington ,96332,-,Leonid Krupnik,03/04,United States,4115.0,Charleston 
+"Jan 1, 2003",,?,United States,623.0,MetroStars ,96332,-,Leonid Krupnik,02/03,United States,16902.0,Wilmington 
+"Jul 1, 2010",,?,Israel,20857.0,Hapoel Raanana ,112717,75 Th. €,Erik Hort,10/11,Puerto Rico,33688.0,SFC Puerto Rico 
+"Jul 1, 2009",,?,Israel,119.0,M. Tel Aviv ,112717,-,Erik Hort,09/10,Israel,20857.0,Hapoel Raanana 
+"Jul 1, 2009",,Free transfer,Israel,4769.0,Bnei Sakhnin ,97872,-,Muhammad Shalaata,09/10,,75.0,Unknown 
+"Jul 7, 2015",,?,Switzerland,257.0,FC St. Gallen ,112724,500 Th. €,Nisso Kapiloto,15/16,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2014",,Free transfer,Israel,3793.0,B. Jerusalem ,112724,250 Th. €,Nisso Kapiloto,14/15,Switzerland,257.0,FC St. Gallen 
+"Jul 1, 2013",,?,Cyprus,8701.0,Alki Larnaca ,112724,250 Th. €,Nisso Kapiloto,13/14,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2012",,?,Israel,6025.0,Hapoel Acre ,112724,250 Th. €,Nisso Kapiloto,12/13,Cyprus,8701.0,Alki Larnaca 
+"Jul 1, 2011",,?,Israel,6105.0,FC Ashdod ,112724,150 Th. €,Nisso Kapiloto,11/12,Israel,6025.0,Hapoel Acre 
+"Jan 1, 2011",,?,Israel,119.0,M. Tel Aviv ,112724,150 Th. €,Nisso Kapiloto,10/11,Israel,6105.0,FC Ashdod 
+"Jul 1, 2008",,-,Israel,19856.0,M. Tel Aviv U19 ,112724,-,Nisso Kapiloto,08/09,Israel,119.0,M. Tel Aviv 
+"Jan 1, 2013",,?,Colombia,6984.0,Once Caldas ,58969,150 Th. €,Roberto Sánchez,12/13,,75.0,Unknown 
+"Jan 1, 2012",,?,Paraguay,18228.0,Club General  ,58969,150 Th. €,Roberto Sánchez,11/12,Colombia,6984.0,Once Caldas 
+"Jul 1, 2009",,Free transfer,Israel,2785.0,H. Ramat Gan ,58969,150 Th. €,Roberto Sánchez,09/10,Paraguay,18228.0,Club General  
+"Jul 1, 2008",,Free transfer,Greece,3060.0,Atromitos Athen ,58969,600 Th. €,Roberto Sánchez,08/09,Israel,2785.0,H. Ramat Gan 
+"Jul 1, 2007",,Free transfer,Spain,21940.0,FC L'Eskala ,58969,-,Roberto Sánchez,07/08,Greece,3060.0,Atromitos Athen 
+"Jun 1, 2012",,-,Cyprus,3899.0,Anor. Famagusta ,4701,-,Igor Tomasic,11/12,,123.0,End of career 
+"Jul 1, 2011",,-,Cyprus,515.0,Unattached ,4701,400 Th. €,Igor Tomasic,11/12,,3899.0,Anor. Famagusta 
+"Apr 1, 2011",,-,Greece,3391.0,AO Kavala ,4701,400 Th. €,Igor Tomasic,10/11,,515.0,Unattached 
+"Jul 1, 2010",,Free transfer,Israel,119.0,M. Tel Aviv ,4701,450 Th. €,Igor Tomasic,10/11,Greece,3391.0,AO Kavala 
+"Jul 1, 2008",,Free transfer,Bulgaria,156.0,Levski Sofia ,4701,750 Th. €,Igor Tomasic,08/09,Israel,119.0,M. Tel Aviv 
+"Jan 1, 2005",,?,Israel,2976.0,H. Beer Sheva ,4701,750 Th. €,Igor Tomasic,04/05,Bulgaria,156.0,Levski Sofia 
+"Jul 1, 2004",,Free transfer,Israel,262.0,H. Petah Tikva ,4701,-,Igor Tomasic,04/05,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2003",,?,Belgium,1184.0,KRC Genk ,4701,-,Igor Tomasic,03/04,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2002",,?,Netherlands,192.0,Roda JC ,4701,-,Igor Tomasic,02/03,Belgium,1184.0,KRC Genk 
+"Jul 1, 2001",,?,Netherlands,384.0,MVV ,4701,-,Igor Tomasic,01/02,Netherlands,192.0,Roda JC 
+"Jul 1, 1999",,?,Netherlands,192.0,Roda JC ,4701,-,Igor Tomasic,99/00,Netherlands,384.0,MVV 
+"Jul 1, 1997",,?,Croatia,419.0,Dinamo Zagreb ,4701,-,Igor Tomasic,97/98,Netherlands,192.0,Roda JC 
+"Jul 1, 1994",,?,Croatia,8007.0,HNSK Moslavina ,4701,-,Igor Tomasic,94/95,Croatia,419.0,Dinamo Zagreb 
+,,,,,,112736,,,,,,
+"Jul 1, 2015",,?,Israel,2976.0,H. Beer Sheva ,112737,400 Th. €,Dor Malul,15/16,Israel,810.0,Hapoel Haifa 
+"Jul 1, 2014",,?,Israel,3793.0,B. Jerusalem ,112737,400 Th. €,Dor Malul,14/15,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2013",,Free transfer,Belgium,566.0,Beerschot AC ,112737,400 Th. €,Dor Malul,13/14,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2012",,?,Israel,119.0,M. Tel Aviv ,112737,800 Th. €,Dor Malul,12/13,Belgium,566.0,Beerschot AC 
+"Jun 30, 2012",,End of loan,Belgium,566.0,Beerschot AC ,112737,800 Th. €,Dor Malul,11/12,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2011",,Loan,Israel,119.0,M. Tel Aviv ,112737,600 Th. €,Dor Malul,11/12,Belgium,566.0,Beerschot AC 
+"Jul 1, 2008",,-,Israel,19856.0,M. Tel Aviv U19 ,112737,-,Dor Malul,08/09,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2013",,?,Israel,24026.0,Hapoel Bnei Lod ,19042,200 Th. €,Kwabena Agouda,13/14,,75.0,Unknown 
+"Jan 1, 2011",,Free transfer,Israel,7532.0,Hapoel Kfar Saba ,19042,200 Th. €,Kwabena Agouda,10/11,Israel,24026.0,Hapoel Bnei Lod 
+"Jul 1, 2010",,Free transfer,Israel,24026.0,Hapoel Bnei Lod ,19042,200 Th. €,Kwabena Agouda,10/11,Israel,7532.0,Hapoel Kfar Saba 
+"Feb 1, 2010",,Free transfer,Israel,6028.0,Kiryat Shmona ,19042,200 Th. €,Kwabena Agouda,09/10,Israel,24026.0,Hapoel Bnei Lod 
+"Jul 1, 2009",,Free transfer,Israel,24026.0,Hapoel Bnei Lod ,19042,200 Th. €,Kwabena Agouda,09/10,Israel,19977.0,H. Ashkelon 
+"Jan 1, 2009",,Free transfer,Israel,75.0,Unknown ,19042,200 Th. €,Kwabena Agouda,08/09,,24026.0,Hapoel Bnei Lod 
+"Jan 1, 2008",,Free transfer,Switzerland,257.0,FC St. Gallen ,19042,200 Th. €,Kwabena Agouda,07/08,Israel,6028.0,Kiryat Shmona 
+"Dec 31, 2006",,End of loan,Switzerland,242.0,FC Winterthur ,19042,400 Th. €,Kwabena Agouda,06/07,Switzerland,257.0,FC St. Gallen 
+"Jul 1, 2006",,Loan,Switzerland,257.0,FC St. Gallen ,19042,400 Th. €,Kwabena Agouda,06/07,Switzerland,242.0,FC Winterthur 
+"Jul 1, 2004",,Free transfer,Ghana,23073.0,Nania FC ,19042,-,Kwabena Agouda,04/05,Switzerland,257.0,FC St. Gallen 
+"Jan 1, 2016",,?,Ghana,13603.0,Heart of Lions ,85091,500 Th. €,Samuel Yeboah,15/16,Ghana,3601.0,Hearts of Oak 
+"Jul 1, 2013",,?,Ghana,75.0,Unknown ,85091,500 Th. €,Samuel Yeboah,13/14,,13603.0,Heart of Lions 
+"Aug 27, 2012",,?,Cyprus,18945.0,Nea Salamis ,85091,500 Th. €,Samuel Yeboah,12/13,,75.0,Unknown 
+"Jan 1, 2012",,?,Israel,6105.0,FC Ashdod ,85091,900 Th. €,Samuel Yeboah,11/12,Cyprus,18945.0,Nea Salamis 
+"Sep 1, 2011",,Free transfer,Belgium,1184.0,KRC Genk ,85091,900 Th. €,Samuel Yeboah,11/12,Israel,6105.0,FC Ashdod 
+"Jun 30, 2011",,End of loan,Israel,3793.0,B. Jerusalem ,85091,900 Th. €,Samuel Yeboah,10/11,Belgium,1184.0,KRC Genk 
+"Aug 1, 2010",,Loan,Belgium,1184.0,KRC Genk ,85091,"1,20 Mill. €",Samuel Yeboah,10/11,Israel,3793.0,B. Jerusalem 
+"Jan 1, 2010",,700 Th. €,Israel,1017.0,Hapoel Tel Aviv ,85091,"1,40 Mill. €",Samuel Yeboah,09/10,Belgium,1184.0,KRC Genk 
+"Jul 1, 2008",,700 Th. €,Israel,7532.0,Hapoel Kfar Saba ,85091,-,Samuel Yeboah,08/09,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2005",,Free transfer,Moldova,2481.0,Sheriff ,85091,-,Samuel Yeboah,05/06,Israel,7532.0,Hapoel Kfar Saba 
+"Jul 1, 2004",,Free transfer,Ghana,13603.0,Heart of Lions ,85091,-,Samuel Yeboah,04/05,Moldova,2481.0,Sheriff 
+"Jul 1, 2002",,-,Ghana,12604.0,Own Youth ,85091,-,Samuel Yeboah,02/03,,13603.0,Heart of Lions 
+"Jan 21, 2013",,250 Th. €,Italy,458.0,US Palermo ,85093,"1,50 Mill. €",Eran Zahavi,12/13,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2011",,"1,68 Mill. €",Israel,1017.0,Hapoel Tel Aviv ,85093,"1,00 Mill. €",Eran Zahavi,11/12,Italy,458.0,US Palermo 
+"Jun 30, 2008",,End of loan,Israel,31134.0,Hap R. haSharon ,85093,-,Eran Zahavi,07/08,Israel,1017.0,Hapoel Tel Aviv 
+"Jan 1, 2007",,Loan,Israel,1017.0,Hapoel Tel Aviv ,85093,-,Eran Zahavi,06/07,Israel,31134.0,Hap R. haSharon 
+"Jul 1, 2006",,-,Israel,19853.0,H. Tel Aviv U19 ,85093,-,Eran Zahavi,06/07,Israel,1017.0,Hapoel Tel Aviv 
+"Jun 30, 2015",,End of loan,Israel,6028.0,Kiryat Shmona ,200299,750 Th. €,Shimon Abuhatzira,14/15,Israel,1064.0,Maccabi Haifa 
+"Feb 2, 2015",,Loan,Israel,1064.0,Maccabi Haifa ,200299,900 Th. €,Shimon Abuhatzira,14/15,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2013",,700 Th. €,Israel,6028.0,Kiryat Shmona ,200299,750 Th. €,Shimon Abuhatzira,13/14,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2011",,Free transfer,Greece,4603.0,AE Larisa ,200299,-,Shimon Abuhatzira,11/12,Israel,6028.0,Kiryat Shmona 
+"Jun 30, 2011",,End of loan,Israel,6028.0,Kiryat Shmona ,200299,-,Shimon Abuhatzira,10/11,Greece,4603.0,AE Larisa 
+"Jan 1, 2011",,Loan,Greece,4603.0,AE Larisa ,200299,-,Shimon Abuhatzira,10/11,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2009",,180 Th. €,Israel,262.0,H. Petah Tikva ,200299,-,Shimon Abuhatzira,09/10,Greece,4603.0,AE Larisa 
+"Jul 1, 2006",,-,Israel,26931.0,Hapoel PT U19 ,200299,-,Shimon Abuhatzira,06/07,Israel,262.0,H. Petah Tikva 
+"Jan 30, 2016",,-,Greece,4602.0,Olymp. Volos ,31340,200 Th. €,Darío Fernández,15/16,,515.0,Unattached 
+"Jul 26, 2015",,Free transfer,Israel,35110.0,Hapoel Afula ,31340,200 Th. €,Darío Fernández,15/16,Greece,4602.0,Olymp. Volos 
+"Oct 1, 2014",,?,Israel,810.0,Hapoel Haifa ,31340,200 Th. €,Darío Fernández,14/15,Israel,35110.0,Hapoel Afula 
+"Jul 1, 2013",,?,Israel,3793.0,B. Jerusalem ,31340,200 Th. €,Darío Fernández,13/14,Israel,810.0,Hapoel Haifa 
+"Jan 1, 2012",,-,Israel,515.0,Unattached ,31340,600 Th. €,Darío Fernández,11/12,,3793.0,B. Jerusalem 
+"Oct 1, 2011",,-,Cyprus,8701.0,Alki Larnaca ,31340,600 Th. €,Darío Fernández,11/12,,515.0,Unattached 
+"Jan 1, 2011",,?,Israel,3793.0,B. Jerusalem ,31340,"1,00 Mill. €",Darío Fernández,10/11,Cyprus,8701.0,Alki Larnaca 
+"Jun 30, 2010",,End of loan,Greece,605.0,Aris Saloniki ,31340,"1,50 Mill. €",Darío Fernández,09/10,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2009",,Loan fee:150 Th. €,Israel,3793.0,B. Jerusalem ,31340,"1,50 Mill. €",Darío Fernández,09/10,Greece,605.0,Aris Saloniki 
+"Jul 1, 2008",,850 Th. €,Greece,169.0,Panionios ,31340,500 Th. €,Darío Fernández,08/09,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2005",,390 Th. €,Argentina,2154.0,Chacarita Jrs ,31340,-,Darío Fernández,05/06,Greece,169.0,Panionios 
+"Jan 1, 2005",,?,Argentina,12574.0,Godoy Cruz ,31340,-,Darío Fernández,04/05,Argentina,2154.0,Chacarita Jrs 
+"Jul 1, 2004",,?,Chile,9103.0,Cobreloa ,31340,-,Darío Fernández,04/05,Argentina,12574.0,Godoy Cruz 
+"Jan 1, 2004",,?,Argentina,1826.0,Quilmes ,31340,-,Darío Fernández,03/04,Chile,9103.0,Cobreloa 
+"Jul 1, 2002",,?,Argentina,7468.0,Olimpo ,31340,-,Darío Fernández,02/03,Argentina,1826.0,Quilmes 
+"Jul 1, 2001",,?,Argentina,12179.0,Ind. Rivadavia ,31340,-,Darío Fernández,01/02,Argentina,7468.0,Olimpo 
+"Jul 1, 2000",,?,Argentina,26085.0,Punta Alta ,31340,-,Darío Fernández,00/01,Argentina,12179.0,Ind. Rivadavia 
+"Feb 3, 2016",,?,Israel,3793.0,B. Jerusalem ,112751,300 Th. €,Dani Freda,15/16,Israel,24026.0,Hapoel Bnei Lod 
+"Jan 1, 2014",,?,Israel,3785.0,M. Petah Tikva ,112751,150 Th. €,Dani Freda,13/14,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2007",,-,Israel,26920.0,M. P. Tikva U19 ,112751,-,Dani Freda,07/08,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2010",,Free transfer,Israel,4769.0,Bnei Sakhnin ,79985,50 Th. €,Ibrahim Abo Saleh,10/11,,75.0,Unknown 
+"Jul 1, 2009",,?,Israel,75.0,Unknown ,79985,-,Ibrahim Abo Saleh,09/10,,4769.0,Bnei Sakhnin 
+"Jul 1, 2015",,?,Israel,2828.0,M. Ahi Nazareth ,79986,50 Th. €,Omri Alon,15/16,Israel,43131.0,Kiryat Ata 
+"Jul 1, 2013",,?,Israel,3785.0,M. Petah Tikva ,79986,50 Th. €,Omri Alon,13/14,Israel,2828.0,M. Ahi Nazareth 
+"Jul 1, 2012",,?,Israel,2785.0,H. Ramat Gan ,79986,50 Th. €,Omri Alon,12/13,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2010",,Free transfer,Israel,810.0,Hapoel Haifa ,79986,50 Th. €,Omri Alon,10/11,Israel,2785.0,H. Ramat Gan 
+"Aug 1, 2009",,Free transfer,Israel,4769.0,Bnei Sakhnin ,79986,-,Omri Alon,09/10,Israel,810.0,Hapoel Haifa 
+"Jul 1, 2010",,-,Israel,4769.0,Bnei Sakhnin ,79987,-,Haim Benon,10/11,,123.0,End of career 
+"Aug 1, 2007",,?,Israel,7000.0,Hap Nazareth I. ,79987,-,Haim Benon,07/08,Israel,4769.0,Bnei Sakhnin 
+"Aug 1, 2001",,?,Israel,75.0,Unknown ,79987,-,Haim Benon,01/02,,7000.0,Hap Nazareth I. 
+"Feb 3, 2016",,?,Israel,10763.0,Beitar TA Ramla ,112758,-,Dor Avinu,15/16,Israel,25909.0,Mac. Kiryat Gat 
+"Jul 1, 2014",,-,Israel,44343.0,B. TA Ramla U19 ,112758,-,Dor Avinu,14/15,Israel,10763.0,Beitar TA Ramla 
+"Jul 1, 2010",,Free transfer,Israel,4769.0,Bnei Sakhnin ,79992,50 Th. €,Hilal Khalaila,10/11,,75.0,Unknown 
+"Jul 1, 2008",,-,Israel,18073.0,B. Sakhnin U19 ,79992,-,Hilal Khalaila,08/09,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2014",,?,Israel,2785.0,H. Ramat Gan ,79993,275 Th. €,Yaniv Luzon,14/15,Israel,51934.0,H. Hod haSharon 
+"Jul 1, 2013",,?,Israel,262.0,H. Petah Tikva ,79993,275 Th. €,Yaniv Luzon,13/14,Israel,2785.0,H. Ramat Gan 
+"Jan 1, 2011",,?,Israel,4769.0,Bnei Sakhnin ,79993,275 Th. €,Yaniv Luzon,10/11,Israel,262.0,H. Petah Tikva 
+"Aug 1, 2010",,End of loan,Israel,2828.0,M. Ahi Nazareth ,79993,275 Th. €,Yaniv Luzon,10/11,Israel,4769.0,Bnei Sakhnin 
+"Aug 1, 2009",,Loan,Israel,4769.0,Bnei Sakhnin ,79993,-,Yaniv Luzon,09/10,Israel,2828.0,M. Ahi Nazareth 
+"Jul 1, 2008",,50 Th. €,Israel,262.0,H. Petah Tikva ,79993,-,Yaniv Luzon,08/09,Israel,4769.0,Bnei Sakhnin 
+"Jan 1, 2015",,?,Israel,5223.0,Maccabi Netanya ,96381,300 Th. €,Omri Kende,14/15,Israel,17580.0,H. Jerusalem 
+"Jul 1, 2014",,?,Israel,810.0,Hapoel Haifa ,96381,300 Th. €,Omri Kende,14/15,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2013",,-,Israel,515.0,Unattached ,96381,300 Th. €,Omri Kende,13/14,,810.0,Hapoel Haifa 
+"Jan 1, 2013",,-,Romania,13499.0,Astra Ploiesti ,96381,300 Th. €,Omri Kende,12/13,,515.0,Unattached 
+"Oct 3, 2012",,Free transfer,Israel,1017.0,Hapoel Tel Aviv ,96381,500 Th. €,Omri Kende,12/13,Romania,13499.0,Astra Ploiesti 
+"Jul 1, 2007",,?,Israel,262.0,H. Petah Tikva ,96381,-,Omri Kende,07/08,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2004",,-,Israel,26931.0,Hapoel PT U19 ,96381,-,Omri Kende,04/05,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2015",,?,Israel,5223.0,Maccabi Netanya ,96382,600 Th. €,Ariel Harush,15/16,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2014",,?,Israel,3793.0,B. Jerusalem ,96382,500 Th. €,Ariel Harush,14/15,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2007",,-,Israel,17373.0,Jerusalem U19 ,96382,-,Ariel Harush,07/08,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2009",,Free transfer,Israel,4769.0,Bnei Sakhnin ,79999,-,Mosa Sha´ban,09/10,,75.0,Unknown 
+"Jan 1, 2016",,-,Israel,515.0,Unattached ,80000,350 Th. €,Paty Yeye Lenkebe,15/16,,2828.0,M. Ahi Nazareth 
+"Jul 1, 2015",,-,Israel,6105.0,FC Ashdod ,80000,350 Th. €,Paty Yeye Lenkebe,15/16,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Israel,4769.0,Bnei Sakhnin ,80000,250 Th. €,Paty Yeye Lenkebe,11/12,Israel,6105.0,FC Ashdod 
+"Jul 1, 2007",,?,Israel,8907.0,Maccabi Herzliya ,80000,-,Paty Yeye Lenkebe,07/08,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2006",,?,Congo DR,2225.0,AS Vita Club ,80000,-,Paty Yeye Lenkebe,06/07,Israel,8907.0,Maccabi Herzliya 
+"Jul 1, 2014",,-,Israel,6032.0,Hapoel Sachnin ,80001,50 Th. €,Emad Badarna,14/15,,515.0,Unattached 
+"Jan 1, 2012",,?,Israel,75.0,Unknown ,80001,50 Th. €,Emad Badarna,11/12,,6032.0,Hapoel Sachnin 
+"Aug 1, 2011",,?,Israel,31776.0,Ahva Arraba FC ,80001,50 Th. €,Emad Badarna,11/12,,75.0,Unknown 
+"Feb 1, 2011",,?,Israel,4769.0,Bnei Sakhnin ,80001,50 Th. €,Emad Badarna,10/11,Israel,31776.0,Ahva Arraba FC 
+"Jul 1, 2009",,-,Israel,18073.0,B. Sakhnin U19 ,80001,-,Emad Badarna,09/10,Israel,4769.0,Bnei Sakhnin 
+"Jan 31, 2014",,-,Israel,515.0,Unattached ,96386,200 Th. €,Matan Barashi,13/14,,43119.0,Hapoel Katamon 
+"Nov 5, 2013",,-,Israel,3793.0,B. Jerusalem ,96386,200 Th. €,Matan Barashi,13/14,,515.0,Unattached 
+"Jul 1, 2011",,?,Israel,3793.0,B. Jerusalem ,96388,50 Th. €,Tal Elmishaly,11/12,,75.0,Unknown 
+"Jul 1, 2010",,Free transfer,Israel,7532.0,Hapoel Kfar Saba ,96388,50 Th. €,Tal Elmishaly,10/11,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2009",,Free transfer,Israel,3793.0,B. Jerusalem ,96388,-,Tal Elmishaly,09/10,Israel,7532.0,Hapoel Kfar Saba 
+"Jan 1, 2014",,?,Ghana,35141.0,New Edubiase ,80005,-,Bernard Dong-Bortey,13/14,Equatorial Guinea,35244.0,The Panthers FC 
+"Jul 1, 2013",,?,Vietnam,32018.0,Song Lam ,80005,-,Bernard Dong-Bortey,13/14,Ghana,35141.0,New Edubiase 
+"Mar 1, 2012",,?,Ghana,28374.0,Aduana Stars ,80005,-,Bernard Dong-Bortey,11/12,Vietnam,32018.0,Song Lam 
+"Jul 1, 2010",,?,Ghana,3601.0,Hearts of Oak ,80005,-,Bernard Dong-Bortey,10/11,Ghana,28374.0,Aduana Stars 
+"Nov 1, 2008",,End of loan,Israel,4769.0,Bnei Sakhnin ,80005,-,Bernard Dong-Bortey,08/09,Ghana,3601.0,Hearts of Oak 
+"Jul 1, 2008",,Loan,Ghana,3601.0,Hearts of Oak ,80005,-,Bernard Dong-Bortey,08/09,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2010",,?,Italy,13562.0,Savona ,80006,-,Santiago Sogno,10/11,Italy,19109.0,AC Mezzocorona 
+"Jul 1, 2009",,?,Italy,22274.0,Valle d'Aosta ,80006,-,Santiago Sogno,09/10,Italy,13562.0,Savona 
+"Jun 30, 2016",,End of loan,Israel,119.0,M. Tel Aviv ,96391,200 Th. €,Daniel Lifshitz,15/16,Israel,20857.0,Hapoel Raanana 
+"Aug 29, 2015",,Loan,Israel,20857.0,Hapoel Raanana ,96391,150 Th. €,Daniel Lifshitz,15/16,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2014",,?,Israel,8907.0,Maccabi Herzliya ,96391,75 Th. €,Daniel Lifshitz,14/15,Israel,20857.0,Hapoel Raanana 
+"Feb 1, 2014",,?,Israel,21535.0,Hakoah Amidar ,96391,75 Th. €,Daniel Lifshitz,13/14,Israel,8907.0,Maccabi Herzliya 
+"Jul 1, 2013",,Free transfer,Israel,19977.0,H. Ashkelon ,96391,75 Th. €,Daniel Lifshitz,13/14,Israel,21535.0,Hakoah Amidar 
+"Jan 1, 2013",,?,Israel,35100.0,M. Umm al-Fahm ,96391,75 Th. €,Daniel Lifshitz,12/13,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2012",,Free transfer,Israel,2976.0,H. Beer Sheva ,96391,75 Th. €,Daniel Lifshitz,12/13,Israel,35100.0,M. Umm al-Fahm 
+"Jan 1, 2011",,Free transfer,Israel,2828.0,M. Ahi Nazareth ,96391,200 Th. €,Daniel Lifshitz,10/11,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2010",,?,Israel,5223.0,Maccabi Netanya ,96391,200 Th. €,Daniel Lifshitz,10/11,Israel,2828.0,M. Ahi Nazareth 
+"Jul 1, 2008",,-,Israel,21431.0,M. Netanya U19 ,96391,-,Daniel Lifshitz,08/09,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2015",,?,Israel,42683.0,Mac K. Jaffa ,96392,300 Th. €,Tal Maabi,15/16,Israel,51835.0,Betar Kfar Saba 
+"Jul 1, 2014",,?,Israel,2785.0,H. Ramat Gan ,96392,300 Th. €,Tal Maabi,14/15,Israel,42683.0,Mac K. Jaffa 
+"Jul 9, 2012",,?,Israel,3785.0,M. Petah Tikva ,96392,300 Th. €,Tal Maabi,12/13,Israel,2785.0,H. Ramat Gan 
+"Jul 1, 2011",,?,Israel,5223.0,Maccabi Netanya ,96392,300 Th. €,Tal Maabi,11/12,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2007",,?,Israel,19977.0,H. Ashkelon ,96392,-,Tal Maabi,07/08,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2006",,?,Israel,8907.0,Maccabi Herzliya ,96392,-,Tal Maabi,06/07,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2005",,?,Israel,1064.0,Maccabi Haifa ,96392,-,Tal Maabi,05/06,Israel,8907.0,Maccabi Herzliya 
+"Jul 1, 2004",,-,Israel,18072.0,M. Haifa U19 ,96392,-,Tal Maabi,04/05,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2014",,-,Israel,5223.0,Maccabi Netanya ,96393,250 Th. €,Shalev Menashe,14/15,,515.0,Unattached 
+"Jul 1, 2013",,?,Israel,9095.0,Bnei Yehuda ,96393,250 Th. €,Shalev Menashe,13/14,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2010",,?,Israel,5223.0,Maccabi Netanya ,96393,300 Th. €,Shalev Menashe,10/11,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2008",,?,Israel,75.0,Unknown ,96393,-,Shalev Menashe,08/09,,5223.0,Maccabi Netanya 
+"Jan 1, 2011",,-,Israel,515.0,Unattached ,96394,50 Th. €,Shlomi Moshe,10/11,,25909.0,Mac. Kiryat Gat 
+"Jul 1, 2010",,-,Israel,27135.0,Ironi Bat Yam ,96394,50 Th. €,Shlomi Moshe,10/11,,515.0,Unattached 
+"Jul 1, 2009",,?,Israel,29484.0,H. Umm alFahm ,96394,-,Shlomi Moshe,09/10,Israel,27135.0,Ironi Bat Yam 
+"Jul 1, 2008",,?,Israel,19977.0,H. Ashkelon ,96394,-,Shlomi Moshe,08/09,Israel,29484.0,H. Umm alFahm 
+"Feb 1, 2008",,?,Israel,262.0,H. Petah Tikva ,96394,-,Shlomi Moshe,07/08,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2007",,?,Israel,810.0,Hapoel Haifa ,96394,-,Shlomi Moshe,07/08,Israel,262.0,H. Petah Tikva 
+,,,,,,75403,,,,,,
+"Jul 1, 2015",,?,Israel,51935.0,Shikhun hMizrah ,96396,250 Th. €,Elnatan Salami,15/16,Israel,51835.0,Betar Kfar Saba 
+"Jul 1, 2014",,?,Israel,35110.0,Hapoel Afula ,96396,250 Th. €,Elnatan Salami,14/15,Israel,51935.0,Shikhun hMizrah 
+"Jul 1, 2013",,?,Israel,10763.0,Beitar TA Ramla ,96396,250 Th. €,Elnatan Salami,13/14,Israel,35110.0,Hapoel Afula 
+"Jan 1, 2013",,?,Israel,6025.0,Hapoel Acre ,96396,250 Th. €,Elnatan Salami,12/13,Israel,10763.0,Beitar TA Ramla 
+"Jul 1, 2012",,?,Israel,2828.0,M. Ahi Nazareth ,96396,250 Th. €,Elnatan Salami,12/13,Israel,6025.0,Hapoel Acre 
+"Jul 1, 2011",,Free transfer,Israel,30062.0,Ness Ziona ,96396,250 Th. €,Elnatan Salami,11/12,Israel,2828.0,M. Ahi Nazareth 
+"Jul 1, 2010",,Free transfer,Israel,262.0,H. Petah Tikva ,96396,250 Th. €,Elnatan Salami,10/11,Israel,30062.0,Ness Ziona 
+"Jul 1, 2009",,?,Israel,5223.0,Maccabi Netanya ,96396,-,Elnatan Salami,09/10,Israel,262.0,H. Petah Tikva 
+"Jun 30, 2009",,End of loan,Israel,7532.0,Hapoel Kfar Saba ,96396,-,Elnatan Salami,08/09,Israel,5223.0,Maccabi Netanya 
+"Jan 1, 2009",,Loan,Israel,5223.0,Maccabi Netanya ,96396,-,Elnatan Salami,08/09,Israel,7532.0,Hapoel Kfar Saba 
+"Jul 1, 2012",,Free transfer,Israel,30062.0,Ness Ziona ,96397,-,Maoz Samia,12/13,Israel,17580.0,H. Jerusalem 
+"Aug 1, 2010",,Free transfer,Israel,5223.0,Maccabi Netanya ,96397,-,Maoz Samia,10/11,Israel,30062.0,Ness Ziona 
+"Jun 30, 2010",,End of loan,Israel,7532.0,Hapoel Kfar Saba ,96397,-,Maoz Samia,09/10,Israel,5223.0,Maccabi Netanya 
+"Aug 1, 2009",,Loan,Israel,5223.0,Maccabi Netanya ,96397,-,Maoz Samia,09/10,Israel,7532.0,Hapoel Kfar Saba 
+"Jul 1, 2007",,?,Israel,262.0,H. Petah Tikva ,96397,-,Maoz Samia,07/08,Israel,5223.0,Maccabi Netanya 
+"Mar 25, 2016",,-,United States,515.0,Unattached ,96398,750 Th. €,Idan Vered,15/16,,39151.0,Ottawa Fury 
+"Feb 23, 2016",,-,Serbia,159.0,Red Star ,96398,750 Th. €,Idan Vered,15/16,,515.0,Unattached 
+"Jul 1, 2015",,Free transfer,Israel,1064.0,Maccabi Haifa ,96398,750 Th. €,Idan Vered,15/16,Serbia,159.0,Red Star 
+"Jul 1, 2010",,900 Th. €,Israel,3793.0,B. Jerusalem ,96398,350 Th. €,Idan Vered,10/11,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2007",,-,Israel,17373.0,Jerusalem U19 ,96398,-,Idan Vered,07/08,Israel,3793.0,B. Jerusalem 
+"Aug 1, 2014",,?,Israel,43119.0,Hapoel Katamon ,96399,50 Th. €,Alon Weisberg,14/15,Israel,42683.0,Mac K. Jaffa 
+"Jul 1, 2012",,Free transfer,Ukraine,16296.0,Krymteplitsa ,96399,50 Th. €,Alon Weisberg,12/13,Israel,43119.0,Hapoel Katamon 
+"Jul 1, 2011",,?,Israel,5223.0,Maccabi Netanya ,96399,50 Th. €,Alon Weisberg,11/12,Ukraine,16296.0,Krymteplitsa 
+"Jun 30, 2011",,End of loan,Israel,32234.0,Hapoel Herzliya ,96399,50 Th. €,Alon Weisberg,10/11,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2010",,Loan,Israel,5223.0,Maccabi Netanya ,96399,50 Th. €,Alon Weisberg,10/11,Israel,32234.0,Hapoel Herzliya 
+"Jun 30, 2009",,End of loan,Israel,2785.0,H. Ramat Gan ,96399,-,Alon Weisberg,08/09,Israel,5223.0,Maccabi Netanya 
+"Jan 1, 2009",,Loan,Israel,5223.0,Maccabi Netanya ,96399,-,Alon Weisberg,08/09,Israel,2785.0,H. Ramat Gan 
+"Jan 1, 2016",,?,Argentina,12709.0,San Martín (T) ,84626,100 Th. €,Carlos Alberto Chacana,15/16,Israel,51820.0,Hap Kfar Shalem 
+"Jul 1, 2014",,?,Israel,19977.0,H. Ashkelon ,84626,100 Th. €,Carlos Alberto Chacana,14/15,Argentina,12709.0,San Martín (T) 
+"Jul 1, 2013",,?,Israel,2785.0,H. Ramat Gan ,84626,100 Th. €,Carlos Alberto Chacana,13/14,Israel,19977.0,H. Ashkelon 
+"Jan 1, 2009",,Free transfer,Slovenia,710.0,NK Celje  ,84626,200 Th. €,Carlos Alberto Chacana,08/09,Israel,2785.0,H. Ramat Gan 
+"Aug 1, 2008",,Free transfer,Israel,2785.0,H. Ramat Gan ,84626,-,Carlos Alberto Chacana,08/09,Slovenia,710.0,NK Celje  
+"Jul 1, 2006",,?,Israel,6028.0,Kiryat Shmona ,84626,-,Carlos Alberto Chacana,06/07,Israel,2785.0,H. Ramat Gan 
+"Jan 1, 2006",,?,Israel,7532.0,Hapoel Kfar Saba ,84626,-,Carlos Alberto Chacana,05/06,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2005",,?,Israel,19977.0,H. Ashkelon ,84626,-,Carlos Alberto Chacana,05/06,Israel,7532.0,Hapoel Kfar Saba 
+"Jul 1, 2004",,?,Israel,7000.0,Hap Nazareth I. ,84626,-,Carlos Alberto Chacana,04/05,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2003",,?,Kuwait,15481.0,Al-Arabi SC ,84626,-,Carlos Alberto Chacana,03/04,Israel,7000.0,Hap Nazareth I. 
+"Jan 1, 2003",,?,Argentina,1826.0,Quilmes ,84626,-,Carlos Alberto Chacana,02/03,Kuwait,15481.0,Al-Arabi SC 
+"Jul 1, 2002",,?,Argentina,209.0,River Plate ,84626,-,Carlos Alberto Chacana,02/03,Argentina,1826.0,Quilmes 
+"Jul 1, 2001",,?,Argentina,12709.0,San Martín (T) ,84626,-,Carlos Alberto Chacana,01/02,Argentina,209.0,River Plate 
+"Jan 1, 1997",,-,Argentina,19485.0,San Martin U19 ,84626,-,Carlos Alberto Chacana,96/97,Argentina,12709.0,San Martín (T) 
+"Jul 1, 2009",,Free transfer,Israel,4769.0,Bnei Sakhnin ,80022,-,Muhamad Raija,09/10,,75.0,Unknown 
+"Jan 9, 2016",,Free transfer,Norway,2961.0,Moss FK ,27288,50 Th. €,Dulee Johnson,15/16,Norway,687.0,Molde FK 
+"Sep 2, 2015",,Free transfer,Romania,33966.0,CSMS Iasi ,27288,50 Th. €,Dulee Johnson,15/16,Norway,2961.0,Moss FK 
+"Jul 1, 2014",,Free transfer,Romania,31304.0,Sageata Navodar ,27288,400 Th. €,Dulee Johnson,14/15,Romania,33966.0,CSMS Iasi 
+"Feb 11, 2014",,Free transfer,Sweden,3362.0,IK Brage ,27288,200 Th. €,Dulee Johnson,13/14,Romania,31304.0,Sageata Navodar 
+"Jan 1, 2013",,Free transfer,South Africa,9370.0,AmaZulu FC ,27288,250 Th. €,Dulee Johnson,12/13,Sweden,3362.0,IK Brage 
+"Jul 16, 2012",,-,South Africa,515.0,Unattached ,27288,250 Th. €,Dulee Johnson,12/13,,9370.0,AmaZulu FC 
+"Oct 1, 2011",,-,Netherlands,642.0,De Graafschap ,27288,250 Th. €,Dulee Johnson,11/12,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Greece,6418.0,Panetolikos ,27288,250 Th. €,Dulee Johnson,11/12,Netherlands,642.0,De Graafschap 
+"Dec 1, 2010",,Free transfer,Sweden,272.0,AIK Solna ,27288,500 Th. €,Dulee Johnson,10/11,Greece,6418.0,Panetolikos 
+"Jul 1, 2009",,Free transfer,Israel,119.0,M. Tel Aviv ,27288,"2,00 Mill. €",Dulee Johnson,09/10,Sweden,272.0,AIK Solna 
+"Jul 1, 2008",,Free transfer,Sweden,272.0,AIK Solna ,27288,"3,00 Mill. €",Dulee Johnson,08/09,Israel,119.0,M. Tel Aviv 
+"Feb 1, 2006",,Free transfer,Sweden,1109.0,BK Häcken ,27288,-,Dulee Johnson,05/06,Sweden,272.0,AIK Solna 
+"Jul 1, 2001",,Free transfer,Sweden,9121.0,Floda BoIF ,27288,-,Dulee Johnson,01/02,Sweden,1109.0,BK Häcken 
+"Jul 1, 2015",,?,Colombia,32040.0,Uniautónoma ,74415,250 Th. €,Iván Garrido,15/16,El Salvador,14078.0,Alianza FC 
+"Jan 1, 2015",,?,Colombia,14583.0,Atlético Huila ,74415,250 Th. €,Iván Garrido,14/15,Colombia,32040.0,Uniautónoma 
+"Jul 1, 2012",,Free transfer,Israel,2976.0,H. Beer Sheva ,74415,350 Th. €,Iván Garrido,12/13,Colombia,14583.0,Atlético Huila 
+"Oct 1, 2011",,?,Israel,9095.0,Bnei Yehuda ,74415,350 Th. €,Iván Garrido,11/12,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2008",,Free transfer,Colombia,6495.0,A. Bucaramanga ,74415,-,Iván Garrido,08/09,Israel,9095.0,Bnei Yehuda 
+"Jan 1, 2007",,Free transfer,Colombia,11648.0,Indep. Santa Fe ,74415,-,Iván Garrido,06/07,Colombia,6495.0,A. Bucaramanga 
+"Jan 1, 2006",,Free transfer,Colombia,6495.0,A. Bucaramanga ,74415,-,Iván Garrido,05/06,Colombia,11648.0,Indep. Santa Fe 
+"Jan 1, 2001",,-,Colombia,19981.0,Bucaramanga U19 ,74415,-,Iván Garrido,00/01,Colombia,6495.0,A. Bucaramanga 
+"Jan 1, 2010",,Free transfer,Israel,2785.0,H. Ramat Gan ,22720,-,William,09/10,Israel,2976.0,H. Beer Sheva 
+"Aug 1, 2007",,?,Portugal,1075.0,Braga ,22720,-,William,07/08,Israel,2785.0,H. Ramat Gan 
+"Jun 30, 2007",,End of loan,Portugal,2424.0,Gil Vicente ,22720,-,William,06/07,Portugal,1075.0,Braga 
+"Jul 1, 2006",,Loan,Portugal,1075.0,Braga ,22720,-,William,06/07,Portugal,2424.0,Gil Vicente 
+"Aug 1, 2005",,?,Portugal,2990.0,Coimbra ,22720,-,William,05/06,Portugal,1075.0,Braga 
+"Jun 30, 2005",,End of loan,Portugal,6987.0,Fátima ,22720,-,William,04/05,Portugal,2990.0,Coimbra 
+"Jan 1, 2005",,Loan,Portugal,2990.0,Coimbra ,22720,-,William,04/05,Portugal,6987.0,Fátima 
+"Jul 1, 2004",,?,Brazil,7535.0,EC São José ,22720,-,William,04/05,Portugal,2990.0,Coimbra 
+"Jan 1, 2011",,?,Panama,18952.0,Chorrillo FC ,29891,-,Alberto Blanco,10/11,,75.0,Unknown 
+"Jul 1, 2010",,?,Panama,11698.0,San Francisco ,29891,-,Alberto Blanco,10/11,Panama,18952.0,Chorrillo FC 
+"Jun 30, 2009",,End of loan,Israel,5223.0,Maccabi Netanya ,29891,-,Alberto Blanco,08/09,Panama,11698.0,San Francisco 
+"Jan 1, 2009",,Loan,Panama,11698.0,San Francisco ,29891,-,Alberto Blanco,08/09,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2008",,?,Colombia,11854.0,Atlético Junior ,29891,-,Alberto Blanco,08/09,Panama,11698.0,San Francisco 
+"Jan 1, 2008",,?,Panama,11698.0,San Francisco ,29891,-,Alberto Blanco,07/08,Colombia,11854.0,Atlético Junior 
+"Jul 1, 2007",,?,Panama,20960.0,Plaza Amador ,29891,-,Alberto Blanco,07/08,Panama,11698.0,San Francisco 
+"Jan 1, 2007",,?,United Arab Emirates,5432.0,Al-Nasr ,29891,-,Alberto Blanco,06/07,Panama,20960.0,Plaza Amador 
+"Jul 1, 2006",,?,United Arab Emirates,2150.0,Al-Ain FC ,29891,-,Alberto Blanco,06/07,United Arab Emirates,5432.0,Al-Nasr 
+"Jul 1, 2005",,?,Russia,2703.0,Spartak V-kavkaz ,29891,-,Alberto Blanco,05/06,United Arab Emirates,2150.0,Al-Ain FC 
+"Jan 1, 2005",,?,Moldova,2481.0,Sheriff ,29891,-,Alberto Blanco,04/05,Russia,2703.0,Spartak V-kavkaz 
+"Jul 1, 2001",,?,Panama,11698.0,San Francisco ,29891,-,Alberto Blanco,01/02,Moldova,2481.0,Sheriff 
+"Jul 1, 2014",,-,Israel,20857.0,Hapoel Raanana ,112760,-,Guy Solomon,14/15,,123.0,End of career 
+"Jul 1, 2013",,?,Israel,2785.0,H. Ramat Gan ,112760,50 Th. €,Guy Solomon,13/14,Israel,20857.0,Hapoel Raanana 
+"Jul 1, 2012",,-,Israel,119.0,M. Tel Aviv ,112760,50 Th. €,Guy Solomon,12/13,Israel,2785.0,H. Ramat Gan 
+"Jul 1, 2006",,?,Israel,3793.0,B. Jerusalem ,112760,-,Guy Solomon,06/07,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2004",,?,Israel,5223.0,Maccabi Netanya ,112760,-,Guy Solomon,04/05,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2002",,?,Israel,8907.0,Maccabi Herzliya ,112760,-,Guy Solomon,02/03,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 1998",,?,Israel,119.0,M. Tel Aviv ,112760,-,Guy Solomon,98/99,Israel,8907.0,Maccabi Herzliya 
+"Jul 1, 1997",,-,Israel,19856.0,M. Tel Aviv U19 ,112760,-,Guy Solomon,97/98,Israel,119.0,M. Tel Aviv 
+,,,,,,113375,,,,,,
+"Jul 1, 2012",,?,Tunisia,4812.0,Stade Tunisien ,23264,50 Th. €,Dionísio,12/13,,75.0,Unknown 
+"Jan 1, 2012",,?,Portugal,2432.0,Torreense ,23264,50 Th. €,Dionísio,11/12,Tunisia,4812.0,Stade Tunisien 
+"Jul 1, 2010",,Free transfer,Portugal,6987.0,Fátima ,23264,50 Th. €,Dionísio,10/11,Portugal,2432.0,Torreense 
+"Nov 1, 2009",,-,Portugal,515.0,Unattached ,23264,-,Dionísio,09/10,,6987.0,Fátima 
+"Jul 1, 2009",,-,Israel,4769.0,Bnei Sakhnin ,23264,-,Dionísio,09/10,,515.0,Unattached 
+"Jan 1, 2009",,?,Cyprus,2156.0,AEK Larnaca ,23264,-,Dionísio,08/09,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2008",,Free transfer,Tunisia,4812.0,Stade Tunisien ,23264,-,Dionísio,08/09,Cyprus,2156.0,AEK Larnaca 
+"Jul 1, 2006",,?,Portugal,5707.0,Barreirense ,23264,-,Dionísio,06/07,Tunisia,4812.0,Stade Tunisien 
+"Jan 1, 2006",,?,Portugal,3345.0,Leixões ,23264,-,Dionísio,05/06,Portugal,5707.0,Barreirense 
+"Jul 1, 2004",,?,Portugal,7119.0,Vilafranquense ,23264,-,Dionísio,04/05,Portugal,3345.0,Leixões 
+"Jul 1, 2002",,Free transfer,Portugal,2432.0,Torreense ,23264,-,Dionísio,02/03,Portugal,7119.0,Vilafranquense 
+"Jan 1, 2000",,?,Portugal,2430.0,Lourinhanense ,23264,-,Dionísio,99/00,Portugal,2432.0,Torreense 
+"Jul 1, 1999",,-,Portugal,22269.0,Lourinhã U19 ,23264,-,Dionísio,99/00,Portugal,2430.0,Lourinhanense 
+"Jul 1, 2010",,Free transfer,Israel,262.0,H. Petah Tikva ,113380,300 Th. €,Armon Ben Naim,10/11,,75.0,Unknown 
+"Jul 1, 2008",,-,Israel,26931.0,Hapoel PT U19 ,113380,-,Armon Ben Naim,08/09,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2010",,Free transfer,Israel,6028.0,Kiryat Shmona ,96490,-,Ohad Elgarbeli,10/11,,75.0,Unknown 
+"Jul 1, 2012",,?,Israel,1064.0,Maccabi Haifa ,79997,350 Th. €,Ali Ottman,12/13,Israel,4769.0,Bnei Sakhnin 
+"Aug 1, 2009",,500 Th. €,Israel,4769.0,Bnei Sakhnin ,79997,-,Ali Ottman,09/10,Israel,1064.0,Maccabi Haifa 
+"Oct 29, 2015",,-,Israel,810.0,Hapoel Haifa ,113395,-,Gal Cohen,15/16,,123.0,End of career 
+"Jul 1, 2014",,?,Israel,9095.0,Bnei Yehuda ,113395,250 Th. €,Gal Cohen,14/15,Israel,810.0,Hapoel Haifa 
+"Aug 1, 2011",,?,Israel,262.0,H. Petah Tikva ,113395,250 Th. €,Gal Cohen,11/12,Israel,9095.0,Bnei Yehuda 
+"Jun 1, 2007",,End of loan,Israel,7000.0,Hap Nazareth I. ,113395,-,Gal Cohen,06/07,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2006",,Loan,Israel,262.0,H. Petah Tikva ,113395,-,Gal Cohen,06/07,Israel,7000.0,Hap Nazareth I. 
+"Jul 1, 2014",,?,Israel,75.0,Unknown ,113396,300 Th. €,Itzak Cohen,14/15,,4769.0,Bnei Sakhnin 
+"Jul 1, 2013",,?,Israel,6028.0,Kiryat Shmona ,113396,300 Th. €,Itzak Cohen,13/14,,75.0,Unknown 
+"Sep 1, 2012",,?,Israel,1064.0,Maccabi Haifa ,113396,300 Th. €,Itzak Cohen,12/13,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2011",,150 Th. €,Israel,6025.0,Hapoel Acre ,113396,250 Th. €,Itzak Cohen,11/12,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2009",,?,Israel,262.0,H. Petah Tikva ,113396,-,Itzak Cohen,09/10,Israel,6025.0,Hapoel Acre 
+"Jan 1, 2014",,Free transfer,Russia,75.0,Unknown ,112766,-,Yeghia Yavruyan,13/14,,49792.0,TPF 
+"Jul 1, 2011",,Free transfer,Israel,19977.0,H. Ashkelon ,112766,300 Th. €,Yeghia Yavruyan,11/12,,75.0,Unknown 
+"Jan 1, 2011",,?,Israel,9095.0,Bnei Yehuda ,112766,300 Th. €,Yeghia Yavruyan,10/11,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2010",,?,Israel,119.0,M. Tel Aviv ,112766,200 Th. €,Yeghia Yavruyan,10/11,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2008",,?,Israel,4769.0,Bnei Sakhnin ,112766,-,Yeghia Yavruyan,08/09,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2007",,?,Israel,6028.0,Kiryat Shmona ,112766,-,Yeghia Yavruyan,07/08,Israel,4769.0,Bnei Sakhnin 
+"Jan 1, 2007",,?,Russia,2374.0,Shinnik ,112766,-,Yeghia Yavruyan,06/07,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2006",,?,Israel,1017.0,Hapoel Tel Aviv ,112766,-,Yeghia Yavruyan,06/07,Russia,2374.0,Shinnik 
+"Jul 1, 2005",,?,Israel,262.0,H. Petah Tikva ,112766,-,Yeghia Yavruyan,05/06,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2004",,?,Hungary,2952.0,FC Sopron ,112766,-,Yeghia Yavruyan,04/05,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2002",,?,Hungary,4787.0,Dunaferr SE ,112766,-,Yeghia Yavruyan,02/03,Hungary,2952.0,FC Sopron 
+"Jul 1, 2001",,?,Hungary,6049.0,Békéscsaba ,112766,-,Yeghia Yavruyan,01/02,Hungary,4787.0,Dunaferr SE 
+"Jul 1, 2000",,?,Hungary,2952.0,FC Sopron ,112766,-,Yeghia Yavruyan,00/01,Hungary,6049.0,Békéscsaba 
+"Jul 1, 1999",,?,Hungary,75.0,Unknown ,112766,-,Yeghia Yavruyan,99/00,,2952.0,FC Sopron 
+"Jan 14, 2016",,?,Israel,5223.0,Maccabi Netanya ,113404,200 Th. €,Snir Dori,15/16,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2013",,?,Israel,262.0,H. Petah Tikva ,113404,250 Th. €,Snir Dori,13/14,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2007",,-,Israel,26931.0,Hapoel PT U19 ,113404,-,Snir Dori,07/08,Israel,262.0,H. Petah Tikva 
+"Oct 4, 2015",,?,Israel,119.0,M. Tel Aviv ,113406,250 Th. €,Dan Einbinder,15/16,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2013",,?,Israel,6028.0,Kiryat Shmona ,113406,250 Th. €,Dan Einbinder,13/14,Israel,119.0,M. Tel Aviv 
+"Aug 1, 2012",,?,Israel,3793.0,B. Jerusalem ,113406,250 Th. €,Dan Einbinder,12/13,Israel,6028.0,Kiryat Shmona 
+"Jan 1, 2009",,-,Israel,17373.0,Jerusalem U19 ,113406,-,Dan Einbinder,08/09,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2014",,?,Israel,3793.0,B. Jerusalem ,96384,50 Th. €,Ohad Saidof,14/15,Israel,43119.0,Hapoel Katamon 
+"Jul 1, 2008",,?,Israel,75.0,Unknown ,96384,-,Ohad Saidof,08/09,,3793.0,B. Jerusalem 
+"Feb 23, 2016",,Free transfer,Kazakhstan,10482.0,Kairat Almaty ,113415,500 Th. €,Mark Gurman,15/16,Kazakhstan,22220.0,FC Astana 
+"Feb 12, 2013",,Free transfer,Turkey,152.0,Samsunspor ,113415,200 Th. €,Mark Gurman,12/13,Kazakhstan,10482.0,Kairat Almaty 
+"Jan 6, 2013",,?,Kazakhstan,22220.0,FC Astana ,113415,200 Th. €,Mark Gurman,12/13,Turkey,152.0,Samsunspor 
+"Dec 31, 2012",,End of loan,Kazakhstan,10482.0,Kairat Almaty ,113415,200 Th. €,Mark Gurman,12/13,Kazakhstan,22220.0,FC Astana 
+"Mar 14, 2012",,Loan,Kazakhstan,22220.0,FC Astana ,113415,200 Th. €,Mark Gurman,11/12,Kazakhstan,10482.0,Kairat Almaty 
+"Aug 1, 2010",,100 Th. €,Israel,2828.0,M. Ahi Nazareth ,113415,200 Th. €,Mark Gurman,10/11,Kazakhstan,22220.0,Lok. Astana 
+"Jun 30, 2010",,End of loan,Israel,2828.0,M. Ahi Nazareth ,113415,200 Th. €,Mark Gurman,09/10,Israel,262.0,H. Petah Tikva 
+"Aug 1, 2009",,Loan,Israel,262.0,H. Petah Tikva ,113415,-,Mark Gurman,09/10,Israel,2828.0,M. Ahi Nazareth 
+"Sep 1, 2015",,?,Israel,6028.0,Kiryat Shmona ,97545,250 Th. €,Adrian Rochet,15/16,Israel,810.0,Hapoel Haifa 
+,,,,,,72971,,,,,,
+"Dec 29, 2015",,Free transfer,United States,23565.0,TB Rowdies ,66322,300 Th. €,Maicón Santos,15/16,United States,9713.0,Fort Lauderdale 
+"Feb 4, 2015",,-,United States,515.0,Unattached ,66322,300 Th. €,Maicón Santos,14/15,,23565.0,TB Rowdies 
+"Jul 1, 2014",,-,Mexico,5662.0,Puebla ,66322,300 Th. €,Maicón Santos,14/15,,515.0,Unattached 
+"Feb 4, 2014",,Free transfer,United States,432.0,Chicago ,66322,300 Th. €,Maicón Santos,13/14,Mexico,5662.0,Puebla 
+"Dec 7, 2012",,draft,United States,2440.0,DC United ,66322,300 Th. €,Maicón Santos,12/13,United States,432.0,Chicago 
+"Jan 18, 2012",,-,United States,515.0,Unattached ,66322,250 Th. €,Maicón Santos,11/12,,2440.0,DC United 
+"Dec 9, 2011",,-,United States,8816.0,FC Dallas	 ,66322,250 Th. €,Maicón Santos,11/12,,515.0,Unattached 
+"Aug 2, 2011",,Swap deal,United States,11141.0,Toronto ,66322,250 Th. €,Maicón Santos,11/12,United States,8816.0,FC Dallas	 
+"Jul 9, 2010",,Free transfer,United States,6642.0,Chivas USA ,66322,250 Th. €,Maicón Santos,10/11,United States,11141.0,Toronto 
+"Aug 21, 2009",,?,Brazil,3972.0,Bonsucesso Futebol Clube (RJ) ,66322,250 Th. €,Maicón Santos,09/10,United States,6642.0,Chivas USA 
+"Jan 1, 2009",,?,Israel,4769.0,Bnei Sakhnin ,66322,250 Th. €,Maicón Santos,08/09,Brazil,3972.0,Bonsucesso Futebol Clube (RJ) 
+"Sep 1, 2008",,?,Israel,6028.0,Kiryat Shmona ,66322,250 Th. €,Maicón Santos,08/09,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2008",,?,Tunisia,250.0,ES Sahel ,66322,250 Th. €,Maicón Santos,08/09,Israel,6028.0,Kiryat Shmona 
+"Apr 1, 2008",,End of loan,Libya,13508.0,Al-Nasr Bengh. ,66322,250 Th. €,Maicón Santos,07/08,Tunisia,250.0,ES Sahel 
+"Jul 1, 2007",,Loan,Tunisia,250.0,ES Sahel ,66322,-,Maicón Santos,07/08,Libya,13508.0,Al-Nasr Bengh. 
+"Aug 1, 2006",,?,Brazil,4907.0,Madureira Esporte Clube (RJ) ,66322,-,Maicón Santos,06/07,Tunisia,250.0,ES Sahel 
+,,,,,,113435,,,,,,
+"Aug 19, 2013",,?,Croatia,10317.0,Zmaj Makarska ,27940,-,Dragan Stojkic,13/14,Croatia,22558.0,NK Zmijavci 
+"Feb 1, 2013",,Free transfer,Israel,19977.0,H. Ashkelon ,27940,-,Dragan Stojkic,12/13,Croatia,10317.0,Zmaj Makarska 
+"Jul 1, 2011",,Free transfer,Israel,6105.0,FC Ashdod ,27940,150 Th. €,Dragan Stojkic,11/12,Israel,19977.0,H. Ashkelon 
+"Jan 1, 2009",,Free transfer,Russia,4057.0,Luch-Energia ,27940,400 Th. €,Dragan Stojkic,08/09,Israel,6105.0,FC Ashdod 
+"Jul 1, 2008",,?,Croatia,5107.0,NK Zagreb ,27940,400 Th. €,Dragan Stojkic,08/09,Russia,4057.0,Luch-Energia 
+"Jul 1, 2003",,?,Croatia,223.0,HNK Sibenik ,27940,-,Dragan Stojkic,03/04,Croatia,5107.0,NK Zagreb 
+"Jul 1, 2002",,?,Croatia,2409.0,NK Marsonia ,27940,-,Dragan Stojkic,02/03,Croatia,223.0,HNK Sibenik 
+"Jul 1, 2001",,?,Bosnia-Herzegovina,1242.0,Siroki Brijeg ,27940,-,Dragan Stojkic,01/02,Croatia,2409.0,NK Marsonia 
+"Jul 1, 2000",,?,Croatia,2362.0,Slaven Belupo ,27940,-,Dragan Stojkic,00/01,Bosnia-Herzegovina,1242.0,Siroki Brijeg 
+"Jul 1, 1998",,?,Croatia,2027.0,NK Samobor ,27940,-,Dragan Stojkic,98/99,Croatia,2362.0,Slaven Belupo 
+"Jul 1, 1997",,?,Croatia,447.0,Hajduk Split ,27940,-,Dragan Stojkic,97/98,Croatia,2027.0,NK Samobor 
+"Jul 1, 2015",,Free transfer,Israel,3793.0,B. Jerusalem ,96390,300 Th. €,Ze'ev Haymovich,15/16,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2014",,?,Israel,1017.0,Hapoel Tel Aviv ,96390,200 Th. €,Ze'ev Haymovich,14/15,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2013",,Free transfer,Israel,2785.0,H. Ramat Gan ,96390,200 Th. €,Ze'ev Haymovich,13/14,Israel,1017.0,Hapoel Tel Aviv 
+"Jan 1, 2013",,?,Israel,1017.0,Hapoel Tel Aviv ,96390,200 Th. €,Ze'ev Haymovich,12/13,Israel,2785.0,H. Ramat Gan 
+"Aug 20, 2012",,Free transfer,Russia,3725.0,Terek Grozny ,96390,200 Th. €,Ze'ev Haymovich,12/13,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2009",,?,Israel,5223.0,Maccabi Netanya ,96390,-,Ze'ev Haymovich,09/10,Russia,3725.0,Terek Grozny 
+"Jul 1, 2008",,300 Th. €,Israel,9095.0,Bnei Yehuda ,96390,-,Ze'ev Haymovich,08/09,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2007",,?,Israel,262.0,H. Petah Tikva ,96390,-,Ze'ev Haymovich,07/08,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2004",,?,Israel,20857.0,Hapoel Raanana ,96390,-,Ze'ev Haymovich,04/05,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2012",,-,Israel,7532.0,Hapoel Kfar Saba ,113474,-,M'peti Nimba,12/13,,123.0,End of career 
+"Nov 1, 2011",,?,Israel,27135.0,Ironi Bat Yam ,113474,-,M'peti Nimba,11/12,Israel,7532.0,Hapoel Kfar Saba 
+"Jan 1, 2011",,?,China,18916.0,GZ R&F ,113474,-,M'peti Nimba,10/11,Israel,27135.0,Ironi Bat Yam 
+"Jan 1, 2010",,?,Israel,6028.0,Kiryat Shmona ,113474,-,M'peti Nimba,09/10,China,18916.0,CS Ginde 
+"Aug 2, 2015",,Free transfer,Italy,30066.0,Legnago ,96395,125 Th. €,Filippo Tanaglia,15/16,Italy,27472.0,ASD Villafranca 
+"Jan 9, 2015",,Free transfer,Italy,38561.0,Correggese ,96395,125 Th. €,Filippo Tanaglia,14/15,Italy,30066.0,Legnago 
+"Sep 17, 2014",,-,Italy,515.0,Unattached ,96395,125 Th. €,Filippo Tanaglia,14/15,,38561.0,Correggese 
+"Jul 1, 2014",,-,Italy,2721.0,Alessandria ,96395,125 Th. €,Filippo Tanaglia,14/15,,515.0,Unattached 
+"Jul 13, 2012",,?,Italy,862.0,Chievo Verona ,96395,125 Th. €,Filippo Tanaglia,12/13,Italy,2721.0,Alessandria 
+"Jul 1, 2012",,?,Italy,22203.0,Giacomense ,96395,125 Th. €,Filippo Tanaglia,12/13,Italy,862.0,Chievo Verona 
+"Jul 1, 2010",,?,Italy,14845.0,AC Chievo ,96395,-,Filippo Tanaglia,10/11,Italy,22203.0,Giacomense 
+"Jun 1, 2014",,?,India,25452.0,Vasco SC Margao ,113476,75 Th. €,Stephen Ofei,13/14,,75.0,Unknown 
+"Jan 1, 2013",,?,India,14088.0,Dempo SC ,113476,75 Th. €,Stephen Ofei,12/13,India,25452.0,Vasco SC Margao 
+"Sep 1, 2012",,?,Israel,35113.0,M. Beer Sheva ,113476,75 Th. €,Stephen Ofei,12/13,India,14088.0,Dempo SC 
+"Jul 1, 2010",,Free transfer,Israel,5223.0,Maccabi Netanya ,113476,75 Th. €,Stephen Ofei,10/11,Israel,35113.0,M. Beer Sheva 
+"Aug 1, 2009",,Free transfer,Ghana,3601.0,Hearts of Oak ,113476,-,Stephen Ofei,09/10,Israel,5223.0,Maccabi Netanya 
+"Jun 30, 2009",,End of loan,Israel,262.0,H. Petah Tikva ,113476,-,Stephen Ofei,08/09,Ghana,3601.0,Hearts of Oak 
+"Jul 1, 2008",,Loan,Ghana,3601.0,Hearts of Oak ,113476,-,Stephen Ofei,08/09,Israel,262.0,H. Petah Tikva 
+"Jun 30, 2005",,End of loan,Bulgaria,271.0,Litex Lovetch ,113476,-,Stephen Ofei,04/05,Ghana,3601.0,Hearts of Oak 
+"Jul 1, 2004",,Loan,Ghana,3601.0,Hearts of Oak ,113476,-,Stephen Ofei,04/05,Bulgaria,271.0,Litex Lovetch 
+,,,,,,112695,,,,,,
+"Aug 1, 2012",,Free transfer,Israel,2785.0,H. Ramat Gan ,81230,300 Th. €,Paul Kessany,12/13,Gabon,5312.0,Mangasport 
+"Sep 1, 2011",,-,Israel,515.0,Unattached ,81230,300 Th. €,Paul Kessany,11/12,,2785.0,H. Ramat Gan 
+"Jul 1, 2011",,-,France,2580.0,Istres ,81230,300 Th. €,Paul Kessany,11/12,,515.0,Unattached 
+"Jul 1, 2009",,Free transfer,Israel,6028.0,Kiryat Shmona ,81230,100 Th. €,Paul Kessany,09/10,France,2580.0,Istres 
+"Jan 1, 2009",,Free transfer,Georgia,10719.0,FC Zestafoni ,81230,-,Paul Kessany,08/09,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2007",,Free transfer,Gabon,13578.0,FC 105 Libreville ,81230,-,Paul Kessany,07/08,Georgia,10719.0,FC Zestafoni 
+"Jul 1, 2010",,Free transfer,Israel,19977.0,H. Ashkelon ,113490,-,Yossi Rosen,10/11,,75.0,Unknown 
+"Jul 1, 2009",,Free transfer,Israel,262.0,H. Petah Tikva ,113490,-,Yossi Rosen,09/10,Israel,19977.0,H. Ashkelon 
+"Aug 1, 2015",,?,Israel,51932.0,Hapoel Baqa ,111958,100 Th. €,Mor Dahan,15/16,,75.0,Unknown 
+"Aug 1, 2014",,?,Israel,6026.0,Hap. Beit Shean ,111958,100 Th. €,Mor Dahan,14/15,Israel,51932.0,Hapoel Baqa 
+"Aug 1, 2013",,?,Israel,6028.0,Kiryat Shmona ,111958,100 Th. €,Mor Dahan,13/14,Israel,6026.0,Hap. Beit Shean 
+"Feb 1, 2013",,?,Israel,43131.0,Kiryat Ata ,111958,100 Th. €,Mor Dahan,12/13,Israel,6028.0,Kiryat Shmona 
+"Nov 1, 2012",,?,Israel,75.0,Unknown ,111958,100 Th. €,Mor Dahan,12/13,,43131.0,Kiryat Ata 
+"Aug 1, 2012",,?,Israel,27135.0,Ironi Bat Yam ,111958,100 Th. €,Mor Dahan,12/13,,75.0,Unknown 
+"Jul 1, 2011",,?,Israel,1064.0,Maccabi Haifa ,111958,100 Th. €,Mor Dahan,11/12,Israel,27135.0,Ironi Bat Yam 
+"Jun 30, 2011",,End of loan,Israel,19977.0,H. Ashkelon ,111958,100 Th. €,Mor Dahan,10/11,Israel,1064.0,Maccabi Haifa 
+"Aug 1, 2010",,Loan,Israel,1064.0,Maccabi Haifa ,111958,75 Th. €,Mor Dahan,10/11,Israel,19977.0,H. Ashkelon 
+"Jun 30, 2010",,End of loan,Israel,2828.0,M. Ahi Nazareth ,111958,75 Th. €,Mor Dahan,09/10,Israel,1064.0,Maccabi Haifa 
+"Aug 1, 2009",,Loan fee:20 Th. €,Israel,1064.0,Maccabi Haifa ,111958,-,Mor Dahan,09/10,Israel,2828.0,M. Ahi Nazareth 
+"Jun 30, 2009",,End of loan,Israel,31134.0,Hap R. haSharon ,111958,-,Mor Dahan,08/09,Israel,1064.0,Maccabi Haifa 
+"Jan 1, 2009",,Loan,Israel,1064.0,Maccabi Haifa ,111958,-,Mor Dahan,08/09,Israel,31134.0,Hap R. haSharon 
+"Jul 1, 2008",,-,Israel,18072.0,M. Haifa U19 ,111958,-,Mor Dahan,08/09,Israel,1064.0,Maccabi Haifa 
+"Feb 3, 2016",,?,Belgium,498.0,KSC Lokeren ,111964,450 Th. €,Mohammad Ghadir,15/16,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2015",,500 Th. €,Israel,1064.0,Maccabi Haifa ,111964,500 Th. €,Mohammad Ghadir,15/16,Belgium,498.0,KSC Lokeren 
+"May 31, 2015",,End of loan,Israel,4769.0,Bnei Sakhnin ,111964,500 Th. €,Mohammad Ghadir,14/15,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2013",,Loan,Israel,1064.0,Maccabi Haifa ,111964,300 Th. €,Mohammad Ghadir,13/14,Israel,4769.0,Bnei Sakhnin 
+"Jun 30, 2013",,End of loan,Belgium,28643.0,Waasl.-Beveren ,111964,300 Th. €,Mohammad Ghadir,12/13,Israel,1064.0,Maccabi Haifa 
+"Aug 23, 2012",,Loan,Israel,1064.0,Maccabi Haifa ,111964,700 Th. €,Mohammad Ghadir,12/13,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2008",,-,Israel,18072.0,M. Haifa U19 ,111964,-,Mohammad Ghadir,08/09,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2014",,450 Th. €,Israel,1064.0,Maccabi Haifa ,111965,"1,20 Mill. €",Eyal Golasa,14/15,Greece,1091.0,PAOK Saloniki 
+"Jul 1, 2009",,-,Israel,18072.0,M. Haifa U19 ,111965,-,Eyal Golasa,09/10,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2013",,-,Israel,43122.0,M. Shaaraim ,111967,150 Th. €,Snir Gueta,13/14,,515.0,Unattached 
+"Oct 1, 2012",,?,Israel,35105.0,Kiryat Malachi ,111967,150 Th. €,Snir Gueta,12/13,Israel,43122.0,M. Shaaraim 
+"Jul 1, 2012",,?,Israel,43136.0,H. Asi Gilboa ,111967,150 Th. €,Snir Gueta,12/13,Israel,35105.0,Kiryat Malachi 
+"Jan 1, 2012",,?,Israel,35105.0,Kiryat Malachi ,111967,150 Th. €,Snir Gueta,11/12,Israel,43136.0,H. Asi Gilboa 
+"Jul 1, 2011",,Free transfer,Israel,19977.0,H. Ashkelon ,111967,150 Th. €,Snir Gueta,11/12,Israel,35105.0,Kiryat Malachi 
+"Jul 1, 2010",,?,Israel,5223.0,Maccabi Netanya ,111967,200 Th. €,Snir Gueta,10/11,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2007",,?,Israel,21431.0,M. Netanya U19 ,111967,-,Snir Gueta,07/08,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2015",,-,South Africa,568.0,Kaizer Chiefs ,37732,200 Th. €,Siyabonga Nkosi,15/16,,515.0,Unattached 
+"Jul 1, 2012",,Free transfer,South Africa,7011.0,Golden Arrows ,37732,225 Th. €,Siyabonga Nkosi,12/13,South Africa,568.0,Kaizer Chiefs 
+"Jul 1, 2010",,Free transfer,South Africa,2891.0,SuperSport Utd. ,37732,350 Th. €,Siyabonga Nkosi,10/11,South Africa,7011.0,Golden Arrows 
+"Jul 1, 2009",,Free transfer,Israel,5223.0,Maccabi Netanya ,37732,400 Th. €,Siyabonga Nkosi,09/10,South Africa,2891.0,SuperSport Utd. 
+"Jan 1, 2009",,75 Th. €,Germany,10.0,Arm. Bielefeld ,37732,400 Th. €,Siyabonga Nkosi,08/09,Israel,5223.0,Maccabi Netanya 
+"Aug 1, 2007",,350 Th. €,South Africa,568.0,Kaizer Chiefs ,37732,700 Th. €,Siyabonga Nkosi,07/08,Germany,10.0,Arm. Bielefeld 
+"Jul 1, 2006",,?,South Africa,8607.0,Bloemfontein C. ,37732,-,Siyabonga Nkosi,06/07,South Africa,568.0,Kaizer Chiefs 
+"Jul 1, 2003",,?,South Africa,26907.0,O. Pirates YD ,37732,-,Siyabonga Nkosi,03/04,South Africa,8607.0,Bloemfontein C. 
+"Jul 1, 2001",,?,South Africa,75.0,Unknown ,37732,-,Siyabonga Nkosi,01/02,,26907.0,O. Pirates YD 
+"Jul 1, 2015",,?,Israel,1017.0,Hapoel Tel Aviv ,111983,450 Th. €,Matan Ohayon,15/16,Israel,2976.0,H. Beer Sheva 
+"Jan 1, 2015",,?,Israel,1064.0,Maccabi Haifa ,111983,450 Th. €,Matan Ohayon,14/15,Israel,1017.0,Hapoel Tel Aviv 
+"Jun 10, 2014",,?,Israel,6028.0,Kiryat Shmona ,111983,450 Th. €,Matan Ohayon,14/15,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2013",,?,Belgium,172.0,RSC Charleroi ,111983,450 Th. €,Matan Ohayon,13/14,Israel,6028.0,Kiryat Shmona 
+"Jun 30, 2012",,End of loan,Israel,3785.0,M. Petah Tikva ,111983,350 Th. €,Matan Ohayon,11/12,Belgium,172.0,RSC Charleroi 
+"Jan 1, 2012",,Loan,Belgium,172.0,RSC Charleroi ,111983,350 Th. €,Matan Ohayon,11/12,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2011",,?,Israel,6105.0,FC Ashdod ,111983,500 Th. €,Matan Ohayon,11/12,Belgium,172.0,RSC Charleroi 
+"Jun 30, 2011",,End of loan,Belgium,172.0,RSC Charleroi ,111983,500 Th. €,Matan Ohayon,10/11,Israel,6105.0,FC Ashdod 
+"Jan 1, 2011",,Loan,Israel,6105.0,FC Ashdod ,111983,300 Th. €,Matan Ohayon,10/11,Belgium,172.0,RSC Charleroi 
+"Jul 1, 2008",,?,Israel,75.0,Unknown ,111983,-,Matan Ohayon,08/09,,6105.0,FC Ashdod 
+"Jul 1, 2015",,?,Israel,554.0,Hapoel Rishon ,111989,200 Th. €,Yossi Shekel,15/16,,75.0,Unknown 
+"Jan 1, 2013",,?,Israel,22776.0,Maccabi Yavne ,111989,200 Th. €,Yossi Shekel,12/13,Israel,554.0,Hapoel Rishon 
+"Jan 1, 2012",,Free transfer,Kazakhstan,10482.0,Kairat Almaty ,111989,200 Th. €,Yossi Shekel,11/12,Israel,22776.0,Maccabi Yavne 
+"Jul 1, 2011",,?,Israel,6105.0,FC Ashdod ,111989,250 Th. €,Yossi Shekel,11/12,Kazakhstan,10482.0,Kairat Almaty 
+"Jun 30, 2010",,End of loan,Israel,262.0,H. Petah Tikva ,111989,100 Th. €,Yossi Shekel,09/10,Israel,6105.0,FC Ashdod 
+"Jul 1, 2009",,Loan,Israel,6105.0,FC Ashdod ,111989,-,Yossi Shekel,09/10,Israel,262.0,H. Petah Tikva 
+"Dec 1, 2007",,End of loan,Israel,7000.0,Hap Nazareth I. ,111989,-,Yossi Shekel,07/08,Israel,6105.0,FC Ashdod 
+"Jul 1, 2007",,Loan,Israel,6105.0,FC Ashdod ,111989,-,Yossi Shekel,07/08,Israel,7000.0,Hap Nazareth I. 
+"Jun 30, 2007",,End of loan,Israel,8907.0,Maccabi Herzliya ,111989,-,Yossi Shekel,06/07,Israel,6105.0,FC Ashdod 
+"Jul 1, 2006",,Loan,Israel,6105.0,FC Ashdod ,111989,-,Yossi Shekel,06/07,Israel,8907.0,Maccabi Herzliya 
+"Jun 30, 2006",,End of loan,Israel,7532.0,Hapoel Kfar Saba ,111989,-,Yossi Shekel,05/06,Israel,6105.0,FC Ashdod 
+"Jul 1, 2005",,Loan,Israel,6105.0,FC Ashdod ,111989,-,Yossi Shekel,05/06,Israel,7532.0,Hapoel Kfar Saba 
+"Jun 30, 2005",,End of loan,Israel,2976.0,H. Beer Sheva ,111989,-,Yossi Shekel,04/05,Israel,6105.0,FC Ashdod 
+"Jan 1, 2005",,Loan,Israel,6105.0,FC Ashdod ,111989,-,Yossi Shekel,04/05,Israel,2976.0,H. Beer Sheva 
+"Dec 1, 2004",,End of loan,Israel,9095.0,Bnei Yehuda ,111989,-,Yossi Shekel,04/05,Israel,6105.0,FC Ashdod 
+"Jul 1, 2004",,Loan,Israel,6105.0,FC Ashdod ,111989,-,Yossi Shekel,04/05,Israel,9095.0,Bnei Yehuda 
+"Jun 30, 2004",,End of loan,Israel,10763.0,Beitar TA Ramla ,111989,-,Yossi Shekel,03/04,Israel,6105.0,FC Ashdod 
+"Jul 1, 2003",,Loan,Israel,6105.0,FC Ashdod ,111989,-,Yossi Shekel,03/04,Israel,10763.0,Beitar TA Ramla 
+"Jul 1, 2002",,-,Israel,26926.0,FC Ashdod U19 ,111989,-,Yossi Shekel,02/03,Israel,6105.0,FC Ashdod 
+"Jan 7, 2016",,Loan,Israel,1064.0,Maccabi Haifa ,111994,600 Th. €,Avihai Yadin,15/16,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2012",,270 Th. €,Israel,1017.0,Hapoel Tel Aviv ,111994,700 Th. €,Avihai Yadin,12/13,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2008",,?,Israel,7532.0,Hapoel Kfar Saba ,111994,-,Avihai Yadin,08/09,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2015",,?,Israel,1017.0,Hapoel Tel Aviv ,111996,750 Th. €,Israel Zaguri,15/16,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2013",,Free transfer,Israel,2785.0,H. Ramat Gan ,111996,250 Th. €,Israel Zaguri,13/14,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2012",,Free transfer,Israel,9095.0,Bnei Yehuda ,111996,225 Th. €,Israel Zaguri,12/13,Israel,2785.0,H. Ramat Gan 
+"Jul 1, 2011",,?,Israel,1064.0,Maccabi Haifa ,111996,200 Th. €,Israel Zaguri,11/12,Israel,9095.0,Bnei Yehuda 
+"Jun 30, 2011",,End of loan,Israel,262.0,H. Petah Tikva ,111996,200 Th. €,Israel Zaguri,10/11,Israel,1064.0,Maccabi Haifa 
+"Aug 1, 2010",,Loan,Israel,1064.0,Maccabi Haifa ,111996,125 Th. €,Israel Zaguri,10/11,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2009",,?,Israel,18072.0,M. Haifa U19 ,111996,-,Israel Zaguri,09/10,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2012",,-,Panama,1708.0,San Miguelito ,111997,-,Alberto Zapata,12/13,,123.0,End of career 
+"Jul 1, 2010",,?,Panama,11698.0,San Francisco ,111997,-,Alberto Zapata,10/11,Panama,1708.0,San Miguelito 
+"Jan 1, 2010",,?,El Salvador,14078.0,Alianza FC ,111997,-,Alberto Zapata,09/10,Panama,11698.0,San Francisco 
+"Jul 1, 2009",,?,Israel,5223.0,Maccabi Netanya ,111997,-,Alberto Zapata,09/10,El Salvador,14078.0,Alianza FC 
+"Jan 1, 2009",,?,Panama,11698.0,San Francisco ,111997,-,Alberto Zapata,08/09,Israel,5223.0,Maccabi Netanya 
+"Jan 1, 2008",,?,Puerto Rico,9174.0,Islanders ,111997,-,Alberto Zapata,07/08,Panama,11698.0,San Francisco 
+"Jan 1, 2007",,?,Panama,11698.0,San Francisco ,111997,-,Alberto Zapata,06/07,Puerto Rico,9174.0,Islanders 
+"Jul 1, 2005",,?,Honduras,2720.0,Olimpia ,111997,-,Alberto Zapata,05/06,Panama,11698.0,San Francisco 
+"Jul 1, 2004",,?,Panama,18952.0,Chorrillo FC ,111997,-,Alberto Zapata,04/05,Honduras,2720.0,Olimpia 
+"Jan 1, 2004",,?,El Salvador,14078.0,Alianza FC ,111997,-,Alberto Zapata,03/04,Panama,18952.0,Chorrillo FC 
+"Jan 1, 2000",,?,Honduras,13293.0,RCD España ,111997,-,Alberto Zapata,99/00,Panama,12371.0,Tauro FC 
+"Jul 1, 2015",,?,Israel,43139.0,Hapoel Azor ,111998,100 Th. €,Idan Zion,15/16,Israel,6031.0,Hapoel Nahef 
+"Jan 1, 2015",,?,Israel,19977.0,H. Ashkelon ,111998,100 Th. €,Idan Zion,14/15,Israel,43139.0,Hapoel Azor 
+"Jul 1, 2014",,?,Israel,51835.0,Betar Kfar Saba ,111998,100 Th. €,Idan Zion,14/15,Israel,19977.0,H. Ashkelon 
+"Jan 1, 2014",,?,Israel,25909.0,Mac. Kiryat Gat ,111998,100 Th. €,Idan Zion,13/14,Israel,51835.0,Betar Kfar Saba 
+"Jul 1, 2013",,?,Israel,22776.0,Maccabi Yavne ,111998,100 Th. €,Idan Zion,13/14,Israel,25909.0,Mac. Kiryat Gat 
+"Jan 1, 2013",,?,Israel,6105.0,FC Ashdod ,111998,100 Th. €,Idan Zion,12/13,Israel,22776.0,Maccabi Yavne 
+"Jun 30, 2012",,End of loan,Israel,10763.0,Beitar TA Ramla ,111998,100 Th. €,Idan Zion,11/12,Israel,6105.0,FC Ashdod 
+"Jan 1, 2011",,Loan,Israel,6105.0,FC Ashdod ,111998,100 Th. €,Idan Zion,10/11,Israel,10763.0,Beitar TA Ramla 
+"Jul 1, 2008",,-,Israel,26926.0,FC Ashdod U19 ,111998,-,Idan Zion,08/09,Israel,6105.0,FC Ashdod 
+"Jul 1, 2015",,?,Israel,810.0,Hapoel Haifa ,111999,250 Th. €,Kobi Dejani,15/16,Israel,6105.0,FC Ashdod 
+"Jul 1, 2013",,?,Israel,5223.0,Maccabi Netanya ,111999,250 Th. €,Kobi Dejani,13/14,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2010",,?,Israel,262.0,H. Petah Tikva ,111999,150 Th. €,Kobi Dejani,10/11,Israel,5223.0,Maccabi Netanya 
+"Aug 1, 2009",,?,Israel,6105.0,FC Ashdod ,111999,-,Kobi Dejani,09/10,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2015",,?,Israel,8907.0,Maccabi Herzliya ,112000,150 Th. €,Ben Butbul,15/16,Israel,43122.0,M. Shaaraim 
+"Jan 1, 2015",,-,Israel,515.0,Unattached ,112000,250 Th. €,Ben Butbul,14/15,,8907.0,Maccabi Herzliya 
+"Jul 1, 2014",,-,Israel,17580.0,H. Jerusalem ,112000,250 Th. €,Ben Butbul,14/15,,515.0,Unattached 
+"Jul 1, 2013",,?,Israel,6105.0,FC Ashdod ,112000,250 Th. €,Ben Butbul,13/14,Israel,17580.0,H. Jerusalem 
+"Jul 1, 2010",,-,Israel,26926.0,FC Ashdod U19 ,112000,50 Th. €,Ben Butbul,10/11,Israel,6105.0,FC Ashdod 
+"Jan 1, 2013",,?,Israel,6105.0,FC Ashdod ,112002,100 Th. €,Amir Lavi,12/13,Israel,21535.0,Hakoah Amidar 
+"Jul 1, 2008",,?,Israel,75.0,Unknown ,112002,-,Amir Lavi,08/09,,6105.0,FC Ashdod 
+"Jan 21, 2014",,Free transfer,Israel,3785.0,M. Petah Tikva ,112003,200 Th. €,Yossi Ofir,13/14,Israel,22776.0,Maccabi Yavne 
+"Jul 1, 2012",,?,Israel,31134.0,Hap R. haSharon ,112003,200 Th. €,Yossi Ofir,12/13,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2011",,?,Israel,3785.0,M. Petah Tikva ,112003,200 Th. €,Yossi Ofir,11/12,Israel,31134.0,Hap R. haSharon 
+"Jul 1, 2010",,?,Israel,2976.0,H. Beer Sheva ,112003,225 Th. €,Yossi Ofir,10/11,Israel,3785.0,M. Petah Tikva 
+"Aug 1, 2009",,?,Israel,6105.0,FC Ashdod ,112003,-,Yossi Ofir,09/10,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2014",,?,Israel,810.0,Hapoel Haifa ,112004,200 Th. €,David Revivo,14/15,Israel,22776.0,Maccabi Yavne 
+"Jan 1, 2014",,?,Israel,3793.0,B. Jerusalem ,112004,200 Th. €,David Revivo,13/14,Israel,810.0,Hapoel Haifa 
+"Jul 8, 2013",,?,Israel,6105.0,FC Ashdod ,112004,200 Th. €,David Revivo,13/14,Israel,3793.0,B. Jerusalem 
+"Jun 30, 2011",,End of loan,Israel,2976.0,H. Beer Sheva ,112004,200 Th. €,David Revivo,10/11,Israel,6105.0,FC Ashdod 
+"Jul 1, 2009",,Loan,Israel,6105.0,FC Ashdod ,112004,-,David Revivo,09/10,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2015",,?,Israel,25909.0,Mac. Kiryat Gat ,112005,250 Th. €,Idan Shriki,15/16,Israel,19977.0,H. Ashkelon 
+"Jan 1, 2015",,Free transfer,Israel,5223.0,Maccabi Netanya ,112005,350 Th. €,Idan Shriki,14/15,Israel,25909.0,Mac. Kiryat Gat 
+"Jul 1, 2013",,?,Israel,3785.0,M. Petah Tikva ,112005,350 Th. €,Idan Shriki,13/14,Israel,5223.0,Maccabi Netanya 
+"Jan 1, 2013",,?,Israel,5223.0,Maccabi Netanya ,112005,350 Th. €,Idan Shriki,12/13,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2012",,Free transfer,Poland,428.0,G. Zabrze ,112005,350 Th. €,Idan Shriki,12/13,Israel,5223.0,Maccabi Netanya 
+"Jun 30, 2012",,End of loan,Israel,6105.0,FC Ashdod ,112005,350 Th. €,Idan Shriki,11/12,Poland,428.0,G. Zabrze 
+"Sep 1, 2011",,Loan,Poland,428.0,G. Zabrze ,112005,300 Th. €,Idan Shriki,11/12,Israel,6105.0,FC Ashdod 
+"Jul 1, 2011",,Free transfer,Israel,6105.0,FC Ashdod ,112005,300 Th. €,Idan Shriki,11/12,Poland,428.0,G. Zabrze 
+"Jul 1, 2003",,Free transfer,Israel,22776.0,Maccabi Yavne ,112005,-,Idan Shriki,03/04,Israel,6105.0,FC Ashdod 
+"Jul 1, 2015",,?,Israel,22776.0,Maccabi Yavne ,112006,100 Th. €,Adir Tubul,15/16,Israel,6105.0,FC Ashdod 
+"Jul 1, 2014",,?,Israel,5223.0,Maccabi Netanya ,112006,100 Th. €,Adir Tubul,14/15,Israel,22776.0,Maccabi Yavne 
+"Jul 1, 2013",,?,Israel,4769.0,Bnei Sakhnin ,112006,100 Th. €,Adir Tubul,13/14,Israel,5223.0,Maccabi Netanya 
+"Jan 1, 2013",,?,Israel,6105.0,FC Ashdod ,112006,100 Th. €,Adir Tubul,12/13,Israel,4769.0,Bnei Sakhnin 
+"Jul 1, 2011",,?,Israel,19977.0,H. Ashkelon ,112006,150 Th. €,Adir Tubul,11/12,Israel,6105.0,FC Ashdod 
+"Jul 1, 2010",,?,Israel,6105.0,FC Ashdod ,112006,100 Th. €,Adir Tubul,10/11,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2008",,?,Israel,75.0,Unknown ,112006,-,Adir Tubul,08/09,,6105.0,FC Ashdod 
+"Jul 1, 2015",,?,Israel,6105.0,FC Ashdod ,112007,200 Th. €,Rahamim Checkol,15/16,Israel,554.0,Hapoel Rishon 
+"Jul 1, 2014",,?,Israel,21535.0,Hakoah Amidar ,112007,200 Th. €,Rahamim Checkol,14/15,Israel,6105.0,FC Ashdod 
+"Jan 1, 2014",,?,Israel,22776.0,Maccabi Yavne ,112007,200 Th. €,Rahamim Checkol,13/14,Israel,21535.0,Hakoah Amidar 
+"Jul 1, 2013",,?,Israel,6105.0,FC Ashdod ,112007,200 Th. €,Rahamim Checkol,13/14,Israel,22776.0,Maccabi Yavne 
+"Jan 1, 2013",,Free transfer,Israel,119.0,M. Tel Aviv ,112007,200 Th. €,Rahamim Checkol,12/13,Israel,6105.0,FC Ashdod 
+"Aug 1, 2011",,250 Th. €,Israel,6105.0,FC Ashdod ,112007,300 Th. €,Rahamim Checkol,11/12,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2007",,-,Israel,26926.0,FC Ashdod U19 ,112007,-,Rahamim Checkol,07/08,Israel,6105.0,FC Ashdod 
+"Jul 7, 2015",,?,Israel,6105.0,FC Ashdod ,112008,350 Th. €,Ofir Marciano,15/16,Belgium,29228.0,Mouscron 
+"Jul 1, 2008",,-,Israel,26926.0,FC Ashdod U19 ,112008,-,Ofir Marciano,08/09,Israel,6105.0,FC Ashdod 
+"Jul 1, 2015",,?,Israel,2828.0,M. Ahi Nazareth ,112010,400 Th. €,Shai Maimon,15/16,Israel,51070.0,Ironi Tiberias 
+"Jul 1, 2014",,?,Israel,6105.0,FC Ashdod ,112010,400 Th. €,Shai Maimon,14/15,Israel,2828.0,M. Ahi Nazareth 
+"Jan 1, 2013",,?,Israel,3785.0,M. Petah Tikva ,112010,400 Th. €,Shai Maimon,12/13,Israel,6105.0,FC Ashdod 
+"Jul 1, 2011",,Loan,Israel,1064.0,Maccabi Haifa ,112010,400 Th. €,Shai Maimon,11/12,Israel,3785.0,M. Petah Tikva 
+"Jun 30, 2009",,End of loan,Israel,6105.0,FC Ashdod ,112010,-,Shai Maimon,08/09,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2008",,Loan,Israel,1064.0,Maccabi Haifa ,112010,-,Shai Maimon,08/09,Israel,6105.0,FC Ashdod 
+"Jul 1, 2015",,?,Israel,43122.0,M. Shaaraim ,112011,150 Th. €,Lior Reuven,15/16,Israel,51937.0,Bikat haYarden 
+"Jul 1, 2014",,?,Israel,24026.0,Hapoel Bnei Lod ,112011,150 Th. €,Lior Reuven,14/15,Israel,43122.0,M. Shaaraim 
+"Jan 1, 2014",,-,Israel,515.0,Unattached ,112011,150 Th. €,Lior Reuven,13/14,,24026.0,Hapoel Bnei Lod 
+"Jul 1, 2013",,-,Israel,2785.0,H. Ramat Gan ,112011,150 Th. €,Lior Reuven,13/14,,515.0,Unattached 
+"Jul 1, 2012",,?,Israel,5223.0,Maccabi Netanya ,112011,150 Th. €,Lior Reuven,12/13,Israel,2785.0,H. Ramat Gan 
+"Jul 1, 2011",,?,Israel,3793.0,B. Jerusalem ,112011,150 Th. €,Lior Reuven,11/12,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2010",,Free transfer,Israel,6025.0,Hapoel Acre ,112011,175 Th. €,Lior Reuven,10/11,Israel,3793.0,B. Jerusalem 
+"Aug 1, 2009",,Free transfer,Israel,6105.0,FC Ashdod ,112011,-,Lior Reuven,09/10,Israel,6025.0,Hapoel Acre 
+"Jul 1, 2015",,?,Israel,21535.0,Hakoah Amidar ,112012,100 Th. €,Idan Sade,15/16,Israel,52360.0,Hapoel Ashdod 
+"Jan 1, 2015",,?,Israel,19977.0,H. Ashkelon ,112012,200 Th. €,Idan Sade,14/15,Israel,21535.0,Hakoah Amidar 
+"Aug 1, 2014",,?,Israel,17580.0,H. Jerusalem ,112012,200 Th. €,Idan Sade,14/15,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2013",,?,Israel,7532.0,Hapoel Kfar Saba ,112012,200 Th. €,Idan Sade,13/14,Israel,17580.0,H. Jerusalem 
+"Jan 1, 2013",,?,Israel,24026.0,Hapoel Bnei Lod ,112012,200 Th. €,Idan Sade,12/13,Israel,7532.0,Hapoel Kfar Saba 
+"Jul 1, 2012",,?,Israel,6105.0,FC Ashdod ,112012,200 Th. €,Idan Sade,12/13,Israel,24026.0,Hapoel Bnei Lod 
+"Jun 30, 2012",,End of loan,Cyprus,840.0,En. Paralimni ,112012,200 Th. €,Idan Sade,11/12,Israel,6105.0,FC Ashdod 
+"Jan 1, 2012",,Loan,Israel,6105.0,FC Ashdod ,112012,200 Th. €,Idan Sade,11/12,Cyprus,840.0,En. Paralimni 
+"Jul 1, 2008",,-,Israel,26926.0,FC Ashdod U19 ,112012,-,Idan Sade,08/09,Israel,6105.0,FC Ashdod 
+"Jan 1, 2016",,?,Israel,25909.0,Mac. Kiryat Gat ,112013,50 Th. €,Maor Zohar,15/16,Israel,30062.0,Ness Ziona 
+"Jul 1, 2013",,Free transfer,Israel,30062.0,Ness Ziona ,112013,50 Th. €,Maor Zohar,13/14,Israel,25909.0,Mac. Kiryat Gat 
+"Jul 1, 2012",,?,Israel,6105.0,FC Ashdod ,112013,50 Th. €,Maor Zohar,12/13,Israel,30062.0,Ness Ziona 
+"Jun 30, 2012",,End of loan,Israel,19977.0,H. Ashkelon ,112013,50 Th. €,Maor Zohar,11/12,Israel,6105.0,FC Ashdod 
+"Oct 1, 2011",,Loan,Israel,6105.0,FC Ashdod ,112013,50 Th. €,Maor Zohar,11/12,Israel,19977.0,H. Ashkelon 
+"Jul 1, 2011",,?,Israel,20857.0,Hapoel Raanana ,112013,50 Th. €,Maor Zohar,11/12,Israel,6105.0,FC Ashdod 
+"Jan 1, 2010",,Free transfer,Israel,75.0,Unknown ,112013,-,Maor Zohar,09/10,,20857.0,Hapoel Raanana 
+"Jul 1, 2009",,Free transfer,Israel,6105.0,FC Ashdod ,112013,-,Maor Zohar,09/10,,75.0,Unknown 
+"Feb 3, 2016",,?,Israel,5223.0,Maccabi Netanya ,96142,400 Th. €,Yuval Avidor,15/16,Israel,4769.0,Bnei Sakhnin 
+"Oct 1, 2015",,?,Israel,6025.0,Hapoel Acre ,96142,400 Th. €,Yuval Avidor,15/16,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2014",,?,Israel,810.0,Hapoel Haifa ,96142,400 Th. €,Yuval Avidor,14/15,Israel,6025.0,Hapoel Acre 
+"Sep 1, 2011",,?,Israel,6028.0,Kiryat Shmona ,96142,550 Th. €,Yuval Avidor,11/12,Israel,810.0,Hapoel Haifa 
+"Jul 1, 2011",,?,Israel,119.0,M. Tel Aviv ,96142,550 Th. €,Yuval Avidor,11/12,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2009",,?,Israel,6028.0,Kiryat Shmona ,96142,-,Yuval Avidor,09/10,Israel,119.0,M. Tel Aviv 
+"Nov 1, 2011",,-,Israel,6028.0,Kiryat Shmona ,96143,200 Th. €,Barak Bakhar,11/12,,123.0,End of career 
+"Jul 1, 2010",,Free transfer,Israel,6028.0,Kiryat Shmona ,96146,-,Yossi Biton,10/11,Israel,17580.0,H. Jerusalem 
+"Jul 1, 2013",,-,Israel,6028.0,Kiryat Shmona ,96150,-,Salah Hasarma,13/14,,123.0,End of career 
+"Sep 1, 2015",,?,Bulgaria,712.0,FK Etar ,15258,200 Th. €,Todor Kolev,15/16,Bulgaria,4362.0,Dob. Dobrich 
+"Sep 14, 2014",,Free transfer,Greece,3999.0,PAS Lamia ,15258,200 Th. €,Todor Kolev,14/15,Bulgaria,712.0,FK Etar 
+"Jul 1, 2013",,Free transfer,Bulgaria,675.0,Slavia Sofia ,15258,200 Th. €,Todor Kolev,13/14,Greece,3999.0,PAS Lamia 
+"Jan 21, 2013",,Free transfer,Greece,4602.0,Olymp. Volos ,15258,200 Th. €,Todor Kolev,12/13,Bulgaria,675.0,Slavia Sofia 
+"Aug 31, 2012",,Free transfer,Bulgaria,712.0,FK Etar ,15258,300 Th. €,Todor Kolev,12/13,Greece,4602.0,Olymp. Volos 
+"Jan 1, 2012",,Free transfer,Bulgaria,31614.0,Ludogorets ,15258,350 Th. €,Todor Kolev,11/12,Bulgaria,712.0,FK Etar 
+"Jan 1, 2011",,Free transfer,Bulgaria,675.0,Slavia Sofia ,15258,350 Th. €,Todor Kolev,10/11,Bulgaria,31614.0,Ludogorets 
+"Jun 1, 2009",,End of loan,Israel,6028.0,Kiryat Shmona ,15258,750 Th. €,Todor Kolev,08/09,Bulgaria,675.0,Slavia Sofia 
+"Jan 1, 2009",,Loan,Bulgaria,675.0,Slavia Sofia ,15258,750 Th. €,Todor Kolev,08/09,Israel,6028.0,Kiryat Shmona 
+"Jun 1, 2008",,End of loan,Germany,8.0,Alem. Aachen ,15258,900 Th. €,Todor Kolev,07/08,Bulgaria,675.0,Slavia Sofia 
+"Jul 1, 2007",,Loan,Bulgaria,675.0,Slavia Sofia ,15258,650 Th. €,Todor Kolev,07/08,Germany,8.0,Alem. Aachen 
+"Jul 1, 2005",,Free transfer,Bulgaria,156.0,Levski Sofia ,15258,650 Th. €,Todor Kolev,05/06,Bulgaria,675.0,Slavia Sofia 
+"Jun 1, 2005",,End of loan,Bulgaria,5284.0,Marek Dupnitsa ,15258,650 Th. €,Todor Kolev,04/05,Bulgaria,156.0,Levski Sofia 
+"Jan 1, 2005",,Loan,Bulgaria,156.0,Levski Sofia ,15258,650 Th. €,Todor Kolev,04/05,Bulgaria,5284.0,Marek Dupnitsa 
+"Jun 1, 2002",,End of loan,Bulgaria,4503.0,Spartak Pleven ,15258,-,Todor Kolev,01/02,Bulgaria,156.0,Levski Sofia 
+"Sep 1, 2001",,Loan,Bulgaria,156.0,Levski Sofia ,15258,-,Todor Kolev,01/02,Bulgaria,4503.0,Spartak Pleven 
+"Jun 1, 2001",,End of loan,Bulgaria,4503.0,Spartak Pleven ,15258,-,Todor Kolev,00/01,Bulgaria,156.0,Levski Sofia 
+"Jul 1, 2000",,Loan,Bulgaria,156.0,Levski Sofia ,15258,-,Todor Kolev,00/01,Bulgaria,4503.0,Spartak Pleven 
+"Jul 1, 1999",,Free transfer,Bulgaria,712.0,FK Etar ,15258,-,Todor Kolev,99/00,Bulgaria,156.0,Levski Sofia 
+"Jul 1, 2010",,Free transfer,Israel,6028.0,Kiryat Shmona ,96154,-,Ran Kojok,10/11,,75.0,Unknown 
+"Jul 1, 2010",,Free transfer,Israel,6028.0,Kiryat Shmona ,96160,-,Amir Nussbaum,10/11,,75.0,Unknown 
+"Jul 13, 2015",,?,Israel,810.0,Hapoel Haifa ,96163,300 Th. €,Yuval Shabtai,15/16,Israel,20857.0,Hapoel Raanana 
+"Jul 1, 2014",,?,Israel,6025.0,Hapoel Acre ,96163,200 Th. €,Yuval Shabtai,14/15,Israel,810.0,Hapoel Haifa 
+"Jul 1, 2011",,?,Israel,75.0,Unknown ,96163,-,Yuval Shabtai,11/12,,6025.0,Hapoel Acre 
+"Jul 1, 2010",,Free transfer,Israel,6028.0,Kiryat Shmona ,96163,-,Yuval Shabtai,10/11,,75.0,Unknown 
+"Jul 5, 2015",,Free transfer,Israel,3793.0,B. Jerusalem ,96164,250 Th. €,Tomer Swisa,15/16,Israel,810.0,Hapoel Haifa 
+"Jul 1, 2014",,?,Israel,2976.0,H. Beer Sheva ,96164,500 Th. €,Tomer Swisa,14/15,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2012",,?,Israel,31134.0,Hap R. haSharon ,96164,350 Th. €,Tomer Swisa,12/13,Israel,2976.0,H. Beer Sheva 
+"Jul 1, 2011",,?,Israel,6028.0,Kiryat Shmona ,96164,-,Tomer Swisa,11/12,Israel,31134.0,Hap R. haSharon 
+"Jul 1, 2015",,-,Israel,8907.0,Maccabi Herzliya ,112702,200 Th. €,Nitzan Damari,15/16,,515.0,Unattached 
+"Jul 1, 2014",,?,Israel,3785.0,M. Petah Tikva ,112702,200 Th. €,Nitzan Damari,14/15,Israel,8907.0,Maccabi Herzliya 
+"Jul 1, 2006",,-,Israel,26920.0,M. P. Tikva U19 ,112702,-,Nitzan Damari,06/07,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2008",,-,Israel,26920.0,M. P. Tikva U19 ,112711,-,Hagai Goldenberg,08/09,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2009",,Free transfer,Israel,5223.0,Maccabi Netanya ,25527,150 Th. €,Daniel Soares Martelo Humberto,09/10,,75.0,Unknown 
+"Oct 1, 2008",,Free transfer,Italy,416.0,Torino ,25527,150 Th. €,Daniel Soares Martelo Humberto,08/09,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2004",,?,Brazil,6600.0,Internacional ,25527,-,Daniel Soares Martelo Humberto,04/05,Italy,416.0,Torino 
+"Jul 1, 2003",,?,Brazil,1134.0,Ponte Preta ,25527,-,Daniel Soares Martelo Humberto,03/04,Brazil,6600.0,Internacional 
+"Jul 1, 2014",,?,Israel,6025.0,Hapoel Acre ,113397,100 Th. €,Sagiv Cohen,14/15,Israel,262.0,H. Petah Tikva 
+"Jan 1, 2011",,?,Romania,33966.0,CSMS Iasi ,113397,100 Th. €,Sagiv Cohen,10/11,Israel,6025.0,Hapoel Acre 
+"Sep 1, 2010",,Free transfer,Israel,262.0,H. Petah Tikva ,113397,100 Th. €,Sagiv Cohen,10/11,Romania,33966.0,CSMS Iasi 
+"Jul 1, 2006",,-,Israel,26931.0,Hapoel PT U19 ,113397,-,Sagiv Cohen,06/07,Israel,262.0,H. Petah Tikva 
+"Jul 1, 2009",,Free transfer,Israel,6105.0,FC Ashdod ,81312,-,Shay Holtsman,09/10,,123.0,End of career 
+"Jan 1, 2003",,?,Israel,554.0,Hapoel Rishon ,81312,-,Shay Holtsman,02/03,Israel,6105.0,FC Ashdod 
+"Jul 1, 2001",,?,Israel,3785.0,M. Petah Tikva ,81312,-,Shay Holtsman,01/02,Israel,554.0,Hapoel Rishon 
+"Jan 1, 2000",,?,Israel,5223.0,Maccabi Netanya ,81312,-,Shay Holtsman,99/00,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 1999",,Free transfer,Austria,14.0,Austria Vienna ,81312,-,Shay Holtsman,99/00,Israel,5223.0,Maccabi Netanya 
+"Oct 1, 1998",,?,Israel,810.0,Hapoel Haifa ,81312,-,Shay Holtsman,98/99,Austria,14.0,Austria Vienna 
+"Jan 1, 1998",,?,Israel,3793.0,B. Jerusalem ,81312,-,Shay Holtsman,97/98,Israel,810.0,Hapoel Haifa 
+"Jul 1, 1997",,?,France,273.0,Rennes ,81312,-,Shay Holtsman,97/98,Israel,3793.0,B. Jerusalem 
+"Jan 1, 1997",,?,Israel,2976.0,H. Beer Sheva ,81312,-,Shay Holtsman,96/97,France,273.0,Rennes 
+"Jul 1, 1996",,?,Israel,14792.0,Hapoel Tzafririm Holon ,81312,-,Shay Holtsman,96/97,Israel,2976.0,H. Beer Sheva 
+"Jan 1, 1995",,?,Israel,1064.0,Maccabi Haifa ,81312,-,Shay Holtsman,94/95,Israel,14792.0,Hapoel Tzafririm Holon 
+"Jul 1, 1993",,?,Israel,5223.0,Maccabi Netanya ,81312,-,Shay Holtsman,93/94,Israel,1064.0,Maccabi Haifa 
+"Jul 1, 2014",,Free transfer,Ukraine,2227.0,SK Tavriya ,24011,600 Th. €,Boban Grncarov,14/15,Macedonia,77.0,Vardar 
+"Jan 15, 2014",,?,Bulgaria,2531.0,Botev Plovdiv ,24011,850 Th. €,Boban Grncarov,13/14,Ukraine,2227.0,SK Tavriya 
+"Jul 1, 2012",,Free transfer,Belgium,204.0,Lierse SK ,24011,800 Th. €,Boban Grncarov,12/13,Bulgaria,2531.0,Botev Plovdiv 
+"Jul 1, 2011",,Free transfer,Cyprus,2784.0,APOEL Nicosia ,24011,800 Th. €,Boban Grncarov,11/12,Belgium,204.0,Lierse SK 
+"Jul 1, 2009",,100 Th. €,Belgium,157.0,KAA Gent ,24011,600 Th. €,Boban Grncarov,09/10,Cyprus,2784.0,APOEL Nicosia 
+"Jun 30, 2009",,End of loan,Israel,3785.0,M. Petah Tikva ,24011,600 Th. €,Boban Grncarov,08/09,Belgium,157.0,KAA Gent 
+"Aug 1, 2008",,Loan,Belgium,157.0,KAA Gent ,24011,600 Th. €,Boban Grncarov,08/09,Israel,3785.0,M. Petah Tikva 
+"Jul 1, 2007",,?,Ukraine,2783.0,Metalurg D. ,24011,-,Boban Grncarov,07/08,Belgium,157.0,KAA Gent 
+"Dec 31, 2006",,End of loan,Ukraine,10468.0,Stal Alchevsk ,24011,-,Boban Grncarov,06/07,Ukraine,2783.0,Metalurg D. 
+"Jul 1, 2006",,Loan fee:125 Th. €,Ukraine,2783.0,Metalurg D. ,24011,-,Boban Grncarov,06/07,Ukraine,10468.0,Stal Alchevsk 
+"Jul 1, 2003",,600 Th. €,Serbia,53.0,OFK Beograd ,24011,-,Boban Grncarov,03/04,Ukraine,2783.0,Metalurg D. 
+"Jul 1, 2000",,100 Th. €,Macedonia,77.0,Vardar ,24011,-,Boban Grncarov,00/01,Serbia,53.0,OFK Beograd 
+"Jul 23, 2015",,100 Th. €,Switzerland,260.0,FC Zürich ,113486,"1,25 Mill. €",Avi Rikan,15/16,Israel,119.0,M. Tel Aviv 
+"Jul 1, 2013",,500 Th. €,Israel,3793.0,B. Jerusalem ,113486,300 Th. €,Avi Rikan,13/14,Switzerland,260.0,FC Zürich 
+"Jun 30, 2009",,End of loan,Israel,262.0,H. Petah Tikva ,113486,-,Avi Rikan,08/09,Israel,3793.0,B. Jerusalem 
+"Jul 1, 2008",,Loan,Israel,3793.0,B. Jerusalem ,113486,-,Avi Rikan,08/09,Israel,262.0,H. Petah Tikva 
+"Jun 30, 2008",,End of loan,Israel,8907.0,Maccabi Herzliya ,113486,-,Avi Rikan,07/08,Israel,3793.0,B. Jerusalem 
+"Jul 2, 2007",,Loan,Israel,3793.0,B. Jerusalem ,113486,-,Avi Rikan,07/08,Israel,8907.0,Maccabi Herzliya 
+"Jul 1, 2007",,-,Israel,17373.0,Jerusalem U19 ,113486,-,Avi Rikan,07/08,Israel,3793.0,B. Jerusalem 
+"Jul 8, 2015",,-,Israel,515.0,Unattached ,95712,500 Th. €,Dani Amos,15/16,,6025.0,Hapoel Acre 
+"Jan 1, 2015",,-,Israel,1017.0,Hapoel Tel Aviv ,95712,600 Th. €,Dani Amos,14/15,,515.0,Unattached 
+"Jul 1, 2013",,Free transfer,Israel,6028.0,Kiryat Shmona ,95712,600 Th. €,Dani Amos,13/14,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2006",,-,Israel,38716.0,Kir. Shmona U19 ,95712,-,Dani Amos,06/07,Israel,6028.0,Kiryat Shmona 
+"Jan 16, 2016",,-,Israel,20857.0,Hapoel Raanana ,95713,-,Yaniv Lavi,15/16,,123.0,End of career 
+"Jul 1, 2013",,?,Israel,31134.0,Hap R. haSharon ,95713,175 Th. €,Yaniv Lavi,13/14,Israel,20857.0,Hapoel Raanana 
+"Jul 1, 2011",,?,Israel,6028.0,Kiryat Shmona ,95713,175 Th. €,Yaniv Lavi,11/12,Israel,31134.0,Hap R. haSharon 
+"Jul 1, 2002",,?,Israel,2785.0,H. Ramat Gan ,95713,-,Yaniv Lavi,02/03,Israel,6028.0,Kiryat Shmona 
+"Jan 1, 2002",,?,Israel,8907.0,Maccabi Herzliya ,95713,-,Yaniv Lavi,01/02,Israel,2785.0,H. Ramat Gan 
+"Jul 1, 2001",,?,Israel,20857.0,Hapoel Raanana ,95713,-,Yaniv Lavi,01/02,Israel,8907.0,Maccabi Herzliya 
+"Jul 1, 1999",,?,Israel,5223.0,Maccabi Netanya ,95713,-,Yaniv Lavi,99/00,Israel,20857.0,Hapoel Raanana 
+"Jul 1, 1997",,-,Israel,21431.0,M. Netanya U19 ,95713,-,Yaniv Lavi,97/98,Israel,5223.0,Maccabi Netanya 
+"Jul 1, 2012",,-,Israel,35110.0,Hapoel Afula ,96230,-,Yosef Bezalel,12/13,,123.0,End of career 
+"Jan 1, 2012",,Free transfer,Israel,35065.0,Maccabi Tamra ,96230,-,Yosef Bezalel,11/12,Israel,35110.0,Hapoel Afula 
+"Jul 1, 2011",,?,Israel,35113.0,M. Beer Sheva ,96230,-,Yosef Bezalel,11/12,Israel,35065.0,Maccabi Tamra 
+"Jan 1, 2011",,?,Israel,2828.0,M. Ahi Nazareth ,96230,-,Yosef Bezalel,10/11,Israel,35113.0,M. Beer Sheva 
+"Jul 1, 2010",,?,Israel,7532.0,Hapoel Kfar Saba ,96230,-,Yosef Bezalel,10/11,Israel,2828.0,M. Ahi Nazareth 
+"Jul 1, 2009",,Free transfer,Israel,6028.0,Kiryat Shmona ,96230,-,Yosef Bezalel,09/10,Israel,7532.0,Hapoel Kfar Saba 
+"Jul 1, 2008",,?,Israel,2828.0,M. Ahi Nazareth ,96230,-,Yosef Bezalel,08/09,Israel,6028.0,Kiryat Shmona 
+"Jul 1, 2007",,?,Israel,6028.0,Kiryat Shmona ,96230,-,Yosef Bezalel,07/08,Israel,2828.0,M. Ahi Nazareth 
+"Jul 1, 2009",,-,Israel,3785.0,M. Petah Tikva ,31723,650 Th. €,Siramana Dembélé,09/10,,123.0,End of career 
+"Aug 1, 2008",,Free transfer,Belgium,3057.0,Standard Liège ,31723,650 Th. €,Siramana Dembélé,08/09,Israel,3785.0,M. Petah Tikva 
+"Jan 1, 2006",,Free transfer,Portugal,1085.0,Vitória Setúbal ,31723,650 Th. €,Siramana Dembélé,05/06,Belgium,3057.0,Standard Liège 
+"Jul 1, 2005",,Free transfer,France,1160.0,Olympique Nîmes ,31723,-,Siramana Dembélé,05/06,Portugal,1085.0,Vitória Setúbal 
+"Jul 1, 2004",,Free transfer,France,895.0,Cannes ,31723,-,Siramana Dembélé,04/05,France,1160.0,Olympique Nîmes 
+"Jul 1, 2003",,Free transfer,France,2618.0,Olympique Alès ,31723,-,Siramana Dembélé,03/04,France,895.0,Cannes 
 ,'NoneType' object has no attribute 'find_all',,,,,112736,,,,,,
-"Jul 1, 2015",,?,Israel,2976,H. Beer Sheva ,112737,400 Th. €,Dor Malul,15/16,Israel,810,Hapoel Haifa 
-"Jul 1, 2014",,?,Israel,3793,B. Jerusalem ,112737,400 Th. €,Dor Malul,14/15,Israel,2976,H. Beer Sheva 
-"Jul 1, 2013",,Free transfer,Belgium,566,Beerschot AC ,112737,400 Th. €,Dor Malul,13/14,Israel,3793,B. Jerusalem 
-"Jul 1, 2012",,?,Israel,119,M. Tel Aviv ,112737,800 Th. €,Dor Malul,12/13,Belgium,566,Beerschot AC 
-"Jun 30, 2012",,End of loan,Belgium,566,Beerschot AC ,112737,800 Th. €,Dor Malul,11/12,Israel,119,M. Tel Aviv 
-"Jul 1, 2011",,Loan,Israel,119,M. Tel Aviv ,112737,600 Th. €,Dor Malul,11/12,Belgium,566,Beerschot AC 
-"Jul 1, 2008",,-,Israel,19856,M. Tel Aviv U19 ,112737,-,Dor Malul,08/09,Israel,119,M. Tel Aviv 
-"Jul 1, 2013",,?,Israel,24026,Hapoel Bnei Lod ,19042,200 Th. €,Kwabena Agouda,13/14,,75,Unknown 
-"Jan 1, 2011",,Free transfer,Israel,7532,Hapoel Kfar Saba ,19042,200 Th. €,Kwabena Agouda,10/11,Israel,24026,Hapoel Bnei Lod 
-"Jul 1, 2010",,Free transfer,Israel,24026,Hapoel Bnei Lod ,19042,200 Th. €,Kwabena Agouda,10/11,Israel,7532,Hapoel Kfar Saba 
-"Feb 1, 2010",,Free transfer,Israel,6028,Kiryat Shmona ,19042,200 Th. €,Kwabena Agouda,09/10,Israel,24026,Hapoel Bnei Lod 
-"Jul 1, 2009",,Free transfer,Israel,24026,Hapoel Bnei Lod ,19042,200 Th. €,Kwabena Agouda,09/10,Israel,19977,H. Ashkelon 
-"Jan 1, 2009",,Free transfer,Israel,75,Unknown ,19042,200 Th. €,Kwabena Agouda,08/09,,24026,Hapoel Bnei Lod 
-"Jan 1, 2008",,Free transfer,Switzerland,257,FC St. Gallen ,19042,200 Th. €,Kwabena Agouda,07/08,Israel,6028,Kiryat Shmona 
-"Dec 31, 2006",,End of loan,Switzerland,242,FC Winterthur ,19042,400 Th. €,Kwabena Agouda,06/07,Switzerland,257,FC St. Gallen 
-"Jul 1, 2006",,Loan,Switzerland,257,FC St. Gallen ,19042,400 Th. €,Kwabena Agouda,06/07,Switzerland,242,FC Winterthur 
-"Jul 1, 2004",,Free transfer,Ghana,23073,Nania FC ,19042,-,Kwabena Agouda,04/05,Switzerland,257,FC St. Gallen 
-"Jan 1, 2016",,?,Ghana,13603,Heart of Lions ,85091,500 Th. €,Samuel Yeboah,15/16,Ghana,3601,Hearts of Oak 
-"Jul 1, 2013",,?,Ghana,75,Unknown ,85091,500 Th. €,Samuel Yeboah,13/14,,13603,Heart of Lions 
-"Aug 27, 2012",,?,Cyprus,18945,Nea Salamis ,85091,500 Th. €,Samuel Yeboah,12/13,,75,Unknown 
-"Jan 1, 2012",,?,Israel,6105,FC Ashdod ,85091,900 Th. €,Samuel Yeboah,11/12,Cyprus,18945,Nea Salamis 
-"Sep 1, 2011",,Free transfer,Belgium,1184,KRC Genk ,85091,900 Th. €,Samuel Yeboah,11/12,Israel,6105,FC Ashdod 
-"Jun 30, 2011",,End of loan,Israel,3793,B. Jerusalem ,85091,900 Th. €,Samuel Yeboah,10/11,Belgium,1184,KRC Genk 
-"Aug 1, 2010",,Loan,Belgium,1184,KRC Genk ,85091,"1,20 Mill. €",Samuel Yeboah,10/11,Israel,3793,B. Jerusalem 
-"Jan 1, 2010",,700 Th. €,Israel,1017,Hapoel Tel Aviv ,85091,"1,40 Mill. €",Samuel Yeboah,09/10,Belgium,1184,KRC Genk 
-"Jul 1, 2008",,700 Th. €,Israel,7532,Hapoel Kfar Saba ,85091,-,Samuel Yeboah,08/09,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2005",,Free transfer,Moldova,2481,Sheriff ,85091,-,Samuel Yeboah,05/06,Israel,7532,Hapoel Kfar Saba 
-"Jul 1, 2004",,Free transfer,Ghana,13603,Heart of Lions ,85091,-,Samuel Yeboah,04/05,Moldova,2481,Sheriff 
-"Jul 1, 2002",,-,Ghana,12604,Own Youth ,85091,-,Samuel Yeboah,02/03,,13603,Heart of Lions 
-"Jan 21, 2013",,250 Th. €,Italy,458,US Palermo ,85093,"1,50 Mill. €",Eran Zahavi,12/13,Israel,119,M. Tel Aviv 
-"Jul 1, 2011",,"1,68 Mill. €",Israel,1017,Hapoel Tel Aviv ,85093,"1,00 Mill. €",Eran Zahavi,11/12,Italy,458,US Palermo 
-"Jun 30, 2008",,End of loan,Israel,31134,Hap R. haSharon ,85093,-,Eran Zahavi,07/08,Israel,1017,Hapoel Tel Aviv 
-"Jan 1, 2007",,Loan,Israel,1017,Hapoel Tel Aviv ,85093,-,Eran Zahavi,06/07,Israel,31134,Hap R. haSharon 
-"Jul 1, 2006",,-,Israel,19853,H. Tel Aviv U19 ,85093,-,Eran Zahavi,06/07,Israel,1017,Hapoel Tel Aviv 
-"Jun 30, 2015",,End of loan,Israel,6028,Kiryat Shmona ,200299,750 Th. €,Shimon Abuhatzira,14/15,Israel,1064,Maccabi Haifa 
-"Feb 2, 2015",,Loan,Israel,1064,Maccabi Haifa ,200299,900 Th. €,Shimon Abuhatzira,14/15,Israel,6028,Kiryat Shmona 
-"Jul 1, 2013",,700 Th. €,Israel,6028,Kiryat Shmona ,200299,750 Th. €,Shimon Abuhatzira,13/14,Israel,1064,Maccabi Haifa 
-"Jul 1, 2011",,Free transfer,Greece,4603,AE Larisa ,200299,-,Shimon Abuhatzira,11/12,Israel,6028,Kiryat Shmona 
-"Jun 30, 2011",,End of loan,Israel,6028,Kiryat Shmona ,200299,-,Shimon Abuhatzira,10/11,Greece,4603,AE Larisa 
-"Jan 1, 2011",,Loan,Greece,4603,AE Larisa ,200299,-,Shimon Abuhatzira,10/11,Israel,6028,Kiryat Shmona 
-"Jul 1, 2009",,180 Th. €,Israel,262,H. Petah Tikva ,200299,-,Shimon Abuhatzira,09/10,Greece,4603,AE Larisa 
-"Jul 1, 2006",,-,Israel,26931,Hapoel PT U19 ,200299,-,Shimon Abuhatzira,06/07,Israel,262,H. Petah Tikva 
-"Jan 30, 2016",,-,Greece,4602,Olymp. Volos ,31340,200 Th. €,Darío Fernández,15/16,,515,Unattached 
-"Jul 26, 2015",,Free transfer,Israel,35110,Hapoel Afula ,31340,200 Th. €,Darío Fernández,15/16,Greece,4602,Olymp. Volos 
-"Oct 1, 2014",,?,Israel,810,Hapoel Haifa ,31340,200 Th. €,Darío Fernández,14/15,Israel,35110,Hapoel Afula 
-"Jul 1, 2013",,?,Israel,3793,B. Jerusalem ,31340,200 Th. €,Darío Fernández,13/14,Israel,810,Hapoel Haifa 
-"Jan 1, 2012",,-,Israel,515,Unattached ,31340,600 Th. €,Darío Fernández,11/12,,3793,B. Jerusalem 
-"Oct 1, 2011",,-,Cyprus,8701,Alki Larnaca ,31340,600 Th. €,Darío Fernández,11/12,,515,Unattached 
-"Jan 1, 2011",,?,Israel,3793,B. Jerusalem ,31340,"1,00 Mill. €",Darío Fernández,10/11,Cyprus,8701,Alki Larnaca 
-"Jun 30, 2010",,End of loan,Greece,605,Aris Saloniki ,31340,"1,50 Mill. €",Darío Fernández,09/10,Israel,3793,B. Jerusalem 
-"Jul 1, 2009",,Loan fee:150 Th. €,Israel,3793,B. Jerusalem ,31340,"1,50 Mill. €",Darío Fernández,09/10,Greece,605,Aris Saloniki 
-"Jul 1, 2008",,850 Th. €,Greece,169,Panionios ,31340,500 Th. €,Darío Fernández,08/09,Israel,3793,B. Jerusalem 
-"Jul 1, 2005",,390 Th. €,Argentina,2154,Chacarita Jrs ,31340,-,Darío Fernández,05/06,Greece,169,Panionios 
-"Jan 1, 2005",,?,Argentina,12574,Godoy Cruz ,31340,-,Darío Fernández,04/05,Argentina,2154,Chacarita Jrs 
-"Jul 1, 2004",,?,Chile,9103,Cobreloa ,31340,-,Darío Fernández,04/05,Argentina,12574,Godoy Cruz 
-"Jan 1, 2004",,?,Argentina,1826,Quilmes ,31340,-,Darío Fernández,03/04,Chile,9103,Cobreloa 
-"Jul 1, 2002",,?,Argentina,7468,Olimpo ,31340,-,Darío Fernández,02/03,Argentina,1826,Quilmes 
-"Jul 1, 2001",,?,Argentina,12179,Ind. Rivadavia ,31340,-,Darío Fernández,01/02,Argentina,7468,Olimpo 
-"Jul 1, 2000",,?,Argentina,26085,Punta Alta ,31340,-,Darío Fernández,00/01,Argentina,12179,Ind. Rivadavia 
-"Feb 3, 2016",,?,Israel,3793,B. Jerusalem ,112751,300 Th. €,Dani Freda,15/16,Israel,24026,Hapoel Bnei Lod 
-"Jan 1, 2014",,?,Israel,3785,M. Petah Tikva ,112751,150 Th. €,Dani Freda,13/14,Israel,3793,B. Jerusalem 
-"Jul 1, 2007",,-,Israel,26920,M. P. Tikva U19 ,112751,-,Dani Freda,07/08,Israel,3785,M. Petah Tikva 
-"Jul 1, 2010",,Free transfer,Israel,4769,Bnei Sakhnin ,79985,50 Th. €,Ibrahim Abo Saleh,10/11,,75,Unknown 
-"Jul 1, 2009",,?,Israel,75,Unknown ,79985,-,Ibrahim Abo Saleh,09/10,,4769,Bnei Sakhnin 
-"Jul 1, 2015",,?,Israel,2828,M. Ahi Nazareth ,79986,50 Th. €,Omri Alon,15/16,Israel,43131,Kiryat Ata 
-"Jul 1, 2013",,?,Israel,3785,M. Petah Tikva ,79986,50 Th. €,Omri Alon,13/14,Israel,2828,M. Ahi Nazareth 
-"Jul 1, 2012",,?,Israel,2785,H. Ramat Gan ,79986,50 Th. €,Omri Alon,12/13,Israel,3785,M. Petah Tikva 
-"Jul 1, 2010",,Free transfer,Israel,810,Hapoel Haifa ,79986,50 Th. €,Omri Alon,10/11,Israel,2785,H. Ramat Gan 
-"Aug 1, 2009",,Free transfer,Israel,4769,Bnei Sakhnin ,79986,-,Omri Alon,09/10,Israel,810,Hapoel Haifa 
-"Jul 1, 2010",,-,Israel,4769,Bnei Sakhnin ,79987,-,Haim Benon,10/11,,123,End of career 
-"Aug 1, 2007",,?,Israel,7000,Hap Nazareth I. ,79987,-,Haim Benon,07/08,Israel,4769,Bnei Sakhnin 
-"Aug 1, 2001",,?,Israel,75,Unknown ,79987,-,Haim Benon,01/02,,7000,Hap Nazareth I. 
-"Feb 3, 2016",,?,Israel,10763,Beitar TA Ramla ,112758,-,Dor Avinu,15/16,Israel,25909,Mac. Kiryat Gat 
-"Jul 1, 2014",,-,Israel,44343,B. TA Ramla U19 ,112758,-,Dor Avinu,14/15,Israel,10763,Beitar TA Ramla 
-"Jul 1, 2010",,Free transfer,Israel,4769,Bnei Sakhnin ,79992,50 Th. €,Hilal Khalaila,10/11,,75,Unknown 
-"Jul 1, 2008",,-,Israel,18073,B. Sakhnin U19 ,79992,-,Hilal Khalaila,08/09,Israel,4769,Bnei Sakhnin 
-"Jul 1, 2014",,?,Israel,2785,H. Ramat Gan ,79993,275 Th. €,Yaniv Luzon,14/15,Israel,51934,H. Hod haSharon 
-"Jul 1, 2013",,?,Israel,262,H. Petah Tikva ,79993,275 Th. €,Yaniv Luzon,13/14,Israel,2785,H. Ramat Gan 
-"Jan 1, 2011",,?,Israel,4769,Bnei Sakhnin ,79993,275 Th. €,Yaniv Luzon,10/11,Israel,262,H. Petah Tikva 
-"Aug 1, 2010",,End of loan,Israel,2828,M. Ahi Nazareth ,79993,275 Th. €,Yaniv Luzon,10/11,Israel,4769,Bnei Sakhnin 
-"Aug 1, 2009",,Loan,Israel,4769,Bnei Sakhnin ,79993,-,Yaniv Luzon,09/10,Israel,2828,M. Ahi Nazareth 
-"Jul 1, 2008",,50 Th. €,Israel,262,H. Petah Tikva ,79993,-,Yaniv Luzon,08/09,Israel,4769,Bnei Sakhnin 
-"Jan 1, 2015",,?,Israel,5223,Maccabi Netanya ,96381,300 Th. €,Omri Kende,14/15,Israel,17580,H. Jerusalem 
-"Jul 1, 2014",,?,Israel,810,Hapoel Haifa ,96381,300 Th. €,Omri Kende,14/15,Israel,5223,Maccabi Netanya 
-"Jul 1, 2013",,-,Israel,515,Unattached ,96381,300 Th. €,Omri Kende,13/14,,810,Hapoel Haifa 
-"Jan 1, 2013",,-,Romania,13499,Astra Ploiesti ,96381,300 Th. €,Omri Kende,12/13,,515,Unattached 
-"Oct 3, 2012",,Free transfer,Israel,1017,Hapoel Tel Aviv ,96381,500 Th. €,Omri Kende,12/13,Romania,13499,Astra Ploiesti 
-"Jul 1, 2007",,?,Israel,262,H. Petah Tikva ,96381,-,Omri Kende,07/08,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2004",,-,Israel,26931,Hapoel PT U19 ,96381,-,Omri Kende,04/05,Israel,262,H. Petah Tikva 
-"Jul 1, 2015",,?,Israel,5223,Maccabi Netanya ,96382,600 Th. €,Ariel Harush,15/16,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2014",,?,Israel,3793,B. Jerusalem ,96382,500 Th. €,Ariel Harush,14/15,Israel,5223,Maccabi Netanya 
-"Jul 1, 2007",,-,Israel,17373,Jerusalem U19 ,96382,-,Ariel Harush,07/08,Israel,3793,B. Jerusalem 
-"Jul 1, 2009",,Free transfer,Israel,4769,Bnei Sakhnin ,79999,-,Mosa Sha´ban,09/10,,75,Unknown 
-"Jan 1, 2016",,-,Israel,515,Unattached ,80000,350 Th. €,Paty Yeye Lenkebe,15/16,,2828,M. Ahi Nazareth 
-"Jul 1, 2015",,-,Israel,6105,FC Ashdod ,80000,350 Th. €,Paty Yeye Lenkebe,15/16,,515,Unattached 
-"Jul 1, 2011",,Free transfer,Israel,4769,Bnei Sakhnin ,80000,250 Th. €,Paty Yeye Lenkebe,11/12,Israel,6105,FC Ashdod 
-"Jul 1, 2007",,?,Israel,8907,Maccabi Herzliya ,80000,-,Paty Yeye Lenkebe,07/08,Israel,4769,Bnei Sakhnin 
-"Jul 1, 2006",,?,Congo DR,2225,AS Vita Club ,80000,-,Paty Yeye Lenkebe,06/07,Israel,8907,Maccabi Herzliya 
-"Jul 1, 2014",,-,Israel,6032,Hapoel Sachnin ,80001,50 Th. €,Emad Badarna,14/15,,515,Unattached 
-"Jan 1, 2012",,?,Israel,75,Unknown ,80001,50 Th. €,Emad Badarna,11/12,,6032,Hapoel Sachnin 
-"Aug 1, 2011",,?,Israel,31776,Ahva Arraba FC ,80001,50 Th. €,Emad Badarna,11/12,,75,Unknown 
-"Feb 1, 2011",,?,Israel,4769,Bnei Sakhnin ,80001,50 Th. €,Emad Badarna,10/11,Israel,31776,Ahva Arraba FC 
-"Jul 1, 2009",,-,Israel,18073,B. Sakhnin U19 ,80001,-,Emad Badarna,09/10,Israel,4769,Bnei Sakhnin 
-"Jan 31, 2014",,-,Israel,515,Unattached ,96386,200 Th. €,Matan Barashi,13/14,,43119,Hapoel Katamon 
-"Nov 5, 2013",,-,Israel,3793,B. Jerusalem ,96386,200 Th. €,Matan Barashi,13/14,,515,Unattached 
-"Jul 1, 2011",,?,Israel,3793,B. Jerusalem ,96388,50 Th. €,Tal Elmishaly,11/12,,75,Unknown 
-"Jul 1, 2010",,Free transfer,Israel,7532,Hapoel Kfar Saba ,96388,50 Th. €,Tal Elmishaly,10/11,Israel,3793,B. Jerusalem 
-"Jul 1, 2009",,Free transfer,Israel,3793,B. Jerusalem ,96388,-,Tal Elmishaly,09/10,Israel,7532,Hapoel Kfar Saba 
-"Jan 1, 2014",,?,Ghana,35141,New Edubiase ,80005,-,Bernard Dong-Bortey,13/14,Equatorial Guinea,35244,The Panthers FC 
-"Jul 1, 2013",,?,Vietnam,32018,Song Lam ,80005,-,Bernard Dong-Bortey,13/14,Ghana,35141,New Edubiase 
-"Mar 1, 2012",,?,Ghana,28374,Aduana Stars ,80005,-,Bernard Dong-Bortey,11/12,Vietnam,32018,Song Lam 
-"Jul 1, 2010",,?,Ghana,3601,Hearts of Oak ,80005,-,Bernard Dong-Bortey,10/11,Ghana,28374,Aduana Stars 
-"Nov 1, 2008",,End of loan,Israel,4769,Bnei Sakhnin ,80005,-,Bernard Dong-Bortey,08/09,Ghana,3601,Hearts of Oak 
-"Jul 1, 2008",,Loan,Ghana,3601,Hearts of Oak ,80005,-,Bernard Dong-Bortey,08/09,Israel,4769,Bnei Sakhnin 
-"Jul 1, 2010",,?,Italy,13562,Savona ,80006,-,Santiago Sogno,10/11,Italy,19109,AC Mezzocorona 
-"Jul 1, 2009",,?,Italy,22274,Valle d'Aosta ,80006,-,Santiago Sogno,09/10,Italy,13562,Savona 
-"Jun 30, 2016",,End of loan,Israel,119,M. Tel Aviv ,96391,200 Th. €,Daniel Lifshitz,15/16,Israel,20857,Hapoel Raanana 
-"Aug 29, 2015",,Loan,Israel,20857,Hapoel Raanana ,96391,150 Th. €,Daniel Lifshitz,15/16,Israel,119,M. Tel Aviv 
-"Jul 1, 2014",,?,Israel,8907,Maccabi Herzliya ,96391,75 Th. €,Daniel Lifshitz,14/15,Israel,20857,Hapoel Raanana 
-"Feb 1, 2014",,?,Israel,21535,Hakoah Amidar ,96391,75 Th. €,Daniel Lifshitz,13/14,Israel,8907,Maccabi Herzliya 
-"Jul 1, 2013",,Free transfer,Israel,19977,H. Ashkelon ,96391,75 Th. €,Daniel Lifshitz,13/14,Israel,21535,Hakoah Amidar 
-"Jan 1, 2013",,?,Israel,35100,M. Umm al-Fahm ,96391,75 Th. €,Daniel Lifshitz,12/13,Israel,19977,H. Ashkelon 
-"Jul 1, 2012",,Free transfer,Israel,2976,H. Beer Sheva ,96391,75 Th. €,Daniel Lifshitz,12/13,Israel,35100,M. Umm al-Fahm 
-"Jan 1, 2011",,Free transfer,Israel,2828,M. Ahi Nazareth ,96391,200 Th. €,Daniel Lifshitz,10/11,Israel,2976,H. Beer Sheva 
-"Jul 1, 2010",,?,Israel,5223,Maccabi Netanya ,96391,200 Th. €,Daniel Lifshitz,10/11,Israel,2828,M. Ahi Nazareth 
-"Jul 1, 2008",,-,Israel,21431,M. Netanya U19 ,96391,-,Daniel Lifshitz,08/09,Israel,5223,Maccabi Netanya 
-"Jul 1, 2015",,?,Israel,42683,Mac K. Jaffa ,96392,300 Th. €,Tal Maabi,15/16,Israel,51835,Betar Kfar Saba 
-"Jul 1, 2014",,?,Israel,2785,H. Ramat Gan ,96392,300 Th. €,Tal Maabi,14/15,Israel,42683,Mac K. Jaffa 
-"Jul 9, 2012",,?,Israel,3785,M. Petah Tikva ,96392,300 Th. €,Tal Maabi,12/13,Israel,2785,H. Ramat Gan 
-"Jul 1, 2011",,?,Israel,5223,Maccabi Netanya ,96392,300 Th. €,Tal Maabi,11/12,Israel,3785,M. Petah Tikva 
-"Jul 1, 2007",,?,Israel,19977,H. Ashkelon ,96392,-,Tal Maabi,07/08,Israel,5223,Maccabi Netanya 
-"Jul 1, 2006",,?,Israel,8907,Maccabi Herzliya ,96392,-,Tal Maabi,06/07,Israel,19977,H. Ashkelon 
-"Jul 1, 2005",,?,Israel,1064,Maccabi Haifa ,96392,-,Tal Maabi,05/06,Israel,8907,Maccabi Herzliya 
-"Jul 1, 2004",,-,Israel,18072,M. Haifa U19 ,96392,-,Tal Maabi,04/05,Israel,1064,Maccabi Haifa 
-"Jul 1, 2014",,-,Israel,5223,Maccabi Netanya ,96393,250 Th. €,Shalev Menashe,14/15,,515,Unattached 
-"Jul 1, 2013",,?,Israel,9095,Bnei Yehuda ,96393,250 Th. €,Shalev Menashe,13/14,Israel,5223,Maccabi Netanya 
-"Jul 1, 2010",,?,Israel,5223,Maccabi Netanya ,96393,300 Th. €,Shalev Menashe,10/11,Israel,9095,Bnei Yehuda 
-"Jul 1, 2008",,?,Israel,75,Unknown ,96393,-,Shalev Menashe,08/09,,5223,Maccabi Netanya 
-"Jan 1, 2011",,-,Israel,515,Unattached ,96394,50 Th. €,Shlomi Moshe,10/11,,25909,Mac. Kiryat Gat 
-"Jul 1, 2010",,-,Israel,27135,Ironi Bat Yam ,96394,50 Th. €,Shlomi Moshe,10/11,,515,Unattached 
-"Jul 1, 2009",,?,Israel,29484,H. Umm alFahm ,96394,-,Shlomi Moshe,09/10,Israel,27135,Ironi Bat Yam 
-"Jul 1, 2008",,?,Israel,19977,H. Ashkelon ,96394,-,Shlomi Moshe,08/09,Israel,29484,H. Umm alFahm 
-"Feb 1, 2008",,?,Israel,262,H. Petah Tikva ,96394,-,Shlomi Moshe,07/08,Israel,19977,H. Ashkelon 
-"Jul 1, 2007",,?,Israel,810,Hapoel Haifa ,96394,-,Shlomi Moshe,07/08,Israel,262,H. Petah Tikva 
 ,'NoneType' object has no attribute 'find_all',,,,,75403,,,,,,
-"Jul 1, 2015",,?,Israel,51935,Shikhun hMizrah ,96396,250 Th. €,Elnatan Salami,15/16,Israel,51835,Betar Kfar Saba 
-"Jul 1, 2014",,?,Israel,35110,Hapoel Afula ,96396,250 Th. €,Elnatan Salami,14/15,Israel,51935,Shikhun hMizrah 
-"Jul 1, 2013",,?,Israel,10763,Beitar TA Ramla ,96396,250 Th. €,Elnatan Salami,13/14,Israel,35110,Hapoel Afula 
-"Jan 1, 2013",,?,Israel,6025,Hapoel Acre ,96396,250 Th. €,Elnatan Salami,12/13,Israel,10763,Beitar TA Ramla 
-"Jul 1, 2012",,?,Israel,2828,M. Ahi Nazareth ,96396,250 Th. €,Elnatan Salami,12/13,Israel,6025,Hapoel Acre 
-"Jul 1, 2011",,Free transfer,Israel,30062,Ness Ziona ,96396,250 Th. €,Elnatan Salami,11/12,Israel,2828,M. Ahi Nazareth 
-"Jul 1, 2010",,Free transfer,Israel,262,H. Petah Tikva ,96396,250 Th. €,Elnatan Salami,10/11,Israel,30062,Ness Ziona 
-"Jul 1, 2009",,?,Israel,5223,Maccabi Netanya ,96396,-,Elnatan Salami,09/10,Israel,262,H. Petah Tikva 
-"Jun 30, 2009",,End of loan,Israel,7532,Hapoel Kfar Saba ,96396,-,Elnatan Salami,08/09,Israel,5223,Maccabi Netanya 
-"Jan 1, 2009",,Loan,Israel,5223,Maccabi Netanya ,96396,-,Elnatan Salami,08/09,Israel,7532,Hapoel Kfar Saba 
-"Jul 1, 2012",,Free transfer,Israel,30062,Ness Ziona ,96397,-,Maoz Samia,12/13,Israel,17580,H. Jerusalem 
-"Aug 1, 2010",,Free transfer,Israel,5223,Maccabi Netanya ,96397,-,Maoz Samia,10/11,Israel,30062,Ness Ziona 
-"Jun 30, 2010",,End of loan,Israel,7532,Hapoel Kfar Saba ,96397,-,Maoz Samia,09/10,Israel,5223,Maccabi Netanya 
-"Aug 1, 2009",,Loan,Israel,5223,Maccabi Netanya ,96397,-,Maoz Samia,09/10,Israel,7532,Hapoel Kfar Saba 
-"Jul 1, 2007",,?,Israel,262,H. Petah Tikva ,96397,-,Maoz Samia,07/08,Israel,5223,Maccabi Netanya 
-"Mar 25, 2016",,-,United States,515,Unattached ,96398,750 Th. €,Idan Vered,15/16,,39151,Ottawa Fury 
-"Feb 23, 2016",,-,Serbia,159,Red Star ,96398,750 Th. €,Idan Vered,15/16,,515,Unattached 
-"Jul 1, 2015",,Free transfer,Israel,1064,Maccabi Haifa ,96398,750 Th. €,Idan Vered,15/16,Serbia,159,Red Star 
-"Jul 1, 2010",,900 Th. €,Israel,3793,B. Jerusalem ,96398,350 Th. €,Idan Vered,10/11,Israel,1064,Maccabi Haifa 
-"Jul 1, 2007",,-,Israel,17373,Jerusalem U19 ,96398,-,Idan Vered,07/08,Israel,3793,B. Jerusalem 
-"Aug 1, 2014",,?,Israel,43119,Hapoel Katamon ,96399,50 Th. €,Alon Weisberg,14/15,Israel,42683,Mac K. Jaffa 
-"Jul 1, 2012",,Free transfer,Ukraine,16296,Krymteplitsa ,96399,50 Th. €,Alon Weisberg,12/13,Israel,43119,Hapoel Katamon 
-"Jul 1, 2011",,?,Israel,5223,Maccabi Netanya ,96399,50 Th. €,Alon Weisberg,11/12,Ukraine,16296,Krymteplitsa 
-"Jun 30, 2011",,End of loan,Israel,32234,Hapoel Herzliya ,96399,50 Th. €,Alon Weisberg,10/11,Israel,5223,Maccabi Netanya 
-"Jul 1, 2010",,Loan,Israel,5223,Maccabi Netanya ,96399,50 Th. €,Alon Weisberg,10/11,Israel,32234,Hapoel Herzliya 
-"Jun 30, 2009",,End of loan,Israel,2785,H. Ramat Gan ,96399,-,Alon Weisberg,08/09,Israel,5223,Maccabi Netanya 
-"Jan 1, 2009",,Loan,Israel,5223,Maccabi Netanya ,96399,-,Alon Weisberg,08/09,Israel,2785,H. Ramat Gan 
-"Jan 1, 2016",,?,Argentina,12709,San Martín (T) ,84626,100 Th. €,Carlos Alberto Chacana,15/16,Israel,51820,Hap Kfar Shalem 
-"Jul 1, 2014",,?,Israel,19977,H. Ashkelon ,84626,100 Th. €,Carlos Alberto Chacana,14/15,Argentina,12709,San Martín (T) 
-"Jul 1, 2013",,?,Israel,2785,H. Ramat Gan ,84626,100 Th. €,Carlos Alberto Chacana,13/14,Israel,19977,H. Ashkelon 
-"Jan 1, 2009",,Free transfer,Slovenia,710,NK Celje  ,84626,200 Th. €,Carlos Alberto Chacana,08/09,Israel,2785,H. Ramat Gan 
-"Aug 1, 2008",,Free transfer,Israel,2785,H. Ramat Gan ,84626,-,Carlos Alberto Chacana,08/09,Slovenia,710,NK Celje  
-"Jul 1, 2006",,?,Israel,6028,Kiryat Shmona ,84626,-,Carlos Alberto Chacana,06/07,Israel,2785,H. Ramat Gan 
-"Jan 1, 2006",,?,Israel,7532,Hapoel Kfar Saba ,84626,-,Carlos Alberto Chacana,05/06,Israel,6028,Kiryat Shmona 
-"Jul 1, 2005",,?,Israel,19977,H. Ashkelon ,84626,-,Carlos Alberto Chacana,05/06,Israel,7532,Hapoel Kfar Saba 
-"Jul 1, 2004",,?,Israel,7000,Hap Nazareth I. ,84626,-,Carlos Alberto Chacana,04/05,Israel,19977,H. Ashkelon 
-"Jul 1, 2003",,?,Kuwait,15481,Al-Arabi SC ,84626,-,Carlos Alberto Chacana,03/04,Israel,7000,Hap Nazareth I. 
-"Jan 1, 2003",,?,Argentina,1826,Quilmes ,84626,-,Carlos Alberto Chacana,02/03,Kuwait,15481,Al-Arabi SC 
-"Jul 1, 2002",,?,Argentina,209,River Plate ,84626,-,Carlos Alberto Chacana,02/03,Argentina,1826,Quilmes 
-"Jul 1, 2001",,?,Argentina,12709,San Martín (T) ,84626,-,Carlos Alberto Chacana,01/02,Argentina,209,River Plate 
-"Jan 1, 1997",,-,Argentina,19485,San Martin U19 ,84626,-,Carlos Alberto Chacana,96/97,Argentina,12709,San Martín (T) 
-"Jul 1, 2009",,Free transfer,Israel,4769,Bnei Sakhnin ,80022,-,Muhamad Raija,09/10,,75,Unknown 
-"Jan 9, 2016",,Free transfer,Norway,2961,Moss FK ,27288,50 Th. €,Dulee Johnson,15/16,Norway,687,Molde FK 
-"Sep 2, 2015",,Free transfer,Romania,33966,CSMS Iasi ,27288,50 Th. €,Dulee Johnson,15/16,Norway,2961,Moss FK 
-"Jul 1, 2014",,Free transfer,Romania,31304,Sageata Navodar ,27288,400 Th. €,Dulee Johnson,14/15,Romania,33966,CSMS Iasi 
-"Feb 11, 2014",,Free transfer,Sweden,3362,IK Brage ,27288,200 Th. €,Dulee Johnson,13/14,Romania,31304,Sageata Navodar 
-"Jan 1, 2013",,Free transfer,South Africa,9370,AmaZulu FC ,27288,250 Th. €,Dulee Johnson,12/13,Sweden,3362,IK Brage 
-"Jul 16, 2012",,-,South Africa,515,Unattached ,27288,250 Th. €,Dulee Johnson,12/13,,9370,AmaZulu FC 
-"Oct 1, 2011",,-,Netherlands,642,De Graafschap ,27288,250 Th. €,Dulee Johnson,11/12,,515,Unattached 
-"Jul 1, 2011",,Free transfer,Greece,6418,Panetolikos ,27288,250 Th. €,Dulee Johnson,11/12,Netherlands,642,De Graafschap 
-"Dec 1, 2010",,Free transfer,Sweden,272,AIK Solna ,27288,500 Th. €,Dulee Johnson,10/11,Greece,6418,Panetolikos 
-"Jul 1, 2009",,Free transfer,Israel,119,M. Tel Aviv ,27288,"2,00 Mill. €",Dulee Johnson,09/10,Sweden,272,AIK Solna 
-"Jul 1, 2008",,Free transfer,Sweden,272,AIK Solna ,27288,"3,00 Mill. €",Dulee Johnson,08/09,Israel,119,M. Tel Aviv 
-"Feb 1, 2006",,Free transfer,Sweden,1109,BK Häcken ,27288,-,Dulee Johnson,05/06,Sweden,272,AIK Solna 
-"Jul 1, 2001",,Free transfer,Sweden,9121,Floda BoIF ,27288,-,Dulee Johnson,01/02,Sweden,1109,BK Häcken 
-"Jul 1, 2015",,?,Colombia,32040,Uniautónoma ,74415,250 Th. €,Iván Garrido,15/16,El Salvador,14078,Alianza FC 
-"Jan 1, 2015",,?,Colombia,14583,Atlético Huila ,74415,250 Th. €,Iván Garrido,14/15,Colombia,32040,Uniautónoma 
-"Jul 1, 2012",,Free transfer,Israel,2976,H. Beer Sheva ,74415,350 Th. €,Iván Garrido,12/13,Colombia,14583,Atlético Huila 
-"Oct 1, 2011",,?,Israel,9095,Bnei Yehuda ,74415,350 Th. €,Iván Garrido,11/12,Israel,2976,H. Beer Sheva 
-"Jul 1, 2008",,Free transfer,Colombia,6495,A. Bucaramanga ,74415,-,Iván Garrido,08/09,Israel,9095,Bnei Yehuda 
-"Jan 1, 2007",,Free transfer,Colombia,11648,Indep. Santa Fe ,74415,-,Iván Garrido,06/07,Colombia,6495,A. Bucaramanga 
-"Jan 1, 2006",,Free transfer,Colombia,6495,A. Bucaramanga ,74415,-,Iván Garrido,05/06,Colombia,11648,Indep. Santa Fe 
-"Jan 1, 2001",,-,Colombia,19981,Bucaramanga U19 ,74415,-,Iván Garrido,00/01,Colombia,6495,A. Bucaramanga 
-"Jan 1, 2010",,Free transfer,Israel,2785,H. Ramat Gan ,22720,-,William,09/10,Israel,2976,H. Beer Sheva 
-"Aug 1, 2007",,?,Portugal,1075,Braga ,22720,-,William,07/08,Israel,2785,H. Ramat Gan 
-"Jun 30, 2007",,End of loan,Portugal,2424,Gil Vicente ,22720,-,William,06/07,Portugal,1075,Braga 
-"Jul 1, 2006",,Loan,Portugal,1075,Braga ,22720,-,William,06/07,Portugal,2424,Gil Vicente 
-"Aug 1, 2005",,?,Portugal,2990,Coimbra ,22720,-,William,05/06,Portugal,1075,Braga 
-"Jun 30, 2005",,End of loan,Portugal,6987,Fátima ,22720,-,William,04/05,Portugal,2990,Coimbra 
-"Jan 1, 2005",,Loan,Portugal,2990,Coimbra ,22720,-,William,04/05,Portugal,6987,Fátima 
-"Jul 1, 2004",,?,Brazil,7535,EC São José ,22720,-,William,04/05,Portugal,2990,Coimbra 
-"Jan 1, 2011",,?,Panama,18952,Chorrillo FC ,29891,-,Alberto Blanco,10/11,,75,Unknown 
-"Jul 1, 2010",,?,Panama,11698,San Francisco ,29891,-,Alberto Blanco,10/11,Panama,18952,Chorrillo FC 
-"Jun 30, 2009",,End of loan,Israel,5223,Maccabi Netanya ,29891,-,Alberto Blanco,08/09,Panama,11698,San Francisco 
-"Jan 1, 2009",,Loan,Panama,11698,San Francisco ,29891,-,Alberto Blanco,08/09,Israel,5223,Maccabi Netanya 
-"Jul 1, 2008",,?,Colombia,11854,Atlético Junior ,29891,-,Alberto Blanco,08/09,Panama,11698,San Francisco 
-"Jan 1, 2008",,?,Panama,11698,San Francisco ,29891,-,Alberto Blanco,07/08,Colombia,11854,Atlético Junior 
-"Jul 1, 2007",,?,Panama,20960,Plaza Amador ,29891,-,Alberto Blanco,07/08,Panama,11698,San Francisco 
-"Jan 1, 2007",,?,United Arab Emirates,5432,Al-Nasr ,29891,-,Alberto Blanco,06/07,Panama,20960,Plaza Amador 
-"Jul 1, 2006",,?,United Arab Emirates,2150,Al-Ain FC ,29891,-,Alberto Blanco,06/07,United Arab Emirates,5432,Al-Nasr 
-"Jul 1, 2005",,?,Russia,2703,Spartak V-kavkaz ,29891,-,Alberto Blanco,05/06,United Arab Emirates,2150,Al-Ain FC 
-"Jan 1, 2005",,?,Moldova,2481,Sheriff ,29891,-,Alberto Blanco,04/05,Russia,2703,Spartak V-kavkaz 
-"Jul 1, 2001",,?,Panama,11698,San Francisco ,29891,-,Alberto Blanco,01/02,Moldova,2481,Sheriff 
-"Jul 1, 2014",,-,Israel,20857,Hapoel Raanana ,112760,-,Guy Solomon,14/15,,123,End of career 
-"Jul 1, 2013",,?,Israel,2785,H. Ramat Gan ,112760,50 Th. €,Guy Solomon,13/14,Israel,20857,Hapoel Raanana 
-"Jul 1, 2012",,-,Israel,119,M. Tel Aviv ,112760,50 Th. €,Guy Solomon,12/13,Israel,2785,H. Ramat Gan 
-"Jul 1, 2006",,?,Israel,3793,B. Jerusalem ,112760,-,Guy Solomon,06/07,Israel,119,M. Tel Aviv 
-"Jul 1, 2004",,?,Israel,5223,Maccabi Netanya ,112760,-,Guy Solomon,04/05,Israel,3793,B. Jerusalem 
-"Jul 1, 2002",,?,Israel,8907,Maccabi Herzliya ,112760,-,Guy Solomon,02/03,Israel,5223,Maccabi Netanya 
-"Jul 1, 1998",,?,Israel,119,M. Tel Aviv ,112760,-,Guy Solomon,98/99,Israel,8907,Maccabi Herzliya 
-"Jul 1, 1997",,-,Israel,19856,M. Tel Aviv U19 ,112760,-,Guy Solomon,97/98,Israel,119,M. Tel Aviv 
-,'NoneType' object has no attribute 'find_all',,,,,113375,,,,,,
-"Jul 1, 2012",,?,Tunisia,4812,Stade Tunisien ,23264,50 Th. €,Dionísio,12/13,,75,Unknown 
-"Jan 1, 2012",,?,Portugal,2432,Torreense ,23264,50 Th. €,Dionísio,11/12,Tunisia,4812,Stade Tunisien 
-"Jul 1, 2010",,Free transfer,Portugal,6987,Fátima ,23264,50 Th. €,Dionísio,10/11,Portugal,2432,Torreense 
-"Nov 1, 2009",,-,Portugal,515,Unattached ,23264,-,Dionísio,09/10,,6987,Fátima 
-"Jul 1, 2009",,-,Israel,4769,Bnei Sakhnin ,23264,-,Dionísio,09/10,,515,Unattached 
-"Jan 1, 2009",,?,Cyprus,2156,AEK Larnaca ,23264,-,Dionísio,08/09,Israel,4769,Bnei Sakhnin 
-"Jul 1, 2008",,Free transfer,Tunisia,4812,Stade Tunisien ,23264,-,Dionísio,08/09,Cyprus,2156,AEK Larnaca 
-"Jul 1, 2006",,?,Portugal,5707,Barreirense ,23264,-,Dionísio,06/07,Tunisia,4812,Stade Tunisien 
-"Jan 1, 2006",,?,Portugal,3345,Leixões ,23264,-,Dionísio,05/06,Portugal,5707,Barreirense 
-"Jul 1, 2004",,?,Portugal,7119,Vilafranquense ,23264,-,Dionísio,04/05,Portugal,3345,Leixões 
-"Jul 1, 2002",,Free transfer,Portugal,2432,Torreense ,23264,-,Dionísio,02/03,Portugal,7119,Vilafranquense 
-"Jan 1, 2000",,?,Portugal,2430,Lourinhanense ,23264,-,Dionísio,99/00,Portugal,2432,Torreense 
-"Jul 1, 1999",,-,Portugal,22269,Lourinhã U19 ,23264,-,Dionísio,99/00,Portugal,2430,Lourinhanense 
-"Jul 1, 2010",,Free transfer,Israel,262,H. Petah Tikva ,113380,300 Th. €,Armon Ben Naim,10/11,,75,Unknown 
-"Jul 1, 2008",,-,Israel,26931,Hapoel PT U19 ,113380,-,Armon Ben Naim,08/09,Israel,262,H. Petah Tikva 
-"Jul 1, 2010",,Free transfer,Israel,6028,Kiryat Shmona ,96490,-,Ohad Elgarbeli,10/11,,75,Unknown 
-"Jul 1, 2012",,?,Israel,1064,Maccabi Haifa ,79997,350 Th. €,Ali Ottman,12/13,Israel,4769,Bnei Sakhnin 
-"Aug 1, 2009",,500 Th. €,Israel,4769,Bnei Sakhnin ,79997,-,Ali Ottman,09/10,Israel,1064,Maccabi Haifa 
-"Oct 29, 2015",,-,Israel,810,Hapoel Haifa ,113395,-,Gal Cohen,15/16,,123,End of career 
-"Jul 1, 2014",,?,Israel,9095,Bnei Yehuda ,113395,250 Th. €,Gal Cohen,14/15,Israel,810,Hapoel Haifa 
-"Aug 1, 2011",,?,Israel,262,H. Petah Tikva ,113395,250 Th. €,Gal Cohen,11/12,Israel,9095,Bnei Yehuda 
-"Jun 1, 2007",,End of loan,Israel,7000,Hap Nazareth I. ,113395,-,Gal Cohen,06/07,Israel,262,H. Petah Tikva 
-"Jul 1, 2006",,Loan,Israel,262,H. Petah Tikva ,113395,-,Gal Cohen,06/07,Israel,7000,Hap Nazareth I. 
-"Jul 1, 2014",,?,Israel,75,Unknown ,113396,300 Th. €,Itzak Cohen,14/15,,4769,Bnei Sakhnin 
-"Jul 1, 2013",,?,Israel,6028,Kiryat Shmona ,113396,300 Th. €,Itzak Cohen,13/14,,75,Unknown 
-"Sep 1, 2012",,?,Israel,1064,Maccabi Haifa ,113396,300 Th. €,Itzak Cohen,12/13,Israel,6028,Kiryat Shmona 
-"Jul 1, 2011",,150 Th. €,Israel,6025,Hapoel Acre ,113396,250 Th. €,Itzak Cohen,11/12,Israel,1064,Maccabi Haifa 
-"Jul 1, 2009",,?,Israel,262,H. Petah Tikva ,113396,-,Itzak Cohen,09/10,Israel,6025,Hapoel Acre 
-"Jan 1, 2014",,Free transfer,Russia,75,Unknown ,112766,-,Yeghia Yavruyan,13/14,,49792,TPF 
-"Jul 1, 2011",,Free transfer,Israel,19977,H. Ashkelon ,112766,300 Th. €,Yeghia Yavruyan,11/12,,75,Unknown 
-"Jan 1, 2011",,?,Israel,9095,Bnei Yehuda ,112766,300 Th. €,Yeghia Yavruyan,10/11,Israel,19977,H. Ashkelon 
-"Jul 1, 2010",,?,Israel,119,M. Tel Aviv ,112766,200 Th. €,Yeghia Yavruyan,10/11,Israel,9095,Bnei Yehuda 
-"Jul 1, 2008",,?,Israel,4769,Bnei Sakhnin ,112766,-,Yeghia Yavruyan,08/09,Israel,119,M. Tel Aviv 
-"Jul 1, 2007",,?,Israel,6028,Kiryat Shmona ,112766,-,Yeghia Yavruyan,07/08,Israel,4769,Bnei Sakhnin 
-"Jan 1, 2007",,?,Russia,2374,Shinnik ,112766,-,Yeghia Yavruyan,06/07,Israel,6028,Kiryat Shmona 
-"Jul 1, 2006",,?,Israel,1017,Hapoel Tel Aviv ,112766,-,Yeghia Yavruyan,06/07,Russia,2374,Shinnik 
-"Jul 1, 2005",,?,Israel,262,H. Petah Tikva ,112766,-,Yeghia Yavruyan,05/06,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2004",,?,Hungary,2952,FC Sopron ,112766,-,Yeghia Yavruyan,04/05,Israel,262,H. Petah Tikva 
-"Jul 1, 2002",,?,Hungary,4787,Dunaferr SE ,112766,-,Yeghia Yavruyan,02/03,Hungary,2952,FC Sopron 
-"Jul 1, 2001",,?,Hungary,6049,Békéscsaba ,112766,-,Yeghia Yavruyan,01/02,Hungary,4787,Dunaferr SE 
-"Jul 1, 2000",,?,Hungary,2952,FC Sopron ,112766,-,Yeghia Yavruyan,00/01,Hungary,6049,Békéscsaba 
-"Jul 1, 1999",,?,Hungary,75,Unknown ,112766,-,Yeghia Yavruyan,99/00,,2952,FC Sopron 
-"Jan 14, 2016",,?,Israel,5223,Maccabi Netanya ,113404,200 Th. €,Snir Dori,15/16,Israel,262,H. Petah Tikva 
-"Jul 1, 2013",,?,Israel,262,H. Petah Tikva ,113404,250 Th. €,Snir Dori,13/14,Israel,5223,Maccabi Netanya 
-"Jul 1, 2007",,-,Israel,26931,Hapoel PT U19 ,113404,-,Snir Dori,07/08,Israel,262,H. Petah Tikva 
-"Oct 4, 2015",,?,Israel,119,M. Tel Aviv ,113406,250 Th. €,Dan Einbinder,15/16,Israel,3793,B. Jerusalem 
-"Jul 1, 2013",,?,Israel,6028,Kiryat Shmona ,113406,250 Th. €,Dan Einbinder,13/14,Israel,119,M. Tel Aviv 
-"Aug 1, 2012",,?,Israel,3793,B. Jerusalem ,113406,250 Th. €,Dan Einbinder,12/13,Israel,6028,Kiryat Shmona 
-"Jan 1, 2009",,-,Israel,17373,Jerusalem U19 ,113406,-,Dan Einbinder,08/09,Israel,3793,B. Jerusalem 
-"Jul 1, 2014",,?,Israel,3793,B. Jerusalem ,96384,50 Th. €,Ohad Saidof,14/15,Israel,43119,Hapoel Katamon 
-"Jul 1, 2008",,?,Israel,75,Unknown ,96384,-,Ohad Saidof,08/09,,3793,B. Jerusalem 
-"Feb 23, 2016",,Free transfer,Kazakhstan,10482,Kairat Almaty ,113415,500 Th. €,Mark Gurman,15/16,Kazakhstan,22220,FC Astana 
-"Feb 12, 2013",,Free transfer,Turkey,152,Samsunspor ,113415,200 Th. €,Mark Gurman,12/13,Kazakhstan,10482,Kairat Almaty 
-"Jan 6, 2013",,?,Kazakhstan,22220,FC Astana ,113415,200 Th. €,Mark Gurman,12/13,Turkey,152,Samsunspor 
-"Dec 31, 2012",,End of loan,Kazakhstan,10482,Kairat Almaty ,113415,200 Th. €,Mark Gurman,12/13,Kazakhstan,22220,FC Astana 
-"Mar 14, 2012",,Loan,Kazakhstan,22220,FC Astana ,113415,200 Th. €,Mark Gurman,11/12,Kazakhstan,10482,Kairat Almaty 
-"Aug 1, 2010",,100 Th. €,Israel,2828,M. Ahi Nazareth ,113415,200 Th. €,Mark Gurman,10/11,Kazakhstan,22220,Lok. Astana 
-"Jun 30, 2010",,End of loan,Israel,2828,M. Ahi Nazareth ,113415,200 Th. €,Mark Gurman,09/10,Israel,262,H. Petah Tikva 
-"Aug 1, 2009",,Loan,Israel,262,H. Petah Tikva ,113415,-,Mark Gurman,09/10,Israel,2828,M. Ahi Nazareth 
-"Sep 1, 2015",,?,Israel,6028,Kiryat Shmona ,97545,250 Th. €,Adrian Rochet,15/16,Israel,810,Hapoel Haifa 
+,'NoneType' object has no attribute 'find_all',,,,,112710,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,112713,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,72971,,,,,,
-"Dec 29, 2015",,Free transfer,United States,23565,TB Rowdies ,66322,300 Th. €,Maicón Santos,15/16,United States,9713,Fort Lauderdale 
-"Feb 4, 2015",,-,United States,515,Unattached ,66322,300 Th. €,Maicón Santos,14/15,,23565,TB Rowdies 
-"Jul 1, 2014",,-,Mexico,5662,Puebla ,66322,300 Th. €,Maicón Santos,14/15,,515,Unattached 
-"Feb 4, 2014",,Free transfer,United States,432,Chicago ,66322,300 Th. €,Maicón Santos,13/14,Mexico,5662,Puebla 
-"Dec 7, 2012",,draft,United States,2440,DC United ,66322,300 Th. €,Maicón Santos,12/13,United States,432,Chicago 
-"Jan 18, 2012",,-,United States,515,Unattached ,66322,250 Th. €,Maicón Santos,11/12,,2440,DC United 
-"Dec 9, 2011",,-,United States,8816,FC Dallas	 ,66322,250 Th. €,Maicón Santos,11/12,,515,Unattached 
-"Aug 2, 2011",,Swap deal,United States,11141,Toronto ,66322,250 Th. €,Maicón Santos,11/12,United States,8816,FC Dallas	 
-"Jul 9, 2010",,Free transfer,United States,6642,Chivas USA ,66322,250 Th. €,Maicón Santos,10/11,United States,11141,Toronto 
-"Aug 21, 2009",,?,Brazil,3972,Bonsucesso Futebol Clube (RJ) ,66322,250 Th. €,Maicón Santos,09/10,United States,6642,Chivas USA 
-"Jan 1, 2009",,?,Israel,4769,Bnei Sakhnin ,66322,250 Th. €,Maicón Santos,08/09,Brazil,3972,Bonsucesso Futebol Clube (RJ) 
-"Sep 1, 2008",,?,Israel,6028,Kiryat Shmona ,66322,250 Th. €,Maicón Santos,08/09,Israel,4769,Bnei Sakhnin 
-"Jul 1, 2008",,?,Tunisia,250,ES Sahel ,66322,250 Th. €,Maicón Santos,08/09,Israel,6028,Kiryat Shmona 
-"Apr 1, 2008",,End of loan,Libya,13508,Al-Nasr Bengh. ,66322,250 Th. €,Maicón Santos,07/08,Tunisia,250,ES Sahel 
-"Jul 1, 2007",,Loan,Tunisia,250,ES Sahel ,66322,-,Maicón Santos,07/08,Libya,13508,Al-Nasr Bengh. 
-"Aug 1, 2006",,?,Brazil,4907,Madureira Esporte Clube (RJ) ,66322,-,Maicón Santos,06/07,Tunisia,250,ES Sahel 
-,'NoneType' object has no attribute 'find_all',,,,,113435,,,,,,
-"Aug 19, 2013",,?,Croatia,10317,Zmaj Makarska ,27940,-,Dragan Stojkic,13/14,Croatia,22558,NK Zmijavci 
-"Feb 1, 2013",,Free transfer,Israel,19977,H. Ashkelon ,27940,-,Dragan Stojkic,12/13,Croatia,10317,Zmaj Makarska 
-"Jul 1, 2011",,Free transfer,Israel,6105,FC Ashdod ,27940,150 Th. €,Dragan Stojkic,11/12,Israel,19977,H. Ashkelon 
-"Jan 1, 2009",,Free transfer,Russia,4057,Luch-Energia ,27940,400 Th. €,Dragan Stojkic,08/09,Israel,6105,FC Ashdod 
-"Jul 1, 2008",,?,Croatia,5107,NK Zagreb ,27940,400 Th. €,Dragan Stojkic,08/09,Russia,4057,Luch-Energia 
-"Jul 1, 2003",,?,Croatia,223,HNK Sibenik ,27940,-,Dragan Stojkic,03/04,Croatia,5107,NK Zagreb 
-"Jul 1, 2002",,?,Croatia,2409,NK Marsonia ,27940,-,Dragan Stojkic,02/03,Croatia,223,HNK Sibenik 
-"Jul 1, 2001",,?,Bosnia-Herzegovina,1242,Siroki Brijeg ,27940,-,Dragan Stojkic,01/02,Croatia,2409,NK Marsonia 
-"Jul 1, 2000",,?,Croatia,2362,Slaven Belupo ,27940,-,Dragan Stojkic,00/01,Bosnia-Herzegovina,1242,Siroki Brijeg 
-"Jul 1, 1998",,?,Croatia,2027,NK Samobor ,27940,-,Dragan Stojkic,98/99,Croatia,2362,Slaven Belupo 
-"Jul 1, 1997",,?,Croatia,447,Hajduk Split ,27940,-,Dragan Stojkic,97/98,Croatia,2027,NK Samobor 
-"Jul 1, 2015",,Free transfer,Israel,3793,B. Jerusalem ,96390,300 Th. €,Ze'ev Haymovich,15/16,Israel,5223,Maccabi Netanya 
-"Jul 1, 2014",,?,Israel,1017,Hapoel Tel Aviv ,96390,200 Th. €,Ze'ev Haymovich,14/15,Israel,3793,B. Jerusalem 
-"Jul 1, 2013",,Free transfer,Israel,2785,H. Ramat Gan ,96390,200 Th. €,Ze'ev Haymovich,13/14,Israel,1017,Hapoel Tel Aviv 
-"Jan 1, 2013",,?,Israel,1017,Hapoel Tel Aviv ,96390,200 Th. €,Ze'ev Haymovich,12/13,Israel,2785,H. Ramat Gan 
-"Aug 20, 2012",,Free transfer,Russia,3725,Terek Grozny ,96390,200 Th. €,Ze'ev Haymovich,12/13,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2009",,?,Israel,5223,Maccabi Netanya ,96390,-,Ze'ev Haymovich,09/10,Russia,3725,Terek Grozny 
-"Jul 1, 2008",,300 Th. €,Israel,9095,Bnei Yehuda ,96390,-,Ze'ev Haymovich,08/09,Israel,5223,Maccabi Netanya 
-"Jul 1, 2007",,?,Israel,262,H. Petah Tikva ,96390,-,Ze'ev Haymovich,07/08,Israel,9095,Bnei Yehuda 
-"Jul 1, 2004",,?,Israel,20857,Hapoel Raanana ,96390,-,Ze'ev Haymovich,04/05,Israel,262,H. Petah Tikva 
-"Jul 1, 2012",,-,Israel,7532,Hapoel Kfar Saba ,113474,-,M'peti Nimba,12/13,,123,End of career 
-"Nov 1, 2011",,?,Israel,27135,Ironi Bat Yam ,113474,-,M'peti Nimba,11/12,Israel,7532,Hapoel Kfar Saba 
-"Jan 1, 2011",,?,China,18916,GZ R&F ,113474,-,M'peti Nimba,10/11,Israel,27135,Ironi Bat Yam 
-"Jan 1, 2010",,?,Israel,6028,Kiryat Shmona ,113474,-,M'peti Nimba,09/10,China,18916,CS Ginde 
-"Aug 2, 2015",,Free transfer,Italy,30066,Legnago ,96395,125 Th. €,Filippo Tanaglia,15/16,Italy,27472,ASD Villafranca 
-"Jan 9, 2015",,Free transfer,Italy,38561,Correggese ,96395,125 Th. €,Filippo Tanaglia,14/15,Italy,30066,Legnago 
-"Sep 17, 2014",,-,Italy,515,Unattached ,96395,125 Th. €,Filippo Tanaglia,14/15,,38561,Correggese 
-"Jul 1, 2014",,-,Italy,2721,Alessandria ,96395,125 Th. €,Filippo Tanaglia,14/15,,515,Unattached 
-"Jul 13, 2012",,?,Italy,862,Chievo Verona ,96395,125 Th. €,Filippo Tanaglia,12/13,Italy,2721,Alessandria 
-"Jul 1, 2012",,?,Italy,22203,Giacomense ,96395,125 Th. €,Filippo Tanaglia,12/13,Italy,862,Chievo Verona 
-"Jul 1, 2010",,?,Italy,14845,AC Chievo ,96395,-,Filippo Tanaglia,10/11,Italy,22203,Giacomense 
-"Jun 1, 2014",,?,India,25452,Vasco SC Margao ,113476,75 Th. €,Stephen Ofei,13/14,,75,Unknown 
-"Jan 1, 2013",,?,India,14088,Dempo SC ,113476,75 Th. €,Stephen Ofei,12/13,India,25452,Vasco SC Margao 
-"Sep 1, 2012",,?,Israel,35113,M. Beer Sheva ,113476,75 Th. €,Stephen Ofei,12/13,India,14088,Dempo SC 
-"Jul 1, 2010",,Free transfer,Israel,5223,Maccabi Netanya ,113476,75 Th. €,Stephen Ofei,10/11,Israel,35113,M. Beer Sheva 
-"Aug 1, 2009",,Free transfer,Ghana,3601,Hearts of Oak ,113476,-,Stephen Ofei,09/10,Israel,5223,Maccabi Netanya 
-"Jun 30, 2009",,End of loan,Israel,262,H. Petah Tikva ,113476,-,Stephen Ofei,08/09,Ghana,3601,Hearts of Oak 
-"Jul 1, 2008",,Loan,Ghana,3601,Hearts of Oak ,113476,-,Stephen Ofei,08/09,Israel,262,H. Petah Tikva 
-"Jun 30, 2005",,End of loan,Bulgaria,271,Litex Lovetch ,113476,-,Stephen Ofei,04/05,Ghana,3601,Hearts of Oak 
-"Jul 1, 2004",,Loan,Ghana,3601,Hearts of Oak ,113476,-,Stephen Ofei,04/05,Bulgaria,271,Litex Lovetch 
+,'NoneType' object has no attribute 'find_all',,,,,112694,,,,,,
 ,'NoneType' object has no attribute 'find_all',,,,,112695,,,,,,
-"Aug 1, 2012",,Free transfer,Israel,2785,H. Ramat Gan ,81230,300 Th. €,Paul Kessany,12/13,Gabon,5312,Mangasport 
-"Sep 1, 2011",,-,Israel,515,Unattached ,81230,300 Th. €,Paul Kessany,11/12,,2785,H. Ramat Gan 
-"Jul 1, 2011",,-,France,2580,Istres ,81230,300 Th. €,Paul Kessany,11/12,,515,Unattached 
-"Jul 1, 2009",,Free transfer,Israel,6028,Kiryat Shmona ,81230,100 Th. €,Paul Kessany,09/10,France,2580,Istres 
-"Jan 1, 2009",,Free transfer,Georgia,10719,FC Zestafoni ,81230,-,Paul Kessany,08/09,Israel,6028,Kiryat Shmona 
-"Jul 1, 2007",,Free transfer,Gabon,13578,FC 105 Libreville ,81230,-,Paul Kessany,07/08,Georgia,10719,FC Zestafoni 
-"Jul 1, 2010",,Free transfer,Israel,19977,H. Ashkelon ,113490,-,Yossi Rosen,10/11,,75,Unknown 
-"Jul 1, 2009",,Free transfer,Israel,262,H. Petah Tikva ,113490,-,Yossi Rosen,09/10,Israel,19977,H. Ashkelon 
-"Aug 1, 2015",,?,Israel,51932,Hapoel Baqa ,111958,100 Th. €,Mor Dahan,15/16,,75,Unknown 
-"Aug 1, 2014",,?,Israel,6026,Hap. Beit Shean ,111958,100 Th. €,Mor Dahan,14/15,Israel,51932,Hapoel Baqa 
-"Aug 1, 2013",,?,Israel,6028,Kiryat Shmona ,111958,100 Th. €,Mor Dahan,13/14,Israel,6026,Hap. Beit Shean 
-"Feb 1, 2013",,?,Israel,43131,Kiryat Ata ,111958,100 Th. €,Mor Dahan,12/13,Israel,6028,Kiryat Shmona 
-"Nov 1, 2012",,?,Israel,75,Unknown ,111958,100 Th. €,Mor Dahan,12/13,,43131,Kiryat Ata 
-"Aug 1, 2012",,?,Israel,27135,Ironi Bat Yam ,111958,100 Th. €,Mor Dahan,12/13,,75,Unknown 
-"Jul 1, 2011",,?,Israel,1064,Maccabi Haifa ,111958,100 Th. €,Mor Dahan,11/12,Israel,27135,Ironi Bat Yam 
-"Jun 30, 2011",,End of loan,Israel,19977,H. Ashkelon ,111958,100 Th. €,Mor Dahan,10/11,Israel,1064,Maccabi Haifa 
-"Aug 1, 2010",,Loan,Israel,1064,Maccabi Haifa ,111958,75 Th. €,Mor Dahan,10/11,Israel,19977,H. Ashkelon 
-"Jun 30, 2010",,End of loan,Israel,2828,M. Ahi Nazareth ,111958,75 Th. €,Mor Dahan,09/10,Israel,1064,Maccabi Haifa 
-"Aug 1, 2009",,Loan fee:20 Th. €,Israel,1064,Maccabi Haifa ,111958,-,Mor Dahan,09/10,Israel,2828,M. Ahi Nazareth 
-"Jun 30, 2009",,End of loan,Israel,31134,Hap R. haSharon ,111958,-,Mor Dahan,08/09,Israel,1064,Maccabi Haifa 
-"Jan 1, 2009",,Loan,Israel,1064,Maccabi Haifa ,111958,-,Mor Dahan,08/09,Israel,31134,Hap R. haSharon 
-"Jul 1, 2008",,-,Israel,18072,M. Haifa U19 ,111958,-,Mor Dahan,08/09,Israel,1064,Maccabi Haifa 
-"Feb 3, 2016",,?,Belgium,498,KSC Lokeren ,111964,450 Th. €,Mohammad Ghadir,15/16,Israel,2976,H. Beer Sheva 
-"Jul 1, 2015",,500 Th. €,Israel,1064,Maccabi Haifa ,111964,500 Th. €,Mohammad Ghadir,15/16,Belgium,498,KSC Lokeren 
-"May 31, 2015",,End of loan,Israel,4769,Bnei Sakhnin ,111964,500 Th. €,Mohammad Ghadir,14/15,Israel,1064,Maccabi Haifa 
-"Jul 1, 2013",,Loan,Israel,1064,Maccabi Haifa ,111964,300 Th. €,Mohammad Ghadir,13/14,Israel,4769,Bnei Sakhnin 
-"Jun 30, 2013",,End of loan,Belgium,28643,Waasl.-Beveren ,111964,300 Th. €,Mohammad Ghadir,12/13,Israel,1064,Maccabi Haifa 
-"Aug 23, 2012",,Loan,Israel,1064,Maccabi Haifa ,111964,700 Th. €,Mohammad Ghadir,12/13,Belgium,28643,Waasl.-Beveren 
-"Jul 1, 2008",,-,Israel,18072,M. Haifa U19 ,111964,-,Mohammad Ghadir,08/09,Israel,1064,Maccabi Haifa 
-"Jul 1, 2014",,450 Th. €,Israel,1064,Maccabi Haifa ,111965,"1,20 Mill. €",Eyal Golasa,14/15,Greece,1091,PAOK Saloniki 
-"Jul 1, 2009",,-,Israel,18072,M. Haifa U19 ,111965,-,Eyal Golasa,09/10,Israel,1064,Maccabi Haifa 
-"Jul 1, 2013",,-,Israel,43122,M. Shaaraim ,111967,150 Th. €,Snir Gueta,13/14,,515,Unattached 
-"Oct 1, 2012",,?,Israel,35105,Kiryat Malachi ,111967,150 Th. €,Snir Gueta,12/13,Israel,43122,M. Shaaraim 
-"Jul 1, 2012",,?,Israel,43136,H. Asi Gilboa ,111967,150 Th. €,Snir Gueta,12/13,Israel,35105,Kiryat Malachi 
-"Jan 1, 2012",,?,Israel,35105,Kiryat Malachi ,111967,150 Th. €,Snir Gueta,11/12,Israel,43136,H. Asi Gilboa 
-"Jul 1, 2011",,Free transfer,Israel,19977,H. Ashkelon ,111967,150 Th. €,Snir Gueta,11/12,Israel,35105,Kiryat Malachi 
-"Jul 1, 2010",,?,Israel,5223,Maccabi Netanya ,111967,200 Th. €,Snir Gueta,10/11,Israel,19977,H. Ashkelon 
-"Jul 1, 2007",,?,Israel,21431,M. Netanya U19 ,111967,-,Snir Gueta,07/08,Israel,5223,Maccabi Netanya 
-"Jul 1, 2015",,-,South Africa,568,Kaizer Chiefs ,37732,200 Th. €,Siyabonga Nkosi,15/16,,515,Unattached 
-"Jul 1, 2012",,Free transfer,South Africa,7011,Golden Arrows ,37732,225 Th. €,Siyabonga Nkosi,12/13,South Africa,568,Kaizer Chiefs 
-"Jul 1, 2010",,Free transfer,South Africa,2891,SuperSport Utd. ,37732,350 Th. €,Siyabonga Nkosi,10/11,South Africa,7011,Golden Arrows 
-"Jul 1, 2009",,Free transfer,Israel,5223,Maccabi Netanya ,37732,400 Th. €,Siyabonga Nkosi,09/10,South Africa,2891,SuperSport Utd. 
-"Jan 1, 2009",,75 Th. €,Germany,10,Arm. Bielefeld ,37732,400 Th. €,Siyabonga Nkosi,08/09,Israel,5223,Maccabi Netanya 
-"Aug 1, 2007",,350 Th. €,South Africa,568,Kaizer Chiefs ,37732,700 Th. €,Siyabonga Nkosi,07/08,Germany,10,Arm. Bielefeld 
-"Jul 1, 2006",,?,South Africa,8607,Bloemfontein C. ,37732,-,Siyabonga Nkosi,06/07,South Africa,568,Kaizer Chiefs 
-"Jul 1, 2003",,?,South Africa,26907,O. Pirates YD ,37732,-,Siyabonga Nkosi,03/04,South Africa,8607,Bloemfontein C. 
-"Jul 1, 2001",,?,South Africa,75,Unknown ,37732,-,Siyabonga Nkosi,01/02,,26907,O. Pirates YD 
-"Jul 1, 2015",,?,Israel,1017,Hapoel Tel Aviv ,111983,450 Th. €,Matan Ohayon,15/16,Israel,2976,H. Beer Sheva 
-"Jan 1, 2015",,?,Israel,1064,Maccabi Haifa ,111983,450 Th. €,Matan Ohayon,14/15,Israel,1017,Hapoel Tel Aviv 
-"Jun 10, 2014",,?,Israel,6028,Kiryat Shmona ,111983,450 Th. €,Matan Ohayon,14/15,Israel,1064,Maccabi Haifa 
-"Jul 1, 2013",,?,Belgium,172,RSC Charleroi ,111983,450 Th. €,Matan Ohayon,13/14,Israel,6028,Kiryat Shmona 
-"Jun 30, 2012",,End of loan,Israel,3785,M. Petah Tikva ,111983,350 Th. €,Matan Ohayon,11/12,Belgium,172,RSC Charleroi 
-"Jan 1, 2012",,Loan,Belgium,172,RSC Charleroi ,111983,350 Th. €,Matan Ohayon,11/12,Israel,3785,M. Petah Tikva 
-"Jul 1, 2011",,?,Israel,6105,FC Ashdod ,111983,500 Th. €,Matan Ohayon,11/12,Belgium,172,RSC Charleroi 
-"Jun 30, 2011",,End of loan,Belgium,172,RSC Charleroi ,111983,500 Th. €,Matan Ohayon,10/11,Israel,6105,FC Ashdod 
-"Jan 1, 2011",,Loan,Israel,6105,FC Ashdod ,111983,300 Th. €,Matan Ohayon,10/11,Belgium,172,RSC Charleroi 
-"Jul 1, 2008",,?,Israel,75,Unknown ,111983,-,Matan Ohayon,08/09,,6105,FC Ashdod 
-"Jul 1, 2015",,?,Israel,554,Hapoel Rishon ,111989,200 Th. €,Yossi Shekel,15/16,,75,Unknown 
-"Jan 1, 2013",,?,Israel,22776,Maccabi Yavne ,111989,200 Th. €,Yossi Shekel,12/13,Israel,554,Hapoel Rishon 
-"Jan 1, 2012",,Free transfer,Kazakhstan,10482,Kairat Almaty ,111989,200 Th. €,Yossi Shekel,11/12,Israel,22776,Maccabi Yavne 
-"Jul 1, 2011",,?,Israel,6105,FC Ashdod ,111989,250 Th. €,Yossi Shekel,11/12,Kazakhstan,10482,Kairat Almaty 
-"Jun 30, 2010",,End of loan,Israel,262,H. Petah Tikva ,111989,100 Th. €,Yossi Shekel,09/10,Israel,6105,FC Ashdod 
-"Jul 1, 2009",,Loan,Israel,6105,FC Ashdod ,111989,-,Yossi Shekel,09/10,Israel,262,H. Petah Tikva 
-"Dec 1, 2007",,End of loan,Israel,7000,Hap Nazareth I. ,111989,-,Yossi Shekel,07/08,Israel,6105,FC Ashdod 
-"Jul 1, 2007",,Loan,Israel,6105,FC Ashdod ,111989,-,Yossi Shekel,07/08,Israel,7000,Hap Nazareth I. 
-"Jun 30, 2007",,End of loan,Israel,8907,Maccabi Herzliya ,111989,-,Yossi Shekel,06/07,Israel,6105,FC Ashdod 
-"Jul 1, 2006",,Loan,Israel,6105,FC Ashdod ,111989,-,Yossi Shekel,06/07,Israel,8907,Maccabi Herzliya 
-"Jun 30, 2006",,End of loan,Israel,7532,Hapoel Kfar Saba ,111989,-,Yossi Shekel,05/06,Israel,6105,FC Ashdod 
-"Jul 1, 2005",,Loan,Israel,6105,FC Ashdod ,111989,-,Yossi Shekel,05/06,Israel,7532,Hapoel Kfar Saba 
-"Jun 30, 2005",,End of loan,Israel,2976,H. Beer Sheva ,111989,-,Yossi Shekel,04/05,Israel,6105,FC Ashdod 
-"Jan 1, 2005",,Loan,Israel,6105,FC Ashdod ,111989,-,Yossi Shekel,04/05,Israel,2976,H. Beer Sheva 
-"Dec 1, 2004",,End of loan,Israel,9095,Bnei Yehuda ,111989,-,Yossi Shekel,04/05,Israel,6105,FC Ashdod 
-"Jul 1, 2004",,Loan,Israel,6105,FC Ashdod ,111989,-,Yossi Shekel,04/05,Israel,9095,Bnei Yehuda 
-"Jun 30, 2004",,End of loan,Israel,10763,Beitar TA Ramla ,111989,-,Yossi Shekel,03/04,Israel,6105,FC Ashdod 
-"Jul 1, 2003",,Loan,Israel,6105,FC Ashdod ,111989,-,Yossi Shekel,03/04,Israel,10763,Beitar TA Ramla 
-"Jul 1, 2002",,-,Israel,26926,FC Ashdod U19 ,111989,-,Yossi Shekel,02/03,Israel,6105,FC Ashdod 
-"Jan 7, 2016",,Loan,Israel,1064,Maccabi Haifa ,111994,600 Th. €,Avihai Yadin,15/16,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2012",,270 Th. €,Israel,1017,Hapoel Tel Aviv ,111994,700 Th. €,Avihai Yadin,12/13,Israel,1064,Maccabi Haifa 
-"Jul 1, 2008",,?,Israel,7532,Hapoel Kfar Saba ,111994,-,Avihai Yadin,08/09,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2015",,?,Israel,1017,Hapoel Tel Aviv ,111996,750 Th. €,Israel Zaguri,15/16,Israel,5223,Maccabi Netanya 
-"Jul 1, 2013",,Free transfer,Israel,2785,H. Ramat Gan ,111996,250 Th. €,Israel Zaguri,13/14,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2012",,Free transfer,Israel,9095,Bnei Yehuda ,111996,225 Th. €,Israel Zaguri,12/13,Israel,2785,H. Ramat Gan 
-"Jul 1, 2011",,?,Israel,1064,Maccabi Haifa ,111996,200 Th. €,Israel Zaguri,11/12,Israel,9095,Bnei Yehuda 
-"Jun 30, 2011",,End of loan,Israel,262,H. Petah Tikva ,111996,200 Th. €,Israel Zaguri,10/11,Israel,1064,Maccabi Haifa 
-"Aug 1, 2010",,Loan,Israel,1064,Maccabi Haifa ,111996,125 Th. €,Israel Zaguri,10/11,Israel,262,H. Petah Tikva 
-"Jul 1, 2009",,?,Israel,18072,M. Haifa U19 ,111996,-,Israel Zaguri,09/10,Israel,1064,Maccabi Haifa 
-"Jul 1, 2012",,-,Panama,1708,San Miguelito ,111997,-,Alberto Zapata,12/13,,123,End of career 
-"Jul 1, 2010",,?,Panama,11698,San Francisco ,111997,-,Alberto Zapata,10/11,Panama,1708,San Miguelito 
-"Jan 1, 2010",,?,El Salvador,14078,Alianza FC ,111997,-,Alberto Zapata,09/10,Panama,11698,San Francisco 
-"Jul 1, 2009",,?,Israel,5223,Maccabi Netanya ,111997,-,Alberto Zapata,09/10,El Salvador,14078,Alianza FC 
-"Jan 1, 2009",,?,Panama,11698,San Francisco ,111997,-,Alberto Zapata,08/09,Israel,5223,Maccabi Netanya 
-"Jan 1, 2008",,?,Puerto Rico,9174,Islanders ,111997,-,Alberto Zapata,07/08,Panama,11698,San Francisco 
-"Jan 1, 2007",,?,Panama,11698,San Francisco ,111997,-,Alberto Zapata,06/07,Puerto Rico,9174,Islanders 
-"Jul 1, 2005",,?,Honduras,2720,Olimpia ,111997,-,Alberto Zapata,05/06,Panama,11698,San Francisco 
-"Jul 1, 2004",,?,Panama,18952,Chorrillo FC ,111997,-,Alberto Zapata,04/05,Honduras,2720,Olimpia 
-"Jan 1, 2004",,?,El Salvador,14078,Alianza FC ,111997,-,Alberto Zapata,03/04,Panama,18952,Chorrillo FC 
-"Jan 1, 2000",,?,Honduras,13293,RCD España ,111997,-,Alberto Zapata,99/00,Panama,12371,Tauro FC 
-"Jul 1, 2015",,?,Israel,43139,Hapoel Azor ,111998,100 Th. €,Idan Zion,15/16,Israel,6031,Hapoel Nahef 
-"Jan 1, 2015",,?,Israel,19977,H. Ashkelon ,111998,100 Th. €,Idan Zion,14/15,Israel,43139,Hapoel Azor 
-"Jul 1, 2014",,?,Israel,51835,Betar Kfar Saba ,111998,100 Th. €,Idan Zion,14/15,Israel,19977,H. Ashkelon 
-"Jan 1, 2014",,?,Israel,25909,Mac. Kiryat Gat ,111998,100 Th. €,Idan Zion,13/14,Israel,51835,Betar Kfar Saba 
-"Jul 1, 2013",,?,Israel,22776,Maccabi Yavne ,111998,100 Th. €,Idan Zion,13/14,Israel,25909,Mac. Kiryat Gat 
-"Jan 1, 2013",,?,Israel,6105,FC Ashdod ,111998,100 Th. €,Idan Zion,12/13,Israel,22776,Maccabi Yavne 
-"Jun 30, 2012",,End of loan,Israel,10763,Beitar TA Ramla ,111998,100 Th. €,Idan Zion,11/12,Israel,6105,FC Ashdod 
-"Jan 1, 2011",,Loan,Israel,6105,FC Ashdod ,111998,100 Th. €,Idan Zion,10/11,Israel,10763,Beitar TA Ramla 
-"Jul 1, 2008",,-,Israel,26926,FC Ashdod U19 ,111998,-,Idan Zion,08/09,Israel,6105,FC Ashdod 
-"Jul 1, 2015",,?,Israel,810,Hapoel Haifa ,111999,250 Th. €,Kobi Dejani,15/16,Israel,6105,FC Ashdod 
-"Jul 1, 2013",,?,Israel,5223,Maccabi Netanya ,111999,250 Th. €,Kobi Dejani,13/14,Israel,2976,H. Beer Sheva 
-"Jul 1, 2010",,?,Israel,262,H. Petah Tikva ,111999,150 Th. €,Kobi Dejani,10/11,Israel,5223,Maccabi Netanya 
-"Aug 1, 2009",,?,Israel,6105,FC Ashdod ,111999,-,Kobi Dejani,09/10,Israel,262,H. Petah Tikva 
-"Jul 1, 2015",,?,Israel,8907,Maccabi Herzliya ,112000,150 Th. €,Ben Butbul,15/16,Israel,43122,M. Shaaraim 
-"Jan 1, 2015",,-,Israel,515,Unattached ,112000,250 Th. €,Ben Butbul,14/15,,8907,Maccabi Herzliya 
-"Jul 1, 2014",,-,Israel,17580,H. Jerusalem ,112000,250 Th. €,Ben Butbul,14/15,,515,Unattached 
-"Jul 1, 2013",,?,Israel,6105,FC Ashdod ,112000,250 Th. €,Ben Butbul,13/14,Israel,17580,H. Jerusalem 
-"Jul 1, 2010",,-,Israel,26926,FC Ashdod U19 ,112000,50 Th. €,Ben Butbul,10/11,Israel,6105,FC Ashdod 
-"Jan 1, 2013",,?,Israel,6105,FC Ashdod ,112002,100 Th. €,Amir Lavi,12/13,Israel,21535,Hakoah Amidar 
-"Jul 1, 2008",,?,Israel,75,Unknown ,112002,-,Amir Lavi,08/09,,6105,FC Ashdod 
-"Jan 21, 2014",,Free transfer,Israel,3785,M. Petah Tikva ,112003,200 Th. €,Yossi Ofir,13/14,Israel,22776,Maccabi Yavne 
-"Jul 1, 2012",,?,Israel,31134,Hap R. haSharon ,112003,200 Th. €,Yossi Ofir,12/13,Israel,3785,M. Petah Tikva 
-"Jul 1, 2011",,?,Israel,3785,M. Petah Tikva ,112003,200 Th. €,Yossi Ofir,11/12,Israel,31134,Hap R. haSharon 
-"Jul 1, 2010",,?,Israel,2976,H. Beer Sheva ,112003,225 Th. €,Yossi Ofir,10/11,Israel,3785,M. Petah Tikva 
-"Aug 1, 2009",,?,Israel,6105,FC Ashdod ,112003,-,Yossi Ofir,09/10,Israel,2976,H. Beer Sheva 
-"Jul 1, 2014",,?,Israel,810,Hapoel Haifa ,112004,200 Th. €,David Revivo,14/15,Israel,22776,Maccabi Yavne 
-"Jan 1, 2014",,?,Israel,3793,B. Jerusalem ,112004,200 Th. €,David Revivo,13/14,Israel,810,Hapoel Haifa 
-"Jul 8, 2013",,?,Israel,6105,FC Ashdod ,112004,200 Th. €,David Revivo,13/14,Israel,3793,B. Jerusalem 
-"Jun 30, 2011",,End of loan,Israel,2976,H. Beer Sheva ,112004,200 Th. €,David Revivo,10/11,Israel,6105,FC Ashdod 
-"Jul 1, 2009",,Loan,Israel,6105,FC Ashdod ,112004,-,David Revivo,09/10,Israel,2976,H. Beer Sheva 
-"Jul 1, 2015",,?,Israel,25909,Mac. Kiryat Gat ,112005,250 Th. €,Idan Shriki,15/16,Israel,19977,H. Ashkelon 
-"Jan 1, 2015",,Free transfer,Israel,5223,Maccabi Netanya ,112005,350 Th. €,Idan Shriki,14/15,Israel,25909,Mac. Kiryat Gat 
-"Jul 1, 2013",,?,Israel,3785,M. Petah Tikva ,112005,350 Th. €,Idan Shriki,13/14,Israel,5223,Maccabi Netanya 
-"Jan 1, 2013",,?,Israel,5223,Maccabi Netanya ,112005,350 Th. €,Idan Shriki,12/13,Israel,3785,M. Petah Tikva 
-"Jul 1, 2012",,Free transfer,Poland,428,G. Zabrze ,112005,350 Th. €,Idan Shriki,12/13,Israel,5223,Maccabi Netanya 
-"Jun 30, 2012",,End of loan,Israel,6105,FC Ashdod ,112005,350 Th. €,Idan Shriki,11/12,Poland,428,G. Zabrze 
-"Sep 1, 2011",,Loan,Poland,428,G. Zabrze ,112005,300 Th. €,Idan Shriki,11/12,Israel,6105,FC Ashdod 
-"Jul 1, 2011",,Free transfer,Israel,6105,FC Ashdod ,112005,300 Th. €,Idan Shriki,11/12,Poland,428,G. Zabrze 
-"Jul 1, 2003",,Free transfer,Israel,22776,Maccabi Yavne ,112005,-,Idan Shriki,03/04,Israel,6105,FC Ashdod 
-"Jul 1, 2015",,?,Israel,22776,Maccabi Yavne ,112006,100 Th. €,Adir Tubul,15/16,Israel,6105,FC Ashdod 
-"Jul 1, 2014",,?,Israel,5223,Maccabi Netanya ,112006,100 Th. €,Adir Tubul,14/15,Israel,22776,Maccabi Yavne 
-"Jul 1, 2013",,?,Israel,4769,Bnei Sakhnin ,112006,100 Th. €,Adir Tubul,13/14,Israel,5223,Maccabi Netanya 
-"Jan 1, 2013",,?,Israel,6105,FC Ashdod ,112006,100 Th. €,Adir Tubul,12/13,Israel,4769,Bnei Sakhnin 
-"Jul 1, 2011",,?,Israel,19977,H. Ashkelon ,112006,150 Th. €,Adir Tubul,11/12,Israel,6105,FC Ashdod 
-"Jul 1, 2010",,?,Israel,6105,FC Ashdod ,112006,100 Th. €,Adir Tubul,10/11,Israel,19977,H. Ashkelon 
-"Jul 1, 2008",,?,Israel,75,Unknown ,112006,-,Adir Tubul,08/09,,6105,FC Ashdod 
-"Jul 1, 2015",,?,Israel,6105,FC Ashdod ,112007,200 Th. €,Rahamim Checkol,15/16,Israel,554,Hapoel Rishon 
-"Jul 1, 2014",,?,Israel,21535,Hakoah Amidar ,112007,200 Th. €,Rahamim Checkol,14/15,Israel,6105,FC Ashdod 
-"Jan 1, 2014",,?,Israel,22776,Maccabi Yavne ,112007,200 Th. €,Rahamim Checkol,13/14,Israel,21535,Hakoah Amidar 
-"Jul 1, 2013",,?,Israel,6105,FC Ashdod ,112007,200 Th. €,Rahamim Checkol,13/14,Israel,22776,Maccabi Yavne 
-"Jan 1, 2013",,Free transfer,Israel,119,M. Tel Aviv ,112007,200 Th. €,Rahamim Checkol,12/13,Israel,6105,FC Ashdod 
-"Aug 1, 2011",,250 Th. €,Israel,6105,FC Ashdod ,112007,300 Th. €,Rahamim Checkol,11/12,Israel,119,M. Tel Aviv 
-"Jul 1, 2007",,-,Israel,26926,FC Ashdod U19 ,112007,-,Rahamim Checkol,07/08,Israel,6105,FC Ashdod 
-"Jul 7, 2015",,?,Israel,6105,FC Ashdod ,112008,350 Th. €,Ofir Marciano,15/16,Belgium,29228,Mouscron 
-"Jul 1, 2008",,-,Israel,26926,FC Ashdod U19 ,112008,-,Ofir Marciano,08/09,Israel,6105,FC Ashdod 
-"Jul 1, 2015",,?,Israel,2828,M. Ahi Nazareth ,112010,400 Th. €,Shai Maimon,15/16,Israel,51070,Ironi Tiberias 
-"Jul 1, 2014",,?,Israel,6105,FC Ashdod ,112010,400 Th. €,Shai Maimon,14/15,Israel,2828,M. Ahi Nazareth 
-"Jan 1, 2013",,?,Israel,3785,M. Petah Tikva ,112010,400 Th. €,Shai Maimon,12/13,Israel,6105,FC Ashdod 
-"Jul 1, 2011",,Loan,Israel,1064,Maccabi Haifa ,112010,400 Th. €,Shai Maimon,11/12,Israel,3785,M. Petah Tikva 
-"Jun 30, 2009",,End of loan,Israel,6105,FC Ashdod ,112010,-,Shai Maimon,08/09,Israel,1064,Maccabi Haifa 
-"Jul 1, 2008",,Loan,Israel,1064,Maccabi Haifa ,112010,-,Shai Maimon,08/09,Israel,6105,FC Ashdod 
-"Jul 1, 2015",,?,Israel,43122,M. Shaaraim ,112011,150 Th. €,Lior Reuven,15/16,Israel,51937,Bikat haYarden 
-"Jul 1, 2014",,?,Israel,24026,Hapoel Bnei Lod ,112011,150 Th. €,Lior Reuven,14/15,Israel,43122,M. Shaaraim 
-"Jan 1, 2014",,-,Israel,515,Unattached ,112011,150 Th. €,Lior Reuven,13/14,,24026,Hapoel Bnei Lod 
-"Jul 1, 2013",,-,Israel,2785,H. Ramat Gan ,112011,150 Th. €,Lior Reuven,13/14,,515,Unattached 
-"Jul 1, 2012",,?,Israel,5223,Maccabi Netanya ,112011,150 Th. €,Lior Reuven,12/13,Israel,2785,H. Ramat Gan 
-"Jul 1, 2011",,?,Israel,3793,B. Jerusalem ,112011,150 Th. €,Lior Reuven,11/12,Israel,5223,Maccabi Netanya 
-"Jul 1, 2010",,Free transfer,Israel,6025,Hapoel Acre ,112011,175 Th. €,Lior Reuven,10/11,Israel,3793,B. Jerusalem 
-"Aug 1, 2009",,Free transfer,Israel,6105,FC Ashdod ,112011,-,Lior Reuven,09/10,Israel,6025,Hapoel Acre 
-"Jul 1, 2015",,?,Israel,21535,Hakoah Amidar ,112012,100 Th. €,Idan Sade,15/16,Israel,52360,Hapoel Ashdod 
-"Jan 1, 2015",,?,Israel,19977,H. Ashkelon ,112012,200 Th. €,Idan Sade,14/15,Israel,21535,Hakoah Amidar 
-"Aug 1, 2014",,?,Israel,17580,H. Jerusalem ,112012,200 Th. €,Idan Sade,14/15,Israel,19977,H. Ashkelon 
-"Jul 1, 2013",,?,Israel,7532,Hapoel Kfar Saba ,112012,200 Th. €,Idan Sade,13/14,Israel,17580,H. Jerusalem 
-"Jan 1, 2013",,?,Israel,24026,Hapoel Bnei Lod ,112012,200 Th. €,Idan Sade,12/13,Israel,7532,Hapoel Kfar Saba 
-"Jul 1, 2012",,?,Israel,6105,FC Ashdod ,112012,200 Th. €,Idan Sade,12/13,Israel,24026,Hapoel Bnei Lod 
-"Jun 30, 2012",,End of loan,Cyprus,840,En. Paralimni ,112012,200 Th. €,Idan Sade,11/12,Israel,6105,FC Ashdod 
-"Jan 1, 2012",,Loan,Israel,6105,FC Ashdod ,112012,200 Th. €,Idan Sade,11/12,Cyprus,840,En. Paralimni 
-"Jul 1, 2008",,-,Israel,26926,FC Ashdod U19 ,112012,-,Idan Sade,08/09,Israel,6105,FC Ashdod 
-"Jan 1, 2016",,?,Israel,25909,Mac. Kiryat Gat ,112013,50 Th. €,Maor Zohar,15/16,Israel,30062,Ness Ziona 
-"Jul 1, 2013",,Free transfer,Israel,30062,Ness Ziona ,112013,50 Th. €,Maor Zohar,13/14,Israel,25909,Mac. Kiryat Gat 
-"Jul 1, 2012",,?,Israel,6105,FC Ashdod ,112013,50 Th. €,Maor Zohar,12/13,Israel,30062,Ness Ziona 
-"Jun 30, 2012",,End of loan,Israel,19977,H. Ashkelon ,112013,50 Th. €,Maor Zohar,11/12,Israel,6105,FC Ashdod 
-"Oct 1, 2011",,Loan,Israel,6105,FC Ashdod ,112013,50 Th. €,Maor Zohar,11/12,Israel,19977,H. Ashkelon 
-"Jul 1, 2011",,?,Israel,20857,Hapoel Raanana ,112013,50 Th. €,Maor Zohar,11/12,Israel,6105,FC Ashdod 
-"Jan 1, 2010",,Free transfer,Israel,75,Unknown ,112013,-,Maor Zohar,09/10,,20857,Hapoel Raanana 
-"Jul 1, 2009",,Free transfer,Israel,6105,FC Ashdod ,112013,-,Maor Zohar,09/10,,75,Unknown 
-"Feb 3, 2016",,?,Israel,5223,Maccabi Netanya ,96142,400 Th. €,Yuval Avidor,15/16,Israel,4769,Bnei Sakhnin 
-"Oct 1, 2015",,?,Israel,6025,Hapoel Acre ,96142,400 Th. €,Yuval Avidor,15/16,Israel,5223,Maccabi Netanya 
-"Jul 1, 2014",,?,Israel,810,Hapoel Haifa ,96142,400 Th. €,Yuval Avidor,14/15,Israel,6025,Hapoel Acre 
-"Sep 1, 2011",,?,Israel,6028,Kiryat Shmona ,96142,550 Th. €,Yuval Avidor,11/12,Israel,810,Hapoel Haifa 
-"Jul 1, 2011",,?,Israel,119,M. Tel Aviv ,96142,550 Th. €,Yuval Avidor,11/12,Israel,6028,Kiryat Shmona 
-"Jul 1, 2009",,?,Israel,6028,Kiryat Shmona ,96142,-,Yuval Avidor,09/10,Israel,119,M. Tel Aviv 
-"Nov 1, 2011",,-,Israel,6028,Kiryat Shmona ,96143,200 Th. €,Barak Bakhar,11/12,,123,End of career 
-"Jul 1, 2010",,Free transfer,Israel,6028,Kiryat Shmona ,96146,-,Yossi Biton,10/11,Israel,17580,H. Jerusalem 
-"Jul 1, 2013",,-,Israel,6028,Kiryat Shmona ,96150,-,Salah Hasarma,13/14,,123,End of career 
-"Sep 1, 2015",,?,Bulgaria,712,FK Etar ,15258,200 Th. €,Todor Kolev,15/16,Bulgaria,4362,Dob. Dobrich 
-"Sep 14, 2014",,Free transfer,Greece,3999,PAS Lamia ,15258,200 Th. €,Todor Kolev,14/15,Bulgaria,712,FK Etar 
-"Jul 1, 2013",,Free transfer,Bulgaria,675,Slavia Sofia ,15258,200 Th. €,Todor Kolev,13/14,Greece,3999,PAS Lamia 
-"Jan 21, 2013",,Free transfer,Greece,4602,Olymp. Volos ,15258,200 Th. €,Todor Kolev,12/13,Bulgaria,675,Slavia Sofia 
-"Aug 31, 2012",,Free transfer,Bulgaria,712,FK Etar ,15258,300 Th. €,Todor Kolev,12/13,Greece,4602,Olymp. Volos 
-"Jan 1, 2012",,Free transfer,Bulgaria,31614,Ludogorets ,15258,350 Th. €,Todor Kolev,11/12,Bulgaria,712,FK Etar 
-"Jan 1, 2011",,Free transfer,Bulgaria,675,Slavia Sofia ,15258,350 Th. €,Todor Kolev,10/11,Bulgaria,31614,Ludogorets 
-"Jun 1, 2009",,End of loan,Israel,6028,Kiryat Shmona ,15258,750 Th. €,Todor Kolev,08/09,Bulgaria,675,Slavia Sofia 
-"Jan 1, 2009",,Loan,Bulgaria,675,Slavia Sofia ,15258,750 Th. €,Todor Kolev,08/09,Israel,6028,Kiryat Shmona 
-"Jun 1, 2008",,End of loan,Germany,8,Alem. Aachen ,15258,900 Th. €,Todor Kolev,07/08,Bulgaria,675,Slavia Sofia 
-"Jul 1, 2007",,Loan,Bulgaria,675,Slavia Sofia ,15258,650 Th. €,Todor Kolev,07/08,Germany,8,Alem. Aachen 
-"Jul 1, 2005",,Free transfer,Bulgaria,156,Levski Sofia ,15258,650 Th. €,Todor Kolev,05/06,Bulgaria,675,Slavia Sofia 
-"Jun 1, 2005",,End of loan,Bulgaria,5284,Marek Dupnitsa ,15258,650 Th. €,Todor Kolev,04/05,Bulgaria,156,Levski Sofia 
-"Jan 1, 2005",,Loan,Bulgaria,156,Levski Sofia ,15258,650 Th. €,Todor Kolev,04/05,Bulgaria,5284,Marek Dupnitsa 
-"Jun 1, 2002",,End of loan,Bulgaria,4503,Spartak Pleven ,15258,-,Todor Kolev,01/02,Bulgaria,156,Levski Sofia 
-"Sep 1, 2001",,Loan,Bulgaria,156,Levski Sofia ,15258,-,Todor Kolev,01/02,Bulgaria,4503,Spartak Pleven 
-"Jun 1, 2001",,End of loan,Bulgaria,4503,Spartak Pleven ,15258,-,Todor Kolev,00/01,Bulgaria,156,Levski Sofia 
-"Jul 1, 2000",,Loan,Bulgaria,156,Levski Sofia ,15258,-,Todor Kolev,00/01,Bulgaria,4503,Spartak Pleven 
-"Jul 1, 1999",,Free transfer,Bulgaria,712,FK Etar ,15258,-,Todor Kolev,99/00,Bulgaria,156,Levski Sofia 
-"Jul 1, 2010",,Free transfer,Israel,6028,Kiryat Shmona ,96154,-,Ran Kojok,10/11,,75,Unknown 
-"Jul 1, 2010",,Free transfer,Israel,6028,Kiryat Shmona ,96160,-,Amir Nussbaum,10/11,,75,Unknown 
-"Jul 13, 2015",,?,Israel,810,Hapoel Haifa ,96163,300 Th. €,Yuval Shabtai,15/16,Israel,20857,Hapoel Raanana 
-"Jul 1, 2014",,?,Israel,6025,Hapoel Acre ,96163,200 Th. €,Yuval Shabtai,14/15,Israel,810,Hapoel Haifa 
-"Jul 1, 2011",,?,Israel,75,Unknown ,96163,-,Yuval Shabtai,11/12,,6025,Hapoel Acre 
-"Jul 1, 2010",,Free transfer,Israel,6028,Kiryat Shmona ,96163,-,Yuval Shabtai,10/11,,75,Unknown 
-"Jul 5, 2015",,Free transfer,Israel,3793,B. Jerusalem ,96164,250 Th. €,Tomer Swisa,15/16,Israel,810,Hapoel Haifa 
-"Jul 1, 2014",,?,Israel,2976,H. Beer Sheva ,96164,500 Th. €,Tomer Swisa,14/15,Israel,3793,B. Jerusalem 
-"Jul 1, 2012",,?,Israel,31134,Hap R. haSharon ,96164,350 Th. €,Tomer Swisa,12/13,Israel,2976,H. Beer Sheva 
-"Jul 1, 2011",,?,Israel,6028,Kiryat Shmona ,96164,-,Tomer Swisa,11/12,Israel,31134,Hap R. haSharon 
-"Jul 1, 2015",,-,Israel,8907,Maccabi Herzliya ,112702,200 Th. €,Nitzan Damari,15/16,,515,Unattached 
-"Jul 1, 2014",,?,Israel,3785,M. Petah Tikva ,112702,200 Th. €,Nitzan Damari,14/15,Israel,8907,Maccabi Herzliya 
-"Jul 1, 2006",,-,Israel,26920,M. P. Tikva U19 ,112702,-,Nitzan Damari,06/07,Israel,3785,M. Petah Tikva 
-"Jul 1, 2008",,-,Israel,26920,M. P. Tikva U19 ,112711,-,Hagai Goldenberg,08/09,Israel,3785,M. Petah Tikva 
-"Jul 1, 2009",,Free transfer,Israel,5223,Maccabi Netanya ,25527,150 Th. €,Daniel Soares Martelo Humberto,09/10,,75,Unknown 
-"Oct 1, 2008",,Free transfer,Italy,416,Torino ,25527,150 Th. €,Daniel Soares Martelo Humberto,08/09,Israel,5223,Maccabi Netanya 
-"Jul 1, 2004",,?,Brazil,6600,Internacional ,25527,-,Daniel Soares Martelo Humberto,04/05,Italy,416,Torino 
-"Jul 1, 2003",,?,Brazil,1134,Ponte Preta ,25527,-,Daniel Soares Martelo Humberto,03/04,Brazil,6600,Internacional 
-"Jul 1, 2014",,?,Israel,6025,Hapoel Acre ,113397,100 Th. €,Sagiv Cohen,14/15,Israel,262,H. Petah Tikva 
-"Jan 1, 2011",,?,Romania,33966,CSMS Iasi ,113397,100 Th. €,Sagiv Cohen,10/11,Israel,6025,Hapoel Acre 
-"Sep 1, 2010",,Free transfer,Israel,262,H. Petah Tikva ,113397,100 Th. €,Sagiv Cohen,10/11,Romania,33966,CSMS Iasi 
-"Jul 1, 2006",,-,Israel,26931,Hapoel PT U19 ,113397,-,Sagiv Cohen,06/07,Israel,262,H. Petah Tikva 
-"Jul 1, 2009",,Free transfer,Israel,6105,FC Ashdod ,81312,-,Shay Holtsman,09/10,,123,End of career 
-"Jan 1, 2003",,?,Israel,554,Hapoel Rishon ,81312,-,Shay Holtsman,02/03,Israel,6105,FC Ashdod 
-"Jul 1, 2001",,?,Israel,3785,M. Petah Tikva ,81312,-,Shay Holtsman,01/02,Israel,554,Hapoel Rishon 
-"Jan 1, 2000",,?,Israel,5223,Maccabi Netanya ,81312,-,Shay Holtsman,99/00,Israel,3785,M. Petah Tikva 
-"Jul 1, 1999",,Free transfer,Austria,14,Austria Vienna ,81312,-,Shay Holtsman,99/00,Israel,5223,Maccabi Netanya 
-"Oct 1, 1998",,?,Israel,810,Hapoel Haifa ,81312,-,Shay Holtsman,98/99,Austria,14,Austria Vienna 
-"Jan 1, 1998",,?,Israel,3793,B. Jerusalem ,81312,-,Shay Holtsman,97/98,Israel,810,Hapoel Haifa 
-"Jul 1, 1997",,?,France,273,Rennes ,81312,-,Shay Holtsman,97/98,Israel,3793,B. Jerusalem 
-"Jan 1, 1997",,?,Israel,2976,H. Beer Sheva ,81312,-,Shay Holtsman,96/97,France,273,Rennes 
-"Jul 1, 1996",,?,Israel,14792,Hapoel Tzafririm Holon ,81312,-,Shay Holtsman,96/97,Israel,2976,H. Beer Sheva 
-"Jan 1, 1995",,?,Israel,1064,Maccabi Haifa ,81312,-,Shay Holtsman,94/95,Israel,14792,Hapoel Tzafririm Holon 
-"Jul 1, 1993",,?,Israel,5223,Maccabi Netanya ,81312,-,Shay Holtsman,93/94,Israel,1064,Maccabi Haifa 
-"Jul 1, 2014",,Free transfer,Ukraine,2227,SK Tavriya ,24011,600 Th. €,Boban Grncarov,14/15,Macedonia,77,Vardar 
-"Jan 15, 2014",,?,Bulgaria,2531,Botev Plovdiv ,24011,850 Th. €,Boban Grncarov,13/14,Ukraine,2227,SK Tavriya 
-"Jul 1, 2012",,Free transfer,Belgium,204,Lierse SK ,24011,800 Th. €,Boban Grncarov,12/13,Bulgaria,2531,Botev Plovdiv 
-"Jul 1, 2011",,Free transfer,Cyprus,2784,APOEL Nicosia ,24011,800 Th. €,Boban Grncarov,11/12,Belgium,204,Lierse SK 
-"Jul 1, 2009",,100 Th. €,Belgium,157,KAA Gent ,24011,600 Th. €,Boban Grncarov,09/10,Cyprus,2784,APOEL Nicosia 
-"Jun 30, 2009",,End of loan,Israel,3785,M. Petah Tikva ,24011,600 Th. €,Boban Grncarov,08/09,Belgium,157,KAA Gent 
-"Aug 1, 2008",,Loan,Belgium,157,KAA Gent ,24011,600 Th. €,Boban Grncarov,08/09,Israel,3785,M. Petah Tikva 
-"Jul 1, 2007",,?,Ukraine,2783,Metalurg D. ,24011,-,Boban Grncarov,07/08,Belgium,157,KAA Gent 
-"Dec 31, 2006",,End of loan,Ukraine,10468,Stal Alchevsk ,24011,-,Boban Grncarov,06/07,Ukraine,2783,Metalurg D. 
-"Jul 1, 2006",,Loan fee:125 Th. €,Ukraine,2783,Metalurg D. ,24011,-,Boban Grncarov,06/07,Ukraine,10468,Stal Alchevsk 
-"Jul 1, 2003",,600 Th. €,Serbia,53,OFK Beograd ,24011,-,Boban Grncarov,03/04,Ukraine,2783,Metalurg D. 
-"Jul 1, 2000",,100 Th. €,Macedonia,77,Vardar ,24011,-,Boban Grncarov,00/01,Serbia,53,OFK Beograd 
-"Jul 23, 2015",,100 Th. €,Switzerland,260,FC Zürich ,113486,"1,25 Mill. €",Avi Rikan,15/16,Israel,119,M. Tel Aviv 
-"Jul 1, 2013",,500 Th. €,Israel,3793,B. Jerusalem ,113486,300 Th. €,Avi Rikan,13/14,Switzerland,260,FC Zürich 
-"Jun 30, 2009",,End of loan,Israel,262,H. Petah Tikva ,113486,-,Avi Rikan,08/09,Israel,3793,B. Jerusalem 
-"Jul 1, 2008",,Loan,Israel,3793,B. Jerusalem ,113486,-,Avi Rikan,08/09,Israel,262,H. Petah Tikva 
-"Jun 30, 2008",,End of loan,Israel,8907,Maccabi Herzliya ,113486,-,Avi Rikan,07/08,Israel,3793,B. Jerusalem 
-"Jul 2, 2007",,Loan,Israel,3793,B. Jerusalem ,113486,-,Avi Rikan,07/08,Israel,8907,Maccabi Herzliya 
-"Jul 1, 2007",,-,Israel,17373,Jerusalem U19 ,113486,-,Avi Rikan,07/08,Israel,3793,B. Jerusalem 
-"Jul 8, 2015",,-,Israel,515,Unattached ,95712,500 Th. €,Dani Amos,15/16,,6025,Hapoel Acre 
-"Jan 1, 2015",,-,Israel,1017,Hapoel Tel Aviv ,95712,600 Th. €,Dani Amos,14/15,,515,Unattached 
-"Jul 1, 2013",,Free transfer,Israel,6028,Kiryat Shmona ,95712,600 Th. €,Dani Amos,13/14,Israel,1017,Hapoel Tel Aviv 
-"Jul 1, 2006",,-,Israel,38716,Kir. Shmona U19 ,95712,-,Dani Amos,06/07,Israel,6028,Kiryat Shmona 
-"Jan 16, 2016",,-,Israel,20857,Hapoel Raanana ,95713,-,Yaniv Lavi,15/16,,123,End of career 
-"Jul 1, 2013",,?,Israel,31134,Hap R. haSharon ,95713,175 Th. €,Yaniv Lavi,13/14,Israel,20857,Hapoel Raanana 
-"Jul 1, 2011",,?,Israel,6028,Kiryat Shmona ,95713,175 Th. €,Yaniv Lavi,11/12,Israel,31134,Hap R. haSharon 
-"Jul 1, 2002",,?,Israel,2785,H. Ramat Gan ,95713,-,Yaniv Lavi,02/03,Israel,6028,Kiryat Shmona 
-"Jan 1, 2002",,?,Israel,8907,Maccabi Herzliya ,95713,-,Yaniv Lavi,01/02,Israel,2785,H. Ramat Gan 
-"Jul 1, 2001",,?,Israel,20857,Hapoel Raanana ,95713,-,Yaniv Lavi,01/02,Israel,8907,Maccabi Herzliya 
-"Jul 1, 1999",,?,Israel,5223,Maccabi Netanya ,95713,-,Yaniv Lavi,99/00,Israel,20857,Hapoel Raanana 
-"Jul 1, 1997",,-,Israel,21431,M. Netanya U19 ,95713,-,Yaniv Lavi,97/98,Israel,5223,Maccabi Netanya 
-"Jul 1, 2012",,-,Israel,35110,Hapoel Afula ,96230,-,Yosef Bezalel,12/13,,123,End of career 
-"Jan 1, 2012",,Free transfer,Israel,35065,Maccabi Tamra ,96230,-,Yosef Bezalel,11/12,Israel,35110,Hapoel Afula 
-"Jul 1, 2011",,?,Israel,35113,M. Beer Sheva ,96230,-,Yosef Bezalel,11/12,Israel,35065,Maccabi Tamra 
-"Jan 1, 2011",,?,Israel,2828,M. Ahi Nazareth ,96230,-,Yosef Bezalel,10/11,Israel,35113,M. Beer Sheva 
-"Jul 1, 2010",,?,Israel,7532,Hapoel Kfar Saba ,96230,-,Yosef Bezalel,10/11,Israel,2828,M. Ahi Nazareth 
-"Jul 1, 2009",,Free transfer,Israel,6028,Kiryat Shmona ,96230,-,Yosef Bezalel,09/10,Israel,7532,Hapoel Kfar Saba 
-"Jul 1, 2008",,?,Israel,2828,M. Ahi Nazareth ,96230,-,Yosef Bezalel,08/09,Israel,6028,Kiryat Shmona 
-"Jul 1, 2007",,?,Israel,6028,Kiryat Shmona ,96230,-,Yosef Bezalel,07/08,Israel,2828,M. Ahi Nazareth 
-"Jul 1, 2009",,-,Israel,3785,M. Petah Tikva ,31723,650 Th. €,Siramana Dembélé,09/10,,123,End of career 
-"Aug 1, 2008",,Free transfer,Belgium,3057,Standard Liège ,31723,650 Th. €,Siramana Dembélé,08/09,Israel,3785,M. Petah Tikva 
-"Jan 1, 2006",,Free transfer,Portugal,1085,Vitória Setúbal ,31723,650 Th. €,Siramana Dembélé,05/06,Belgium,3057,Standard Liège 
-"Jul 1, 2005",,Free transfer,France,1160,Olympique Nîmes ,31723,-,Siramana Dembélé,05/06,Portugal,1085,Vitória Setúbal 
-"Jul 1, 2004",,Free transfer,France,895,Cannes ,31723,-,Siramana Dembélé,04/05,France,1160,Olympique Nîmes 
-"Jul 1, 2003",,Free transfer,France,2618,Olympique Alès ,31723,-,Siramana Dembélé,03/04,France,895,Cannes 
+,'NoneType' object has no attribute 'find_all',,,,,113435,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,85021,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,113375,,,,,,

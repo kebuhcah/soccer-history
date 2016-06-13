@@ -1,0 +1,597 @@
+date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jan 1, 2012",,Free transfer,Hungary,27165.0,Dunaújváros ,148867,75 Th. €,Ferenc Kóczián,11/12,Hungary,35494.0,Baracs 
+"Feb 1, 2008",,Free transfer,Hungary,12163.0,Paksi FC ,148867,-,Ferenc Kóczián,07/08,Hungary,27165.0,Dunaújváros 
+"Jul 1, 2006",,?,Hungary,3233.0,Pécsi MFC ,148867,-,Ferenc Kóczián,06/07,Hungary,12163.0,Paksi FC 
+"Aug 1, 2004",,?,Hungary,11107.0,FC Fehérvár ,148867,-,Ferenc Kóczián,04/05,Hungary,3233.0,Pécsi MFC 
+"Feb 1, 2003",,?,Hungary,4787.0,Dunaferr SE ,148867,-,Ferenc Kóczián,02/03,Hungary,11107.0,Videoton FC 
+"Jul 1, 2015",,?,Austria,16802.0,Pinkafeld ,86148,-,Péter Tóth,15/16,Austria,18768.0,Jennersdorf 
+"Jul 1, 2014",,Free transfer,Hungary,649.0,Szombathely ,86148,100 Th. €,Péter Tóth,14/15,Austria,16802.0,Pinkafeld 
+"Feb 1, 2007",,?,Hungary,6055.0,ETO FC Győr  ,86148,-,Péter Tóth,06/07,Hungary,649.0,Szombathely 
+"Jul 1, 2004",,?,Hungary,649.0,Szombathely ,86148,-,Péter Tóth,04/05,Hungary,6055.0,ETO FC Győr  
+"Jul 28, 2014",,Free transfer,Italy,3037.0,Padova ,22662,150 Th. €,Róbert Feczesin,14/15,Hungary,11107.0,Videoton FC 
+"Aug 24, 2013",,Free transfer,Italy,408.0,Ascoli ,22662,500 Th. €,Róbert Feczesin,13/14,Italy,3037.0,Padova 
+"Aug 31, 2012",,?,Italy,19.0,Brescia ,22662,300 Th. €,Róbert Feczesin,12/13,Italy,408.0,Ascoli 
+"Jun 30, 2011",,End of loan,Italy,408.0,Ascoli ,22662,350 Th. €,Róbert Feczesin,10/11,Italy,19.0,Brescia 
+"Jan 1, 2011",,Loan,Italy,19.0,Brescia ,22662,350 Th. €,Róbert Feczesin,10/11,Italy,408.0,Ascoli 
+"Jun 30, 2010",,End of loan,Hungary,84.0,Debreceni VSC ,22662,350 Th. €,Róbert Feczesin,09/10,Italy,19.0,Brescia 
+"Aug 1, 2009",,Loan,Italy,19.0,Brescia ,22662,400 Th. €,Róbert Feczesin,09/10,Hungary,84.0,Debreceni VSC 
+"Jul 1, 2007",,150 Th. €,Hungary,2952.0,FC Sopron ,22662,-,Róbert Feczesin,07/08,Italy,19.0,Brescia 
+"Jan 1, 2006",,200 Th. €,Hungary,708.0,Újpest FC ,22662,-,Róbert Feczesin,05/06,Hungary,2952.0,FC Sopron 
+"Jul 1, 2003",,-,Hungary,15913.0,Újpest U19 ,22662,-,Róbert Feczesin,03/04,Hungary,708.0,Újpest FC 
+"Jan 1, 2011",,Free transfer,England,3008.0,Hull City ,5001,750 Th. €,Péter Halmosi,10/11,Hungary,649.0,Szombathely 
+"Jun 30, 2010",,End of loan,Hungary,649.0,Szombathely ,5001,"1,00 Mill. €",Péter Halmosi,09/10,England,3008.0,Hull City 
+"Jan 1, 2010",,Loan,England,3008.0,Hull City ,5001,"1,60 Mill. €",Péter Halmosi,09/10,Hungary,649.0,Szombathely 
+"Jul 1, 2008",,"2,50 Mill. €",England,2262.0,Plymouth Argyle ,5001,925 Th. €,Péter Halmosi,08/09,England,3008.0,Hull City 
+"Jan 1, 2007",,600 Th. €,Hungary,84.0,Debreceni VSC ,5001,500 Th. €,Péter Halmosi,06/07,England,2262.0,Plymouth Argyle 
+"Jul 1, 2003",,Free transfer,Austria,316.0,Grazer AK ,5001,-,Péter Halmosi,03/04,Hungary,84.0,Debreceni VSC 
+"Jul 1, 2002",,?,Hungary,649.0,LFC Haladás ,5001,-,Péter Halmosi,02/03,Austria,316.0,Grazer AK 
+"Jul 1, 1998",,-,Hungary,21491.0,Haladás U19 ,5001,-,Péter Halmosi,98/99,Hungary,649.0,Szombathely 
+"Jul 1, 2005",,-,Hungary,634.0,MTK Budapest ,126730,-,Gábor Halmai,05/06,,123.0,End of career 
+"Jul 1, 2003",,?,Israel,1017.0,Hapoel Tel Aviv ,126730,-,Gábor Halmai,03/04,Hungary,634.0,MTK Budapest 
+"Jul 1, 2000",,?,Hungary,634.0,MTK Hungária ,126730,-,Gábor Halmai,00/01,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 1996",,Free transfer,Belgium,412.0,Germinal Ekeren ,126730,-,Gábor Halmai,96/97,Hungary,634.0,MTK Budapest 
+"Jul 1, 1993",,?,Hungary,709.0,Honvéd FC ,126730,-,Gábor Halmai,93/94,Belgium,412.0,Germinal Ekeren 
+"Jul 1, 1991",,?,Hungary,11107.0,Videoton FC ,126730,-,Gábor Halmai,91/92,Hungary,709.0,Honvéd FC 
+"Jan 1, 2015",,-,Hungary,6055.0,ETO FC Győr  ,18317,-,Ákos Takács,14/15,,123.0,End of career 
+"Jan 1, 2011",,?,Hungary,709.0,Budapest Honvéd ,18317,200 Th. €,Ákos Takács,10/11,Hungary,6055.0,ETO FC Győr  
+"Dec 1, 2007",,Free transfer,Denmark,443.0,Vejle BK ,18317,125 Th. €,Ákos Takács,07/08,Hungary,709.0,Budapest Honvéd 
+"Jul 1, 2006",,Free transfer,Hungary,279.0,Ferencváros ,18317,-,Ákos Takács,06/07,Denmark,443.0,Vejle BK 
+"Jul 1, 2002",,Free transfer,Hungary,5378.0,Vasas SC ,18317,-,Ákos Takács,02/03,Hungary,279.0,Ferencváros 
+"Jul 1, 2014",,-,Hungary,21976.0,Százhalombatta ,42894,-,Zoltán Szabó,14/15,,123.0,End of career 
+"Jan 1, 2011",,Free transfer,Hungary,17208.0,Budaörs ,42894,25 Th. €,Zoltán Szabó,10/11,Hungary,21976.0,Százhalombatta 
+"Aug 1, 2010",,Free transfer,Hungary,21976.0,Százhalombatta ,42894,-,Zoltán Szabó,10/11,Hungary,17208.0,Budaörs 
+"Jul 1, 2008",,Free transfer,Hungary,6050.0,Budafoki LC ,42894,-,Zoltán Szabó,08/09,Hungary,21976.0,Százhalombatta 
+"Jul 1, 2006",,Free transfer,Hungary,7682.0,Lombard Pápa  ,42894,-,Zoltán Szabó,06/07,Hungary,6050.0,Budafoki LC 
+"Feb 1, 2006",,Free transfer,Hungary,3395.0,FC Tatabánya ,42894,-,Zoltán Szabó,05/06,Hungary,7682.0,Lombard Pápa  
+"Jul 24, 2015",,Free transfer,Hungary,29758.0,FelsÃ¶tÃ¡rkÃ¡ny ,64655,50 Th. â‚¬,Norbert Bartyik,15/16,Hungary,30022.0,HÃ³dmezÃ¶vÃ¡sÃ¡rhely FC 
+"Jan 1, 2015",,Free transfer,Hungary,30660.0,Szeged ,64655,50 Th. â‚¬,Norbert Bartyik,14/15,Hungary,29758.0,FelsÃ¶tÃ¡rkÃ¡ny 
+"Feb 26, 2014",,Free transfer,Hungary,75.0,Unknown ,64655,50 Th. â‚¬,Norbert Bartyik,13/14,,30660.0,Szeged 
+"Jan 1, 2012",,Free transfer,Hungary,30022.0,HÃ³dmezÃ¶vÃ¡sÃ¡rhely FC ,64655,50 Th. â‚¬,Norbert Bartyik,11/12,,75.0,Unknown 
+"Jul 1, 2011",,Free transfer,Hungary,22543.0,OroshÃ¡za FC ,64655,50 Th. â‚¬,Norbert Bartyik,11/12,Hungary,30022.0,HÃ³dmezÃ¶vÃ¡sÃ¡rhely FC 
+"Jan 1, 2011",,Free transfer,Italy,11168.0,ASD Castellana Calcio ,64655,-,Norbert Bartyik,10/11,Hungary,22543.0,OroshÃ¡za FC 
+"Jul 1, 2008",,Free transfer,Germany,3514.0,FC Kempten ,64655,-,Norbert Bartyik,08/09,Italy,11168.0,ASD Castellana Calcio 
+"Jan 1, 2008",,-,Germany,515.0,Unattached ,64655,-,Norbert Bartyik,07/08,,3514.0,FC Kempten 
+"Jul 1, 2007",,-,Hungary,709.0,Budapest HonvÃ©d ,64655,-,Norbert Bartyik,07/08,,515.0,Unattached 
+"Jan 1, 2012",,?,Austria,18469.0,Scheiblingkir. ,100112,-,Péter Tereánszki-Tóth,11/12,Austria,21182.0,Kirchschlag 
+"Jul 1, 2011",,?,Canada,25788.0,Hamilton Cro ,100112,-,Péter Tereánszki-Tóth,11/12,Austria,18469.0,Scheiblingkir. 
+"Jul 1, 2010",,Free transfer,Austria,18469.0,Scheiblingkir. ,100112,-,Péter Tereánszki-Tóth,10/11,Canada,25788.0,Hamilton Cro 
+"Jan 1, 2010",,Free transfer,Austria,10205.0,Ostbahn XI ,100112,-,Péter Tereánszki-Tóth,09/10,Austria,18469.0,Scheiblingkir. 
+"Jan 1, 2009",,Free transfer,Hungary,21976.0,Százhalombatta ,100112,-,Péter Tereánszki-Tóth,08/09,Austria,10205.0,Ostbahn XI 
+"Jul 1, 2007",,Free transfer,Hungary,21978.0,Kaposvölgye ,100112,-,Péter Tereánszki-Tóth,07/08,Hungary,21976.0,Százhalombatta 
+"Jan 1, 2007",,Free transfer,Hungary,6056.0,Kaposvári RFC ,100112,-,Péter Tereánszki-Tóth,06/07,Hungary,21978.0,Kaposvölgye 
+"Jul 1, 2005",,Free transfer,Hungary,11107.0,FC Fehérvár ,100112,-,Péter Tereánszki-Tóth,05/06,Hungary,6056.0,Kaposvári RFC 
+"Jul 1, 2008",,Free transfer,Hungary,279.0,Ferencváros ,18321,-,György Kiss,08/09,England,12869.0,Nantwich Town 
+"Jul 1, 2006",,Free transfer,Hungary,5378.0,Vasas SC ,18321,-,György Kiss,06/07,Hungary,279.0,Ferencváros 
+"Jan 1, 2005",,Free transfer,Hungary,279.0,Ferencváros ,18321,-,György Kiss,04/05,Hungary,5378.0,Vasas SC 
+"Jul 1, 2003",,?,Hungary,4787.0,Dunaujvaros FC ,18321,-,György Kiss,03/04,Hungary,279.0,Ferencváros 
+"Jul 1, 1999",,?,Hungary,6058.0,Nyíregyháza ,18321,-,György Kiss,99/00,Hungary,4787.0,Dunaferr SE 
+"Jul 1, 2004",,-,Hungary,708.0,Újpest FC ,143634,-,Flórián Urbán,04/05,,123.0,End of career 
+"Jul 1, 2003",,Free transfer,Hungary,1391.0,Zalaegerszeg ,143634,-,Flórián Urbán,03/04,Hungary,708.0,Újpest FC 
+"Jul 1, 2001",,Free transfer,Hungary,708.0,Újpest FC ,143634,-,Flórián Urbán,01/02,Hungary,1391.0,Zalaegerszeg 
+"Jun 30, 2001",,End of loan,Hungary,22517.0,Dunakeszi ,143634,-,Flórián Urbán,00/01,Hungary,708.0,Újpest FC 
+"Jul 1, 2000",,Loan,Hungary,708.0,Újpest FC ,143634,-,Flórián Urbán,00/01,Hungary,22517.0,Dunakeszi 
+"Jul 1, 1999",,Free transfer,Belgium,1111.0,Eendracht Aalst ,143634,-,Flórián Urbán,99/00,Hungary,708.0,Újpest FC 
+"Jul 1, 1998",,?,Belgium,58.0,RSC Anderlecht ,143634,-,Flórián Urbán,98/99,Belgium,1111.0,Eendracht Aalst 
+"Jul 1, 1997",,?,Belgium,412.0,Germinal Ekeren ,143634,-,Flórián Urbán,97/98,Belgium,58.0,RSC Anderlecht 
+"Jul 1, 1996",,?,Belgium,354.0,KV Mechelen ,143634,-,Flórián Urbán,96/97,Belgium,412.0,Germinal Ekeren 
+"Jul 1, 1994",,?,Belgium,2456.0,KSV Waregem ,143634,-,Flórián Urbán,94/95,Belgium,354.0,KV Mechelen 
+"Jul 1, 1992",,?,Hungary,6055.0,ETO FC Győr  ,143634,-,Flórián Urbán,92/93,Belgium,2456.0,KSV Waregem 
+"Jul 1, 1991",,Free transfer,Hungary,13414.0,Rákospalota ,143634,-,Flórián Urbán,91/92,Hungary,6055.0,ETO FC Győr  
+"Jul 1, 1990",,Free transfer,Hungary,708.0,Újpest TE ,143634,-,Flórián Urbán,90/91,Hungary,13414.0,Rákospalota 
+"Jan 1, 2014",,-,Austria,5633.0,SK Altheim ,18323,-,Dénes Rósa,13/14,,123.0,End of career 
+"Jan 1, 2013",,-,Austria,123.0,End of career ,18323,100 Th. €,Dénes Rósa,12/13,,5633.0,SK Altheim 
+"Jul 1, 2012",,-,Hungary,279.0,Ferencváros ,18323,100 Th. €,Dénes Rósa,12/13,,123.0,End of career 
+"Jul 1, 2009",,Free transfer,Scotland,903.0,Hibernian FC ,18323,500 Th. €,Dénes Rósa,09/10,Hungary,279.0,Ferencváros 
+"Jan 1, 2009",,Free transfer,England,543.0,Wolves ,18323,850 Th. €,Dénes Rósa,08/09,Scotland,903.0,Hibernian FC 
+"Apr 1, 2007",,End of loan,England,3371.0,Cheltenham Town ,18323,850 Th. €,Dénes Rósa,06/07,England,543.0,Wolves 
+"Mar 1, 2007",,Loan,England,543.0,Wolves ,18323,850 Th. €,Dénes Rósa,06/07,England,3371.0,Cheltenham Town 
+"Jan 1, 2006",,75 Th. €,Hungary,279.0,Ferencváros ,18323,850 Th. €,Dénes Rósa,05/06,England,543.0,Wolves 
+"Jul 1, 2003",,Free transfer,Hungary,708.0,Újpest FC ,18323,-,Dénes Rósa,03/04,Hungary,279.0,Ferencváros 
+"Jan 1, 2003",,Free transfer,Hungary,4787.0,Dunaferr SE ,18323,-,Dénes Rósa,02/03,Hungary,708.0,Újpest FC 
+"Jan 1, 2002",,Free transfer,Hungary,6055.0,ETO FC Győr  ,18323,-,Dénes Rósa,01/02,Hungary,4787.0,Dunaferr SE 
+"Jun 30, 1999",,End of loan,Hungary,22516.0,BVSC ,18323,-,Dénes Rósa,98/99,Hungary,6055.0,ETO FC Győr  
+"Jan 1, 1999",,Loan,Hungary,6055.0,ETO FC Győr  ,18323,-,Dénes Rósa,98/99,Hungary,22516.0,BVSC 
+"Jul 1, 1998",,Free transfer,Hungary,22516.0,BVSC ,18323,-,Dénes Rósa,98/99,Hungary,6055.0,ETO FC Győr  
+"Jul 1, 1996",,Free transfer,Hungary,18561.0,Vasas U19 ,18323,-,Dénes Rósa,96/97,Hungary,22516.0,BVSC 
+"Jul 1, 2010",,Free transfer,Hungary,27402.0,Soproni VSE ,18325,-,Sándor Károlyi,10/11,Germany,1937.0,TSV Weißtal 
+"Jul 1, 2009",,Free transfer,Germany,63.0,Spfr. Siegen ,18325,-,Sándor Károlyi,09/10,Hungary,27402.0,Soproni VSE 
+"Dec 1, 2008",,Free transfer,Hungary,2952.0,FC Sopron ,18325,-,Sándor Károlyi,08/09,Germany,63.0,Spfr. Siegen 
+"Jul 1, 2008",,Free transfer,Hungary,21978.0,Kaposvölgye ,18325,-,Sándor Károlyi,08/09,Hungary,2952.0,FC Sopron 
+"Jan 1, 2008",,?,Hungary,2952.0,FC Sopron ,18325,-,Sándor Károlyi,07/08,Hungary,21978.0,Kaposvölgye 
+"Aug 1, 2007",,Free transfer,Slovakia,4529.0,Dunajska Streda ,18325,-,Sándor Károlyi,07/08,Hungary,2952.0,FC Sopron 
+"Jul 1, 2007",,Free transfer,Slovakia,75.0,Unknown ,18325,-,Sándor Károlyi,07/08,,4529.0,Dunajska Streda 
+"Jul 1, 2005",,?,Hungary,2952.0,FC Sopron ,18325,-,Sándor Károlyi,05/06,,75.0,Unknown 
+"Jan 1, 2005",,Free transfer,Hungary,279.0,Ferencváros ,18325,-,Sándor Károlyi,04/05,Hungary,2952.0,FC Sopron 
+"Jul 1, 2002",,Free transfer,Hungary,6055.0,ETO FC Győr  ,18325,-,Sándor Károlyi,02/03,Hungary,279.0,Ferencváros 
+"Jul 1, 2009",,-,Hungary,25743.0,SZTK ,18327,-,Árpád Nógrádi,09/10,,123.0,End of career 
+"Jan 1, 2008",,Free transfer,Hungary,3395.0,FC Tatabánya ,18327,100 Th. €,Árpád Nógrádi,07/08,Hungary,25743.0,SZTK 
+"Jul 1, 2007",,Free transfer,Hungary,3233.0,Pécsi MFC ,18327,100 Th. €,Árpád Nógrádi,07/08,Hungary,3395.0,FC Tatabánya 
+"Jul 1, 2006",,Free transfer,Hungary,12163.0,Paksi FC ,18327,100 Th. €,Árpád Nógrádi,06/07,Hungary,3233.0,Pécsi MFC 
+"Feb 1, 2006",,Free transfer,Hungary,279.0,Ferencváros ,18327,100 Th. €,Árpád Nógrádi,05/06,Hungary,12163.0,Paksi SE 
+"Jan 1, 2016",,250 Th. €,China,4768.0,CC Yatai ,18331,"1,20 Mill. €",Szabolcs Huszti,15/16,Germany,24.0,E. Frankfurt 
+"Jul 16, 2014",,"1,50 Mill. €",Germany,42.0,Hannover 96 ,18331,"2,00 Mill. €",Szabolcs Huszti,14/15,China,4768.0,CC Yatai 
+"Jul 23, 2012",,750 Th. €,Russia,964.0,Zenit S-Pb ,18331,"2,00 Mill. €",Szabolcs Huszti,12/13,Germany,42.0,Hannover 96 
+"Feb 1, 2009",,"3,00 Mill. €",Germany,42.0,Hannover 96 ,18331,"6,00 Mill. €",Szabolcs Huszti,08/09,Russia,964.0,Zenit S-Pb 
+"Jul 3, 2006",,300 Th. €,France,347.0,FC Metz ,18331,"1,00 Mill. €",Szabolcs Huszti,06/07,Germany,42.0,Hannover 96 
+"Jul 1, 2005",,?,Hungary,279.0,Ferencváros ,18331,-,Szabolcs Huszti,05/06,France,347.0,FC Metz 
+"Jun 30, 2004",,End of loan,Hungary,2952.0,FC Sopron ,18331,-,Szabolcs Huszti,03/04,Hungary,279.0,Ferencváros 
+"Feb 10, 2004",,Loan,Hungary,279.0,Ferencváros ,18331,-,Szabolcs Huszti,03/04,Hungary,2952.0,FC Sopron 
+"Jul 1, 2002",,-,Hungary,15904.0,Ferencváros U19 ,18331,-,Szabolcs Huszti,02/03,Hungary,279.0,Ferencváros 
+"Jul 1, 2012",,Free transfer,Hungary,33524.0,Csákvár ,201816,-,Gábor Földes,12/13,,75.0,Unknown 
+"Dec 1, 2009",,Free transfer,Hungary,9242.0,Puskás FC U19 ,201816,-,Gábor Földes,09/10,Hungary,33524.0,Csákvár 
+"Feb 1, 2009",,Free transfer,Hungary,21976.0,Százhalombatta ,201816,-,Gábor Földes,08/09,Hungary,9242.0,Puskás FC U19 
+"Jul 1, 2008",,Free transfer,Hungary,24655.0,Videoton II ,201816,-,Gábor Földes,08/09,Hungary,21976.0,Százhalombatta 
+"Jun 30, 2004",,End of loan,Hungary,9242.0,Felcsút U19 ,201816,-,Gábor Földes,03/04,Hungary,24655.0,Videoton II 
+"Jan 1, 2004",,Loan,Hungary,24655.0,Videoton II ,201816,-,Gábor Földes,03/04,Hungary,9242.0,Felcsút U19 
+"Jul 1, 2010",,Free transfer,Hungary,21978.0,Kaposvölgye ,141072,-,Gyula Jagodits,10/11,,75.0,Unknown 
+,,,,,,29473,,,,,,
+"Jul 1, 2005",,Free transfer,Hungary,7682.0,Lombard Pápa  ,173870,-,Zoltán Jagodics,05/06,Hungary,6052.0,Büki TK 
+"Jul 1, 2004",,Free transfer,Hungary,649.0,Szombathely ,173870,-,Zoltán Jagodics,04/05,Hungary,7682.0,Lombard Pápa  
+"Jul 1, 2003",,Free transfer,Hungary,6052.0,Büki TK ,173870,-,Zoltán Jagodics,03/04,Hungary,649.0,LFC Haladás 
+"Jul 1, 2000",,Free transfer,Hungary,75.0,Unknown ,173870,-,Zoltán Jagodics,00/01,,6052.0,Büki TK 
+"Jan 1, 2000",,Free transfer,Hungary,279.0,Ferencváros ,173870,-,Zoltán Jagodics,99/00,,75.0,Unknown 
+"Jan 1, 1996",,?,Hungary,11107.0,Fehérvár FC ,173870,-,Zoltán Jagodics,95/96,Hungary,279.0,Ferencváros 
+"Jan 1, 1995",,?,Hungary,6055.0,ETO FC Győr  ,173870,-,Zoltán Jagodics,94/95,Hungary,11107.0,Fehérvár FC 
+"Jul 1, 1994",,?,Hungary,649.0,Szombathely ,173870,-,Zoltán Jagodics,94/95,Hungary,6055.0,ETO FC Győr  
+"Jul 1, 1988",,-,Hungary,21491.0,Haladás U19 ,173870,-,Zoltán Jagodics,88/89,Hungary,649.0,Szombathely 
+"Jul 1, 2006",,Free transfer,Brazil,16108.0,Nova Iguaçu ,29477,-,Flávio Pim,06/07,Brazil,25244.0,Jataiense-GO 
+"Apr 1, 2005",,Free transfer,Hungary,84.0,Debreceni VSC ,29477,-,Flávio Pim,04/05,Brazil,16108.0,Nova Iguaçu 
+"Jan 1, 2003",,Free transfer,Hungary,649.0,LFC Haladás ,29477,-,Flávio Pim,02/03,Hungary,84.0,Debreceni VSC 
+"Jul 1, 2000",,Free transfer,Brazil,978.0,Vasco da Gama ,29477,-,Flávio Pim,00/01,Hungary,649.0,Szombathely 
+"Jul 1, 2014",,-,Hungary,12163.0,Paksi FC ,29478,100 Th. €,László Éger,14/15,,123.0,End of career 
+"Aug 1, 2007",,?,Hungary,84.0,Debreceni VSC ,29478,-,László Éger,07/08,Hungary,12163.0,Paksi FC 
+"Jun 30, 2007",,End of loan,Spain,606.0,Poli Ejido ,29478,-,László Éger,06/07,Hungary,84.0,Debreceni VSC 
+"Aug 1, 2006",,Loan,Hungary,84.0,Debreceni VSC ,29478,-,László Éger,06/07,Spain,606.0,Poli Ejido 
+"Jul 1, 2002",,?,Hungary,4787.0,Dunaferr SE ,29478,-,László Éger,02/03,Hungary,84.0,Debreceni VSC 
+"Jul 1, 1998",,?,Hungary,12163.0,Paksi SE ,29478,-,László Éger,98/99,Hungary,4787.0,Dunaferr SE 
+"Jul 1, 1995",,Free transfer,Hungary,28414.0,Szekszárdi UFC ,29478,-,László Éger,95/96,Hungary,12163.0,Paksi SE 
+"Jul 1, 1994",,Free transfer,Hungary,12163.0,Paksi SE ,29478,-,László Éger,94/95,Hungary,28414.0,Szekszárdi UFC 
+"Jul 1, 2013",,-,Hungary,28414.0,Szekszárdi UFC ,148849,-,Attila Fehér,13/14,,123.0,End of career 
+"Mar 1, 2008",,Free transfer,Hungary,12163.0,Paksi FC ,148849,-,Attila Fehér,07/08,Hungary,28414.0,Szekszárdi UFC 
+"Jul 1, 2005",,?,Hungary,28414.0,Szekszárdi UFC ,148849,-,Attila Fehér,05/06,Hungary,12163.0,Paksi SE 
+"Mar 1, 2005",,Free transfer,Hungary,24011.0,Bajai LSE ,148849,-,Attila Fehér,04/05,Hungary,28414.0,Szekszárdi UFC 
+"Aug 1, 2004",,Free transfer,Hungary,11107.0,FC Fehérvár ,148849,-,Attila Fehér,04/05,Hungary,24011.0,Bajai LSE 
+"Jul 1, 2003",,?,Hungary,28414.0,Szekszárdi UFC ,148849,-,Attila Fehér,03/04,Hungary,11107.0,Videoton FC 
+"Jul 1, 2008",,-,Hungary,21959.0,Vecsés ,102056,-,István Pisont,08/09,,123.0,End of career 
+"Jul 1, 2004",,Free transfer,Hungary,634.0,MTK Budapest ,102056,-,István Pisont,04/05,Hungary,21959.0,Vecsés 
+"Jan 1, 2004",,Free transfer,Israel,6105.0,FC Ashdod ,102056,-,István Pisont,03/04,Israel,9095.0,Bnei Yehuda 
+"Jul 1, 2003",,Free transfer,Israel,9095.0,Bnei Yehuda ,102056,-,István Pisont,03/04,Hungary,634.0,MTK Budapest 
+"Jul 1, 2002",,Free transfer,Israel,1017.0,Hapoel Tel Aviv ,102056,-,István Pisont,02/03,Israel,6105.0,FC Ashdod 
+"Jul 1, 1999",,Free transfer,Germany,24.0,E. Frankfurt ,102056,-,István Pisont,99/00,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 1998",,Free transfer,Israel,3793.0,B. Jerusalem ,102056,-,István Pisont,98/99,Germany,24.0,E. Frankfurt 
+"Jan 1, 1996",,?,Hungary,709.0,Honvéd FC ,102056,-,István Pisont,95/96,Israel,3793.0,B. Jerusalem 
+"Jul 1, 1995",,?,Belgium,172.0,RSC Charleroi ,102056,-,István Pisont,95/96,Hungary,709.0,Honvéd FC 
+"Jan 1, 1995",,?,Hungary,709.0,Honvéd FC ,102056,-,István Pisont,94/95,Belgium,172.0,RSC Charleroi 
+"Jul 1, 1988",,?,Hungary,32430.0,Szarvasi FC ,102056,-,István Pisont,88/89,Hungary,709.0,Honvéd SE 
+"Jan 1, 2014",,-,Hungary,29766.0,Putnok ,69162,100 Th. €,Attila Zabos,13/14,,123.0,End of career 
+"Aug 1, 2011",,Free transfer,Hungary,6058.0,Nyíregyháza ,69162,150 Th. €,Attila Zabos,11/12,Hungary,29766.0,Putnok 
+"Jan 1, 2007",,Free transfer,Hungary,634.0,MTK Budapest ,69162,-,Attila Zabos,06/07,Hungary,6058.0,Nyíregyháza 
+"Jul 1, 2003",,Free transfer,Hungary,24031.0,Kazincbarcika ,69162,-,Attila Zabos,03/04,Hungary,634.0,MTK Budapest 
+"Jan 1, 2002",,Free transfer,Hungary,5378.0,Vasas SC ,69162,-,Attila Zabos,01/02,Hungary,24031.0,Kazincbarcika 
+"Jul 15, 2015",,Free transfer,Hungary,6056.0,Kaposvári RFC ,22699,150 Th. €,Péter Rajczi,15/16,Hungary,30613.0,Kisvárda 
+"Aug 14, 2014",,Free transfer,Hungary,24032.0,Mezőkövesd ,22699,150 Th. €,Péter Rajczi,14/15,Hungary,6056.0,Kaposvári RFC 
+"Jan 23, 2014",,Free transfer,Hungary,12423.0,Kecskeméti TE ,22699,150 Th. €,Péter Rajczi,13/14,Hungary,24032.0,Mezőkövesd 
+"Jan 28, 2013",,Free transfer,Hungary,708.0,Újpest FC ,22699,200 Th. €,Péter Rajczi,12/13,Hungary,12423.0,Kecskeméti TE 
+"Jul 1, 2008",,?,Italy,4172.0,AC Pisa ,22699,"1,00 Mill. €",Péter Rajczi,08/09,Hungary,708.0,Újpest FC 
+"Aug 1, 2007",,Free transfer,Hungary,708.0,Újpest FC ,22699,"1,00 Mill. €",Péter Rajczi,07/08,Italy,4172.0,AC Pisa 
+"Jun 30, 2007",,End of loan,England,349.0,Barnsley FC ,22699,"1,00 Mill. €",Péter Rajczi,06/07,Hungary,708.0,Újpest FC 
+"Jan 1, 2007",,Loan fee:100 Th. €,Hungary,708.0,Újpest FC ,22699,"1,00 Mill. €",Péter Rajczi,06/07,England,349.0,Barnsley FC 
+"Jul 22, 2003",,Free transfer,Hungary,6056.0,Kaposvári RFC ,22699,-,Péter Rajczi,03/04,Hungary,708.0,Újpest FC 
+"Jan 1, 2001",,-,Hungary,17121.0,Kaposvar U19 ,22699,-,Péter Rajczi,00/01,Hungary,6056.0,Kaposvári RFC 
+"Jul 1, 2013",,Free transfer,Hungary,5378.0,Vasas FC ,29486,150 Th. €,Balázs Nikolov,13/14,Hungary,27870.0,Biatorbagy SE 
+"Oct 1, 2012",,-,Hungary,515.0,Unattached ,29486,150 Th. €,Balázs Nikolov,12/13,,5378.0,Vasas SC 
+"Aug 29, 2012",,-,Hungary,84.0,Debreceni VSC ,29486,150 Th. €,Balázs Nikolov,12/13,,515.0,Unattached 
+"Jan 1, 2011",,-,Hungary,515.0,Unattached ,29486,150 Th. €,Balázs Nikolov,10/11,,84.0,Debreceni VSC 
+"Jul 1, 2010",,-,Hungary,12163.0,Paksi FC ,29486,275 Th. €,Balázs Nikolov,10/11,,515.0,Unattached 
+"Jan 1, 2009",,Free transfer,Hungary,6055.0,ETO FC Győr  ,29486,400 Th. €,Balázs Nikolov,08/09,Hungary,12163.0,Paksi FC 
+"Jul 1, 2007",,Free transfer,Norway,4309.0,HamKam ,29486,400 Th. €,Balázs Nikolov,07/08,Hungary,6055.0,ETO FC Győr  
+"Jan 1, 2006",,125 Th. €,Hungary,84.0,Debreceni VSC ,29486,-,Balázs Nikolov,05/06,Norway,4309.0,HamKam 
+"Jul 1, 2003",,Free transfer,Hungary,4787.0,Dunaujvaros FC ,29486,-,Balázs Nikolov,03/04,Hungary,84.0,Debreceni VSC 
+"Jul 1, 2007",,-,Romania,9465.0,Petr. Ploiesti ,42799,-,Marian Savu,07/08,,123.0,End of career 
+"Jul 1, 2006",,?,Romania,2754.0,FC National ,42799,-,Marian Savu,06/07,Romania,9465.0,Petr. Ploiesti 
+"Jul 1, 2004",,?,Hungary,11107.0,FC Fehérvár ,42799,-,Marian Savu,04/05,Romania,2754.0,FC National 
+"Jul 1, 2003",,?,Cyprus,786.0,AEL Limassol ,42799,-,Marian Savu,03/04,Hungary,11107.0,Videoton FC 
+"Jul 1, 2002",,?,Romania,2754.0,FC National ,42799,-,Marian Savu,02/03,Cyprus,786.0,AEL Limassol 
+"Jul 1, 2001",,?,Ukraine,2783.0,Metalurg D. ,42799,-,Marian Savu,01/02,Romania,2754.0,FC National 
+"Jan 1, 2001",,?,Ukraine,660.0,Shakhtar D. ,42799,-,Marian Savu,00/01,Ukraine,2783.0,Metalurg D. 
+"Jul 1, 2000",,?,Romania,2754.0,FC National ,42799,-,Marian Savu,00/01,Ukraine,660.0,Shakhtar D. 
+"Jan 1, 1998",,?,Romania,6425.0,Studentesc ,42799,-,Marian Savu,97/98,Romania,2754.0,FC National 
+"Jul 1, 1997",,?,Romania,2754.0,FC National ,42799,-,Marian Savu,97/98,Romania,6425.0,Studentesc 
+"Jul 1, 1996",,?,Romania,455.0,Rapid Bucharest ,42799,-,Marian Savu,96/97,Romania,2754.0,FC National 
+"Jan 1, 1996",,?,Romania,312.0,Dinamo Bukarest ,42799,-,Marian Savu,95/96,Romania,455.0,Rapid Bucharest 
+"Jul 1, 1995",,?,Romania,4687.0,FC Brasov ,42799,-,Marian Savu,95/96,Romania,312.0,Dinamo Bukarest 
+"Jan 1, 1995",,?,Romania,312.0,Dinamo Bukarest ,42799,-,Marian Savu,94/95,Romania,4687.0,FC Brasov 
+"Jan 1, 1993",,?,Romania,32290.0,Flacara Moreni ,42799,-,Marian Savu,92/93,Romania,312.0,Dinamo Bukarest 
+"Jul 1, 1991",,?,Romania,312.0,Dinamo Bukarest ,42799,-,Marian Savu,91/92,Romania,32290.0,Flacara Moreni 
+"Jul 1, 1990",,?,Romania,32290.0,Flacara Moreni ,42799,-,Marian Savu,90/91,Romania,312.0,Dinamo Bukarest 
+"Jan 1, 1990",,?,Romania,75.0,Unknown ,42799,-,Marian Savu,89/90,,32290.0,Flacara Moreni 
+"Aug 11, 2010",,Free transfer,Austria,8573.0,Baumgarten ,100528,-,Miklós Belényesi,10/11,Hungary,30533.0,Balmazújváros 
+"Jan 1, 2010",,Free transfer,Hungary,5399.0,Szolnok ,100528,-,Miklós Belényesi,09/10,Austria,8573.0,Baumgarten 
+"Feb 26, 2009",,Free transfer,Hungary,6058.0,Nyíregyháza ,100528,-,Miklós Belényesi,08/09,Hungary,5399.0,Szolnok 
+"Jul 22, 2008",,Free transfer,Hungary,12163.0,Paksi FC ,100528,-,Miklós Belényesi,08/09,Hungary,6058.0,Nyíregyháza 
+"Jul 28, 2006",,Free transfer,Hungary,4787.0,Dunaujvaros FC ,100528,-,Miklós Belényesi,06/07,Hungary,12163.0,Paksi FC 
+"Aug 10, 2005",,Free transfer,Hungary,9241.0,Diósgyör ,100528,-,Miklós Belényesi,05/06,Hungary,4787.0,Dunaujvaros FC 
+"Aug 12, 2004",,Free transfer,Hungary,22255.0,Debrecen II ,100528,-,Miklós Belényesi,04/05,Hungary,9241.0,Diósgyör 
+"Jun 30, 2004",,End of loan,Hungary,4787.0,Dunaujvaros FC ,100528,-,Miklós Belényesi,03/04,Hungary,22255.0,Debrecen II 
+"Jan 1, 2004",,Loan,Hungary,22255.0,Debrecen II ,100528,-,Miklós Belényesi,03/04,Hungary,4787.0,Dunaujvaros FC 
+"Jul 1, 2001",,-,Hungary,16688.0,Debrecen U19 ,100528,-,Miklós Belényesi,01/02,Hungary,22255.0,Debrecen II 
+"Jul 1, 2008",,-,Hungary,29681.0,Abony FC ,107255,-,Károly Szanyó,08/09,,123.0,End of career 
+"Feb 1, 2007",,Free transfer,Hungary,30913.0,Fóti SE ,107255,-,Károly Szanyó,06/07,Hungary,29681.0,Abony FC 
+"Mar 1, 2006",,-,Austria,2475.0,Union Perg ,107255,-,Károly Szanyó,05/06,Hungary,30913.0,Fóti SE 
+"Jul 1, 2005",,Free transfer,Hungary,5378.0,Vasas SC ,107255,-,Károly Szanyó,05/06,Austria,2475.0,Union Perg 
+"Jan 1, 2005",,-,Hungary,515.0,Unattached ,107255,-,Károly Szanyó,04/05,,5378.0,Vasas SC 
+"Jul 1, 2004",,-,Hungary,708.0,Újpest FC ,107255,-,Károly Szanyó,04/05,,515.0,Unattached 
+"Jul 1, 2003",,Free transfer,Hungary,6055.0,ETO FC Győr  ,107255,-,Károly Szanyó,03/04,Hungary,708.0,Újpest FC 
+"Jul 1, 2001",,Free transfer,Israel,6028.0,Kiryat Shmona ,107255,-,Károly Szanyó,01/02,Hungary,6055.0,ETO FC Győr  
+"Jul 1, 2000",,Free transfer,Hungary,84.0,Debreceni VSC ,107255,-,Károly Szanyó,00/01,Israel,6028.0,Kiryat Shmona 
+"Jan 1, 2000",,?,Austria,266.0,SV  Ried ,107255,-,Károly Szanyó,99/00,Hungary,84.0,Debreceni VSC 
+"Jul 1, 1999",,Free transfer,Hungary,708.0,Újpest FC ,107255,-,Károly Szanyó,99/00,Austria,266.0,SV  Ried 
+"Jun 30, 1997",,End of loan,Germany,78.0,VfB Lübeck ,107255,-,Károly Szanyó,96/97,Hungary,708.0,Újpest TE 
+"Jan 1, 1997",,Loan,Hungary,708.0,Újpest TE ,107255,-,Károly Szanyó,96/97,Germany,78.0,VfB Lübeck 
+"Jul 1, 1992",,-,Hungary,15913.0,Újpest U19 ,107255,-,Károly Szanyó,92/93,Hungary,708.0,Újpest TE 
+"Jul 1, 2011",,-,Romania,22964.0,FC Snagov ,207902,-,Ion Voicu,11/12,,123.0,End of career 
+"Jul 1, 2008",,?,Romania,11378.0,Dunarea Galati ,207902,-,Ion Voicu,08/09,Romania,22964.0,FC Snagov 
+"Jul 1, 2007",,?,Romania,8174.0,FC Vaslui ,207902,-,Ion Voicu,07/08,Romania,11378.0,Dunarea Galati 
+"Jul 1, 2006",,?,Romania,9830.0,Jiul Petrosani ,207902,-,Ion Voicu,06/07,Romania,8174.0,FC Vaslui 
+"Jul 1, 2005",,?,Hungary,11107.0,FC Fehérvár ,207902,-,Ion Voicu,05/06,Romania,9830.0,Jiul Petrosani 
+"Jan 1, 2005",,?,Romania,13839.0,Alba Iulia ,207902,-,Ion Voicu,04/05,Hungary,11107.0,FC Fehérvár 
+"Jul 1, 2004",,?,Hungary,11107.0,FC Fehérvár ,207902,-,Ion Voicu,04/05,Romania,13839.0,Alba Iulia 
+"Jul 1, 2003",,?,Romania,455.0,Rapid Bucharest ,207902,-,Ion Voicu,03/04,Hungary,11107.0,Videoton FC 
+"Jul 1, 2001",,?,Romania,312.0,Dinamo Bukarest ,207902,-,Ion Voicu,01/02,Romania,455.0,Rapid Bucharest 
+"Jan 1, 2001",,?,Romania,6445.0,AS Rocar Bukarest ,207902,-,Ion Voicu,00/01,Romania,312.0,Dinamo Bukarest 
+"Jul 1, 2000",,?,Romania,455.0,Rapid Bucharest ,207902,-,Ion Voicu,00/01,Romania,6445.0,AS Rocar Bukarest 
+"Jul 1, 1998",,?,Romania,6445.0,AS Rocar Bukarest ,207902,-,Ion Voicu,98/99,Romania,455.0,Rapid Bucharest 
+"Jan 1, 1998",,?,Romania,5267.0,Farul ,207902,-,Ion Voicu,97/98,Romania,6445.0,AS Rocar Bukarest 
+"Jul 1, 1996",,?,Romania,75.0,Unknown ,207902,-,Ion Voicu,96/97,,5267.0,Farul 
+"Jul 1, 1995",,?,Romania,11380.0,Gloria Buzau ,207902,-,Ion Voicu,95/96,,75.0,Unknown 
+"Jul 1, 1994",,?,Romania,312.0,Dinamo Bukarest ,207902,-,Ion Voicu,94/95,Romania,11380.0,Gloria Buzau 
+"Jul 1, 2005",,-,Hungary,7682.0,Lombard Pápa  ,177850,-,Antal Lőrinc,05/06,,123.0,End of career 
+"Jul 1, 2004",,?,Hungary,649.0,Szombathely ,177850,-,Antal Lőrinc,04/05,Hungary,7682.0,Lombard Pápa  
+"Jul 1, 2002",,?,Hungary,709.0,Honvéd FC ,177850,-,Antal Lőrinc,02/03,Hungary,649.0,LFC Haladás 
+"Jan 1, 2000",,Free transfer,Hungary,75.0,Unknown ,177850,-,Antal Lőrinc,99/00,,709.0,Honvéd FC 
+"Jul 1, 1999",,Free transfer,Finland,304.0,FC Jazz Pori ,177850,-,Antal Lőrinc,99/00,,75.0,Unknown 
+"Jan 1, 1999",,Free transfer,Finland,75.0,Unknown ,177850,-,Antal Lőrinc,98/99,,304.0,FC Jazz Pori 
+"Jul 1, 1997",,Free transfer,Hungary,279.0,Ferencváros ,177850,-,Antal Lőrinc,97/98,,75.0,Unknown 
+"Jan 1, 1997",,?,Hungary,11107.0,Videoton FC ,177850,-,Antal Lőrinc,96/97,Hungary,279.0,Ferencváros 
+"Jul 1, 1992",,?,Hungary,3233.0,Pécsi MFC ,177850,-,Antal Lőrinc,92/93,Hungary,11107.0,Parmalat FC 
+"Jul 23, 2012",,-,Hungary,30003.0,Mosonmagyaróvár ,162762,-,Ádám Schafranek,12/13,,123.0,End of career 
+"Jul 1, 2011",,Free transfer,Austria,10324.0,Purbach ,162762,25 Th. €,Ádám Schafranek,11/12,Hungary,30003.0,Mosonmagyaróvár 
+"Jan 1, 2011",,Free transfer,Hungary,17208.0,Budaörs ,162762,25 Th. €,Ádám Schafranek,10/11,Austria,10324.0,Purbach 
+"Jul 1, 2008",,Free transfer,Hungary,7682.0,Lombard Pápa  ,162762,-,Ádám Schafranek,08/09,Hungary,17208.0,Budaörs 
+"Jul 1, 2005",,-,Hungary,7682.0,Lombard Pápa  ,177855,-,Csaba Somfalvi,05/06,,123.0,End of career 
+"Jul 1, 2004",,Free transfer,Hungary,649.0,Szombathely ,177855,-,Csaba Somfalvi,04/05,Hungary,7682.0,Lombard Pápa  
+"Jul 1, 1999",,Free transfer,Hungary,1391.0,Zalaegerszeg ,177855,-,Csaba Somfalvi,99/00,Hungary,649.0,Szombathely 
+"Jul 1, 1998",,End of loan,Hungary,3233.0,Pécsi MFC ,177855,-,Csaba Somfalvi,98/99,Hungary,1391.0,Zalaegerszeg 
+"Jul 1, 1997",,Loan,Hungary,1391.0,Zalaegerszeg ,177855,-,Csaba Somfalvi,97/98,Hungary,3233.0,Pécsi MFC 
+"Jul 1, 1996",,Free transfer,Hungary,649.0,Szombathely ,177855,-,Csaba Somfalvi,96/97,Hungary,1391.0,Zalaegerszeg 
+"Jul 1, 1991",,-,Hungary,21491.0,Haladás U19 ,177855,-,Csaba Somfalvi,91/92,Hungary,649.0,Szombathely 
+"Jul 1, 2015",,?,Austria,26975.0,ASKÖ Rotenturm ,57153,50 Th. €,Dávid Disztl,15/16,Austria,24071.0,SC Kemeten 
+"Jan 1, 2014",,?,Austria,75.0,Unknown ,57153,50 Th. €,Dávid Disztl,13/14,,26975.0,ASKÖ Rotenturm 
+"Jul 1, 2013",,?,Hungary,27775.0,Mori SE ,57153,50 Th. €,Dávid Disztl,13/14,,75.0,Unknown 
+"Feb 23, 2013",,?,Iceland,1839.0,KA ,57153,50 Th. €,Dávid Disztl,12/13,Hungary,27775.0,Mori SE 
+"May 1, 2012",,Free transfer,Hungary,27165.0,Dunaújváros ,57153,50 Th. €,Dávid Disztl,11/12,Iceland,1839.0,KA 
+"Feb 1, 2012",,Free transfer,Iceland,21864.0,Thór ,57153,-,Dávid Disztl,11/12,Hungary,27165.0,Dunaújváros 
+"Feb 1, 2011",,?,Iceland,1839.0,KA ,57153,-,Dávid Disztl,10/11,Iceland,21864.0,Thór 
+"May 1, 2009",,Free transfer,Hungary,9242.0,Puskás FC U19 ,57153,-,Dávid Disztl,08/09,Iceland,1839.0,KA 
+"Jul 1, 2007",,?,Hungary,11107.0,FC Fehérvár ,57153,-,Dávid Disztl,07/08,Hungary,9242.0,Felcsút U19 
+"Jul 1, 2012",,-,Serbia,32098.0,Jedinstvo Uzice ,169035,-,Ivan Janjić,12/13,,123.0,End of career 
+"Jan 1, 2010",,?,Serbia,11066.0,Sloboda Uzice ,169035,-,Ivan Janjić,09/10,Serbia,32098.0,Jedinstvo Uzice 
+"Jul 1, 2013",,-,Austria,37155.0,Eltendorf ,69157,-,Tamás Takács,13/14,,123.0,End of career 
+"Jul 1, 2012",,-,Hungary,7682.0,Lombard Pápa  ,69157,100 Th. €,Tamás Takács,12/13,,515.0,Unattached 
+"Jul 1, 2012",,?,Austria,515.0,Unattached ,69157,100 Th. €,Tamás Takács,12/13,,37155.0,Eltendorf 
+"Jul 1, 2009",,Free transfer,Romania,13572.0,Liberty Salonta ,69157,-,Tamás Takács,09/10,Hungary,7682.0,Lombard Pápa  
+"Jul 1, 2008",,Free transfer,Hungary,6058.0,Nyíregyháza ,69157,-,Tamás Takács,08/09,Romania,13572.0,Liberty Salonta 
+"Jan 1, 2008",,?,Hungary,2952.0,FC Sopron ,69157,-,Tamás Takács,07/08,Hungary,6058.0,Nyíregyháza 
+"Jan 1, 2006",,Free transfer,Hungary,709.0,Budapest Honvéd ,69157,-,Tamás Takács,05/06,Hungary,2952.0,FC Sopron 
+"Jan 1, 2005",,25 Th. €,Hungary,9241.0,Diósgyör ,69157,-,Tamás Takács,04/05,Hungary,709.0,Budapest Honvéd 
+"Jul 1, 2004",,Free transfer,Hungary,84.0,Debreceni VSC ,69157,-,Tamás Takács,04/05,Hungary,9241.0,Diósgyör 
+"Jul 1, 2003",,Free transfer,Hungary,649.0,LFC Haladás ,69157,-,Tamás Takács,03/04,Hungary,84.0,Debreceni VSC 
+"Jul 1, 1998",,-,Hungary,21491.0,Haladás U19 ,69157,-,Tamás Takács,98/99,Hungary,649.0,Szombathely 
+"Jul 1, 2015",,-,Slovakia,4529.0,Dunajska Streda ,63176,-,Ottó Szabó,15/16,,123.0,End of career 
+"Feb 1, 2014",,Free transfer,Hungary,7682.0,Lombard Pápa  ,63176,175 Th. €,Ottó Szabó,13/14,Slovakia,4529.0,Dunajska Streda 
+"Jul 26, 2012",,?,Hungary,6055.0,ETO FC Győr  ,63176,200 Th. €,Ottó Szabó,12/13,Hungary,7682.0,Lombard Pápa  
+"Jul 1, 2009",,Free transfer,Slovakia,540.0,Slo. Bratislava ,63176,-,Ottó Szabó,09/10,Hungary,6055.0,ETO FC Győr  
+"Dec 31, 2008",,End of loan,Slovakia,2781.0,Petrzalka ,63176,-,Ottó Szabó,08/09,Slovakia,540.0,Slo. Bratislava 
+"Jul 1, 2008",,Loan,Slovakia,540.0,Slo. Bratislava ,63176,-,Ottó Szabó,08/09,Slovakia,2781.0,Petrzalka 
+"Jan 1, 2007",,?,Slovakia,4529.0,Dunajska Streda ,63176,-,Ottó Szabó,06/07,Slovakia,540.0,Slo. Bratislava 
+"Jul 1, 2006",,?,Hungary,5378.0,Vasas SC ,63176,-,Ottó Szabó,06/07,Slovakia,4529.0,Dunajska Streda 
+"Jan 1, 2006",,?,Hungary,84.0,Debreceni VSC ,63176,-,Ottó Szabó,05/06,Hungary,5378.0,Vasas SC 
+"Jul 1, 2005",,?,Hungary,2952.0,FC Sopron ,63176,-,Ottó Szabó,05/06,Hungary,84.0,Debreceni VSC 
+"Jul 1, 2004",,?,Hungary,634.0,MTK Budapest ,63176,-,Ottó Szabó,04/05,Hungary,2952.0,FC Sopron 
+"Jul 1, 2003",,Free transfer,Austria,4448.0,Braunau ,63176,-,Ottó Szabó,03/04,Hungary,634.0,MTK Budapest 
+"Jan 1, 2002",,Free transfer,Austria,170.0,Rapid Vienna ,63176,-,Ottó Szabó,01/02,Austria,4448.0,Braunau 
+"Jun 30, 2001",,End of loan,Austria,4448.0,Braunau ,63176,-,Ottó Szabó,00/01,Austria,170.0,Rapid Vienna 
+"Jul 1, 2000",,Loan,Austria,170.0,Rapid Vienna ,63176,-,Ottó Szabó,00/01,Austria,4448.0,Braunau 
+"Jul 1, 1999",,-,Austria,7001.0,Rapid Wien II ,63176,-,Ottó Szabó,99/00,Austria,170.0,Rapid Vienna 
+"Jul 1, 1997",,?,Slovakia,4529.0,Dunajska Streda ,63176,-,Ottó Szabó,97/98,Austria,7001.0,Rapid Wien II 
+"Jan 1, 2008",,-,Faroe Island,10537.0,GI Gota ,49508,-,Géza Tamás Turi,07/08,Faroe Island,24832.0,Víkingur Göta 
+"Feb 1, 2006",,?,Hungary,3395.0,FC Tatabánya ,49508,-,Géza Tamás Turi,05/06,Faroe Island,10537.0,GI Gota 
+"Jul 23, 2008",,Free transfer,Hungary,46880.0,Veresegyház ,150730,-,Zoltán Schwarcz,08/09,Hungary,52937.0,Berkenye 
+"Aug 23, 2007",,Free transfer,Hungary,11107.0,FC Fehérvár ,150730,-,Zoltán Schwarcz,07/08,Hungary,46880.0,Veresegyház 
+"Jul 1, 2003",,?,Hungary,9241.0,Diósgyör ,150730,-,Zoltán Schwarcz,03/04,Hungary,11107.0,Videoton FC 
+"Jul 28, 2015",,Free transfer,Hungary,27165.0,Dunaújváros ,72750,50 Th. €,Viktor Farkas,15/16,Hungary,24017.0,Cegléd 
+"Jul 9, 2012",,Free transfer,Hungary,21959.0,Vecsés ,72750,100 Th. €,Viktor Farkas,12/13,Hungary,27165.0,Dunaújváros 
+"Feb 1, 2012",,?,Hungary,3395.0,FC Tatabánya ,72750,100 Th. €,Viktor Farkas,11/12,Hungary,21959.0,Vecsés 
+"Jul 1, 2007",,?,Hungary,9241.0,Diósgyör ,72750,-,Viktor Farkas,07/08,Hungary,3395.0,FC Tatabánya 
+"Jul 1, 2005",,?,Hungary,7682.0,Lombard Pápa  ,72750,-,Viktor Farkas,05/06,Hungary,9241.0,Diósgyör 
+"Jun 30, 2004",,End of loan,Hungary,709.0,Budapest Honvéd ,72750,-,Viktor Farkas,03/04,Hungary,7682.0,Lombard Pápa  
+"Jan 1, 2004",,Loan,Hungary,7682.0,Lombard Pápa  ,72750,-,Viktor Farkas,03/04,Hungary,709.0,Budapest Honvéd 
+"Jul 1, 2014",,?,Austria,22379.0,Markt Allhau ,57037,-,Ákos Kozmor,14/15,Austria,18028.0,Forchtenstein 
+"Jul 1, 2012",,?,Austria,4376.0,SV Oberwart ,57037,-,Ákos Kozmor,12/13,Austria,22379.0,Markt Allhau 
+"Jul 1, 2010",,Free transfer,Austria,20169.0,Stinatz ,57037,-,Ákos Kozmor,10/11,Austria,4376.0,SV Oberwart 
+"Jul 1, 2008",,Free transfer,Hungary,634.0,MTK Budapest ,57037,-,Ákos Kozmor,08/09,Austria,20169.0,Stinatz 
+"Jun 30, 2008",,End of loan,Hungary,3552.0,BFC Siófok ,57037,-,Ákos Kozmor,07/08,Hungary,634.0,MTK Budapest 
+"Aug 1, 2006",,Loan,Hungary,634.0,MTK Budapest ,57037,-,Ákos Kozmor,06/07,Hungary,3552.0,BFC Siófok 
+"Jun 30, 2016",,End of loan,Hungary,30809.0,Bicskei TC ,57039,25 Th. €,Dániel Köntös,15/16,Hungary,33524.0,Csákvár 
+"Jan 7, 2016",,Loan,Hungary,33524.0,Csákvár ,57039,25 Th. €,Dániel Köntös,15/16,Hungary,30809.0,Bicskei TC 
+"Feb 17, 2014",,Free transfer,Hungary,27165.0,Dunaújváros ,57039,75 Th. €,Dániel Köntös,13/14,Hungary,33524.0,Csákvár 
+"Jul 1, 2012",,Free transfer,Hungary,31071.0,Dunafém-Maroshegy SE ,57039,75 Th. €,Dániel Köntös,12/13,Hungary,27165.0,Dunaújváros 
+"Jan 1, 2012",,Free transfer,Hungary,3552.0,BFC Siófok ,57039,75 Th. €,Dániel Köntös,11/12,Hungary,31071.0,Dunafém-Maroshegy SE 
+"Jul 1, 2011",,Free transfer,Hungary,3395.0,FC Tatabánya ,57039,75 Th. €,Dániel Köntös,11/12,Hungary,3552.0,BFC Siófok 
+"Jul 1, 2010",,Free transfer,Hungary,3552.0,BFC Siófok ,57039,75 Th. €,Dániel Köntös,10/11,Hungary,3395.0,FC Tatabánya 
+"Jul 1, 2005",,Free transfer,Hungary,9242.0,Felcsút U19 ,57039,-,Dániel Köntös,05/06,Hungary,3552.0,BFC Siófok 
+"Jul 1, 2004",,Free transfer,Hungary,11107.0,FC Fehérvár ,57039,-,Dániel Köntös,04/05,Hungary,9242.0,Felcsút U19 
+"Jul 1, 2006",,-,Hungary,6050.0,Budafoki LC ,171371,-,Mihály Szűcs,06/07,,123.0,End of career 
+"Jul 1, 2005",,Free transfer,Hungary,7682.0,Lombard Pápa  ,171371,-,Mihály Szűcs,05/06,Hungary,6050.0,Budafoki LC 
+"Jul 1, 2004",,Free transfer,Hungary,649.0,Szombathely ,171371,-,Mihály Szűcs,04/05,Hungary,7682.0,Lombard Pápa  
+"Jul 1, 2002",,Free transfer,Hungary,3395.0,FC Tatabánya ,171371,-,Mihály Szűcs,02/03,Hungary,649.0,LFC Haladás 
+"Jul 1, 2001",,Free transfer,Hungary,279.0,Ferencváros ,171371,-,Mihály Szűcs,01/02,Hungary,3395.0,FC Tatabánya 
+"Jun 30, 1996",,End of loan,Hungary,26308.0,III. Kerület ,171371,-,Mihály Szűcs,95/96,Hungary,279.0,Ferencváros 
+"Jan 1, 1996",,Loan,Hungary,279.0,Ferencváros ,171371,-,Mihály Szűcs,95/96,Hungary,26308.0,III. Kerület 
+"Jul 1, 1989",,-,Hungary,15904.0,Ferencváros U19 ,171371,-,Mihály Szűcs,89/90,Hungary,279.0,Ferencváros 
+"Jan 1, 2014",,Free transfer,Austria,28760.0,A. Klagenfurt ,74578,-,Olivér Pusztai,13/14,Austria,20098.0,Annabichler SV 
+"Jul 1, 2010",,Free transfer,Austria,11609.0,Austria Kärnten ,74578,350 Th. €,Olivér Pusztai,10/11,Austria,28760.0,A. Klagenfurt 
+"Jul 1, 2008",,Free transfer,Hungary,13414.0,Rákospalota ,74578,200 Th. €,Olivér Pusztai,08/09,Austria,11609.0,Austria Kärnten 
+"Jul 1, 2006",,?,Hungary,6055.0,ETO FC Győr  ,74578,-,Olivér Pusztai,06/07,Hungary,13414.0,Rákospalota 
+"Jul 1, 2004",,?,Hungary,634.0,MTK Budapest ,74578,-,Olivér Pusztai,04/05,Hungary,6055.0,ETO FC Győr  
+"Jan 1, 2015",,-,,515.0,Unattached ,57172,-,Gábor Horváth,14/15,,123.0,End of career 
+"Sep 1, 2014",,-,Hungary,12163.0,Paksi FC ,57172,250 Th. €,Gábor Horváth,14/15,,515.0,Unattached 
+"Sep 11, 2013",,-,Hungary,515.0,Unattached ,57172,500 Th. €,Gábor Horváth,13/14,,12163.0,Paksi FC 
+"Jul 1, 2013",,-,Netherlands,1268.0,ADO Den Haag ,57172,500 Th. €,Gábor Horváth,13/14,,515.0,Unattached 
+"Aug 1, 2011",,?,Hungary,11107.0,Videoton FC ,57172,900 Th. €,Gábor Horváth,11/12,Netherlands,1268.0,ADO Den Haag 
+"Jun 30, 2011",,End of loan,Netherlands,132.0,NAC Breda ,57172,900 Th. €,Gábor Horváth,10/11,Hungary,11107.0,Videoton FC 
+"Aug 1, 2010",,Loan,Hungary,11107.0,Videoton FC ,57172,750 Th. €,Gábor Horváth,10/11,Netherlands,132.0,NAC Breda 
+"Jul 1, 2003",,?,Hungary,5378.0,Vasas SC ,57172,-,Gábor Horváth,03/04,Hungary,11107.0,Videoton FC 
+"Jul 1, 2015",,Free transfer,Romania,40825.0,Atletico Arad ,18318,50 Th. €,Sorin Botis,15/16,Romania,952.0,UTA Arad 
+"Jul 27, 2013",,Free transfer,Hungary,6049.0,Békéscsaba ,18318,50 Th. €,Sorin Botis,13/14,Romania,40825.0,Atletico Arad 
+"Jul 1, 2012",,Free transfer,Hungary,709.0,Budapest Honvéd ,18318,200 Th. €,Sorin Botis,12/13,Hungary,6049.0,Békéscsaba 
+"Jul 1, 2009",,Free transfer,Hungary,1391.0,Zalaegerszeg ,18318,200 Th. €,Sorin Botis,09/10,Hungary,709.0,Budapest Honvéd 
+"Jul 1, 2006",,Free transfer,Hungary,279.0,Ferencváros ,18318,200 Th. €,Sorin Botis,06/07,Hungary,1391.0,Zalaegerszeg 
+"Jul 1, 2003",,Free transfer,Romania,952.0,UTA Arad ,18318,-,Sorin Botis,03/04,Hungary,279.0,Ferencváros 
+"Jul 1, 2002",,?,Moldova,2481.0,Sheriff ,18318,-,Sorin Botis,02/03,Romania,952.0,UTA Arad 
+"Jul 1, 2001",,?,Romania,952.0,UTA Arad ,18318,-,Sorin Botis,01/02,Moldova,2481.0,Sheriff 
+"Jul 2, 2014",,Free transfer,Hungary,649.0,Szombathely ,56022,200 Th. €,Ádám Hrepka,14/15,Hungary,634.0,MTK Budapest 
+"Feb 18, 2014",,Free transfer,Israel,9095.0,Bnei Yehuda ,56022,200 Th. €,Ádám Hrepka,13/14,Hungary,649.0,Szombathely 
+"Sep 13, 2012",,?,Hungary,634.0,MTK Budapest ,56022,200 Th. €,Ádám Hrepka,12/13,Israel,9095.0,Bnei Yehuda 
+"Jun 30, 2012",,End of loan,Hungary,12163.0,Paksi FC ,56022,200 Th. €,Ádám Hrepka,11/12,Hungary,634.0,MTK Budapest 
+"Jul 1, 2011",,Loan,Hungary,634.0,MTK Budapest ,56022,200 Th. €,Ádám Hrepka,11/12,Hungary,12163.0,Paksi FC 
+"Nov 1, 2010",,End of loan,Hungary,5378.0,Vasas SC ,56022,200 Th. €,Ádám Hrepka,10/11,Hungary,634.0,MTK Budapest 
+"Jul 1, 2010",,Loan,Hungary,634.0,MTK Budapest ,56022,200 Th. €,Ádám Hrepka,10/11,Hungary,5378.0,Vasas SC 
+"Jun 30, 2010",,End of loan,Hungary,5378.0,Vasas SC ,56022,200 Th. €,Ádám Hrepka,09/10,Hungary,634.0,MTK Budapest 
+"Feb 1, 2010",,Loan,Hungary,634.0,MTK Budapest ,56022,275 Th. €,Ádám Hrepka,09/10,Hungary,5378.0,Vasas SC 
+"Dec 31, 2009",,End of loan,Hungary,709.0,Budapest Honvéd ,56022,275 Th. €,Ádám Hrepka,09/10,Hungary,634.0,MTK Budapest 
+"Jul 1, 2009",,Loan fee:50 Th. €,Hungary,634.0,MTK Budapest ,56022,275 Th. €,Ádám Hrepka,09/10,Hungary,709.0,Budapest Honvéd 
+"Dec 31, 2007",,End of loan,Netherlands,467.0,NEC Nijmegen ,56022,300 Th. €,Ádám Hrepka,07/08,Hungary,634.0,MTK Budapest 
+"Jul 1, 2007",,Loan,Hungary,634.0,MTK Budapest ,56022,-,Ádám Hrepka,07/08,Netherlands,467.0,NEC Nijmegen 
+"Jul 1, 2006",,-,Hungary,15907.0,MTK U19 ,56022,-,Ádám Hrepka,06/07,Hungary,634.0,MTK Budapest 
+"Jul 1, 2014",,-,Hungary,30613.0,KisvÃ¡rda ,113120,-,BalÃ¡zs Venczel,14/15,,123.0,End of career 
+"Jan 1, 2014",,-,Hungary,515.0,Unattached ,113120,125 Th. â‚¬,BalÃ¡zs Venczel,13/14,,30613.0,KisvÃ¡rda 
+"Jul 1, 2013",,-,Hungary,5378.0,Vasas FC ,113120,125 Th. â‚¬,BalÃ¡zs Venczel,13/14,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Hungary,7682.0,Lombard PÃ¡pa  ,113120,125 Th. â‚¬,BalÃ¡zs Venczel,11/12,Hungary,5378.0,Vasas SC 
+"Jul 1, 2008",,Free transfer,Hungary,9242.0,PuskÃ¡s FC U19 ,113120,-,BalÃ¡zs Venczel,08/09,Hungary,7682.0,Lombard PÃ¡pa  
+"Jul 1, 2007",,Free transfer,Hungary,30000.0,CelldÃ¶mÃ¶lki VSE ,113120,-,BalÃ¡zs Venczel,07/08,Hungary,9242.0,FelcsÃºt U19 
+"Feb 1, 2007",,Free transfer,Hungary,6056.0,KaposvÃ¡ri RFC ,113120,-,BalÃ¡zs Venczel,06/07,Hungary,30000.0,CelldÃ¶mÃ¶lki VSE 
+"Jul 1, 2006",,Free transfer,Hungary,709.0,Budapest HonvÃ©d ,113120,-,BalÃ¡zs Venczel,06/07,Hungary,6056.0,KaposvÃ¡ri RFC 
+"Jul 1, 2005",,?,Hungary,649.0,Szombathely ,113120,-,BalÃ¡zs Venczel,05/06,Hungary,709.0,Budapest HonvÃ©d 
+"Feb 1, 2005",,Free transfer,Hungary,2952.0,FC Sopron ,113120,-,BalÃ¡zs Venczel,04/05,Hungary,649.0,Szombathely 
+"Feb 12, 2014",,-,Hungary,5378.0,Vasas FC ,6617,-,GÃ¡bor Nagy,13/14,,123.0,End of career 
+"Jul 19, 2013",,Free transfer,Hungary,22610.0,GyirmÃ³t FC ,6617,150 Th. â‚¬,GÃ¡bor Nagy,13/14,Hungary,5378.0,Vasas FC 
+"Jan 1, 2012",,?,Hungary,649.0,Szombathely ,6617,200 Th. â‚¬,GÃ¡bor Nagy,11/12,Hungary,22610.0,GyirmÃ³t FC 
+"Jan 1, 2011",,Free transfer,Cyprus,8553.0,APEP Pitsilia ,6617,200 Th. â‚¬,GÃ¡bor Nagy,10/11,Hungary,649.0,Szombathely 
+"Jul 1, 2008",,Free transfer,Switzerland,116.0,FC Aarau ,6617,150 Th. â‚¬,GÃ¡bor Nagy,08/09,Cyprus,8553.0,APEP Pitsilia 
+"Feb 1, 2007",,275 Th. â‚¬,Hungary,13414.0,RÃ¡kospalota ,6617,-,GÃ¡bor Nagy,06/07,Switzerland,116.0,FC Aarau 
+"Jul 1, 2005",,Free transfer,Hungary,708.0,Ãšjpest FC ,6617,-,GÃ¡bor Nagy,05/06,Hungary,13414.0,RÃ¡kospalota 
+"Jul 1, 2003",,Free transfer,Hungary,6052.0,BÃ¼ki TK ,6617,-,GÃ¡bor Nagy,03/04,Hungary,708.0,Ãšjpest FC 
+"Jul 1, 2002",,?,Hungary,279.0,FerencvÃ¡ros ,6617,-,GÃ¡bor Nagy,02/03,Hungary,6052.0,BÃ¼ki TK 
+"Jul 1, 2015",,-,Hungary,17208.0,Budaörs ,162778,-,Roland Tüske,15/16,,123.0,End of career 
+"Jul 1, 2005",,Free transfer,Hungary,7682.0,Lombard Pápa  ,162778,-,Roland Tüske,05/06,Hungary,17208.0,Budaörs 
+"Jul 1, 2016",,Free transfer,Hungary,6049.0,Békéscsaba ,49118,250 Th. €,Tamás Vaskó,16/17,Hungary,5378.0,Vasas FC 
+"Aug 31, 2015",,Free transfer,Hungary,27165.0,Dunaújváros ,49118,250 Th. €,Tamás Vaskó,15/16,Hungary,6049.0,Békéscsaba 
+"Jan 6, 2015",,-,Hungary,515.0,Unattached ,49118,250 Th. €,Tamás Vaskó,14/15,,27165.0,Dunaújváros 
+"Jul 1, 2014",,-,Hungary,37169.0,Puskás AFC ,49118,250 Th. €,Tamás Vaskó,14/15,,515.0,Unattached 
+"Jan 27, 2014",,Free transfer,Hungary,24032.0,Mezőkövesd ,49118,250 Th. €,Tamás Vaskó,13/14,Hungary,37169.0,Puskás AFC 
+"Nov 11, 2013",,-,Hungary,515.0,Unattached ,49118,300 Th. €,Tamás Vaskó,13/14,,24032.0,Mezőkövesd 
+"Jul 1, 2013",,-,Hungary,11107.0,Videoton FC ,49118,300 Th. €,Tamás Vaskó,13/14,,515.0,Unattached 
+"Jun 30, 2013",,End of loan,Hungary,12423.0,Kecskeméti TE ,49118,300 Th. €,Tamás Vaskó,12/13,Hungary,11107.0,Videoton FC 
+"Aug 3, 2012",,Loan,Hungary,11107.0,Videoton FC ,49118,350 Th. €,Tamás Vaskó,12/13,Hungary,12423.0,Kecskeméti TE 
+"Jul 1, 2010",,100 Th. €,Hungary,708.0,Újpest FC ,49118,525 Th. €,Tamás Vaskó,10/11,Hungary,11107.0,Videoton FC 
+"Jun 30, 2009",,End of loan,Italy,2331.0,Avellino ,49118,400 Th. €,Tamás Vaskó,08/09,Hungary,708.0,Újpest FC 
+"Aug 1, 2008",,Loan,Hungary,708.0,Újpest FC ,49118,525 Th. €,Tamás Vaskó,08/09,Italy,2331.0,Avellino 
+"May 1, 2008",,End of loan,England,698.0,Bristol City ,49118,525 Th. €,Tamás Vaskó,07/08,Hungary,708.0,Újpest FC 
+"Aug 1, 2007",,Loan,Hungary,708.0,Újpest FC ,49118,-,Tamás Vaskó,07/08,England,698.0,Bristol City 
+"Jun 30, 2005",,End of loan,Hungary,3395.0,FC Tatabánya ,49118,-,Tamás Vaskó,04/05,Hungary,708.0,Újpest FC 
+"Aug 1, 2004",,Loan,Hungary,708.0,Újpest FC ,49118,-,Tamás Vaskó,04/05,Hungary,3395.0,FC Tatabánya 
+"Jul 1, 2001",,Free transfer,Hungary,18561.0,Vasas U19 ,49118,-,Tamás Vaskó,01/02,Hungary,708.0,Újpest FC 
+"Jul 27, 2015",,Free transfer,Hungary,3552.0,BFC Siófok ,67295,100 Th. €,János Kovács,15/16,Hungary,25743.0,SZTK 
+"Jul 1, 2014",,Free transfer,Hungary,709.0,Budapest Honvéd ,67295,100 Th. €,János Kovács,14/15,Hungary,3552.0,BFC Siófok 
+"Aug 21, 2013",,Free transfer,England,1031.0,Luton Town ,67295,100 Th. €,János Kovács,13/14,Hungary,709.0,Budapest Honvéd 
+"Sep 19, 2011",,Free transfer,England,3064.0,Hereford Utd. ,67295,100 Th. €,János Kovács,11/12,England,1031.0,Luton Town 
+"Jul 1, 2010",,Free transfer,England,1031.0,Luton Town ,67295,-,János Kovács,10/11,England,3064.0,Hereford Utd. 
+"Jan 26, 2010",,Free transfer,England,1198.0,Lincoln City ,67295,-,János Kovács,09/10,England,1031.0,Luton Town 
+"Jul 1, 2008",,60 Th. €,England,1219.0,Chesterfield FC ,67295,-,János Kovács,08/09,England,1198.0,Lincoln City 
+"Apr 2, 2007",,End of loan,England,1252.0,York City ,67295,-,János Kovács,06/07,England,1219.0,Chesterfield FC 
+"Mar 2, 2007",,Loan,England,1219.0,Chesterfield FC ,67295,-,János Kovács,06/07,England,1252.0,York City 
+"Aug 11, 2005",,?,Hungary,634.0,MTK Budapest ,67295,-,János Kovács,05/06,England,1219.0,Chesterfield FC 
+"Jul 1, 2014",,?,Austria,24538.0,Scheibbs ,74208,-,Vince Kapcsos,14/15,Austria,22118.0,Purgstall 
+"Jan 1, 2011",,-,Austria,515.0,Unattached ,74208,125 Th. €,Vince Kapcsos,10/11,,24538.0,Scheibbs 
+"Jul 1, 2010",,-,Hungary,13414.0,Rákospalota ,74208,125 Th. €,Vince Kapcsos,10/11,,515.0,Unattached 
+"Jul 1, 2003",,Free transfer,Hungary,708.0,Újpest FC ,74208,-,Vince Kapcsos,03/04,Hungary,13414.0,Rákospalota 
+"Jul 1, 2014",,-,Hungary,29981.0,Diósdi TC ,57185,75 Th. €,Ákos Koller,14/15,,123.0,End of career 
+"Jan 1, 2012",,Free transfer,Hungary,28981.0,Pilisvörösvári LE ,57185,75 Th. €,Ákos Koller,11/12,Hungary,29981.0,Diósdi TC 
+"Aug 1, 2011",,Free transfer,Hungary,21976.0,Százhalombatta ,57185,75 Th. €,Ákos Koller,11/12,Hungary,28981.0,Pilisvörösvári LE 
+"Jan 1, 2011",,Free transfer,Hungary,27752.0,Dunaharaszti ,57185,75 Th. €,Ákos Koller,10/11,Hungary,21976.0,Százhalombatta 
+"Feb 1, 2010",,Free transfer,Hungary,12423.0,Kecskeméti TE ,57185,200 Th. €,Ákos Koller,09/10,Hungary,27752.0,Dunaharaszti 
+"Jul 1, 2009",,Free transfer,Hungary,11107.0,Videoton FC ,57185,250 Th. €,Ákos Koller,09/10,Hungary,12423.0,Kecskeméti TE 
+"Jul 1, 2003",,Free transfer,Hungary,3552.0,BFC Siófok ,57185,-,Ákos Koller,03/04,Hungary,11107.0,Videoton FC 
+"Jul 1, 2002",,Free transfer,Hungary,213.0,Vác ,57185,-,Ákos Koller,02/03,Hungary,3552.0,BFC Siófok 
+"Jul 1, 1999",,Free transfer,Hungary,649.0,Szombathely ,57185,-,Ákos Koller,99/00,Hungary,213.0,Vác 
+"Jul 30, 2013",,Free transfer,Hungary,6058.0,Nyíregyháza ,42852,125 Th. €,Attila Farkas,13/14,Hungary,14585.0,Soroksár 
+"Aug 1, 2012",,Free transfer,Hungary,7682.0,Lombard Pápa  ,42852,150 Th. €,Attila Farkas,12/13,Hungary,6058.0,Nyíregyháza 
+"Jul 29, 2008",,Free transfer,Hungary,2952.0,FC Sopron ,42852,-,Attila Farkas,08/09,Hungary,7682.0,Lombard Pápa  
+"Jul 17, 2007",,?,Hungary,7682.0,Lombard Pápa  ,42852,-,Attila Farkas,07/08,Hungary,2952.0,FC Sopron 
+"Jul 1, 2004",,Free transfer,Hungary,649.0,Szombathely ,42852,-,Attila Farkas,04/05,Hungary,7682.0,Lombard Pápa  
+"Jul 1, 2003",,Free transfer,Hungary,634.0,MTK Budapest ,42852,-,Attila Farkas,03/04,Hungary,649.0,LFC Haladás 
+"Jul 1, 1997",,-,Hungary,15907.0,MTK U19 ,42852,-,Attila Farkas,97/98,Hungary,634.0,MTK Hungária 
+"Jul 1, 2016",,-,Australia,970.0,Perth Glory ,63212,400 Th. €,György Sándor,16/17,,515.0,Unattached 
+"Jul 16, 2015",,Free transfer,Hungary,11107.0,Videoton FC ,63212,400 Th. €,György Sándor,15/16,Australia,970.0,Perth Glory 
+"Jun 30, 2013",,End of loan,Saudi Arabia,8023.0,Ittihad ,63212,650 Th. €,György Sándor,12/13,Hungary,11107.0,Videoton FC 
+"Jan 9, 2013",,Loan fee:300 Th. €,Hungary,11107.0,Videoton FC ,63212,650 Th. €,György Sándor,12/13,Saudi Arabia,8023.0,Ittihad 
+"Jan 1, 2010",,185 Th. €,Hungary,708.0,Újpest FC ,63212,300 Th. €,György Sándor,09/10,Hungary,11107.0,Videoton FC 
+"Jun 30, 2009",,End of loan,Bulgaria,271.0,Litex Lovetch ,63212,-,György Sándor,08/09,Hungary,708.0,Újpest FC 
+"Jan 1, 2009",,Loan,Hungary,708.0,Újpest FC ,63212,-,György Sándor,08/09,Bulgaria,271.0,Litex Lovetch 
+"May 1, 2008",,End of loan,England,2262.0,Plymouth Argyle ,63212,-,György Sándor,07/08,Hungary,708.0,Újpest FC 
+"Jan 1, 2008",,Loan,Hungary,708.0,Újpest FC ,63212,-,György Sándor,07/08,England,2262.0,Plymouth Argyle 
+"Jul 1, 2004",,Free transfer,Hungary,6055.0,ETO FC Győr  ,63212,-,György Sándor,04/05,Hungary,708.0,Újpest FC 
+"Jul 1, 2003",,?,Hungary,708.0,Újpest FC ,63212,-,György Sándor,03/04,Hungary,6055.0,ETO FC Győr  
+"Jul 24, 2013",,Free transfer,Hungary,17208.0,Budaörs ,57190,150 Th. €,Norbert Lattenstein,13/14,Hungary,24012.0,FC Ajka 
+"Feb 22, 2012",,Free transfer,Hungary,3552.0,BFC Siófok ,57190,150 Th. €,Norbert Lattenstein,11/12,Hungary,17208.0,Budaörs 
+"Jul 13, 2011",,Free transfer,Hungary,649.0,Szombathely ,57190,150 Th. €,Norbert Lattenstein,11/12,Hungary,3552.0,BFC Siófok 
+"Jul 10, 2009",,Free transfer,Hungary,11107.0,Videoton FC ,57190,-,Norbert Lattenstein,09/10,Hungary,649.0,Szombathely 
+"Jun 30, 2009",,End of loan,Hungary,37169.0,Puskás AFC ,57190,-,Norbert Lattenstein,08/09,Hungary,11107.0,Videoton FC 
+"Jan 1, 2009",,Loan,Hungary,11107.0,Videoton FC ,57190,-,Norbert Lattenstein,08/09,Hungary,37169.0,Puskás AFC 
+"Dec 31, 2003",,End of loan,Hungary,27775.0,Mori SE ,57190,-,Norbert Lattenstein,03/04,Hungary,11107.0,Videoton FC 
+"Jul 18, 2003",,Loan,Hungary,11107.0,Videoton FC ,57190,-,Norbert Lattenstein,03/04,Hungary,27775.0,Mori SE 
+"Jan 1, 2003",,-,Hungary,17119.0,Videoton U19 ,57190,-,Norbert Lattenstein,02/03,Hungary,11107.0,Videoton FC 
+"Jul 1, 2011",,-,Romania,11222.0,Juventus Buk. ,48913,-,Daniel Tudor,11/12,,123.0,End of career 
+"Sep 1, 2010",,Free transfer,Romania,10442.0,Unirea Urziceni ,48913,200 Th. €,Daniel Tudor,10/11,Romania,11222.0,Juventus Buk. 
+"Jul 1, 2008",,200 Th. €,Romania,952.0,UTA Arad ,48913,250 Th. €,Daniel Tudor,08/09,Romania,10442.0,Unirea Urziceni 
+"Jul 1, 2006",,Free transfer,Hungary,11107.0,FC Fehérvár ,48913,-,Daniel Tudor,06/07,Romania,952.0,UTA Arad 
+"Jul 1, 2003",,?,Romania,312.0,Dinamo Bukarest ,48913,-,Daniel Tudor,03/04,Hungary,11107.0,Videoton FC 
+"Jun 30, 2002",,End of loan,Romania,1007.0,Uni. Craiova ,48913,-,Daniel Tudor,01/02,Romania,312.0,Dinamo Bukarest 
+"Jul 1, 2000",,Loan,Romania,312.0,Dinamo Bukarest ,48913,-,Daniel Tudor,00/01,Romania,1007.0,Uni. Craiova 
+"Jun 30, 2000",,End of loan,Romania,6445.0,AS Rocar Bukarest ,48913,-,Daniel Tudor,99/00,Romania,312.0,Dinamo Bukarest 
+"Jul 1, 1998",,Loan,Romania,312.0,Dinamo Bukarest ,48913,-,Daniel Tudor,98/99,Romania,6445.0,AS Rocar Bukarest 
+"Jun 30, 1998",,End of loan,Romania,5267.0,Farul ,48913,-,Daniel Tudor,97/98,Romania,312.0,Dinamo Bukarest 
+"Jan 1, 1998",,Loan,Romania,312.0,Dinamo Bukarest ,48913,-,Daniel Tudor,97/98,Romania,5267.0,Farul 
+"Dec 1, 1996",,?,Romania,312.0,Dinamo Bukarest ,48913,-,Daniel Tudor,96/97,Romania,32290.0,Flacara Moreni 
+"Jun 1, 1996",,?,Romania,32290.0,Flacara Moreni ,48913,-,Daniel Tudor,95/96,Romania,312.0,Dinamo Bukarest 
+"Jul 1, 1993",,?,Romania,75.0,Unknown ,48913,-,Daniel Tudor,93/94,,32290.0,Flacara Moreni 
+"Jul 1, 2014",,-,Austria,16802.0,Pinkafeld ,86120,-,András Kaj,14/15,,123.0,End of career 
+"Jul 1, 2010",,Free transfer,Hungary,24012.0,FC Ajka ,86120,-,András Kaj,10/11,Austria,16802.0,Pinkafeld 
+"Feb 1, 2009",,Free transfer,Hungary,649.0,Szombathely ,86120,-,András Kaj,08/09,Hungary,24012.0,FC Ajka 
+"Jul 1, 2006",,?,Hungary,1391.0,Zalaegerszeg ,86120,-,András Kaj,06/07,Hungary,649.0,Szombathely 
+"Jul 1, 2004",,?,Hungary,649.0,Szombathely ,86120,-,András Kaj,04/05,Hungary,1391.0,Zalaegerszeg 
+"Aug 1, 2013",,Free transfer,Hungary,30018.0,Monor SE ,171367,-,Roland Lengyel,13/14,,75.0,Unknown 
+"Jan 1, 2010",,Free transfer,Hungary,21959.0,Vecsés ,171367,-,Roland Lengyel,09/10,Hungary,30018.0,Monor SE 
+"Aug 1, 2009",,Free transfer,Hungary,6058.0,Nyíregyháza ,171367,-,Roland Lengyel,09/10,Hungary,21959.0,Vecsés 
+"Jun 30, 2008",,End of loan,Hungary,3233.0,Pécsi MFC ,171367,-,Roland Lengyel,07/08,Hungary,6058.0,Nyíregyháza 
+"Jul 1, 2007",,Loan,Hungary,6058.0,Nyíregyháza ,171367,-,Roland Lengyel,07/08,Hungary,3233.0,Pécsi MFC 
+"Feb 1, 2005",,Free transfer,Hungary,634.0,MTK Budapest ,171367,-,Roland Lengyel,04/05,Hungary,6058.0,Nyíregyháza 
+"Jul 1, 2003",,Free transfer,Hungary,30018.0,Monor SE ,171367,-,Roland Lengyel,03/04,Hungary,634.0,MTK Budapest 
+"Jul 1, 2008",,-,Slovakia,8146.0,FC Senec ,1132,350 Th. €,Tomas Medved,08/09,,123.0,End of career 
+"Jul 1, 2007",,?,Slovakia,4786.0,Banska Bystrica ,1132,350 Th. €,Tomas Medved,07/08,Slovakia,8146.0,FC Senec 
+"Jul 1, 2005",,?,Hungary,7682.0,Lombard Pápa  ,1132,350 Th. €,Tomas Medved,05/06,Slovakia,4786.0,Banska Bystrica 
+"Jan 1, 2004",,Free transfer,Hungary,11107.0,Videoton FC ,1132,-,Tomas Medved,03/04,Hungary,7682.0,Lombard Pápa  
+"Jul 1, 2003",,Free transfer,Slovakia,2781.0,Petrzalka ,1132,-,Tomas Medved,03/04,Hungary,11107.0,Videoton FC 
+"Jul 1, 2001",,Free transfer,Germany,69.0,SSV Ulm 1846 ,1132,-,Tomas Medved,01/02,Slovakia,2781.0,Petrzalka 
+"Jul 1, 2000",,Free transfer,Slovakia,2781.0,Petrzalka ,1132,-,Tomas Medved,00/01,Germany,69.0,SSV Ulm 1846 
+"Jul 1, 1998",,Free transfer,Slovakia,540.0,Slo. Bratislava ,1132,-,Tomas Medved,98/99,Slovakia,2781.0,Petrzalka 
+"Jul 23, 2015",,Free transfer,Hungary,5378.0,Vasas FC ,57197,150 Th. €,Dániel Nagy,15/16,Hungary,3552.0,BFC Siófok 
+"Jul 29, 2014",,Free transfer,Hungary,3552.0,BFC Siófok ,57197,150 Th. €,Dániel Nagy,14/15,Hungary,5378.0,Vasas FC 
+"Jul 24, 2013",,Free transfer,Hungary,11107.0,Videoton FC ,57197,250 Th. €,Dániel Nagy,13/14,Hungary,3552.0,BFC Siófok 
+"Jun 30, 2013",,End of loan,Hungary,37169.0,Puskás AFC ,57197,250 Th. €,Dániel Nagy,12/13,Hungary,11107.0,Videoton FC 
+"Feb 18, 2013",,Loan,Hungary,11107.0,Videoton FC ,57197,250 Th. €,Dániel Nagy,12/13,Hungary,37169.0,Puskás AFC 
+"Dec 31, 2012",,End of loan,Hungary,649.0,Szombathely ,57197,300 Th. €,Dániel Nagy,12/13,Hungary,11107.0,Videoton FC 
+"Jan 18, 2012",,Loan,Hungary,11107.0,Videoton FC ,57197,300 Th. €,Dániel Nagy,11/12,Hungary,649.0,Szombathely 
+"Jul 1, 2003",,-,Hungary,17119.0,Videoton U19 ,57197,-,Dániel Nagy,03/04,Hungary,11107.0,Videoton FC 
+,,,,,,201710,,,,,,
+"Aug 18, 2015",,Free transfer,Hungary,12423.0,Kecskeméti LC ,57199,50 Th. €,Viktor Németh,15/16,Hungary,40173.0,Tiszakécske FC 
+"Jul 18, 2013",,Free transfer,Hungary,17208.0,Budaörs ,57199,50 Th. €,Viktor Németh,13/14,Hungary,12423.0,Kecskeméti TE 
+"Jul 1, 2012",,?,Hungary,51232.0,KSE Iváncsa ,57199,50 Th. €,Viktor Németh,12/13,Hungary,17208.0,Budaörs 
+"Feb 20, 2012",,Free transfer,Hungary,75.0,Unknown ,57199,50 Th. €,Viktor Németh,11/12,,51232.0,KSE Iváncsa 
+"Jul 1, 2011",,Free transfer,Hungary,3395.0,FC Tatabánya ,57199,75 Th. €,Viktor Németh,11/12,,75.0,Unknown 
+"Jul 1, 2009",,Free transfer,Hungary,11107.0,Videoton FC ,57199,-,Viktor Németh,09/10,Hungary,3395.0,FC Tatabánya 
+"Jun 30, 2009",,End of loan,Hungary,9242.0,Puskás FC U19 ,57199,-,Viktor Németh,08/09,Hungary,11107.0,Videoton FC 
+"Jan 1, 2009",,Loan,Hungary,11107.0,Videoton FC ,57199,-,Viktor Németh,08/09,Hungary,9242.0,Puskás FC U19 
+"Feb 1, 2008",,?,Hungary,6058.0,Nyíregyháza ,57199,-,Viktor Németh,07/08,Hungary,11107.0,FC Fehérvár 
+"Feb 1, 2005",,?,Hungary,708.0,Újpest FC ,57199,-,Viktor Németh,04/05,Hungary,6058.0,Nyíregyháza 
+"Aug 1, 2002",,?,Hungary,4787.0,Dunaferr SE ,57199,-,Viktor Németh,02/03,Hungary,708.0,Újpest FC 
+"Jul 1, 2010",,Free transfer,Hungary,649.0,Szombathely ,19697,100 Th. €,Igor Bogdanovic,10/11,Hungary,28439.0,Hajdúböszörmény 
+"Nov 1, 2009",,Free transfer,Hungary,6058.0,Nyíregyháza ,19697,325 Th. €,Igor Bogdanovic,09/10,Hungary,649.0,Szombathely 
+"Jul 1, 2009",,Swap deal,Hungary,84.0,Debreceni VSC ,19697,475 Th. €,Igor Bogdanovic,09/10,Hungary,6058.0,Nyíregyháza 
+"Feb 1, 2008",,?,Hungary,709.0,Budapest Honvéd ,19697,"1,00 Mill. €",Igor Bogdanovic,07/08,Hungary,84.0,Debreceni VSC 
+"Dec 31, 2007",,End of loan,Hungary,6055.0,ETO FC Győr  ,19697,"1,00 Mill. €",Igor Bogdanovic,07/08,Hungary,709.0,Budapest Honvéd 
+"Dec 1, 2007",,Loan,Hungary,709.0,Budapest Honvéd ,19697,"1,00 Mill. €",Igor Bogdanovic,07/08,Hungary,6055.0,ETO FC Győr  
+"Jan 1, 2007",,Free transfer,Hungary,84.0,Debreceni VSC ,19697,"1,00 Mill. €",Igor Bogdanovic,06/07,Hungary,709.0,Budapest Honvéd 
+"Jan 1, 2006",,Free transfer,Turkey,820.0,Genclerbirligi ,19697,"1,00 Mill. €",Igor Bogdanovic,05/06,Hungary,84.0,Debreceni VSC 
+"Jul 1, 2005",,350 Th. €,Hungary,84.0,Debreceni VSC ,19697,-,Igor Bogdanovic,05/06,Turkey,820.0,Genclerbirligi 
+"Jul 1, 2003",,Free transfer,Serbia,159.0,Red Star ,19697,-,Igor Bogdanovic,03/04,Hungary,84.0,Debreceni VSC 
+"Jul 1, 2002",,50 Th. €,Serbia,448.0,Vojvodina ,19697,-,Igor Bogdanovic,02/03,Serbia,159.0,Red Star 
+"Jul 1, 1998",,Free transfer,Serbia,3521.0,FK Zemun ,19697,-,Igor Bogdanovic,98/99,Serbia,448.0,Vojvodina 
+"Jul 1, 1995",,Free transfer,Serbia,2209.0,Borac Cacak ,19697,-,Igor Bogdanovic,95/96,Serbia,3521.0,FK Zemun 
+"Jul 1, 1994",,Free transfer,Serbia,448.0,Vojvodina ,19697,-,Igor Bogdanovic,94/95,Serbia,2209.0,Borac Cacak 
+"Sep 1, 2014",,Free transfer,Hungary,27165.0,Dunaújváros ,143986,150 Th. €,Péter Urbin,14/15,Hungary,5399.0,Szolnok 
+"Jul 1, 2014",,Free transfer,Hungary,30533.0,Balmazújváros ,143986,150 Th. €,Péter Urbin,14/15,Hungary,27165.0,Dunaújváros 
+"Jun 30, 2014",,End of loan,Hungary,27165.0,Dunaújváros ,143986,150 Th. €,Péter Urbin,13/14,Hungary,30533.0,Balmazújváros 
+"Jan 13, 2014",,Loan,Hungary,30533.0,Balmazújváros ,143986,125 Th. €,Péter Urbin,13/14,Hungary,27165.0,Dunaújváros 
+"Feb 1, 2011",,Free transfer,Hungary,28439.0,Hajdúböszörmény ,143986,50 Th. €,Péter Urbin,10/11,Hungary,30533.0,Balmazújváros 
+"Aug 9, 2010",,Free transfer,Hungary,30533.0,Balmazújváros ,143986,-,Péter Urbin,10/11,Hungary,28439.0,Hajdúböszörmény 
+"Aug 7, 2006",,Free transfer,Hungary,22255.0,Debrecen II ,143986,-,Péter Urbin,06/07,Hungary,30533.0,Balmazújváros 
+"Jun 30, 2006",,End of loan,Hungary,26128.0,DVTK II ,143986,-,Péter Urbin,05/06,Hungary,22255.0,Debrecen II 
+"Jan 1, 2006",,Loan,Hungary,22255.0,Debrecen II ,143986,-,Péter Urbin,05/06,Hungary,26128.0,DVTK II 
+"Dec 31, 2005",,End of loan,Hungary,6058.0,Nyíregyháza ,143986,-,Péter Urbin,05/06,Hungary,22255.0,Debrecen II 
+"Aug 3, 2005",,Loan,Hungary,22255.0,Debrecen II ,143986,-,Péter Urbin,05/06,Hungary,6058.0,Nyíregyháza 
+"Jun 30, 2005",,End of loan,Hungary,28704.0,Létavértes SC 97 ,143986,-,Péter Urbin,04/05,Hungary,22255.0,Debrecen II 
+"Jul 1, 2004",,Loan,Hungary,22255.0,Debrecen II ,143986,-,Péter Urbin,04/05,Hungary,28704.0,Létavértes SC 97 
+"Jul 13, 2003",,Free transfer,Hungary,15913.0,Újpest U19 ,143986,-,Péter Urbin,03/04,Hungary,22255.0,Debrecen II 
+"Jul 1, 2012",,-,Hungary,709.0,Budapest Honvéd ,55059,100 Th. €,Iván Tóth,12/13,,123.0,End of career 
+"Jul 1, 2005",,Free transfer,Hungary,7682.0,Lombard Pápa  ,55059,-,Iván Tóth,05/06,Hungary,709.0,Budapest Honvéd 
+"Jul 1, 2004",,Free transfer,Hungary,649.0,Szombathely ,55059,-,Iván Tóth,04/05,Hungary,7682.0,Lombard Pápa  
+"Jul 1, 2003",,Free transfer,Hungary,21976.0,Százhalombatta ,55059,-,Iván Tóth,03/04,Hungary,649.0,LFC Haladás 
+"Jul 1, 2002",,Free transfer,Hungary,17208.0,Budaörs ,55059,-,Iván Tóth,02/03,Hungary,21976.0,Százhalombatta 
+"Jul 1, 2000",,Free transfer,Hungary,30824.0,Törökbálinti TC ,55059,-,Iván Tóth,00/01,Hungary,17208.0,Budaörs 
+"Jul 1, 1999",,Free transfer,Hungary,26308.0,III. Kerület ,55059,-,Iván Tóth,99/00,Hungary,30824.0,Törökbálinti TC 
+"Jun 30, 1997",,End of loan,Hungary,213.0,Vác ,55059,-,Iván Tóth,96/97,Hungary,26308.0,III. Kerület 
+"Jan 1, 1997",,Loan,Hungary,26308.0,III. Kerület ,55059,-,Iván Tóth,96/97,Hungary,213.0,Vác 
+"Jul 1, 2015",,-,Hungary,14585.0,Soroksár ,42868,-,Péter Kincses,15/16,,123.0,End of career 
+"Jul 1, 2012",,Free transfer,Hungary,29688.0,Rákosmenti ,42868,75 Th. €,Péter Kincses,12/13,Hungary,14585.0,Soroksár 
+"Jan 1, 2012",,Free transfer,Austria,31723.0,SV Ratzersdorf ,42868,75 Th. €,Péter Kincses,11/12,Hungary,29688.0,Rákosmenti 
+"Jul 1, 2011",,Free transfer,Hungary,24030.0,Honvéd II ,42868,75 Th. €,Péter Kincses,11/12,Austria,31723.0,SV Ratzersdorf 
+"Jan 1, 2011",,Free transfer,Hungary,25743.0,SZTK ,42868,125 Th. €,Péter Kincses,10/11,Hungary,24030.0,Honvéd II 
+"Aug 1, 2010",,Free transfer,Hungary,5378.0,Vasas SC ,42868,125 Th. €,Péter Kincses,10/11,Hungary,25743.0,SZTK 
+"Jul 1, 2009",,Free transfer,Hungary,708.0,Újpest FC ,42868,75 Th. €,Péter Kincses,09/10,Hungary,5378.0,Vasas SC 
+"Jul 1, 2008",,Free transfer,Hungary,5378.0,Vasas SC ,42868,-,Péter Kincses,08/09,Hungary,708.0,Újpest FC 
+"Jul 1, 2006",,?,Hungary,7682.0,Lombard Pápa  ,42868,-,Péter Kincses,06/07,Hungary,5378.0,Vasas SC 
+"Aug 1, 2005",,Free transfer,Hungary,13414.0,Rákospalota ,194276,-,Kristóf Bánka,05/06,Hungary,30913.0,Fóti SE 
+"Feb 1, 2005",,Free transfer,Hungary,6058.0,Nyíregyháza ,194276,-,Kristóf Bánka,04/05,Hungary,13414.0,Rákospalota 
+"Aug 1, 2003",,Free transfer,Hungary,28652.0,Újpest II ,194276,-,Kristóf Bánka,03/04,Hungary,6058.0,Nyíregyháza 
+"Jan 1, 2015",,?,Austria,22379.0,Markt Allhau ,83063,-,Róbert Horváth,14/15,Austria,20175.0,Stuben 
+"Jul 1, 2012",,Free transfer,Austria,4376.0,SV Oberwart ,83063,-,Róbert Horváth,12/13,Austria,22379.0,Markt Allhau 
+"Jan 1, 2006",,Free transfer,Hungary,6055.0,ETO FC Győr  ,83063,-,Róbert Horváth,05/06,Austria,4376.0,SV Oberwart 
+"Dec 1, 2011",,-,Hungary,35809.0,Unione FC ,182648,-,Tamás Balogh,11/12,,123.0,End of career 
+"Aug 1, 2011",,Free transfer,Hungary,28690.0,Sárisápi Bányász ,182648,-,Tamás Balogh,11/12,Hungary,35809.0,Unione FC 
+"Feb 1, 2011",,Free transfer,Hungary,35809.0,Unione FC ,182648,-,Tamás Balogh,10/11,Hungary,28690.0,Sárisápi Bányász 
+"Aug 1, 2004",,Free transfer,Hungary,649.0,Szombathely ,182648,-,Tamás Balogh,04/05,Hungary,35809.0,Unione FC 
+"Jul 1, 2002",,Free transfer,Hungary,3395.0,FC Tatabánya ,182648,-,Tamás Balogh,02/03,Hungary,649.0,LFC Haladás 
+"Jul 1, 1999",,Free transfer,Hungary,4787.0,Dunaferr SE ,182648,-,Tamás Balogh,99/00,Hungary,3395.0,FC Tatabánya 
+"Jan 1, 1998",,Free transfer,Hungary,6055.0,ETO FC Győr  ,182648,-,Tamás Balogh,97/98,Hungary,4787.0,Dunaferr SE 
+"Jul 1, 1996",,Free transfer,Hungary,279.0,Ferencváros ,182648,-,Tamás Balogh,96/97,Hungary,6055.0,ETO FC Győr  
+"Jun 1, 1995",,Free transfer,Hungary,634.0,MTK Budapest ,182648,-,Tamás Balogh,94/95,Hungary,279.0,Ferencváros 
+"Jul 1, 1993",,Free transfer,Hungary,279.0,Ferencváros ,182648,-,Tamás Balogh,93/94,Hungary,634.0,MTK Budapest 
+"Jan 1, 1988",,-,Hungary,15904.0,Ferencváros U19 ,182648,-,Tamás Balogh,87/88,Hungary,279.0,Ferencváros 
+"Jul 1, 2008",,?,Romania,2418.0,Arges Pitesti ,64121,-,Sorin Bucuroaia,08/09,,75.0,Unknown 
+"Feb 19, 2014",,Free transfer,Hungary,24012.0,FC Ajka ,86138,150 Th. â‚¬,GÃ¡bor Rajos,14/15,Hungary,26382.0,SÃ¡rvÃ¡r FC 
+"Jan 28, 2014",,Free transfer,Hungary,649.0,Szombathely ,86138,150 Th. â‚¬,GÃ¡bor Rajos,13/14,Hungary,24012.0,FC Ajka 
+"Jul 1, 2003",,-,Hungary,21491.0,HaladÃ¡s U19 ,86138,-,GÃ¡bor Rajos,03/04,Hungary,649.0,LFC HaladÃ¡s 
+"Oct 22, 2004",,Free transfer,Hungary,7682.0,Lombard Pápa  ,86139,-,Dániel Rózsa,04/05,Hungary,649.0,Szombathely 
+"Jul 22, 2003",,Free transfer,Hungary,21491.0,Haladás U19 ,86139,-,Dániel Rózsa,02/03,Hungary,7682.0,Pápai ELC 
+"Jul 1, 2005",,Free transfer,Hungary,9241.0,Diósgyör ,177916,-,Gergely Papp,05/06,,75.0,Unknown 
+"Jul 1, 2004",,?,Hungary,634.0,MTK Budapest ,177916,-,Gergely Papp,04/05,Hungary,9241.0,Diósgyör 
+"Jul 1, 2003",,-,Hungary,21491.0,Haladás U19 ,86141,-,Szabolcs Schimmer,03/04,Hungary,649.0,LFC Haladás 
+"Jul 1, 2014",,Free transfer,Germany,1483.0,Germ. Teveren ,41646,-,Zoltán Vati,14/15,Germany,4874.0,SC Kellersberg 
+"Jan 1, 2009",,Free transfer,Germany,1203.0,FC Nöttingen ,41646,-,Zoltán Vati,08/09,Germany,1483.0,Germ. Teveren 
+"Jul 1, 2006",,Free transfer,Hungary,3395.0,FC Tatabánya ,41646,-,Zoltán Vati,06/07,Germany,1203.0,FC Nöttingen 
+"Jul 1, 2005",,Free transfer,Hungary,13414.0,Rákospalota ,41646,-,Zoltán Vati,05/06,Hungary,3395.0,FC Tatabánya 
+"Jul 1, 2004",,Free transfer,Hungary,634.0,MTK Budapest ,41646,-,Zoltán Vati,04/05,Hungary,13414.0,Rákospalota 
+,'NoneType' object has no attribute 'find_all',,,,,29473,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,201710,,,,,,

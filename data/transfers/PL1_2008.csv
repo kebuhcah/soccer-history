@@ -1,0 +1,1003 @@
+date,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Aug 1, 2010",Free transfer,Poland,422,Wisla Kraków ,35584,400 Th. €,Peter Singlar,10/11,Slovakia,779,Kosice 
+"Jul 1, 2008",Free transfer,Czech Republic,697,Slovan Liberec ,35584,450 Th. €,Peter Singlar,08/09,Poland,422,Wisla Kraków 
+"Jul 1, 2004",?,Slovakia,20784,Licartovce ,35584,-,Peter Singlar,04/05,Czech Republic,697,Slovan Liberec 
+"Jun 30, 2002",End of loan,Slovakia,7392,Dubnica ,35584,-,Peter Singlar,01/02,Slovakia,20784,Licartovce 
+"Jan 1, 2002",Loan,Slovakia,20784,Licartovce ,35584,-,Peter Singlar,01/02,Slovakia,7392,Dubnica 
+"Jul 1, 1999",Free transfer,Slovakia,4531,Tatran Presov ,35584,-,Peter Singlar,99/00,Slovakia,20784,Licartovce 
+"Jul 1, 2014",Free transfer,Poland,759,Slask Wroclaw ,78339,300 Th. €,Rafal Gikiewicz,14/15,Germany,23,E. Braunschweig 
+"Jan 9, 2011",100 Th. €,Poland,2300,J. Bialystok ,78339,300 Th. €,Rafal Gikiewicz,10/11,Poland,759,Slask Wroclaw 
+"Dec 31, 2010",End of loan,Poland,9055,Stomil ,78339,300 Th. €,Rafal Gikiewicz,10/11,Poland,2300,J. Bialystok 
+"Aug 30, 2010",Loan,Poland,2300,J. Bialystok ,78339,300 Th. €,Rafal Gikiewicz,10/11,Poland,9055,Stomil 
+"Jul 1, 2008",Free transfer,Poland,10453,Wigry Suwalki ,78339,-,Rafal Gikiewicz,08/09,Poland,2300,J. Bialystok 
+"Jul 1, 2007",Free transfer,Poland,8051,Drweca NML ,78339,-,Rafal Gikiewicz,07/08,Poland,10453,Wigry Suwalki 
+"Jul 1, 2006",Free transfer,Poland,30747,Sokol Ostroda ,78339,-,Rafal Gikiewicz,06/07,Poland,8051,Drweca NML 
+"Jul 11, 2014",Free transfer,Poland,10126,F. Swinoujscie ,109573,200 Th. €,Piotr Kieruzel,14/15,Poland,28887,Chojnice 
+"Jul 1, 2011",Free transfer,Poland,7146,Warta Poznan ,109573,100 Th. €,Piotr Kieruzel,11/12,Poland,10126,F. Swinoujscie 
+"Jan 1, 2011",Free transfer,Poland,318,Ruch Chorzow ,109573,100 Th. €,Piotr Kieruzel,10/11,Poland,7146,Warta Poznan 
+"Sep 1, 2008",Free transfer,Poland,168,Zaglebie Lubin ,109573,-,Piotr Kieruzel,08/09,Poland,318,Ruch Chorzow 
+"Jul 1, 2007",?,Poland,16054,MKS Sparta ,109573,-,Piotr Kieruzel,07/08,Poland,168,Zaglebie Lubin 
+"Jul 1, 2006",Free transfer,Poland,2593,MSP Szamotuly ,109573,-,Piotr Kieruzel,06/07,Poland,16054,MKS Sparta 
+"Jan 1, 2014",Free transfer,Poland,15906,Termalica ,44053,175 Th. €,Grzegorz Kasprzik,13/14,Poland,428,G. Zabrze 
+"Jul 1, 2013",Free transfer,Poland,10126,F. Swinoujscie ,44053,250 Th. €,Grzegorz Kasprzik,13/14,Poland,15906,Termalica 
+"Jul 26, 2012",-,Poland,515,Unattached ,44053,200 Th. €,Grzegorz Kasprzik,12/13,,10126,F. Swinoujscie 
+"Mar 9, 2012",-,Poland,238,Lech Poznan ,44053,200 Th. €,Grzegorz Kasprzik,11/12,,515,Unattached 
+"Jul 1, 2009",175 Th. €,Poland,6112,Piast Gliwice ,44053,-,Grzegorz Kasprzik,09/10,Poland,238,Lech Poznan 
+"Jul 1, 2006",Free transfer,Poland,30280,Przyszlosc Ciochowice ,44053,-,Grzegorz Kasprzik,06/07,Poland,6112,Piast Gliwice 
+"Jan 31, 2005",Free transfer,Poland,10891,Gornik Zabrze II ,44053,-,Grzegorz Kasprzik,04/05,Poland,30280,Przyszlosc Ciochowice 
+"Jul 1, 2002",Free transfer,Germany,2509,Hamburg U19 ,44053,-,Grzegorz Kasprzik,02/03,Poland,10891,Gornik Zabrze II 
+"Jan 1, 2015",-,Poland,9109,Znicz Pruszkow ,77334,200 Th. €,Michal Plotka,14/15,,515,Unattached 
+"Jul 18, 2014",-,Poland,515,Unattached ,77334,200 Th. €,Michal Plotka,14/15,,9109,Znicz Pruszkow 
+"Apr 29, 2014",-,Poland,88,Widzew Lodz ,77334,200 Th. €,Michal Plotka,13/14,,515,Unattached 
+"Jan 20, 2013",Free transfer,Poland,7146,Warta Poznan ,77334,100 Th. €,Michal Plotka,12/13,Poland,88,Widzew Lodz 
+"Jul 6, 2012",Free transfer,Poland,6107,Arka Gdynia ,77334,400 Th. €,Michal Plotka,12/13,Poland,7146,Warta Poznan 
+"Jun 30, 2008",End of loan,Poland,3527,Motor Lublin ,77334,-,Michal Plotka,07/08,Poland,6107,Arka Gdynia 
+"Aug 1, 2007",Loan,Poland,6107,Arka Gdynia ,77334,-,Michal Plotka,07/08,Poland,3527,Motor Lublin 
+"Jun 30, 2007",End of loan,Poland,8557,Cartusia Kartuzy ,77334,-,Michal Plotka,06/07,Poland,6107,Arka Gdynia 
+"Jan 1, 2007",Loan,Poland,6107,Arka Gdynia ,77334,-,Michal Plotka,06/07,Poland,8557,Cartusia Kartuzy 
+"Aug 1, 2006",?,Poland,30101,Start Mrzezino ,77334,-,Michal Plotka,06/07,Poland,6107,Arka Gdynia 
+"Jan 1, 2012",-,Poland,7976,Polonia Bytom ,63003,400 Th. €,Lukás Killar,11/12,,123,End of career 
+"Jan 1, 2009",30 Th. €,Czech Republic,6380,SK Kladno ,63003,300 Th. €,Lukás Killar,08/09,Poland,7976,Polonia Bytom 
+"Jul 1, 2003",?,Czech Republic,18967,L. Trencin ,63003,-,Lukás Killar,03/04,Czech Republic,6380,SK Kladno 
+"Feb 1, 2003",Free transfer,Czech Republic,697,Slovan Liberec ,63003,-,Lukás Killar,02/03,Czech Republic,18967,L. Trencin 
+"Jul 1, 2002",?,Czech Republic,6464,AS Pardubice ,63003,-,Lukás Killar,02/03,Czech Republic,697,Slovan Liberec 
+"Jul 1, 2000",Free transfer,Czech Republic,18966,Bohdanec ,63003,-,Lukás Killar,00/01,Czech Republic,6464,AS Pardubice 
+"Jul 1, 2014",-,Poland,30280,Przyszlosc Ciochowice ,68638,50 Th. €,Daniel Iwan,14/15,,515,Unattached 
+"Jan 1, 2011",Free transfer,Poland,28535,LZS Piotrówka ,68638,50 Th. €,Daniel Iwan,10/11,Poland,30280,Przyszlosc Ciochowice 
+"Aug 1, 2010",Free transfer,Poland,6112,Piast Gliwice ,68638,100 Th. €,Daniel Iwan,10/11,Poland,28535,LZS Piotrówka 
+"Jul 1, 2008",-,Poland,15525,Piast Gliwice U19 ,68638,-,Daniel Iwan,08/09,Poland,6112,Piast Gliwice 
+"Jan 1, 2012",Free transfer,Poland,9055,Stomil ,88607,100 Th. €,Kamil Bartosiewicz,11/12,Poland,32399,KS Teresin 
+"Jul 1, 2011",Free transfer,Poland,1305,Odra Wodzislaw ,88607,100 Th. €,Kamil Bartosiewicz,11/12,Poland,9055,Stomil 
+"Mar 1, 2011",Free transfer,Poland,33026,Orkan Sochaczew ,88607,175 Th. €,Kamil Bartosiewicz,10/11,Poland,1305,Odra Wodzislaw 
+"Jul 1, 2010",Free transfer,Poland,6106,Tur Turek ,88607,175 Th. €,Kamil Bartosiewicz,10/11,Poland,33026,Orkan Sochaczew 
+"Aug 1, 2009",Free transfer,Poland,256,LKS Lodz ,88607,175 Th. €,Kamil Bartosiewicz,09/10,Poland,6106,Tur Turek 
+"Jul 1, 2008",5 Th. €,Poland,32399,KS Teresin ,88607,-,Kamil Bartosiewicz,08/09,Poland,256,LKS Lodz 
+"Sep 1, 2013",Free transfer,Poland,324,Pogon Szczecin ,80416,400 Th. €,Peter Hricko,13/14,Slovakia,40683,Gabcikovo 
+"Jul 1, 2011",Free transfer,Poland,7976,Polonia Bytom ,80416,450 Th. €,Peter Hricko,11/12,Poland,324,Pogon Szczecin 
+"Jul 1, 2008",30 Th. €,Slovakia,2686,HFC Humenne ,80416,-,Peter Hricko,08/09,Poland,7976,Polonia Bytom 
+"Aug 1, 2007",Free transfer,Norway,10217,Sarpsborg 08 ,80416,-,Peter Hricko,07/08,Slovakia,2686,HFC Humenne 
+"Jan 1, 2012",?,Austria,5292,Marchtrenk ,21026,175 Th. €,Jan Gruber,11/12,Austria,25768,Mauerkirchen 
+"Jul 1, 2010",Free transfer,Czech Republic,7975,FC Vysocina ,21026,175 Th. €,Jan Gruber,10/11,Austria,5292,Marchtrenk 
+"Aug 1, 2009",Free transfer,Poland,1305,Odra Wodzislaw ,21026,-,Jan Gruber,09/10,Czech Republic,7975,FC Vysocina 
+"Jan 1, 2009",Free transfer,Slovakia,1562,FC Nitra ,21026,-,Jan Gruber,08/09,Poland,1305,Odra Wodzislaw 
+"Jul 1, 2007",Free transfer,Czech Republic,1321,C. Budejovice ,21026,-,Jan Gruber,07/08,Slovakia,1562,FC Nitra 
+"Jun 30, 2006",End of loan,Czech Republic,2598,1.FK Pribram ,21026,-,Jan Gruber,05/06,Czech Republic,1321,C. Budejovice 
+"Jul 1, 2005",Loan,Czech Republic,1321,C. Budejovice ,21026,-,Jan Gruber,05/06,Czech Republic,2598,1.FK Pribram 
+"Jul 1, 2003",?,Czech Republic,5546,Mladá Boleslav ,21026,-,Jan Gruber,03/04,Czech Republic,1321,C. Budejovice 
+"Dec 31, 2002",End of loan,Czech Republic,18961,Dolni Kounice ,21026,-,Jan Gruber,02/03,Czech Republic,5546,Mladá Boleslav 
+"Jul 1, 2002",Loan,Czech Republic,5546,Mladá Boleslav ,21026,-,Jan Gruber,02/03,Czech Republic,18961,Dolni Kounice 
+"Jan 1, 2002",?,Czech Republic,6464,AS Pardubice ,21026,-,Jan Gruber,01/02,Czech Republic,5546,Mladá Boleslav 
+"Jul 1, 2000",?,Czech Republic,18966,Bohdanec ,21026,-,Jan Gruber,00/01,Czech Republic,6464,AS Pardubice 
+"Jan 1, 2012",Free transfer,Poland,75,Unknown ,68644,50 Th. €,Maciej Mizgajski,11/12,,21496,Carbo Gliwice 
+"Jul 1, 2011",Free transfer,Poland,11991,LZS Lesnica ,68644,50 Th. €,Maciej Mizgajski,11/12,,75,Unknown 
+"Jan 1, 2011",Free transfer,Poland,6112,Piast Gliwice ,68644,50 Th. €,Maciej Mizgajski,10/11,Poland,11991,LZS Lesnica 
+"Dec 31, 2009",End of loan,Poland,9644,Rakow ,68644,50 Th. €,Maciej Mizgajski,09/10,Poland,6112,Piast Gliwice 
+"Jul 1, 2009",Loan,Poland,6112,Piast Gliwice ,68644,50 Th. €,Maciej Mizgajski,09/10,Poland,9644,Rakow 
+"Jun 30, 2009",End of loan,Poland,318,Ruch Chorzow ,68644,50 Th. €,Maciej Mizgajski,08/09,Poland,6112,Piast Gliwice 
+"Feb 1, 2008",Loan fee:10 Th. €,Poland,6112,Piast Gliwice ,68644,-,Maciej Mizgajski,07/08,Poland,318,Ruch Chorzow 
+"Jul 1, 2005",Free transfer,Poland,21496,Carbo Gliwice ,68644,-,Maciej Mizgajski,05/06,Poland,6112,Piast Gliwice 
+"Jul 15, 2015",Free transfer,Poland,716,GKS Belchatow ,80936,300 Th. €,Adrian Basta,15/16,Poland,3291,Gornik Leczna 
+"Jul 10, 2012",Free transfer,Poland,4533,Kolejarz Stroze ,80936,100 Th. €,Adrian Basta,12/13,Poland,716,GKS Belchatow 
+"Jul 1, 2010",Free transfer,Poland,7976,Polonia Bytom ,80936,175 Th. €,Adrian Basta,10/11,Poland,4533,Kolejarz Stroze 
+"Jul 1, 2008",15 Th. €,Poland,4533,Kolejarz Stroze ,80936,-,Adrian Basta,08/09,Poland,7976,Polonia Bytom 
+"Aug 1, 2006",Free transfer,Poland,25757,Sandecja II ,80936,-,Adrian Basta,06/07,Poland,4533,Kolejarz Stroze 
+"Jan 1, 2006",-,Poland,25758,Sandecja U19 ,80936,-,Adrian Basta,05/06,Poland,25757,Sandecja II 
+"Jul 25, 2013",300 Th. €,Poland,255,Legia Warszawa ,80941,700 Th. €,Janusz Gol,13/14,Russia,4128,Amkar Perm 
+"Feb 1, 2011",125 Th. €,Poland,716,GKS Belchatow ,80941,500 Th. €,Janusz Gol,10/11,Poland,255,Legia Warszawa 
+"Aug 1, 2008",33 Th. €,Poland,12479,Polonia-Stal ,80941,50 Th. €,Janusz Gol,08/09,Poland,716,GKS Belchatow 
+"Jul 15, 2015",?,Montenegro,3070,FK Sutjeska Niksic ,10286,175 Th. €,Dejan Ognjanovic,15/16,Montenegro,4949,FK Bokelj 
+"Jan 1, 2013",?,Serbia,3544,Smederevo ,10286,175 Th. €,Dejan Ognjanovic,12/13,Montenegro,3070,FK Sutjeska Niksic 
+"Jul 1, 2012",End of loan,Albania,12462,KF Kastrioti ,10286,175 Th. €,Dejan Ognjanovic,12/13,Serbia,3544,Smederevo 
+"Aug 1, 2011",Loan,Serbia,3544,Smederevo ,10286,350 Th. €,Dejan Ognjanovic,11/12,Albania,12462,KF Kastrioti 
+"Jan 1, 2010",Free transfer,Poland,256,LKS Lodz ,10286,300 Th. €,Dejan Ognjanovic,09/10,Serbia,3544,Smederevo 
+"Jul 1, 2008",15 Th. €,Portugal,1465,Estoril ,10286,300 Th. €,Dejan Ognjanovic,08/09,Poland,256,LKS Lodz 
+"Jul 1, 2006",?,Serbia,37,FK Obilic ,10286,50 Th. €,Dejan Ognjanovic,06/07,Portugal,1465,Estoril 
+"Jul 1, 2005",Free transfer,Serbia,669,FK Partizan ,10286,50 Th. €,Dejan Ognjanovic,05/06,Serbia,37,FK Obilic 
+"Dec 31, 2004",End of loan,Portugal,1465,Estoril ,10286,50 Th. €,Dejan Ognjanovic,04/05,Serbia,669,FK Partizan 
+"Jul 1, 2004",Loan,Serbia,669,FK Partizan ,10286,-,Dejan Ognjanovic,04/05,Portugal,1465,Estoril 
+"Jul 1, 2001",?,Montenegro,4391,B. Podgorica ,10286,-,Dejan Ognjanovic,01/02,Serbia,669,FK Partizan 
+"Jul 1, 1998",?,Montenegro,4949,FK Bokelj ,10286,-,Dejan Ognjanovic,98/99,Montenegro,4391,B. Podgorica 
+"Aug 5, 2014",Free transfer,Poland,4533,Kolejarz Stroze ,69684,75 Th. €,Marcin Adamek,14/15,,515,Unattached 
+"Feb 12, 2013",Free transfer,Poland,39072,Kaczyce ,69684,50 Th. €,Marcin Adamek,12/13,Poland,4533,Kolejarz Stroze 
+"Jul 1, 2012",Free transfer,Poland,35920,Fortuna G. ,69684,50 Th. €,Marcin Adamek,12/13,Poland,39072,Kaczyce 
+"Jul 1, 2009",Free transfer,Poland,6112,Piast Gliwice ,69684,50 Th. €,Marcin Adamek,09/10,Poland,35920,Fortuna G. 
+"Jan 1, 2008",22 Th. €,Poland,8691,Beskid Skoczów ,69684,-,Marcin Adamek,07/08,Poland,6112,Piast Gliwice 
+"Jul 1, 2005",?,Poland,39072,Kaczyce ,69684,-,Marcin Adamek,05/06,Poland,8691,Beskid Skoczów 
+"Jul 1, 2009",-,Poland,238,Lech Poznan ,120886,-,Jacek Kadzinski,09/10,,515,Unattached 
+"Jul 1, 2007",Free transfer,Poland,176,Amica Wronki ,120886,-,Jacek Kadzinski,07/08,Poland,238,Lech Poznan 
+"Jan 1, 2007",-,Poland,15597,Amica Wronki U19 ,120886,-,Jacek Kadzinski,06/07,Poland,176,Amica Wronki 
+"Jul 1, 2015",Free transfer,Poland,318,Ruch Chorzow ,50750,350 Th. €,Bartlomiej Babiarz,15/16,Poland,15906,Termalica 
+"Jun 30, 2013",End of loan,Poland,1750,GKS Tychy ,50750,175 Th. €,Bartlomiej Babiarz,12/13,Poland,318,Ruch Chorzow 
+"Jul 1, 2009",Loan,Poland,318,Ruch Chorzow ,50750,50 Th. €,Bartlomiej Babiarz,09/10,Poland,1750,GKS Tychy 
+"Jul 1, 2008",-,Poland,14070,Ruch Chorzow II ,50750,50 Th. €,Bartlomiej Babiarz,08/09,Poland,318,Ruch Chorzow 
+"Jul 1, 2007",-,Poland,15529,Ruch U19 ,50750,-,Bartlomiej Babiarz,07/08,Poland,14070,Ruch Chorzow II 
+"Mar 1, 2013",Free transfer,Poland,30852,Gornik Wesola ,42562,125 Th. €,Michal Brzozowski,12/13,Poland,28060,Grunwald 
+"Jan 1, 2012",Free transfer,Poland,318,Ruch Chorzow ,42562,125 Th. €,Michal Brzozowski,11/12,Poland,30852,Gornik Wesola 
+"Dec 1, 2011",End of loan,Poland,28060,Grunwald ,42562,125 Th. €,Michal Brzozowski,11/12,Poland,318,Ruch Chorzow 
+"Jul 1, 2011",Loan,Poland,318,Ruch Chorzow ,42562,125 Th. €,Michal Brzozowski,11/12,Poland,28060,Grunwald 
+"Jun 30, 2011",End of loan,Poland,1305,Odra Wodzislaw ,42562,125 Th. €,Michal Brzozowski,10/11,Poland,318,Ruch Chorzow 
+"Feb 1, 2011",Loan,Poland,318,Ruch Chorzow ,42562,50 Th. €,Michal Brzozowski,10/11,Poland,1305,Odra Wodzislaw 
+"Sep 1, 2010",End of loan,Poland,6456,GKS Katowice ,42562,50 Th. €,Michal Brzozowski,10/11,Poland,318,Ruch Chorzow 
+"Aug 1, 2010",Loan,Poland,318,Ruch Chorzow ,42562,50 Th. €,Michal Brzozowski,10/11,Poland,6456,GKS Katowice 
+"Dec 31, 2008",End of loan,Poland,11843,Rozwój Katowice ,42562,50 Th. €,Michal Brzozowski,08/09,Poland,318,Ruch Chorzow 
+"Aug 1, 2007",Loan,Poland,318,Ruch Chorzow ,42562,50 Th. €,Michal Brzozowski,07/08,Poland,11843,Rozwój Katowice 
+"Jul 1, 2006",-,Poland,15529,Ruch U19 ,42562,-,Michal Brzozowski,06/07,Poland,318,Ruch Chorzow 
+"Jul 1, 2014",Free transfer,Poland,15906,Termalica ,53827,200 Th. €,Lukasz Pielorz,14/15,Poland,6456,GKS Katowice 
+"Aug 29, 2012",Free transfer,Poland,3291,Gornik Leczna ,53827,150 Th. €,Lukasz Pielorz,12/13,Poland,15906,Termalica 
+"Jul 1, 2011",Free transfer,Poland,22475,ROW Rybnik ,53827,150 Th. €,Lukasz Pielorz,11/12,Poland,3291,Gornik Leczna 
+"Mar 1, 2011",Free transfer,Poland,1305,Odra Wodzislaw ,53827,150 Th. €,Lukasz Pielorz,10/11,Poland,22475,ROW Rybnik 
+"Jan 1, 2009",Free transfer,Poland,9104,GKS Jastrzebie ,53827,-,Lukasz Pielorz,08/09,Poland,1305,Odra Wodzislaw 
+"Jul 1, 2007",Free transfer,Greece,9399,AE Giannina ,53827,-,Lukasz Pielorz,07/08,Poland,9104,GKS Jastrzebie 
+"Jul 1, 2006",Free transfer,Poland,9104,GKS Jastrzebie ,53827,-,Lukasz Pielorz,06/07,Greece,9399,AE Giannina 
+"Jul 1, 2005",-,Poland,10249,Gornik Jastrzebie Zdroj ,53827,-,Lukasz Pielorz,05/06,Poland,9104,GKS Jastrzebie 
+"Jul 1, 2015",Free transfer,Poland,6361,Podbeskidzie ,84918,200 Th. €,Piotr Tomasik,15/16,Poland,2300,J. Bialystok 
+"Jul 1, 2014",Free transfer,Poland,6107,Arka Gdynia ,84918,250 Th. €,Piotr Tomasik,14/15,Poland,6361,Podbeskidzie 
+"Feb 1, 2012",40 Th. €,Poland,10126,F. Swinoujscie ,84918,200 Th. €,Piotr Tomasik,11/12,Poland,6107,Arka Gdynia 
+"Feb 8, 2011",Free transfer,Poland,7976,Polonia Bytom ,84918,150 Th. €,Piotr Tomasik,10/11,Poland,10126,F. Swinoujscie 
+"Aug 27, 2008",15 Th. €,Poland,12660,Przeboj Wolbrom ,84918,-,Piotr Tomasik,08/09,Poland,7976,Polonia Bytom 
+"Jul 1, 2005",Free transfer,Poland,530,Hutnik Krakow ,84918,-,Piotr Tomasik,05/06,Poland,12660,Przeboj Wolbrom 
+"Feb 1, 2016",?,United States,1247,Colorado ,48198,600 Th. €,Marcelo Sarvas,15/16,United States,2440,DC United 
+"Jan 15, 2015",Trade,United States,1061,Los Angeles ,48198,300 Th. €,Marcelo Sarvas,14/15,United States,1247,Colorado 
+"Jan 31, 2012",?,Costa Rica,6478,LD Alajuelense ,48198,-,Marcelo Sarvas,11/12,United States,1061,Los Angeles 
+"Jan 17, 2011",Free transfer,Poland,2745,Pol. Warsaw ,48198,325 Th. €,Marcelo Sarvas,10/11,Costa Rica,6478,LD Alajuelense 
+"Jul 2, 2009",Free transfer,Sweden,3903,Bunkeflo ,48198,-,Marcelo Sarvas,09/10,Poland,2745,Pol. Warsaw 
+"Jul 1, 2008",?,Sweden,2719,Mjällby AIF ,48198,-,Marcelo Sarvas,08/09,Sweden,3903,Bunkeflo 
+"Jan 1, 2007",Free transfer,Sweden,17930,Kristianstads ,48198,-,Marcelo Sarvas,07/08,Sweden,2719,Mjällby AIF 
+"Jan 1, 2005",?,Sweden,12284,Karlskrona AIF ,48198,-,Marcelo Sarvas,04/05,Sweden,17930,Kristianstads 
+"Apr 6, 2004",Free transfer,Brazil,15047,Noroeste ,48198,-,Marcelo Sarvas,04/05,Sweden,12284,Karlskrona AIF 
+"Jan 1, 2003",Free transfer,Brazil,199,Corinthians ,48198,-,Marcelo Sarvas,02/03,Brazil,15047,Noroeste 
+"Jan 1, 2002",-,Brazil,14699,Corinthians U20 ,48198,-,Marcelo Sarvas,01/02,Brazil,199,Corinthians 
+"Sep 1, 2012",-,Poland,4892,Dolcan Zabki ,36432,200 Th. €,Daniel Chylaszek,12/13,,515,Unattached 
+"Feb 1, 2011",-,Poland,515,Unattached ,36432,225 Th. €,Daniel Chylaszek,10/11,,4892,Dolcan Zabki 
+"Jul 1, 2010",-,Poland,6112,Piast Gliwice ,36432,225 Th. €,Daniel Chylaszek,10/11,,515,Unattached 
+"Jul 1, 2006",Free transfer,Poland,6560,Sosnowiec ,36432,300 Th. €,Daniel Chylaszek,06/07,Poland,6112,Piast Gliwice 
+"Jul 1, 2005",Free transfer,Poland,2298,Szczakowianka ,36432,-,Daniel Chylaszek,05/06,Poland,6560,Sosnowiec 
+"Jun 30, 2003",End of loan,Poland,10376,Victoria Jaworzno ,36432,-,Daniel Chylaszek,02/03,Poland,2298,Szczakowianka 
+"Jul 1, 2002",Loan,Poland,2298,Szczakowianka ,36432,-,Daniel Chylaszek,02/03,Poland,10376,Victoria Jaworzno 
+"Jan 1, 2001",?,Poland,31454,Janina Libiaz ,36432,-,Daniel Chylaszek,00/01,Poland,2298,Szczakowianka 
+"Jul 1, 2012",-,Poland,11649,Orleta Radzyn Podlaski ,42577,75 Th. €,Lukasz Kepa,12/13,,515,Unattached 
+"Aug 30, 2010",-,Poland,515,Unattached ,42577,75 Th. €,Lukasz Kepa,10/11,,11649,Orleta Radzyn Podlaski 
+"Jan 1, 2010",-,Poland,3527,Motor Lublin ,42577,50 Th. €,Lukasz Kepa,09/10,,515,Unattached 
+"Sep 1, 2009",Free transfer,Poland,2745,Pol. Warsaw ,42577,50 Th. €,Lukasz Kepa,09/10,Poland,3527,Motor Lublin 
+"Jun 30, 2008",End of loan,Poland,3291,Gornik Leczna ,42577,-,Lukasz Kepa,07/08,Poland,2745,Pol. Warsaw 
+"Jul 1, 2007",Loan,Poland,2745,Pol. Warsaw ,42577,-,Lukasz Kepa,07/08,Poland,3291,Gornik Leczna 
+"Jul 1, 2006",-,Poland,15528,Polonia U19 ,42577,-,Lukasz Kepa,06/07,Poland,2745,Pol. Warsaw 
+"Jul 1, 2015",Free transfer,Poland,75,Unknown ,68693,125 Th. €,Hubert Jaromin,15/16,,21738,MLKS Wozniki 
+"Jul 1, 2014",Free transfer,Poland,6865,Szombierki B. ,68693,125 Th. €,Hubert Jaromin,14/15,,75,Unknown 
+"Aug 1, 2012",?,Poland,34363,Nadwislan Gora ,68693,125 Th. €,Hubert Jaromin,12/13,Poland,6865,Szombierki B. 
+"Feb 1, 2012",?,Poland,28893,P. Niepolomice ,68693,125 Th. €,Hubert Jaromin,11/12,Poland,34363,Nadwislan Gora 
+"Aug 1, 2011",Free transfer,Poland,1750,GKS Tychy ,68693,125 Th. €,Hubert Jaromin,11/12,Poland,28893,P. Niepolomice 
+"Aug 1, 2010",Free transfer,Poland,6560,Sosnowiec ,68693,250 Th. €,Hubert Jaromin,10/11,Poland,1750,GKS Tychy 
+"Aug 1, 2009",Free transfer,Poland,7976,Polonia Bytom ,68693,250 Th. €,Hubert Jaromin,09/10,Poland,6560,Sosnowiec 
+"Jul 1, 2008",Free transfer,Poland,6456,GKS Katowice ,68693,-,Hubert Jaromin,08/09,Poland,7976,Polonia Bytom 
+"Jul 1, 2005",Free transfer,Poland,6361,Podbeskidzie ,68693,-,Hubert Jaromin,05/06,Poland,6456,GKS Katowice 
+"Feb 1, 2005",Free transfer,Poland,2298,Szczakowianka ,68693,-,Hubert Jaromin,04/05,Poland,6361,Podbeskidzie 
+"Jul 1, 2003",Free transfer,Poland,9239,Radzionkow ,68693,-,Hubert Jaromin,03/04,Poland,2298,Szczakowianka 
+"Dec 31, 2002",End of loan,Poland,6108,Hetman Zamosc ,68693,-,Hubert Jaromin,02/03,Poland,9239,Radzionkow 
+"Jul 1, 2002",Loan,Poland,9239,Radzionkow ,68693,-,Hubert Jaromin,02/03,Poland,6108,Hetman Zamosc 
+"Jan 1, 2000",?,Poland,31748,Sparta Zabrze ,68693,-,Hubert Jaromin,99/00,Poland,9239,Radzionkow 
+"Jan 25, 2016",-,Brazil,515,Unattached ,98745,-,Beto,15/16,,27475,Penapolense-SP 
+"Oct 6, 2015",-,Brazil,17964,Botafogo ,98745,-,Beto,15/16,,515,Unattached 
+"May 1, 2015",Free transfer,Brazil,37474,Novorizontino ,98745,-,Beto,14/15,Brazil,17964,Botafogo 
+"Dec 31, 2014",Free transfer,Brazil,7209,ABC ,98745,-,Beto,14/15,Brazil,37474,Novorizontino 
+"Jan 10, 2014",?,Brazil,2035,Avaí ,98745,-,Beto,13/14,Brazil,7209,ABC 
+"May 1, 2013",Free transfer,Brazil,4392,CA Aichinger ,98745,-,Beto,12/13,Brazil,2035,Avaí 
+"Jan 1, 2013",Free transfer,Brazil,21829,Oeste ,98745,-,Beto,12/13,Brazil,4392,CA Aichinger 
+"Jan 1, 2012",Free transfer,China,18916,GZ R&F ,98745,-,Beto,11/12,Brazil,21829,Oeste 
+"Jan 1, 2011",Free transfer,China,17238,NC Bayi Hengyuan ,98745,350 Th. €,Beto,10/11,China,18916,GZ R&F 
+"Jan 1, 2010",Free transfer,Brazil,8793,Bragantino ,98745,350 Th. €,Beto,09/10,China,17238,NC Bayi Hengyuan 
+"Aug 1, 2009",Free transfer,Poland,422,Wisla Kraków ,98745,350 Th. €,Beto,09/10,Brazil,8793,Bragantino 
+"Jan 1, 2009",Free transfer,Brazil,1023,Palmeiras ,98745,-,Beto,08/09,Poland,422,Wisla Kraków 
+"Dec 31, 2008",End of loan,Brazil,8793,Bragantino ,98745,-,Beto,08/09,Brazil,1023,Palmeiras 
+"Jul 1, 2008",Loan,Brazil,1023,Palmeiras ,98745,-,Beto,08/09,Brazil,8793,Bragantino 
+"Apr 30, 2008",End of loan,Brazil,5120,Brasinha ,98745,-,Beto,07/08,Brazil,1023,Palmeiras 
+"Mar 1, 2008",Loan,Brazil,1023,Palmeiras ,98745,-,Beto,07/08,Brazil,5120,Brasinha 
+"Feb 29, 2008",End of loan,Brazil,4773,Ituano ,98745,-,Beto,07/08,Brazil,1023,Palmeiras 
+"Jan 1, 2008",Loan,Brazil,1023,Palmeiras ,98745,-,Beto,07/08,Brazil,4773,Ituano 
+"Dec 31, 2007",End of loan,Brazil,1134,Ponte Preta ,98745,-,Beto,07/08,Brazil,1023,Palmeiras 
+"May 1, 2007",Loan,Brazil,1023,Palmeiras ,98745,-,Beto,06/07,Brazil,1134,Ponte Preta 
+"Apr 30, 2007",End of loan,Brazil,8144,Clube Atlético Juventus (SP) ,98745,-,Beto,06/07,Brazil,1023,Palmeiras 
+"Jan 1, 2007",Loan,Brazil,1023,Palmeiras ,98745,-,Beto,06/07,Brazil,8144,Clube Atlético Juventus (SP) 
+"Jan 1, 2006",?,Brazil,4773,Ituano ,98745,-,Beto,05/06,Brazil,1023,Palmeiras 
+"Jul 1, 2013",?,Poland,31880,Calisia ,68696,50 Th. €,Krzysztof Kaczmarek,13/14,,515,Unattached 
+"Feb 1, 2013",-,Poland,8377,Chrobry Glogow ,68696,50 Th. €,Krzysztof Kaczmarek,12/13,Poland,31880,Calisia 
+"Aug 28, 2012",Free transfer,Poland,23113,MKS Kluczbork ,68696,50 Th. €,Krzysztof Kaczmarek,12/13,Poland,8377,Chrobry Glogow 
+"Feb 1, 2011",Free transfer,Poland,759,Slask Wroclaw ,68696,50 Th. €,Krzysztof Kaczmarek,10/11,Poland,23113,MKS Kluczbork 
+"Dec 1, 2010",End of loan,Poland,22601,Czarni Zagan ,68696,50 Th. €,Krzysztof Kaczmarek,10/11,Poland,759,Slask Wroclaw 
+"Jul 1, 2010",Loan,Poland,759,Slask Wroclaw ,68696,50 Th. €,Krzysztof Kaczmarek,10/11,Poland,22601,Czarni Zagan 
+"Jun 30, 2010",End of loan,Poland,22588,Sleza Wroclaw ,68696,50 Th. €,Krzysztof Kaczmarek,09/10,Poland,759,Slask Wroclaw 
+"Feb 1, 2010",Loan,Poland,759,Slask Wroclaw ,68696,50 Th. €,Krzysztof Kaczmarek,09/10,Poland,22588,Sleza Wroclaw 
+"Jun 30, 2008",End of loan,Poland,12407,Stilon ,68696,-,Krzysztof Kaczmarek,07/08,Poland,759,Slask Wroclaw 
+"Feb 1, 2008",Loan,Poland,759,Slask Wroclaw ,68696,-,Krzysztof Kaczmarek,07/08,Poland,12407,Stilon 
+"Jul 1, 2007",-,Poland,15530,Slask U19 ,68696,-,Krzysztof Kaczmarek,07/08,Poland,759,Slask Wroclaw 
+"Jul 1, 2015",-,Poland,8936,Miedz Legnica ,37982,50 Th. €,Mariusz Zasada,15/16,,515,Unattached 
+"Jul 1, 2011",Free transfer,Poland,2745,Pol. Warsaw ,37982,250 Th. €,Mariusz Zasada,11/12,Poland,8936,Miedz Legnica 
+"Jun 30, 2011",End of loan,Poland,3291,Gornik Leczna ,37982,250 Th. €,Mariusz Zasada,10/11,Poland,2745,Pol. Warsaw 
+"Jul 1, 2010",Loan,Poland,2745,Pol. Warsaw ,37982,275 Th. €,Mariusz Zasada,10/11,Poland,3291,Gornik Leczna 
+"Jan 1, 2006",?,Poland,6106,Tur Turek ,37982,-,Mariusz Zasada,05/06,Poland,2745,Pol. Warsaw 
+"Jan 1, 2004",Free transfer,Poland,256,LKS Lodz ,37982,-,Mariusz Zasada,03/04,Poland,6106,Tur Turek 
+"Jul 1, 2003",?,Poland,8688,Ceramika Paradyz ,37982,-,Mariusz Zasada,03/04,Poland,256,LKS Lodz 
+"Jul 1, 2002",Free transfer,Poland,8937,Stal Glowno ,37982,-,Mariusz Zasada,02/03,Poland,8688,Ceramika Paradyz 
+"Jul 1, 2011",Free transfer,Poland,1305,Odra Wodzislaw ,104033,200 Th. €,Szymon Jary,11/12,Poland,22475,ROW Rybnik 
+"Feb 1, 2009",20 Th. €,Poland,22475,ROW Rybnik ,104033,-,Szymon Jary,08/09,Poland,1305,Odra Wodzislaw 
+"Jan 1, 2007",-,Poland,40248,ROW Rybnik U19 ,104033,-,Szymon Jary,06/07,Poland,22475,ROW Rybnik 
+"Jul 1, 2013",Free transfer,Bulgaria,712,FK Etar ,32868,200 Th. €,Mateusz Bak,13/14,Poland,4000,Lechia Gdansk 
+"Feb 20, 2013",Free transfer,Poland,6361,Podbeskidzie ,32868,200 Th. €,Mateusz Bak,12/13,Bulgaria,712,FK Etar 
+"Jul 1, 2011",Free transfer,Poland,2118,Wisla Plock ,32868,200 Th. €,Mateusz Bak,11/12,Poland,6361,Podbeskidzie 
+"Feb 1, 2011",Free transfer,Poland,4000,Lechia Gdansk ,32868,200 Th. €,Mateusz Bak,10/11,Poland,2118,Wisla Plock 
+"Jun 30, 2010",End of loan,Portugal,1301,Marítimo ,32868,250 Th. €,Mateusz Bak,09/10,Poland,4000,Lechia Gdansk 
+"Jan 1, 2010",Loan,Poland,4000,Lechia Gdansk ,32868,250 Th. €,Mateusz Bak,09/10,Portugal,1301,Marítimo 
+"Jul 1, 2001",-,Poland,15521,Lechia U19 ,32868,-,Mateusz Bak,01/02,Poland,4000,Lechia Gdansk 
+"Jul 1, 2015",Free transfer,Poland,28536,Bytovia Bytow ,68712,150 Th. €,Tadeusz Socha,15/16,Poland,6107,Arka Gdynia 
+"Feb 4, 2015",Free transfer,Poland,759,Slask Wroclaw ,68712,200 Th. €,Tadeusz Socha,14/15,Poland,28536,Bytovia Bytow 
+"Jul 1, 2006",-,Poland,15530,Slask U19 ,68712,-,Tadeusz Socha,06/07,Poland,759,Slask Wroclaw 
+"Jul 17, 2015",Free transfer,Poland,318,Ruch Chorzow ,52335,700 Th. €,Grzegorz Kuswik,15/16,Poland,4000,Lechia Gdansk 
+"Jul 1, 2012",Free transfer,Poland,716,GKS Belchatow ,52335,250 Th. €,Grzegorz Kuswik,12/13,Poland,318,Ruch Chorzow 
+"Jun 30, 2012",End of loan,Poland,4868,KS Polkowice ,52335,250 Th. €,Grzegorz Kuswik,11/12,Poland,716,GKS Belchatow 
+"Jan 1, 2012",Loan,Poland,716,GKS Belchatow ,52335,250 Th. €,Grzegorz Kuswik,11/12,Poland,4868,KS Polkowice 
+"Jan 1, 2008",?,Poland,22588,Sleza Wroclaw ,52335,50 Th. €,Grzegorz Kuswik,07/08,Poland,716,GKS Belchatow 
+"Feb 27, 2014",-,Poland,515,Unattached ,42103,75 Th. €,Marcel Surowiak,13/14,,36644,Sw. Czarnowasy 
+"Sep 19, 2013",-,Poland,5699,Odra Opole ,42103,75 Th. €,Marcel Surowiak,13/14,,515,Unattached 
+"Jul 1, 2011",Free transfer,Poland,7976,Polonia Bytom ,42103,200 Th. €,Marcel Surowiak,11/12,Poland,5699,Odra Opole 
+"Jun 30, 2011",End of loan,Poland,23833,Oderka ,42103,200 Th. €,Marcel Surowiak,10/11,Poland,7976,Polonia Bytom 
+"Jul 1, 2010",Loan,Poland,7976,Polonia Bytom ,42103,200 Th. €,Marcel Surowiak,10/11,Poland,23833,Oderka 
+"Jun 30, 2010",End of loan,Poland,11991,LZS Lesnica ,42103,200 Th. €,Marcel Surowiak,09/10,Poland,7976,Polonia Bytom 
+"Feb 1, 2010",Loan,Poland,7976,Polonia Bytom ,42103,200 Th. €,Marcel Surowiak,09/10,Poland,11991,LZS Lesnica 
+"Dec 31, 2009",End of loan,Poland,23113,MKS Kluczbork ,42103,200 Th. €,Marcel Surowiak,09/10,Poland,7976,Polonia Bytom 
+"Jul 1, 2009",Loan fee:20 Th. €,Poland,7976,Polonia Bytom ,42103,200 Th. €,Marcel Surowiak,09/10,Poland,23113,MKS Kluczbork 
+"Feb 1, 2009",Free transfer,Poland,5699,Odra Opole ,42103,200 Th. €,Marcel Surowiak,08/09,Poland,7976,Polonia Bytom 
+"Jul 1, 2015",Free transfer,Poland,26564,Grudziadz ,33403,50 Th. €,Maciej Rogalski,15/16,Poland,28887,Chojnice 
+"Jul 1, 2012",Free transfer,Poland,6361,Podbeskidzie ,33403,300 Th. €,Maciej Rogalski,12/13,Poland,26564,Grudziadz 
+"Jul 9, 2010",25 Th. €,Poland,4000,Lechia Gdansk ,33403,375 Th. €,Maciej Rogalski,10/11,Poland,6361,Podbeskidzie 
+"Jan 16, 2007",40 Th. €,Poland,1986,KSZO Ostrowiec ,33403,175 Th. €,Maciej Rogalski,06/07,Poland,4000,Lechia Gdansk 
+"Jul 1, 2005",Free transfer,Poland,9232,Mlawianka Mlawa ,33403,-,Maciej Rogalski,05/06,Poland,1986,KSZO Ostrowiec 
+"Jul 1, 2011",?,Spain,13805,Benidorm CD ,72316,-,Tito,11/12,Spain,26132,UE Llagostera 
+"Jul 1, 2010",?,Spain,10773,RCD Espanyol B ,72316,-,Tito,10/11,Spain,13805,Benidorm CD 
+"Jun 30, 2009",End of loan,Poland,255,Legia Warszawa ,72316,200 Th. €,Tito,08/09,Spain,10773,RCD Espanyol B 
+"Jul 1, 2008",Loan,Spain,10773,RCD Espanyol B ,72316,-,Tito,08/09,Poland,255,Legia Warszawa 
+"Jul 22, 2015",Free transfer,Poland,7745,Kotwica ,68629,100 Th. €,Krzysztof Bulka,15/16,Poland,11873,Baltyk Gdynia 
+"Jul 22, 2014",Free transfer,Poland,11873,Baltyk Gdynia ,68629,50 Th. €,Krzysztof Bulka,14/15,Poland,7745,Kotwica 
+"Jul 1, 2012",Free transfer,Poland,6107,Arka Gdynia ,68629,50 Th. €,Krzysztof Bulka,12/13,Poland,11873,Baltyk Gdynia 
+"Jun 30, 2012",End of loan,Poland,11873,Baltyk Gdynia ,68629,50 Th. €,Krzysztof Bulka,11/12,Poland,6107,Arka Gdynia 
+"Jan 1, 2012",Loan,Poland,6107,Arka Gdynia ,68629,50 Th. €,Krzysztof Bulka,11/12,Poland,11873,Baltyk Gdynia 
+"Jun 30, 2011",End of loan,Poland,6116,Olimpia Elblag ,68629,50 Th. €,Krzysztof Bulka,10/11,Poland,6107,Arka Gdynia 
+"Jul 1, 2010",Loan,Poland,6107,Arka Gdynia ,68629,50 Th. €,Krzysztof Bulka,10/11,Poland,6116,Olimpia Elblag 
+"Jul 1, 2008",-,Poland,15483,Arka U19 ,68629,-,Krzysztof Bulka,08/09,Poland,6107,Arka Gdynia 
+"Feb 1, 2013",Free transfer,Poland,25628,Lech Rypin ,52353,125 Th. €,Pawel Adamiec,12/13,Poland,34302,Biala Piska 
+"Jul 27, 2012",?,Poland,6106,Tur Turek ,52353,125 Th. €,Pawel Adamiec,12/13,Poland,25628,Lech Rypin 
+"Jul 1, 2011",Free transfer,Poland,716,GKS Belchatow ,52353,125 Th. €,Pawel Adamiec,11/12,Poland,6106,Tur Turek 
+"Jun 30, 2011",End of loan,Poland,8782,Sokol Aleksandrow Lodzki ,52353,125 Th. €,Pawel Adamiec,10/11,Poland,716,GKS Belchatow 
+"Aug 1, 2010",Loan,Poland,716,GKS Belchatow ,52353,175 Th. €,Pawel Adamiec,10/11,Poland,8782,Sokol Aleksandrow Lodzki 
+"Jun 30, 2010",End of loan,Poland,3527,Motor Lublin ,52353,175 Th. €,Pawel Adamiec,09/10,Poland,716,GKS Belchatow 
+"Feb 1, 2010",Loan,Poland,716,GKS Belchatow ,52353,200 Th. €,Pawel Adamiec,09/10,Poland,3527,Motor Lublin 
+"Jul 1, 2007",20 Th. €,Poland,8938,Zdroj Ciechocinek ,52353,-,Pawel Adamiec,07/08,Poland,716,GKS Belchatow 
+"Jan 1, 2007",Free transfer,Poland,29318,UKS SMS Balucz ,52353,-,Pawel Adamiec,06/07,Poland,8938,Zdroj Ciechocinek 
+"Jul 1, 2006",Free transfer,Poland,8937,Stal Glowno ,52353,-,Pawel Adamiec,06/07,Poland,29318,UKS SMS Balucz 
+"Jul 1, 2005",Free transfer,Poland,28801,UKS SMS U19 ,52353,-,Pawel Adamiec,05/06,Poland,8937,Stal Glowno 
+"Jan 24, 2016",Free transfer,Kazakhstan,10481,Tobol Kostanay ,100482,750 Th. €,Deivydas Matulevicius,15/16,Romania,8818,FC Botosani 
+"Jun 19, 2015",Free transfer,Romania,8715,Pandurii T.-Jiu ,100482,900 Th. €,Deivydas Matulevicius,14/15,Kazakhstan,10481,Tobol Kostanay 
+"Jul 1, 2012",?,Lithuania,602,Zalgiris ,100482,275 Th. €,Deivydas Matulevicius,12/13,Romania,8715,Pandurii T.-Jiu 
+"Jun 30, 2012",End of loan,Poland,5689,Cracovia Kraków ,100482,275 Th. €,Deivydas Matulevicius,11/12,Lithuania,602,Zalgiris 
+"Feb 16, 2012",Loan,Lithuania,602,Zalgiris ,100482,275 Th. €,Deivydas Matulevicius,11/12,Poland,5689,Cracovia Kraków 
+"Jan 1, 2011",Free transfer,Poland,1305,Odra Wodzislaw ,100482,225 Th. €,Deivydas Matulevicius,10/11,Lithuania,602,Zalgiris 
+"Jan 1, 2009",Free transfer,Lithuania,8608,FC Vilnius ,100482,-,Deivydas Matulevicius,08/09,Poland,1305,Odra Wodzislaw 
+"Jul 1, 2007",Free transfer,Lithuania,28754,Interas-AE Visaginas ,100482,-,Deivydas Matulevicius,07/08,Lithuania,8608,FC Vilnius 
+"Jul 1, 2015",?,Poland,3527,Motor Lublin ,92298,150 Th. €,Patryk Koziara,14/15,Poland,6190,Swit N.D.M. 
+"Jul 31, 2013",Free transfer,Poland,4892,Dolcan Zabki ,92298,150 Th. €,Patryk Koziara,13/14,Poland,3527,Motor Lublin 
+"Jul 1, 2010",?,Poland,6628,Legia II ,92298,50 Th. €,Patryk Koziara,10/11,Poland,4892,Dolcan Zabki 
+"Aug 1, 2008",Free transfer,Poland,15528,Polonia U19 ,92298,-,Patryk Koziara,08/09,Poland,6628,Legia II 
+"Jul 15, 2015",?,Belgium,6344,Bocholt VV ,87691,75 Th. €,Michal Fidziukiewicz,15/16,Poland,6560,Sosnowiec 
+"Jul 10, 2013",Free transfer,Poland,2300,J. Bialystok ,87691,75 Th. €,Michal Fidziukiewicz,13/14,Belgium,6344,Bocholt VV 
+"Dec 31, 2012",End of loan,Poland,30545,Gryf Wejherowo ,87691,75 Th. €,Michal Fidziukiewicz,12/13,Poland,2300,J. Bialystok 
+"Jan 1, 2012",Loan,Poland,2300,J. Bialystok ,87691,75 Th. €,Michal Fidziukiewicz,11/12,Poland,30545,Gryf Wejherowo 
+"Dec 31, 2011",End of loan,Poland,33022,Dab Dabrowa ,87691,75 Th. €,Michal Fidziukiewicz,11/12,Poland,2300,J. Bialystok 
+"Aug 1, 2011",Loan,Poland,2300,J. Bialystok ,87691,75 Th. €,Michal Fidziukiewicz,11/12,Poland,33022,Dab Dabrowa 
+"Jun 30, 2011",End of loan,Poland,8612,Ruch Wysokie Mazowieckie ,87691,75 Th. €,Michal Fidziukiewicz,10/11,Poland,2300,J. Bialystok 
+"Jul 1, 2010",Loan,Poland,2300,J. Bialystok ,87691,75 Th. €,Michal Fidziukiewicz,10/11,Poland,8612,Ruch Wysokie Mazowieckie 
+"Jul 1, 2008",-,Poland,8716,J. Bialystok II ,87691,-,Michal Fidziukiewicz,08/09,Poland,2300,J. Bialystok 
+"Jan 1, 2008",-,Poland,15518,Jagiellonia U19 ,87691,-,Michal Fidziukiewicz,07/08,Poland,8716,J. Bialystok II 
+"Jul 1, 2012",-,Poland,4000,Lechia Gdansk ,32908,75 Th. €,Jakub Kawa,12/13,,515,Unattached 
+"Jun 30, 2012",End of loan,Poland,11873,Baltyk Gdynia ,32908,75 Th. €,Jakub Kawa,11/12,Poland,4000,Lechia Gdansk 
+"Jan 1, 2012",Loan,Poland,4000,Lechia Gdansk ,32908,75 Th. €,Jakub Kawa,11/12,Poland,11873,Baltyk Gdynia 
+"Dec 31, 2010",End of loan,Poland,11873,Baltyk Gdynia ,32908,75 Th. €,Jakub Kawa,10/11,Poland,4000,Lechia Gdansk 
+"Jul 1, 2010",Loan,Poland,4000,Lechia Gdansk ,32908,125 Th. €,Jakub Kawa,10/11,Poland,11873,Baltyk Gdynia 
+"Jun 30, 2010",End of loan,Poland,9109,Znicz Pruszkow ,32908,125 Th. €,Jakub Kawa,09/10,Poland,4000,Lechia Gdansk 
+"Jan 1, 2010",Loan,Poland,4000,Lechia Gdansk ,32908,125 Th. €,Jakub Kawa,09/10,Poland,9109,Znicz Pruszkow 
+"Jun 30, 2007",End of loan,Poland,8667,Kaszubia Koscierzyna ,32908,-,Jakub Kawa,06/07,Poland,4000,Lechia Gdansk 
+"Jan 1, 2007",Loan,Poland,4000,Lechia Gdansk ,32908,-,Jakub Kawa,06/07,Poland,8667,Kaszubia Koscierzyna 
+"Jul 1, 2006",-,Poland,15521,Lechia U19 ,32908,-,Jakub Kawa,06/07,Poland,4000,Lechia Gdansk 
+"Jan 1, 2009",70 Th. €,Bosnia-Herzegovina,765,Celik Zenica ,28308,400 Th. €,Jasmin Buric,08/09,Poland,238,Lech Poznan 
+"Jul 1, 2004",-,Bosnia-Herzegovina,19850,NK Celik U19 ,28308,-,Jasmin Buric,04/05,Bosnia-Herzegovina,765,Celik Zenica 
+"Jan 11, 2016",350 Th. â‚¬,Italy,1385,Modena FC ,79510,700 Th. â‚¬,Thiago Cionek,15/16,Italy,458,US Palermo 
+"Jul 24, 2014",Free transfer,Italy,3037,Padova ,79510,600 Th. â‚¬,Thiago Cionek,14/15,Italy,1385,Modena FC 
+"Jun 30, 2014",End of loan,Italy,1385,Modena FC ,79510,350 Th. â‚¬,Thiago Cionek,13/14,Italy,3037,Padova 
+"Sep 2, 2013",Loan,Italy,3037,Padova ,79510,350 Th. â‚¬,Thiago Cionek,13/14,Italy,1385,Modena FC 
+"Aug 30, 2012",400 Th. â‚¬,Poland,2300,J. Bialystok ,79510,650 Th. â‚¬,Thiago Cionek,12/13,Italy,3037,Padova 
+"Jul 1, 2008",50 Th. â‚¬,Brazil,11449,CRB ,79510,-,Thiago Cionek,08/09,Poland,2300,J. Bialystok 
+"Aug 1, 2007",gratuito,Portugal,7117,BraganÃ§a ,79510,-,Thiago Cionek,07/08,Brazil,11449,CRB 
+"Jan 1, 2007",?,Brazil,28022,CuiabÃ¡-MT ,79510,-,Thiago Cionek,06/07,Portugal,7117,BraganÃ§a 
+"Dec 1, 2014",?,Poland,3527,Motor Lublin ,110231,100 Th. €,Damian Jaron,14/15,Poland,30998,Pogon Grodzisk Mazowiecki 
+"Jul 1, 2014",?,Poland,3527,Motor Lublin ,110231,100 Th. €,Damian Jaron,14/15,Poland,30998,Pogon Grodzisk Mazowiecki 
+"Jul 31, 2013",?,Poland,2118,Wisla Plock ,110231,100 Th. €,Damian Jaron,13/14,Poland,3527,Motor Lublin 
+"Jun 30, 2013",End of loan,Poland,7976,Polonia Bytom ,110231,100 Th. €,Damian Jaron,12/13,Poland,2118,Wisla Plock 
+"Mar 7, 2013",Loan,Poland,2118,Wisla Plock ,110231,100 Th. €,Damian Jaron,12/13,Poland,7976,Polonia Bytom 
+"Dec 31, 2012",End of loan,Poland,4892,Dolcan Zabki ,110231,100 Th. €,Damian Jaron,12/13,Poland,2118,Wisla Plock 
+"Aug 8, 2012",Loan,Poland,2118,Wisla Plock ,110231,75 Th. €,Damian Jaron,12/13,Poland,4892,Dolcan Zabki 
+"Jul 1, 2011",10 Th. €,Poland,2745,Pol. Warsaw ,110231,75 Th. €,Damian Jaron,11/12,Poland,2118,Wisla Plock 
+"Jun 30, 2011",End of loan,Poland,2118,Wisla Plock ,110231,75 Th. €,Damian Jaron,10/11,Poland,2745,Pol. Warsaw 
+"Feb 1, 2011",Loan,Poland,2745,Pol. Warsaw ,110231,75 Th. €,Damian Jaron,10/11,Poland,2118,Wisla Plock 
+"Dec 31, 2010",End of loan,Poland,12407,Stilon ,110231,75 Th. €,Damian Jaron,10/11,Poland,2745,Pol. Warsaw 
+"Jul 1, 2010",Loan,Poland,2745,Pol. Warsaw ,110231,75 Th. €,Damian Jaron,10/11,Poland,12407,Stilon 
+"Jul 1, 2008",-,Poland,15528,Polonia U19 ,110231,-,Damian Jaron,08/09,Poland,2745,Pol. Warsaw 
+"Jul 11, 2013",Free transfer,Poland,2745,Pol. Warsaw ,33432,500 Th. €,Lukasz Piatek,13/14,Poland,168,Zaglebie Lubin 
+"Jul 1, 2005",-,Poland,15528,Polonia U19 ,33432,-,Lukasz Piatek,05/06,Poland,2745,Pol. Warsaw 
+"Jul 1, 2011",-,Poland,6354,Wisla Krakow II ,110234,50 Th. €,Jacek Pawlowski,11/12,,515,Unattached 
+"Sep 1, 2010",Free transfer,Poland,8848,Polonia Warsaw II ,110234,50 Th. €,Jacek Pawlowski,10/11,Poland,6354,Wisla Krakow II 
+"Jul 1, 2008",-,Poland,15528,Polonia U19 ,110234,-,Jacek Pawlowski,08/09,Poland,8848,Polonia Warsaw II 
+"Jul 1, 2006",Free transfer,Poland,10203,Okecie Warszawa U19 ,110234,-,Jacek Pawlowski,06/07,Poland,15528,Polonia U19 
+"Jul 1, 2011",-,Spain,12405,Real Unión ,23196,-,Iñaki Descarga,11/12,,123,End of career 
+"Jul 1, 2009",Free transfer,Poland,255,Legia Warszawa ,23196,"1,20 Mill. €",Iñaki Descarga,09/10,Spain,12405,Real Unión 
+"Jul 1, 2008",Free transfer,Spain,3368,Levante UD ,23196,"1,20 Mill. €",Iñaki Descarga,08/09,Poland,255,Legia Warszawa 
+"Jul 1, 2000",Free transfer,Spain,1533,SD Eibar ,23196,-,Iñaki Descarga,00/01,Spain,3368,Levante UD 
+"Jul 1, 1999",Free transfer,Spain,331,CA Osasuna ,23196,-,Iñaki Descarga,99/00,Spain,1533,SD Eibar 
+"Jul 1, 1996",-,Spain,8516,CA Osasuna B ,23196,-,Iñaki Descarga,96/97,Spain,331,CA Osasuna 
+"Jul 1, 2015",Free transfer,Poland,50164,KS Zakopane ,68769,125 Th. €,Mariusz Rozalski,15/16,Poland,50162,NKP Podhale 
+"Mar 17, 2015",Free transfer,Poland,32007,Limanovia ,68769,125 Th. €,Mariusz Rozalski,14/15,Poland,50164,KS Zakopane 
+"Jul 26, 2014",Free transfer,Poland,28681,Poprad Muszyna ,68769,125 Th. €,Mariusz Rozalski,14/15,Poland,32007,Limanovia 
+"Jan 1, 2014",Free transfer,Poland,4533,Kolejarz Stroze ,68769,125 Th. €,Mariusz Rozalski,13/14,Poland,28681,Poprad Muszyna 
+"Jul 23, 2013",Free transfer,Poland,6559,Pelikan Lowicz ,68769,125 Th. €,Mariusz Rozalski,13/14,Poland,4533,Kolejarz Stroze 
+"Aug 10, 2012",Free transfer,Poland,8984,Sandecja ,68769,125 Th. €,Mariusz Rozalski,12/13,Poland,6559,Pelikan Lowicz 
+"Jul 1, 2009",Free transfer,Poland,7976,Polonia Bytom ,68769,200 Th. €,Mariusz Rozalski,09/10,Poland,8984,Sandecja 
+"Jan 1, 2009",?,Poland,8737,Kmita Zabierzów ,68769,-,Mariusz Rozalski,08/09,Poland,7976,Polonia Bytom 
+"Jul 1, 2013",-,Lithuania,8047,Suduva ,42659,100 Th. €,Nerijus Radzius,13/14,,123,End of career 
+"Feb 1, 2010",Free transfer,Poland,256,LKS Lodz ,42659,-,Nerijus Radzius,09/10,Lithuania,8047,Suduva 
+"Jan 1, 2009",Free transfer,Lithuania,1187,FBK Kaunas ,42659,-,Nerijus Radzius,08/09,Poland,256,LKS Lodz 
+"Jul 1, 2006",?,Russia,6432,Volgar-Gazprom ,42659,-,Nerijus Radzius,06/07,Lithuania,1187,FBK Kaunas 
+"Jul 1, 2005",?,Russia,5287,Chernomorets N. ,42659,-,Nerijus Radzius,05/06,Russia,6432,Volgar-Gazprom 
+"Jul 1, 2003",?,Poland,168,Zaglebie Lubin ,42659,-,Nerijus Radzius,03/04,Russia,5287,Chernomorets N. 
+"Jul 1, 2000",?,Lithuania,602,Zalgiris ,42659,-,Nerijus Radzius,00/01,Poland,168,Zaglebie Lubin 
+"Jan 12, 2016",Free transfer,Poland,10453,Wigry Suwalki ,38565,100 Th. €,Robert Hirsz,15/16,Poland,22318,Legionovia 
+"Jan 27, 2015",-,Poland,515,Unattached ,38565,100 Th. €,Robert Hirsz,14/15,,10453,Wigry Suwalki 
+"Nov 17, 2014",-,Poland,28536,Bytovia Bytow ,38565,100 Th. €,Robert Hirsz,14/15,,515,Unattached 
+"Jul 1, 2012",Free transfer,Poland,11873,Baltyk Gdynia ,38565,75 Th. €,Robert Hirsz,12/13,Poland,28536,Bytovia Bytow 
+"Jul 1, 2011",-,Poland,515,Unattached ,38565,75 Th. €,Robert Hirsz,11/12,,11873,Baltyk Gdynia 
+"Apr 1, 2011",-,Cyprus,8553,APEP Pitsilia ,38565,75 Th. €,Robert Hirsz,10/11,,515,Unattached 
+"Feb 1, 2011",Free transfer,Poland,4000,Lechia Gdansk ,38565,75 Th. €,Robert Hirsz,10/11,Cyprus,8553,APEP Pitsilia 
+"Jun 30, 2010",End of loan,Poland,6106,Tur Turek ,38565,75 Th. €,Robert Hirsz,09/10,Poland,4000,Lechia Gdansk 
+"Feb 1, 2010",Loan,Poland,4000,Lechia Gdansk ,38565,75 Th. €,Robert Hirsz,09/10,Poland,6106,Tur Turek 
+"Jan 1, 2006",-,Poland,15521,Lechia U19 ,38565,-,Robert Hirsz,05/06,Poland,4000,Lechia Gdansk 
+"Jul 20, 2015",Free transfer,Poland,12736,GTS Bojszowy ,38566,100 Th. €,Lukasz Krzycki,15/16,Poland,1750,GKS Tychy 
+"Jan 1, 2015",-,Poland,515,Unattached ,38566,100 Th. €,Lukasz Krzycki,14/15,,12736,GTS Bojszowy 
+"Jul 1, 2014",-,Poland,6112,Piast Gliwice ,38566,100 Th. €,Lukasz Krzycki,14/15,,515,Unattached 
+"Jul 1, 2006",9 Th. €,Poland,1750,GKS Tychy ,38566,-,Lukasz Krzycki,06/07,Poland,6112,Piast Gliwice 
+"Jul 1, 2002",Free transfer,Poland,15504,Piast Gliwice II ,38566,-,Lukasz Krzycki,02/03,Poland,1750,GKS Tychy 
+"Jan 1, 2002",-,Poland,15525,Piast Gliwice U19 ,38566,-,Lukasz Krzycki,01/02,Poland,15504,Piast Gliwice II 
+"Jul 15, 2015",Free transfer,Poland,2300,J. Bialystok ,78508,200 Th. €,Lukasz Tyminski,15/16,Poland,3291,Gornik Leczna 
+"Jun 30, 2014",End of loan,Poland,1882,OKS Brzesko ,78508,250 Th. €,Lukasz Tyminski,13/14,Poland,2300,J. Bialystok 
+"Feb 19, 2014",Loan,Poland,2300,J. Bialystok ,78508,250 Th. €,Lukasz Tyminski,13/14,Poland,1882,OKS Brzesko 
+"Dec 31, 2013",End of loan,Poland,318,Ruch Chorzow ,78508,250 Th. €,Lukasz Tyminski,13/14,Poland,2300,J. Bialystok 
+"Jan 16, 2013",Loan,Poland,2300,J. Bialystok ,78508,350 Th. €,Lukasz Tyminski,12/13,Poland,318,Ruch Chorzow 
+"Jul 1, 2011",80 Th. €,Poland,7976,Polonia Bytom ,78508,150 Th. €,Lukasz Tyminski,11/12,Poland,2300,J. Bialystok 
+"Jan 1, 2011",75 Th. €,Poland,759,Slask Wroclaw ,78508,125 Th. €,Lukasz Tyminski,10/11,Poland,7976,Polonia Bytom 
+"Dec 1, 2010",End of loan,Poland,7976,Polonia Bytom ,78508,125 Th. €,Lukasz Tyminski,10/11,Poland,759,Slask Wroclaw 
+"Feb 1, 2010",Loan,Poland,759,Slask Wroclaw ,78508,50 Th. €,Lukasz Tyminski,09/10,Poland,7976,Polonia Bytom 
+"Feb 1, 2008",Free transfer,Poland,31992,C-G Zywiec ,78508,-,Lukasz Tyminski,07/08,Poland,759,Slask Wroclaw 
+"Jun 30, 2007",End of loan,Poland,20842,Skalka Zabnica ,78508,-,Lukasz Tyminski,06/07,Poland,31992,C-G Zywiec 
+"Jan 1, 2007",Loan,Poland,31992,C-G Zywiec ,78508,-,Lukasz Tyminski,06/07,Poland,20842,Skalka Zabnica 
+"Jul 24, 2015",Free transfer,Poland,31004,Chelmianka Chelm ,103597,50 Th. €,Mateusz Olszak,15/16,Poland,29403,Wisla Pulawy 
+"Mar 1, 2013",-,Poland,515,Unattached ,103597,50 Th. €,Mateusz Olszak,12/13,,31004,Chelmianka Chelm 
+"Jan 1, 2013",-,Poland,238,Lech Poznan ,103597,50 Th. €,Mateusz Olszak,12/13,,515,Unattached 
+"Dec 31, 2012",End of loan,Poland,28893,P. Niepolomice ,103597,50 Th. €,Mateusz Olszak,12/13,Poland,238,Lech Poznan 
+"Feb 9, 2012",Loan,Poland,238,Lech Poznan ,103597,50 Th. €,Mateusz Olszak,11/12,Poland,28893,P. Niepolomice 
+"Dec 31, 2011",End of loan,Poland,29403,Wisla Pulawy ,103597,50 Th. €,Mateusz Olszak,11/12,Poland,238,Lech Poznan 
+"Jul 11, 2011",Loan,Poland,238,Lech Poznan ,103597,50 Th. €,Mateusz Olszak,11/12,Poland,29403,Wisla Pulawy 
+"Aug 1, 2008",10 Th. €,Poland,29403,Wisla Pulawy ,103597,-,Mateusz Olszak,08/09,Poland,238,Lech Poznan 
+"Jan 1, 2005",Free transfer,Poland,8667,Kaszubia Koscierzyna ,32947,-,Piotr Wisniewski,04/05,Poland,4000,Lechia Gdansk 
+"Jan 1, 2016",Free transfer,Montenegro,10883,FK Mladost ,61110,500 Th. €,Damir Kojasevic,15/16,Macedonia,77,Vardar 
+"Aug 13, 2015",Free transfer,Kazakhstan,22220,FC Astana ,61110,500 Th. €,Damir Kojasevic,15/16,Montenegro,10883,FK Mladost 
+"Jun 30, 2015",End of loan,Uzbekistan,15309,Loko Tashkent ,61110,500 Th. €,Damir Kojasevic,14/15,Kazakhstan,22220,FC Astana 
+"Feb 19, 2015",Loan,Kazakhstan,22220,FC Astana ,61110,500 Th. €,Damir Kojasevic,14/15,Uzbekistan,15309,Loko Tashkent 
+"Jan 30, 2013",?,Montenegro,4391,B. Podgorica ,61110,500 Th. €,Damir Kojasevic,12/13,Kazakhstan,22220,FC Astana 
+"Dec 31, 2012",End of loan,Kazakhstan,22220,FC Astana ,61110,500 Th. €,Damir Kojasevic,12/13,Montenegro,4391,B. Podgorica 
+"Jul 1, 2012",Loan,Montenegro,4391,B. Podgorica ,61110,600 Th. €,Damir Kojasevic,12/13,Kazakhstan,22220,FC Astana 
+"Jan 1, 2012",?,Bosnia-Herzegovina,282,FK Sarajevo ,61110,600 Th. €,Damir Kojasevic,11/12,Montenegro,4391,B. Podgorica 
+"Jul 1, 2010",Free transfer,Montenegro,1004,FK Zeta Golubovac ,61110,250 Th. €,Damir Kojasevic,10/11,Bosnia-Herzegovina,282,FK Sarajevo 
+"Mar 1, 2010",Free transfer,Poland,2300,J. Bialystok ,61110,250 Th. €,Damir Kojasevic,09/10,Montenegro,1004,FK Zeta Golubovac 
+"Dec 1, 2009",End of loan,Poland,3291,Gornik Leczna ,61110,250 Th. €,Damir Kojasevic,09/10,Poland,2300,J. Bialystok 
+"Aug 1, 2009",Loan,Poland,2300,J. Bialystok ,61110,75 Th. €,Damir Kojasevic,09/10,Poland,3291,Gornik Leczna 
+"Jul 1, 2008",300 Th. €,Montenegro,11065,FK Decic Tuzi ,61110,-,Damir Kojasevic,08/09,Poland,2300,J. Bialystok 
+"Mar 10, 2015",-,Poland,515,Unattached ,68793,200 Th. €,Piotr Kasperkiewicz,14/15,,23113,MKS Kluczbork 
+"Jul 1, 2014",-,Poland,8936,Miedz Legnica ,68793,200 Th. €,Piotr Kasperkiewicz,14/15,,515,Unattached 
+"Jul 23, 2012",Free transfer,Poland,6107,Arka Gdynia ,68793,125 Th. €,Piotr Kasperkiewicz,12/13,Poland,8936,Miedz Legnica 
+"Jul 1, 2011",Free transfer,Poland,4000,Lechia Gdansk ,68793,125 Th. €,Piotr Kasperkiewicz,11/12,Poland,6107,Arka Gdynia 
+"Jun 30, 2011",End of loan,Poland,6106,Tur Turek ,68793,125 Th. €,Piotr Kasperkiewicz,10/11,Poland,4000,Lechia Gdansk 
+"Feb 1, 2011",Loan,Poland,4000,Lechia Gdansk ,68793,125 Th. €,Piotr Kasperkiewicz,10/11,Poland,6106,Tur Turek 
+"Dec 31, 2010",End of loan,Poland,26564,Grudziadz ,68793,125 Th. €,Piotr Kasperkiewicz,10/11,Poland,4000,Lechia Gdansk 
+"Aug 1, 2010",Loan,Poland,4000,Lechia Gdansk ,68793,125 Th. €,Piotr Kasperkiewicz,10/11,Poland,26564,Grudziadz 
+"Jun 30, 2010",End of loan,Poland,9109,Znicz Pruszkow ,68793,125 Th. €,Piotr Kasperkiewicz,09/10,Poland,4000,Lechia Gdansk 
+"Feb 1, 2010",Loan,Poland,4000,Lechia Gdansk ,68793,100 Th. €,Piotr Kasperkiewicz,09/10,Poland,9109,Znicz Pruszkow 
+"Jul 1, 2007",65 Th. €,Poland,8737,Kmita Zabierzów ,68793,-,Piotr Kasperkiewicz,07/08,Poland,4000,Lechia Gdansk 
+"Aug 1, 2006",Free transfer,Poland,9160,Gornik Leczyca ,68793,-,Piotr Kasperkiewicz,06/07,Poland,8737,Kmita Zabierzów 
+"Jul 1, 2015",Free transfer,Poland,15726,Jarota Jarocin ,70850,100 Th. €,Lukasz Bialozyt,15/16,Poland,7146,Warta Poznan 
+"Aug 27, 2014",Free transfer,Poland,28887,Chojnice ,70850,100 Th. €,Lukasz Bialozyt,14/15,Poland,15726,Jarota Jarocin 
+"Jul 25, 2014",Free transfer,Poland,7154,Radomiak ,70850,100 Th. €,Lukasz Bialozyt,14/15,Poland,28887,Chojnice 
+"Jul 19, 2013",?,Poland,7146,Warta Poznan ,70850,100 Th. €,Lukasz Bialozyt,13/14,Poland,7154,Radomiak 
+"Jun 30, 2013",End of loan,Poland,15726,Jarota Jarocin ,70850,100 Th. €,Lukasz Bialozyt,12/13,Poland,7146,Warta Poznan 
+"Feb 1, 2012",Loan,Poland,7146,Warta Poznan ,70850,100 Th. €,Lukasz Bialozyt,11/12,Poland,15726,Jarota Jarocin 
+"Jan 1, 2011",Free transfer,Poland,238,Lech Poznan ,70850,100 Th. €,Lukasz Bialozyt,10/11,Poland,7146,Warta Poznan 
+"Dec 1, 2010",End of loan,Poland,1305,Odra Wodzislaw ,70850,100 Th. €,Lukasz Bialozyt,10/11,Poland,238,Lech Poznan 
+"Jul 1, 2010",Loan,Poland,238,Lech Poznan ,70850,50 Th. €,Lukasz Bialozyt,10/11,Poland,1305,Odra Wodzislaw 
+"Jun 30, 2010",End of loan,Poland,12407,Stilon ,70850,50 Th. €,Lukasz Bialozyt,09/10,Poland,238,Lech Poznan 
+"Jan 1, 2010",Loan,Poland,238,Lech Poznan ,70850,50 Th. €,Lukasz Bialozyt,09/10,Poland,12407,Stilon 
+"Jul 1, 2009",-,Poland,8468,Lech Poznan II ,70850,-,Lukasz Bialozyt,09/10,Poland,238,Lech Poznan 
+"Jul 1, 2007",Free transfer,Poland,15597,Amica Wronki U19 ,70850,-,Lukasz Bialozyt,07/08,Poland,8468,Lech Poznan II 
+"Jan 14, 2016",-,Bulgaria,40388,Neftochimik ,34499,-,Lyubcho Lyubenov,15/16,,123,End of career 
+"Jul 1, 2015",?,Bulgaria,50076,FK Burgas ,34499,75 Th. €,Lyubcho Lyubenov,15/16,Bulgaria,40388,Neftochimik 
+"Jul 1, 2014",,Macedonia,534,Pelister Bitola ,34499,75 Th. €,Lyubcho Lyubenov,14/15,Bulgaria,50076,FK Burgas 
+"Aug 29, 2013",Free transfer,Bulgaria,712,FK Etar ,34499,100 Th. €,Lyubcho Lyubenov,13/14,Macedonia,534,Pelister Bitola 
+"Feb 15, 2013",-,Poland,6116,Olimpia Elblag ,34499,100 Th. €,Lyubcho Lyubenov,12/13,Bulgaria,712,FK Etar 
+"Oct 1, 2010",Free transfer,Poland,6107,Arka Gdynia ,34499,225 Th. €,Lyubcho Lyubenov,10/11,Poland,6116,Olimpia Elblag 
+"Feb 1, 2009",Free transfer,Bulgaria,4494,Chern. Burgas ,34499,300 Th. €,Lyubcho Lyubenov,08/09,Poland,6107,Arka Gdynia 
+"Jul 1, 2007",Free transfer,Bulgaria,13288,Naftex ,34499,300 Th. €,Lyubcho Lyubenov,07/08,Bulgaria,4494,Chern. Burgas 
+"Jul 1, 2006",Free transfer,Bulgaria,271,Litex Lovetch ,34499,300 Th. €,Lyubcho Lyubenov,06/07,Bulgaria,13288,Naftex 
+"Jul 1, 2005",Free transfer,Bulgaria,977,FC Rodopa ,34499,-,Lyubcho Lyubenov,05/06,Bulgaria,271,Litex Lovetch 
+"Jan 1, 2005",Free transfer,Bulgaria,156,Levski Sofia ,34499,-,Lyubcho Lyubenov,04/05,Bulgaria,977,FC Rodopa 
+"Dec 1, 2003",Free transfer,Bulgaria,5284,Marek Dupnitsa ,34499,-,Lyubcho Lyubenov,03/04,Bulgaria,156,Levski Sofia 
+"Jul 1, 2001",Free transfer,Bulgaria,208,CSKA Sofia ,34499,-,Lyubcho Lyubenov,01/02,Bulgaria,5284,Marek Dupnitsa 
+"Jan 1, 2001",-,Bulgaria,4503,Spartak Pleven ,34499,-,Lyubcho Lyubenov,00/01,Bulgaria,208,CSKA Sofia 
+"Jul 1, 2000",-,Bulgaria,8321,PFK Nesebar ,34499,-,Lyubcho Lyubenov,00/01,Bulgaria,4503,Spartak Pleven 
+"Jan 1, 2000",Free transfer,Bulgaria,208,CSKA Sofia ,34499,-,Lyubcho Lyubenov,99/00,Bulgaria,8321,PFK Nesebar 
+"Jul 1, 1999",-,Bulgaria,9525,ZSKA Sofia U19 ,34499,-,Lyubcho Lyubenov,99/00,Bulgaria,208,CSKA Sofia 
+"Jul 5, 2013",?,Poland,7146,Warta Poznan ,70853,225 Th. €,Wojciech Wilczynski,13/14,Poland,28536,Bytovia Bytow 
+"Feb 28, 2013",Free transfer,Poland,6107,Arka Gdynia ,70853,225 Th. €,Wojciech Wilczynski,12/13,Poland,7146,Warta Poznan 
+"Jan 11, 2013",End of loan,Poland,8984,Sandecja ,70853,225 Th. €,Wojciech Wilczynski,12/13,Poland,6107,Arka Gdynia 
+"Jul 31, 2012",Loan,Poland,6107,Arka Gdynia ,70853,275 Th. €,Wojciech Wilczynski,12/13,Poland,8984,Sandecja 
+"Jun 30, 2012",End of loan,Poland,7976,Polonia Bytom ,70853,275 Th. €,Wojciech Wilczynski,11/12,Poland,6107,Arka Gdynia 
+"Feb 1, 2012",Loan,Poland,6107,Arka Gdynia ,70853,275 Th. €,Wojciech Wilczynski,11/12,Poland,7976,Polonia Bytom 
+"Jan 1, 2009",-,Poland,8632,Arka Gdynia II ,70853,50 Th. €,Wojciech Wilczynski,08/09,Poland,6107,Arka Gdynia 
+"Jul 1, 2007",-,Poland,15483,Arka U19 ,70853,-,Wojciech Wilczynski,07/08,Poland,8632,Arka Gdynia II 
+"Feb 18, 2013",-,Poland,515,Unattached ,32456,225 Th. €,Dariusz Kolodziej,12/13,,6361,Podbeskidzie 
+"Mar 1, 2012",-,Poland,6361,Podbeskidzie ,32456,225 Th. €,Dariusz Kolodziej,11/12,,515,Unattached 
+"Aug 1, 2009",48 Th. €,Poland,428,G. Zabrze ,32456,100 Th. €,Dariusz Kolodziej,09/10,Poland,6361,Podbeskidzie 
+"Jul 1, 2008",Free transfer,Poland,6361,Podbeskidzie ,32456,-,Dariusz Kolodziej,08/09,Poland,428,G. Zabrze 
+"Jul 1, 2005",?,Poland,530,Hutnik Krakow ,32456,-,Dariusz Kolodziej,05/06,Poland,6361,Podbeskidzie 
+"Jul 1, 2014",Free transfer,Poland,318,Ruch Chorzow ,77002,250 Th. €,Michal Buchalik,14/15,Poland,422,Wisla Kraków 
+"Aug 30, 2013",Free transfer,Poland,4000,Lechia Gdansk ,77002,200 Th. €,Michal Buchalik,13/14,Poland,318,Ruch Chorzow 
+"Jul 1, 2011",Free transfer,Poland,1305,Odra Wodzislaw ,77002,250 Th. €,Michal Buchalik,11/12,Poland,4000,Lechia Gdansk 
+"Jul 1, 2008",20 Th. €,Poland,22475,ROW Rybnik ,77002,-,Michal Buchalik,08/09,Poland,1305,Odra Wodzislaw 
+"Jul 10, 2015",Free transfer,Croatia,6087,Medjimurje ,27855,100 Th. €,Gordan Golik,15/16,Croatia,11278,NK Vinogradar 
+"Sep 10, 2012",Free transfer,Slovenia,23253,NK Zavrc ,27855,100 Th. €,Gordan Golik,12/13,Croatia,6087,Medjimurje 
+"Jul 1, 2012",Free transfer,Croatia,599,NK Varazdin ,27855,150 Th. €,Gordan Golik,12/13,Slovenia,23253,NK Zavrc 
+"Sep 1, 2011",-,Croatia,515,Unattached ,27855,225 Th. €,Gordan Golik,11/12,,599,NK Varazdin 
+"Jul 1, 2010",-,Poland,238,Lech Poznan ,27855,225 Th. €,Gordan Golik,10/11,,515,Unattached 
+"Jan 1, 2009",250 Th. €,Croatia,599,Varteks ,27855,450 Th. €,Gordan Golik,08/09,Poland,238,Lech Poznan 
+"Jul 1, 2003",-,Croatia,14448,Varteks U19 ,27855,-,Gordan Golik,03/04,Croatia,599,Varteks 
+"Feb 9, 2016",?,Serbia,12135,FK Metalac ,37072,250 Th. €,Dejan Djenic,15/16,Montenegro,4949,FK Bokelj 
+"Feb 9, 2015",?,Serbia,2209,Borac Cacak ,37072,300 Th. €,Dejan Djenic,14/15,Serbia,12135,FK Metalac 
+"Jan 13, 2014",?,Lithuania,3850,Ekranas ,37072,250 Th. €,Dejan Djenic,13/14,Serbia,2209,Borac Cacak 
+"Jul 1, 2013",?,Serbia,12132,Jagodina ,37072,400 Th. €,Dejan Djenic,13/14,Lithuania,3850,Ekranas 
+"Jul 1, 2010",?,Serbia,10319,FK Bezanija ,37072,-,Dejan Djenic,10/11,Serbia,12132,Jagodina 
+"Feb 1, 2010",Free transfer,Poland,256,LKS Lodz ,37072,-,Dejan Djenic,09/10,Serbia,10319,FK Bezanija 
+"Feb 1, 2009",25 Th. €,Montenegro,8357,Jedinstvo Bijelo Polje ,37072,-,Dejan Djenic,08/09,Poland,256,LKS Lodz 
+"Jul 1, 2008",?,Azerbaijan,13329,Standard Sumqayit ,37072,-,Dejan Djenic,08/09,Montenegro,8357,Jedinstvo Bijelo Polje 
+"Jul 1, 2007",?,Serbia,4633,Novi Pazar ,37072,-,Dejan Djenic,07/08,Azerbaijan,13329,Standard Sumqayit 
+"Jan 1, 2007",?,Netherlands,4779,Heerenveen U19 ,37072,-,Dejan Djenic,06/07,Serbia,4633,Novi Pazar 
+"Jul 1, 2006",Free transfer,Slovenia,3812,Drava Ptuj ,37072,-,Dejan Djenic,06/07,Netherlands,4779,Heerenveen U19 
+"Feb 1, 2006",400 Th. €,Serbia,2209,Borac Cacak ,37072,-,Dejan Djenic,05/06,Slovenia,3812,Drava Ptuj 
+"Jan 1, 2016",Free transfer,Czech Republic,377,Banik Ostrava ,74975,200 Th. €,Jaroslav Machovec,15/16,Slovakia,18963,Spartak Myjava 
+"Sep 13, 2015",Free transfer,Czech Republic,1321,C. Budejovice ,74975,200 Th. €,Jaroslav Machovec,15/16,Czech Republic,377,Banik Ostrava 
+"Sep 1, 2011",?,Slovakia,365,Spartak Trnava ,74975,150 Th. €,Jaroslav Machovec,11/12,Czech Republic,1321,C. Budejovice 
+"Jul 1, 2010",?,Slovakia,2781,Petrzalka ,74975,100 Th. €,Jaroslav Machovec,10/11,Slovakia,365,Spartak Trnava 
+"Jan 1, 2010",Free transfer,Poland,1305,Odra Wodzislaw ,74975,100 Th. €,Jaroslav Machovec,09/10,Slovakia,2781,Petrzalka 
+"Jan 1, 2009",Free transfer,Cyprus,10816,Agia Napa ,74975,-,Jaroslav Machovec,08/09,Poland,1305,Odra Wodzislaw 
+"Jul 1, 2008",Free transfer,Slovakia,1562,FC Nitra ,74975,-,Jaroslav Machovec,08/09,Cyprus,10816,Agia Napa 
+"Sep 8, 2014",?,Croatia,9074,NK Imotski ,28384,250 Th. €,Tomislav Basic,14/15,Croatia,2416,NK Konavljanin 
+"Feb 15, 2013",Free transfer,Iran,27771,Hamyari Arak ,28384,250 Th. €,Tomislav Basic,12/13,Croatia,9074,NK Imotski 
+"Jan 1, 2011",Free transfer,Croatia,9074,NK Imotski ,28384,250 Th. €,Tomislav Basic,10/11,Iran,27771,Hamyari Arak 
+"Aug 1, 2010",?,Poland,7153,Zawisza ,28384,250 Th. €,Tomislav Basic,10/11,Croatia,9074,NK Imotski 
+"Jan 1, 2010",Free transfer,Poland,6107,Arka Gdynia ,28384,250 Th. €,Tomislav Basic,09/10,Poland,7153,Zawisza 
+"Aug 1, 2008",35 Th. €,Bosnia-Herzegovina,1014,HSK Posusje ,28384,300 Th. €,Tomislav Basic,08/09,Poland,6107,Arka Gdynia 
+"Jan 1, 2008",Free transfer,Croatia,6087,Medjimurje ,28384,300 Th. €,Tomislav Basic,07/08,Bosnia-Herzegovina,1014,HSK Posusje 
+"Jul 1, 2007",?,Bosnia-Herzegovina,1242,Siroki Brijeg ,28384,200 Th. €,Tomislav Basic,07/08,Croatia,6087,Medjimurje 
+"Jan 1, 2006",?,Bosnia-Herzegovina,1014,HSK Posusje ,28384,-,Tomislav Basic,05/06,Bosnia-Herzegovina,1242,Siroki Brijeg 
+"Sep 15, 2015",-,Lebanon,515,Unattached ,46306,100 Th. €,Marjan Jugovic,15/16,,32563,Al-Ahly 
+"Feb 15, 2015",?,Indonesia,36633,Barito Putera ,46306,100 Th. €,Marjan Jugovic,14/15,,515,Unattached 
+"Oct 16, 2014",Free transfer,Bosnia-Herzegovina,14621,Zvijezda G. ,46306,100 Th. €,Marjan Jugovic,14/15,Indonesia,36633,Barito Putera 
+"Feb 26, 2014",Free transfer,Iceland,8037,Keflavík ÍF ,46306,100 Th. €,Marjan Jugovic,13/14,Bosnia-Herzegovina,14621,Zvijezda G. 
+"Mar 21, 2013",Free transfer,Bahrain,25258,Busaiteen Club ,46306,100 Th. €,Marjan Jugovic,12/13,Iceland,8037,Keflavík ÍF 
+"Jan 1, 2013",Free transfer,Serbia,18382,Sloga Kraljevo ,46306,100 Th. €,Marjan Jugovic,12/13,Bahrain,25258,Busaiteen Club 
+"Jul 1, 2012",?,Syria,13678,Al Ittihad Aleppo ,46306,100 Th. €,Marjan Jugovic,12/13,Serbia,18382,Sloga Kraljevo 
+"Jan 1, 2011",?,Serbia,788,Napredak ,46306,200 Th. €,Marjan Jugovic,10/11,Syria,13678,Al Ittihad Aleppo 
+"Jul 1, 2010",?,Montenegro,1004,FK Zeta Golubovac ,46306,200 Th. €,Marjan Jugovic,10/11,Serbia,788,Napredak 
+"Feb 1, 2010",Free transfer,Poland,7976,Polonia Bytom ,46306,200 Th. €,Marjan Jugovic,09/10,Montenegro,1004,FK Zeta Golubovac 
+"Jan 28, 2009",Free transfer,Poland,2118,Wisla Plock ,46306,100 Th. €,Marjan Jugovic,08/09,Poland,7976,Polonia Bytom 
+"Jul 1, 2008",Free transfer,Serbia,6622,Mladost Lucani ,46306,100 Th. €,Marjan Jugovic,08/09,Poland,2118,Wisla Plock 
+"Feb 8, 2008",?,Bosnia-Herzegovina,2573,Zeljeznicar ,46306,100 Th. €,Marjan Jugovic,07/08,Serbia,6622,Mladost Lucani 
+"Jul 1, 2006",?,Serbia,788,Napredak ,46306,-,Marjan Jugovic,06/07,Bosnia-Herzegovina,2573,Zeljeznicar 
+"Jul 9, 2014",50 Th. €,Bosnia-Herzegovina,3900,B. Banja Luka ,52453,175 Th. €,Haris Handzic,14/15,Russia,28095,Ufa 
+"Feb 18, 2014",?,Switzerland,163,FC Vaduz ,52453,175 Th. €,Haris Handzic,13/14,Bosnia-Herzegovina,3900,B. Banja Luka 
+"Jul 1, 2013",Free transfer,Bosnia-Herzegovina,24197,Rudar Prijedor ,52453,200 Th. €,Haris Handzic,13/14,Switzerland,163,FC Vaduz 
+"Aug 1, 2012",?,Bosnia-Herzegovina,628,Velez Mostar ,52453,125 Th. €,Haris Handzic,12/13,Bosnia-Herzegovina,24197,Rudar Prijedor 
+"Mar 1, 2012",Free transfer,Bosnia-Herzegovina,282,FK Sarajevo ,52453,200 Th. €,Haris Handzic,11/12,Bosnia-Herzegovina,628,Velez Mostar 
+"Aug 1, 2010",Free transfer,Poland,238,Lech Poznan ,52453,400 Th. €,Haris Handzic,10/11,Bosnia-Herzegovina,282,FK Sarajevo 
+"Jun 30, 2010",End of loan,Bosnia-Herzegovina,282,FK Sarajevo ,52453,400 Th. €,Haris Handzic,09/10,Poland,238,Lech Poznan 
+"Jan 1, 2010",Loan,Poland,238,Lech Poznan ,52453,500 Th. €,Haris Handzic,09/10,Bosnia-Herzegovina,282,FK Sarajevo 
+"Jan 1, 2009",170 Th. €,Bosnia-Herzegovina,282,FK Sarajevo ,52453,600 Th. €,Haris Handzic,08/09,Poland,238,Lech Poznan 
+"Jul 1, 2007",-,Bosnia-Herzegovina,5610,FK Sarajevo U19 ,52453,-,Haris Handzic,07/08,Bosnia-Herzegovina,282,FK Sarajevo 
+"Jan 1, 2010",-,Poland,4000,Lechia Gdansk ,39142,50 Th. €,Boris Radovanovic,09/10,,515,Unattached 
+"Aug 1, 2008",Free transfer,Bosnia-Herzegovina,1014,HSK Posusje ,39142,-,Boris Radovanovic,08/09,Poland,4000,Lechia Gdansk 
+"Jan 1, 2008",?,Croatia,8892,Graficar V. ,39142,-,Boris Radovanovic,07/08,Bosnia-Herzegovina,1014,HSK Posusje 
+"Jul 28, 2014",Free transfer,Poland,8641,Stalowa Wola ,33004,100 Th. €,Mariusz Sacha,14/15,Poland,38796,LKS Drzewiarz 
+"Jan 30, 2014",Free transfer,Poland,7976,Polonia Bytom ,33004,100 Th. €,Mariusz Sacha,13/14,Poland,8641,Stalowa Wola 
+"Feb 28, 2013",Free transfer,Poland,6361,Podbeskidzie ,33004,200 Th. €,Mariusz Sacha,12/13,Poland,7976,Polonia Bytom 
+"Jul 10, 2011",75 Th. €,Poland,5689,Cracovia Kraków ,33004,375 Th. €,Mariusz Sacha,11/12,Poland,6361,Podbeskidzie 
+"Jan 31, 2009",150 Th. €,Poland,6361,Podbeskidzie ,33004,225 Th. €,Mariusz Sacha,08/09,Poland,5689,Cracovia Kraków 
+"Jan 1, 2005",Free transfer,Poland,8639,SMS Bielsko-Biala ,33004,-,Mariusz Sacha,04/05,Poland,6361,Podbeskidzie 
+"Sep 1, 2010",Free transfer,Poland,759,Slask Wroclaw ,101106,50 Th. €,Pawel Trojan,10/11,Poland,12295,Orzel Zabkowice Slaskie 
+"Jan 1, 2009",-,Poland,22568,Sl. Wroclaw II ,101106,-,Pawel Trojan,08/09,Poland,759,Slask Wroclaw 
+"Jun 30, 2008",End of loan,Poland,8894,Arka Nowa Sol ,101106,-,Pawel Trojan,07/08,Poland,22568,Sl. Wroclaw II 
+"Jan 1, 2008",Loan,Poland,22568,Sl. Wroclaw II ,101106,-,Pawel Trojan,07/08,Poland,8894,Arka Nowa Sol 
+"Jul 1, 2005",-,Poland,15530,Slask U19 ,101106,-,Pawel Trojan,05/06,Poland,22568,Sl. Wroclaw II 
+"Feb 5, 2016",Free transfer,Saudi Arabia,17209,Al-Wahda ,108793,300 Th. €,Lukasz Gikiewicz,15/16,Thailand,35387,Ratchaburi FC 
+"Sep 15, 2015",Free transfer,Bulgaria,156,Levski Sofia ,108793,300 Th. €,Lukasz Gikiewicz,15/16,Saudi Arabia,17209,Al-Wahda 
+"Feb 16, 2015",Free transfer,Cyprus,786,AEL Limassol ,108793,400 Th. €,Lukasz Gikiewicz,14/15,Bulgaria,156,Levski Sofia 
+"Jul 4, 2014",Free transfer,Kazakhstan,10481,Tobol Kostanay ,108793,400 Th. €,Lukasz Gikiewicz,14/15,Cyprus,786,AEL Limassol 
+"Mar 2, 2014",Free transfer,Cyprus,829,Omonia Nikosia ,108793,400 Th. €,Lukasz Gikiewicz,13/14,Kazakhstan,10481,Tobol Kostanay 
+"Jul 1, 2013",Free transfer,Poland,759,Slask Wroclaw ,108793,400 Th. €,Lukasz Gikiewicz,13/14,Cyprus,829,Omonia Nikosia 
+"Jul 1, 2010",Free transfer,Poland,256,LKS Lodz ,108793,350 Th. €,Lukasz Gikiewicz,10/11,Poland,759,Slask Wroclaw 
+"Aug 1, 2009",Free transfer,Poland,7976,Polonia Bytom ,108793,100 Th. €,Lukasz Gikiewicz,09/10,Poland,256,LKS Lodz 
+"Feb 1, 2009",Free transfer,Poland,8642,Unia Janikowo ,108793,-,Lukasz Gikiewicz,08/09,Poland,7976,Polonia Bytom 
+"Jul 1, 2008",Free transfer,Poland,10453,Wigry Suwalki ,108793,-,Lukasz Gikiewicz,08/09,Poland,8642,Unia Janikowo 
+"Sep 1, 2007",Free transfer,Poland,6116,Olimpia Elblag ,108793,-,Lukasz Gikiewicz,07/08,Poland,10453,Wigry Suwalki 
+"Aug 1, 2007",Free transfer,Poland,8051,Drweca NML ,108793,-,Lukasz Gikiewicz,07/08,Poland,6116,Olimpia Elblag 
+"Jul 1, 2012",40 Th. €,Poland,6107,Arka Gdynia ,82173,350 Th. €,Marcin Budzinski,12/13,Poland,5689,Cracovia Kraków 
+"Jun 30, 2012",End of loan,Poland,5689,Cracovia Kraków ,82173,350 Th. €,Marcin Budzinski,11/12,Poland,6107,Arka Gdynia 
+"Jan 17, 2012",Loan fee:10 Th. €,Poland,6107,Arka Gdynia ,82173,425 Th. €,Marcin Budzinski,11/12,Poland,5689,Cracovia Kraków 
+"Jul 1, 2008",-,Poland,15483,Arka U19 ,82173,-,Marcin Budzinski,08/09,Poland,6107,Arka Gdynia 
+"Jan 22, 2016",225 Th. €,Italy,4102,Carpi ,78590,700 Th. €,Kamil Wilczek,15/16,Denmark,206,Bröndby IF 
+"Jul 1, 2015",Free transfer,Poland,6112,Piast Gliwice ,78590,850 Th. €,Kamil Wilczek,15/16,Italy,4102,Carpi 
+"Jul 1, 2013",Free transfer,Poland,168,Zaglebie Lubin ,78590,300 Th. €,Kamil Wilczek,13/14,Poland,6112,Piast Gliwice 
+"Jul 1, 2010",350 Th. €,Poland,6112,Piast Gliwice ,78590,300 Th. €,Kamil Wilczek,10/11,Poland,168,Zaglebie Lubin 
+"Jan 1, 2009",Free transfer,Poland,9104,GKS Jastrzebie ,78590,-,Kamil Wilczek,08/09,Poland,6112,Piast Gliwice 
+"Sep 1, 2007",Free transfer,Spain,12317,Elche Ilicitano ,78590,-,Kamil Wilczek,07/08,Poland,9104,GKS Jastrzebie 
+"Jan 1, 2007",Free transfer,Spain,13322,UD Horadada ,78590,-,Kamil Wilczek,06/07,Spain,12317,Elche Ilicitano 
+"Jul 1, 2006",Free transfer,Poland,29652,Silesia Lubomia ,78590,-,Kamil Wilczek,06/07,Spain,13322,UD Horadada 
+"Jul 1, 2005",Free transfer,Poland,35925,WSP Wodzislaw ,78590,-,Kamil Wilczek,05/06,Poland,29652,Silesia Lubomia 
+"Jul 1, 2012",-,Poland,759,Slask Wroclaw ,35072,225 Th. €,Dariusz Sztylka,12/13,,123,End of career 
+"Jan 1, 2001",?,Poland,6115,Polar Wroclaw ,35072,-,Dariusz Sztylka,00/01,Poland,759,Slask Wroclaw 
+"Jan 1, 1999",?,Poland,168,Zaglebie Lubin ,35072,-,Dariusz Sztylka,98/99,Poland,6115,Polar Wroclaw 
+"Jun 30, 1998",End of loan,Poland,6115,Polar Wroclaw ,35072,-,Dariusz Sztylka,97/98,Poland,168,Zaglebie Lubin 
+"Jan 1, 1998",Loan,Poland,168,Zaglebie Lubin ,35072,-,Dariusz Sztylka,97/98,Poland,6115,Polar Wroclaw 
+"Jul 1, 2015",Free transfer,Poland,422,Wisla Kraków ,46340,"1,50 Mill. €",Semir Stilic,15/16,Cyprus,2784,APOEL Nicosia 
+"Jan 23, 2014",Free transfer,Turkey,524,Gaziantepspor ,46340,"1,30 Mill. €",Semir Stilic,13/14,Poland,422,Wisla Kraków 
+"Aug 1, 2013",Free transfer,Ukraine,2477,Karpaty ,46340,"1,30 Mill. €",Semir Stilic,13/14,Turkey,524,Gaziantepspor 
+"Jul 23, 2012",Free transfer,Poland,238,Lech Poznan ,46340,"2,50 Mill. €",Semir Stilic,12/13,Ukraine,2477,Karpaty 
+"Jul 1, 2008",600 Th. €,Bosnia-Herzegovina,2573,Zeljeznicar ,46340,"1,25 Mill. €",Semir Stilic,08/09,Poland,238,Lech Poznan 
+"Jul 1, 2005",-,Bosnia-Herzegovina,11252,Zeljeznicar U19 ,46340,-,Semir Stilic,05/06,Bosnia-Herzegovina,2573,Zeljeznicar 
+"Aug 11, 2012",Free transfer,Poland,10126,F. Swinoujscie ,47881,125 Th. €,Damian Misan,12/13,Poland,38922,Kamienna Gora 
+"Feb 15, 2011",Free transfer,Cyprus,31804,Spartakos Kitiou ,47881,125 Th. €,Damian Misan,10/11,Poland,10126,F. Swinoujscie 
+"Aug 10, 2010",Free transfer,Poland,4781,Gornik W. ,47881,125 Th. €,Damian Misan,10/11,Cyprus,31804,Spartakos Kitiou 
+"Feb 27, 2010",Free transfer,Poland,5689,Cracovia Kraków ,47881,125 Th. €,Damian Misan,09/10,Poland,4781,Gornik W. 
+"Jan 19, 2009",28 Th. €,Poland,8936,Miedz Legnica ,47881,300 Th. €,Damian Misan,08/09,Poland,5689,Cracovia Kraków 
+"Jul 1, 2005",Free transfer,Poland,38922,Kamienna Gora ,47881,-,Damian Misan,05/06,Poland,8936,Miedz Legnica 
+"Feb 12, 2016",?,Montenegro,4639,Mornar Bar ,36108,100 Th. €,Sasa Ivanovic,15/16,Montenegro,12888,Kom Podgorica 
+"Aug 3, 2014",?,Montenegro,11065,FK Decic Tuzi ,36108,100 Th. €,Sasa Ivanovic,14/15,Montenegro,4639,Mornar Bar 
+"Jan 30, 2014",?,Montenegro,1004,FK Zeta Golubovac ,36108,100 Th. €,Sasa Ivanovic,13/14,Montenegro,11065,FK Decic Tuzi 
+"Nov 1, 2009",Free transfer,Poland,256,LKS Lodz ,36108,100 Th. €,Sasa Ivanovic,09/10,Montenegro,1004,FK Zeta Golubovac 
+"Jul 1, 2008",60 Th. €,Montenegro,1004,FK Zeta Golubovac ,36108,500 Th. €,Sasa Ivanovic,08/09,Poland,256,LKS Lodz 
+"Jan 1, 2012",?,Poland,31141,Wlokniarz Konstantynow Lodzki ,110349,50 Th. €,Wojciech Mordzakowski,11/12,Poland,8722,Zawisza Rzgow 
+"Jul 1, 2011",-,Poland,256,LKS Lodz ,110349,50 Th. €,Wojciech Mordzakowski,11/12,Poland,31141,Wlokniarz Konstantynow Lodzki 
+"Jun 30, 2010",End of loan,Poland,6559,Pelikan Lowicz ,110349,125 Th. €,Wojciech Mordzakowski,09/10,Poland,256,LKS Lodz 
+"Mar 1, 2010",Loan,Poland,256,LKS Lodz ,110349,125 Th. €,Wojciech Mordzakowski,09/10,Poland,6559,Pelikan Lowicz 
+"Jul 1, 2008",-,Poland,16402,LKS Lodz II ,110349,-,Wojciech Mordzakowski,08/09,Poland,256,LKS Lodz 
+"Jul 1, 2005",-,Poland,15523,LKS U19 ,110349,-,Wojciech Mordzakowski,05/06,Poland,16402,LKS Lodz II 
+"Jul 1, 2012",Free transfer,Poland,9655,Lechia ZG ,104212,50 Th. €,Michal Kojder,12/13,Poland,23113,MKS Kluczbork 
+"Jan 1, 2010",Free transfer,Poland,6107,Arka Gdynia ,104212,50 Th. €,Michal Kojder,09/10,Poland,9655,Lechia ZG 
+"Dec 31, 2009",End of loan,Poland,4868,Górnik Polkowice ,104212,50 Th. €,Michal Kojder,09/10,Poland,6107,Arka Gdynia 
+"Jul 1, 2009",Loan,Poland,6107,Arka Gdynia ,104212,50 Th. €,Michal Kojder,09/10,Poland,4868,Górnik Polkowice 
+"Feb 1, 2009",15 Th. €,Poland,9655,Lechia ZG ,104212,-,Michal Kojder,08/09,Poland,6107,Arka Gdynia 
+"Jul 1, 2007",Free transfer,Poland,42552,UKP Zielona U19 ,104212,-,Michal Kojder,07/08,Poland,9655,Lechia ZG 
+"Jan 1, 2015",Free transfer,Peru,31337,Unión Comercio ,94489,200 Th. €,Michael Guevara,14/15,Peru,37578,Los Caimanes 
+"Sep 1, 2014",Free transfer,Peru,21170,Club UTC ,94489,200 Th. €,Michael Guevara,14/15,Peru,31337,Unión Comercio 
+"Jan 1, 2014",Free transfer,Colombia,6984,Once Caldas ,94489,200 Th. €,Michael Guevara,13/14,Peru,21170,Club UTC 
+"Jul 1, 2013",Free transfer,Peru,4576,Juan Aurich ,94489,200 Th. €,Michael Guevara,13/14,Colombia,6984,Once Caldas 
+"Jan 1, 2012",?,Peru,2730,Sport Boys ,94489,200 Th. €,Michael Guevara,11/12,Peru,4576,Juan Aurich 
+"Jan 1, 2010",?,Peru,21184,CNI ,94489,200 Th. €,Michael Guevara,09/10,Peru,2730,Sport Boys 
+"Jul 1, 2009",Free transfer,Poland,2300,J. Bialystok ,94489,200 Th. €,Michael Guevara,09/10,Peru,21184,CNI 
+"Jan 1, 2009",50 Th. €,Peru,6889,César Vallejo ,94489,200 Th. €,Michael Guevara,08/09,Poland,2300,J. Bialystok 
+"Jul 1, 2008",?,Peru,4576,Juan Aurich ,94489,-,Michael Guevara,08/09,Peru,6889,César Vallejo 
+"Jan 1, 2008",?,Peru,6593,Universitario ,94489,-,Michael Guevara,07/08,Peru,4576,Juan Aurich 
+"Jul 1, 2007",?,Peru,2730,Sport Boys ,94489,-,Michael Guevara,07/08,Peru,6593,Universitario 
+"Jul 1, 2006",?,Peru,17475,Union Huaral ,94489,-,Michael Guevara,06/07,Peru,2730,Sport Boys 
+"Jan 1, 2006",?,Peru,6593,Universitario ,94489,-,Michael Guevara,05/06,Peru,17475,Union Huaral 
+"Jan 1, 2003",-,Peru,21161,Universit. U20 ,94489,-,Michael Guevara,02/03,Peru,6593,Universitario 
+"Jul 1, 2016",-,Poland,24553,O. Zambrow ,108828,-,Michal Twardowski,16/17,,515,Unattached 
+"Jun 1, 2015",Free transfer,Poland,30545,Gryf Wejherowo ,108828,100 Th. €,Michal Twardowski,14/15,Poland,24553,O. Zambrow 
+"Jan 1, 2014",Free transfer,Poland,31378,Plomien Elk ,108828,100 Th. €,Michal Twardowski,13/14,Poland,30545,Gryf Wejherowo 
+"Aug 5, 2012",Free transfer,Poland,10453,Wigry Suwalki ,108828,100 Th. €,Michal Twardowski,12/13,Poland,31378,Plomien Elk 
+"Feb 28, 2012",Free transfer,Poland,2300,J. Bialystok ,108828,100 Th. €,Michal Twardowski,11/12,Poland,10453,Wigry Suwalki 
+"Dec 31, 2011",End of loan,Poland,10704,CWKS Resovia ,108828,100 Th. €,Michal Twardowski,11/12,Poland,2300,J. Bialystok 
+"Jul 1, 2011",Loan,Poland,2300,J. Bialystok ,108828,100 Th. €,Michal Twardowski,11/12,Poland,10704,CWKS Resovia 
+"Jun 30, 2011",End of loan,Poland,2118,Wisla Plock ,108828,100 Th. €,Michal Twardowski,10/11,Poland,2300,J. Bialystok 
+"Jul 1, 2010",Loan,Poland,2300,J. Bialystok ,108828,75 Th. €,Michal Twardowski,10/11,Poland,2118,Wisla Plock 
+"Jun 30, 2010",End of loan,Poland,8612,Ruch Wysokie Mazowieckie ,108828,75 Th. €,Michal Twardowski,09/10,Poland,2300,J. Bialystok 
+"Jul 1, 2009",Loan,Poland,2300,J. Bialystok ,108828,-,Michal Twardowski,09/10,Poland,8612,Ruch Wysokie Mazowieckie 
+"Jan 1, 2009",?,Poland,8612,Ruch Wysokie Mazowieckie ,108828,-,Michal Twardowski,08/09,Poland,2300,J. Bialystok 
+"Jul 1, 2008",?,Poland,32638,Sparta Augustow ,108828,-,Michal Twardowski,08/09,Poland,8612,Ruch Wysokie Mazowieckie 
+"Jul 1, 2016",-,Poland,8936,Miedz Legnica ,35101,100 Th. €,Marek Gancarczyk,16/17,,515,Unattached 
+"Jul 1, 2015",Free transfer,Poland,28887,Chojnice ,35101,100 Th. €,Marek Gancarczyk,15/16,Poland,8936,Miedz Legnica 
+"Nov 26, 2013",-,Poland,515,Unattached ,35101,-,Marek Gancarczyk,13/14,,28887,Chojnice 
+"Jul 1, 2013",-,Germany,4017,Markranstädt ,35101,-,Marek Gancarczyk,13/14,,515,Unattached 
+"Jan 29, 2013",Free transfer,Poland,17471,MKS Olawa ,35101,250 Th. €,Marek Gancarczyk,12/13,Germany,4017,Markranstädt 
+"Nov 8, 2012",-,Poland,515,Unattached ,35101,250 Th. €,Marek Gancarczyk,12/13,,17471,MKS Olawa 
+"Jul 1, 2012",-,Poland,759,Slask Wroclaw ,35101,250 Th. €,Marek Gancarczyk,12/13,,515,Unattached 
+"Jun 30, 2012",End of loan,Poland,256,LKS Lodz ,35101,250 Th. €,Marek Gancarczyk,11/12,Poland,759,Slask Wroclaw 
+"Feb 1, 2012",Loan,Poland,759,Slask Wroclaw ,35101,300 Th. €,Marek Gancarczyk,11/12,Poland,256,LKS Lodz 
+"Jul 1, 2007",35 Th. €,Poland,4868,Górnik Polkowice ,35101,-,Marek Gancarczyk,07/08,Poland,759,Slask Wroclaw 
+"Jul 1, 2004",Free transfer,Poland,17471,MKS Olawa ,35101,-,Marek Gancarczyk,04/05,Poland,4868,Górnik Polkowice 
+"Jul 1, 2012",Free transfer,Poland,10891,Gornik Zabrze II ,95013,175 Th. €,Mariusz Gancarczyk,12/13,Poland,21605,Slavia R. Sl. 
+"Jul 1, 2011",-,Poland,428,G. Zabrze ,95013,175 Th. €,Mariusz Gancarczyk,11/12,Poland,10891,Gornik Zabrze II 
+"Jun 30, 2011",End of loan,Poland,22475,ROW Rybnik ,95013,175 Th. €,Mariusz Gancarczyk,10/11,Poland,428,G. Zabrze 
+"Jan 30, 2011",Loan,Poland,428,G. Zabrze ,95013,175 Th. €,Mariusz Gancarczyk,10/11,Poland,22475,ROW Rybnik 
+"Jul 1, 2008",-,Poland,10891,Gornik Zabrze II ,95013,-,Mariusz Gancarczyk,08/09,Poland,428,G. Zabrze 
+"Jul 10, 2015",Free transfer,Romania,312,Dinamo Bukarest ,95197,900 Th. €,Kamil Bilinski,15/16,Poland,759,Slask Wroclaw 
+"Jan 10, 2014",Free transfer,Lithuania,602,Zalgiris ,95197,350 Th. €,Kamil Bilinski,13/14,Romania,312,Dinamo Bukarest 
+"Jul 18, 2012",Free transfer,Poland,759,Slask Wroclaw ,95197,175 Th. €,Kamil Bilinski,12/13,Lithuania,602,Zalgiris 
+"Jun 30, 2012",End of loan,Poland,2118,Wisla Plock ,95197,175 Th. €,Kamil Bilinski,11/12,Poland,759,Slask Wroclaw 
+"Feb 1, 2011",Loan,Poland,759,Slask Wroclaw ,95197,175 Th. €,Kamil Bilinski,10/11,Poland,2118,Wisla Plock 
+"Dec 31, 2010",End of loan,Poland,4868,Górnik Polkowice ,95197,175 Th. €,Kamil Bilinski,10/11,Poland,759,Slask Wroclaw 
+"Jul 1, 2010",Loan,Poland,759,Slask Wroclaw ,95197,225 Th. €,Kamil Bilinski,10/11,Poland,4868,Górnik Polkowice 
+"Jun 30, 2010",End of loan,Poland,9109,Znicz Pruszkow ,95197,225 Th. €,Kamil Bilinski,09/10,Poland,759,Slask Wroclaw 
+"Jan 1, 2010",Loan,Poland,759,Slask Wroclaw ,95197,200 Th. €,Kamil Bilinski,09/10,Poland,9109,Znicz Pruszkow 
+"Dec 31, 2007",End of loan,Poland,27855,Gawin ,95197,-,Kamil Bilinski,07/08,Poland,759,Slask Wroclaw 
+"Aug 1, 2007",Loan,Poland,759,Slask Wroclaw ,95197,-,Kamil Bilinski,07/08,Poland,27855,Gawin 
+"Jul 1, 2006",-,Poland,22568,Sl. Wroclaw II ,95197,-,Kamil Bilinski,06/07,Poland,759,Slask Wroclaw 
+"Jul 1, 2005",-,Poland,15530,Slask U19 ,95197,-,Kamil Bilinski,05/06,Poland,22568,Sl. Wroclaw II 
+"Jul 1, 2010",?,Croatia,419,Dinamo Zagreb ,24628,300 Th. €,Ivan Turina †,10/11,Sweden,272,AIK Solna 
+"Jan 1, 2010",Free transfer,Poland,238,Lech Poznan ,24628,575 Th. €,Ivan Turina †,09/10,Croatia,419,Dinamo Zagreb 
+"Aug 1, 2008",200 Th. €,Greece,128,AO Xanthi ,24628,700 Th. €,Ivan Turina †,08/09,Poland,238,Lech Poznan 
+"Jul 1, 2007",Free transfer,Croatia,419,Dinamo Zagreb ,24628,650 Th. €,Ivan Turina †,07/08,Greece,128,AO Xanthi 
+"Jun 30, 2003",End of loan,Croatia,327,NK Osijek ,24628,-,Ivan Turina †,02/03,Croatia,419,Dinamo Zagreb 
+"Aug 1, 2002",Loan,Croatia,419,Dinamo Zagreb ,24628,-,Ivan Turina †,02/03,Croatia,327,NK Osijek 
+"Jun 30, 2002",End of loan,Croatia,2776,Kamen Ingrad ,24628,-,Ivan Turina †,01/02,Croatia,419,Dinamo Zagreb 
+"Jul 1, 2001",Loan,Croatia,419,Dinamo Zagreb ,24628,-,Ivan Turina †,01/02,Croatia,2776,Kamen Ingrad 
+"Jun 30, 2000",End of loan,Croatia,5111,Croatia Sesvete ,24628,-,Ivan Turina †,99/00,Croatia,419,Dinamo Zagreb 
+"Jul 1, 1999",Loan,Croatia,419,Dinamo Zagreb ,24628,-,Ivan Turina †,99/00,Croatia,5111,Croatia Sesvete 
+"Jul 7, 2014",Free transfer,Poland,4533,Kolejarz Stroze ,98106,200 Th. €,Dawid Szufryn,14/15,Poland,8984,Sandecja 
+"Jul 1, 2009",15 Th. €,Poland,7976,Polonia Bytom ,98106,50 Th. €,Dawid Szufryn,09/10,Poland,4533,Kolejarz Stroze 
+"Jan 1, 2009",30 Th. €,Poland,8984,Sandecja ,98106,-,Dawid Szufryn,08/09,Poland,7976,Polonia Bytom 
+"Jul 1, 2005",-,Poland,25757,Sandecja II ,98106,-,Dawid Szufryn,05/06,Poland,8984,Sandecja 
+"Jul 1, 2003",-,Poland,25758,Sandecja U19 ,98106,-,Dawid Szufryn,03/04,Poland,25757,Sandecja II 
+"Feb 1, 2015",Free transfer,Canada,75,Unknown ,100164,100 Th. €,Igor Migalevskyi,14/15,,48084,Atomic Selects 
+"Jul 1, 2014",Free transfer,Poland,3527,Motor Lublin ,100164,100 Th. €,Igor Migalevskyi,14/15,,75,Unknown 
+"Jan 31, 2013",Free transfer,Poland,75,Unknown ,100164,100 Th. €,Igor Migalevskyi,12/13,,3527,Motor Lublin 
+"Jul 18, 2012",Free transfer,Poland,3527,Motor Lublin ,100164,100 Th. €,Igor Migalevskyi,12/13,,75,Unknown 
+"Jul 16, 2011",Free transfer,Poland,14801,Otwock ,100164,150 Th. €,Igor Migalevskyi,11/12,Poland,3527,Motor Lublin 
+"Jul 1, 2010",Free transfer,Poland,6108,Hetman Zamosc ,100164,150 Th. €,Igor Migalevskyi,10/11,Poland,14801,Otwock 
+"Jun 30, 2010",End of loan,Poland,22477,S. Szarowola ,100164,150 Th. €,Igor Migalevskyi,09/10,Poland,6108,Hetman Zamosc 
+"Feb 1, 2010",Loan,Poland,6108,Hetman Zamosc ,100164,150 Th. €,Igor Migalevskyi,09/10,Poland,22477,S. Szarowola 
+"Dec 31, 2009",End of loan,Poland,8641,Stalowa Wola ,100164,150 Th. €,Igor Migalevskyi,09/10,Poland,6108,Hetman Zamosc 
+"Jul 1, 2009",Loan,Poland,6108,Hetman Zamosc ,100164,75 Th. €,Igor Migalevskyi,09/10,Poland,8641,Stalowa Wola 
+"Jun 30, 2009",End of loan,Poland,716,GKS Belchatow ,100164,75 Th. €,Igor Migalevskyi,08/09,Poland,6108,Hetman Zamosc 
+"Jan 1, 2009",Loan fee:5 Th. €,Poland,6108,Hetman Zamosc ,100164,-,Igor Migalevskyi,08/09,Poland,716,GKS Belchatow 
+"Jan 1, 2008",Free transfer,Poland,22477,S. Szarowola ,100164,-,Igor Migalevskyi,07/08,Poland,6108,Hetman Zamosc 
+"Jul 1, 2007",?,Ukraine,2477,Karpaty ,100164,-,Igor Migalevskyi,07/08,Poland,22477,S. Szarowola 
+"Jan 1, 2007",?,Ukraine,75,Unknown ,100164,-,Igor Migalevskyi,06/07,,2477,Karpaty 
+"Jan 1, 2002",?,Ukraine,36890,Karpaty U17 ,100164,-,Igor Migalevskyi,01/02,,75,Unknown 
+"Jul 1, 2016",-,Poland,28536,Bytovia Bytow ,40076,100 Th. €,Daniel Maka,16/17,,515,Unattached 
+"Jul 4, 2014",Free transfer,Poland,1750,GKS Tychy ,40076,200 Th. €,Daniel Maka,14/15,Poland,28536,Bytovia Bytow 
+"Jul 26, 2013",Free transfer,Poland,7153,Zawisza ,40076,250 Th. €,Daniel Maka,13/14,Poland,1750,GKS Tychy 
+"Jul 9, 2012",?,Poland,7976,Polonia Bytom ,40076,200 Th. €,Daniel Maka,12/13,Poland,7153,Zawisza 
+"Aug 6, 2011",Free transfer,Poland,2745,Pol. Warsaw ,40076,200 Th. €,Daniel Maka,11/12,Poland,7976,Polonia Bytom 
+"Jun 30, 2011",End of loan,Poland,15906,Termalica ,40076,200 Th. €,Daniel Maka,10/11,Poland,2745,Pol. Warsaw 
+"Aug 3, 2010",Loan fee:15 Th. €,Poland,2745,Pol. Warsaw ,40076,425 Th. €,Daniel Maka,10/11,Poland,15906,Termalica 
+"May 1, 2006",-,Poland,8848,Polonia Warsaw II ,40076,-,Daniel Maka,05/06,Poland,2745,Pol. Warsaw 
+"Jul 1, 2005",?,Poland,4890,Agrykola Warszawa ,40076,-,Daniel Maka,05/06,Poland,8848,Polonia Warsaw II 
+"Jul 1, 2015",-,Greece,515,Unattached ,32591,250 Th. €,Krzysztof Krol,15/16,,28956,AEL Kalloni 
+"Feb 12, 2015",-,United States,4078,Montreal ,32591,300 Th. €,Krzysztof Krol,14/15,,515,Unattached 
+"Jul 1, 2014",Free transfer,Poland,6112,Piast Gliwice ,32591,300 Th. €,Krzysztof Krol,14/15,United States,4078,Montreal 
+"Jul 1, 2013",Free transfer,Moldova,2481,Sheriff ,32591,300 Th. €,Krzysztof Krol,13/14,Poland,6112,Piast Gliwice 
+"Feb 17, 2013",Free transfer,Poland,6361,Podbeskidzie ,32591,300 Th. €,Krzysztof Krol,12/13,Moldova,2481,Sheriff 
+"Jul 18, 2011",Free transfer,Poland,2300,J. Bialystok ,32591,275 Th. €,Krzysztof Krol,11/12,Poland,6361,Podbeskidzie 
+"Jun 30, 2011",End of loan,Poland,7976,Polonia Bytom ,32591,275 Th. €,Krzysztof Krol,10/11,Poland,2300,J. Bialystok 
+"Jan 17, 2011",Loan,Poland,2300,J. Bialystok ,32591,325 Th. €,Krzysztof Krol,10/11,Poland,7976,Polonia Bytom 
+"Dec 31, 2010",End of loan,United States,432,Chicago ,32591,325 Th. €,Krzysztof Krol,10/11,Poland,2300,J. Bialystok 
+"Jan 19, 2010",Loan fee:60 Th. €,Poland,2300,J. Bialystok ,32591,325 Th. €,Krzysztof Krol,09/10,United States,432,Chicago 
+"Jul 1, 2008",70 Th. €,Spain,6767,R. M. Castilla ,32591,-,Krzysztof Krol,08/09,Poland,2300,J. Bialystok 
+"Jan 1, 2007",Free transfer,Poland,2775,Grodzisk ,32591,100 Th. €,Krzysztof Krol,06/07,Spain,6767,R. M. Castilla 
+"Aug 1, 2006",Free transfer,Poland,7491,Amica Wronki II ,32591,100 Th. €,Krzysztof Krol,06/07,Poland,2775,Grodzisk 
+"Jan 1, 2006",Free transfer,Poland,35925,WSP Wodzislaw ,32591,50 Th. €,Krzysztof Krol,05/06,Poland,7491,Amica Wronki II 
+"Jul 1, 2009",-,Poland,6107,Arka Gdynia ,1362,-,Dariusz Zuraw,09/10,,123,End of career 
+"Jul 1, 2008",Free transfer,Germany,42,Hannover 96 ,1362,600 Th. €,Dariusz Zuraw,08/09,Poland,6107,Arka Gdynia 
+"Oct 1, 2001",175 Th. €,Poland,168,Zaglebie Lubin ,1362,-,Dariusz Zuraw,01/02,Germany,42,Hannover 96 
+"Dec 31, 2016",End of loan,Kazakhstan,10540,Irtysh ,79189,300 Th. €,Georgas Freidgeimas,16/17,Lithuania,602,Zalgiris 
+"Feb 8, 2016",Loan,Lithuania,602,Zalgiris ,79189,300 Th. €,Georgas Freidgeimas,15/16,Kazakhstan,10540,Irtysh 
+"Jan 1, 2011",?,Lithuania,5970,Siauliai ,79189,75 Th. €,Georgas Freidgeimas,10/11,Lithuania,602,Zalgiris 
+"Aug 1, 2010",Free transfer,Lithuania,5956,Vetra Vilnius ,79189,75 Th. €,Georgas Freidgeimas,10/11,Lithuania,5970,Siauliai 
+"Mar 1, 2010",Free transfer,Poland,256,LKS Lodz ,79189,125 Th. €,Georgas Freidgeimas,09/10,Lithuania,5956,Vetra Vilnius 
+"Jul 1, 2008",Free transfer,Lithuania,8608,FC Vilnius ,79189,-,Georgas Freidgeimas,08/09,Poland,256,LKS Lodz 
+"Feb 1, 2015",?,Poland,21738,MLKS Wozniki ,88377,50 Th. €,Robert Wojsyk,14/15,Poland,9239,Radzionkow 
+"Jul 1, 2014",?,Poland,7976,Polonia Bytom ,88377,50 Th. €,Robert Wojsyk,14/15,Poland,21738,MLKS Wozniki 
+"Jan 1, 2014",End of loan,Poland,11843,Rozwój Katowice ,88377,50 Th. €,Robert Wojsyk,13/14,Poland,7976,Polonia Bytom 
+"Aug 30, 2013",Loan,Poland,7976,Polonia Bytom ,88377,50 Th. €,Robert Wojsyk,13/14,Poland,11843,Rozwój Katowice 
+"Jan 14, 2013",-,Poland,515,Unattached ,88377,-,Robert Wojsyk,12/13,,7976,Polonia Bytom 
+"Jan 1, 2012",-,Poland,7976,Polonia Bytom ,88377,100 Th. €,Robert Wojsyk,11/12,,515,Unattached 
+"Jun 30, 2010",End of loan,Poland,1750,GKS Tychy ,88377,50 Th. €,Robert Wojsyk,09/10,Poland,7976,Polonia Bytom 
+"Aug 25, 2009",Loan,Poland,7976,Polonia Bytom ,88377,50 Th. €,Robert Wojsyk,09/10,Poland,1750,GKS Tychy 
+"Jul 1, 2008",-,Poland,15527,Polonia Bytom U19 ,88377,-,Robert Wojsyk,08/09,Poland,7976,Polonia Bytom 
+"Jul 27, 2015",Free transfer,Poland,32007,Limanovia ,68952,-,Lukasz Derbich,15/16,Germany,4219,Ein. Rudolstadt 
+"Jan 15, 2015",bez odstępnego,Poland,42565,KKS Kalisz ,68952,100 Th. €,Lukasz Derbich,14/15,Poland,32007,Limanovia 
+"Aug 14, 2014",Free transfer,Poland,6559,Pelikan Lowicz ,68952,100 Th. €,Lukasz Derbich,14/15,Poland,42565,KKS Kalisz 
+"Feb 4, 2014",Free transfer,Poland,7154,Radomiak ,68952,100 Th. €,Lukasz Derbich,13/14,Poland,6559,Pelikan Lowicz 
+"Jul 28, 2012",Free transfer,Poland,6116,Olimpia Elblag ,68952,125 Th. €,Lukasz Derbich,12/13,Poland,7154,Radomiak 
+"Feb 23, 2012",Free transfer,Poland,8984,Sandecja ,68952,125 Th. €,Lukasz Derbich,11/12,Poland,6116,Olimpia Elblag 
+"Jul 9, 2011",Free transfer,Poland,5689,Cracovia Kraków ,68952,275 Th. €,Lukasz Derbich,11/12,Poland,8984,Sandecja 
+"Jun 30, 2011",End of loan,Poland,318,Ruch Chorzow ,68952,275 Th. €,Lukasz Derbich,10/11,Poland,5689,Cracovia Kraków 
+"Aug 1, 2010",Loan,Poland,5689,Cracovia Kraków ,68952,450 Th. €,Lukasz Derbich,10/11,Poland,318,Ruch Chorzow 
+"Feb 1, 2009",25 Th. €,Poland,6106,Tur Turek ,68952,225 Th. €,Lukasz Derbich,08/09,Poland,5689,Cracovia Kraków 
+"Jul 1, 2006",Free transfer,Poland,75,Unknown ,68952,-,Lukasz Derbich,06/07,,6106,Tur Turek 
+"Jul 1, 2015",Free transfer,Scotland,1519,Dundee United ,34652,500 Th. €,Jaroslaw Fojut,15/16,Poland,324,Pogon Szczecin 
+"Jul 14, 2014",Free transfer,Norway,1293,Tromsö ,34652,800 Th. €,Jaroslaw Fojut,14/15,Scotland,1519,Dundee United 
+"Jan 1, 2013",-,Norway,515,Unattached ,34652,900 Th. €,Jaroslaw Fojut,12/13,,1293,Tromsö 
+"Jul 1, 2012",-,Poland,759,Slask Wroclaw ,34652,900 Th. €,Jaroslaw Fojut,12/13,,515,Unattached 
+"Feb 11, 2009",125 Th. €,England,355,Bolton ,34652,200 Th. €,Jaroslaw Fojut,08/09,Poland,759,Slask Wroclaw 
+"Nov 30, 2008",End of loan,England,1098,Stockport ,34652,200 Th. €,Jaroslaw Fojut,08/09,England,355,Bolton 
+"Oct 8, 2008",Loan,England,355,Bolton ,34652,200 Th. €,Jaroslaw Fojut,08/09,England,1098,Stockport 
+"Dec 31, 2007",End of loan,England,1031,Luton Town ,34652,200 Th. €,Jaroslaw Fojut,07/08,England,355,Bolton 
+"Aug 31, 2007",Loan,England,355,Bolton ,34652,200 Th. €,Jaroslaw Fojut,07/08,England,1031,Luton Town 
+"Jul 1, 2004",25 Th. €,Poland,2593,MSP Szamotuly ,34652,-,Jaroslaw Fojut,04/05,England,355,Bolton 
+"Aug 28, 2014",?,Poland,17471,MKS Olawa ,54623,175 Th. €,Janusz Gancarczyk,14/15,Poland,5699,Odra Opole 
+"Aug 8, 2014",Free transfer,Poland,6456,GKS Katowice ,54623,175 Th. €,Janusz Gancarczyk,14/15,Poland,17471,MKS Olawa 
+"Mar 16, 2013",Free transfer,Poland,168,Zaglebie Lubin ,54623,150 Th. €,Janusz Gancarczyk,12/13,Poland,6456,GKS Katowice 
+"Jul 11, 2011",Free transfer,Poland,2745,Pol. Warsaw ,54623,475 Th. €,Janusz Gancarczyk,11/12,Poland,168,Zaglebie Lubin 
+"Jan 18, 2010",75 Th. €,Poland,759,Slask Wroclaw ,54623,800 Th. €,Janusz Gancarczyk,09/10,Poland,2745,Pol. Warsaw 
+"Aug 1, 2007",?,Poland,4868,Górnik Polkowice ,54623,-,Janusz Gancarczyk,07/08,Poland,759,Slask Wroclaw 
+"Jul 1, 2006",?,Poland,17471,MKS Olawa ,54623,-,Janusz Gancarczyk,06/07,Poland,4868,Górnik Polkowice 
+"Feb 11, 2016",?,Poland,7976,Polonia Bytom ,45409,-,Jacek Broniewicz,15/16,Poland,22475,ROW Rybnik 
+"Aug 24, 2012",Free transfer,Poland,6361,Podbeskidzie ,45409,175 Th. €,Jacek Broniewicz,12/13,Poland,7976,Polonia Bytom 
+"Feb 1, 2010",Free transfer,Poland,7976,Polonia Bytom ,45409,150 Th. €,Jacek Broniewicz,09/10,Poland,6361,Podbeskidzie 
+"Jul 1, 2008",Free transfer,Poland,2745,Pol. Warsaw ,45409,-,Jacek Broniewicz,08/09,Poland,7976,Polonia Bytom 
+"Jan 1, 2007",?,Poland,7976,Polonia Bytom ,45409,-,Jacek Broniewicz,06/07,Poland,2745,Pol. Warsaw 
+"Dec 1, 2004",?,Poland,29701,Wlokniarz Kietrz ,45409,-,Jacek Broniewicz,04/05,Poland,7976,Polonia Bytom 
+"Feb 1, 2015",?,Poland,4869,Gwardia Koszalin ,111468,50 Th. €,Piotr Robakowski,14/15,Poland,35613,GKS Przodkowo 
+"Jul 1, 2014",?,Poland,7154,Radomiak ,111468,50 Th. €,Piotr Robakowski,14/15,Poland,4869,Gwardia Koszalin 
+"Feb 19, 2014",?,Poland,8632,Arka Gdynia II ,111468,50 Th. €,Piotr Robakowski,13/14,Poland,7154,Radomiak 
+"Jul 1, 2011",-,Poland,6107,Arka Gdynia ,111468,50 Th. €,Piotr Robakowski,11/12,Poland,8632,Arka Gdynia II 
+"Jan 1, 2009",-,Poland,8632,Arka Gdynia II ,111468,-,Piotr Robakowski,08/09,Poland,6107,Arka Gdynia 
+"Jul 1, 2008",-,Poland,15483,Arka U19 ,111468,-,Piotr Robakowski,08/09,Poland,8632,Arka Gdynia II 
+"Jul 1, 2014",Free transfer,Germany,16,Bor. Dortmund ,38253,"50,00 Mill. €",Robert Lewandowski,14/15,Germany,27,Bayern Munich  
+"Jul 1, 2010","4,75 Mill. €",Poland,238,Lech Poznan ,38253,"4,50 Mill. €",Robert Lewandowski,10/11,Germany,16,Bor. Dortmund 
+"Jun 18, 2008",380 Th. €,Poland,9109,Znicz Pruszkow ,38253,500 Th. €,Robert Lewandowski,08/09,Poland,238,Lech Poznan 
+"Jul 1, 2006",15 Th. €,Poland,6628,Legia II ,38253,-,Robert Lewandowski,06/07,Poland,9109,Znicz Pruszkow 
+"Jul 1, 2005",Free transfer,Poland,30379,Delta Warszawa ,38253,-,Robert Lewandowski,05/06,Poland,6628,Legia II 
+"Jul 1, 2015",?-,Azerbaijan,13328,Simurq ,33137,200 Th. €,Adam Banas,15/16,,515,Unattached 
+"Aug 10, 2014",Free transfer,Poland,168,Zaglebie Lubin ,33137,400 Th. €,Adam Banas,14/15,Azerbaijan,13328,Simurq 
+"Jan 1, 2012",130 Th. €,Poland,428,G. Zabrze ,33137,400 Th. €,Adam Banas,11/12,Poland,168,Zaglebie Lubin 
+"Jan 1, 2009",115 Th. €,Poland,6112,Piast Gliwice ,33137,-,Adam Banas,08/09,Poland,428,G. Zabrze 
+"Jul 1, 2005",15 Th. €,Poland,9239,Radzionkow ,33137,-,Adam Banas,05/06,Poland,6112,Piast Gliwice 
+"Jan 1, 2000",-,Poland,28682,Ruch Radzionkow U19 ,33137,-,Adam Banas,99/00,Poland,9239,Radzionkow 
+"Jul 1, 2014",-,Poland,23087,Ruch Zd. ,33142,-,Pawel Gamla,14/15,,123,End of career 
+"Feb 27, 2014",Free transfer,Poland,11991,LZS Lesnica ,33142,75 Th. €,Pawel Gamla,13/14,Poland,23087,Ruch Zd. 
+"Aug 10, 2013",Free transfer,Poland,23087,Ruch Zd. ,33142,75 Th. €,Pawel Gamla,13/14,Poland,11991,LZS Lesnica 
+"Jan 16, 2013",Free transfer,Poland,7976,Polonia Bytom ,33142,75 Th. €,Pawel Gamla,12/13,Poland,23087,Ruch Zd. 
+"Jul 1, 2011",Free transfer,Poland,6112,Piast Gliwice ,33142,125 Th. €,Pawel Gamla,11/12,Poland,7976,Polonia Bytom 
+"Jul 1, 2003",20 Th. €,Poland,6108,Hetman Zamosc ,33142,-,Pawel Gamla,03/04,Poland,6112,Piast Gliwice 
+"Jul 1, 1999",Free transfer,Poland,10768,Avia Swidnik ,33142,-,Pawel Gamla,99/00,Poland,6108,Hetman Zamosc 
+"Jan 1, 2013",,Poland,35920,Fortuna G. ,33145,175 Th. €,Jaroslaw Kaszowski,12/13,,123,End of career 
+"Mar 1, 2012",Free transfer,Poland,9239,Radzionkow ,33145,175 Th. €,Jaroslaw Kaszowski,11/12,Poland,35920,Fortuna G. 
+"Jul 1, 2011",Free transfer,Poland,6112,Piast Gliwice ,33145,200 Th. €,Jaroslaw Kaszowski,11/12,Poland,9239,Radzionkow 
+"Jul 1, 1997",-,Poland,15525,Piast Gliwice U19 ,33145,-,Jaroslaw Kaszowski,97/98,Poland,6112,Piast Gliwice 
+"Jul 1, 2013",-,Poland,30545,Gryf Wejherowo ,52605,150 Th. €,Jakub Kaszuba,13/14,,515,Unattached 
+"Feb 5, 2013",-,Poland,515,Unattached ,52605,150 Th. €,Jakub Kaszuba,12/13,,30545,Gryf Wejherowo 
+"Jul 1, 2012",-,Poland,8667,Kaszubia Koscierzyna ,52605,150 Th. €,Jakub Kaszuba,12/13,,515,Unattached 
+"Oct 6, 2011",-,Poland,515,Unattached ,52605,150 Th. €,Jakub Kaszuba,11/12,,8667,Kaszubia Koscierzyna 
+"Jul 1, 2011",-,Poland,11873,Baltyk Gdynia ,52605,150 Th. €,Jakub Kaszuba,11/12,,515,Unattached 
+"Aug 26, 2010",Free transfer,Poland,5689,Cracovia Kraków ,52605,200 Th. €,Jakub Kaszuba,10/11,Poland,11873,Baltyk Gdynia 
+"Jul 1, 2007",10 Th. €,Poland,11873,Baltyk Gdynia ,52605,-,Jakub Kaszuba,07/08,Poland,5689,Cracovia Kraków 
+"Jul 1, 2005",-,Poland,1677,Baltyk Gdynia U19 ,52605,-,Jakub Kaszuba,05/06,Poland,11873,Baltyk Gdynia 
+"Jul 21, 2015",Free transfer,Poland,6112,Piast Gliwice ,33150,350 Th. €,Tomasz Podgorski,15/16,Poland,318,Ruch Chorzow 
+"Jun 30, 2010",End of loan,Poland,7153,Zawisza ,33150,225 Th. €,Tomasz Podgorski,09/10,Poland,6112,Piast Gliwice 
+"Jan 1, 2010",Loan,Poland,6112,Piast Gliwice ,33150,225 Th. €,Tomasz Podgorski,09/10,Poland,7153,Zawisza 
+"Jan 1, 2003",-,Poland,15525,Piast Gliwice U19 ,33150,-,Tomasz Podgorski,02/03,Poland,6112,Piast Gliwice 
+"Jan 6, 2015",250 Th. €,Germany,82,VfL Wolfsburg ,92738,"1,50 Mill. €",Mateusz Klich,14/15,Germany,2,1.FC K'lautern 
+"Jul 1, 2014",750 Th. €,Netherlands,1269,PEC Zwolle ,92738,"2,00 Mill. €",Mateusz Klich,14/15,Germany,82,VfL Wolfsburg 
+"Jul 1, 2013",200 Th. €,Germany,82,VfL Wolfsburg ,92738,750 Th. €,Mateusz Klich,13/14,Netherlands,1269,PEC Zwolle 
+"Jun 30, 2013",End of loan,Netherlands,1269,PEC Zwolle ,92738,750 Th. €,Mateusz Klich,12/13,Germany,82,VfL Wolfsburg 
+"Jan 31, 2013",Loan fee:100 Th. €,Germany,82,VfL Wolfsburg ,92738,500 Th. €,Mateusz Klich,12/13,Netherlands,1269,PEC Zwolle 
+"Jul 1, 2011","1,50 Mill. €",Poland,5689,Cracovia Kraków ,92738,"1,50 Mill. €",Mateusz Klich,11/12,Germany,82,VfL Wolfsburg 
+"Jul 1, 2008",-,Poland,15512,Cracovia U19 ,92738,-,Mateusz Klich,08/09,Poland,5689,Cracovia Kraków 
+"Jan 1, 2009",?,Poland,24553,O. Zambrow ,114581,-,Lukasz Trudnos,08/09,Poland,24554,Sokol Sokolka 
+"Jul 1, 2007",-,Poland,515,Unattached ,114581,-,Lukasz Trudnos,07/08,,24553,O. Zambrow 
+"Jan 1, 2005",-,Poland,2300,J. Bialystok ,114581,-,Lukasz Trudnos,04/05,,515,Unattached 
+"Feb 19, 2013",-,Poland,515,Unattached ,33690,300 Th. €,Krzysztof Ostrowski,12/13,,759,Slask Wroclaw 
+"Jul 1, 2012",-,Poland,88,Widzew Lodz ,33690,300 Th. €,Krzysztof Ostrowski,12/13,,515,Unattached 
+"Aug 1, 2009",60 Th. €,Poland,255,Legia Warszawa ,33690,400 Th. €,Krzysztof Ostrowski,09/10,Poland,88,Widzew Lodz 
+"Feb 1, 2009",50 Th. €,Poland,759,Slask Wroclaw ,33690,300 Th. €,Krzysztof Ostrowski,08/09,Poland,255,Legia Warszawa 
+"Jul 1, 2004",?,Poland,168,Zaglebie Lubin ,33690,-,Krzysztof Ostrowski,04/05,Poland,759,Slask Wroclaw 
+"Jul 1, 2016",-,Poland,6361,Podbeskidzie ,42907,150 Th. €,Wojciech Kaczmarek,16/17,,515,Unattached 
+"Jul 1, 2015",Free transfer,Poland,7153,Zawisza ,42907,200 Th. €,Wojciech Kaczmarek,15/16,Poland,6361,Podbeskidzie 
+"Jul 10, 2012",Free transfer,Poland,5689,Cracovia Kraków ,42907,400 Th. €,Wojciech Kaczmarek,12/13,Poland,7153,Zawisza 
+"Jan 1, 2011",Free transfer,Poland,759,Slask Wroclaw ,42907,325 Th. €,Wojciech Kaczmarek,10/11,Poland,5689,Cracovia Kraków 
+"Sep 1, 2006",Free transfer,Poland,10133,Kania Gostyn ,42907,-,Wojciech Kaczmarek,06/07,Poland,759,Slask Wroclaw 
+"Jul 1, 2004",Free transfer,Poland,6354,Wisla Krakow II ,42907,-,Wojciech Kaczmarek,04/05,Poland,10133,Kania Gostyn 
+"Aug 1, 2012",Free transfer,Poland,28887,Chojnice ,108954,75 Th. €,Mariusz Gogol,12/13,Poland,24553,O. Zambrow 
+"Jan 1, 2012",Free transfer,Poland,2300,J. Bialystok ,108954,75 Th. €,Mariusz Gogol,11/12,Poland,28887,Chojnice 
+"Jun 30, 2011",End of loan,Poland,8612,Ruch Wysokie Mazowieckie ,108954,75 Th. €,Mariusz Gogol,10/11,Poland,2300,J. Bialystok 
+"Feb 1, 2011",Loan,Poland,2300,J. Bialystok ,108954,75 Th. €,Mariusz Gogol,10/11,Poland,8612,Ruch Wysokie Mazowieckie 
+"Feb 1, 2009",-,Poland,15518,Jagiellonia U19 ,108954,-,Mariusz Gogol,08/09,Poland,2300,J. Bialystok 
+"Jul 21, 2015",Free transfer,Poland,33491,GKS Kobierzyce ,33697,100 Th. €,Krzysztof Ulatowski,15/16,Poland,42090,Pol. Trzebnica 
+"Jan 21, 2015",Free transfer,Poland,8377,Chrobry Glogow ,33697,100 Th. €,Krzysztof Ulatowski,14/15,Poland,33491,GKS Kobierzyce 
+"Jul 1, 2012",Free transfer,Poland,23113,MKS Kluczbork ,33697,300 Th. €,Krzysztof Ulatowski,12/13,Poland,8377,Chrobry Glogow 
+"Jan 1, 2011",Free transfer,Poland,759,Slask Wroclaw ,33697,325 Th. €,Krzysztof Ulatowski,10/11,Poland,23113,MKS Kluczbork 
+"Jan 1, 2005",Free transfer,Poland,168,Zaglebie Lubin ,33697,-,Krzysztof Ulatowski,04/05,Poland,759,Slask Wroclaw 
+"Jul 1, 2003",Free transfer,Poland,759,Slask Wroclaw ,33697,-,Krzysztof Ulatowski,03/04,Poland,168,Zaglebie Lubin 
+"Jul 1, 2002",Free transfer,Poland,31511,Inkopax Wroclaw ,33697,-,Krzysztof Ulatowski,02/03,Poland,759,Slask Wroclaw 
+"Jul 1, 2000",?,Poland,42090,Pol. Trzebnica ,33697,-,Krzysztof Ulatowski,00/01,Poland,31511,Inkopax Wroclaw 
+"Jul 1, 2014",-,Poland,8936,Miedz Legnica ,33701,125 Th. €,Krzysztof Wolczek,14/15,Poland,33491,GKS Kobierzyce 
+"Aug 31, 2012",Free transfer,Poland,759,Slask Wroclaw ,33701,200 Th. €,Krzysztof Wolczek,12/13,Poland,8936,Miedz Legnica 
+"Jul 1, 2004",?,Poland,1756,Aluminium Konin ,33701,-,Krzysztof Wolczek,04/05,Poland,759,Slask Wroclaw 
+"Jul 1, 2003",Free transfer,Poland,8904,Pogon Staszow ,33701,-,Krzysztof Wolczek,03/04,Poland,1756,Aluminium Konin 
+"Jan 1, 2003",Free transfer,Poland,168,Zaglebie Lubin ,33701,-,Krzysztof Wolczek,02/03,Poland,8904,Pogon Staszow 
+"Jun 30, 2002",End of loan,Poland,6190,Swit N.D.M. ,33701,-,Krzysztof Wolczek,01/02,Poland,168,Zaglebie Lubin 
+"Oct 1, 2001",Loan,Poland,168,Zaglebie Lubin ,33701,-,Krzysztof Wolczek,01/02,Poland,6190,Swit N.D.M. 
+"Jul 1, 2001",?,Poland,8377,Chrobry Glogow ,33701,-,Krzysztof Wolczek,01/02,Poland,168,Zaglebie Lubin 
+"Jan 1, 2001",Free transfer,Poland,8936,Miedz Legnica ,33701,-,Krzysztof Wolczek,00/01,Poland,8377,Chrobry Glogow 
+"Jan 1, 2000",Free transfer,Poland,168,Zaglebie Lubin ,33701,-,Krzysztof Wolczek,99/00,Poland,8936,Miedz Legnica 
+"Jan 1, 1998",Free transfer,Poland,22588,Sleza Wroclaw ,33701,-,Krzysztof Wolczek,97/98,Poland,168,Zaglebie Lubin 
+"Feb 19, 2016",Free transfer,Poland,6110,Korona Kielce ,43441,250 Th. €,Przemyslaw Trytko,15/16,Kazakhstan,16198,Atyrau 
+"Jul 1, 2013",Free transfer,Germany,113,Carl Zeiss Jena ,43441,125 Th. €,Przemyslaw Trytko,13/14,Poland,6110,Korona Kielce 
+"Jan 17, 2013",Free transfer,Poland,2300,J. Bialystok ,43441,125 Th. €,Przemyslaw Trytko,12/13,Germany,113,Carl Zeiss Jena 
+"Dec 31, 2012",End of loan,Germany,113,Carl Zeiss Jena ,43441,125 Th. €,Przemyslaw Trytko,12/13,Poland,2300,J. Bialystok 
+"Aug 8, 2012",Loan,Poland,2300,J. Bialystok ,43441,250 Th. €,Przemyslaw Trytko,12/13,Germany,113,Carl Zeiss Jena 
+"Jun 30, 2012",End of loan,Poland,7976,Polonia Bytom ,43441,250 Th. €,Przemyslaw Trytko,11/12,Poland,2300,J. Bialystok 
+"Feb 1, 2012",Loan,Poland,2300,J. Bialystok ,43441,250 Th. €,Przemyslaw Trytko,11/12,Poland,7976,Polonia Bytom 
+"Jun 30, 2011",End of loan,Poland,7976,Polonia Bytom ,43441,250 Th. €,Przemyslaw Trytko,10/11,Poland,2300,J. Bialystok 
+"Feb 1, 2011",Loan,Poland,2300,J. Bialystok ,43441,300 Th. €,Przemyslaw Trytko,10/11,Poland,7976,Polonia Bytom 
+"Jul 1, 2010",100 Th. €,Germany,25,Energie Cottbus ,43441,400 Th. €,Przemyslaw Trytko,10/11,Poland,2300,J. Bialystok 
+"Jun 30, 2010",End of loan,Poland,6107,Arka Gdynia ,43441,400 Th. €,Przemyslaw Trytko,09/10,Germany,25,Energie Cottbus 
+"Jul 1, 2008",Loan fee:20 Th. €,Germany,25,Energie Cottbus ,43441,100 Th. €,Przemyslaw Trytko,08/09,Poland,6107,Arka Gdynia 
+"Aug 1, 2006",50 Th. €,Poland,1991,Gwarek Zabrze ,43441,-,Przemyslaw Trytko,06/07,Germany,25,Energie Cottbus 
+"Jul 1, 2005",-,Poland,19278,Gwarek U19 ,43441,-,Przemyslaw Trytko,05/06,Poland,1991,Gwarek Zabrze 
+"Feb 1, 2014",?,Poland,75,Unknown ,42419,200 Th. €,Marcin Pacan,13/14,,31394,Karkonosze Jelenia Gora 
+"Dec 1, 2012",?,Poland,6116,Olimpia Elblag ,42419,200 Th. €,Marcin Pacan,12/13,,75,Unknown 
+"Jul 1, 2011",Free transfer,Poland,2118,Wisla Plock ,42419,200 Th. €,Marcin Pacan,11/12,Poland,6116,Olimpia Elblag 
+"Jul 1, 2009",Free transfer,Poland,2300,J. Bialystok ,42419,100 Th. €,Marcin Pacan,09/10,Poland,2118,Wisla Plock 
+"Jul 1, 2008",Free transfer,Poland,6559,Pelikan Lowicz ,42419,-,Marcin Pacan,08/09,Poland,2300,J. Bialystok 
+"Jul 1, 2007",Free transfer,Poland,7154,Radomiak ,42419,-,Marcin Pacan,07/08,Poland,6559,Pelikan Lowicz 
+"Jul 1, 2006",Free transfer,Poland,8894,Arka Nowa Sol ,42419,-,Marcin Pacan,06/07,Poland,7154,Radomiak 
+"Jan 1, 2006",Free transfer,Poland,8377,Chrobry Glogow ,42419,-,Marcin Pacan,05/06,Poland,8894,Arka Nowa Sol 
+"Feb 10, 2016",?,Singapore,11979,Hougang United ,33206,250 Th. €,Vuk Sotirovic,15/16,Serbia,2209,Borac Cacak 
+"Aug 1, 2015",Free transfer,Serbia,4633,Novi Pazar ,33206,250 Th. €,Vuk Sotirovic,15/16,Singapore,11979,Hougang United 
+"Jan 1, 2015",Free transfer,Serbia,4645,Radnicki 1923 ,33206,250 Th. €,Vuk Sotirovic,14/15,Serbia,4633,Novi Pazar 
+"Aug 27, 2014",?,Serbia,4633,Novi Pazar ,33206,300 Th. €,Vuk Sotirovic,14/15,Serbia,4645,Radnicki 1923 
+"Jan 26, 2014",?,Serbia,8819,Javor Ivanjica ,33206,300 Th. €,Vuk Sotirovic,13/14,Serbia,4633,Novi Pazar 
+"Aug 29, 2013",Free transfer,Cyprus,18945,Nea Salamis ,33206,300 Th. €,Vuk Sotirovic,13/14,Serbia,8819,Javor Ivanjica 
+"Jan 8, 2013",?,Serbia,9060,BSK Borca ,33206,300 Th. €,Vuk Sotirovic,12/13,Cyprus,18945,Nea Salamis 
+"Aug 14, 2012",Free transfer,Poland,324,Pogon Szczecin ,33206,375 Th. €,Vuk Sotirovic,12/13,Serbia,9060,BSK Borca 
+"Jul 1, 2011",Free transfer,Poland,759,Slask Wroclaw ,33206,500 Th. €,Vuk Sotirovic,11/12,Poland,324,Pogon Szczecin 
+"Apr 1, 2011",End of loan,Poland,2300,J. Bialystok ,33206,500 Th. €,Vuk Sotirovic,10/11,Poland,759,Slask Wroclaw 
+"Feb 1, 2011",Loan,Poland,759,Slask Wroclaw ,33206,500 Th. €,Vuk Sotirovic,10/11,Poland,2300,J. Bialystok 
+"Jul 1, 2008",150 Th. €,Poland,2300,J. Bialystok ,33206,400 Th. €,Vuk Sotirovic,08/09,Poland,759,Slask Wroclaw 
+"Feb 1, 2007",?,Poland,7153,Zawisza ,33206,-,Vuk Sotirovic,06/07,Poland,2300,J. Bialystok 
+"Jan 1, 2006",?,Poland,256,LKS Lodz ,33206,-,Vuk Sotirovic,05/06,Poland,7153,Zawisza 
+"Jan 1, 2005",Free transfer,Serbia,4655,Graficar Belgrad ,33206,-,Vuk Sotirovic,04/05,Poland,256,LKS Lodz 
+"Jul 1, 2015",Free transfer,Poland,8984,Sandecja ,40887,150 Th. €,Maciej Bebenek,15/16,Poland,6456,GKS Katowice 
+"Jan 11, 2013",Free transfer,Poland,428,G. Zabrze ,40887,200 Th. €,Maciej Bebenek,12/13,Poland,8984,Sandecja 
+"Jul 1, 2010",120 Th. €,Poland,8984,Sandecja ,40887,300 Th. €,Maciej Bebenek,10/11,Poland,428,G. Zabrze 
+"Jul 1, 2009",20 Th. €,Poland,7976,Polonia Bytom ,40887,225 Th. €,Maciej Bebenek,09/10,Poland,8984,Sandecja 
+"Feb 1, 2009",15 Th. €,Poland,8737,Kmita Zabierzów ,40887,175 Th. €,Maciej Bebenek,08/09,Poland,7976,Polonia Bytom 
+"Aug 1, 2006",?,Poland,88,Widzew Lodz ,40887,-,Maciej Bebenek,06/07,Poland,8737,Kmita Zabierzów 
+"Jul 1, 2006",?,Poland,8737,Kmita Zabierzów ,40887,-,Maciej Bebenek,06/07,Poland,88,Widzew Lodz 
+"Jul 1, 2015",Free transfer,Netherlands,1455,FC Dordrecht ,104376,450 Th. €,Filip Kurto,15/16,Netherlands,798,SBV Excelsior 
+"Jul 24, 2014",Free transfer,Netherlands,192,Roda JC ,104376,500 Th. €,Filip Kurto,14/15,Netherlands,1455,FC Dordrecht 
+"Jul 1, 2012",Free transfer,Poland,422,Wisla Kraków ,104376,150 Th. €,Filip Kurto,12/13,Netherlands,192,Roda JC 
+"Mar 1, 2009",18 Th. €,Poland,9107,Promien Opalenica ,104376,-,Filip Kurto,08/09,Poland,422,Wisla Kraków 
+"Dec 23, 2014",-,Poland,515,Unattached ,97721,250 Th. €,Jakub Smektala,14/15,,7153,Zawisza 
+"Jul 1, 2014",-,Poland,318,Ruch Chorzow ,97721,250 Th. €,Jakub Smektala,14/15,,515,Unattached 
+"Jul 1, 2011",Free transfer,Poland,6112,Piast Gliwice ,97721,275 Th. €,Jakub Smektala,11/12,Poland,318,Ruch Chorzow 
+"Jan 1, 2009",25 Th. €,Poland,15726,Jarota Jarocin ,97721,-,Jakub Smektala,08/09,Poland,6112,Piast Gliwice 
+"Jul 1, 2008",Free transfer,Poland,28534,Piast Kobylin ,97721,-,Jakub Smektala,08/09,Poland,15726,Jarota Jarocin 
+"Jul 1, 2009",Free transfer,Poland,256,LKS Lodz ,97724,-,Stanislaw Terlecki,09/10,,75,Unknown 
+"Jan 1, 2009",?,Poland,9155,GLKS Nadarzyn ,97724,-,Stanislaw Terlecki,08/09,Poland,256,LKS Lodz 
+"Jul 1, 2008",Free transfer,Poland,75,Unknown ,97724,-,Stanislaw Terlecki,08/09,,9155,GLKS Nadarzyn 
+"Feb 1, 2008",Free transfer,Poland,21598,Gwardia ,97724,-,Stanislaw Terlecki,07/08,,75,Unknown 
+"Jun 30, 2007",End of loan,Poland,8937,Stal Glowno ,97724,-,Stanislaw Terlecki,06/07,Poland,21598,Gwardia 
+"Feb 1, 2007",Loan,Poland,21598,Gwardia ,97724,-,Stanislaw Terlecki,06/07,Poland,8937,Stal Glowno 
+"Jan 1, 2007",Free transfer,United States,3313,Robert Morris College (USA) ,97724,-,Stanislaw Terlecki,06/07,Poland,21598,Gwardia 
+"Jul 1, 2005",Free transfer,Poland,21598,Gwardia ,97724,-,Stanislaw Terlecki,05/06,United States,3313,Robert Morris College (USA) 
+"Aug 7, 2012",Free transfer,Poland,15906,Termalica ,97728,150 Th. €,Piotr Trafarski,12/13,Poland,28940,MKS Korsze 
+"Jan 1, 2010",Free transfer,Poland,6116,Olimpia Elblag ,97728,50 Th. €,Piotr Trafarski,09/10,Poland,15906,Termalica 
+"Aug 1, 2009",Free transfer,Poland,4000,Lechia Gdansk ,97728,-,Piotr Trafarski,09/10,Poland,6116,Olimpia Elblag 
+"Jan 1, 2009",15 Th. €,Poland,6116,Olimpia Elblag ,97728,-,Piotr Trafarski,08/09,Poland,4000,Lechia Gdansk 
+"Jul 1, 2006",?,Poland,6556,Jeziorak Ilawa ,97728,-,Piotr Trafarski,06/07,Poland,6116,Olimpia Elblag 
+"Jul 1, 2004",?,Poland,28940,MKS Korsze ,97728,-,Piotr Trafarski,04/05,Poland,6556,Jeziorak Ilawa 
+"Jan 1, 2016",Free transfer,Germany,4219,Ein. Rudolstadt ,107974,-,Daniel Ciach,15/16,Poland,50748,Niechanowo 
+"Jul 27, 2015",Free transfer,Poland,12407,Stilon ,107974,-,Daniel Ciach,15/16,Germany,4219,Ein. Rudolstadt 
+"Jan 1, 2015",-,Poland,515,Unattached ,107974,150 Th. €,Daniel Ciach,14/15,,12407,Stilon 
+"Jan 1, 2014",-,Poland,7154,Radomiak ,107974,150 Th. €,Daniel Ciach,13/14,,515,Unattached 
+"Feb 19, 2013",Free transfer,Poland,7146,Warta Poznan ,107974,150 Th. €,Daniel Ciach,12/13,Poland,7154,Radomiak 
+"Jul 1, 2012",Free transfer,Poland,2745,Pol. Warsaw ,107974,150 Th. €,Daniel Ciach,12/13,Poland,7146,Warta Poznan 
+"Jun 30, 2011",End of loan,Poland,12407,Stilon ,107974,150 Th. €,Daniel Ciach,10/11,Poland,2745,Pol. Warsaw 
+"Jul 1, 2010",Loan,Poland,2745,Pol. Warsaw ,107974,50 Th. €,Daniel Ciach,10/11,Poland,12407,Stilon 
+"Feb 1, 2009",Free transfer,Poland,13395,Pogon Swiebodzin ,107974,-,Daniel Ciach,08/09,Poland,2745,Pol. Warsaw 
+"Jul 1, 2008",Free transfer,Poland,10628,Grodzisk II ,107974,-,Daniel Ciach,08/09,Poland,13395,Pogon Swiebodzin 
+"Jan 1, 2007",-,Poland,15516,Grodzisk U19 ,107974,-,Daniel Ciach,06/07,Poland,10628,Grodzisk II 
+"Feb 6, 2016",Free transfer,Poland,24553,O. Zambrow ,112588,-,Dominik Lemanek,15/16,Poland,32011,MKS Ciechanów 
+"Dec 1, 2014",Free transfer,Poland,2745,Pol. Warsaw ,112588,50 Th. €,Dominik Lemanek,14/15,Poland,24553,O. Zambrow 
+"Jan 14, 2014",?,Poland,9232,Mlawianka Mlawa ,112588,50 Th. €,Dominik Lemanek,13/14,Poland,2745,Pol. Warsaw 
+"Jul 1, 2012",Free transfer,Poland,11873,Baltyk Gdynia ,112588,50 Th. €,Dominik Lemanek,12/13,Poland,9232,Mlawianka Mlawa 
+"Jan 1, 2011",Free transfer,Poland,2745,Pol. Warsaw ,112588,50 Th. €,Dominik Lemanek,10/11,Poland,11873,Baltyk Gdynia 
+"Feb 1, 2009",10 Th. €,Poland,9232,Mlawianka Mlawa ,112588,-,Dominik Lemanek,08/09,Poland,2745,Pol. Warsaw 
+"Jul 1, 2013",-,Czech Republic,7975,FC Vysocina ,25037,200 Th. €,Peter Cvirik,13/14,,515,Unattached 
+"Feb 21, 2013",?,Slovakia,365,Spartak Trnava ,25037,200 Th. €,Peter Cvirik,12/13,Czech Republic,7975,FC Vysocina 
+"Jul 1, 2011",-,Slovakia,515,Unattached ,25037,375 Th. €,Peter Cvirik,11/12,,365,Spartak Trnava 
+"Dec 1, 2010",-,Romania,6429,U Cluj ,25037,375 Th. €,Peter Cvirik,10/11,,515,Unattached 
+"Jul 1, 2010",Free transfer,Poland,4000,Lechia Gdansk ,25037,375 Th. €,Peter Cvirik,10/11,Romania,6429,U Cluj 
+"Jan 1, 2009",Free transfer,Slovakia,6163,FK Senica ,25037,-,Peter Cvirik,08/09,Poland,4000,Lechia Gdansk 
+"Jul 1, 2008",Free transfer,Slovakia,2781,Petrzalka ,25037,-,Peter Cvirik,08/09,Slovakia,6163,FK Senica 
+"Jul 1, 2006",Free transfer,Slovakia,365,Spartak Trnava ,25037,-,Peter Cvirik,06/07,Slovakia,2781,Artmedia Brat. 
+"Jul 1, 2004",Free transfer,Slovakia,2779,Puchov ,25037,-,Peter Cvirik,04/05,Slovakia,365,Spartak Trnava 
+"Jul 1, 2002",Free transfer,Slovakia,1443,MSK Zilina ,25037,-,Peter Cvirik,02/03,Slovakia,2779,Puchov 
+"Jul 1, 2000",?,Slovakia,4786,Banska Bystrica ,25037,-,Peter Cvirik,00/01,Slovakia,1443,MSK Zilina 
+"Aug 1, 1999",?,Slovakia,24520,Levice ,25037,-,Peter Cvirik,99/00,Slovakia,4786,Banska Bystrica 
+"Jul 23, 2014",Free transfer,Poland,7153,Zawisza ,10707,200 Th. €,Sebastian Dudek,14/15,Poland,6560,Sosnowiec 
+"Jul 1, 2013",Bez odstępnego,Poland,88,Widzew Lodz ,10707,200 Th. €,Sebastian Dudek,13/14,Poland,7153,Zawisza 
+"Jul 13, 2012",Bez odstępnego,Poland,759,Slask Wroclaw ,10707,275 Th. €,Sebastian Dudek,12/13,Poland,88,Widzew Lodz 
+"Jul 1, 2005",Bez odstępnego,Poland,8369,Promien Zary ,10707,-,Sebastian Dudek,05/06,Poland,759,Slask Wroclaw 
+"Jul 1, 2011","2,35 Mill. €",Italy,458,US Palermo ,46552,"1,20 Mill. €",Kamil Glik,11/12,Italy,416,Torino 
+"Jun 30, 2011",End of loan,Italy,332,Bari ,46552,"1,20 Mill. €",Kamil Glik,10/11,Italy,458,US Palermo 
+"Jan 1, 2011",Loan fee:250 Th. €,Italy,458,US Palermo ,46552,"1,50 Mill. €",Kamil Glik,10/11,Italy,332,Bari 
+"Jul 1, 2010","1,00 Mill. €",Poland,6112,Piast Gliwice ,46552,500 Th. €,Kamil Glik,10/11,Italy,458,US Palermo 
+"Jul 1, 2008",Free transfer,Spain,2868,Real Madrid C ,46552,-,Kamil Glik,08/09,Poland,6112,Piast Gliwice 
+"Jan 1, 2007",Free transfer,Spain,13322,UD Horadada ,46552,-,Kamil Glik,06/07,Spain,2868,Real Madrid C 
+"Jan 1, 2006",Free transfer,Poland,29652,Silesia Lubomia ,46552,-,Kamil Glik,05/06,Spain,13322,UD Horadada 
+"Jul 1, 2005",Free transfer,Poland,35925,WSP Wodzislaw ,46552,-,Kamil Glik,05/06,Poland,29652,Silesia Lubomia 
+"Feb 27, 2016",Free transfer,Poland,4892,Dolcan Zabki ,63453,150 Th. €,Daniel Golebiewski,15/16,Poland,4896,Pogon Siedlce 
+"Jan 16, 2015",Free transfer,Poland,6110,Korona Kielce ,63453,350 Th. €,Daniel Golebiewski,14/15,Poland,4892,Dolcan Zabki 
+"Dec 31, 2014",End of loan,Poland,28536,Bytovia Bytow ,63453,350 Th. €,Daniel Golebiewski,14/15,Poland,6110,Korona Kielce 
+"Aug 1, 2014",Loan,Poland,6110,Korona Kielce ,63453,350 Th. €,Daniel Golebiewski,14/15,Poland,28536,Bytovia Bytow 
+"Jul 1, 2013",Free transfer,Poland,2745,Pol. Warsaw ,63453,400 Th. €,Daniel Golebiewski,13/14,Poland,6110,Korona Kielce 
+"Jun 30, 2012",End of loan,Poland,6110,Korona Kielce ,63453,400 Th. €,Daniel Golebiewski,11/12,Poland,2745,Pol. Warsaw 
+"Jan 12, 2012",Loan,Poland,2745,Pol. Warsaw ,63453,425 Th. €,Daniel Golebiewski,11/12,Poland,6110,Korona Kielce 
+"Dec 31, 2011",End of loan,Poland,428,G. Zabrze ,63453,425 Th. €,Daniel Golebiewski,11/12,Poland,2745,Pol. Warsaw 
+"Jul 1, 2011",Loan,Poland,2745,Pol. Warsaw ,63453,425 Th. €,Daniel Golebiewski,11/12,Poland,428,G. Zabrze 
+"Jun 30, 2008",End of loan,Poland,8673,LKS Lomza ,63453,-,Daniel Golebiewski,08/09,Poland,2745,Pol. Warsaw 
+"Feb 1, 2008",Loan,Poland,2745,Pol. Warsaw ,63453,-,Daniel Golebiewski,07/08,Poland,8673,LKS Lomza 
+"Jul 1, 2007",-,Poland,15528,Polonia U19 ,63453,-,Daniel Golebiewski,07/08,Poland,2745,Pol. Warsaw 
+"Jul 22, 2013",Free transfer,Poland,9510,Stal Rzeszow ,77733,100 Th. €,Daniel Koczon,13/14,Poland,711,Tarnobrzeg 
+"Jul 1, 2012",Free transfer,Poland,3527,Motor Lublin ,77733,200 Th. €,Daniel Koczon,12/13,Poland,9510,Stal Rzeszow 
+"Jan 1, 2012",Free transfer,Poland,6116,Olimpia Elblag ,77733,200 Th. €,Daniel Koczon,11/12,Poland,3527,Motor Lublin 
+"Jul 1, 2011",Free transfer,Poland,2118,Wisla Plock ,77733,200 Th. €,Daniel Koczon,11/12,Poland,6116,Olimpia Elblag 
+"Jul 1, 2009",Free transfer,Poland,6112,Piast Gliwice ,77733,75 Th. €,Daniel Koczon,09/10,Poland,2118,Wisla Plock 
+"Jul 1, 2008",Free transfer,Poland,3527,Motor Lublin ,77733,-,Daniel Koczon,08/09,Poland,6112,Piast Gliwice 
+"Jan 1, 2004",Free transfer,Poland,30027,Tomasovia Tomaszow Lubelski ,77733,-,Daniel Koczon,03/04,Poland,3527,Motor Lublin 
+"Jan 25, 2016",End of loan,Poland,41149,Rakow II ,58352,100 Th. €,Przemyslaw Wrobel,15/16,Poland,29830,Blekitni 
+"Aug 7, 2015",Loan,Poland,9644,Rakow ,58352,100 Th. €,Przemyslaw Wrobel,15/16,Poland,41149,Rakow II 
+"Aug 4, 2012",-,Poland,515,Unattached ,58352,50 Th. €,Przemyslaw Wrobel,12/13,,9644,Rakow 
+"Jul 1, 2010",-,Poland,5689,Cracovia Kraków ,58352,50 Th. €,Przemyslaw Wrobel,10/11,,515,Unattached 
+"Feb 1, 2009",-,Poland,10633,Cracovia II ,58352,50 Th. €,Przemyslaw Wrobel,08/09,Poland,5689,Cracovia Kraków 
+"Jul 1, 2007",25 Th. €,Poland,2593,MSP Szamotuly ,58352,-,Przemyslaw Wrobel,07/08,Poland,10633,Cracovia II 
+"Jan 8, 2016",Free transfer,Poland,759,Slask Wroclaw ,80890,350 Th. €,Mateusz Machaj,15/16,Poland,8377,Chrobry Glogow 
+"Feb 22, 2014",Free transfer,Poland,4000,Lechia Gdansk ,80890,350 Th. €,Mateusz Machaj,13/14,Poland,759,Slask Wroclaw 
+"Jul 1, 2011",50 Th. €,Poland,238,Lech Poznan ,80890,50 Th. €,Mateusz Machaj,11/12,Poland,4000,Lechia Gdansk 
+"Jun 30, 2011",End of loan,Poland,8377,Chrobry Glogow ,80890,50 Th. €,Mateusz Machaj,10/11,Poland,238,Lech Poznan 
+"Jul 1, 2010",Loan,Poland,238,Lech Poznan ,80890,50 Th. €,Mateusz Machaj,10/11,Poland,8377,Chrobry Glogow 
+"Jun 30, 2010",End of loan,Poland,12407,Stilon ,80890,50 Th. €,Mateusz Machaj,09/10,Poland,238,Lech Poznan 
+"Jan 1, 2010",Loan,Poland,238,Lech Poznan ,80890,50 Th. €,Mateusz Machaj,09/10,Poland,12407,Stilon 
+"Dec 1, 2009",End of loan,Poland,6106,Tur Turek ,80890,50 Th. €,Mateusz Machaj,09/10,Poland,238,Lech Poznan 
+"Aug 1, 2009",Loan,Poland,238,Lech Poznan ,80890,50 Th. €,Mateusz Machaj,09/10,Poland,6106,Tur Turek 
+"Jun 30, 2009",End of loan,Poland,10641,Polonia Slubice ,80890,50 Th. €,Mateusz Machaj,08/09,Poland,238,Lech Poznan 
+"Feb 1, 2009",Loan,Poland,238,Lech Poznan ,80890,50 Th. €,Mateusz Machaj,08/09,Poland,10641,Polonia Slubice 
+"Jul 1, 2007",Free transfer,Poland,176,Amica Wronki ,80890,-,Mateusz Machaj,07/08,Poland,238,Lech Poznan 
+"Jul 1, 2006",-,Poland,15597,Amica Wronki U19 ,80890,-,Mateusz Machaj,06/07,Poland,176,Amica Wronki 
+"Jan 1, 2016",Free transfer,Poland,4892,Dolcan Zabki ,46590,200 Th. €,Szymon Matuszek,15/16,Poland,428,G. Zabrze 
+"Jul 27, 2012",Free transfer,Poland,6112,Piast Gliwice ,46590,150 Th. €,Szymon Matuszek,12/13,Poland,4892,Dolcan Zabki 
+"Jun 30, 2012",End of loan,Poland,2118,Wisla Plock ,46590,150 Th. €,Szymon Matuszek,11/12,Poland,6112,Piast Gliwice 
+"Feb 1, 2012",Loan,Poland,6112,Piast Gliwice ,46590,150 Th. €,Szymon Matuszek,11/12,Poland,2118,Wisla Plock 
+"Jun 30, 2011",End of loan,Poland,28887,Chojnice ,46590,150 Th. €,Szymon Matuszek,10/11,Poland,6112,Piast Gliwice 
+"Feb 1, 2011",Loan,Poland,6112,Piast Gliwice ,46590,150 Th. €,Szymon Matuszek,10/11,Poland,28887,Chojnice 
+"Aug 1, 2009",Free transfer,Poland,2300,J. Bialystok ,46590,125 Th. €,Szymon Matuszek,09/10,Poland,6112,Piast Gliwice 
+"Jul 1, 2008",Free transfer,Spain,2868,Real Madrid C ,46590,-,Szymon Matuszek,08/09,Poland,2300,J. Bialystok 
+"Jan 1, 2007",Free transfer,Spain,13322,UD Horadada ,46590,-,Szymon Matuszek,06/07,Spain,2868,Real Madrid C 
+"Jan 1, 2006",Free transfer,Poland,29652,Silesia Lubomia ,46590,-,Szymon Matuszek,05/06,Spain,13322,UD Horadada 
+"Jul 1, 2005",Free transfer,Poland,35925,WSP Wodzislaw ,46590,-,Szymon Matuszek,05/06,Poland,29652,Silesia Lubomia 

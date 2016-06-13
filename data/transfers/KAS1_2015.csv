@@ -1,0 +1,449 @@
+date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Mar 3, 2016",,-,Kazakhstan,515.0,Unattached ,43012,200 Th. €,Djiby Fall,15/16,,10540.0,Irtysh 
+"Jan 22, 2016",,-,Turkey,2330.0,Karsiyaka ,43012,200 Th. €,Djiby Fall,15/16,,515.0,Unattached 
+"Jul 22, 2015",,Free transfer,Denmark,5724.0,Randers FC ,43012,500 Th. €,Djiby Fall,15/16,Turkey,2330.0,Karsiyaka 
+"Sep 2, 2013",,?,Germany,65.0,Greuther Fürth ,43012,750 Th. €,Djiby Fall,13/14,Denmark,5724.0,Randers FC 
+"Aug 9, 2012",,800 Th. €,Belgium,498.0,KSC Lokeren ,43012,"1,50 Mill. €",Djiby Fall,12/13,Germany,65.0,Greuther Fürth 
+"Jan 1, 2012",,Free transfer,Russia,932.0,Loko Moscow ,43012,"1,80 Mill. €",Djiby Fall,11/12,Belgium,498.0,KSC Lokeren 
+"Dec 31, 2011",,End of loan,Denmark,173.0,Odense BK ,43012,"1,80 Mill. €",Djiby Fall,11/12,Russia,932.0,Loko Moscow 
+"Aug 31, 2011",,Loan,Russia,932.0,Loko Moscow ,43012,"1,80 Mill. €",Djiby Fall,11/12,Denmark,173.0,Odense BK 
+"Dec 31, 2010",,End of loan,Norway,687.0,Molde FK ,43012,"2,00 Mill. €",Djiby Fall,10/11,Russia,932.0,Loko Moscow 
+"Jan 25, 2010",,Loan fee:500 Th. €,Russia,932.0,Loko Moscow ,43012,"1,80 Mill. €",Djiby Fall,09/10,Norway,687.0,Molde FK 
+"Mar 13, 2009",,"4,70 Mill. €",Denmark,173.0,Odense BK ,43012,"3,50 Mill. €",Djiby Fall,08/09,Russia,932.0,Loko Moscow 
+"Jan 1, 2008",,"1,00 Mill. €",United Arab Emirates,2150.0,Al-Ain FC ,43012,"1,50 Mill. €",Djiby Fall,07/08,Denmark,173.0,Odense BK 
+"Jul 1, 2007",,"1,50 Mill. €",Denmark,5724.0,Randers FC ,43012,"1,50 Mill. €",Djiby Fall,07/08,United Arab Emirates,2150.0,Al-Ain FC 
+"Jul 1, 2006",,Free transfer,France,20035.0,AS Vitré ,43012,-,Djiby Fall,06/07,Denmark,5724.0,Randers FC 
+"Jan 1, 2006",,?,France,2972.0,Bourg-Péronnas ,43012,-,Djiby Fall,05/06,France,20035.0,AS Vitré 
+"Jul 1, 2005",,?,France,10820.0,AJ Auxerre B ,43012,-,Djiby Fall,05/06,France,2972.0,Bourg-Péronnas 
+"Feb 24, 2016",,Free transfer,Croatia,420.0,RNK Split ,153735,200 Th. €,Marko Simonovski,15/16,Kazakhstan,15299.0,Zhetysu 
+"Jul 10, 2015",,Free transfer,Russia,4128.0,Amkar Perm ,153735,200 Th. €,Marko Simonovski,15/16,Croatia,420.0,RNK Split 
+"Aug 11, 2014",,Free transfer,Macedonia,18506.0,Metalurg Skopje ,153735,250 Th. €,Marko Simonovski,14/15,Russia,4128.0,Amkar Perm 
+"Dec 31, 2012",,End of loan,Macedonia,7754.0,Napredok Kicevo ,153735,250 Th. €,Marko Simonovski,12/13,Macedonia,18506.0,Metalurg Skopje 
+"Aug 1, 2012",,Loan,Macedonia,18506.0,Metalurg Skopje ,153735,150 Th. €,Marko Simonovski,12/13,Macedonia,7754.0,Napredok Kicevo 
+"Jul 1, 2010",,?,Macedonia,77.0,Vardar ,153735,-,Marko Simonovski,10/11,Macedonia,18506.0,Metalurg Skopje 
+"Feb 1, 2016",,Free transfer,Macedonia,10791.0,Renova ,54536,175 Th. €,Gjorgji Mojsov,15/16,Kazakhstan,15299.0,Zhetysu 
+"Jul 1, 2014",,Free transfer,Macedonia,534.0,Pelister Bitola ,54536,200 Th. €,Gjorgji Mojsov,14/15,Macedonia,10791.0,Renova 
+"Jul 1, 2013",,Free transfer,Macedonia,19627.0,Horizont ,54536,200 Th. €,Gjorgji Mojsov,13/14,Macedonia,534.0,Pelister Bitola 
+"Jan 1, 2012",,?,Serbia,12135.0,FK Metalac ,54536,225 Th. €,Gjorgji Mojsov,11/12,Macedonia,19627.0,Horizont 
+"Jul 1, 2011",,?,Macedonia,77.0,Vardar ,54536,275 Th. €,Gjorgji Mojsov,11/12,Serbia,12135.0,FK Metalac 
+"Jan 1, 2011",,Free transfer,Macedonia,4641.0,Rabotnicki ,54536,275 Th. €,Gjorgji Mojsov,10/11,Macedonia,77.0,Vardar 
+"Jul 1, 2010",,-,Macedonia,515.0,Unattached ,54536,275 Th. €,Gjorgji Mojsov,10/11,,4641.0,Rabotnicki 
+"May 1, 2010",,-,Hungary,6055.0,ETO FC Győr  ,54536,275 Th. €,Gjorgji Mojsov,09/10,,515.0,Unattached 
+"Jan 1, 2010",,Free transfer,Romania,4959.0,Otelul Galati ,54536,325 Th. €,Gjorgji Mojsov,09/10,Hungary,6055.0,ETO FC Győr  
+"Jul 1, 2009",,100 Th. €,Macedonia,4641.0,Rabotnicki ,54536,325 Th. €,Gjorgji Mojsov,09/10,Romania,4959.0,Otelul Galati 
+"Sep 1, 2008",,Free transfer,Macedonia,77.0,Vardar ,54536,125 Th. €,Gjorgji Mojsov,08/09,Macedonia,4641.0,Rabotnicki 
+"Jun 30, 2016",,End of loan,Kazakhstan,22220.0,FC Astana ,104331,"1,50 Mill. €",Lukman Haruna,15/16,Ukraine,338.0,Dynamo Kyiv 
+"Apr 3, 2016",,Loan,Ukraine,338.0,Dynamo Kyiv ,104331,"1,50 Mill. €",Lukman Haruna,15/16,Kazakhstan,22220.0,FC Astana 
+"Dec 31, 2015",,End of loan,Russia,2700.0,Anzhi ,104331,"1,50 Mill. €",Lukman Haruna,15/16,Ukraine,338.0,Dynamo Kyiv 
+"Jul 9, 2015",,Loan,Ukraine,338.0,Dynamo Kyiv ,104331,"2,00 Mill. €",Lukman Haruna,15/16,Russia,2700.0,Anzhi 
+"Jun 30, 2015",,End of loan,Ukraine,6996.0,Goverla ,104331,"2,00 Mill. €",Lukman Haruna,14/15,Ukraine,338.0,Dynamo Kyiv 
+"Mar 2, 2015",,Loan,Ukraine,338.0,Dynamo Kyiv ,104331,"3,00 Mill. €",Lukman Haruna,14/15,Ukraine,6996.0,Goverla 
+"Jul 1, 2011",,"1,50 Mill. €",France,162.0,Monaco ,104331,"2,40 Mill. €",Lukman Haruna,11/12,Ukraine,338.0,Dynamo Kyiv 
+"Jan 1, 2009",,-,Monaco,9668.0,Monaco B ,104331,-,Lukman Haruna,08/09,France,162.0,Monaco 
+"Jan 1, 2008",,?,Nigeria,22581.0,Crystal Academy ,104331,-,Lukman Haruna,07/08,Monaco,9668.0,Monaco B 
+"Jan 1, 2007",,?,Nigeria,25251.0,Moderate Stars ,104331,-,Lukman Haruna,06/07,Nigeria,22581.0,Crystal Academy 
+"Mar 25, 2016",,-,Kazakhstan,515.0,Unattached ,46989,400 Th. €,Sasa Stamenkovic,15/16,,19662.0,Okzhetpes 
+"Jul 1, 2015",,-,Azerbaijan,8031.0,Neftchi Baku ,46989,400 Th. €,Sasa Stamenkovic,15/16,,515.0,Unattached 
+"Jul 1, 2011",,158 Th. €,Serbia,159.0,Red Star ,46989,"1,15 Mill. €",Sasa Stamenkovic,11/12,Azerbaijan,8031.0,Neftchi Baku 
+"Jul 1, 2008",,12 Th. €,Serbia,788.0,Napredak ,46989,500 Th. €,Sasa Stamenkovic,08/09,Serbia,159.0,Red Star 
+"Jul 1, 2006",,Free transfer,Serbia,4645.0,Radnicki 1923 ,46989,-,Sasa Stamenkovic,06/07,Serbia,788.0,Napredak 
+"Feb 27, 2016",,Free transfer,Finland,1008.0,HJK Helsinki ,78990,350 Th. €,Ousman Jallow,15/16,Kazakhstan,10540.0,Irtysh 
+"Feb 27, 2015",,-,Finland,515.0,Unattached ,78990,800 Th. €,Ousman Jallow,14/15,,1008.0,HJK Helsinki 
+"Mar 5, 2013",,-,Turkey,126.0,Rizespor ,78990,800 Th. €,Ousman Jallow,12/13,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Denmark,206.0,Bröndby IF ,78990,750 Th. €,Ousman Jallow,11/12,Turkey,126.0,Rizespor 
+"Aug 1, 2008",,"1,00 Mill. €",United Arab Emirates,2150.0,Al-Ain FC ,78990,-,Ousman Jallow,08/09,Denmark,206.0,Bröndby IF 
+"Jun 30, 2007",,End of loan,Morocco,2068.0,Raja Casablanca ,78990,-,Ousman Jallow,06/07,United Arab Emirates,2150.0,Al-Ain FC 
+"Jul 1, 2006",,Loan,United Arab Emirates,2150.0,Al-Ain FC ,78990,-,Ousman Jallow,06/07,Morocco,2068.0,Raja Casablanca 
+"Jul 1, 2005",,?,The Gambia,15989.0,Wallidan ,78990,-,Ousman Jallow,05/06,United Arab Emirates,2150.0,Al-Ain FC 
+"Jan 1, 2016",,?,Russia,11750.0,Rubin Kazan II ,315151,200 Th. €,Mikhail Petrolay,15/16,Kazakhstan,10157.0,Aktobe 
+"Dec 31, 2015",,End of loan,Kazakhstan,15299.0,Zhetysu ,315151,200 Th. €,Mikhail Petrolay,15/16,Russia,11750.0,Rubin Kazan II 
+"Jul 1, 2015",,Loan,Russia,11750.0,Rubin Kazan II ,315151,-,Mikhail Petrolay,15/16,Kazakhstan,15299.0,Zhetysu 
+"Jan 1, 2014",,-,Russia,20323.0,Rubin 2 ,315151,-,Mikhail Petrolay,13/14,Russia,11750.0,Rubin Kazan II 
+"Mar 18, 2016",,Free transfer,Russia,2439.0,Kuban Krasnodar ,15378,500 Th. €,Andrey Arshavin,15/16,Kazakhstan,10482.0,Kairat Almaty 
+"Jul 13, 2015",,Free transfer,Russia,964.0,Zenit S-Pb ,15378,"1,00 Mill. €",Andrey Arshavin,15/16,Russia,2439.0,Kuban Krasnodar 
+"Jul 1, 2013",,Free transfer,England,11.0,Arsenal ,15378,"4,50 Mill. €",Andrey Arshavin,13/14,Russia,964.0,Zenit S-Pb 
+"May 31, 2012",,End of loan,Russia,964.0,Zenit S-Pb ,15378,"11,00 Mill. €",Andrey Arshavin,11/12,England,11.0,Arsenal 
+"Feb 26, 2012",,"Loan fee:1,20 Mill. €",England,11.0,Arsenal ,15378,"11,00 Mill. €",Andrey Arshavin,11/12,Russia,964.0,Zenit S-Pb 
+"Jan 31, 2009",,"16,50 Mill. €",Russia,964.0,Zenit S-Pb ,15378,"24,00 Mill. €",Andrey Arshavin,08/09,England,11.0,Arsenal 
+"Jul 1, 2000",,-,Russia,16950.0,Zenit 2 S-Pb ,15378,-,Andrey Arshavin,00/01,Russia,964.0,Zenit S-Pb 
+"Jan 1, 1999",,-,Russia,6083.0,Smena S-Pb ,15378,-,Andrey Arshavin,98/99,Russia,16950.0,Zenit 2 S-Pb 
+"Feb 26, 2016",,Free transfer,Norway,501.0,FK Bodø/Glimt ,51737,600 Th. €,Dominic Chatto,15/16,Kazakhstan,16779.0,Ordabasy 
+"Feb 9, 2014",,Free transfer,Sweden,1109.0,BK Häcken ,51737,"1,00 Mill. €",Dominic Chatto,13/14,Norway,501.0,FK Bodø/Glimt 
+"Jan 1, 2009",,?,Finland,8042.0,FC Inter ,51737,700 Th. €,Dominic Chatto,08/09,Sweden,1109.0,BK Häcken 
+"Jan 1, 2007",,Free transfer,Nigeria,20871.0,AS Racines ,51737,-,Dominic Chatto,06/07,Finland,8042.0,FC Inter 
+"Feb 23, 2016",,Free transfer,Belarus,27238.0,FK Slutsk ,106008,150 Th. €,Kouassi Kouadio,15/16,Kazakhstan,10157.0,Aktobe 
+"Jul 25, 2015",,?,Moldova,41494.0,FC Saxan ,106008,100 Th. €,Kouassi Kouadio,15/16,Belarus,27238.0,FK Slutsk 
+"Jun 30, 2015",,End of loan,Romania,13499.0,Astra Giurgiu ,106008,100 Th. €,Kouassi Kouadio,14/15,Moldova,41494.0,FC Saxan 
+"Feb 1, 2015",,Loan,Moldova,41494.0,FC Saxan ,106008,150 Th. €,Kouassi Kouadio,14/15,Romania,13499.0,Astra Giurgiu 
+"Jul 25, 2014",,-,Moldova,515.0,Unattached ,106008,150 Th. €,Kouassi Kouadio,14/15,,41494.0,FC Saxan 
+"Jan 10, 2014",,-,Moldova,31277.0,FC Costuleni ,106008,150 Th. €,Kouassi Kouadio,13/14,,515.0,Unattached 
+"Jan 1, 2012",,?,Cote d'Ivoire,11959.0,Issia Wazi FC ,106008,-,Kouassi Kouadio,11/12,Moldova,31277.0,FC Costuleni 
+"Jan 1, 2010",,?,Cote d'Ivoire,3891.0,ASEC Mimosas ,106008,-,Kouassi Kouadio,09/10,Cote d'Ivoire,11959.0,Issia Wazi FC 
+"Dec 31, 2016",,End of loan,Kazakhstan,22220.0,FC Astana ,69401,750 Th. €,Besart Abdurahimi,16/17,Belgium,498.0,KSC Lokeren 
+"Mar 28, 2016",,Loan,Belgium,498.0,KSC Lokeren ,69401,750 Th. €,Besart Abdurahimi,15/16,Kazakhstan,22220.0,FC Astana 
+"Aug 6, 2014",,600 Th. €,Croatia,5107.0,NK Zagreb ,69401,"1,00 Mill. €",Besart Abdurahimi,14/15,Belgium,498.0,KSC Lokeren 
+"Jun 15, 2014",,End of loan,Israel,1017.0,Hapoel Tel Aviv ,69401,"1,00 Mill. €",Besart Abdurahimi,13/14,Croatia,5107.0,NK Zagreb 
+"Sep 17, 2013",,Loan,Croatia,5107.0,NK Zagreb ,69401,"1,00 Mill. €",Besart Abdurahimi,13/14,Israel,1017.0,Hapoel Tel Aviv 
+"Jul 1, 2008",,-,Croatia,14446.0,NK Zagreb U19 ,69401,50 Th. €,Besart Abdurahimi,08/09,Croatia,5107.0,NK Zagreb 
+"Apr 1, 2016",,?,Slovakia,12005.0,Zlate Moravce ,242564,400 Th. €,Léandre Tawamba,15/16,Kazakhstan,10482.0,Kairat Almaty 
+"Aug 12, 2015",,?,Libya,25926.0,Al-Ahli Ben. ,242564,350 Th. €,Léandre Tawamba,15/16,Slovakia,12005.0,Zlate Moravce 
+"Jul 1, 2014",,Free transfer,Slovakia,7087.0,Ruzomberok ,242564,350 Th. €,Léandre Tawamba,14/15,Libya,25926.0,Al-Ahli Ben. 
+"Jul 1, 2013",,?,Slovakia,1562.0,FC Nitra ,242564,125 Th. €,Léandre Tawamba,13/14,Slovakia,7087.0,Ruzomberok 
+"Jan 1, 2013",,?,South Africa,2303.0,Black Aces ,242564,-,Léandre Tawamba,12/13,Slovakia,1562.0,FC Nitra 
+"Sep 13, 2012",,?,South Africa,14569.0,FC Cape Town ,242564,-,Léandre Tawamba,12/13,South Africa,2303.0,Black Aces 
+"Jul 1, 2011",,?,Cameroon,39270.0,Aigle Royal ,242564,-,Léandre Tawamba,11/12,South Africa,14569.0,FC Cape Town 
+"Jul 1, 2010",,?,Cameroon,5070.0,Union Douala ,242564,-,Léandre Tawamba,10/11,Cameroon,39270.0,Aigle Royal 
+"Jul 4, 2015",,Free transfer,Kazakhstan,28477.0,FK Astana II ,345906,-,Pavel Khalezov,15/16,Kazakhstan,10540.0,Irtysh 
+"Dec 31, 2013",,End of loan,Kazakhstan,12019.0,FK Astana 1964 ,345906,-,Pavel Khalezov,13/14,Kazakhstan,28477.0,FK Astana II 
+"Jan 1, 2013",,Loan,Kazakhstan,28477.0,FK Astana II ,345906,-,Pavel Khalezov,12/13,Kazakhstan,12019.0,FK Astana 1964 
+"Jan 23, 2016",,Free transfer,Argentina,12179.0,Ind. Rivadavia ,122525,-,Freddy Coronel,15/16,Kazakhstan,28178.0,Akzhayik 
+"Jul 7, 2014",,Free transfer,Paraguay,23170.0,Rubio Ñú ,122525,-,Freddy Coronel,14/15,Argentina,12179.0,Ind. Rivadavia 
+"Jul 6, 2014",,End of loan,Paraguay,7656.0,Luqueño ,122525,-,Freddy Coronel,14/15,Paraguay,23170.0,Rubio Ñú 
+"Jan 1, 2014",,Loan,Paraguay,23170.0,Rubio Ñú ,122525,-,Freddy Coronel,13/14,Paraguay,7656.0,Luqueño 
+"Jan 1, 2012",,?,Paraguay,7656.0,Luqueño ,122525,-,Freddy Coronel,11/12,Paraguay,23170.0,Rubio Ñú 
+"Jan 1, 2011",,?,Paraguay,14491.0,Sol de América ,122525,-,Freddy Coronel,10/11,Paraguay,7656.0,Luqueño 
+"Jul 1, 2010",,?,Paraguay,9875.0,Libertad ,122525,-,Freddy Coronel,10/11,Paraguay,14491.0,Sol de América 
+"Jan 1, 2009",,-,Paraguay,24816.0,Libertad U20 ,122525,-,Freddy Coronel,08/09,Paraguay,9875.0,Libertad 
+"Mar 2, 2016",,Free transfer,Ukraine,6414.0,Metalist ,59423,500 Th. €,Oleksiy Kurilov,15/16,Kazakhstan,10480.0,Schachtjor K. 
+"Jul 7, 2015",,Free transfer,Ukraine,6994.0,Metalurg Z. ,59423,400 Th. €,Oleksiy Kurilov,15/16,Ukraine,6414.0,Metalist 
+"Jul 31, 2014",,Free transfer,Ukraine,2740.0,Vorskla ,59423,600 Th. €,Oleksiy Kurilov,14/15,Ukraine,6994.0,Metalurg Z. 
+"Jul 1, 2011",,?,Ukraine,6414.0,Metalist ,59423,300 Th. €,Oleksiy Kurilov,11/12,Ukraine,2740.0,Vorskla 
+"Jun 30, 2011",,End of loan,Ukraine,2740.0,Vorskla ,59423,300 Th. €,Oleksiy Kurilov,10/11,Ukraine,6414.0,Metalist 
+"Jan 1, 2011",,Loan,Ukraine,6414.0,Metalist ,59423,300 Th. €,Oleksiy Kurilov,10/11,Ukraine,2740.0,Vorskla 
+"Dec 1, 2010",,End of loan,Ukraine,2227.0,SK Tavriya ,59423,500 Th. €,Oleksiy Kurilov,10/11,Ukraine,6414.0,Metalist 
+"Jul 1, 2010",,Loan,Ukraine,6414.0,Metalist ,59423,600 Th. €,Oleksiy Kurilov,10/11,Ukraine,2227.0,SK Tavriya 
+"Jun 30, 2010",,End of loan,Ukraine,4482.0,Volyn Lutsk ,59423,600 Th. €,Oleksiy Kurilov,09/10,Ukraine,6414.0,Metalist 
+"Mar 1, 2010",,Loan,Ukraine,6414.0,Metalist ,59423,600 Th. €,Oleksiy Kurilov,09/10,Ukraine,4482.0,Volyn Lutsk 
+"Dec 1, 2009",,End of loan,Ukraine,10690.0,Zorya Lugansk ,59423,400 Th. €,Oleksiy Kurilov,09/10,Ukraine,6414.0,Metalist 
+"Jan 1, 2009",,Loan,Ukraine,6414.0,Metalist ,59423,100 Th. €,Oleksiy Kurilov,08/09,Ukraine,10690.0,Zorya Lugansk 
+"Jul 1, 2007",,-,Ukraine,12517.0,Metalist Kharkiv II ,59423,-,Oleksiy Kurilov,07/08,Ukraine,6414.0,Metalist 
+"Jul 1, 2006",,Free transfer,Ukraine,8963.0,Shakhtar II ,59423,-,Oleksiy Kurilov,06/07,Ukraine,12517.0,Metalist Kharkiv II 
+"Jul 1, 2004",,-,Ukraine,31606.0,Shakhtar Donetsk U17 ,59423,-,Oleksiy Kurilov,04/05,Ukraine,8963.0,Shakhtar II 
+"Feb 10, 2016",,Free transfer,United States,32567.0,San Antonio  ,138529,100 Th. €,Joseph Nane,15/16,Kazakhstan,19662.0,Okzhetpes 
+"Apr 1, 2015",,-,United States,515.0,Unattached ,138529,100 Th. €,Joseph Nane,14/15,,32567.0,San Antonio  
+"Dec 1, 2014",,-,United States,4835.0,New York Cosmos ,138529,100 Th. €,Joseph Nane,14/15,,515.0,Unattached 
+"Mar 12, 2013",,-,United States,515.0,Unattached ,138529,100 Th. €,Joseph Nane,12/13,,4835.0,New York Cosmos 
+"Nov 16, 2012",,-,United States,1247.0,Colorado ,138529,100 Th. €,Joseph Nane,12/13,,515.0,Unattached 
+"Nov 30, 2010",,Swap deal,United States,11141.0,Toronto ,138529,50 Th. €,Joseph Nane,10/11,United States,1247.0,Colorado 
+"Jan 14, 2010",,draft,United States,38942.0,Old Dominion ,138529,-,Joseph Nane,09/10,United States,11141.0,Toronto 
+"Aug 1, 2009",,Free transfer,United States,16916.0,Hampton Roads ,138529,-,Joseph Nane,09/10,United States,38942.0,Old Dominion 
+"May 1, 2009",,Free transfer,United States,38942.0,Old Dominion ,138529,-,Joseph Nane,08/09,United States,16916.0,Hampton Roads 
+"Feb 28, 2016",,Free transfer,Chile,18076.0,CD Iquique ,141988,400 Th. €,Ignacio Herrera,15/16,Kazakhstan,10540.0,Irtysh 
+"Jul 1, 2015",,Free transfer,Chile,9103.0,Cobreloa ,141988,100 Th. €,Ignacio Herrera,15/16,Chile,18076.0,CD Iquique 
+"Aug 9, 2013",,Free transfer,Chile,13394.0,Magallanes CF ,141988,100 Th. €,Ignacio Herrera,13/14,Chile,9103.0,Cobreloa 
+"Aug 20, 2011",,Free transfer,Chile,6368.0,Huachipato ,141988,100 Th. €,Ignacio Herrera,11/12,Chile,13394.0,Magallanes CF 
+"Jan 1, 2016",,-,Kazakhstan,38609.0,Taraz II ,383968,-,Kanat Karimolla,15/16,Kazakhstan,22994.0,Taraz 
+"Jan 1, 2013",,-,Kazakhstan,38610.0,Taraz U19 ,383968,-,Kanat Karimolla,12/13,Kazakhstan,38609.0,Taraz II 
+,,,,,,427151,,,,,,
+"Jun 8, 2016",,Free transfer,Kazakhstan,10540.0,Irtysh ,43435,700 Th. €,Gogita Gogua,15/16,Kazakhstan,16779.0,Ordabasy 
+"Feb 21, 2016",,Free transfer,Georgia,32017.0,FC Dila ,43435,700 Th. €,Gogita Gogua,15/16,Kazakhstan,10540.0,Irtysh 
+"Jul 1, 2015",,Free transfer,Russia,3690.0,SKA-Energia ,43435,700 Th. €,Gogita Gogua,15/16,Georgia,32017.0,FC Dila 
+"Jul 1, 2013",,Free transfer,Georgia,32017.0,FC Dila ,43435,"1,00 Mill. €",Gogita Gogua,13/14,Russia,3690.0,SKA-Energia 
+"Jul 1, 2012",,150 Th. €,Georgia,663.0,Dinamo Tbilisi ,43435,"1,20 Mill. €",Gogita Gogua,12/13,Georgia,32017.0,FC Dila 
+"Jan 14, 2012",,Free transfer,Russia,12438.0,Volga NN ,43435,"2,00 Mill. €",Gogita Gogua,11/12,Georgia,663.0,Dinamo Tbilisi 
+"Jan 1, 2011",,Free transfer,Russia,8835.0,Spartak Nalchik ,43435,"1,50 Mill. €",Gogita Gogua,10/11,Russia,12438.0,Volga NN 
+"Dec 31, 2009",,End of loan,Russia,3725.0,Terek Grozny ,43435,700 Th. €,Gogita Gogua,09/10,Russia,8835.0,Spartak Nalchik 
+"Aug 1, 2009",,Loan,Russia,8835.0,Spartak Nalchik ,43435,700 Th. €,Gogita Gogua,09/10,Russia,3725.0,Terek Grozny 
+"Jan 1, 2008",,?,Russia,2737.0,Saturn ,43435,"1,00 Mill. €",Gogita Gogua,07/08,Russia,8835.0,Spartak Nalchik 
+"Jan 1, 2007",,?,Russia,8835.0,Spartak Nalchik ,43435,250 Th. €,Gogita Gogua,06/07,Russia,2737.0,Saturn 
+"Jan 1, 2006",,?,Russia,3719.0,Khimki ,43435,-,Gogita Gogua,05/06,Russia,8835.0,Spartak Nalchik 
+"Jan 1, 2005",,?,Georgia,13011.0,FC Tbilisi ,43435,-,Gogita Gogua,04/05,Russia,3719.0,Khimki 
+"Dec 1, 2004",,End of loan,Georgia,663.0,Dinamo Tbilisi ,43435,-,Gogita Gogua,04/05,Georgia,13011.0,FC Tbilisi 
+"Jul 1, 2004",,Loan,Georgia,13011.0,FC Tbilisi ,43435,-,Gogita Gogua,04/05,Georgia,663.0,Dinamo Tbilisi 
+"Jul 1, 2003",,?,Georgia,20834.0,Merani ,43435,-,Gogita Gogua,03/04,Georgia,13011.0,FC Tbilisi 
+"Jul 1, 2002",,?,Georgia,663.0,Dinamo Tbilisi ,43435,-,Gogita Gogua,02/03,Georgia,20834.0,Merani 
+"Jul 1, 2001",,?,Georgia,24564.0,Guria ,43435,-,Gogita Gogua,01/02,Georgia,663.0,Dinamo Tbilisi 
+"Jul 1, 1999",,-,Georgia,464.0,Own U19 ,43435,-,Gogita Gogua,99/00,,24564.0,Guria 
+"Jan 23, 2016",,Free transfer,Ukraine,4482.0,Volyn Lutsk ,57901,700 Th. €,Vyacheslav Sharpar,15/16,Kazakhstan,16198.0,Atyrau 
+"Aug 27, 2015",,Free transfer,Moldova,2481.0,Sheriff ,57901,600 Th. €,Vyacheslav Sharpar,15/16,Ukraine,4482.0,Volyn Lutsk 
+"Jul 1, 2015",,Free transfer,Ukraine,4482.0,Volyn Lutsk ,57901,600 Th. €,Vyacheslav Sharpar,15/16,Moldova,2481.0,Sheriff 
+"Mar 6, 2015",,Free transfer,Ukraine,6414.0,Metalist ,57901,600 Th. €,Vyacheslav Sharpar,14/15,Ukraine,4482.0,Volyn Lutsk 
+"Dec 31, 2014",,End of loan,Ukraine,2783.0,Metalurg D. ,57901,600 Th. €,Vyacheslav Sharpar,14/15,Ukraine,6414.0,Metalist 
+"Jul 25, 2014",,Loan,Ukraine,6414.0,Metalist ,57901,800 Th. €,Vyacheslav Sharpar,14/15,Ukraine,2783.0,Metalurg D. 
+"Jun 30, 2014",,End of loan,Ukraine,6996.0,Goverla ,57901,800 Th. €,Vyacheslav Sharpar,13/14,Ukraine,6414.0,Metalist 
+"Mar 1, 2014",,Loan,Ukraine,6414.0,Metalist ,57901,900 Th. €,Vyacheslav Sharpar,13/14,Ukraine,6996.0,Goverla 
+"Nov 21, 2013",,End of loan,Ukraine,9007.0,Arsenal Kyiv ,57901,900 Th. €,Vyacheslav Sharpar,13/14,Ukraine,6414.0,Metalist 
+"Mar 1, 2013",,Loan,Ukraine,6414.0,Metalist ,57901,900 Th. €,Vyacheslav Sharpar,12/13,Ukraine,9007.0,Arsenal Kyiv 
+"Jun 30, 2012",,End of loan,Ukraine,4482.0,Volyn Lutsk ,57901,"1,00 Mill. €",Vyacheslav Sharpar,11/12,Ukraine,6414.0,Metalist 
+"Jul 1, 2011",,Loan,Ukraine,6414.0,Metalist ,57901,"1,20 Mill. €",Vyacheslav Sharpar,11/12,Ukraine,4482.0,Volyn Lutsk 
+"Mar 1, 2011",,"2,00 Mill. €",Ukraine,4482.0,Volyn Lutsk ,57901,500 Th. €,Vyacheslav Sharpar,10/11,Ukraine,6414.0,Metalist 
+"Jul 1, 2009",,Free transfer,Ukraine,16239.0,Desna ,57901,150 Th. €,Vyacheslav Sharpar,09/10,Ukraine,4482.0,Volyn Lutsk 
+"Mar 1, 2009",,?,Ukraine,12302.0,Naftovyk ,57901,150 Th. €,Vyacheslav Sharpar,08/09,Ukraine,16239.0,Desna 
+"Jun 30, 2008",,End of loan,Ukraine,6993.0,Ilyichivets ,57901,150 Th. €,Vyacheslav Sharpar,07/08,Ukraine,12302.0,Naftovyk 
+"Jan 1, 2008",,Loan,Ukraine,12302.0,Naftovyk ,57901,-,Vyacheslav Sharpar,07/08,Ukraine,6993.0,Ilyichivets 
+"Jan 1, 2007",,?,Ukraine,31097.0,Khimik Krasnoperekopsk ,57901,-,Vyacheslav Sharpar,06/07,Ukraine,12302.0,Naftovyk 
+"Jul 1, 2006",,?,Ukraine,12521.0,SK Tavriya II ,57901,-,Vyacheslav Sharpar,06/07,Ukraine,31097.0,Khimik Krasnoperekopsk 
+"Jan 1, 2005",,?,Ukraine,6613.0,Nafkom Brovary ,57901,-,Vyacheslav Sharpar,04/05,Ukraine,12521.0,SK Tavriya II 
+"Jul 1, 2004",,Free transfer,Ukraine,14809.0,Torpedo Zaporizhya ,57901,-,Vyacheslav Sharpar,04/05,Ukraine,6613.0,Nafkom Brovary 
+"Jan 1, 2016",,?,Kazakhstan,28477.0,FK Astana II ,345902,-,Islambek Kulekenov,15/16,Kazakhstan,10157.0,Aktobe 
+"Jan 1, 2013",,-,Kazakhstan,38605.0,Astana U19 ,345902,-,Islambek Kulekenov,12/13,Kazakhstan,28477.0,FK Astana II 
+,,,,,,426671,,,,,,
+"Mar 12, 2016",,Free transfer,France,18633.0,FC Villefranche ,426672,-,Serge N'Gambé,15/16,Kazakhstan,19662.0,Okzhetpes 
+"Jul 1, 2014",,?,France,23208.0,FC Montceau B. ,426672,-,Serge N'Gambé,14/15,France,18633.0,FC Villefranche 
+"Jul 1, 2011",,?,France,9881.0,Jura Sud  ,426672,-,Serge N'Gambé,11/12,France,23208.0,FC Montceau B. 
+"Jan 1, 2009",,?,France,51443.0,Reims Saint-A. ,426672,-,Serge N'Gambé,08/09,France,9881.0,Jura Sud  
+"Jul 1, 2008",,?,France,12276.0,Saint-Quentin ,426672,-,Serge N'Gambé,08/09,France,51443.0,Reims Saint-A. 
+"Feb 19, 2016",,Free transfer,Poland,6110.0,Korona Kielce ,43441,250 Th. €,Przemyslaw Trytko,15/16,Kazakhstan,16198.0,Atyrau 
+"Jul 1, 2013",,Free transfer,Germany,113.0,Carl Zeiss Jena ,43441,125 Th. €,Przemyslaw Trytko,13/14,Poland,6110.0,Korona Kielce 
+"Jan 17, 2013",,Free transfer,Poland,2300.0,J. Bialystok ,43441,125 Th. €,Przemyslaw Trytko,12/13,Germany,113.0,Carl Zeiss Jena 
+"Dec 31, 2012",,End of loan,Germany,113.0,Carl Zeiss Jena ,43441,125 Th. €,Przemyslaw Trytko,12/13,Poland,2300.0,J. Bialystok 
+"Aug 8, 2012",,Loan,Poland,2300.0,J. Bialystok ,43441,250 Th. €,Przemyslaw Trytko,12/13,Germany,113.0,Carl Zeiss Jena 
+"Jun 30, 2012",,End of loan,Poland,7976.0,Polonia Bytom ,43441,250 Th. €,Przemyslaw Trytko,11/12,Poland,2300.0,J. Bialystok 
+"Feb 1, 2012",,Loan,Poland,2300.0,J. Bialystok ,43441,250 Th. €,Przemyslaw Trytko,11/12,Poland,7976.0,Polonia Bytom 
+"Jun 30, 2011",,End of loan,Poland,7976.0,Polonia Bytom ,43441,250 Th. €,Przemyslaw Trytko,10/11,Poland,2300.0,J. Bialystok 
+"Feb 1, 2011",,Loan,Poland,2300.0,J. Bialystok ,43441,300 Th. €,Przemyslaw Trytko,10/11,Poland,7976.0,Polonia Bytom 
+"Jul 1, 2010",,100 Th. €,Germany,25.0,Energie Cottbus ,43441,400 Th. €,Przemyslaw Trytko,10/11,Poland,2300.0,J. Bialystok 
+"Jun 30, 2010",,End of loan,Poland,6107.0,Arka Gdynia ,43441,400 Th. €,Przemyslaw Trytko,09/10,Germany,25.0,Energie Cottbus 
+"Jul 1, 2008",,Loan fee:20 Th. €,Germany,25.0,Energie Cottbus ,43441,100 Th. €,Przemyslaw Trytko,08/09,Poland,6107.0,Arka Gdynia 
+"Aug 1, 2006",,50 Th. €,Poland,1991.0,Gwarek Zabrze ,43441,-,Przemyslaw Trytko,06/07,Germany,25.0,Energie Cottbus 
+"Jul 1, 2005",,-,Poland,19278.0,Gwarek U19 ,43441,-,Przemyslaw Trytko,05/06,Poland,1991.0,Gwarek Zabrze 
+"Mar 15, 2016",,Free transfer,Slovenia,23253.0,NK Zavrc ,27826,300 Th. €,Denis Glavina,15/16,Kazakhstan,10481.0,Tobol Kostanay 
+"Sep 25, 2015",,Free transfer,Croatia,420.0,RNK Split ,27826,500 Th. €,Denis Glavina,15/16,Slovenia,23253.0,NK Zavrc 
+"Aug 31, 2012",,Free transfer,Croatia,599.0,NK Varazdin ,27826,375 Th. €,Denis Glavina,12/13,Croatia,420.0,RNK Split 
+"Feb 14, 2012",,-,Croatia,515.0,Unattached ,27826,375 Th. €,Denis Glavina,11/12,,599.0,NK Varazdin 
+"Jul 1, 2011",,-,Poland,6107.0,Arka Gdynia ,27826,375 Th. €,Denis Glavina,11/12,,515.0,Unattached 
+"Jul 1, 2010",,Free transfer,Ukraine,2740.0,Vorskla ,27826,500 Th. €,Denis Glavina,10/11,Poland,6107.0,Arka Gdynia 
+"Dec 31, 2009",,End of loan,Croatia,419.0,Dinamo Zagreb ,27826,600 Th. €,Denis Glavina,09/10,Ukraine,2740.0,Vorskla 
+"Jul 21, 2009",,Loan,Ukraine,2740.0,Vorskla ,27826,"1,00 Mill. €",Denis Glavina,09/10,Croatia,419.0,Dinamo Zagreb 
+"Jul 1, 2008",,?,Ukraine,6249.0,Dynamo 2 Kyiv ,27826,650 Th. €,Denis Glavina,08/09,Ukraine,2740.0,Vorskla 
+"Jun 30, 2008",,End of loan,Ukraine,2740.0,Vorskla ,27826,650 Th. €,Denis Glavina,07/08,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Jan 1, 2007",,Loan,Ukraine,6249.0,Dynamo 2 Kyiv ,27826,-,Denis Glavina,06/07,Ukraine,2740.0,Vorskla 
+"Dec 1, 2006",,End of loan,Ukraine,339.0,Dnipro ,27826,-,Denis Glavina,06/07,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Jul 1, 2006",,Loan,Ukraine,6249.0,Dynamo 2 Kyiv ,27826,-,Denis Glavina,06/07,Ukraine,339.0,Dnipro 
+"Jun 30, 2006",,End of loan,Ukraine,2740.0,Vorskla ,27826,-,Denis Glavina,05/06,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Mar 1, 2006",,Loan,Ukraine,6249.0,Dynamo 2 Kyiv ,27826,-,Denis Glavina,05/06,Ukraine,2740.0,Vorskla 
+"Jan 1, 2004",,?,Croatia,9641.0,Din. Zagreb U19 ,27826,-,Denis Glavina,03/04,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Jul 1, 2003",,-,Croatia,36342.0,Din. Zagreb U17 ,27826,-,Denis Glavina,03/04,Croatia,9641.0,Din. Zagreb U19 
+"Jul 1, 2001",,-,Croatia,36341.0,D. Zagreb Jgd. ,27826,-,Denis Glavina,01/02,Croatia,36342.0,Din. Zagreb U17 
+"Feb 27, 2001",,?,Croatia,48709.0,NK Cakovec Jgd ,27826,-,Denis Glavina,00/01,Croatia,36341.0,D. Zagreb Jgd. 
+"Jan 1, 2016",,?,Kazakhstan,28477.0,FK Astana II ,345907,-,Adil Balgabaev,15/16,Kazakhstan,15299.0,Zhetysu 
+"Jan 1, 2014",,-,Kazakhstan,38605.0,Astana U19 ,345907,-,Adil Balgabaev,13/14,Kazakhstan,28477.0,FK Astana II 
+"Feb 1, 2016",,?,Russia,11750.0,Rubin Kazan II ,189621,200 Th. €,Bobir Davlatov,15/16,Kazakhstan,10157.0,Aktobe 
+"Dec 31, 2015",,End of loan,Kazakhstan,15299.0,Zhetysu ,189621,200 Th. €,Bobir Davlatov,15/16,Russia,11750.0,Rubin Kazan II 
+"Jul 7, 2015",,Loan,Russia,11750.0,Rubin Kazan II ,189621,25 Th. €,Bobir Davlatov,15/16,Kazakhstan,15299.0,Zhetysu 
+"Aug 8, 2014",,-,Russia,50447.0,LFK Rubin Kazan ,189621,25 Th. €,Bobir Davlatov,14/15,Russia,11750.0,Rubin Kazan II 
+"Jan 1, 2013",,Free transfer,Uzbekistan,13649.0,FK Mash'al Mubarek ,189621,25 Th. €,Bobir Davlatov,12/13,Russia,50447.0,LFK Rubin Kazan 
+"Jan 1, 2012",,Free transfer,Uzbekistan,34823.0,FC Yangier ,189621,-,Bobir Davlatov,11/12,Uzbekistan,13649.0,FK Mash'al Mubarek 
+"Mar 5, 2016",,Free transfer,Serbia,22471.0,Car Konstantin ,36919,25 Th. €,Dusan Djokic,15/16,Kazakhstan,22994.0,Taraz 
+"Jul 1, 2015",,Free transfer,Bosnia-Herzegovina,628.0,Velez Mostar ,36919,25 Th. €,Dusan Djokic,15/16,Serbia,22471.0,Car Konstantin 
+"Jul 1, 2014",,?,Serbia,25196.0,Sindjelic ,36919,-,Dusan Djokic,14/15,Bosnia-Herzegovina,628.0,Velez Mostar 
+"Jan 1, 2012",,?,Serbia,6619.0,Banat Zrenjanin ,36919,-,Dusan Djokic,11/12,Serbia,25196.0,Sindjelic 
+"Jul 1, 2010",,?,Serbia,7567.0,Radnicki Nis ,36919,-,Dusan Djokic,10/11,Serbia,6619.0,Banat Zrenjanin 
+"Jul 1, 2009",,?,Serbia,4645.0,Radnicki 1923 ,36919,-,Dusan Djokic,09/10,Serbia,7567.0,Radnicki Nis 
+"Jan 1, 2009",,?,Montenegro,8357.0,Jedinstvo Bijelo Polje ,36919,-,Dusan Djokic,08/09,Serbia,4645.0,Radnicki 1923 
+"Jul 1, 2007",,Free transfer,Hungary,213.0,Vác ,36919,-,Dusan Djokic,07/08,Montenegro,8357.0,Jedinstvo Bijelo Polje 
+"Feb 1, 2007",,Free transfer,Brazil,15656.0,Duque de Caxias ,36919,-,Dusan Djokic,06/07,Hungary,213.0,Vác 
+"Jan 1, 2007",,?,Serbia,12135.0,FK Metalac ,36919,-,Dusan Djokic,06/07,Brazil,15656.0,Duque de Caxias 
+"Jan 1, 2006",,?,Serbia,20887.0,Jedinstvo Ub ,36919,-,Dusan Djokic,05/06,Serbia,12135.0,FK Metalac 
+"Jul 1, 2005",,?,Serbia,37.0,FK Obilic ,36919,-,Dusan Djokic,05/06,Serbia,20887.0,Jedinstvo Ub 
+"Jul 1, 2004",,?,Serbia,23682.0,Dorcol ,36919,-,Dusan Djokic,04/05,Serbia,37.0,FK Obilic 
+"Jan 1, 2004",,?,Serbia,7567.0,Radnicki Nis ,36919,-,Dusan Djokic,03/04,Serbia,23682.0,Dorcol 
+"Feb 29, 2016",,Free transfer,Belarus,23664.0,FK Minsk ,118462,350 Th. €,Aleksandr Makas,15/16,Kazakhstan,16198.0,Atyrau 
+"Jan 27, 2012",,Free transfer,Belarus,10640.0,Partizan Minsk ,118462,100 Th. €,Aleksandr Makas,11/12,Belarus,23664.0,FK Minsk 
+"Mar 1, 2009",,-,Belarus,25617.0,Partizan II ,118462,-,Aleksandr Makas,08/09,Belarus,10640.0,MTZ-Ripo Minsk 
+"Jan 1, 2009",,-,Belarus,31680.0,Partizan U19 ,118462,-,Aleksandr Makas,08/09,Belarus,25617.0,Partizan II 
+"Jan 13, 2016",,Free transfer,Russia,6432.0,Volgar ,25056,200 Th. €,Aleksandr Alkhazov,15/16,Kazakhstan,19662.0,Okzhetpes 
+"Jan 24, 2013",,?,Russia,2374.0,Shinnik ,25056,150 Th. €,Aleksandr Alkhazov,12/13,Russia,6432.0,Volgar 
+"Jul 1, 2012",,Free transfer,Russia,4057.0,Luch-Energia ,25056,250 Th. €,Aleksandr Alkhazov,12/13,Russia,2374.0,Shinnik 
+"Mar 31, 2011",,Free transfer,Russia,2696.0,KS Samara ,25056,400 Th. €,Aleksandr Alkhazov,10/11,Russia,4057.0,Luch-Energia 
+"Dec 31, 2010",,End of loan,Russia,2703.0,Alania ,25056,400 Th. €,Aleksandr Alkhazov,10/11,Russia,2696.0,KS Samara 
+"Aug 18, 2010",,Loan,Russia,2696.0,KS Samara ,25056,400 Th. €,Aleksandr Alkhazov,10/11,Russia,2703.0,Alania 
+"Mar 26, 2010",,Free transfer,Russia,3243.0,KamAZ ,25056,750 Th. €,Aleksandr Alkhazov,09/10,Russia,2696.0,KS Samara 
+"Dec 1, 2008",,End of loan,Russia,11128.0,Zvezda Irkutsk ,25056,750 Th. €,Aleksandr Alkhazov,08/09,Russia,3243.0,KamAZ 
+"Jan 1, 2008",,Loan,Russia,3243.0,KamAZ ,25056,450 Th. €,Aleksandr Alkhazov,07/08,Russia,11128.0,Zvezda Irkutsk 
+"Jan 1, 2007",,?,Russia,10898.0,Spartak Nizhniy Novgorod ,25056,-,Aleksandr Alkhazov,06/07,Russia,3243.0,KamAZ 
+"Jan 1, 2006",,Free transfer,Russia,11746.0,FK Rostov II ,25056,-,Aleksandr Alkhazov,05/06,Russia,10898.0,Spartak Nizhniy Novgorod 
+"Jan 1, 2002",,?,Russia,22810.0,Torpedo Armavir ,25056,-,Aleksandr Alkhazov,01/02,Russia,11746.0,Rostselmash II 
+"Jan 1, 2001",,-,Russia,53110.0,T. Armavir Jgd ,25056,-,Aleksandr Alkhazov,00/01,Russia,22810.0,Torpedo Armavir 
+"Jul 24, 2016",,End of loan,Kazakhstan,10157.0,Aktobe ,288721,50 Th. €,Egor Sorokin,16/17,Russia,11750.0,Rubin Kazan II 
+"Jan 1, 2016",,Loan,Russia,11750.0,Rubin Kazan II ,288721,50 Th. €,Egor Sorokin,15/16,Kazakhstan,10157.0,Aktobe 
+"Jan 1, 2014",,Free transfer,Russia,40426.0,Tosno ,288721,25 Th. €,Egor Sorokin,13/14,Russia,11750.0,Rubin Kazan II 
+"Jul 1, 2013",,Free transfer,Russia,75.0,Unknown ,288721,-,Egor Sorokin,11/12,,40426.0,Tosno 
+"Jun 10, 2016",,Free transfer,Ukraine,53436.0,Catanzaro Kiew ,9796,-,Oleksandr Aliev,15/16,Kazakhstan,22994.0,Taraz 
+"Mar 31, 2016",,-,Ukraine,515.0,Unattached ,9796,-,Oleksandr Aliev,15/16,,53436.0,Catanzaro Kiew 
+"Jan 1, 2016",,-,Ukraine,48726.0,Rukh Vynnyky ,9796,-,Oleksandr Aliev,15/16,,515.0,Unattached 
+"Apr 25, 2015",,-,Ukraine,515.0,Unattached ,9796,800 Th. €,Oleksandr Aliev,14/15,,48726.0,Rukh Vynnyky 
+"Jan 16, 2015",,-,Russia,2700.0,Anzhi ,9796,800 Th. €,Oleksandr Aliev,14/15,,515.0,Unattached 
+"Jan 15, 2014",,Free transfer,Ukraine,6249.0,Dynamo 2 Kyiv ,9796,"1,50 Mill. €",Oleksandr Aliev,13/14,Russia,2700.0,Anzhi 
+"Jul 1, 2013",,-,Ukraine,338.0,Dynamo Kyiv ,9796,"4,00 Mill. €",Oleksandr Aliev,13/14,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Dec 31, 2012",,End of loan,Ukraine,339.0,Dnipro ,9796,"6,00 Mill. €",Oleksandr Aliev,12/13,Ukraine,338.0,Dynamo Kyiv 
+"Jul 13, 2012",,Loan,Ukraine,338.0,Dynamo Kyiv ,9796,"6,00 Mill. €",Oleksandr Aliev,12/13,Ukraine,339.0,Dnipro 
+"Mar 2, 2011",,"8,00 Mill. €",Russia,932.0,Loko Moscow ,9796,"10,00 Mill. €",Oleksandr Aliev,10/11,Ukraine,338.0,Dynamo Kyiv 
+"Jan 9, 2010",,"8,00 Mill. €",Ukraine,338.0,Dynamo Kyiv ,9796,"7,00 Mill. €",Oleksandr Aliev,09/10,Russia,932.0,Loko Moscow 
+"Jul 1, 2006",,-,Ukraine,6249.0,Dynamo 2 Kyiv ,9796,250 Th. €,Oleksandr Aliev,06/07,Ukraine,338.0,Dynamo Kyiv 
+"Jun 30, 2006",,End of loan,Ukraine,6994.0,Metalurg Z. ,9796,250 Th. €,Oleksandr Aliev,05/06,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Jan 1, 2006",,Loan,Ukraine,6249.0,Dynamo 2 Kyiv ,9796,250 Th. €,Oleksandr Aliev,05/06,Ukraine,6994.0,Metalurg Z. 
+"Jul 1, 2002",,300 Th. €,Ukraine,3593.0,Borysfen ,9796,-,Oleksandr Aliev,02/03,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Jan 1, 2002",,?,Russia,14301.0,Spartak Moscow U19 ,9796,-,Oleksandr Aliev,01/02,Ukraine,3593.0,Borysfen 
+"Mar 9, 2016",,Free transfer,Romania,36590.0,Poli Timisoara ,81477,350 Th. €,Alexandru Curtean,15/16,Kazakhstan,16198.0,Atyrau 
+"Jul 1, 2015",,Free transfer,Romania,8104.0,Gaz Metan ,81477,500 Th. €,Alexandru Curtean,15/16,Romania,36590.0,Poli Timisoara 
+"Sep 15, 2014",,Free transfer,Bulgaria,2531.0,Botev Plovdiv ,81477,"1,80 Mill. €",Alexandru Curtean,14/15,Romania,8104.0,Gaz Metan 
+"Jan 11, 2014",,Free transfer,Romania,312.0,Dinamo Bukarest ,81477,"1,60 Mill. €",Alexandru Curtean,13/14,Bulgaria,2531.0,Botev Plovdiv 
+"Jan 1, 2012",,700 Th. €,Romania,7074.0,Poli. Timisoara ,81477,"1,30 Mill. €",Alexandru Curtean,11/12,Romania,312.0,Dinamo Bukarest 
+"Jan 1, 2009",,"1,50 Mill. €",Romania,8104.0,Gaz Metan ,81477,500 Th. €,Alexandru Curtean,08/09,Romania,7074.0,Poli. Timisoara 
+"Feb 23, 2016",,Free transfer,Kazakhstan,41704.0,FC Bayterek ,344390,-,Abylaykhan Duysen,15/16,Kazakhstan,22220.0,FC Astana 
+"Dec 31, 2014",,End of loan,Kazakhstan,38620.0,Ordabasy II ,344390,-,Abylaykhan Duysen,14/15,Kazakhstan,41704.0,FC Bayterek 
+"Jul 1, 2014",,Loan,Kazakhstan,41704.0,FC Bayterek ,344390,-,Abylaykhan Duysen,14/15,Kazakhstan,38620.0,Ordabasy II 
+"Mar 2, 2016",,?,Slovakia,20063.0,Podbrezova ,289156,150 Th. €,Julius Szöke,15/16,Kazakhstan,10480.0,Schachtjor K. 
+"Jul 1, 2015",,?,Slovakia,12005.0,Zlate Moravce ,289156,150 Th. €,Julius Szöke,15/16,Slovakia,20063.0,Podbrezova 
+"Jul 1, 2014",,Free transfer,Slovakia,7087.0,Ruzomberok ,289156,50 Th. €,Julius Szöke,14/15,Slovakia,12005.0,Zlate Moravce 
+"Feb 1, 2014",,Free transfer,Slovakia,20063.0,Podbrezova ,289156,-,Julius Szöke,13/14,Slovakia,7087.0,Ruzomberok 
+"Feb 14, 2016",,?,Russia,44879.0,Tom 2 Tomsk ,127308,150 Th. €,Nikita Bocharov,15/16,Kazakhstan,10157.0,Aktobe 
+"Aug 31, 2015",,Free transfer,Russia,11750.0,Rubin Kazan II ,127308,150 Th. €,Nikita Bocharov,15/16,Russia,44879.0,Tom 2 Tomsk 
+"Jun 30, 2014",,End of loan,Russia,3733.0,Neftekhimik ,127308,150 Th. €,Nikita Bocharov,13/14,Russia,11750.0,Rubin Kazan II 
+"Aug 9, 2012",,Loan,Russia,11750.0,Rubin Kazan II ,127308,75 Th. €,Nikita Bocharov,12/13,Russia,3733.0,Neftekhimik 
+"Feb 18, 2012",,Free transfer,Russia,6082.0,Zenit St. Petersburg II ,127308,75 Th. €,Nikita Bocharov,11/12,Russia,11750.0,Rubin Kazan II 
+"Aug 31, 2009",,-,Russia,14308.0,Akademia Zenit St. Petersburg ,127308,-,Nikita Bocharov,09/10,Russia,6082.0,Zenit St. Petersburg II 
+"Jan 1, 2016",,-,Kazakhstan,38620.0,Ordabasy II ,287181,-,Yaroslav Bondarenko,15/16,Kazakhstan,16779.0,Ordabasy 
+"Dec 31, 2014",,End of loan,Kazakhstan,22995.0,Kyzyl-Zhar ,287181,-,Yaroslav Bondarenko,14/15,Kazakhstan,38620.0,Ordabasy II 
+"Jul 8, 2014",,Loan,Kazakhstan,38620.0,Ordabasy II ,287181,-,Yaroslav Bondarenko,14/15,Kazakhstan,22995.0,Kyzyl-Zhar 
+"Jun 30, 2014",,End of loan,Kazakhstan,12019.0,FK Astana 1964 ,287181,-,Yaroslav Bondarenko,13/14,Kazakhstan,38620.0,Ordabasy II 
+"Jan 1, 2014",,Loan,Kazakhstan,38620.0,Ordabasy II ,287181,-,Yaroslav Bondarenko,13/14,Kazakhstan,12019.0,FK Astana 1964 
+"Jul 1, 2015",,-,Kazakhstan,38615.0,Pavlodar II ,337999,-,Vladimir Vomenko,15/16,Kazakhstan,10540.0,Irtysh 
+"Apr 1, 2016",,-,Kazakhstan,515.0,Unattached ,290896,-,Ramir Khassanov,15/16,,15299.0,Zhetysu 
+"Jul 1, 2015",,-,Germany,67.0,Unterhaching II ,290896,-,Ramir Khassanov,15/16,,515.0,Unattached 
+"Jan 1, 2015",,?,Germany,43641.0,DFI Bad Aibling ,290896,-,Ramir Khassanov,14/15,Germany,67.0,Unterhaching II 
+"Jul 1, 2013",,?,Kazakhstan,38639.0,CSKA Almaty ,290896,-,Ramir Khassanov,13/14,Germany,43641.0,DFI Bad Aibling 
+"Jan 1, 2014",,-,Kazakhstan,38600.0,Akzhayik II ,274129,-,Andrey Neupokoev,13/14,Kazakhstan,28178.0,Akzhayik 
+"Dec 31, 2016",,End of loan,Kazakhstan,10540.0,Irtysh ,79189,300 Th. €,Georgas Freidgeimas,16/17,Lithuania,602.0,Zalgiris 
+"Feb 8, 2016",,Loan,Lithuania,602.0,Zalgiris ,79189,300 Th. €,Georgas Freidgeimas,15/16,Kazakhstan,10540.0,Irtysh 
+"Jan 1, 2011",,?,Lithuania,5970.0,Siauliai ,79189,75 Th. €,Georgas Freidgeimas,10/11,Lithuania,602.0,Zalgiris 
+"Aug 1, 2010",,Free transfer,Lithuania,5956.0,Vetra Vilnius ,79189,75 Th. €,Georgas Freidgeimas,10/11,Lithuania,5970.0,Siauliai 
+"Mar 1, 2010",,Free transfer,Poland,256.0,LKS Lodz ,79189,125 Th. €,Georgas Freidgeimas,09/10,Lithuania,5956.0,Vetra Vilnius 
+"Jul 1, 2008",,Free transfer,Lithuania,8608.0,FC Vilnius ,79189,-,Georgas Freidgeimas,08/09,Poland,256.0,LKS Lodz 
+"Jan 1, 2016",,Free transfer,Kazakhstan,41704.0,FC Bayterek ,290903,-,Farukh Mirsalimbayev,15/16,Kazakhstan,22994.0,Taraz 
+"Apr 1, 2015",,Free transfer,Brazil,22066.0,Olé Brasil ,290903,-,Farukh Mirsalimbayev,14/15,Kazakhstan,41704.0,FC Bayterek 
+"Dec 31, 2016",,End of loan,Kazakhstan,10480.0,Schachtjor K. ,206553,250 Th. €,Moshtagh Yaghoubi,16/17,Latvia,28936.0,Spartaks 
+"Mar 17, 2016",,Loan,Latvia,28936.0,Spartaks ,206553,250 Th. €,Moshtagh Yaghoubi,15/16,Kazakhstan,10480.0,Schachtjor K. 
+"Mar 3, 2016",,Free transfer,Finland,3776.0,RoPS ,206553,250 Th. €,Moshtagh Yaghoubi,15/16,Latvia,28936.0,Spartaks 
+"Mar 5, 2015",,Ablösefrei,Latvia,28936.0,Spartaks ,206553,150 Th. €,Moshtagh Yaghoubi,14/15,Finland,3776.0,RoPS 
+"Jun 30, 2014",,End of loan,Russia,11741.0,Dinamo Moscow II ,206553,125 Th. €,Moshtagh Yaghoubi,13/14,Latvia,28936.0,Spartaks 
+"Feb 27, 2014",,Loan,Latvia,28936.0,Spartaks ,206553,125 Th. €,Moshtagh Yaghoubi,13/14,Russia,11741.0,Dinamo Moscow II 
+"Feb 8, 2014",,Free transfer,Finland,5411.0,FC Honka ,206553,125 Th. €,Moshtagh Yaghoubi,13/14,Latvia,28936.0,Spartaks 
+"Jan 1, 2012",,-,Finland,20872.0,FC Honka U19 ,206553,-,Moshtagh Yaghoubi,11/12,Finland,5411.0,FC Honka 
+"Feb 22, 2016",,-,Kazakhstan,515.0,Unattached ,42459,300 Th. €,Danilo Nikolic,15/16,,28178.0,Akzhayik 
+"Jul 1, 2015",,-,Serbia,4634.0,FK Vozdovac  ,42459,300 Th. €,Danilo Nikolic,15/16,,515.0,Unattached 
+"Aug 31, 2014",,?,Israel,810.0,Hapoel Haifa ,42459,500 Th. €,Danilo Nikolic,14/15,Serbia,4634.0,FK Vozdovac  
+"Aug 23, 2012",,-,Israel,515.0,Unattached ,42459,700 Th. €,Danilo Nikolic,12/13,,810.0,Hapoel Haifa 
+"Jan 20, 2012",,-,Turkey,1506.0,Karabükspor ,42459,700 Th. €,Danilo Nikolic,11/12,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Serbia,53.0,OFK Beograd ,42459,400 Th. €,Danilo Nikolic,11/12,Turkey,1506.0,Karabükspor 
+"Jul 1, 2009",,Free transfer,Albania,588.0,Dinamo Tiranë ,42459,150 Th. €,Danilo Nikolic,09/10,Serbia,53.0,OFK Beograd 
+"Jul 1, 2008",,Free transfer,Serbia,10319.0,FK Bezanija ,42459,150 Th. €,Danilo Nikolic,08/09,Albania,588.0,Dinamo Tiranë 
+"Jul 1, 2005",,?,Serbia,3521.0,FK Zemun ,42459,-,Danilo Nikolic,05/06,Serbia,10319.0,FK Bezanija 
+,,,,,,425053,,,,,,
+"Feb 24, 2016",,?,Croatia,999.0,NK Istra 1961  ,36830,"1,00 Mill. €",Filip Kasalica,15/16,Kazakhstan,16779.0,Ordabasy 
+"Aug 13, 2015",,-,Croatia,515.0,Unattached ,36830,"1,50 Mill. €",Filip Kasalica,15/16,,999.0,NK Istra 1961  
+"Feb 4, 2015",,-,"Korea, South",3535.0,Ulsan ,36830,"1,50 Mill. €",Filip Kasalica,14/15,,515.0,Unattached 
+"Jul 9, 2014",,?,Serbia,159.0,Red Star ,36830,"1,50 Mill. €",Filip Kasalica,14/15,"Korea, South",3535.0,Ulsan 
+"Jan 1, 2012",,295 Th. €,Serbia,11066.0,Sloboda Uzice ,36830,700 Th. €,Filip Kasalica,11/12,Serbia,159.0,Red Star 
+"Jul 1, 2011",,?,Serbia,3140.0,Hajduk Kula ,36830,250 Th. €,Filip Kasalica,11/12,Serbia,11066.0,Sloboda Uzice 
+"Jul 1, 2008",,?,Serbia,53.0,OFK Beograd ,36830,125 Th. €,Filip Kasalica,08/09,Serbia,3140.0,Hajduk Kula 
+"Jun 30, 2008",,End of loan,Serbia,3140.0,Hajduk Kula ,36830,125 Th. €,Filip Kasalica,07/08,Serbia,53.0,OFK Beograd 
+"Jan 1, 2008",,Loan,Serbia,53.0,OFK Beograd ,36830,-,Filip Kasalica,07/08,Serbia,3140.0,Hajduk Kula 
+"Jun 30, 2007",,End of loan,Serbia,4657.0,FK Macva Sabac ,36830,-,Filip Kasalica,06/07,Serbia,53.0,OFK Beograd 
+"Jan 1, 2007",,Loan,Serbia,53.0,OFK Beograd ,36830,-,Filip Kasalica,06/07,Serbia,4657.0,FK Macva Sabac 
+"Jul 5, 2015",,Free transfer,Russia,964.0,Zenit S-Pb ,14944,200 Th. €,Anatoliy Tymoshchuk,15/16,Kazakhstan,10482.0,Kairat Almaty 
+"Jul 1, 2013",,Free transfer,Germany,27.0,Bayern Munich  ,14944,"2,00 Mill. €",Anatoliy Tymoshchuk,13/14,Russia,964.0,Zenit S-Pb 
+"Jul 1, 2009",,"11,00 Mill. €",Russia,964.0,Zenit S-Pb ,14944,"20,00 Mill. €",Anatoliy Tymoshchuk,09/10,Germany,27.0,Bayern Munich  
+"Feb 28, 2007",,"14,50 Mill. €",Ukraine,660.0,Shakhtar D. ,14944,"6,00 Mill. €",Anatoliy Tymoshchuk,06/07,Russia,964.0,Zenit S-Pb 
+"Mar 1, 1998",,125 Th. €,Ukraine,4482.0,Volyn Lutsk ,14944,-,Anatoliy Tymoshchuk,97/98,Ukraine,660.0,Shakhtar D. 
+"Jul 1, 1995",,-,Ukraine,19742.0,Volyn Lutsk II ,14944,-,Anatoliy Tymoshchuk,95/96,Ukraine,4482.0,Volyn Lutsk 
+"Jun 23, 2015",,Free transfer,Germany,38.0,F. DÃ¼sseldorf ,104545,900 Th. â‚¬,Bruno Soares,14/15,Kazakhstan,10482.0,Kairat Almaty 
+"Jul 1, 2012",,Free transfer,Germany,52.0,MSV Duisburg ,104545,"1,00 Mill. â‚¬",Bruno Soares,12/13,Germany,38.0,F. DÃ¼sseldorf 
+"Jul 1, 2009",,-,Germany,515.0,Unattached ,104545,-,Bruno Soares,09/10,,52.0,MSV Duisburg 
+"Feb 1, 2009",,-,Brazil,309.0,ParanÃ¡ ,104545,-,Bruno Soares,08/09,,515.0,Unattached 
+"Dec 1, 2008",,Free transfer,Brazil,4568.0,Nacional AtlÃ©tico Clube (PR) ,104545,-,Bruno Soares,08/09,Brazil,309.0,ParanÃ¡ 
+"Sep 1, 2008",,Free transfer,Brazil,776.0,Coritiba FC ,104545,-,Bruno Soares,08/09,Brazil,4568.0,Nacional AtlÃ©tico Clube (PR) 
+"Apr 1, 2008",,End of loan,Brazil,16424.0,Toledo ,104545,-,Bruno Soares,07/08,Brazil,776.0,Coritiba FC 
+"Jan 1, 2008",,Loan,Brazil,776.0,Coritiba FC ,104545,-,Bruno Soares,07/08,Brazil,16424.0,Toledo 
+"Jan 1, 2007",,-,Brazil,15130.0,Coritiba FC B ,104545,-,Bruno Soares,06/07,Brazil,776.0,Coritiba FC 
+"Feb 24, 2016",,?,Croatia,327.0,NK Osijek ,180836,100 Th. €,Sandro Tsveiba,15/16,Kazakhstan,10157.0,Aktobe 
+"Sep 4, 2015",,Free transfer,Hungary,708.0,Újpest FC ,180836,75 Th. €,Sandro Tsveiba,15/16,Croatia,327.0,NK Osijek 
+"Aug 18, 2014",,Free transfer,Russia,3690.0,SKA-Energia ,180836,75 Th. €,Sandro Tsveiba,14/15,Hungary,708.0,Újpest FC 
+"Feb 17, 2014",,Free transfer,Russia,36661.0,Rusj S-Pb ,180836,25 Th. €,Sandro Tsveiba,13/14,Russia,3690.0,SKA-Energia 
+"Jul 8, 2013",,Free transfer,Russia,11749.0,Lokomotiv Moscow II ,180836,25 Th. €,Sandro Tsveiba,13/14,Russia,36661.0,Rusj S-Pb 
+"Jan 1, 2011",,-,Russia,14293.0,Lokomotiv Moscow U19 ,180836,-,Sandro Tsveiba,10/11,Russia,11749.0,Lokomotiv Moscow II 
+"Feb 19, 2016",,Free transfer,Finland,1008.0,HJK Helsinki ,37351,600 Th. €,Erfan Zeneli,15/16,Kazakhstan,10480.0,Schachtjor K. 
+"Jul 1, 2014",,Free transfer,Israel,3785.0,M. Petah Tikva ,37351,275 Th. €,Erfan Zeneli,14/15,Finland,1008.0,HJK Helsinki 
+"Feb 5, 2014",,Free transfer,Finland,1008.0,HJK Helsinki ,37351,275 Th. €,Erfan Zeneli,13/14,Israel,3785.0,M. Petah Tikva 
+"Jan 1, 2010",,-,Finland,11131.0,Klubi-04 ,37351,400 Th. €,Erfan Zeneli,09/10,Finland,1008.0,HJK Helsinki 
+"Apr 1, 2009",,-,Finland,1008.0,HJK Helsinki ,37351,400 Th. €,Erfan Zeneli,08/09,Finland,11131.0,Klubi-04 
+"Jan 1, 2005",,-,Finland,15665.0,HJK U19 ,37351,-,Erfan Zeneli,04/05,Finland,1008.0,HJK Helsinki 
+"Feb 22, 2016",,Free transfer,Serbia,3521.0,FK Zemun ,48616,150 Th. €,Sasa Kolunija,15/16,Kazakhstan,28178.0,Akzhayik 
+"Jul 1, 2015",,?,Serbia,10319.0,FK Bezanija ,48616,150 Th. €,Sasa Kolunija,15/16,Serbia,3521.0,FK Zemun 
+"Jul 1, 2014",,?,Serbia,902.0,Rad ,48616,150 Th. €,Sasa Kolunija,14/15,Serbia,10319.0,FK Bezanija 
+"Jan 20, 2014",,-,Serbia,515.0,Unattached ,48616,150 Th. €,Sasa Kolunija,13/14,,902.0,Rad 
+"Jul 1, 2013",,-,Iran,6080.0,Saipa Teheran ,48616,150 Th. €,Sasa Kolunija,13/14,,515.0,Unattached 
+"Jul 1, 2012",,?,Iran,54.0,PAS Hamedan ,48616,25 Th. €,Sasa Kolunija,12/13,Iran,36602.0,Gahar Zagros 
+"Jul 1, 2009",,?,Serbia,5681.0,Radnicki Belgrad ,48616,25 Th. €,Sasa Kolunija,09/10,Iran,54.0,PAS Hamedan 
+"Jan 1, 2009",,?,Serbia,10319.0,FK Bezanija ,48616,25 Th. €,Sasa Kolunija,08/09,Serbia,5681.0,Radnicki Belgrad 
+"Jul 1, 2008",,?,Serbia,75.0,Unknown ,48616,25 Th. €,Sasa Kolunija,08/09,,10319.0,FK Bezanija 
+"Jan 1, 2008",,?,Serbia,4634.0,FK Vozdovac  ,48616,120 Th. €,Sasa Kolunija,07/08,,75.0,Unknown 
+"Jul 1, 2007",,?,Serbia,10319.0,FK Bezanija ,48616,120 Th. €,Sasa Kolunija,07/08,Serbia,4634.0,FK Vozdovac  
+"Feb 9, 2016",,Free transfer,Russia,3729.0,Arsenal Tula ,74985,750 Th. €,Lukás Tesák,15/16,Kazakhstan,10482.0,Kairat Almaty 
+"Sep 1, 2014",,?,Russia,1186.0,Torpedo Moscow ,74985,750 Th. €,Lukás Tesák,14/15,Russia,3729.0,Arsenal Tula 
+"Jul 9, 2012",,Free transfer,Ukraine,10690.0,Zorya Lugansk ,74985,300 Th. €,Lukás Tesák,12/13,Russia,1186.0,Torpedo Moscow 
+"Aug 1, 2010",,?,Slovakia,4531.0,Tatran Presov ,74985,50 Th. €,Lukás Tesák,10/11,Ukraine,10690.0,Zorya Lugansk 
+"Feb 1, 2010",,?,Slovakia,6163.0,FK Senica ,74985,-,Lukás Tesák,09/10,Slovakia,4531.0,Tatran Presov 
+"Jul 1, 2009",,Free transfer,Slovakia,1443.0,MSK Zilina ,74985,-,Lukás Tesák,09/10,Slovakia,6163.0,FK Senica 
+"Jun 30, 2007",,End of loan,Slovakia,13903.0,Rimavska Sobota ,74985,-,Lukás Tesák,06/07,Slovakia,1443.0,MSK Zilina 
+"Jan 1, 2007",,Loan,Slovakia,1443.0,MSK Zilina ,74985,-,Lukás Tesák,06/07,Slovakia,13903.0,Rimavska Sobota 
+"Jan 1, 2006",,?,Slovakia,7392.0,Dubnica ,74985,-,Lukás Tesák,05/06,Slovakia,1443.0,MSK Zilina 
+"Feb 1, 2016",,?,Russia,22444.0,Dnepr Smolensk ,181996,25 Th. €,Marat Sitdikov,15/16,Kazakhstan,10157.0,Aktobe 
+"Jul 28, 2015",,Free transfer,Russia,20323.0,Rubin 2 ,181996,25 Th. €,Marat Sitdikov,15/16,Russia,22444.0,Dnepr Smolensk 
+"Jul 1, 2014",,Free transfer,Russia,75.0,Unknown ,181996,25 Th. €,Marat Sitdikov,14/15,,20323.0,Rubin 2 
+"Jan 1, 2014",,-,,515.0,Unattached ,181996,25 Th. €,Marat Sitdikov,13/14,,75.0,Unknown 
+"Jul 1, 2012",,-,Russia,3733.0,Neftekhimik ,181996,25 Th. €,Marat Sitdikov,12/13,,515.0,Unattached 
+"Jan 1, 2012",,Free transfer,Russia,11750.0,Rubin Kazan II ,181996,-,Marat Sitdikov,11/12,Russia,3733.0,Neftekhimik 
+"Aug 1, 2010",,-,Russia,20323.0,Rubin 2 ,181996,-,Marat Sitdikov,10/11,Russia,11750.0,Rubin Kazan II 
+"Jan 1, 2008",,-,Russia,14298.0,Rubin Kazan U19 ,181996,-,Marat Sitdikov,07/08,Russia,20323.0,Rubin 2 
+,,,,,,427117,,,,,,
+"Jan 20, 2016",,Free transfer,Russia,2374.0,Shinnik ,130927,400 Th. €,Abdel Lamanje,15/16,Kazakhstan,16198.0,Atyrau 
+"Jul 1, 2014",,Free transfer,Russia,3609.0,Rotor Volgograd ,130927,400 Th. €,Abdel Lamanje,14/15,Russia,2374.0,Shinnik 
+"Jul 1, 2013",,Free transfer,Russia,2374.0,Shinnik ,130927,400 Th. €,Abdel Lamanje,13/14,Russia,3609.0,Rotor Volgograd 
+"Jul 1, 2011",,Free transfer,France,1290.0,Grenoble ,130927,100 Th. €,Abdel Lamanje,11/12,Russia,2374.0,Shinnik 
+"Jul 1, 2010",,-,France,16668.0,Grenoble B ,130927,-,Abdel Lamanje,10/11,France,1290.0,Grenoble 
+"Feb 11, 2016",,Free transfer,Lithuania,602.0,Zalgiris ,100723,300 Th. €,Semir Kerla,15/16,Kazakhstan,10540.0,Irtysh 
+"Jul 1, 2014",,Free transfer,Bosnia-Herzegovina,2573.0,Zeljeznicar ,100723,275 Th. €,Semir Kerla,14/15,Lithuania,602.0,Zalgiris 
+"Feb 1, 2012",,Free transfer,Slovakia,1443.0,MSK Zilina ,100723,200 Th. €,Semir Kerla,11/12,Bosnia-Herzegovina,2573.0,Zeljeznicar 
+"Aug 1, 2011",,Free transfer,Greece,3385.0,Panserraikos ,100723,200 Th. €,Semir Kerla,11/12,Slovakia,1443.0,MSK Zilina 
+"Jan 1, 2011",,Free transfer,Bosnia-Herzegovina,2573.0,Zeljeznicar ,100723,225 Th. €,Semir Kerla,10/11,Greece,3385.0,Panserraikos 
+"Feb 5, 2016",,-,Kazakhstan,515.0,Unattached ,217918,200 Th. €,Aleksandar Damcevski,15/16,,16198.0,Atyrau 
+"Aug 8, 2015",,-,Netherlands,132.0,NAC Breda ,217918,200 Th. €,Aleksandar Damcevski,15/16,,515.0,Unattached 
+"Jul 1, 2014",,?,Bulgaria,4494.0,Chern. Burgas ,217918,100 Th. €,Aleksandar Damcevski,14/15,Netherlands,132.0,NAC Breda 
+"Jan 1, 2014",,?,Switzerland,2074.0,SC Kriens ,217918,-,Aleksandar Damcevski,13/14,Bulgaria,4494.0,Chern. Burgas 
+"Jul 31, 2013",,?,Switzerland,5494.0,Luzern U21 ,217918,-,Aleksandar Damcevski,13/14,Switzerland,2074.0,SC Kriens 
+"Jan 1, 2012",,Free transfer,France,3559.0,Toulouse Font. ,217918,-,Aleksandar Damcevski,11/12,Switzerland,5494.0,Luzern U21 
+,,,,,,419191,,,,,,
+"Apr 2, 2016",,?,Ukraine,2477.0,Karpaty ,167032,300 Th. €,Ilya Mikhalev,15/16,Kazakhstan,10157.0,Aktobe 
+"Jan 27, 2016",,End of loan,Russia,40426.0,Tosno ,167032,300 Th. €,Ilya Mikhalev,15/16,Ukraine,2477.0,Karpaty 
+"Aug 21, 2015",,Loan,Ukraine,2477.0,Karpaty ,167032,300 Th. €,Ilya Mikhalev,15/16,Russia,40426.0,Tosno 
+"Jun 30, 2015",,End of loan,Russia,3691.0,Tom Tomsk ,167032,300 Th. €,Ilya Mikhalev,14/15,Ukraine,2477.0,Karpaty 
+"Aug 15, 2014",,Loan,Ukraine,2477.0,Karpaty ,167032,500 Th. €,Ilya Mikhalev,14/15,Russia,3691.0,Tom Tomsk 
+"Jun 30, 2014",,End of loan,Russia,3733.0,Neftekhimik ,167032,500 Th. €,Ilya Mikhalev,13/14,Ukraine,2477.0,Karpaty 
+"Jan 26, 2014",,Loan,Ukraine,2477.0,Karpaty ,167032,400 Th. €,Ilya Mikhalev,13/14,Russia,3733.0,Neftekhimik 
+"Dec 31, 2013",,End of loan,Russia,4057.0,Luch-Energia ,167032,400 Th. €,Ilya Mikhalev,13/14,Ukraine,2477.0,Karpaty 
+"Jul 10, 2013",,Loan,Ukraine,2477.0,Karpaty ,167032,350 Th. €,Ilya Mikhalev,13/14,Russia,4057.0,Luch-Energia 
+"Jun 30, 2013",,End of loan,Russia,3719.0,Khimki ,167032,350 Th. €,Ilya Mikhalev,12/13,Ukraine,2477.0,Karpaty 
+"Feb 12, 2013",,Loan,Ukraine,2477.0,Karpaty ,167032,500 Th. €,Ilya Mikhalev,12/13,Russia,3719.0,Khimki 
+"Dec 31, 2012",,End of loan,Ukraine,18303.0,PFK Oleksandria ,167032,500 Th. €,Ilya Mikhalev,12/13,Ukraine,2477.0,Karpaty 
+"Aug 31, 2012",,Loan,Ukraine,2477.0,Karpaty ,167032,500 Th. €,Ilya Mikhalev,12/13,Ukraine,18303.0,PFK Oleksandria 
+"Jan 1, 2012",,?,Russia,4128.0,Amkar Perm ,167032,400 Th. €,Ilya Mikhalev,11/12,Ukraine,2477.0,Karpaty 
+"Jan 1, 2011",,-,Russia,11740.0,Amkar Perm II ,167032,-,Ilya Mikhalev,10/11,Russia,4128.0,Amkar Perm 
+"Aug 1, 2010",,Free transfer,Ukraine,23611.0,Olimpik Donetsk ,167032,-,Ilya Mikhalev,10/11,Russia,11740.0,Amkar Perm II 
+"Jan 1, 2010",,Free transfer,Ukraine,12425.0,Metalurg Donetsk II ,167032,-,Ilya Mikhalev,09/10,Ukraine,23611.0,Olimpik Donetsk 
+"Jul 1, 2009",,Free transfer,Ukraine,8963.0,Shakhtar II ,167032,-,Ilya Mikhalev,09/10,Ukraine,12425.0,Metalurg Donetsk II 
+"Jul 1, 2007",,-,Ukraine,31606.0,Shakhtar Donetsk U17 ,167032,-,Ilya Mikhalev,07/08,Ukraine,8963.0,Shakhtar II 
+"Apr 2, 2016",,Free transfer,Serbia,4634.0,FK Vozdovac  ,85369,300 Th. €,Risto Ristovic,15/16,Kazakhstan,19662.0,Okzhetpes 
+"Jul 16, 2015",,Free transfer,Greece,4603.0,AE Larisa ,85369,300 Th. €,Risto Ristovic,15/16,Serbia,4634.0,FK Vozdovac  
+"Jan 23, 2015",,Free transfer,Azerbaijan,10693.0,FC Baku ,85369,400 Th. €,Risto Ristovic,14/15,Greece,4603.0,AE Larisa 
+"Feb 7, 2013",,Free transfer,Serbia,4633.0,Novi Pazar ,85369,400 Th. €,Risto Ristovic,12/13,Azerbaijan,10693.0,FC Baku 
+"Jul 1, 2012",,Free transfer,Serbia,6619.0,Banat Zrenjanin ,85369,150 Th. €,Risto Ristovic,12/13,Serbia,4633.0,Novi Pazar 
+"Jul 1, 2008",,Free transfer,Serbia,27132.0,Voda Valjevo ,85369,-,Risto Ristovic,08/09,Serbia,6619.0,Banat Zrenjanin 
+"Jul 1, 2007",,Free transfer,Serbia,53.0,OFK Beograd ,85369,-,Risto Ristovic,07/08,Serbia,27132.0,Voda Valjevo 
+"Jul 1, 2006",,Free transfer,Serbia,4657.0,FK Macva Sabac ,85369,-,Risto Ristovic,06/07,Serbia,53.0,OFK Beograd 
+,'NoneType' object has no attribute 'find_all',,,,,426671,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,427117,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,425053,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,427151,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,419191,,,,,,
