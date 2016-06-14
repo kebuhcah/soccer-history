@@ -1,0 +1,605 @@
+date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Feb 19, 2015",,?,Czech Republic,2598.0,1.FK Pribram ,58372,200 Th. €,Levon Hayrapetyan,14/15,Armenia,10301.0,Pyunik Erevan 
+"Feb 19, 2014",,-,Czech Republic,515.0,Unattached ,58372,300 Th. €,Levon Hayrapetyan,13/14,,2598.0,1.FK Pribram 
+"Dec 13, 2013",,-,Poland,88.0,Widzew Lodz ,58372,300 Th. €,Levon Hayrapetyan,13/14,,515.0,Unattached 
+"Jul 19, 2013",,Free transfer,Poland,4000.0,Lechia Gdansk ,58372,300 Th. €,Levon Hayrapetyan,13/14,Poland,88.0,Widzew Lodz 
+"Jan 1, 2011",,Free transfer,Armenia,10301.0,Pyunik Erevan ,58372,50 Th. €,Levon Hayrapetyan,10/11,Poland,4000.0,Lechia Gdansk 
+"Jul 1, 2010",,Free transfer,Germany,389.0,Hamburger SV II ,58372,50 Th. €,Levon Hayrapetyan,10/11,Armenia,10301.0,Pyunik Erevan 
+"Jul 1, 2008",,-,Germany,2509.0,Hamburg U19 ,58372,-,Levon Hayrapetyan,08/09,Germany,389.0,Hamburger SV II 
+"Jul 1, 2006",,-,Germany,21063.0,Hamburg U17 ,58372,-,Levon Hayrapetyan,06/07,Germany,2509.0,Hamburg U19 
+"Jan 1, 2016",,Free transfer,Czech Republic,18858.0,FK Slavoj ,235528,75 Th. €,David Sraga,15/16,,75.0,Unknown 
+"Jul 1, 2015",,?,Czech Republic,6377.0,Ustí nad Labem ,235528,75 Th. €,David Sraga,15/16,Czech Republic,18858.0,FK Slavoj 
+"Jul 1, 2014",,?,Czech Republic,814.0,FK Teplice ,235528,75 Th. €,David Sraga,14/15,Czech Republic,6377.0,Ustí nad Labem 
+"Jun 30, 2014",,End of loan,Czech Republic,6379.0,Roudnice nad Labem ,235528,75 Th. €,David Sraga,13/14,Czech Republic,814.0,FK Teplice 
+"Jan 1, 2014",,Loan,Czech Republic,814.0,FK Teplice ,235528,75 Th. €,David Sraga,13/14,Czech Republic,6379.0,Roudnice nad Labem 
+"Dec 31, 2013",,End of loan,Czech Republic,8541.0,FK Varnsdorf ,235528,75 Th. €,David Sraga,13/14,Czech Republic,814.0,FK Teplice 
+"Jul 1, 2013",,Loan,Czech Republic,814.0,FK Teplice ,235528,75 Th. €,David Sraga,13/14,Czech Republic,8541.0,FK Varnsdorf 
+"Jun 30, 2013",,End of loan,Czech Republic,797.0,FK Most ,235528,75 Th. €,David Sraga,12/13,Czech Republic,814.0,FK Teplice 
+"Jul 1, 2012",,Loan,Czech Republic,814.0,FK Teplice ,235528,-,David Sraga,12/13,Czech Republic,797.0,FK Most 
+"Jul 1, 2015",,-,Czech Republic,15759.0,1.FC Slovacko U19 ,186387,-,Juraj Semanko,15/16,Czech Republic,5544.0,Slovácko 
+"Jan 1, 2015",,-,Czech Republic,15761.0,Dukla Prag U19 ,292372,100 Th. €,David Tetour,14/15,Czech Republic,450.0,Dukla Prag 
+"Jan 1, 2016",,Free transfer,Czech Republic,8541.0,FK Varnsdorf ,163355,-,David Norek,15/16,Germany,1470.0,Bischofswerda 
+"Jan 1, 2015",,-,Czech Republic,515.0,Unattached ,163355,75 Th. €,David Norek,14/15,,8541.0,FK Varnsdorf 
+"Jul 1, 2014",,-,Czech Republic,1322.0,FK Jablonec ,163355,75 Th. €,David Norek,14/15,,515.0,Unattached 
+"Jun 30, 2014",,End of loan,Czech Republic,12861.0,Bohemians Prag ,163355,75 Th. €,David Norek,13/14,Czech Republic,1322.0,FK Jablonec 
+"Jan 10, 2014",,Loan,Czech Republic,1322.0,FK Jablonec ,163355,75 Th. €,David Norek,13/14,Czech Republic,12861.0,Bohemians Prag 
+"Dec 31, 2013",,End of loan,Czech Republic,1496.0,FK Pardubice ,163355,75 Th. €,David Norek,13/14,Czech Republic,1322.0,FK Jablonec 
+"Jan 1, 2012",,Loan,Czech Republic,1322.0,FK Jablonec ,163355,50 Th. €,David Norek,11/12,Czech Republic,1496.0,FK Pardubice 
+"Dec 31, 2011",,End of loan,Czech Republic,13299.0,Graffin Vlasim ,163355,50 Th. €,David Norek,11/12,Czech Republic,1322.0,FK Jablonec 
+"Aug 1, 2011",,Loan,Czech Republic,1322.0,FK Jablonec ,163355,50 Th. €,David Norek,11/12,Czech Republic,13299.0,Graffin Vlasim 
+"Jun 30, 2011",,End of loan,Czech Republic,13299.0,Graffin Vlasim ,163355,50 Th. €,David Norek,10/11,Czech Republic,1322.0,FK Jablonec 
+"Jan 1, 2011",,Loan,Czech Republic,1322.0,FK Jablonec ,163355,50 Th. €,David Norek,10/11,Czech Republic,13299.0,Graffin Vlasim 
+"Jul 1, 2010",,-,Czech Republic,15773.0,Jablonec U19 ,163355,-,David Norek,10/11,Czech Republic,1322.0,FK Jablonec 
+"Jan 2, 2016",,-,Czech Republic,515.0,Unattached ,197149,"1,00 Mill. €",Nivaldo,15/16,,814.0,FK Teplice 
+"Aug 26, 2015",,-,Belarus,1180.0,Dinamo Minsk ,197149,"1,00 Mill. €",Nivaldo,15/16,,515.0,Unattached 
+"Apr 3, 2015",,?,Czech Republic,814.0,FK Teplice ,197149,"1,00 Mill. €",Nivaldo,14/15,Belarus,1180.0,Dinamo Minsk 
+"Jul 4, 2013",,Free transfer,Portugal,2990.0,Coimbra ,197149,"1,00 Mill. €",Nivaldo,13/14,Czech Republic,814.0,FK Teplice 
+"Jul 1, 2011",,?,Portugal,6156.0,Tourizense ,197149,-,Nivaldo,11/12,Portugal,2990.0,Coimbra 
+"Jul 1, 2015",,Free transfer,Czech Republic,814.0,FK Teplice ,174632,200 Th. €,Eugène Salami,15/16,,75.0,Unknown 
+"Jul 2, 2013",,?,Hungary,84.0,Debreceni VSC ,174632,100 Th. €,Eugène Salami,13/14,Czech Republic,814.0,FK Teplice 
+"Jun 30, 2013",,End of loan,Hungary,12423.0,Kecskeméti TE ,174632,100 Th. €,Eugène Salami,12/13,Hungary,84.0,Debreceni VSC 
+"Jul 1, 2012",,Loan,Hungary,84.0,Debreceni VSC ,174632,100 Th. €,Eugène Salami,12/13,Hungary,12423.0,Kecskeméti TE 
+"Dec 31, 2011",,End of loan,Hungary,6058.0,Nyíregyháza ,174632,150 Th. €,Eugène Salami,11/12,Hungary,84.0,Debreceni VSC 
+"Aug 1, 2011",,Loan,Hungary,84.0,Debreceni VSC ,174632,150 Th. €,Eugène Salami,11/12,Hungary,6058.0,Nyíregyháza 
+"Feb 1, 2011",,?,Nigeria,17025.0,Niger Tornad. ,174632,-,Eugène Salami,10/11,Hungary,84.0,Debreceni VSC 
+"Aug 4, 2015",,Free transfer,Belarus,27238.0,FK Slutsk ,97835,300 Th. €,Dmytro Eremenko,15/16,Ukraine,6996.0,Goverla 
+"Apr 6, 2015",,Free transfer,Ukraine,23611.0,Olimpik Donetsk ,97835,300 Th. €,Dmytro Eremenko,14/15,Belarus,27238.0,FK Slutsk 
+"Jul 25, 2014",,Free transfer,Ukraine,12517.0,Metalist Kharkiv II ,97835,300 Th. €,Dmytro Eremenko,14/15,Ukraine,23611.0,Olimpik Donetsk 
+"Jun 30, 2014",,End of loan,Czech Republic,715.0,Bohemians 1905 ,97835,300 Th. €,Dmytro Eremenko,13/14,Ukraine,12517.0,Metalist Kharkiv II 
+"Sep 11, 2013",,Loan,Ukraine,12517.0,Metalist Kharkiv II ,97835,500 Th. €,Dmytro Eremenko,13/14,Czech Republic,715.0,Bohemians 1905 
+"Jul 9, 2013",,-,Ukraine,6414.0,Metalist ,97835,500 Th. €,Dmytro Eremenko,13/14,Ukraine,12517.0,Metalist Kharkiv II 
+"Dec 31, 2012",,End of loan,Ukraine,2740.0,Vorskla ,97835,500 Th. €,Dmytro Eremenko,12/13,Ukraine,6414.0,Metalist 
+"Jul 12, 2012",,Loan,Ukraine,6414.0,Metalist ,97835,400 Th. €,Dmytro Eremenko,12/13,Ukraine,2740.0,Vorskla 
+"Jul 1, 2011",,?,Ukraine,6994.0,Metalurg Z. ,97835,400 Th. €,Dmytro Eremenko,11/12,Ukraine,6414.0,Metalist 
+"Aug 1, 2010",,Swap deal,Ukraine,6249.0,Dynamo 2 Kyiv ,97835,200 Th. €,Dmytro Eremenko,10/11,Ukraine,6994.0,Metalurg Z. 
+"Dec 31, 2009",,End of loan,Ukraine,4482.0,Volyn Lutsk ,97835,250 Th. €,Dmytro Eremenko,09/10,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Aug 1, 2009",,Loan,Ukraine,6249.0,Dynamo 2 Kyiv ,97835,-,Dmytro Eremenko,09/10,Ukraine,4482.0,Volyn Lutsk 
+"Jul 1, 2007",,Free transfer,Ukraine,23594.0,Volyn Lutsk U17 ,97835,-,Dmytro Eremenko,07/08,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Jan 1, 2007",,?,Ukraine,31199.0,UFK Kharkiv ,97835,-,Dmytro Eremenko,06/07,Ukraine,23594.0,Volyn Lutsk U17 
+"Jan 1, 2016",,End of loan,Slovakia,6163.0,FK Senica ,297518,125 Th. €,Tomas Vengrinek,15/16,Czech Republic,377.0,Banik Ostrava 
+"Sep 1, 2015",,Loan,Czech Republic,377.0,Banik Ostrava ,297518,100 Th. €,Tomas Vengrinek,15/16,Slovakia,6163.0,FK Senica 
+"Jul 1, 2013",,-,Czech Republic,6201.0,Ostrava U21 ,297518,-,Tomas Vengrinek,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jul 1, 2013",,-,Czech Republic,6038.0,Olmütz U21 ,262704,-,Michal Reichl,13/14,Czech Republic,2311.0,Sigma Olomouc 
+"Jul 1, 2015",,Free transfer,Czech Republic,5546.0,Mladá Boleslav ,217864,100 Th. €,Pavel Tvaroha,15/16,Czech Republic,8541.0,FK Varnsdorf 
+"Jun 30, 2015",,End of loan,Czech Republic,8541.0,FK Varnsdorf ,217864,100 Th. €,Pavel Tvaroha,14/15,Czech Republic,5546.0,Mladá Boleslav 
+"Jul 2, 2012",,Loan,Czech Republic,5546.0,Mladá Boleslav ,217864,-,Pavel Tvaroha,12/13,Czech Republic,8541.0,FK Varnsdorf 
+"Jun 30, 2012",,End of loan,Czech Republic,8541.0,FK Varnsdorf ,217864,-,Pavel Tvaroha,11/12,Czech Republic,5546.0,Mladá Boleslav 
+"Jan 1, 2016",,?,Czech Republic,197.0,Sparta Praha ,179762,400 Th. €,Lukas Pauschek,15/16,Czech Republic,5546.0,Mladá Boleslav 
+"Dec 31, 2015",,End of loan,Czech Republic,715.0,Bohemians 1905 ,179762,400 Th. €,Lukas Pauschek,15/16,Czech Republic,197.0,Sparta Praha 
+"Jan 13, 2014",,Loan,Czech Republic,197.0,Sparta Praha ,179762,400 Th. €,Lukas Pauschek,13/14,Czech Republic,715.0,Bohemians 1905 
+"Jul 1, 2013",,480 Th. €,Slovakia,540.0,Slo. Bratislava ,179762,350 Th. €,Lukas Pauschek,13/14,Czech Republic,197.0,Sparta Praha 
+"Jul 1, 2010",,-,Slovakia,19858.0,Bratislava U19 ,179762,-,Lukas Pauschek,10/11,Slovakia,540.0,Slo. Bratislava 
+"Jan 1, 2015",,Loan,Slovakia,7087.0,Ruzomberok ,312311,75 Th. €,Erik Liener,14/15,Slovakia,36093.0,Zvolen 
+"Aug 1, 2014",,Free transfer,Czech Republic,13716.0,1.SC Znojmo ,312311,100 Th. €,Erik Liener,14/15,Slovakia,7087.0,Ruzomberok 
+"Feb 6, 2014",,?,Slovakia,7392.0,Dubnica ,312311,-,Erik Liener,13/14,Czech Republic,13716.0,1.SC Znojmo 
+"Jul 1, 2016",,-,Hungary,6058.0,Nyíregyháza ,74336,175 Th. €,Luis Ramos,16/17,,515.0,Unattached 
+"Jul 1, 2015",,Free transfer,Azerbaijan,13326.0,AZAL ,74336,175 Th. €,Luis Ramos,15/16,Hungary,6058.0,Nyíregyháza 
+"Jul 20, 2014",,?,Czech Republic,814.0,FK Teplice ,74336,250 Th. €,Luis Ramos,14/15,Azerbaijan,13326.0,AZAL 
+"Feb 18, 2014",,?,France,1175.0,LB Châteauroux ,74336,250 Th. €,Luis Ramos,13/14,Czech Republic,814.0,FK Teplice 
+"Jul 1, 2013",,Free transfer,Hungary,84.0,Debreceni VSC ,74336,250 Th. €,Luis Ramos,13/14,France,1175.0,LB Châteauroux 
+"Jan 21, 2013",,Free transfer,Hungary,12423.0,Kecskeméti TE ,74336,250 Th. €,Luis Ramos,12/13,Hungary,84.0,Debreceni VSC 
+"Aug 30, 2012",,Swap deal,Hungary,84.0,Debreceni VSC ,74336,250 Th. €,Luis Ramos,12/13,Hungary,12423.0,Kecskeméti TE 
+"Aug 11, 2009",,?,Hungary,6058.0,Nyíregyháza ,74336,225 Th. €,Luis Ramos,09/10,Hungary,84.0,Debreceni VSC 
+"Jan 1, 2007",,?,Slovakia,1443.0,MSK Zilina ,74336,-,Luis Ramos,07/08,Hungary,6058.0,Nyíregyháza 
+"Jul 1, 2006",,?,Honduras,4523.0,Marathón ,74336,-,Luis Ramos,06/07,Slovakia,1443.0,MSK Zilina 
+"Jan 1, 2003",,-,Honduras,25974.0,Marathón U19 ,74336,-,Luis Ramos,02/03,Honduras,4523.0,Marathón 
+"Dec 1, 2015",,?,Slovakia,365.0,Spartak Trnava ,74819,125 Th. €,Lubos Hanzel,15/16,Slovakia,46971.0,Iskra Borcice 
+"Jul 1, 2015",,Free transfer,Armenia,11411.0,Banants ,74819,200 Th. €,Lubos Hanzel,15/16,Slovakia,365.0,Spartak Trnava 
+"Jul 28, 2014",,Free transfer,Czech Republic,450.0,Dukla Prag ,74819,250 Th. €,Lubos Hanzel,14/15,Armenia,11411.0,Banants 
+"Feb 20, 2014",,Free transfer,Armenia,11411.0,Banants ,74819,350 Th. €,Lubos Hanzel,13/14,Czech Republic,450.0,Dukla Prag 
+"Aug 20, 2013",,?,Cyprus,24326.0,Ermis Aradippou ,74819,350 Th. €,Lubos Hanzel,13/14,Armenia,11411.0,Banants 
+"Jul 1, 2013",,Free transfer,Poland,2300.0,J. Bialystok ,74819,350 Th. €,Lubos Hanzel,13/14,Cyprus,24326.0,Ermis Aradippou 
+"Jan 13, 2013",,Free transfer,Slovakia,365.0,Spartak Trnava ,74819,350 Th. €,Lubos Hanzel,12/13,Poland,2300.0,J. Bialystok 
+"Dec 31, 2009",,End of loan,Germany,33.0,FC Schalke 04 ,74819,700 Th. €,Lubos Hanzel,09/10,Slovakia,365.0,Spartak Trnava 
+"Aug 13, 2009",,Loan fee:100 Th. €,Slovakia,365.0,Spartak Trnava ,74819,-,Lubos Hanzel,09/10,Germany,33.0,FC Schalke 04 
+"Jun 30, 2008",,End of loan,Slovakia,8146.0,FC Senec ,74819,-,Lubos Hanzel,07/08,Slovakia,365.0,Spartak Trnava 
+"Jan 1, 2008",,Loan,Slovakia,365.0,Spartak Trnava ,74819,-,Lubos Hanzel,07/08,Slovakia,8146.0,FC Senec 
+"Jul 1, 2004",,-,Slovakia,18746.0,Trnava U19 ,74819,-,Lubos Hanzel,04/05,Slovakia,365.0,Spartak Trnava 
+"Mar 24, 2016",,?,Faroe Island,11537.0,FC Suduroy ,216844,100 Th. €,Christian Ibeagha,15/16,United States,45805.0,Switchbacks FC 
+"Feb 1, 2015",,?,Czech Republic,715.0,Bohemians 1905 ,216844,100 Th. €,Christian Ibeagha,14/15,Faroe Island,11537.0,FC Suduroy 
+"Nov 15, 2013",,?,Puerto Rico,9174.0,Islanders ,216844,50 Th. €,Christian Ibeagha,13/14,Czech Republic,715.0,Bohemians 1905 
+"Jul 26, 2012",,-,United States,515.0,Unattached ,216844,-,Christian Ibeagha,12/13,,9174.0,Islanders 
+"May 1, 2011",,-,United States,9824.0,Duke University ,216844,-,Christian Ibeagha,10/11,,515.0,Unattached 
+"Jan 1, 2016",,End of loan,Czech Republic,11117.0,Baník Sokolov ,256086,200 Th. €,Budge Manzia,15/16,Czech Republic,450.0,Dukla Prag 
+"Jul 1, 2015",,Loan,Czech Republic,450.0,Dukla Prag ,256086,200 Th. €,Budge Manzia,15/16,Czech Republic,11117.0,Baník Sokolov 
+"Jan 11, 2014",,230 Th. €,Tunisia,250.0,ES Sahel ,256086,100 Th. €,Budge Manzia,13/14,Czech Republic,450.0,Dukla Prag 
+"Jan 1, 2013",,?,Congo DR,39052.0,Shark XI ,256086,-,Budge Manzia,12/13,Tunisia,250.0,ES Sahel 
+"Jan 1, 2016",,Free transfer,Czech Republic,7133.0,Sl. Liberec U21 ,147543,-,Filip Drobilek,15/16,Czech Republic,18858.0,FK Slavoj 
+,,,,,,147546,,,,,,
+"Jul 1, 2013",,-,Czech Republic,6483.0,Sparta Praha II ,147550,200 Th. €,Lukas Julis,13/14,Czech Republic,197.0,Sparta Praha 
+"Jul 1, 2011",,-,Czech Republic,12795.0,Sparta Prag U19 ,147550,-,Lukas Julis,11/12,Czech Republic,6483.0,Sparta Praha II 
+"Jan 1, 2016",,End of loan,Slovakia,4670.0,Lok. Kosice ,147552,100 Th. €,Patrik Macej,15/16,Slovakia,13744.0,MFK Zemplin Michalovce 
+"Aug 1, 2015",,Loan,Slovakia,13744.0,MFK Zemplin Michalovce ,147552,100 Th. €,Patrik Macej,15/16,Slovakia,4670.0,Lok. Kosice 
+"Jul 1, 2015",,?,Slovakia,14986.0,Slavoj Trebisov ,147552,100 Th. €,Patrik Macej,15/16,Slovakia,13744.0,MFK Zemplin Michalovce 
+"Jan 1, 2015",,Free transfer,Czech Republic,377.0,Banik Ostrava ,147552,100 Th. €,Patrik Macej,14/15,Slovakia,14986.0,Slavoj Trebisov 
+"Jan 1, 2014",,-,Czech Republic,15762.0,Ostrava U19 ,147552,-,Patrik Macej,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jul 2, 2015",,?,Czech Republic,197.0,Sparta Praha ,187490,100 Th. €,Jan Sykora,15/16,Czech Republic,697.0,Slovan Liberec 
+"Jun 30, 2015",,End of loan,Czech Republic,5225.0,Zbrojovka Brno ,187490,100 Th. €,Jan Sykora,14/15,Czech Republic,197.0,Sparta Praha 
+"Jul 1, 2014",,Loan,Czech Republic,197.0,Sparta Praha ,187490,100 Th. €,Jan Sykora,14/15,Czech Republic,5225.0,Zbrojovka Brno 
+"Jul 1, 2013",,-,Czech Republic,6483.0,Sparta Praha II ,187490,100 Th. €,Jan Sykora,13/14,Czech Republic,197.0,Sparta Praha 
+"Jul 1, 2011",,?,Czech Republic,13907.0,FC Viktoria Plzen U19 ,187490,-,Jan Sykora,11/12,Czech Republic,6483.0,Sparta Praha II 
+"Dec 31, 2014",,End of loan,Czech Republic,479.0,SFC Opava ,147555,-,Petr Sevcik,14/15,Czech Republic,2311.0,Sigma Olomouc 
+"Jul 1, 2014",,Loan,Czech Republic,2311.0,Sigma Olomouc ,147555,-,Petr Sevcik,14/15,Czech Republic,479.0,SFC Opava 
+"Jan 1, 2014",,-,Czech Republic,13925.0,SK Sigma Olomouc U19 ,147555,-,Petr Sevcik,13/14,Czech Republic,2311.0,Sigma Olomouc 
+"Jan 1, 2016",,Free transfer,Czech Republic,5546.0,Mladá Boleslav ,147557,100 Th. €,Lukas Vrastil,15/16,Czech Republic,377.0,Banik Ostrava 
+"Jun 1, 2015",,End of loan,Czech Republic,6377.0,Ustí nad Labem ,147557,-,Lukas Vrastil,14/15,Czech Republic,5546.0,Mladá Boleslav 
+"Jan 1, 2015",,-,Czech Republic,15774.0,FK Mlada Boleslav U19 ,147557,-,Lukas Vrastil,14/15,Czech Republic,5546.0,Mladá Boleslav 
+"Jul 1, 2014",,Loan,Czech Republic,5546.0,Mladá Boleslav ,147557,-,Lukas Vrastil,14/15,Czech Republic,6377.0,Ustí nad Labem 
+"Jan 1, 2016",,Free transfer,Czech Republic,377.0,Banik Ostrava ,221286,100 Th. €,Marek Szotkowski,15/16,Czech Republic,804.0,Fotbal Trinec 
+"Jul 1, 2015",,-,Czech Republic,6201.0,Ostrava U21 ,221286,-,Marek Szotkowski,15/16,Czech Republic,377.0,Banik Ostrava 
+"Jul 1, 2014",,-,Czech Republic,715.0,Bohemians 1905 ,178791,50 Th. €,Peter Gabris,14/15,Czech Republic,37465.0,Prag 1905 U21 
+"Jul 10, 2013",,?,Czech Republic,75.0,Unknown ,178791,25 Th. €,Peter Gabris,13/14,,715.0,Bohemians 1905 
+"Jan 1, 2013",,Free transfer,Slovakia,540.0,Slo. Bratislava ,178791,25 Th. €,Peter Gabris,12/13,,75.0,Unknown 
+"Jul 1, 2008",,-,Slovakia,19858.0,Bratislava U19 ,178791,-,Peter Gabris,08/09,Slovakia,540.0,Slo. Bratislava 
+,,,,,,279663,,,,,,
+"Jul 21, 2015",,Free transfer,Czech Republic,941.0,Viktoria Plzen ,265849,200 Th. €,Mladen Veselinovic,15/16,Bosnia-Herzegovina,5405.0,Sloboda Tuzla 
+"Jun 30, 2015",,End of loan,Czech Republic,797.0,FK Most ,265849,200 Th. €,Mladen Veselinovic,14/15,Czech Republic,941.0,Viktoria Plzen 
+"Jul 1, 2014",,Loan,Czech Republic,941.0,Viktoria Plzen ,265849,200 Th. €,Mladen Veselinovic,14/15,Czech Republic,797.0,FK Most 
+"Jul 1, 2013",,?,Bosnia-Herzegovina,7569.0,Sloga Doboj ,265849,-,Mladen Veselinovic,13/14,Czech Republic,941.0,Viktoria Plzen 
+"Aug 18, 2013",,?,Czech Republic,6475.0,1.HFK Olomouc ,132375,75 Th. €,Patrik Simko,13/14,Czech Republic,5544.0,Slovácko 
+"Jul 1, 2011",,?,Slovakia,18751.0,Zilina U19 ,132375,-,Patrik Simko,11/12,Czech Republic,6475.0,1.HFK Olomouc 
+"Jul 1, 2010",,?,Slovakia,24522.0,Tatran P. U19 ,132375,-,Patrik Simko,10/11,Slovakia,18751.0,Zilina U19 
+,,,,,,314136,,,,,,
+"Jul 1, 2013",,-,Czech Republic,15759.0,1.FC Slovacko U19 ,265879,-,Tomas Brecka,13/14,Czech Republic,5544.0,Slovácko 
+"Feb 19, 2014",,?,Slovakia,13744.0,MFK Zemplin Michalovce ,181615,-,Robert Koval,13/14,Czech Republic,450.0,Dukla Prag 
+"Jul 1, 2015",,?,Czech Republic,8541.0,FK Varnsdorf ,265884,-,Lukas Landovsky,15/16,,75.0,Unknown 
+"Jul 1, 2014",,Loan,Czech Republic,6488.0,Jablonec U21 ,265884,-,Lukas Landovsky,14/15,Czech Republic,8541.0,FK Varnsdorf 
+"Jul 1, 2012",,-,Czech Republic,15773.0,Jablonec U19 ,265884,-,Lukas Landovsky,12/13,Czech Republic,6488.0,Jablonec U21 
+"Jan 1, 2015",,End of loan,Czech Republic,6491.0,FK Kolin ,186525,-,Denis Frimmel,14/15,Czech Republic,697.0,Slovan Liberec 
+"Sep 1, 2014",,Loan,Czech Republic,697.0,Slovan Liberec ,186525,-,Denis Frimmel,14/15,Czech Republic,6491.0,FK Kolin 
+"Jul 1, 2014",,-,Czech Republic,7133.0,Sl. Liberec U21 ,186525,-,Denis Frimmel,14/15,Czech Republic,697.0,Slovan Liberec 
+"Jul 1, 2013",,Free transfer,Czech Republic,13937.0,FC Zbrojovka Brno U19 ,186525,-,Denis Frimmel,13/14,Czech Republic,7133.0,Sl. Liberec U21 
+"Jan 1, 2014",,-,Czech Republic,6201.0,Ostrava U21 ,186527,100 Th. €,Filip Kasa,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jan 1, 2013",,-,Czech Republic,377.0,Banik Ostrava ,186527,100 Th. €,Filip Kasa,12/13,Czech Republic,6201.0,Ostrava U21 
+"Jul 1, 2012",,-,Czech Republic,32685.0,Ostrava U17 ,186527,-,Filip Kasa,12/13,Czech Republic,377.0,Banik Ostrava 
+"Feb 3, 2016",,?,Czech Republic,40272.0,Novy Bydzov ,202914,-,Filip Nguyen,15/16,Czech Republic,13299.0,Vlašim 
+"Jan 1, 2016",,-,Estonia,22783.0,Kalju Nömme ,27812,300 Th. €,Joel Lindpere,15/16,,515.0,Unattached 
+"Mar 5, 2015",,Free transfer,Czech Republic,377.0,Banik Ostrava ,27812,600 Th. €,Joel Lindpere,14/15,Estonia,22783.0,Kalju Nömme 
+"Jan 26, 2014",,Free transfer,United States,432.0,Chicago ,27812,"1,00 Mill. €",Joel Lindpere,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jan 4, 2013",,Swap deal,United States,623.0,NY Red Bulls ,27812,"1,00 Mill. €",Joel Lindpere,12/13,United States,432.0,Chicago 
+"Jan 1, 2010",,Free transfer,Norway,1293.0,Tromsö ,27812,500 Th. €,Joel Lindpere,09/10,United States,623.0,NY Red Bulls 
+"Feb 1, 2007",,Free transfer,Estonia,1002.0,FC Flora ,27812,400 Th. €,Joel Lindpere,06/07,Norway,1293.0,Tromsö 
+"Jun 30, 2005",,End of loan,Bulgaria,208.0,CSKA Sofia ,27812,400 Th. €,Joel Lindpere,04/05,Estonia,1002.0,FC Flora 
+"Jan 1, 2005",,Loan fee:50 Th. €,Estonia,1002.0,FC Flora ,27812,400 Th. €,Joel Lindpere,04/05,Bulgaria,208.0,CSKA Sofia 
+"Dec 31, 2001",,End of loan,Estonia,25410.0,Warrior Valga ,27812,-,Joel Lindpere,01/02,Estonia,1002.0,FC Flora 
+"Jan 1, 2001",,Loan,Estonia,1002.0,FC Flora ,27812,-,Joel Lindpere,00/01,Estonia,25410.0,Warrior Valga 
+"Jan 1, 2000",,?,Estonia,39094.0,Lelle SK ,27812,-,Joel Lindpere,99/00,Estonia,1002.0,FC Flora 
+"Jul 1, 1997",,?,Estonia,25529.0,Kalju U19 ,27812,-,Joel Lindpere,97/98,Estonia,39094.0,Lelle SK 
+"Dec 31, 2016",,End of loan,Ukraine,6992.0,Chornomorets ,108710,"1,00 Mill. €",Vladyslav Kalitvintsev,16/17,Ukraine,338.0,Dynamo Kyiv 
+"Mar 1, 2016",,Loan,Ukraine,338.0,Dynamo Kyiv ,108710,"1,00 Mill. €",Vladyslav Kalitvintsev,15/16,Ukraine,6992.0,Chornomorets 
+"Dec 31, 2015",,End of loan,Ukraine,6992.0,Chornomorets ,108710,"1,00 Mill. €",Vladyslav Kalitvintsev,15/16,Ukraine,338.0,Dynamo Kyiv 
+"Jul 1, 2015",,Loan,Ukraine,338.0,Dynamo Kyiv ,108710,"1,00 Mill. €",Vladyslav Kalitvintsev,15/16,Ukraine,6992.0,Chornomorets 
+"Feb 20, 2014",,-,Ukraine,21218.0,Dynamo Kyiv II ,108710,800 Th. €,Vladyslav Kalitvintsev,13/14,Ukraine,338.0,Dynamo Kyiv 
+"Dec 31, 2013",,End of loan,Czech Republic,697.0,Slovan Liberec ,108710,500 Th. €,Vladyslav Kalitvintsev,13/14,Ukraine,21218.0,Dynamo Kyiv II 
+"Jul 7, 2013",,Loan,Ukraine,21218.0,Dynamo Kyiv II ,108710,300 Th. €,Vladyslav Kalitvintsev,13/14,Czech Republic,697.0,Slovan Liberec 
+"Jan 1, 2010",,-,Ukraine,6249.0,Dynamo 2 Kyiv ,108710,100 Th. €,Vladyslav Kalitvintsev,09/10,Ukraine,21218.0,Dynamo Kyiv II 
+"Jan 1, 2009",,-,Ukraine,14281.0,Dynamo Kyiv U17 ,108710,-,Vladyslav Kalitvintsev,08/09,Ukraine,6249.0,Dynamo 2 Kyiv 
+"Aug 24, 2015",,Loan,Czech Republic,450.0,Dukla Prag ,147111,350 Th. €,Marek Hlinka,15/16,Slovakia,35488.0,Skalica 
+"Jul 1, 2015",,End of loan,Slovakia,365.0,Spartak Trnava ,147111,350 Th. €,Marek Hlinka,15/16,Czech Republic,450.0,Dukla Prag 
+"Jan 1, 2015",,Loan,Czech Republic,450.0,Dukla Prag ,147111,350 Th. €,Marek Hlinka,14/15,Slovakia,365.0,Spartak Trnava 
+"Jul 10, 2013",,?,Slovakia,4786.0,Banska Bystrica ,147111,325 Th. €,Marek Hlinka,13/14,Czech Republic,450.0,Dukla Prag 
+"Jan 1, 2010",,?,Slovakia,75.0,Unknown ,147111,-,Marek Hlinka,09/10,,4786.0,Banska Bystrica 
+"Jan 13, 2016",,?,Czech Republic,697.0,Slovan Liberec ,74941,200 Th. €,Lukas Hrosso,15/16,Czech Republic,450.0,Dukla Prag 
+"Jul 1, 2013",,?,Slovakia,1562.0,FC Nitra ,74941,200 Th. €,Lukas Hrosso,13/14,Czech Republic,697.0,Slovan Liberec 
+"Jan 1, 2012",,?,Slovakia,540.0,Slo. Bratislava ,74941,250 Th. €,Lukas Hrosso,11/12,Slovakia,1562.0,FC Nitra 
+"Aug 1, 2011",,?,Slovakia,1562.0,FC Nitra ,74941,250 Th. €,Lukas Hrosso,11/12,Slovakia,540.0,Slo. Bratislava 
+"Jul 1, 2006",,-,Slovakia,24343.0,Nitra U19 ,74941,-,Lukas Hrosso,06/07,Slovakia,1562.0,FC Nitra 
+"Jul 1, 2014",,-,Czech Republic,7133.0,Sl. Liberec U21 ,189630,100 Th. €,Ondrej Kolar,14/15,Czech Republic,697.0,Slovan Liberec 
+"Jun 30, 2013",,End of loan,Czech Republic,8541.0,FK Varnsdorf ,189630,100 Th. €,Ondrej Kolar,12/13,Czech Republic,7133.0,Sl. Liberec U21 
+"Jan 2, 2013",,?,Czech Republic,7133.0,Sl. Liberec U21 ,189630,100 Th. €,Ondrej Kolar,12/13,Czech Republic,8541.0,FK Varnsdorf 
+"Jan 1, 2013",,-,Czech Republic,697.0,Slovan Liberec ,189630,100 Th. €,Ondrej Kolar,12/13,Czech Republic,7133.0,Sl. Liberec U21 
+"Jul 1, 2012",,-,Czech Republic,15767.0,FC Slovan Liberec U19 ,189630,-,Ondrej Kolar,12/13,Czech Republic,697.0,Slovan Liberec 
+"Jul 1, 2015",,-,Czech Republic,6201.0,Ostrava U21 ,297663,-,Martin Honis,15/16,Czech Republic,377.0,Banik Ostrava 
+,,,,,,297669,,,,,,
+"Jul 1, 2015",,?,Czech Republic,197.0,Sparta Praha ,316279,100 Th. €,Rudolf Reiter,15/16,Czech Republic,13299.0,Vlašim 
+"Jun 30, 2015",,End of loan,Czech Republic,892.0,Viktoria Zizkov ,316279,100 Th. €,Rudolf Reiter,14/15,Czech Republic,197.0,Sparta Praha 
+"Jul 1, 2014",,Loan,Czech Republic,197.0,Sparta Praha ,316279,100 Th. €,Rudolf Reiter,14/15,Czech Republic,892.0,Viktoria Zizkov 
+"Jun 30, 2014",,End of loan,Czech Republic,5546.0,Mladá Boleslav ,273101,100 Th. €,Adam Fousek,13/14,Czech Republic,1496.0,FK Pardubice 
+"Jan 31, 2014",,Loan,Czech Republic,1496.0,FK Pardubice ,273101,-,Adam Fousek,13/14,Czech Republic,5546.0,Mladá Boleslav 
+"Feb 9, 2016",,Free transfer,Hungary,75.0,Unknown ,272593,225 Th. €,Lukas Szabó,15/16,,6055.0,ETO FC Győr  
+"Jul 1, 2015",,Free transfer,Slovakia,20070.0,Duslo Sala ,272593,225 Th. €,Lukas Szabó,15/16,,75.0,Unknown 
+"Jul 1, 2014",,?,Czech Republic,697.0,Slovan Liberec ,272593,225 Th. €,Lukas Szabó,14/15,Slovakia,20070.0,Duslo Sala 
+"Jun 30, 2014",,End of loan,Slovakia,12005.0,Zlate Moravce ,272593,225 Th. €,Lukas Szabó,13/14,Czech Republic,697.0,Slovan Liberec 
+"Sep 5, 2013",,Loan,Czech Republic,697.0,Slovan Liberec ,272593,200 Th. €,Lukas Szabó,13/14,Slovakia,12005.0,Zlate Moravce 
+"Jul 1, 2013",,?,Slovakia,20070.0,Duslo Sala ,272593,-,Lukas Szabó,13/14,Czech Republic,697.0,Slovan Liberec 
+"Jul 1, 2012",,?,Slovakia,20631.0,Nitra B ,272593,-,Lukas Szabó,12/13,Slovakia,20070.0,Duslo Sala 
+"Jan 29, 2016",,Free transfer,Spain,34148.0,UCAM Murcia ,70356,-,Abdoulaye Fall,15/16,Spain,11259.0,CD Alcoyano 
+"Jul 1, 2015",,Free transfer,Spain,12605.0,R. B. Linense ,70356,-,Abdoulaye Fall,15/16,Spain,34148.0,UCAM Murcia 
+"Aug 13, 2014",,Free transfer,Spain,2687.0,Cádiz CF ,70356,-,Abdoulaye Fall,14/15,Spain,12605.0,R. B. Linense 
+"Jun 30, 2014",,End of loan,Czech Republic,2311.0,Sigma Olomouc ,70356,100 Th. €,Abdoulaye Fall,13/14,Spain,2687.0,Cádiz CF 
+"Jan 29, 2014",,Loan,Spain,2687.0,Cádiz CF ,70356,-,Abdoulaye Fall,13/14,Czech Republic,2311.0,Sigma Olomouc 
+"Jul 1, 2012",,Free transfer,Spain,2923.0,CD Badajoz ,70356,-,Abdoulaye Fall,12/13,Spain,2687.0,Cádiz CF 
+"Aug 1, 2011",,?,Switzerland,61.0,Servette FC ,70356,50 Th. €,Abdoulaye Fall,11/12,Spain,2923.0,CD Badajoz 
+"Jul 1, 2011",,?,France,13571.0,La Vitréenne FC ,70356,-,Abdoulaye Fall,11/12,Switzerland,61.0,Servette FC 
+"Jul 1, 2008",,?,Portugal,8889.0,Benfica U19 ,70356,-,Abdoulaye Fall,08/09,France,13571.0,La Vitréenne FC 
+"Jan 28, 2014",,?,Slovakia,19003.0,Bardejov ,154335,75 Th. €,Azevedo,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jul 1, 2011",,Free transfer,Hungary,24030.0,Honvéd II ,154335,75 Th. €,Azevedo,11/12,Slovakia,19003.0,Bardejov 
+"Jan 1, 2011",,-,Hungary,17118.0,Honved U19 ,154335,50 Th. €,Azevedo,10/11,Hungary,24030.0,Honvéd II 
+"Jan 1, 2015",,Free transfer,Slovakia,4786.0,Banska Bystrica ,148712,150 Th. €,Jozef Dolny,14/15,Slovakia,6163.0,FK Senica 
+"Jul 1, 2014",,Free transfer,Slovakia,4531.0,Tatran Presov ,148712,100 Th. €,Jozef Dolny,14/15,Slovakia,4786.0,Banska Bystrica 
+"Jun 30, 2014",,End of loan,Czech Republic,5225.0,Zbrojovka Brno ,148712,100 Th. €,Jozef Dolny,13/14,Slovakia,4531.0,Tatran Presov 
+"Feb 4, 2014",,Loan,Slovakia,4531.0,Tatran Presov ,148712,75 Th. €,Jozef Dolny,13/14,Czech Republic,5225.0,Zbrojovka Brno 
+"Jul 1, 2010",,-,Slovakia,24522.0,Tatran P. U19 ,148712,-,Jozef Dolny,10/11,Slovakia,4531.0,Tatran Presov 
+"Jul 1, 2016",,Swap deal,South Africa,568.0,Kaizer Chiefs ,110314,200 Th. €,Keegan Ritchie,16/17,South Africa,2891.0,SuperSport Utd. 
+"Jul 1, 2015",,?,South Africa,8607.0,Bloemfontein C. ,110314,200 Th. €,Keegan Ritchie,15/16,South Africa,568.0,Kaizer Chiefs 
+"Jul 30, 2014",,?,South Africa,568.0,Kaizer Chiefs ,110314,200 Th. €,Keegan Ritchie,14/15,South Africa,8607.0,Bloemfontein C. 
+"Jun 30, 2014",,End of loan,Czech Republic,62.0,Slavia Prag ,110314,200 Th. €,Keegan Ritchie,13/14,South Africa,568.0,Kaizer Chiefs 
+"Feb 3, 2014",,Loan,South Africa,568.0,Kaizer Chiefs ,110314,200 Th. €,Keegan Ritchie,13/14,Czech Republic,62.0,Slavia Prag 
+"Jul 1, 2011",,?,South Africa,2695.0,M. Swallows ,110314,150 Th. €,Keegan Ritchie,11/12,South Africa,568.0,Kaizer Chiefs 
+"Feb 1, 2009",,?,South Africa,2891.0,SuperSport Utd. ,110314,-,Keegan Ritchie,08/09,South Africa,2695.0,M. Swallows 
+"Dec 31, 2008",,End of loan,South Africa,2695.0,M. Swallows ,110314,-,Keegan Ritchie,08/09,South Africa,2891.0,SuperSport Utd. 
+"Jul 1, 2008",,Loan,South Africa,2891.0,SuperSport Utd. ,110314,-,Keegan Ritchie,08/09,South Africa,2695.0,M. Swallows 
+"Jan 1, 2016",,Loan,Czech Republic,2311.0,Sigma Olomouc ,267503,100 Th. €,Jaroslav Svozil,15/16,Czech Republic,13716.0,1.SC Znojmo 
+"Jul 1, 2015",,End of loan,Czech Republic,13716.0,1.SC Znojmo ,267503,100 Th. €,Jaroslav Svozil,15/16,Czech Republic,2311.0,Sigma Olomouc 
+"Jan 1, 2015",,Loan,Czech Republic,2311.0,Sigma Olomouc ,267503,100 Th. €,Jaroslav Svozil,14/15,Czech Republic,13716.0,1.SC Znojmo 
+"Jan 1, 2014",,-,Czech Republic,6038.0,Olmütz U21 ,267503,-,Jaroslav Svozil,13/14,Czech Republic,2311.0,Sigma Olomouc 
+"Aug 31, 2015",,Free transfer,Greece,3308.0,Panelefsiniakos ,202484,-,Jan Charuza,15/16,Germany,5680.0,Einheit Kamenz 
+"Jan 1, 2015",,Free transfer,Austria,14970.0,Bad Goisern ,202484,-,Jan Charuza,14/15,Greece,3308.0,Panelefsiniakos 
+"Jul 1, 2014",,?,Czech Republic,5546.0,Mladá Boleslav ,202484,75 Th. €,Jan Charuza,14/15,Austria,14970.0,Bad Goisern 
+"Jun 30, 2014",,End of loan,Czech Republic,797.0,FK Most ,202484,75 Th. €,Jan Charuza,13/14,Czech Republic,5546.0,Mladá Boleslav 
+"Jul 1, 2013",,Loan,Czech Republic,5546.0,Mladá Boleslav ,202484,75 Th. €,Jan Charuza,13/14,Czech Republic,797.0,FK Most 
+"Jun 30, 2013",,End of loan,Czech Republic,11116.0,Caslav ,202484,75 Th. €,Jan Charuza,12/13,Czech Republic,5546.0,Mladá Boleslav 
+"Jul 1, 2012",,Loan,Czech Republic,5546.0,Mladá Boleslav ,202484,-,Jan Charuza,12/13,Czech Republic,11116.0,Caslav 
+"Jan 1, 2012",,?,Czech Republic,28596.0,FC MAS Taborsko ,202484,-,Jan Charuza,11/12,Czech Republic,5546.0,Mladá Boleslav 
+"Jul 1, 2011",,?,Czech Republic,22729.0,Ml.Boleslav U21 ,202484,-,Jan Charuza,11/12,Czech Republic,28596.0,FC MAS Taborsko 
+"Jan 1, 2016",,?,Slovakia,20063.0,Podbrezova ,90872,225 Th. €,Péter Gál-Andrezly,15/16,Slovakia,7087.0,Ruzomberok 
+"Jul 1, 2014",,Free transfer,Czech Republic,13716.0,1.SC Znojmo ,90872,100 Th. €,Péter Gál-Andrezly,14/15,Slovakia,20063.0,Podbrezova 
+"Jan 23, 2014",,?,Czech Republic,75.0,Unknown ,90872,75 Th. €,Péter Gál-Andrezly,13/14,,13716.0,1.SC Znojmo 
+"Jul 1, 2013",,Free transfer,Slovakia,779.0,Kosice ,90872,75 Th. €,Péter Gál-Andrezly,13/14,,75.0,Unknown 
+"Feb 1, 2010",,-,Slovakia,20632.0,Kosice B ,90872,-,Péter Gál-Andrezly,09/10,Slovakia,779.0,Kosice 
+"Sep 1, 2015",,?,Mexico,5623.0,Monarcas ,140026,700 Th. €,David Depetris,15/16,Slovakia,365.0,Spartak Trnava 
+"Jul 11, 2014",,?,Turkey,126.0,Rizespor ,140026,700 Th. €,David Depetris,14/15,Mexico,5623.0,Monarcas 
+"Jun 30, 2014",,End of loan,Czech Republic,2311.0,Sigma Olomouc ,140026,700 Th. €,David Depetris,13/14,Turkey,126.0,Rizespor 
+"Feb 21, 2014",,Loan,Turkey,126.0,Rizespor ,140026,700 Th. €,David Depetris,13/14,Czech Republic,2311.0,Sigma Olomouc 
+"Jan 23, 2013",,?,Slovakia,7918.0,AS Trencin ,140026,550 Th. €,David Depetris,12/13,Turkey,126.0,Rizespor 
+"Jun 30, 2010",,End of loan,Netherlands,723.0,FC Omniworld ,140026,100 Th. €,David Depetris,09/10,Slovakia,7918.0,AS Trencin 
+"Feb 1, 2010",,Loan,Slovakia,7918.0,AS Trencin ,140026,-,David Depetris,09/10,Netherlands,723.0,FC Omniworld 
+"Jan 1, 2008",,?,Argentina,10233.0,Rafaela ,140026,-,David Depetris,07/08,Slovakia,7918.0,AS Trencin 
+"Jul 1, 2006",,-,Argentina,19922.0,Rafaela U19 ,140026,-,David Depetris,06/07,Argentina,10233.0,Rafaela 
+"Jan 15, 2016",,-,Romania,515.0,Unattached ,102651,600 Th. €,Damien Boudjemaa,15/16,,13499.0,Astra Giurgiu 
+"Jul 1, 2015",,-,Czech Republic,62.0,Slavia Prag ,102651,600 Th. €,Damien Boudjemaa,15/16,,515.0,Unattached 
+"Feb 4, 2014",,250 Th. €,Romania,9465.0,Petr. Ploiesti ,102651,"1,55 Mill. €",Damien Boudjemaa,13/14,Czech Republic,62.0,Slavia Prag 
+"Jan 1, 2012",,25 Th. €,France,21687.0,UJA Maccabi ,102651,-,Damien Boudjemaa,11/12,Romania,9465.0,Petr. Ploiesti 
+"Jul 1, 2006",,Free transfer,France,75.0,Unknown ,102651,-,Damien Boudjemaa,06/07,,21687.0,UJA Maccabi 
+"Jul 1, 2015",,-,Netherlands,18154.0,VV Gemert ,72447,-,Stef Wijlaars,15/16,,123.0,End of career 
+"Jan 1, 2014",,Free transfer,Czech Republic,2311.0,Sigma Olomouc ,72447,350 Th. €,Stef Wijlaars,13/14,Netherlands,18154.0,VV Gemert 
+"Sep 20, 2013",,?,Slovakia,6163.0,FK Senica ,72447,350 Th. €,Stef Wijlaars,13/14,Czech Republic,2311.0,Sigma Olomouc 
+"Jul 1, 2010",,Free transfer,Netherlands,404.0,FC Den Bosch ,72447,75 Th. €,Stef Wijlaars,10/11,Slovakia,6163.0,FK Senica 
+"Jul 1, 2007",,-,Netherlands,14937.0,Den Bosch U19 ,72447,-,Stef Wijlaars,07/08,Netherlands,404.0,FC Den Bosch 
+"Jul 1, 2014",,Free transfer,Czech Republic,6491.0,FK Kolin ,164610,-,Jan Stocek,14/15,,75.0,Unknown 
+"Dec 31, 2013",,End of loan,Czech Republic,5546.0,Mladá Boleslav ,164610,-,Jan Stocek,13/14,Czech Republic,6491.0,FK Kolin 
+"Aug 10, 2013",,?,Czech Republic,6491.0,FK Kolin ,164610,-,Jan Stocek,13/14,Czech Republic,5546.0,Mladá Boleslav 
+"Jan 1, 2011",,?,Czech Republic,892.0,Viktoria Zizkov ,164610,-,Jan Stocek,10/11,Czech Republic,6491.0,FK Kolin 
+"Sep 1, 2010",,-,Czech Republic,23468.0,Zizkov B ,164610,-,Jan Stocek,10/11,Czech Republic,892.0,Viktoria Zizkov 
+"Jul 1, 2013",,Free transfer,Poland,168.0,Zaglebie Lubin ,81160,600 Th. €,Costa Nhamoinesu,13/14,Czech Republic,197.0,Sparta Praha 
+"Jul 1, 2010",,250 Th. €,Zimbabwe,19700.0,Masvingo Utd. ,81160,400 Th. €,Costa Nhamoinesu,10/11,Poland,168.0,Zaglebie Lubin 
+"Jun 30, 2010",,End of loan,Poland,168.0,Zaglebie Lubin ,81160,400 Th. €,Costa Nhamoinesu,09/10,Zimbabwe,19700.0,Masvingo Utd. 
+"Jul 1, 2008",,Loan,Zimbabwe,19700.0,Masvingo Utd. ,81160,-,Costa Nhamoinesu,08/09,Poland,168.0,Zaglebie Lubin 
+"Jun 30, 2008",,End of loan,Poland,22541.0,KS Wisla ,81160,-,Costa Nhamoinesu,07/08,Zimbabwe,19700.0,Masvingo Utd. 
+"Jan 1, 2008",,Loan,Zimbabwe,19700.0,Masvingo Utd. ,81160,-,Costa Nhamoinesu,07/08,Poland,22541.0,KS Wisla 
+"Jan 1, 2006",,?,South Africa,9370.0,AmaZulu FC ,81160,-,Costa Nhamoinesu,05/06,Zimbabwe,19700.0,Masvingo Utd. 
+"Jan 1, 2005",,?,Zimbabwe,2306.0,Darryn Textiles ,81160,-,Costa Nhamoinesu,04/05,South Africa,9370.0,AmaZulu FC 
+"Jan 1, 2016",,?,Czech Republic,13716.0,1.SC Znojmo ,158988,100 Th. €,Roman Hribek,15/16,Austria,7002.0,Würmla 
+"Jul 1, 2010",,?,Czech Republic,8788.0,Jihlava U21 ,158988,-,Roman Hribek,10/11,Czech Republic,13716.0,1.SC Znojmo 
+"Dec 31, 2013",,End of loan,Czech Republic,13716.0,1.SC Znojmo ,217879,350 Th. €,Patrik Hrosovsky,13/14,Czech Republic,941.0,Viktoria Plzen 
+"Jul 1, 2013",,Loan,Czech Republic,941.0,Viktoria Plzen ,217879,150 Th. €,Patrik Hrosovsky,13/14,Czech Republic,13716.0,1.SC Znojmo 
+"Jun 30, 2013",,End of loan,Czech Republic,6377.0,Ustí nad Labem ,217879,150 Th. €,Patrik Hrosovsky,12/13,Czech Republic,941.0,Viktoria Plzen 
+"Jul 1, 2012",,Loan,Czech Republic,941.0,Viktoria Plzen ,217879,-,Patrik Hrosovsky,12/13,Czech Republic,6377.0,Ustí nad Labem 
+"Jun 30, 2012",,End of loan,Czech Republic,11117.0,Baník Sokolov ,217879,-,Patrik Hrosovsky,11/12,Czech Republic,941.0,Viktoria Plzen 
+"Jan 1, 2012",,Loan,Czech Republic,941.0,Viktoria Plzen ,217879,-,Patrik Hrosovsky,11/12,Czech Republic,11117.0,Baník Sokolov 
+"Jan 1, 2016",,?,Czech Republic,13299.0,Vlašim ,280856,100 Th. €,Petr Hronek,15/16,Czech Republic,7975.0,FC Vysocina 
+"Jul 2, 2015",,Free transfer,Czech Republic,1322.0,FK Jablonec ,280856,100 Th. €,Petr Hronek,15/16,Czech Republic,13299.0,Vlašim 
+"Jul 1, 2015",,End of loan,Czech Republic,2598.0,1.FK Pribram ,280856,100 Th. €,Petr Hronek,15/16,Czech Republic,1322.0,FK Jablonec 
+"Feb 1, 2015",,Loan,Czech Republic,1322.0,FK Jablonec ,280856,100 Th. €,Petr Hronek,14/15,Czech Republic,2598.0,1.FK Pribram 
+"Jan 31, 2015",,End of loan,Czech Republic,13299.0,Graffin Vlasim ,280856,100 Th. €,Petr Hronek,14/15,Czech Republic,1322.0,FK Jablonec 
+"Jul 1, 2014",,Loan,Czech Republic,1322.0,FK Jablonec ,280856,100 Th. €,Petr Hronek,14/15,Czech Republic,13299.0,Graffin Vlasim 
+"Jun 30, 2014",,End of loan,Czech Republic,13299.0,Graffin Vlasim ,280856,100 Th. €,Petr Hronek,13/14,Czech Republic,1322.0,FK Jablonec 
+"Jan 21, 2014",,Loan,Czech Republic,1322.0,FK Jablonec ,280856,100 Th. €,Petr Hronek,13/14,Czech Republic,13299.0,Graffin Vlasim 
+"Jul 1, 2013",,-,Czech Republic,6488.0,Jablonec U21 ,280856,-,Petr Hronek,13/14,Czech Republic,1322.0,FK Jablonec 
+"Jan 1, 2013",,?,Czech Republic,37439.0,Sparta Prag U21 ,280856,-,Petr Hronek,12/13,Czech Republic,6488.0,Jablonec U21 
+"Jan 7, 2013",,-,Czech Republic,37465.0,Prag 1905 U21 ,261913,-,Milan Havel,12/13,Czech Republic,715.0,Bohemians 1905 
+"Feb 26, 2016",,Free transfer,Czech Republic,1322.0,FK Jablonec ,228122,400 Th. €,Nermin Crnkic,15/16,Slovakia,540.0,Slo. Bratislava 
+"Jun 30, 2014",,End of loan,Czech Republic,13716.0,1.SC Znojmo ,228122,200 Th. €,Nermin Crnkic,13/14,Czech Republic,1322.0,FK Jablonec 
+"Sep 13, 2013",,Loan,Czech Republic,1322.0,FK Jablonec ,228122,100 Th. €,Nermin Crnkic,13/14,Czech Republic,13716.0,1.SC Znojmo 
+"Jul 1, 2013",,?,United States,16890.0,Michigan Bucks ,228122,-,Nermin Crnkic,13/14,Czech Republic,1322.0,FK Jablonec 
+"Jul 1, 2014",,?,Czech Republic,6483.0,Sparta Praha II ,146719,100 Th. €,Daniel Krch,14/15,Czech Republic,715.0,Bohemians 1905 
+"Jun 30, 2014",,End of loan,Czech Republic,715.0,Bohemians 1905 ,146719,100 Th. €,Daniel Krch,13/14,Czech Republic,6483.0,Sparta Praha II 
+"Jul 1, 2013",,Loan,Czech Republic,6483.0,Sparta Praha II ,146719,75 Th. €,Daniel Krch,13/14,Czech Republic,715.0,Bohemians 1905 
+"Jun 30, 2013",,End of loan,Czech Republic,28596.0,FC MAS Taborsko ,146719,75 Th. €,Daniel Krch,12/13,Czech Republic,6483.0,Sparta Praha II 
+"Feb 17, 2013",,Loan,Czech Republic,6483.0,Sparta Praha II ,146719,-,Daniel Krch,12/13,Czech Republic,28596.0,FC MAS Taborsko 
+"Jul 1, 2009",,-,Czech Republic,12795.0,Sparta Prag U19 ,146719,-,Daniel Krch,09/10,Czech Republic,6483.0,Sparta Praha II 
+,,,,,,318242,,,,,,
+"Jul 1, 2015",,Free transfer,Czech Republic,715.0,Bohemians 1905 ,186843,100 Th. €,Elie Moises Akui N'Dekre,15/16,Latvia,28770.0,FS Metta 
+"Feb 6, 2014",,?,Czech Republic,75.0,Unknown ,186843,-,Elie Moises Akui N'Dekre,13/14,,715.0,Bohemians 1905 
+"Jul 1, 2013",,Free transfer,Malta,32129.0,Balzan Youths ,186843,-,Elie Moises Akui N'Dekre,13/14,,75.0,Unknown 
+"Jan 31, 2013",,Free transfer,Algeria,13366.0,JS Kabylie ,186843,-,Elie Moises Akui N'Dekre,12/13,Malta,32129.0,Balzan Youths 
+"Jan 6, 2012",,65 Th. €,Spain,8880.0,Depor. Alavés B ,186843,-,Elie Moises Akui N'Dekre,12/13,Algeria,13366.0,JS Kabylie 
+"Jul 1, 2011",,Free transfer,Spain,25379.0,CD Laudio ,186843,-,Elie Moises Akui N'Dekre,11/12,Spain,8880.0,Depor. Alavés B 
+"Mar 1, 2011",,?,Spain,8880.0,Depor. Alavés B ,186843,-,Elie Moises Akui N'Dekre,10/11,Spain,25379.0,CD Laudio 
+"Jul 1, 2010",,?,Czech Republic,715.0,Bohemians 1905 ,186843,-,Elie Moises Akui N'Dekre,10/11,Spain,8881.0,Alavés Youth 
+"Jul 1, 2009",,?,Spain,28867.0,Sevilla FC JuvA ,186843,-,Elie Moises Akui N'Dekre,09/10,Czech Republic,715.0,Bohemians 1905 
+"Jul 1, 2015",,Free transfer,Czech Republic,450.0,Dukla Prag ,257316,100 Th. €,Pavel Radoš,15/16,,75.0,Unknown 
+"Jun 30, 2015",,End of loan,Czech Republic,13299.0,Graffin Vlasim ,257316,100 Th. €,Pavel Radoš,14/15,Czech Republic,450.0,Dukla Prag 
+"Jul 13, 2014",,Loan,Czech Republic,450.0,Dukla Prag ,257316,100 Th. €,Pavel Radoš,14/15,Czech Republic,13299.0,Graffin Vlasim 
+"Jun 30, 2014",,End of loan,Czech Republic,13299.0,Graffin Vlasim ,257316,100 Th. €,Pavel Radoš,13/14,Czech Republic,450.0,Dukla Prag 
+"Jan 15, 2014",,Loan,Czech Republic,450.0,Dukla Prag ,257316,100 Th. €,Pavel Radoš,13/14,Czech Republic,13299.0,Graffin Vlasim 
+"Jun 30, 2013",,End of loan,Czech Republic,28596.0,FC MAS Taborsko ,257316,50 Th. €,Pavel Radoš,12/13,Czech Republic,450.0,Dukla Prag 
+"Jan 30, 2013",,Loan,Czech Republic,450.0,Dukla Prag ,257316,-,Pavel Radoš,12/13,Czech Republic,28596.0,FC MAS Taborsko 
+"Dec 31, 2012",,End of loan,Czech Republic,75.0,Unknown ,257316,-,Pavel Radoš,12/13,,450.0,Dukla Prag 
+"Jul 1, 2012",,Loan,Czech Republic,450.0,Dukla Prag ,257316,-,Pavel Radoš,12/13,,75.0,Unknown 
+"Jan 1, 2016",,Loan,Czech Republic,697.0,Slovan Liberec ,315183,100 Th. €,Djika Douglas,15/16,Czech Republic,804.0,Fotbal Trinec 
+"Aug 1, 2014",,?,Ghana,13607.0,Liberty Prof. ,286000,100 Th. €,Joseph Mensah,14/15,Denmark,2414.0,AC Horsens 
+"Jun 30, 2014",,End of loan,Czech Republic,62.0,Slavia Prag ,286000,100 Th. €,Joseph Mensah,13/14,Ghana,13607.0,Liberty Prof. 
+"Jan 13, 2014",,Loan,Ghana,13607.0,Liberty Prof. ,286000,-,Joseph Mensah,13/14,Czech Republic,62.0,Slavia Prag 
+"Jul 1, 2014",,?,Czech Republic,450.0,Dukla Prag ,280882,100 Th. €,Tomas Tenkl,14/15,Czech Republic,18957.0,Loko Vltavin 
+"Jun 30, 2014",,End of loan,Czech Republic,18957.0,Loko Vltavin ,280882,100 Th. €,Tomas Tenkl,13/14,Czech Republic,450.0,Dukla Prag 
+"Aug 1, 2013",,Loan,Czech Republic,450.0,Dukla Prag ,280882,-,Tomas Tenkl,13/14,Czech Republic,18957.0,Loko Vltavin 
+"Jun 30, 2013",,End of loan,Poland,33281.0,Unia Kunice ,280882,-,Tomas Tenkl,12/13,Czech Republic,450.0,Dukla Prag 
+"Jul 1, 2012",,Loan,Czech Republic,450.0,Dukla Prag ,280882,-,Tomas Tenkl,12/13,Poland,33281.0,Unia Kunice 
+"Jul 1, 2015",,?,Czech Republic,697.0,Slovan Liberec ,315192,100 Th. €,Vojtech Novotny,15/16,Czech Republic,814.0,FK Teplice 
+"Jun 30, 2015",,End of loan,Czech Republic,8541.0,FK Varnsdorf ,315192,100 Th. €,Vojtech Novotny,14/15,Czech Republic,697.0,Slovan Liberec 
+"Jul 1, 2014",,Loan,Czech Republic,697.0,Slovan Liberec ,315192,100 Th. €,Vojtech Novotny,14/15,Czech Republic,8541.0,FK Varnsdorf 
+"Apr 8, 2016",,End of loan,Czech Republic,8541.0,FK Varnsdorf ,315195,100 Th. €,Chukwudi Chukwuma,15/16,Czech Republic,814.0,FK Teplice 
+"Sep 1, 2015",,Loan,Czech Republic,814.0,FK Teplice ,315195,100 Th. €,Chukwudi Chukwuma,15/16,Czech Republic,8541.0,FK Varnsdorf 
+"Dec 31, 2013",,End of loan,Slovakia,12005.0,Zlate Moravce ,232766,200 Th. €,Michal Obrocnik,13/14,Czech Republic,697.0,Slovan Liberec 
+"Jul 2, 2013",,Loan,Czech Republic,697.0,Slovan Liberec ,232766,200 Th. €,Michal Obrocnik,13/14,Slovakia,12005.0,Zlate Moravce 
+"Jul 1, 2012",,?,Slovakia,13903.0,Rimavska Sobota ,232766,-,Michal Obrocnik,12/13,Slovakia,12005.0,Zlate Moravce 
+"Jul 1, 2015",,Free transfer,Czech Republic,814.0,FK Teplice ,315201,100 Th. €,Otto Urma,15/16,Czech Republic,11117.0,Baník Sokolov 
+"Jun 1, 2015",,End of loan,Czech Republic,11117.0,Baník Sokolov ,315201,100 Th. €,Otto Urma,14/15,Czech Republic,814.0,FK Teplice 
+"Jan 1, 2015",,Loan,Czech Republic,12864.0,FK Teplice U21 ,315201,100 Th. €,Otto Urma,14/15,Czech Republic,11117.0,Baník Sokolov 
+"Jul 1, 2012",,-,Czech Republic,40308.0,1.SC Znojmo U21 ,180550,-,Jiri Dolecek,12/13,Czech Republic,13716.0,1.SC Znojmo 
+"Jan 1, 2016",,Free transfer,Czech Republic,2598.0,1.FK Pribram ,286537,-,Jakub Šindelář,15/16,Czech Republic,18858.0,FK Slavoj 
+"Dec 31, 2015",,End of loan,Czech Republic,36493.0,Kraluv Dvur ,286537,-,Jakub Šindelář,15/16,Czech Republic,2598.0,1.FK Pribram 
+"Jul 1, 2015",,Loan,Czech Republic,2598.0,1.FK Pribram ,286537,-,Jakub Šindelář,15/16,Czech Republic,36493.0,Kraluv Dvur 
+"Jan 1, 2015",,-,Czech Republic,8532.0,Pribram U21 ,286537,-,Jakub Šindelář,14/15,Czech Republic,2598.0,1.FK Pribram 
+"Feb 19, 2016",,-,Belgium,515.0,Unattached ,111434,100 Th. €,Guy Roger Eschmann,15/16,,9010.0,FCV Dender EH 
+"Jul 1, 2015",,Free transfer,Switzerland,2411.0,FC Locarno ,111434,100 Th. €,Guy Roger Eschmann,15/16,,515.0,Unattached 
+"Jul 1, 2014",,Free transfer,Czech Republic,62.0,Slavia Prag ,111434,100 Th. €,Guy Roger Eschmann,14/15,Switzerland,2411.0,FC Locarno 
+"Apr 12, 2014",,Free transfer,Iceland,2576.0,Fylkir ,111434,-,Guy Roger Eschmann,13/14,Czech Republic,62.0,Slavia Prag 
+"Jul 26, 2013",,Free transfer,Israel,262.0,H. Petah Tikva ,111434,-,Guy Roger Eschmann,13/14,Iceland,2576.0,Fylkir 
+"Apr 20, 2012",,?,Switzerland,10400.0,Thun U21 ,111434,-,Guy Roger Eschmann,12/13,Israel,262.0,H. Petah Tikva 
+"Oct 1, 2011",,?,Spain,14742.0,Mallorca Juv. A ,111434,-,Guy Roger Eschmann,11/12,Switzerland,10400.0,Thun U21 
+"Aug 1, 2010",,?,Switzerland,9084.0,NE Xamax ,111434,-,Guy Roger Eschmann,10/11,Spain,14742.0,Mallorca Juv. A 
+"Jul 1, 2009",,-,Switzerland,23728.0,Xamax II ,111434,-,Guy Roger Eschmann,09/10,Switzerland,9084.0,NE Xamax 
+"Aug 1, 2008",,?,Switzerland,14322.0,FC Basel U18 ,111434,-,Guy Roger Eschmann,08/09,Switzerland,23728.0,Xamax II 
+"Jul 1, 2014",,?,Czech Republic,13716.0,1.SC Znojmo ,180558,200 Th. €,Josef Hnanicek,14/15,Czech Republic,2598.0,1.FK Pribram 
+"Jan 1, 2011",,?,Czech Republic,75.0,Unknown ,180558,-,Josef Hnanicek,10/11,,13716.0,1.SC Znojmo 
+"Jul 1, 2015",,?,Czech Republic,13716.0,1.SC Znojmo ,180559,250 Th. €,Matus Lacko,15/16,Czech Republic,5225.0,Zbrojovka Brno 
+"Jun 30, 2016",,End of loan,Ukraine,16247.0,Stal D. ,120144,400 Th. €,Evgen Budnik,15/16,Ukraine,2740.0,Vorskla 
+"Jul 17, 2015",,Loan,Ukraine,2740.0,Vorskla ,120144,400 Th. €,Evgen Budnik,15/16,Ukraine,16247.0,Stal D. 
+"Dec 31, 2014",,End of loan,Czech Republic,697.0,Slovan Liberec ,120144,400 Th. €,Evgen Budnik,14/15,Ukraine,2740.0,Vorskla 
+"Jan 31, 2014",,Loan,Ukraine,2740.0,Vorskla ,120144,500 Th. €,Evgen Budnik,13/14,Czech Republic,697.0,Slovan Liberec 
+"Jul 1, 2012",,?,Ukraine,6414.0,Metalist ,120144,300 Th. €,Evgen Budnik,12/13,Ukraine,2740.0,Vorskla 
+"Jun 30, 2012",,End of loan,Ukraine,2740.0,Vorskla ,120144,300 Th. €,Evgen Budnik,11/12,Ukraine,6414.0,Metalist 
+"Jan 1, 2012",,Loan,Ukraine,6414.0,Metalist ,120144,100 Th. €,Evgen Budnik,11/12,Ukraine,2740.0,Vorskla 
+"Oct 1, 2011",,-,Ukraine,12517.0,Metalist Kharkiv II ,120144,100 Th. €,Evgen Budnik,11/12,Ukraine,6414.0,Metalist 
+"Jan 1, 2009",,?,Ukraine,20365.0,Arsenal K U17 ,120144,-,Evgen Budnik,08/09,Ukraine,12517.0,Metalist Kharkiv II 
+"Jan 1, 2014",,?,Czech Republic,13716.0,1.SC Znojmo ,180567,75 Th. €,Jiri Zifcak,13/14,Austria,12208.0,SC Retz 
+"Dec 31, 2013",,End of loan,Czech Republic,19004.0,HFK Trebic ,180567,75 Th. €,Jiri Zifcak,13/14,Czech Republic,13716.0,1.SC Znojmo 
+"Jan 1, 2013",,Loan,Czech Republic,13716.0,1.SC Znojmo ,180567,100 Th. €,Jiri Zifcak,12/13,Czech Republic,19004.0,HFK Trebic 
+"Jun 30, 2015",,End of loan,Czech Republic,6491.0,FK Kolin ,257390,-,Josef Rehak,14/15,Czech Republic,62.0,Slavia Prag 
+"Jan 1, 2015",,Loan,Czech Republic,62.0,Slavia Prag ,257390,-,Josef Rehak,14/15,Czech Republic,6491.0,FK Kolin 
+"Jul 1, 2015",,Free transfer,Slovakia,12005.0,Zlate Moravce ,113007,150 Th. €,Kamil Karas,15/16,Slovakia,779.0,Kosice 
+"Jan 1, 2015",,Free transfer,Slovakia,20063.0,Podbrezova ,113007,125 Th. €,Kamil Karas,14/15,Slovakia,12005.0,Zlate Moravce 
+"Aug 1, 2014",,Free transfer,Slovakia,1443.0,MSK Zilina ,113007,200 Th. €,Kamil Karas,14/15,Slovakia,20063.0,Podbrezova 
+"Jul 1, 2014",,Free transfer,Czech Republic,2311.0,Sigma Olomouc ,113007,200 Th. €,Kamil Karas,14/15,Slovakia,1443.0,MSK Zilina 
+"Jul 2, 2013",,?,Slovakia,779.0,Kosice ,113007,150 Th. €,Kamil Karas,13/14,Czech Republic,2311.0,Sigma Olomouc 
+"Jul 1, 2009",,-,Slovakia,18763.0,Kosice U19 ,113007,-,Kamil Karas,09/10,Slovakia,779.0,Kosice 
+"Jul 1, 2015",,-,Czech Republic,22729.0,Ml.Boleslav U21 ,243568,100 Th. €,Stanislav Klobása,15/16,Czech Republic,5546.0,Mladá Boleslav 
+"Jul 1, 2014",,-,Czech Republic,5546.0,Mladá Boleslav ,243568,100 Th. €,Stanislav Klobása,14/15,Czech Republic,22729.0,Ml.Boleslav U21 
+"Jun 30, 2014",,End of loan,Czech Republic,13299.0,Graffin Vlasim ,243568,100 Th. €,Stanislav Klobása,13/14,Czech Republic,5546.0,Mladá Boleslav 
+"Feb 21, 2014",,Loan,Czech Republic,5546.0,Mladá Boleslav ,243568,100 Th. €,Stanislav Klobása,13/14,Czech Republic,13299.0,Graffin Vlasim 
+"Jul 1, 2013",,-,Czech Republic,15774.0,FK Mlada Boleslav U19 ,243568,-,Stanislav Klobása,13/14,Czech Republic,5546.0,Mladá Boleslav 
+"Jan 1, 2016",,Free transfer,Czech Republic,6201.0,Ostrava U21 ,181617,-,Patrik Kundratek,15/16,,75.0,Unknown 
+"Dec 31, 2014",,End of loan,Czech Republic,804.0,Fotbal Trinec ,181617,-,Patrik Kundratek,14/15,Czech Republic,6201.0,Ostrava U21 
+"Jul 17, 2014",,Loan,Czech Republic,6201.0,Ostrava U21 ,181617,-,Patrik Kundratek,14/15,Czech Republic,804.0,Fotbal Trinec 
+"Jul 1, 2012",,-,Czech Republic,15762.0,Ostrava U19 ,181617,-,Patrik Kundratek,12/13,Czech Republic,6201.0,Ostrava U21 
+"Jul 1, 2011",,-,Czech Republic,32685.0,Ostrava U17 ,181617,-,Patrik Kundratek,11/12,Czech Republic,15762.0,Ostrava U19 
+,,,,,,279529,,,,,,
+"Jan 29, 2016",,Free transfer,Czech Republic,814.0,FK Teplice ,315198,100 Th. €,Vaclav Heger,15/16,Germany,1400.0,VfB Auerbach 
+"Dec 31, 2015",,End of loan,Czech Republic,797.0,FK Most ,315198,100 Th. €,Vaclav Heger,15/16,Czech Republic,814.0,FK Teplice 
+"Jul 25, 2015",,Loan,Czech Republic,814.0,FK Teplice ,315198,100 Th. €,Vaclav Heger,15/16,Czech Republic,797.0,FK Most 
+"Jan 1, 2012",,?,Czech Republic,7975.0,FC Vysocina ,63863,200 Th. €,Tomas Cihlar,11/12,Czech Republic,13716.0,1.SC Znojmo 
+"Dec 31, 2010",,End of loan,Czech Republic,804.0,Fotbal Trinec ,63863,200 Th. €,Tomas Cihlar,10/11,Czech Republic,7975.0,FC Vysocina 
+"Jul 1, 2010",,Loan,Czech Republic,7975.0,FC Vysocina ,63863,200 Th. €,Tomas Cihlar,10/11,Czech Republic,804.0,Fotbal Trinec 
+"Jul 1, 2005",,?,Czech Republic,13716.0,1.SC Znojmo ,63863,-,Tomas Cihlar,05/06,Czech Republic,7975.0,FC Vysocina 
+"Jan 1, 2016",,Free transfer,Czech Republic,1897.0,Hradec Králové ,235904,150 Th. €,David Petrus,15/16,,75.0,Unknown 
+"Jan 1, 2015",,Free transfer,Czech Republic,377.0,Banik Ostrava ,235904,100 Th. €,David Petrus,14/15,Czech Republic,1897.0,Hradec Králové 
+"Aug 15, 2013",,?,Czech Republic,1496.0,FK Pardubice ,235904,100 Th. €,David Petrus,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jul 1, 2014",,Loan,Czech Republic,715.0,Bohemians 1905 ,9601,200 Th. €,Martin Kolar,14/15,Czech Republic,21720.0,Brumov 
+"Feb 20, 2013",,?,Czech Republic,75.0,Unknown ,9601,300 Th. €,Martin Kolar,12/13,,715.0,Bohemians 1905 
+"Aug 1, 2012",,?,Cyprus,429.0,Apol. Limassol ,9601,300 Th. €,Martin Kolar,12/13,,75.0,Unknown 
+"Jul 1, 2010",,Free transfer,Cyprus,7475.0,AE Pafos  ,9601,200 Th. €,Martin Kolar,10/11,Cyprus,429.0,Apol. Limassol 
+"Jan 1, 2009",,?,Sweden,699.0,Helsingborgs IF ,9601,500 Th. €,Martin Kolar,08/09,Cyprus,7475.0,AE Pafos  
+"Aug 1, 2007",,?,Belgium,58.0,RSC Anderlecht ,9601,"1,35 Mill. €",Martin Kolar,07/08,Sweden,699.0,Helsingborgs IF 
+"Jun 30, 2007",,End of loan,France,1147.0,Ajaccio ,9601,"1,35 Mill. €",Martin Kolar,06/07,Belgium,58.0,RSC Anderlecht 
+"Aug 1, 2006",,Loan,Belgium,58.0,RSC Anderlecht ,9601,"1,35 Mill. €",Martin Kolar,06/07,France,1147.0,Ajaccio 
+"Jun 30, 2006",,End of loan,Belgium,968.0,KVC Westerlo ,9601,"1,35 Mill. €",Martin Kolar,05/06,Belgium,58.0,RSC Anderlecht 
+"Jan 1, 2006",,Loan,Belgium,58.0,RSC Anderlecht ,9601,"2,20 Mill. €",Martin Kolar,05/06,Belgium,968.0,KVC Westerlo 
+"Dec 1, 2005",,End of loan,England,512.0,Stoke City ,9601,"2,20 Mill. €",Martin Kolar,05/06,Belgium,58.0,RSC Anderlecht 
+"Jul 1, 2005",,Loan,Belgium,58.0,RSC Anderlecht ,9601,"2,20 Mill. €",Martin Kolar,05/06,England,512.0,Stoke City 
+"Jan 1, 2003",,?,Czech Republic,715.0,Bohemians 1905 ,9601,-,Martin Kolar,02/03,Belgium,58.0,RSC Anderlecht 
+"Jun 30, 2016",,End of loan,Poland,15906.0,Termalica ,131972,300 Th. €,Elvis Bratanovic,15/16,Czech Republic,814.0,FK Teplice 
+"Feb 4, 2016",,Loan,Czech Republic,814.0,FK Teplice ,131972,500 Th. €,Elvis Bratanovic,15/16,Poland,15906.0,Termalica 
+"Jun 30, 2015",,End of loan,Czech Republic,715.0,Bohemians 1905 ,131972,500 Th. €,Elvis Bratanovic,14/15,Czech Republic,814.0,FK Teplice 
+"Jul 1, 2014",,Loan,Czech Republic,814.0,FK Teplice ,131972,500 Th. €,Elvis Bratanovic,14/15,Czech Republic,715.0,Bohemians 1905 
+"Jan 1, 2014",,200 Th. €,Slovenia,789.0,Rudar Velenje ,131972,500 Th. €,Elvis Bratanovic,13/14,Czech Republic,814.0,FK Teplice 
+"Jul 1, 2010",,-,Slovenia,20200.0,NK Rudar U19 ,131972,-,Elvis Bratanovic,10/11,Slovenia,789.0,Rudar Velenje 
+"Aug 1, 2009",,Free transfer,Slovenia,19376.0,NK Celje U19 ,131972,-,Elvis Bratanovic,09/10,Slovenia,20200.0,NK Rudar U19 
+"Jul 1, 2015",,?,Czech Republic,6491.0,FK Kolin ,212871,100 Th. €,Josef Eliáš,15/16,Czech Republic,6377.0,Ustí nad Labem 
+"Feb 1, 2015",,Loan,Czech Republic,5546.0,Mladá Boleslav ,212871,100 Th. €,Josef Eliáš,14/15,Czech Republic,6491.0,FK Kolin 
+"Jan 1, 2015",,End of loan,Czech Republic,8541.0,FK Varnsdorf ,212871,100 Th. €,Josef Eliáš,14/15,Czech Republic,5546.0,Mladá Boleslav 
+"Jul 1, 2014",,Loan,Czech Republic,5546.0,Mladá Boleslav ,212871,100 Th. €,Josef Eliáš,14/15,Czech Republic,8541.0,FK Varnsdorf 
+"Jul 1, 2013",,-,Czech Republic,15774.0,FK Mlada Boleslav U19 ,212871,-,Josef Eliáš,13/14,Czech Republic,5546.0,Mladá Boleslav 
+"Jan 1, 2015",,-,Czech Republic,18986.0,Pribram U19 ,289160,-,Jaroslav Tregler,14/15,Czech Republic,2598.0,1.FK Pribram 
+"Jul 1, 2014",,?,Czech Republic,13716.0,1.SC Znojmo ,157578,200 Th. €,Vlastimil Hruby,14/15,Czech Republic,1322.0,FK Jablonec 
+"Jul 1, 2014",,?,Czech Republic,13716.0,1.SC Znojmo ,157582,75 Th. €,Zdenek Micka,14/15,,75.0,Unknown 
+"Jun 30, 2014",,End of loan,Czech Republic,75.0,Unknown ,157582,75 Th. €,Zdenek Micka,13/14,,13716.0,1.SC Znojmo 
+"Jul 1, 2013",,Loan,Czech Republic,13716.0,1.SC Znojmo ,157582,75 Th. €,Zdenek Micka,13/14,,75.0,Unknown 
+"Dec 31, 2012",,End of loan,Czech Republic,19004.0,HFK Trebic ,157582,-,Zdenek Micka,12/13,Czech Republic,13716.0,1.SC Znojmo 
+"Jul 1, 2012",,Loan,Czech Republic,13716.0,1.SC Znojmo ,157582,-,Zdenek Micka,12/13,Czech Republic,19004.0,HFK Trebic 
+"Jan 5, 2015",,?,Czech Republic,13716.0,1.SC Znojmo ,157586,100 Th. €,Todor Yonov,14/15,Austria,12208.0,SC Retz 
+"Jul 1, 2005",,?,Bulgaria,8321.0,PFK Nesebar ,157586,-,Todor Yonov,05/06,Czech Republic,13716.0,1.SC Znojmo 
+"Jul 1, 2004",,?,Bulgaria,521.0,OFK Pirin ,157586,-,Todor Yonov,04/05,Bulgaria,8321.0,PFK Nesebar 
+"Jan 1, 2004",,?,Bulgaria,977.0,FC Rodopa ,157586,-,Todor Yonov,03/04,Bulgaria,521.0,OFK Pirin 
+"Jul 1, 2003",,?,Bulgaria,2259.0,Lok. Plovdiv ,157586,-,Todor Yonov,03/04,Bulgaria,977.0,FC Rodopa 
+"Jul 1, 2002",,?,Bulgaria,6764.0,PFC Beroe Stara Zagora ,157586,-,Todor Yonov,02/03,Bulgaria,2259.0,Lok. Plovdiv 
+"Jul 1, 2001",,?,Bulgaria,2259.0,Lok. Plovdiv ,157586,-,Todor Yonov,01/02,Bulgaria,6764.0,PFC Beroe Stara Zagora 
+"Feb 21, 2014",,121 Th. €,Scotland,2759.0,Ross County ,187290,175 Th. €,Kevin Luckassen,13/14,Czech Republic,697.0,Slovan Liberec 
+"Jul 1, 2013",,Free transfer,Netherlands,1090.0,AZ Alkmaar ,187290,50 Th. €,Kevin Luckassen,13/14,Scotland,2759.0,Ross County 
+"Jul 1, 2012",,-,Netherlands,7460.0,AZ Alkmaar U19 ,187290,50 Th. €,Kevin Luckassen,12/13,Netherlands,1090.0,AZ Alkmaar 
+"Jan 1, 2016",,End of loan,Czech Republic,13299.0,Vlašim ,242077,100 Th. €,Jan Matej,15/16,Czech Republic,377.0,Banik Ostrava 
+"Oct 26, 2015",,Loan,Czech Republic,377.0,Banik Ostrava ,242077,100 Th. €,Jan Matej,15/16,Czech Republic,13299.0,Vlašim 
+"Jul 1, 2015",,End of loan,Czech Republic,13299.0,Vlašim ,242077,100 Th. €,Jan Matej,16/17,Czech Republic,377.0,Banik Ostrava 
+"Jul 1, 2012",,Loan,Czech Republic,7975.0,FC Vysocina ,120222,250 Th. €,David Helisek,12/13,Czech Republic,13716.0,1.SC Znojmo 
+"Feb 1, 2012",,?,Slovakia,4529.0,Dunajska Streda ,120222,250 Th. €,David Helisek,11/12,Czech Republic,7975.0,FC Vysocina 
+"Jul 1, 2009",,Free transfer,Czech Republic,18857.0,FK Mutenice ,120222,-,David Helisek,09/10,Slovakia,4529.0,Dunajska Streda 
+"Dec 2, 2013",,-,Czech Republic,197.0,Sparta Praha ,325,300 Th. €,Tomás Ujfalusi,13/14,,123.0,End of career 
+"Sep 4, 2013",,Free transfer,Turkey,141.0,Galatasaray ,325,300 Th. €,Tomás Ujfalusi,13/14,Czech Republic,197.0,Sparta Praha 
+"Jul 18, 2011",,"2,00 Mill. €",Spain,13.0,Atlético Madrid ,325,"3,00 Mill. €",Tomás Ujfalusi,11/12,Turkey,141.0,Galatasaray 
+"Jul 1, 2008",,Free transfer,Italy,430.0,Fiorentina ,325,"10,50 Mill. €",Tomás Ujfalusi,08/09,Spain,13.0,Atlético Madrid 
+"Jul 1, 2004",,"7,50 Mill. €",Germany,41.0,Hamburger SV ,325,-,Tomás Ujfalusi,04/05,Italy,430.0,Fiorentina 
+"Jan 1, 2001",,"1,50 Mill. €",Czech Republic,2311.0,Sigma Olomouc ,325,-,Tomás Ujfalusi,00/01,Germany,41.0,Hamburger SV 
+"Jul 1, 1996",,-,Czech Republic,13925.0,SK Sigma Olomouc U19 ,325,-,Tomás Ujfalusi,96/97,Czech Republic,2311.0,Sigma Olomouc 
+"Jul 1, 2014",,?,Czech Republic,13716.0,1.SC Znojmo ,169376,50 Th. €,Roman Svarc,14/15,,75.0,Unknown 
+"Jun 30, 2014",,End of loan,Czech Republic,75.0,Unknown ,169376,50 Th. €,Roman Svarc,13/14,,13716.0,1.SC Znojmo 
+"Jul 1, 2013",,Loan,Czech Republic,13716.0,1.SC Znojmo ,169376,50 Th. €,Roman Svarc,13/14,,75.0,Unknown 
+"Dec 31, 2012",,End of loan,Czech Republic,75.0,Unknown ,169376,-,Roman Svarc,12/13,,13716.0,1.SC Znojmo 
+"Jul 1, 2012",,Loan,Czech Republic,13716.0,1.SC Znojmo ,169376,-,Roman Svarc,12/13,,75.0,Unknown 
+"Jan 1, 2016",,?,Bosnia-Herzegovina,628.0,Velez Mostar ,47525,250 Th. €,Milos Reljic,15/16,Serbia,27005.0,Petrovac 
+"Feb 24, 2015",,?,Serbia,27005.0,Petrovac ,47525,250 Th. €,Milos Reljic,14/15,Bosnia-Herzegovina,628.0,Velez Mostar 
+"Jul 1, 2014",,?,Sweden,7908.0,Valsta Syr. ,47525,200 Th. €,Milos Reljic,14/15,Serbia,27005.0,Petrovac 
+"Jun 30, 2014",,End of loan,Czech Republic,13716.0,1.SC Znojmo ,47525,200 Th. €,Milos Reljic,13/14,Sweden,7908.0,Valsta Syr. 
+"Jul 1, 2013",,Loan,Sweden,7908.0,Valsta Syr. ,47525,200 Th. €,Milos Reljic,13/14,Czech Republic,13716.0,1.SC Znojmo 
+"Jan 1, 2012",,Free transfer,Bulgaria,2259.0,Lok. Plovdiv ,47525,200 Th. €,Milos Reljic,11/12,Sweden,7908.0,Valsta Syr. 
+"Oct 1, 2011",,-,Bulgaria,515.0,Unattached ,47525,200 Th. €,Milos Reljic,11/12,,2259.0,Lok. Plovdiv 
+"Jul 1, 2011",,-,Serbia,159.0,Red Star ,47525,200 Th. €,Milos Reljic,11/12,,515.0,Unattached 
+"Jun 30, 2011",,End of loan,Serbia,9060.0,BSK Borca ,47525,200 Th. €,Milos Reljic,10/11,Serbia,159.0,Red Star 
+"Jul 1, 2010",,Loan,Serbia,159.0,Red Star ,47525,200 Th. €,Milos Reljic,10/11,Serbia,9060.0,BSK Borca 
+"Jan 1, 2010",,?,Serbia,11046.0,FK Srem ,47525,200 Th. €,Milos Reljic,09/10,Serbia,159.0,Red Star 
+"Jul 1, 2008",,?,Serbia,11137.0,Red Star U19 ,47525,-,Milos Reljic,08/09,Serbia,11046.0,FK Srem 
+"Jun 30, 2016",,End of loan,Czech Republic,715.0,Bohemians 1905 ,242086,500 Th. €,Patrik Schick,15/16,Czech Republic,197.0,Sparta Praha 
+"Jul 1, 2015",,Loan,Czech Republic,197.0,Sparta Praha ,242086,200 Th. €,Patrik Schick,15/16,Czech Republic,715.0,Bohemians 1905 
+"Jul 1, 2014",,-,Czech Republic,12795.0,Sparta Prag U19 ,242086,200 Th. €,Patrik Schick,14/15,Czech Republic,197.0,Sparta Praha 
+"Jul 1, 2016",,-,England,9261.0,Everton U21 ,242089,100 Th. €,Jindrich Stanek,16/17,,515.0,Unattached 
+"Jan 31, 2014",,?,Czech Republic,12795.0,Sparta Prag U19 ,242089,100 Th. €,Jindrich Stanek,13/14,England,9261.0,Everton U21 
+"Jul 1, 2013",,-,Czech Republic,35642.0,Sp. Prag U17 ,242089,-,Jindrich Stanek,13/14,Czech Republic,12795.0,Sparta Prag U19 
+"Jun 30, 2014",,End of loan,Czech Republic,715.0,Bohemians 1905 ,113578,350 Th. €,Mantas Kuklys,13/14,Lithuania,602.0,Zalgiris 
+"Jan 29, 2014",,Loan,Lithuania,602.0,Zalgiris ,113578,375 Th. €,Mantas Kuklys,13/14,Czech Republic,715.0,Bohemians 1905 
+"Jan 1, 2012",,?,Belgium,3230.0,KV Turnhout ,113578,250 Th. €,Mantas Kuklys,11/12,Lithuania,602.0,Zalgiris 
+"Jan 1, 2011",,?,Lithuania,5970.0,Siauliai ,113578,400 Th. €,Mantas Kuklys,10/11,Belgium,3230.0,KV Turnhout 
+"Feb 23, 2015",,Free transfer,Slovenia,23253.0,NK Zavrc ,91564,100 Th. €,Nenad Dedic,14/15,Croatia,552.0,Segesta Sisak 
+"Aug 8, 2014",,?,Bosnia-Herzegovina,2573.0,Zeljeznicar ,91564,50 Th. €,Nenad Dedic,14/15,Slovenia,23253.0,NK Zavrc 
+"Mar 31, 2014",,-,Bosnia-Herzegovina,515.0,Unattached ,91564,50 Th. €,Nenad Dedic,13/14,,2573.0,Zeljeznicar 
+"Jan 1, 2014",,-,Czech Republic,377.0,Banik Ostrava ,91564,50 Th. €,Nenad Dedic,13/14,,515.0,Unattached 
+"Jul 17, 2013",,Free transfer,Hungary,30660.0,Szeged ,91564,50 Th. €,Nenad Dedic,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jan 13, 2013",,Free transfer,Croatia,29835.0,NK Lekenik ,91564,50 Th. €,Nenad Dedic,12/13,Hungary,30660.0,Szeged 
+"Jul 17, 2012",,Free transfer,Croatia,999.0,NK Istra 1961  ,91564,50 Th. €,Nenad Dedic,12/13,Croatia,29835.0,NK Lekenik 
+"Jun 15, 2012",,Free transfer,Croatia,10314.0,Karlovac 1919 ,91564,50 Th. €,Nenad Dedic,11/12,Croatia,999.0,NK Istra 1961  
+"Jul 1, 2011",,Free transfer,Croatia,552.0,Segesta Sisak ,91564,-,Nenad Dedic,11/12,Croatia,10314.0,Karlovac 1919 
+"Jul 4, 2015",,?,Czech Republic,1322.0,FK Jablonec ,195503,200 Th. €,Pavel Moulis,15/16,Czech Republic,2311.0,Sigma Olomouc 
+"Jun 30, 2015",,End of loan,Czech Republic,2598.0,1.FK Pribram ,195503,200 Th. €,Pavel Moulis,14/15,Czech Republic,1322.0,FK Jablonec 
+"Jan 1, 2015",,Loan,Czech Republic,1322.0,FK Jablonec ,195503,200 Th. €,Pavel Moulis,14/15,Czech Republic,2598.0,1.FK Pribram 
+"Dec 31, 2013",,End of loan,Czech Republic,6377.0,Ustí nad Labem ,195503,175 Th. €,Pavel Moulis,13/14,Czech Republic,814.0,FK Teplice 
+"Aug 24, 2012",,Loan,Czech Republic,814.0,FK Teplice ,195503,-,Pavel Moulis,12/13,Czech Republic,6377.0,Ustí nad Labem 
+"Jun 30, 2012",,End of loan,Czech Republic,6377.0,Ustí nad Labem ,195503,-,Pavel Moulis,11/12,Czech Republic,814.0,FK Teplice 
+"Jul 1, 2011",,Loan,Czech Republic,814.0,FK Teplice ,195503,-,Pavel Moulis,11/12,Czech Republic,6377.0,Ustí nad Labem 
+"Jul 30, 2015",,Loan,Czech Republic,377.0,Banik Ostrava ,276405,-,Jiri Hlavac,15/16,Czech Republic,8684.0,FC Hlucin 
+"Jun 30, 2015",,End of loan,Czech Republic,8684.0,FC Hlucin ,276405,-,Jiri Hlavac,14/15,Czech Republic,377.0,Banik Ostrava 
+"Jul 1, 2014",,Loan,Czech Republic,377.0,Banik Ostrava ,276405,-,Jiri Hlavac,14/15,Czech Republic,8684.0,FC Hlucin 
+"Jun 30, 2014",,End of loan,Czech Republic,19083.0,Frydek-Mistek ,276405,-,Jiri Hlavac,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jan 1, 2014",,Loan,Czech Republic,377.0,Banik Ostrava ,276405,-,Jiri Hlavac,13/14,Czech Republic,19083.0,Frydek-Mistek 
+"Dec 31, 2013",,End of loan,Czech Republic,19083.0,Frydek-Mistek ,276405,-,Jiri Hlavac,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jul 1, 2013",,Loan,Czech Republic,377.0,Banik Ostrava ,276405,-,Jiri Hlavac,13/14,Czech Republic,19083.0,Frydek-Mistek 
+"Feb 1, 2016",,Free transfer,Czech Republic,450.0,Dukla Prag ,324023,100 Th. €,Jan Juroska,15/16,Czech Republic,28596.0,FC MAS Taborsko 
+"Jan 1, 2016",,End of loan,Czech Republic,8541.0,FK Varnsdorf ,324023,100 Th. €,Jan Juroska,15/16,Czech Republic,450.0,Dukla Prag 
+"Jul 1, 2015",,Loan,Czech Republic,450.0,Dukla Prag ,324023,100 Th. €,Jan Juroska,15/16,Czech Republic,8541.0,FK Varnsdorf 
+"Jul 1, 2014",,-,Czech Republic,37464.0,Dukla U21 ,324023,-,Jan Juroska,14/15,Czech Republic,450.0,Dukla Prag 
+"Feb 1, 2016",,?,Latvia,1043.0,Skonto Riga ,80317,300 Th. €,Renars Rode,15/16,Czech Republic,2311.0,Sigma Olomouc 
+"Feb 1, 2015",,?,Latvia,2782.0,Ventspils ,80317,300 Th. €,Renars Rode,14/15,Latvia,1043.0,Skonto Riga 
+"Jul 1, 2014",,?,Czech Republic,814.0,FK Teplice ,80317,300 Th. €,Renars Rode,14/15,Latvia,2782.0,Ventspils 
+"Jan 1, 2014",,?,Latvia,1043.0,Skonto Riga ,80317,300 Th. €,Renars Rode,13/14,Czech Republic,814.0,FK Teplice 
+"Jan 1, 2010",,?,Latvia,9057.0,FK Olimps Riga ,80317,-,Renars Rode,09/10,Latvia,1043.0,Skonto Riga 
+"Jan 20, 2016",,?,Czech Republic,377.0,Banik Ostrava ,262591,600 Th. €,Derrick Mensah,15/16,Norway,2761.0,FK Haugesund 
+"Jan 31, 2014",,-,Spain,13.0,Atlético Madrid ,262591,-,Derrick Mensah,13/14,Czech Republic,377.0,Banik Ostrava 
+"Sep 18, 2013",,-,Tunisia,819.0,Club Africain ,262591,-,Derrick Mensah,13/14,Spain,13.0,Atlético Madrid 
+"Aug 22, 2013",,300 Th. €,Ghana,11913.0,Tema Youth ,262591,-,Derrick Mensah,13/14,Tunisia,819.0,Club Africain 
+"Jan 9, 2016",,200 Th. €,Czech Republic,377.0,Banik Ostrava ,262593,300 Th. €,Francis Narh,15/16,Bulgaria,156.0,Levski Sofia 
+"Jan 31, 2014",,Free transfer,Tunisia,819.0,Club Africain ,262593,300 Th. €,Francis Narh,13/14,Czech Republic,377.0,Banik Ostrava 
+"Aug 22, 2013",,300 Th. €,Ghana,11913.0,Tema Youth ,262593,-,Francis Narh,13/14,Tunisia,819.0,Club Africain 
+"Jan 31, 2014",,250 Th. €,Czech Republic,6475.0,1.HFK Olomouc ,70647,75 Th. €,Vojtech Srom,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jul 1, 2007",,?,Czech Republic,2311.0,Sigma Olomouc ,70647,-,Vojtech Srom,07/08,Czech Republic,6475.0,1.HFK Olomouc 
+"Apr 1, 2016",,?,Indonesia,75.0,Unknown ,86476,200 Th. €,Lamine Diarrassouba,15/16,,14104.0,PSM Makassar 
+"Jul 1, 2014",,?,Czech Republic,13716.0,1.SC Znojmo ,86476,200 Th. €,Lamine Diarrassouba,14/15,,75.0,Unknown 
+"Feb 13, 2014",,?,Slovakia,6163.0,FK Senica ,86476,125 Th. €,Lamine Diarrassouba,13/14,Czech Republic,13716.0,1.SC Znojmo 
+"Jan 1, 2012",,Free transfer,France,1160.0,Olympique Nîmes ,86476,-,Lamine Diarrassouba,11/12,Slovakia,6163.0,FK Senica 
+"Jan 1, 2011",,Free transfer,Romania,4687.0,FC Brasov ,86476,175 Th. €,Lamine Diarrassouba,10/11,France,1160.0,Olympique Nîmes 
+"Aug 1, 2010",,Free transfer,Romania,9560.0,Poli. Iasi ,86476,175 Th. €,Lamine Diarrassouba,10/11,Romania,4687.0,FC Brasov 
+"Jul 1, 2008",,Free transfer,Egypt,28198.0,Sekka El Hadid ,86476,-,Lamine Diarrassouba,08/09,Romania,9560.0,Poli. Iasi 
+"Jul 1, 2015",,Free transfer,Czech Republic,7975.0,FC Vysocina ,276430,-,Jakub Teply,15/16,Czech Republic,804.0,Fotbal Trinec 
+"Jul 1, 2015",,End of loan,Czech Republic,6491.0,FK Kolin ,276430,-,Jakub Teply,15/16,Czech Republic,7975.0,FC Vysocina 
+"Jan 1, 2015",,Loan,Czech Republic,7975.0,FC Vysocina ,276430,-,Jakub Teply,14/15,Czech Republic,6491.0,FK Kolin 
+"Dec 31, 2014",,End of loan,Czech Republic,26258.0,Viktorie Jirny ,276430,-,Jakub Teply,14/15,Czech Republic,7975.0,FC Vysocina 
+"Aug 5, 2014",,Loan,Czech Republic,7975.0,FC Vysocina ,276430,-,Jakub Teply,14/15,Czech Republic,26258.0,Viktorie Jirny 
+"Jun 30, 2014",,End of loan,Czech Republic,6377.0,Ustí nad Labem ,276430,-,Jakub Teply,13/14,Czech Republic,7975.0,FC Vysocina 
+"Jan 29, 2014",,Loan,Czech Republic,7975.0,FC Vysocina ,276430,-,Jakub Teply,13/14,Czech Republic,6377.0,Ustí nad Labem 
+"Jul 1, 2013",,?,Czech Republic,19083.0,Frydek-Mistek ,276430,-,Jakub Teply,13/14,Czech Republic,7975.0,FC Vysocina 
+"Jul 1, 2013",,-,Czech Republic,32689.0,M. Boleslav U17 ,198607,-,Lukas Hulka,13/14,Czech Republic,5546.0,Mladá Boleslav 
+"Jan 1, 2016",,Free transfer,Czech Republic,7133.0,Sl. Liberec U21 ,324049,-,Lukas Bouska,15/16,Germany,37071.0,FSV Neusalza-S. 
+"Jul 1, 2013",,?,Czech Republic,6475.0,1.HFK Olomouc ,235887,75 Th. €,Matej Biolek,13/14,Czech Republic,5544.0,Slovácko 
+"Jul 1, 2012",,?,Czech Republic,19083.0,Frydek-Mistek ,235887,-,Matej Biolek,12/13,Czech Republic,6475.0,1.HFK Olomouc 
+"Jul 1, 2013",,-,Czech Republic,13925.0,SK Sigma Olomouc U19 ,314836,-,Tomas Zahradnicek,13/14,Czech Republic,2311.0,Sigma Olomouc 
+"Jul 1, 2015",,-,Czech Republic,8532.0,Pribram U21 ,279374,100 Th. €,Patrik Brandner,15/16,Czech Republic,2598.0,1.FK Pribram 
+"Jan 1, 2014",,-,Czech Republic,2598.0,1.FK Pribram ,279374,100 Th. €,Patrik Brandner,13/14,Czech Republic,8532.0,Pribram U21 
+"Jan 1, 2014",,-,Czech Republic,32687.0,S. Olomouc U17 ,198614,-,Tomas Chory,13/14,Czech Republic,2311.0,Sigma Olomouc 
+"Jul 1, 2015",,End of loan,Czech Republic,6491.0,FK Kolin ,265892,100 Th. €,Ludek Vejmola,15/16,Czech Republic,7975.0,FC Vysocina 
+"Jan 1, 2015",,Loan,Czech Republic,7975.0,FC Vysocina ,265892,100 Th. €,Ludek Vejmola,14/15,Czech Republic,6491.0,FK Kolin 
+"Jan 1, 2014",,?,Czech Republic,15759.0,1.FC Slovacko U19 ,265892,-,Ludek Vejmola,13/14,Czech Republic,7975.0,FC Vysocina 
+"Jun 30, 2014",,End of loan,Czech Republic,715.0,Bohemians 1905 ,126427,200 Th. €,Egidijus Vaitkunas,13/14,Lithuania,602.0,Zalgiris 
+"Jan 29, 2014",,Loan,Lithuania,602.0,Zalgiris ,126427,300 Th. €,Egidijus Vaitkunas,13/14,Czech Republic,715.0,Bohemians 1905 
+"Jan 1, 2010",,?,Lithuania,23562.0,Tauras ,126427,-,Egidijus Vaitkunas,09/10,Lithuania,602.0,Zalgiris 
+"Jul 1, 2009",,?,Lithuania,23559.0,Banga Gargzdai ,126427,-,Egidijus Vaitkunas,09/10,Lithuania,23562.0,Tauras 
+"Jan 1, 2016",,Loan,Czech Republic,377.0,Banik Ostrava ,234405,200 Th. €,Oldrich Byrtus,15/16,Czech Republic,19083.0,Frydek-Mistek 
+"Dec 31, 2015",,End of loan,Czech Republic,13726.0,MFK Karvina ,234405,200 Th. €,Oldrich Byrtus,15/16,Czech Republic,377.0,Banik Ostrava 
+"Jul 30, 2015",,Loan,Czech Republic,377.0,Banik Ostrava ,234405,200 Th. €,Oldrich Byrtus,15/16,Czech Republic,13726.0,MFK Karvina 
+"Jan 1, 2014",,-,Czech Republic,6201.0,Ostrava U21 ,234405,100 Th. €,Oldrich Byrtus,13/14,Czech Republic,377.0,Banik Ostrava 
+"Jan 1, 2013",,-,Czech Republic,377.0,Banik Ostrava ,234405,100 Th. €,Oldrich Byrtus,12/13,Czech Republic,6201.0,Ostrava U21 
+"Jul 1, 2012",,-,Czech Republic,15762.0,Ostrava U19 ,234405,-,Oldrich Byrtus,12/13,Czech Republic,377.0,Banik Ostrava 
+"Jan 1, 2016",,?,Czech Republic,814.0,FK Teplice ,303440,200 Th. €,Laco Takacs,15/16,Czech Republic,5546.0,Mladá Boleslav 
+"Jun 30, 2012",,End of loan,Czech Republic,7975.0,FC Vysocina ,199145,-,Petr Kolarik,11/12,Czech Republic,6541.0,Sl. Prague U21 
+"Jul 1, 2011",,Loan,Czech Republic,6541.0,Sl. Prague U21 ,199145,-,Petr Kolarik,11/12,Czech Republic,7975.0,FC Vysocina 
+"Jan 1, 2015",,Free transfer,Czech Republic,7805.0,AFK Chrudim ,290794,100 Th. €,Jindrich Kucera,14/15,Czech Republic,13333.0,FC Strizkov Prag 
+"Jul 1, 2014",,Free transfer,Czech Republic,7975.0,FC Vysocina ,290794,-,Jindrich Kucera,14/15,Czech Republic,7805.0,AFK Chrudim 
+"Jun 30, 2014",,End of loan,Czech Republic,15096.0,FC Zdar nad Sazavou ,290794,-,Jindrich Kucera,13/14,Czech Republic,7975.0,FC Vysocina 
+"Feb 21, 2014",,Loan,Czech Republic,7975.0,FC Vysocina ,290794,-,Jindrich Kucera,13/14,Czech Republic,15096.0,FC Zdar nad Sazavou 
+"Jan 1, 2015",,Loan,Czech Republic,6541.0,Sl. Prague U21 ,283627,-,Jiri Sodoma,14/15,Czech Republic,6491.0,FK Kolin 
+"Jul 1, 2011",,-,Czech Republic,40308.0,1.SC Znojmo U21 ,195581,-,Daniel Odehnal,11/12,Czech Republic,13716.0,1.SC Znojmo 
+"Jul 1, 2015",,?,Czech Republic,8532.0,Pribram U21 ,63988,50 Th. €,Martin Stepanovsky,15/16,Czech Republic,18858.0,FK Slavoj 
+"Jul 1, 2013",,Free transfer,Czech Republic,12861.0,Bohemians Prag ,63988,50 Th. €,Martin Stepanovsky,13/14,Czech Republic,8532.0,Pribram U21 
+"Jul 1, 2012",,?,Czech Republic,20532.0,Hlavice ,63988,50 Th. €,Martin Stepanovsky,12/13,Czech Republic,12861.0,Bohemians Prag 
+"Jan 1, 2010",,-,Czech Republic,7975.0,FC Vysocina ,63988,50 Th. €,Martin Stepanovsky,09/10,Czech Republic,8788.0,Jihlava U21 
+"Jul 1, 2007",,-,Czech Republic,8788.0,Jihlava U21 ,63988,-,Martin Stepanovsky,07/08,Czech Republic,7975.0,FC Vysocina 
+"Jul 1, 2015",,Free transfer,Czech Republic,5225.0,Zbrojovka Brno ,204279,100 Th. €,Simon Sumbera,15/16,Czech Republic,13716.0,1.SC Znojmo 
+"Jan 1, 2014",,-,Czech Republic,515.0,Unattached ,204279,-,Simon Sumbera,13/14,,5225.0,Zbrojovka Brno 
+"Jul 1, 2013",,-,Czech Republic,13905.0,FC Zlin B ,204279,-,Simon Sumbera,13/14,,515.0,Unattached 
+"Jul 1, 2012",,-,Czech Republic,5545.0,FC Zlin ,204279,-,Simon Sumbera,12/13,Czech Republic,13905.0,FC Zlin B 
+"Dec 31, 2013",,End of loan,Slovakia,4786.0,Banska Bystrica ,225706,150 Th. €,Matus Marcin,13/14,Czech Republic,7975.0,FC Vysocina 
+"Sep 4, 2013",,Loan,Czech Republic,7975.0,FC Vysocina ,225706,150 Th. €,Matus Marcin,13/14,Slovakia,4786.0,Banska Bystrica 
+"Jul 1, 2013",,?,Slovakia,4531.0,Tatran Presov ,225706,150 Th. €,Matus Marcin,13/14,Czech Republic,7975.0,FC Vysocina 
+,'NoneType' object has no attribute 'find_all',,,,,318242,,,,,,
+"Jan 1, 2014",,?,Slovakia,20637,Presov B ,90949,-,Miroslav Kerestes,13/14,Czech Republic,5225,Zbrojovka Brno 
+"Dec 31, 2013",,End of loan,Czech Republic,479,SFC Opava ,90949,-,Miroslav Kerestes,13/14,Slovakia,20637,Presov B 
+"Jul 1, 2013",,Loan,Slovakia,20637,Presov B ,90949,-,Miroslav Kerestes,13/14,Czech Republic,479,SFC Opava 
+,'NoneType' object has no attribute 'find_all',,,,,279529,,,,,,
+"Jul 1, 2014",,?,Czech Republic,13716,1.SC Znojmo ,157581,100 Th. €,Tomas Lukas,14/15,Austria,12201,FC Mistelbach 
+"Jun 30, 2014",,End of loan,Czech Republic,33472,SK Sulko-Zabreh ,157581,100 Th. €,Tomas Lukas,13/14,Czech Republic,13716,1.SC Znojmo 
+"Jan 1, 2014",,Loan,Czech Republic,13716,1.SC Znojmo ,157581,150 Th. €,Tomas Lukas,13/14,Czech Republic,33472,SK Sulko-Zabreh 
+"Dec 31, 2013",,End of loan,Czech Republic,19004,HFK Trebic ,157581,150 Th. €,Tomas Lukas,13/14,Czech Republic,13716,1.SC Znojmo 
+"Jul 1, 2013",,Loan,Czech Republic,13716,1.SC Znojmo ,157581,150 Th. €,Tomas Lukas,13/14,Czech Republic,19004,HFK Trebic 
+,'NoneType' object has no attribute 'find_all',,,,,279663,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,314136,,,,,,
+"Jan 12, 2015",,Loan,Czech Republic,697,Slovan Liberec ,74968,300 Th. €,Lubos Kolar,14/15,Slovakia,18963,Spartak Myjava 
+"Jul 26, 2013",,?,Slovakia,1562,FC Nitra ,74968,250 Th. €,Lubos Kolar,13/14,Czech Republic,697,Slovan Liberec 
+"Jul 1, 2008",,-,Slovakia,24343,Nitra U19 ,74968,-,Lubos Kolar,08/09,Slovakia,1562,FC Nitra 
+,'NoneType' object has no attribute 'find_all',,,,,147546,,,,,,
+,'NoneType' object has no attribute 'find_all',,,,,297669,,,,,,

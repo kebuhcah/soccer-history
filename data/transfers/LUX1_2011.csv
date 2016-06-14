@@ -1,0 +1,514 @@
+date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jul 1, 2015",,Free transfer,Belgium,12591.0,RRC Waterloo ,21513,100 Th. €,Damien Miceli,15/16,Belgium,44367.0,FC Pepingen 
+"Jul 1, 2014",,Free transfer,Belgium,3901.0,Charleroi Fleur ,21513,100 Th. €,Damien Miceli,14/15,Belgium,12591.0,RRC Waterloo 
+"Jul 1, 2013",,Free transfer,Luxembourg,1257.0,Jeunesse Esch ,21513,100 Th. €,Damien Miceli,13/14,Belgium,3901.0,FC Charleroi 
+"Jan 1, 2012",,?,Belgium,6342.0,White Star ,21513,100 Th. €,Damien Miceli,11/12,Luxembourg,1257.0,Jeunesse Esch 
+"Jul 1, 2010",,Free transfer,Belgium,172.0,RSC Charleroi ,21513,200 Th. €,Damien Miceli,10/11,Belgium,6342.0,White Star 
+"Jun 30, 2010",,End of loan,Belgium,3146.0,Ol. Charleroi ,21513,200 Th. €,Damien Miceli,09/10,Belgium,172.0,RSC Charleroi 
+"Jul 1, 2009",,Loan,Belgium,172.0,RSC Charleroi ,21513,400 Th. €,Damien Miceli,09/10,Belgium,3146.0,Ol. Charleroi 
+"Jul 1, 2007",,Free transfer,Netherlands,384.0,MVV ,21513,-,Damien Miceli,07/08,Belgium,172.0,RSC Charleroi 
+"Jul 1, 2003",,?,Belgium,9630.0,AA La Louviere U19 ,21513,-,Damien Miceli,03/04,Netherlands,384.0,MVV 
+"Jul 1, 2014",,Free transfer,Luxembourg,2230.0,CS Grevenmacher ,202250,-,Thomas Battaglia,14/15,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2011",,Free transfer,France,10849.0,FC Metz U19 ,202250,-,Thomas Battaglia,11/12,Luxembourg,2230.0,CS Grevenmacher 
+"Jul 1, 2016",,Free transfer,Luxembourg,1257.0,Jeunesse Esch ,201742,75 Th. €,Denis Agovic,16/17,Luxembourg,21835.0,FC UNA Strassen 
+"Jun 30, 2016",,End of loan,Luxembourg,21835.0,FC UNA Strassen ,201742,75 Th. €,Denis Agovic,15/16,Luxembourg,1257.0,Jeunesse Esch 
+"Jul 1, 2015",,Loan,Luxembourg,1257.0,Jeunesse Esch ,201742,50 Th. €,Denis Agovic,15/16,Luxembourg,21835.0,FC UNA Strassen 
+"Jul 1, 2011",,-,Luxembourg,20549.0,Jeun. Esch U19 ,201742,-,Denis Agovic,11/12,Luxembourg,1257.0,Jeunesse Esch 
+"Jul 1, 2010",,-,Luxembourg,34250.0,Jeun. Esch U17 ,201742,-,Denis Agovic,10/11,Luxembourg,20549.0,Jeun. Esch U19 
+"Jul 1, 2012",,Free transfer,Luxembourg,10541.0,CS Pétange ,203181,-,Tom Weiland,12/13,Luxembourg,12004.0,UN Käerjéng 97 
+"Jul 1, 2011",,-,Luxembourg,20554.0,CS Pétange U19 ,203181,-,Tom Weiland,11/12,Luxembourg,10541.0,CS Pétange 
+"Jan 1, 2012",,-,Luxembourg,20549.0,Jeun. Esch U19 ,202257,-,Frank Devas,11/12,Luxembourg,1257.0,Jeunesse Esch 
+"Jul 1, 2015",,Free transfer,Luxembourg,24278.0,Fola Esch II ,202263,-,Bryan Freitas Da Silva,15/16,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2016",,Free transfer,Luxembourg,21835.0,FC UNA Strassen ,123933,-,Eduardo Lopes Pereira,16/17,,75.0,Unknown 
+"Jul 1, 2013",,Free transfer,Luxembourg,21453.0,Kayl-Tétange ,123933,-,Eduardo Lopes Pereira,13/14,Luxembourg,21835.0,FC UNA Strassen 
+"Jul 1, 2012",,-,Luxembourg,515.0,Unattached ,123933,-,Eduardo Lopes Pereira,12/13,,21453.0,Kayl-Tétange 
+"Jan 1, 2012",,-,Luxembourg,21453.0,Kayl-Tétange ,123933,-,Eduardo Lopes Pereira,11/12,,515.0,Unattached 
+"Jul 1, 2009",,Free transfer,Luxembourg,24278.0,Fola Esch II ,123933,-,Eduardo Lopes Pereira,09/10,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2008",,-,Luxembourg,20544.0,Fola Esch U19 ,123933,-,Eduardo Lopes Pereira,08/09,Luxembourg,24278.0,Fola Esch II 
+"Jul 1, 2014",,Free transfer,Luxembourg,9284.0,Hesperange ,201767,-,Mohamed Amine Nabli,14/15,Luxembourg,21274.0,US Mondorf 
+"Jan 1, 2014",,Free transfer,Luxembourg,2230.0,CS Grevenmacher ,202285,-,Andreas Steffen,13/14,Germany,1392.0,SV Klausen 
+"Jul 1, 2011",,Free transfer,Germany,1392.0,SV Klausen ,202285,-,Andreas Steffen,11/12,Luxembourg,2230.0,CS Grevenmacher 
+"Jan 1, 2015",,Free transfer,Luxembourg,30516.0,Hesperange II ,155696,75 Th. â‚¬,Kasim Yildiz,14/15,France,49627.0,TrÃ©mery 
+"Jul 1, 2014",,-,Luxembourg,9284.0,Hesperange ,155696,-,Kasim Yildiz,14/15,Luxembourg,30516.0,Hesperange II 
+"Jul 1, 2011",,Free transfer,France,11294.0,CSO Amneville ,155696,-,Kasim Yildiz,11/12,Luxembourg,9284.0,Hesperange 
+"Jul 1, 2006",,-,France,515.0,Unattached ,155696,-,Kasim Yildiz,06/07,,11294.0,CSO Amneville 
+"Jan 1, 2006",,-,Finland,5063.0,AC Allianssi ,155696,-,Kasim Yildiz,05/06,,515.0,Unattached 
+"Jul 1, 2005",,Free transfer,Finland,515.0,Unattached ,155696,-,Kasim Yildiz,05/06,,5063.0,AC Allianssi 
+"Jul 1, 2003",,Free transfer,France,1165.0,FC Martigues ,155696,-,Kasim Yildiz,03/04,,515.0,Unattached 
+"Aug 1, 2002",,Free transfer,France,347.0,FC Metz ,155696,-,Kasim Yildiz,02/03,France,1165.0,FC Martigues 
+"Jul 1, 2002",,-,France,8179.0,FC Metz B ,155696,-,Kasim Yildiz,02/03,France,347.0,FC Metz 
+"Jul 1, 1998",,-,France,10849.0,FC Metz U19 ,155696,-,Kasim Yildiz,98/99,France,8179.0,FC Metz B 
+"Jul 1, 2014",,Free transfer,Belgium,3738.0,KSV Bornem ,153650,50 Th. €,Yannick Lodders,14/15,Belgium,9804.0,Rupel Boom 
+"Jul 1, 2012",,Free transfer,Luxembourg,853.0,F91 Dudelange ,153650,50 Th. €,Yannick Lodders,12/13,Belgium,3738.0,KSV Bornem 
+"Jul 1, 2011",,Free transfer,Netherlands,1227.0,RBC Roosendaal ,153650,50 Th. €,Yannick Lodders,11/12,Luxembourg,853.0,F91 Dudelange 
+"Jul 1, 2010",,Free transfer,Belgium,3038.0,Anderlecht U19 ,153650,-,Yannick Lodders,10/11,Netherlands,1227.0,RBC Roosendaal 
+"Jul 1, 2013",,Free transfer,Luxembourg,21438.0,Mondercange ,202294,-,Armin Kurbardovic,13/14,Luxembourg,29602.0,UN Käerjeng 97 II 
+"Jul 1, 2012",,Free transfer,Luxembourg,12004.0,UN Käerjéng 97 ,202294,-,Armin Kurbardovic,12/13,Luxembourg,21438.0,Mondercange 
+"Jul 1, 2011",,-,Luxembourg,20557.0,Käerjeng U19 ,202294,-,Armin Kurbardovic,11/12,Luxembourg,12004.0,UN Käerjéng 97 
+"Jul 1, 2009",,-,Luxembourg,34272.0,UN Käerjéng U17 ,202294,-,Armin Kurbardovic,09/10,Luxembourg,20557.0,Käerjeng U19 
+"Jan 1, 2013",,Free transfer,Luxembourg,11914.0,Differdange 03 ,202296,-,Edis Muhic,12/13,Luxembourg,21274.0,US Mondorf 
+"Jul 1, 2011",,-,Luxembourg,20547.0,Differdange U19 ,202296,-,Edis Muhic,11/12,Luxembourg,11914.0,Differdange 03 
+"Jun 30, 2013",,End of loan,Luxembourg,21835.0,FC UNA Strassen ,202301,-,Dejvid Sinani,12/13,Luxembourg,11914.0,Differdange 03 
+"Jan 1, 2013",,Loan,Luxembourg,11914.0,Differdange 03 ,202301,-,Dejvid Sinani,12/13,Luxembourg,21835.0,FC UNA Strassen 
+"Jul 1, 2011",,-,Luxembourg,20547.0,Differdange U19 ,202301,-,Dejvid Sinani,11/12,Luxembourg,11914.0,Differdange 03 
+"Jul 1, 2015",,Free transfer,Luxembourg,21645.0,US Hostert ,196252,-,Kevin Trindade,15/16,Luxembourg,21271.0,Marisca Mersch 
+"Jun 30, 2015",,End of loan,Luxembourg,21809.0,Berbourg ,196252,25 Th. €,Kevin Trindade,14/15,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2014",,Loan,Luxembourg,21645.0,US Hostert ,196252,25 Th. €,Kevin Trindade,14/15,Luxembourg,21809.0,Berbourg 
+"Jul 1, 2011",,-,Luxembourg,33335.0,Hostert U19 ,196252,-,Kevin Trindade,11/12,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2012",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,185441,-,Adrien di Bernardo,12/13,,75.0,Unknown 
+"Jul 1, 2011",,Free transfer,Belgium,13462.0,JS Tamines ,185441,-,Adrien di Bernardo,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2015",,-,Luxembourg,2113.0,career break ,129102,-,Adil Sadrhazi,15/16,,41294.0,FC Red Black 
+"Jul 1, 2011",,-,Luxembourg,21453.0,Kayl-Tétange ,129102,-,Adil Sadrhazi,11/12,,2113.0,career break 
+"Jun 30, 2011",,End of loan,Luxembourg,10086.0,CS Oberkorn ,129102,-,Adil Sadrhazi,10/11,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2010",,Loan,Luxembourg,21453.0,Kayl-Tétange ,129102,-,Adil Sadrhazi,10/11,Luxembourg,10086.0,CS Oberkorn 
+"Aug 1, 2009",,Free transfer,Morocco,6603.0,Wydad AC ,129102,-,Adil Sadrhazi,09/10,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2005",,-,Morocco,20373.0,Wydad AC U19 ,129102,-,Adil Sadrhazi,05/06,Morocco,6603.0,Wydad AC 
+"Jul 1, 2014",,-,Luxembourg,2113.0,career break ,121939,75 Th. €,Cristiano Goncalves,14/15,,9283.0,E. Ettelbrück 
+"Jan 1, 2014",,-,Luxembourg,15154.0,Hamm Benfica ,121939,50 Th. €,Cristiano Goncalves,13/14,,2113.0,career break 
+"Jul 1, 2012",,Free transfer,Luxembourg,21645.0,US Hostert ,121939,50 Th. €,Cristiano Goncalves,12/13,Luxembourg,15154.0,Hamm Benfica 
+"Jul 1, 2011",,Free transfer,Luxembourg,24207.0,Diekirch ,121939,-,Cristiano Goncalves,11/12,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2014",,-,Luxembourg,19689.0,US Rumelange ,175706,255 Th. €,Marcin Siebert,14/15,Luxembourg,40824.0,Rumelange II 
+"Jul 1, 2010",,Free transfer,France,47214.0,Algrange ,175706,-,Marcin Siebert,10/11,Luxembourg,19689.0,US Rumelange 
+"Jul 1, 2014",,Free transfer,France,5773.0,AS Cherbourg ,229468,-,Jean-Octave Coly,14/15,France,30267.0,ES Pennoise 
+"Aug 1, 2013",,-,France,515.0,Unattached ,229468,-,Jean-Octave Coly,13/14,,5773.0,AS Cherbourg 
+"Jul 1, 2012",,-,Luxembourg,10541.0,CS Pétange ,229468,-,Jean-Octave Coly,12/13,,515.0,Unattached 
+"Jul 1, 2011",,?,France,9817.0,Sénart-Moissy ,229468,-,Jean-Octave Coly,11/12,Luxembourg,10541.0,CS Pétange 
+"Jul 1, 2009",,?,France,30246.0,EP Manosque ,229468,-,Jean-Octave Coly,09/10,France,9817.0,Sénart-Moissy 
+"Jul 1, 2008",,?,France,14171.0,Croix de Savoie ,229468,-,Jean-Octave Coly,08/09,France,30246.0,EP Manosque 
+"Jan 1, 2007",,?,France,30150.0,Sporting Club de Draguignan ,229468,-,Jean-Octave Coly,06/07,France,14171.0,Croix de Savoie 
+"Jul 1, 2006",,?,France,30246.0,EP Manosque ,229468,-,Jean-Octave Coly,06/07,France,30150.0,Sporting Club de Draguignan 
+"Jul 1, 2016",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,229470,25 Th. €,Moreno Fabbro,16/17,Luxembourg,21645.0,US Hostert 
+"Jun 30, 2016",,End of loan,Luxembourg,21803.0,FC Rodange 91 ,229470,25 Th. €,Moreno Fabbro,15/16,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2015",,Loan,Luxembourg,12346.0,Pr. Niederkorn ,229470,50 Th. €,Moreno Fabbro,15/16,Luxembourg,21803.0,FC Rodange 91 
+"Jun 30, 2015",,End of loan,Luxembourg,9284.0,Hesperange ,229470,50 Th. €,Moreno Fabbro,14/15,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2014",,Loan,Luxembourg,12346.0,Pr. Niederkorn ,229470,25 Th. €,Moreno Fabbro,14/15,Luxembourg,9284.0,Hesperange 
+"Jul 1, 2011",,-,Luxembourg,20894.0,Niederkorn U19 ,229470,-,Moreno Fabbro,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2012",,-,Luxembourg,12346.0,Pr. Niederkorn ,201313,-,Miguel Araujo,12/13,,123.0,End of career 
+"Dec 1, 2011",,Free transfer,Luxembourg,75.0,Unknown ,201313,-,Miguel Araujo,11/12,,12346.0,Pr. Niederkorn 
+"Dec 1, 2009",,Free transfer,Luxembourg,20717.0,Hamm Ben. U19 ,201313,-,Miguel Araujo,09/10,,75.0,Unknown 
+"Dec 1, 2007",,Free transfer,Luxembourg,20894.0,Niederkorn U19 ,201313,-,Miguel Araujo,07/08,Luxembourg,20717.0,Hamm Ben. U19 
+"Jul 1, 2013",,-,Luxembourg,19689.0,US Rumelange ,175714,-,Yannick Charpantier,13/14,Luxembourg,40824.0,Rumelange II 
+"Jul 1, 2015",,Free transfer,Belgium,75.0,Unknown ,201319,-,Joaquin Osvaldo Villalba,15/16,,9662.0,RUS Bercheux 
+"Jan 30, 2015",,Free transfer,Belgium,29493.0,RUS Givry ,201319,-,Joaquin Osvaldo Villalba,14/15,,75.0,Unknown 
+"Jan 1, 2012",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,201319,-,Joaquin Osvaldo Villalba,11/12,Belgium,29493.0,RUS Givry 
+"Jul 1, 2011",,Free transfer,Luxembourg,75.0,Unknown ,201319,-,Joaquin Osvaldo Villalba,11/12,,12346.0,Pr. Niederkorn 
+"Jul 1, 2010",,Free transfer,Belgium,9827.0,RE Bertrix ,201319,-,Joaquin Osvaldo Villalba,10/11,,75.0,Unknown 
+"Jul 1, 2007",,Free transfer,Mexico,28850.0,Club Necaxa U20 ,201319,-,Joaquin Osvaldo Villalba,07/08,Belgium,9827.0,RE Bertrix 
+"Jul 1, 2006",,Free transfer,Argentina,22604.0,AdQ U19 ,201319,-,Joaquin Osvaldo Villalba,06/07,Mexico,28850.0,Club Necaxa U20 
+"Dec 1, 2005",,Free transfer,Argentina,15098.0,Boca U20 ,201319,-,Joaquin Osvaldo Villalba,05/06,Argentina,22604.0,AdQ U19 
+"Jul 1, 2005",,Free transfer,Luxembourg,12004.0,UN Käerjéng 97 ,205931,-,Fabien Madimba,05/06,Luxembourg,28313.0,Sandweiler 
+"Jul 1, 2003",,Free transfer,Luxembourg,21955.0,Union Luxemburg ,205931,-,Fabien Madimba,03/04,Luxembourg,12004.0,UN Käerjéng 97 
+"Dec 1, 2002",,Free transfer,Luxembourg,29634.0,US Berdorf-C. ,205931,-,Fabien Madimba,02/03,Luxembourg,21955.0,Union Luxemburg 
+"Jul 1, 2013",,?,France,3525.0,SO Cholet ,193213,-,Moussa Diabaté,13/14,,75.0,Unknown 
+"Jul 1, 2012",,?,France,75.0,Unknown ,193213,-,Moussa Diabaté,12/13,,3525.0,SO Cholet 
+"Jan 1, 2012",,Free transfer,Luxembourg,12004.0,UN Käerjéng 97 ,193213,-,Moussa Diabaté,11/12,,75.0,Unknown 
+"Jul 1, 2011",,Free transfer,Belgium,2715.0,Seraing United ,193213,-,Moussa Diabaté,11/12,Luxembourg,12004.0,UN Käerjéng 97 
+"Jul 1, 2010",,Free transfer,Belgium,3172.0,CS Visé ,193213,-,Moussa Diabaté,10/11,Belgium,2715.0,Seraing United 
+"Jul 1, 2007",,Free transfer,France,10826.0,FC Sochaux U19 ,193213,-,Moussa Diabaté,07/08,Belgium,3172.0,CS Visé 
+"Dec 1, 2004",,?,France,3559.0,Toulouse Font. ,193213,-,Moussa Diabaté,04/05,France,10826.0,FC Sochaux U19 
+"Jul 1, 2013",,?,Luxembourg,21645.0,US Hostert ,197651,-,José Wellington Raposo,13/14,Luxembourg,21280.0,US Esch 
+"Aug 1, 2009",,Free transfer,Luxembourg,21641.0,Flaxweiler-B. ,197651,-,José Wellington Raposo,09/10,Luxembourg,21645.0,US Hostert 
+"Jan 1, 2015",,Free transfer,Luxembourg,21274.0,US Mondorf ,229567,75 Th. €,Christophe Natanelic,14/15,,75.0,Unknown 
+"Jul 1, 2013",,Free transfer,Luxembourg,21645.0,US Hostert ,229567,-,Christophe Natanelic,13/14,Luxembourg,21274.0,US Mondorf 
+"Jan 1, 2012",,Free transfer,France,11294.0,CSO Amneville ,229567,-,Christophe Natanelic,11/12,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2014",,?,Romania,4688.0,Gloria Bistrita ,70294,50 Th. €,George Negrut,14/15,Romania,43914.0,Delta Dobrogea 
+"Jul 1, 2013",,?,Romania,2418.0,Arges Pitesti ,70294,-,George Negrut,13/14,Romania,4688.0,Gloria Bistrita 
+"Aug 1, 2012",,?,Moldova,2714.0,Zimbru Chisinau ,70294,-,George Negrut,12/13,Romania,2418.0,Arges Pitesti 
+"Aug 1, 2011",,Free transfer,Luxembourg,12004.0,UN Käerjéng 97 ,70294,-,George Negrut,11/12,Moldova,2714.0,Zimbru Chisinau 
+"Jul 1, 2011",,Free transfer,Moldova,2714.0,Zimbru Chisinau ,70294,-,George Negrut,11/12,Luxembourg,12004.0,UN Käerjéng 97 
+"Jul 1, 2010",,Free transfer,Romania,30034.0,ALRO Slatina ,70294,-,George Negrut,10/11,Moldova,2714.0,Zimbru Chisinau 
+"Jan 1, 2010",,Free transfer,Moldova,2481.0,Sheriff ,70294,-,George Negrut,09/10,Romania,30034.0,ALRO Slatina 
+"Jul 1, 2007",,50 Th. €,Romania,11147.0,Ramnicu Valcea ,70294,-,George Negrut,07/08,Moldova,2481.0,Sheriff 
+,,,,,,196248,,,,,,
+"Jul 1, 2015",,Free transfer,Luxembourg,21645.0,US Hostert ,196249,50 Th. €,Glenn Marques Da Costa,15/16,Luxembourg,21274.0,US Mondorf 
+"Jul 1, 2010",,-,Luxembourg,33335.0,Hostert U19 ,196249,-,Glenn Marques Da Costa,10/11,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2013",,?,Luxembourg,21645.0,US Hostert ,123035,-,Kevin Carrilho,13/14,,75.0,Unknown 
+"Jul 1, 2013",,-,Luxembourg,12346.0,Pr. Niederkorn ,123036,-,Arthur Carvas Goncalves,13/14,,123.0,End of career 
+"Jul 1, 2012",,Free transfer,Luxembourg,21645.0,US Hostert ,123036,-,Arthur Carvas Goncalves,12/13,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2008",,Free transfer,Luxembourg,21823.0,Lorentzweiler ,123036,-,Arthur Carvas Goncalves,08/09,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2006",,Free transfer,Luxembourg,75.0,Unknown ,123036,-,Arthur Carvas Goncalves,06/07,,21823.0,Lorentzweiler 
+"Jul 1, 2004",,Free transfer,Belgium,24394.0,Standard Res. ,123036,-,Arthur Carvas Goncalves,04/05,,75.0,Unknown 
+"Jul 1, 2002",,Free transfer,Luxembourg,21271.0,Marisca Mersch ,123036,-,Arthur Carvas Goncalves,02/03,Belgium,24394.0,Standard Res. 
+"Jul 1, 1998",,Free transfer,Luxembourg,29612.0,FC Brouch ,123036,-,Arthur Carvas Goncalves,98/99,Luxembourg,21271.0,Marisca Mersch 
+"Jul 1, 2014",,Free transfer,Luxembourg,21645.0,US Hostert ,196254,50 Th. €,Mikael Trindade,14/15,Luxembourg,21271.0,Marisca Mersch 
+"Jul 1, 2010",,-,Luxembourg,33335.0,Hostert U19 ,196254,-,Mikael Trindade,10/11,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2013",,-,Luxembourg,21645.0,US Hostert ,123039,-,Carlo Koegel,13/14,Luxembourg,33334.0,Hostert II 
+"Jul 1, 2015",,Free transfer,Luxembourg,33342.0,Junglinster ,196258,-,Joao Silva Freitas,15/16,Luxembourg,21806.0,Munsbach 
+"Jul 1, 2012",,?,Luxembourg,21645.0,US Hostert ,196258,-,Joao Silva Freitas,12/13,Luxembourg,33342.0,Junglinster 
+"Dec 1, 2012",,?,Luxembourg,21645.0,US Hostert ,196261,-,Youenn Paul,12/13,,75.0,Unknown 
+"Jan 1, 2011",,Free transfer,Luxembourg,75.0,Unknown ,196261,-,Youenn Paul,10/11,,21645.0,US Hostert 
+"Jan 31, 2016",,Free transfer,Luxembourg,21273.0,Weiler ,123049,-,Helder Neves,15/16,Luxembourg,41294.0,FC Red Black 
+"Jul 1, 2014",,Free transfer,Luxembourg,21645.0,US Hostert ,123049,-,Helder Neves,14/15,Luxembourg,21273.0,Weiler 
+"Jul 1, 2006",,Free transfer,Luxembourg,75.0,Unknown ,123049,-,Helder Neves,06/07,,21645.0,US Hostert 
+"Jul 1, 2001",,?,Portugal,38362.0,Fermentelos ,123049,-,Helder Neves,01/02,,75.0,Unknown 
+"Jul 1, 2013",,?,Luxembourg,21645.0,US Hostert ,123058,-,Fabrizio Zaccaria,13/14,,75.0,Unknown 
+"Jul 1, 2011",,Free transfer,Luxembourg,1522.0,Avenir Beggen ,123058,-,Fabrizio Zaccaria,11/12,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2010",,Free transfer,Luxembourg,13467.0,RFCU Luxembourg ,123058,-,Fabrizio Zaccaria,10/11,Luxembourg,1522.0,Avenir Beggen 
+"Jun 30, 2010",,End of loan,Luxembourg,21645.0,US Hostert ,123058,-,Fabrizio Zaccaria,09/10,Luxembourg,13467.0,RFCU Luxembourg 
+"Jul 1, 2009",,Loan,Luxembourg,19312.0,RFCU Luxem. U19 ,123058,-,Fabrizio Zaccaria,09/10,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2014",,Free transfer,Luxembourg,21645.0,US Hostert ,123059,-,Milos Zivadinovic,14/15,Luxembourg,41294.0,FC Red Black 
+"Jul 1, 2008",,Free transfer,Luxembourg,19312.0,RFCU Luxem. U19 ,123059,-,Milos Zivadinovic,08/09,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2006",,-,Luxembourg,29601.0,RFCU Luxem. U17 ,123059,-,Milos Zivadinovic,06/07,Luxembourg,19312.0,RFCU Luxem. U19 
+"Jul 1, 2016",,Free transfer,Luxembourg,2230.0,CS Grevenmacher ,200889,100 Th. €,Michel Bechtold,16/17,Luxembourg,11976.0,CS Fola Esch 
+"Jan 1, 2012",,Free transfer,Luxembourg,34274.0,UMW U17 ,200889,-,Michel Bechtold,11/12,Luxembourg,2230.0,CS Grevenmacher 
+"Feb 15, 2016",,Free transfer,,515.0,Unattached ,29372,-,Frankie Quéré,15/16,,75.0,Unknown 
+"Jul 1, 2015",,-,Luxembourg,21423.0,Erpeldange ,29372,-,Frankie Quéré,15/16,,515.0,Unattached 
+"Jan 20, 2014",,Free transfer,Réunion,30976.0,AJ Petite-Île ,29372,-,Frankie Quéré,14/15,Luxembourg,21423.0,Erpeldange 
+"Jul 1, 2013",,?,Belgium,9827.0,RE Bertrix ,29372,-,Frankie Quéré,13/14,Réunion,30976.0,AJ Petite-Île 
+"Jan 1, 2013",,Free transfer,Luxembourg,1257.0,Jeunesse Esch ,29372,-,Frankie Quéré,12/13,Belgium,9827.0,RE Bertrix 
+"Jul 1, 2011",,Free transfer,Belgium,9827.0,RE Bertrix ,29372,-,Frankie Quéré,11/12,Luxembourg,1257.0,Jeunesse Esch 
+"Jul 1, 2010",,Free transfer,Belgium,10327.0,FC Bleid-Gaume ,29372,50 Th. €,Frankie Quéré,10/11,Belgium,9827.0,RE Bertrix 
+"Jan 1, 2009",,Free transfer,France,3915.0,FC Angoulême ,29372,50 Th. €,Frankie Quéré,08/09,Belgium,10327.0,FC Bleid 
+"Jul 1, 2007",,?,France,12276.0,Saint-Quentin ,29372,50 Th. €,Frankie Quéré,07/08,France,3915.0,FC Angoulême 
+"Jul 1, 2006",,?,France,25114.0,Blois ,29372,50 Th. €,Frankie Quéré,06/07,France,12276.0,Saint-Quentin 
+"Jan 1, 2006",,?,Réunion,20375.0,Saint-Pierroise ,29372,50 Th. €,Frankie Quéré,05/06,France,25114.0,Blois 
+"Jul 1, 2005",,?,Belgium,1111.0,Eendracht Aalst ,29372,50 Th. €,Frankie Quéré,05/06,Réunion,20375.0,Saint-Pierroise 
+"Jul 1, 2004",,?,France,24063.0,Plabennec ,29372,-,Frankie Quéré,04/05,Belgium,1111.0,Eendracht Aalst 
+"Jul 1, 2003",,?,Luxembourg,2230.0,CS Grevenmacher ,29372,-,Frankie Quéré,03/04,France,24063.0,Plabennec 
+"Jul 1, 2002",,?,Réunion,20375.0,Saint-Pierroise ,29372,-,Frankie Quéré,02/03,Luxembourg,2230.0,CS Grevenmacher 
+"Jul 1, 2016",,Free transfer,Luxembourg,13467.0,RFCU Luxembourg ,177853,100 Th. €,Nenad Dragovic,16/17,,75.0,Unknown 
+"Jul 1, 2015",,Free transfer,Luxembourg,1257.0,Jeunesse Esch ,177853,100 Th. €,Nenad Dragovic,15/16,Luxembourg,13467.0,RFCU Luxembourg 
+"Jul 1, 2014",,Free transfer,Luxembourg,13467.0,RFCU Luxembourg ,177853,-,Nenad Dragovic,14/15,Luxembourg,1257.0,Jeunesse Esch 
+"Jul 1, 2011",,-,Luxembourg,29600.0,Racing FC Union Luxemburg II ,177853,-,Nenad Dragovic,11/12,Luxembourg,13467.0,RFCU Luxembourg 
+"Jul 1, 2010",,-,Luxembourg,29601.0,RFCU Luxem. U17 ,177853,-,Nenad Dragovic,10/11,Luxembourg,29600.0,Racing FC Union Luxemburg II 
+"Jul 1, 2014",,-,Luxembourg,853.0,F91 Dudelange ,28351,-,Julien Tournut,14/15,,123.0,End of career 
+"Jul 1, 2011",,Free transfer,Belgium,28643.0,Waasl.-Beveren ,28351,150 Th. €,Julien Tournut,11/12,Luxembourg,853.0,F91 Dudelange 
+"Jan 1, 2011",,Free transfer,Belgium,204.0,Lierse SK ,28351,150 Th. €,Julien Tournut,10/11,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2009",,200 Th. €,Belgium,5153.0,KV Waasland ,28351,150 Th. €,Julien Tournut,09/10,Belgium,204.0,Lierse SK 
+"Jul 1, 2007",,Free transfer,France,9202.0,Dunkerque ,28351,150 Th. €,Julien Tournut,07/08,Belgium,5153.0,KV Waasland 
+"Jul 1, 2006",,Free transfer,Switzerland,322.0,Yverdon-Sport ,28351,150 Th. €,Julien Tournut,06/07,France,9202.0,Dunkerque 
+"Jul 1, 2005",,Free transfer,France,1159.0,AS Nancy ,28351,-,Julien Tournut,05/06,Switzerland,322.0,Yverdon-Sport 
+"Jul 1, 2002",,-,France,10840.0,AS Nancy B ,28351,-,Julien Tournut,02/03,France,1159.0,AS Nancy 
+"Jan 1, 2014",,-,Luxembourg,515.0,Unattached ,229568,-,Grégory San Andrés,13/14,,21645.0,US Hostert 
+"Oct 19, 2013",,-,Luxembourg,9284.0,Hesperange ,229568,-,Grégory San Andrés,13/14,,515.0,Unattached 
+"Jan 23, 2012",,?,France,11294.0,CSO Amneville ,229568,-,Grégory San Andrés,11/12,Luxembourg,9284.0,Hesperange 
+"Jul 1, 2014",,Free transfer,Luxembourg,15154.0,Hamm Benfica ,229570,-,Ben Vogel,14/15,Luxembourg,2660.0,Vict. Rosport 
+"Jan 1, 2007",,Free transfer,Luxembourg,29629.0,Syra Mensdorf ,229570,-,Ben Vogel,07/08,Luxembourg,15154.0,Hamm Benfica 
+"Jul 1, 2014",,Free transfer,Luxembourg,10086.0,CS Oberkorn ,170188,-,Davide Bonsignore,14/15,,75.0,Unknown 
+"Jul 1, 2012",,Free transfer,Germany,328.0,B. Neunkirchen ,170188,-,Davide Bonsignore,12/13,Luxembourg,10086.0,CS Oberkorn 
+"Jan 1, 2012",,Free transfer,Luxembourg,2230.0,CS Grevenmacher ,170188,-,Davide Bonsignore,11/12,Germany,328.0,B. Neunkirchen 
+"Jul 1, 2011",,Free transfer,Germany,1404.0,Saarbrücken II ,170188,-,Davide Bonsignore,11/12,Luxembourg,2230.0,CS Grevenmacher 
+"Jan 1, 2011",,Free transfer,Germany,2070.0,SC Friedrichsthal ,170188,-,Davide Bonsignore,10/11,Germany,1404.0,Saarbrücken II 
+"Jul 1, 2007",,Free transfer,Germany,2505.0,SF Köllerbach ,170188,-,Davide Bonsignore,07/08,Germany,2070.0,SC Friedrichsthal 
+"Jul 1, 2005",,Free transfer,Germany,921.0,SV Röchling ,170188,-,Davide Bonsignore,05/06,Germany,2505.0,SF Köllerbach 
+"Jun 30, 2017",,End of loan,Luxembourg,21454.0,FC Mamer 32 ,61144,-,Amar Sabanadzovic,16/17,Luxembourg,48797.0,UT Petingen II 
+"Jul 1, 2016",,Loan,Luxembourg,48797.0,UT Petingen II ,61144,-,Amar Sabanadzovic,16/17,Luxembourg,21454.0,FC Mamer 32 
+"Jul 1, 2015",,Free transfer,Luxembourg,27159.0,Lamadelaine ,61144,25 Th. €,Amar Sabanadzovic,15/16,Luxembourg,48797.0,UT Petingen II 
+"Dec 1, 2012",,?,Luxembourg,10541.0,CS Pétange ,61144,-,Amar Sabanadzovic,12/13,Luxembourg,27159.0,Lamadelaine 
+"Jul 1, 2011",,Free transfer,Montenegro,11065.0,FK Decic Tuzi ,61144,-,Amar Sabanadzovic,11/12,Luxembourg,10541.0,CS Pétange 
+"Jan 1, 2013",,-,Luxembourg,34261.0,RM Hamm U17 ,200921,-,Mike Schneider,12/13,Luxembourg,15154.0,Hamm Benfica 
+"Jul 1, 2011",,Free transfer,Germany,578.0,Aachen II  ,83683,-,Kevin Malget,11/12,Luxembourg,853.0,F91 Dudelange 
+"Jul 1, 2010",,-,Germany,5295.0,Aachen U19  ,83683,-,Kevin Malget,10/11,Germany,578.0,Aachen II  
+"Jul 1, 2008",,-,Germany,21052.0,Aachen U17  ,83683,-,Kevin Malget,08/09,Germany,5295.0,Aachen U19  
+"Jul 1, 2006",,-,Germany,11965.0,Aachen Jgd. ,83683,-,Kevin Malget,06/07,Germany,21052.0,Aachen U17  
+"Jul 1, 2015",,Free transfer,Luxembourg,9283.0,E. Ettelbrück ,73963,-,Bruno Matias,15/16,Luxembourg,21640.0,FC Atert Bissen 
+"Jul 1, 2013",,Free transfer,Luxembourg,15154.0,Hamm Benfica ,73963,100 Th. €,Bruno Matias,13/14,Luxembourg,9283.0,E. Ettelbrück 
+"Jan 1, 2013",,Free transfer,Luxembourg,853.0,F91 Dudelange ,73963,100 Th. €,Bruno Matias,12/13,Luxembourg,15154.0,Hamm Benfica 
+"Jan 1, 2012",,?,Portugal,24518.0,Serra ,73963,100 Th. €,Bruno Matias,11/12,Luxembourg,853.0,F91 Dudelange 
+"Jul 1, 2010",,Free transfer,Portugal,1465.0,Estoril ,73963,100 Th. €,Bruno Matias,10/11,Portugal,24518.0,Serra 
+"Jul 1, 2009",,?,Portugal,336.0,Sporting CP ,73963,-,Bruno Matias,09/10,Portugal,1465.0,Estoril 
+"Jun 30, 2009",,End of loan,Portugal,6987.0,Fátima ,73963,-,Bruno Matias,08/09,Portugal,336.0,Sporting CP 
+"Aug 1, 2008",,Loan,Portugal,336.0,Sporting CP ,73963,-,Bruno Matias,08/09,Portugal,6987.0,Fátima 
+"Jul 1, 2008",,-,Portugal,10283.0,Sporting U19 ,73963,-,Bruno Matias,08/09,Portugal,336.0,Sporting CP 
+"Jul 1, 2015",,Free transfer,Luxembourg,21453.0,Kayl-Tétange ,203730,-,Daniel Fasui,15/16,Luxembourg,33342.0,Junglinster 
+"Jun 30, 2015",,End of loan,Luxembourg,29634.0,US Berdorf-C. ,203730,-,Daniel Fasui,14/15,Luxembourg,21453.0,Kayl-Tétange 
+"Jan 19, 2014",,Loan,Luxembourg,21453.0,Kayl-Tétange ,203730,-,Daniel Fasui,13/14,Luxembourg,29634.0,US Berdorf-C. 
+"Jul 1, 2011",,Free transfer,Germany,19067.0,Perl-Besch ,203730,-,Daniel Fasui,11/12,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2013",,10 Th. €,Luxembourg,12004.0,UN Käerjéng 97 ,88311,-,Jeff Reichling,13/14,Luxembourg,21423.0,Erpeldange 
+"Jul 1, 2012",,7 Th. €,Luxembourg,2230.0,CS Grevenmacher ,88311,-,Jeff Reichling,12/13,Luxembourg,12004.0,UN Käerjéng 97 
+"Jul 1, 2011",,12 Th. €,Luxembourg,21423.0,Erpeldange ,88311,-,Jeff Reichling,11/12,Luxembourg,2230.0,CS Grevenmacher 
+"Jul 1, 2010",,Free transfer,Luxembourg,29553.0,FC 47 Bastendorf ,88311,-,Jeff Reichling,10/11,Luxembourg,21423.0,Erpeldange 
+"Jul 1, 2011",,Free transfer,France,24020.0,AC Arles ,191224,-,Gauthier Caron,11/12,Luxembourg,11914.0,Differdange 03 
+"Jul 1, 2009",,Free transfer,France,25267.0,Le Pontet ,191224,-,Gauthier Caron,09/10,France,24020.0,AC Arles 
+"Jul 1, 2006",,Free transfer,France,10884.0,AC Ajaccio U19 ,191224,-,Gauthier Caron,06/07,France,25267.0,Le Pontet 
+"Jan 1, 2015",,Free transfer,Luxembourg,75.0,Unknown ,191226,-,Mickäel Gollette,14/15,,28778.0,CS Sanem 
+"Jul 1, 2012",,Free transfer,Luxembourg,11914.0,Differdange 03 ,191226,-,Mickäel Gollette,12/13,,75.0,Unknown 
+"Jul 1, 2011",,Free transfer,France,25087.0,RS Magny ,191226,-,Mickäel Gollette,11/12,Luxembourg,11914.0,Differdange 03 
+"Jul 1, 2009",,Free transfer,France,2100.0,Saint-Dizier ,191226,-,Mickäel Gollette,09/10,France,25087.0,RS Magny 
+"Jul 1, 2008",,Free transfer,France,11204.0,Stade Reims B ,191226,-,Mickäel Gollette,08/09,France,2100.0,Saint-Dizier 
+"Jul 1, 2007",,-,France,12774.0,Stade Reims U19 ,191226,-,Mickäel Gollette,07/08,France,11204.0,Stade Reims B 
+"Jul 1, 2011",,Free transfer,Luxembourg,29600.0,Racing FC Union Luxemburg II ,191228,-,Bryan Gomes da Silva,11/12,Luxembourg,19689.0,US Rumelange 
+"Jul 1, 2013",,?,Luxembourg,9283.0,E. Ettelbrück ,191231,-,Almin Kocan,13/14,Luxembourg,29562.0,US Boevange/Attert 
+"Jul 1, 2012",,Free transfer,Luxembourg,11914.0,Differdange 03 ,191231,-,Almin Kocan,12/13,Luxembourg,9283.0,E. Ettelbrück 
+"Jul 1, 2011",,Free transfer,Luxembourg,24428.0,Belvaux ,191231,-,Almin Kocan,11/12,Luxembourg,11914.0,Differdange 03 
+"Jul 1, 2013",,?,Luxembourg,853.0,F91 Dudelange ,12032,-,Jonathan Jäger,13/14,France,11294.0,CSO Amneville 
+"Nov 1, 2011",,-,Luxembourg,515.0,Unattached ,12032,500 Th. €,Jonathan Jäger,11/12,,853.0,F91 Dudelange 
+"Jul 1, 2011",,-,Germany,60.0,SC Freiburg ,12032,500 Th. €,Jonathan Jäger,11/12,,515.0,Unattached 
+"Jul 1, 2007",,Free transfer,Germany,1.0,Saarbrücken ,12032,700 Th. €,Jonathan Jäger,07/08,Germany,60.0,SC Freiburg 
+"Jan 1, 2006",,Free transfer,France,738.0,AC Le Havre ,12032,50 Th. €,Jonathan Jäger,05/06,Germany,1.0,Saarbrücken 
+"Jul 1, 2004",,Free transfer,France,347.0,FC Metz ,12032,-,Jonathan Jäger,04/05,France,738.0,AC Le Havre 
+"Jun 30, 2000",,End of loan,France,619.0,CS Louhans-Cuiseaux ,12032,-,Jonathan Jäger,99/00,France,347.0,FC Metz 
+"Oct 1, 1999",,Loan,France,347.0,FC Metz ,12032,-,Jonathan Jäger,99/00,France,619.0,CS Louhans-Cuiseaux 
+"Jul 1, 1996",,-,France,10849.0,FC Metz U19 ,12032,-,Jonathan Jäger,96/97,France,347.0,FC Metz 
+"Jul 1, 2012",,Free transfer,Luxembourg,19689.0,US Rumelange ,191234,-,Jacques Martins,12/13,Luxembourg,43073.0,Junglinster II 
+"Jul 1, 2011",,Free transfer,Luxembourg,33342.0,Junglinster ,191234,-,Jacques Martins,11/12,Luxembourg,19689.0,US Rumelange 
+"Jul 1, 2014",,Free transfer,Luxembourg,21453.0,Kayl-Tétange ,203734,25 Th. €,Tony Lopes,14/15,Luxembourg,19689.0,US Rumelange 
+"Jun 30, 2014",,End of loan,Luxembourg,21835.0,FC UNA Strassen ,203734,-,Tony Lopes,13/14,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2013",,Loan,Luxembourg,21453.0,Kayl-Tétange ,203734,-,Tony Lopes,13/14,Luxembourg,21835.0,FC UNA Strassen 
+"Jan 1, 2011",,Free transfer,France,29844.0,CS Bretigny ,203734,-,Tony Lopes,10/11,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2014",,Free transfer,Luxembourg,15154.0,Hamm Benfica ,103686,100 Th. €,Francois Augusto,14/15,Luxembourg,9283.0,E. Ettelbrück 
+"Jul 1, 2011",,Free transfer,Luxembourg,21423.0,Erpeldange ,103686,-,Francois Augusto,11/12,Luxembourg,15154.0,Hamm Benfica 
+"Jul 1, 2009",,Free transfer,Luxembourg,21640.0,FC Atert Bissen ,103686,-,Francois Augusto,09/10,Luxembourg,21423.0,Erpeldange 
+"Jul 1, 2006",,Free transfer,Luxembourg,20255.0,FC Etzella U19 ,103686,-,Francois Augusto,06/07,Luxembourg,21640.0,FC Atert Bissen 
+"Jul 1, 2015",,-,Luxembourg,515.0,Unattached ,130316,25 Th. €,Yannick Bastos,15/16,,11914.0,Differdange 03 
+"Sep 16, 2014",,-,England,355.0,Bolton ,130316,25 Th. €,Yannick Bastos,14/15,,515.0,Unattached 
+"Jan 29, 2014",,?,Luxembourg,11914.0,Differdange 03 ,130316,25 Th. €,Yannick Bastos,13/14,England,355.0,Bolton 
+"Jul 1, 2012",,Free transfer,Luxembourg,19689.0,US Rumelange ,130316,25 Th. €,Yannick Bastos,12/13,Luxembourg,11914.0,Differdange 03 
+"Jul 1, 2011",,Free transfer,Germany,7659.0,Eint. Trier U19 ,130316,25 Th. €,Yannick Bastos,11/12,Luxembourg,19689.0,US Rumelange 
+"Jul 1, 2010",,-,Germany,23218.0,Eint. Trier U17 ,130316,25 Th. €,Yannick Bastos,10/11,Germany,7659.0,Eint. Trier U19 
+"Jan 1, 2010",,Free transfer,Luxembourg,19689.0,US Rumelange ,130316,-,Yannick Bastos,09/10,Germany,23218.0,Eint. Trier U17 
+"Jul 1, 2008",,-,Luxembourg,20245.0,Rumelange U19 ,130316,-,Yannick Bastos,08/09,Luxembourg,19689.0,US Rumelange 
+"Jul 1, 2015",,Free transfer,Luxembourg,10086.0,CS Oberkorn ,203736,25 Th. €,Sven Pauly,15/16,Luxembourg,33336.0,Kayl-Tétange II 
+"Jul 1, 2014",,Free transfer,Luxembourg,21453.0,Kayl-Tétange ,203736,-,Sven Pauly,14/15,Luxembourg,10086.0,CS Oberkorn 
+"Jul 1, 2010",,?,Luxembourg,40824.0,Rumelange II ,203736,-,Sven Pauly,10/11,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2012",,-,Luxembourg,21645.0,US Hostert ,103700,-,Mouloud Beltitane,12/13,,123.0,End of career 
+"Jul 1, 2010",,Free transfer,Luxembourg,3905.0,FC Wiltz 71 ,103700,-,Mouloud Beltitane,10/11,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2008",,Free transfer,Belgium,3105.0,RCS Verviers ,103700,-,Mouloud Beltitane,08/09,Luxembourg,3905.0,FC Wiltz 71 
+"Jul 1, 2007",,Free transfer,Belgium,3945.0,Sprimont  ,103700,-,Mouloud Beltitane,07/08,Belgium,3105.0,RCS Verviers 
+"Jul 1, 2004",,Free transfer,Belgium,718.0,Lommel SK ,103700,-,Mouloud Beltitane,04/05,Belgium,3945.0,Sprimont  
+"Jul 1, 2001",,Free transfer,Spain,27448.0,CD Roda ,103700,-,Mouloud Beltitane,01/02,Belgium,718.0,Lommel SK 
+"Jul 1, 2000",,Free transfer,Portugal,4294.0,Farense ,103700,-,Mouloud Beltitane,00/01,Spain,27448.0,CD Roda 
+"Jul 1, 1998",,Free transfer,Morocco,9099.0,FAR Rabat ,103700,-,Mouloud Beltitane,98/99,Portugal,4294.0,Farense 
+"Jan 1, 2014",,Loan,Luxembourg,21453.0,Kayl-Tétange ,203737,-,Paulo Peixoto,13/14,Luxembourg,29561.0,SC Bettembourg 
+"Aug 1, 2012",,-,Luxembourg,33336.0,Kayl-Tétange II ,203737,-,Paulo Peixoto,12/13,Luxembourg,21453.0,Kayl-Tétange 
+"Jan 1, 2012",,?,Portugal,16820.0,Atl. Reguengos ,229659,-,Ezequiel Cabral Barbosa,11/12,Luxembourg,19689.0,US Rumelange 
+"Jul 1, 2011",,?,Portugal,4294.0,Farense ,229659,-,Ezequiel Cabral Barbosa,11/12,Portugal,16820.0,Atl. Reguengos 
+"Jul 1, 2010",,?,Portugal,10542.0,Madalena ,229659,-,Ezequiel Cabral Barbosa,10/11,Portugal,4294.0,Farense 
+"Jan 1, 2010",,?,Portugal,4535.0,Odivelas ,229659,-,Ezequiel Cabral Barbosa,09/10,Portugal,10542.0,Madalena 
+"Jul 1, 2009",,?,Portugal,7044.0,Tires ,229659,-,Ezequiel Cabral Barbosa,09/10,Portugal,4535.0,Odivelas 
+"Jan 1, 2006",,?,Portugal,9006.0,AD Oeiras ,229659,-,Ezequiel Cabral Barbosa,05/06,Portugal,7044.0,Tires 
+"Jul 1, 2014",,-,Luxembourg,9284.0,Hesperange ,229664,-,Philippe Frieden,14/15,,2113.0,career break 
+"Jan 23, 2014",,Free transfer,Luxembourg,21645.0,US Hostert ,229767,-,Luc Hellenbrand,13/14,Luxembourg,21806.0,Munsbach 
+"Jul 1, 2010",,Free transfer,Luxembourg,21273.0,Weiler ,229767,-,Luc Hellenbrand,10/11,Luxembourg,9284.0,Hesperange 
+"Jul 1, 2007",,Free transfer,Luxembourg,9284.0,Hesperange ,229767,-,Luc Hellenbrand,07/08,Luxembourg,21273.0,Weiler 
+"Jul 1, 2012",,Free transfer,Luxembourg,10541.0,CS Pétange ,229682,-,Pedro Rodrigues Duarte,12/13,Luxembourg,21280.0,US Esch 
+"Jul 1, 2014",,Free transfer,Luxembourg,853.0,F91 Dudelange ,205115,-,Ibrahim Touray,14/15,Luxembourg,30400.0,Muhlenbach 
+"Jul 1, 2012",,Loan,Luxembourg,21453.0,Kayl-Tétange ,205115,-,Ibrahim Touray,12/13,Luxembourg,853.0,F91 Dudelange 
+"Jul 1, 2011",,Free transfer,Luxembourg,75.0,Unknown ,205115,-,Ibrahim Touray,11/12,,21453.0,Kayl-Tétange 
+"Dec 1, 2012",,?,Luxembourg,10541.0,CS Pétange ,203146,-,Rudy Fink,12/13,,75.0,Unknown 
+"Jul 1, 2011",,Free transfer,Luxembourg,75.0,Unknown ,203146,-,Rudy Fink,11/12,,10541.0,CS Pétange 
+"Jul 1, 2013",,Free transfer,Luxembourg,2230.0,CS Grevenmacher ,132927,-,Jeppe Clemmensen,13/14,Luxembourg,21644.0,Mertert-Wass. 
+"Jul 1, 2011",,Free transfer,Luxembourg,28313.0,Sandweiler ,132927,-,Jeppe Clemmensen,11/12,Luxembourg,2230.0,CS Grevenmacher 
+"Jul 1, 2009",,Free transfer,Luxembourg,34255.0,CSG U17 ,132927,-,Jeppe Clemmensen,09/10,Luxembourg,28313.0,Sandweiler 
+"Jul 1, 2011",,-,Luxembourg,20897.0,Differdange II ,220995,-,Jérémy Meligner,11/12,Luxembourg,11914.0,Differdange 03 
+"Jul 1, 2014",,?,Luxembourg,24428.0,Belvaux ,144712,-,Albino Da Conceicao,14/15,,75.0,Unknown 
+"Jan 1, 2014",,Loan,Luxembourg,21453.0,Kayl-Tétange ,144712,-,Albino Da Conceicao,13/14,Luxembourg,24428.0,Belvaux 
+"Jun 30, 2013",,End of loan,Luxembourg,21806.0,Munsbach ,144712,-,Albino Da Conceicao,12/13,Luxembourg,21453.0,Kayl-Tétange 
+"Jan 1, 2013",,Loan,Luxembourg,21453.0,Kayl-Tétange ,144712,-,Albino Da Conceicao,12/13,Luxembourg,21806.0,Munsbach 
+"Jul 1, 2011",,Free transfer,Luxembourg,10086.0,CS Oberkorn ,144712,-,Albino Da Conceicao,11/12,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2008",,?,Luxembourg,23376.0,Kehlen ,144712,-,Albino Da Conceicao,08/09,Luxembourg,10086.0,CS Oberkorn 
+"Jul 1, 2006",,?,Luxembourg,24428.0,Belvaux ,144712,-,Albino Da Conceicao,06/07,Luxembourg,23376.0,Kehlen 
+"Jun 30, 2016",,End of loan,Luxembourg,11976.0,CS Fola Esch ,183637,150 Th. €,Dwayn Holter,15/16,Germany,65.0,Greuther Fürth 
+"Jan 1, 2016",,Loan,Germany,65.0,Greuther Fürth ,183637,150 Th. €,Dwayn Holter,15/16,Luxembourg,11976.0,CS Fola Esch 
+"Dec 31, 2015",,End of loan,Germany,83.0,VfR Aalen ,183637,150 Th. €,Dwayn Holter,15/16,Germany,65.0,Greuther Fürth 
+"Jul 1, 2015",,Loan,Germany,65.0,Greuther Fürth ,183637,150 Th. €,Dwayn Holter,15/16,Germany,83.0,VfR Aalen 
+"Jul 1, 2014",,-,Germany,2612.0,Gr. Fürth U19 ,183637,-,Dwayn Holter,14/15,Germany,65.0,Greuther Fürth 
+"Jul 1, 2012",,-,Germany,21077.0,Gr. Fürth U17 ,183637,-,Dwayn Holter,12/13,Germany,2612.0,Gr. Fürth U19 
+"Jan 1, 2012",,Free transfer,Luxembourg,29601.0,RFCU Luxem. U17 ,183637,-,Dwayn Holter,11/12,Germany,21077.0,Gr. Fürth U17 
+"Jul 1, 2011",,-,Luxembourg,20557.0,Käerjeng U19 ,137562,-,Jérôme Brix,11/12,Luxembourg,12004.0,UN Käerjéng 97 
+"Jul 1, 2012",,-,Luxembourg,15154.0,Hamm Benfica ,229775,-,Laurent Kips,12/13,Luxembourg,37493.0,FCRMHammII 
+"Jan 1, 2011",,Free transfer,Luxembourg,10086.0,CS Oberkorn ,120670,-,Ricardo de Sousa Maia,10/11,Luxembourg,33336.0,Kayl-Tétange II 
+"Jul 1, 2009",,Free transfer,Luxembourg,21278.0,FCM Lasauvage ,120670,-,Ricardo de Sousa Maia,09/10,Luxembourg,10086.0,CS Oberkorn 
+"Jul 1, 2013",,Free transfer,Luxembourg,1257.0,Jeunesse Esch ,229777,-,Almin Kozar,13/14,Luxembourg,21803.0,FC Rodange 91 
+"Jul 1, 2012",,-,Luxembourg,20549.0,Jeun. Esch U19 ,229777,-,Almin Kozar,12/13,Luxembourg,1257.0,Jeunesse Esch 
+,,,,,,138600,,,,,,
+"Jul 1, 2013",,Loan,Luxembourg,15154.0,Hamm Benfica ,203154,-,Sidney Lima,13/14,Luxembourg,21757.0,Steinsel 
+"Jul 1, 2011",,-,Luxembourg,34261.0,RM Hamm U17 ,203154,-,Sidney Lima,11/12,Luxembourg,15154.0,Hamm Benfica 
+"Jan 31, 2014",,?,Belgium,10107.0,UR La Louvière Centre ,103284,-,Dieumerci Ndongala,13/14,Belgium,172.0,RSC Charleroi 
+"Jan 29, 2013",,?,Luxembourg,1257.0,Jeunesse Esch ,103284,-,Dieumerci Ndongala,12/13,Belgium,10107.0,UR La Louvière Centre 
+"Jul 1, 2011",,Free transfer,Belgium,8164.0,Standard U19 ,103284,-,Dieumerci Ndongala,11/12,Luxembourg,1257.0,Jeunesse Esch 
+"Jul 1, 2012",,Free transfer,Luxembourg,10541.0,CS Pétange ,203143,-,Kevin Brosius,12/13,Luxembourg,29562.0,US Boevange/Attert 
+"Aug 1, 2011",,Free transfer,Luxembourg,29562.0,US Boevange/Attert ,203143,-,Kevin Brosius,11/12,Luxembourg,10541.0,CS Pétange 
+"Jul 1, 2013",,?,Luxembourg,28313.0,Sandweiler ,123784,-,Jorge Machado Borges,13/14,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2012",,Free transfer,Luxembourg,21453.0,Kayl-Tétange ,123784,-,Jorge Machado Borges,12/13,Luxembourg,28313.0,Sandweiler 
+"Jul 1, 2008",,Free transfer,Portugal,8889.0,Benfica U19 ,123784,-,Jorge Machado Borges,08/09,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2014",,?,France,23206.0,Uzes ,203145,-,Benjamin Delprat,14/15,France,30964.0,FC Bagnols Pont 
+"Jul 1, 2013",,?,France,75.0,Unknown ,203145,-,Benjamin Delprat,13/14,,23206.0,Uzes 
+"Aug 1, 2012",,Free transfer,Luxembourg,10541.0,CS Pétange ,203145,-,Benjamin Delprat,12/13,,75.0,Unknown 
+"Aug 1, 2011",,Free transfer,France,18015.0,Nîmes ,203145,-,Benjamin Delprat,11/12,Luxembourg,10541.0,CS Pétange 
+"Jul 1, 2008",,-,France,16042.0,Nîmes ,203145,-,Benjamin Delprat,08/09,France,18015.0,Nîmes 
+"Jul 1, 2013",,?,Luxembourg,1522.0,Avenir Beggen ,123786,-,Papis Niang,13/14,,75.0,Unknown 
+"Jul 1, 2012",,Free transfer,Luxembourg,13467.0,RFCU Luxembourg ,123786,-,Papis Niang,12/13,Luxembourg,1522.0,Avenir Beggen 
+"Jul 1, 2011",,Free transfer,France,27158.0,Thionville ,123786,-,Papis Niang,11/12,Luxembourg,13467.0,RFCU Luxembourg 
+"Jul 1, 2010",,Free transfer,Luxembourg,21642.0,Lintgen ,123786,-,Papis Niang,10/11,France,27158.0,Thionville 
+"Jul 1, 2009",,Free transfer,Belgium,15689.0,RE Virton U19 ,123786,-,Papis Niang,09/10,Luxembourg,21642.0,Lintgen 
+"Jul 1, 2014",,Free transfer,Luxembourg,37493.0,FCRMHammII ,203147,-,Antonio Fortes,14/15,Luxembourg,10086.0,CS Oberkorn 
+"Jul 1, 2013",,?,Luxembourg,21280.0,US Esch ,203147,-,Antonio Fortes,13/14,Luxembourg,37493.0,FCRMHammII 
+"Dec 1, 2012",,?,Luxembourg,15154.0,Hamm Benfica ,203147,-,Antonio Fortes,12/13,Luxembourg,21280.0,US Esch 
+"Jul 1, 2011",,Free transfer,Luxembourg,10541.0,CS Pétange ,203147,-,Antonio Fortes,11/12,Luxembourg,15154.0,Hamm Benfica 
+"Jul 1, 2009",,-,Luxembourg,20554.0,CS Pétange U19 ,203147,-,Antonio Fortes,09/10,Luxembourg,10541.0,CS Pétange 
+"Jul 1, 2015",,?,Luxembourg,11976.0,CS Fola Esch ,163724,175 Th. €,Laurent Jans,15/16,Belgium,28643.0,Waasl.-Beveren 
+"Jul 1, 2011",,Free transfer,Luxembourg,29557.0,FF Norden 02 ,163724,-,Laurent Jans,11/12,Luxembourg,11976.0,CS Fola Esch 
+"Jul 1, 2008",,-,Luxembourg,34264.0,FF Norden02 U17 ,163724,-,Laurent Jans,08/09,Luxembourg,29557.0,FF Norden 02 
+"Dec 1, 2012",,Free transfer,Luxembourg,2230.0,CS Grevenmacher ,203151,-,Paul Haas,12/13,Luxembourg,21644.0,Mertert-Wass. 
+"Jul 1, 2012",,Free transfer,Luxembourg,15154.0,Hamm Benfica ,203153,-,Elmir Kocan,12/13,Luxembourg,29561.0,SC Bettembourg 
+"Jul 1, 2011",,Free transfer,Luxembourg,29561.0,SC Bettembourg ,203153,-,Elmir Kocan,11/12,Luxembourg,15154.0,Hamm Benfica 
+"Jul 1, 2016",,Free transfer,Luxembourg,21454.0,FC Mamer 32 ,13202,25 Th. €,Richard Miranda Garcia da Silva,16/17,Luxembourg,21823.0,Lorentzweiler 
+"Jan 1, 2015",,Free transfer,Luxembourg,21835.0,FC UNA Strassen ,13202,50 Th. €,Richard Miranda Garcia da Silva,14/15,Luxembourg,21454.0,FC Mamer 32 
+"Jul 1, 2013",,?,Luxembourg,19688.0,SC Steinfort ,13202,-,Richard Miranda Garcia da Silva,13/14,Luxembourg,21835.0,FC UNA Strassen 
+"Jul 1, 2012",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,13202,150 Th. €,Richard Miranda Garcia da Silva,12/13,Luxembourg,19688.0,SC Steinfort 
+"Jul 1, 2011",,Free transfer,Portugal,6986.0,Pinhalnovense ,13202,150 Th. €,Richard Miranda Garcia da Silva,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Mar 1, 2011",,Free transfer,Angola,35308.0,Progresso ,13202,150 Th. €,Richard Miranda Garcia da Silva,10/11,England,22699.0,Atherstone 
+"Jul 1, 2010",,Free transfer,England,22699.0,Atherstone ,13202,150 Th. €,Richard Miranda Garcia da Silva,10/11,Portugal,6986.0,Pinhalnovense 
+"Mar 1, 2010",,Free transfer,Portugal,4297.0,Varzim ,13202,150 Th. €,Richard Miranda Garcia da Silva,09/10,Angola,35308.0,Progresso 
+"Jul 1, 2008",,Free transfer,Bulgaria,11255.0,PFC Vihren ,13202,50 Th. €,Richard Miranda Garcia da Silva,08/09,Portugal,4297.0,Varzim 
+"Jul 1, 2007",,Free transfer,Portugal,7378.0,Portimonense ,13202,50 Th. €,Richard Miranda Garcia da Silva,07/08,Bulgaria,11255.0,PFC Vihren 
+"Jul 1, 2006",,Free transfer,Portugal,1436.0,Beira-Mar ,13202,50 Th. €,Richard Miranda Garcia da Silva,06/07,Portugal,7378.0,Portimonense 
+"Jul 1, 2005",,Free transfer,Portugal,2423.0,Santa Clara ,13202,50 Th. €,Richard Miranda Garcia da Silva,05/06,Portugal,1436.0,Beira-Mar 
+"Jul 1, 2004",,Free transfer,Portugal,2431.0,Estrela Amadora ,13202,-,Richard Miranda Garcia da Silva,04/05,Portugal,2423.0,Santa Clara 
+"Jul 1, 2002",,Free transfer,Portugal,1075.0,Braga ,13202,-,Richard Miranda Garcia da Silva,02/03,Portugal,2431.0,Estrela Amadora 
+"Jul 1, 2001",,Free transfer,Brazil,3319.0,Sampaio Corrêa ,13202,-,Richard Miranda Garcia da Silva,01/02,Portugal,1075.0,Braga 
+"Jul 1, 2015",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,227733,25 Th. €,Nicolas Broquard,15/16,France,29580.0,CSO Villerupt 
+"Jan 1, 2012",,Free transfer,Belgium,10327.0,FC Bleid-Gaume ,227733,-,Nicolas Broquard,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2009",,Free transfer,France,27158.0,Thionville ,227733,-,Nicolas Broquard,09/10,Belgium,10327.0,FC Bleid 
+"Jan 1, 2012",,Free transfer,Luxembourg,21453.0,Kayl-Tétange ,199062,-,Selim Ainahi,11/12,Luxembourg,21273.0,Weiler 
+"Jul 1, 2011",,-,Luxembourg,33353.0,Kayl-T. U19 ,199062,-,Selim Ainahi,11/12,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2013",,Free transfer,Luxembourg,29611.0,Etoile Sportive Schouweiler ,203159,-,Ingo Meier,13/14,,75.0,Unknown 
+"Jul 1, 2012",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,203159,-,Ingo Meier,12/13,Luxembourg,29611.0,Etoile Sportive Schouweiler 
+"Jul 1, 2011",,Free transfer,Luxembourg,34260.0,FCMU17 ,203159,-,Ingo Meier,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2015",,Free transfer,Luxembourg,2230.0,CS Grevenmacher ,61848,-,Patrick Herres,15/16,Luxembourg,7353.0,FC Koeppchen 
+"Jun 30, 2014",,End of loan,Luxembourg,21645.0,US Hostert ,61848,-,Patrick Herres,13/14,Luxembourg,2230.0,CS Grevenmacher 
+"Jan 1, 2014",,Loan,Luxembourg,2230.0,CS Grevenmacher ,61848,-,Patrick Herres,13/14,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2011",,Free transfer,Germany,10109.0,FC Bitburg ,61848,-,Patrick Herres,11/12,Luxembourg,2230.0,CS Grevenmacher 
+"Jan 1, 2010",,Free transfer,Germany,852.0,Eintr. Trier II ,61848,-,Patrick Herres,09/10,Germany,10109.0,FC Bitburg 
+"Jul 1, 2008",,-,Germany,7659.0,Eint. Trier U19 ,61848,-,Patrick Herres,08/09,Germany,852.0,Eintr. Trier II 
+"Jan 1, 2008",,Free transfer,Germany,11290.0,FSV Salmrohr II ,61848,-,Patrick Herres,07/08,Germany,7659.0,Eint. Trier U19 
+"Jul 1, 2007",,-,Germany,15004.0,Salmrohr Jgd. ,61848,-,Patrick Herres,07/08,Germany,11290.0,FSV Salmrohr II 
+"Jul 1, 2014",,-,Luxembourg,2113.0,career break ,203161,-,Joao Moreira,14/15,,23376.0,Kehlen 
+"Oct 10, 2013",,-,Luxembourg,10541.0,CS Pétange ,203161,-,Joao Moreira,13/14,,2113.0,career break 
+"Jul 1, 2013",,?,Luxembourg,23376.0,Kehlen ,203161,-,Joao Moreira,13/14,Luxembourg,10541.0,CS Pétange 
+"Jan 1, 2013",,Free transfer,Luxembourg,10541.0,CS Pétange ,203161,-,Joao Moreira,12/13,Luxembourg,23376.0,Kehlen 
+"Jun 30, 2016",,End of loan,Luxembourg,21803.0,FC Rodange 91 ,203164,-,Bruno Pinto Da Costa,15/16,Luxembourg,21300.0,Niederkorn II 
+"Jan 30, 2016",,Loan,Luxembourg,21300.0,Niederkorn II ,203164,-,Bruno Pinto Da Costa,15/16,Luxembourg,21803.0,FC Rodange 91 
+"Jul 1, 2011",,-,Luxembourg,20894.0,Niederkorn U19 ,203164,-,Bruno Pinto Da Costa,11/12,Luxembourg,21300.0,Niederkorn II 
+"Jul 1, 2015",,Free transfer,Luxembourg,21438.0,Mondercange ,203168,25 Th. €,Davidson Rodrigues,15/16,Luxembourg,48712.0,Titus Petange 
+"Jul 1, 2014",,Free transfer,Luxembourg,10541.0,CS Pétange ,203168,-,Davidson Rodrigues,14/15,Luxembourg,21438.0,Mondercange 
+"Jul 1, 2013",,?,Luxembourg,10086.0,CS Oberkorn ,203168,-,Davidson Rodrigues,13/14,Luxembourg,10541.0,CS Pétange 
+"Jul 1, 2012",,Free transfer,Luxembourg,11976.0,CS Fola Esch ,203168,-,Davidson Rodrigues,12/13,Luxembourg,10086.0,CS Oberkorn 
+"Jun 30, 2012",,End of loan,Luxembourg,12346.0,Pr. Niederkorn ,203168,-,Davidson Rodrigues,11/12,Luxembourg,11976.0,CS Fola Esch 
+"Jul 1, 2011",,Loan,Luxembourg,20544.0,Fola Esch U19 ,203168,-,Davidson Rodrigues,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2015",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,203170,-,Danielson Silva,15/16,Luxembourg,28778.0,CS Sanem 
+"Jul 1, 2011",,-,Luxembourg,20894.0,Niederkorn U19 ,203170,-,Danielson Silva,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jun 30, 2015",,End of loan,Luxembourg,10541.0,CS Pétange ,203172,50 Th. €,Erdin Skenderovic,14/15,Luxembourg,21300.0,Niederkorn II 
+"Jul 1, 2014",,Loan,Luxembourg,21300.0,Niederkorn II ,203172,-,Erdin Skenderovic,14/15,Luxembourg,10541.0,CS Pétange 
+"Jul 1, 2011",,-,Luxembourg,20894.0,Niederkorn U19 ,203172,-,Erdin Skenderovic,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2015",,Free transfer,Luxembourg,21300.0,Niederkorn II ,203174,25 Th. €,Andy Theves,15/16,Luxembourg,24294.0,Ehlerange 
+"Jul 1, 2014",,-,Luxembourg,12346.0,Pr. Niederkorn ,203174,-,Andy Theves,14/15,Luxembourg,21300.0,Niederkorn II 
+"Jun 30, 2014",,End of loan,Luxembourg,10086.0,CS Oberkorn ,203174,-,Andy Theves,13/14,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2013",,Loan,Luxembourg,12346.0,Pr. Niederkorn ,203174,-,Andy Theves,13/14,Luxembourg,10086.0,CS Oberkorn 
+"Jul 1, 2011",,-,Luxembourg,20894.0,Niederkorn U19 ,203174,-,Andy Theves,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2012",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,203175,-,Daniel Vieira,12/13,Luxembourg,21276.0,ES Clemency 
+"Jul 1, 2011",,-,Luxembourg,20894.0,Niederkorn U19 ,203175,-,Daniel Vieira,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2012",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,203176,-,José Vieira,12/13,Luxembourg,21276.0,ES Clemency 
+"Jul 1, 2005",,-,Luxembourg,20894.0,Niederkorn U19 ,203176,-,José Vieira,05/06,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2015",,Free transfer,Belgium,41306.0,Messancy ,4009,-,Daniel Gomez,15/16,Belgium,50530.0,ROC Meix 
+"Aug 20, 2013",,Free transfer,Luxembourg,853.0,F91 Dudelange ,4009,-,Daniel Gomez,13/14,Belgium,41306.0,Messancy 
+"Jul 1, 2012",,Free transfer,Luxembourg,1257.0,Jeunesse Esch ,4009,250 Th. €,Daniel Gomez,12/13,Luxembourg,853.0,F91 Dudelange 
+"Jul 1, 2011",,Free transfer,Cyprus,3393.0,D. Katokopias ,4009,250 Th. €,Daniel Gomez,11/12,Luxembourg,1257.0,Jeunesse Esch 
+"Aug 1, 2010",,Free transfer,Netherlands,384.0,MVV ,4009,350 Th. €,Daniel Gomez,10/11,Cyprus,3393.0,D. Katokopias 
+"Jan 1, 2007",,175 Th. €,France,347.0,FC Metz ,4009,500 Th. €,Daniel Gomez,06/07,Netherlands,384.0,MVV 
+"Jul 1, 2006",,Free transfer,Germany,25.0,Energie Cottbus ,4009,500 Th. €,Daniel Gomez,06/07,France,347.0,FC Metz 
+"Jul 1, 2005",,30 Th. €,Germany,8.0,Alem. Aachen ,4009,250 Th. €,Daniel Gomez,05/06,Germany,25.0,Energie Cottbus 
+"Jul 1, 2003",,Free transfer,Belgium,1199.0,RE Virton ,4009,-,Daniel Gomez,03/04,Germany,8.0,Alem. Aachen 
+"Jul 1, 2001",,?,France,347.0,FC Metz ,4009,-,Daniel Gomez,01/02,Belgium,1199.0,RE Virton 
+"Jul 1, 2000",,?,France,75.0,Unknown ,4009,-,Daniel Gomez,00/01,,347.0,FC Metz 
+"Jul 1, 2013",,?,Luxembourg,2230.0,CS Grevenmacher ,203179,-,Pit Wagner,13/14,Luxembourg,21809.0,Berbourg 
+"Jul 1, 2012",,Free transfer,Luxembourg,9284.0,Hesperange ,203180,-,Gilles Walisch,12/13,Luxembourg,21273.0,Weiler 
+"Jul 1, 2012",,?,Luxembourg,12004.0,UN Käerjéng 97 ,190893,-,Dominik Gerberich,12/13,Germany,955.0,FV Lauda 
+"Jan 1, 2012",,-,Luxembourg,515.0,Unattached ,190893,-,Dominik Gerberich,11/12,,12004.0,UN Käerjéng 97 
+"Oct 1, 2011",,-,Germany,564.0,Würzburger FV ,190893,-,Dominik Gerberich,11/12,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Germany,1557.0,Würzb. Kickers ,190893,-,Dominik Gerberich,11/12,Germany,564.0,Würzburger FV 
+"Jul 1, 2010",,Free transfer,Germany,955.0,FV Lauda ,190893,-,Dominik Gerberich,10/11,Germany,1557.0,Würzb. Kickers 
+"Jan 1, 2007",,-,Germany,8084.0,FV Lauda U19 ,190893,-,Dominik Gerberich,06/07,Germany,955.0,FV Lauda 
+"Jul 1, 2015",,Free transfer,Luxembourg,37493.0,FCRMHammII ,120250,-,Hugo Da Silva Garcia,15/16,Luxembourg,12004.0,UN Käerjéng 97 
+"Jul 1, 2014",,Free transfer,Luxembourg,2113.0,career break ,120250,-,Hugo Da Silva Garcia,14/15,,37493.0,FCRMHammII 
+"Feb 1, 2014",,-,Luxembourg,10541.0,CS Pétange ,120250,-,Hugo Da Silva Garcia,13/14,,2113.0,career break 
+"Jul 1, 2013",,?,Luxembourg,15154.0,Hamm Benfica ,120250,-,Hugo Da Silva Garcia,13/14,Luxembourg,10541.0,CS Pétange 
+"Jul 1, 2011",,Free transfer,Luxembourg,2660.0,Vict. Rosport ,120250,-,Hugo Da Silva Garcia,11/12,Luxembourg,15154.0,Hamm Benfica 
+"Jul 1, 2008",,Free transfer,Portugal,7794.0,UD Tocha ,120250,-,Hugo Da Silva Garcia,08/09,Luxembourg,2660.0,Vict. Rosport 
+"Jul 1, 2007",,?,Portugal,15572.0,Naval 1º U19 ,120250,-,Hugo Da Silva Garcia,07/08,Portugal,7794.0,UD Tocha 
+"Jan 1, 2007",,?,Portugal,23460.0,U. Madeira U19 ,120250,-,Hugo Da Silva Garcia,06/07,Portugal,15572.0,Naval 1º U19 
+"Jul 1, 2006",,?,Portugal,9006.0,AD Oeiras ,120250,-,Hugo Da Silva Garcia,06/07,Portugal,23460.0,U. Madeira U19 
+"Jan 1, 2006",,?,Portugal,8889.0,Benfica U19 ,120250,-,Hugo Da Silva Garcia,05/06,Portugal,9006.0,AD Oeiras 
+"Jul 1, 2013",,?,Luxembourg,21645.0,US Hostert ,196255,-,Paulo Dos Santos,13/14,Luxembourg,29611.0,Etoile Sportive Schouweiler 
+"Jul 1, 2016",,Free transfer,Belgium,3159.0,RFC LÃ¼ttich ,82883,150 Th. â‚¬,Jean-SÃ©bastien Legros,16/17,Belgium,18760.0,RRC Hamoir 
+"Jan 29, 2013",,Free transfer,Luxembourg,853.0,F91 Dudelange ,82883,150 Th. â‚¬,Jean-SÃ©bastien Legros,12/13,Belgium,3159.0,RFC LÃ¼ttich 
+"Jul 1, 2011",,Free transfer,Belgium,3172.0,CS VisÃ© ,82883,150 Th. â‚¬,Jean-SÃ©bastien Legros,11/12,Luxembourg,853.0,F91 Dudelange 
+"Jul 1, 2010",,?,Belgium,3159.0,RFC LÃ¼ttich ,82883,200 Th. â‚¬,Jean-SÃ©bastien Legros,10/11,Belgium,3172.0,CS VisÃ© 
+"Jul 1, 2007",,Free transfer,Belgium,5670.0,RFCU Kelmis ,82883,-,Jean-SÃ©bastien Legros,07/08,Belgium,3159.0,RFC LÃ¼ttich 
+"Jul 1, 2004",,Free transfer,Belgium,3894.0,Royal Spa FC ,82883,-,Jean-SÃ©bastien Legros,04/05,Belgium,5670.0,RFCU Kelmis 
+"Jul 1, 2003",,Free transfer,Belgium,1245.0,KAS Eupen ,82883,-,Jean-SÃ©bastien Legros,03/04,Belgium,3894.0,Royal Spa FC 
+"Jul 1, 2001",,Free transfer,Belgium,5670.0,RFCU Kelmis ,82883,-,Jean-SÃ©bastien Legros,01/02,Belgium,1245.0,KAS Eupen 
+"Jul 1, 2015",,-,Luxembourg,21438.0,Mondercange ,203727,-,Steve Cabral,15/16,,123.0,End of career 
+"Jul 1, 2013",,Free transfer,Luxembourg,19688.0,SC Steinfort ,203727,-,Steve Cabral,13/14,Luxembourg,21438.0,Mondercange 
+"Jul 1, 2012",,Free transfer,Luxembourg,21453.0,Kayl-Tétange ,203727,-,Steve Cabral,12/13,Luxembourg,19688.0,SC Steinfort 
+"Jul 1, 2011",,Free transfer,Luxembourg,20544.0,Fola Esch U19 ,203727,-,Steve Cabral,11/12,Luxembourg,21453.0,Kayl-Tétange 
+"Dec 1, 2009",,-,Luxembourg,34254.0,CS Fola U17 ,203727,-,Steve Cabral,09/10,Luxembourg,20544.0,Fola Esch U19 
+"Jul 1, 2013",,?,Luxembourg,19689.0,US Rumelange ,158968,-,Luca Di Pentima,13/14,Luxembourg,24375.0,Jeunesse II 
+"Dec 1, 2011",,Free transfer,Luxembourg,1257.0,Jeunesse Esch ,158968,-,Luca Di Pentima,11/12,Luxembourg,19689.0,US Rumelange 
+"Jun 30, 2011",,End of loan,Luxembourg,19689.0,US Rumelange ,158968,-,Luca Di Pentima,10/11,Luxembourg,1257.0,Jeunesse Esch 
+"Jan 1, 2011",,Loan,Luxembourg,20549.0,Jeun. Esch U19 ,158968,-,Luca Di Pentima,10/11,Luxembourg,19689.0,US Rumelange 
+"Jul 1, 2013",,Free transfer,France,7882.0,US Raon-l'Étape ,102866,-,Hassan Benkajjane,13/14,France,10838.0,SAS Epinal 
+"Jul 1, 2012",,Free transfer,Luxembourg,12346.0,Pr. Niederkorn ,102866,-,Hassan Benkajjane,12/13,France,7882.0,US Raon-l'Étape 
+"Jan 1, 2012",,Free transfer,France,18633.0,FC Villefranche ,102866,-,Hassan Benkajjane,11/12,Luxembourg,12346.0,Pr. Niederkorn 
+"Jul 1, 2010",,Free transfer,France,1774.0,FC Mulhouse ,102866,-,Hassan Benkajjane,10/11,France,18633.0,FC Villefranche 
+"Jul 1, 2010",,Free transfer,France,7882.0,US Raon-l'Étape ,102866,-,Hassan Benkajjane,10/11,France,1774.0,FC Mulhouse 
+"Jul 1, 2011",,Free transfer,France,8179.0,FC Metz B ,203731,-,Jonathan Gadroy,11/12,Luxembourg,21453.0,Kayl-Tétange 
+"Jul 1, 2013",,?,Luxembourg,21453.0,Kayl-Tétange ,203732,-,Hugo Goncalves,13/14,,75.0,Unknown 
+"Jul 1, 2011",,Free transfer,Luxembourg,75.0,Unknown ,203732,-,Hugo Goncalves,11/12,,21453.0,Kayl-Tétange 
+"Jul 1, 2016",,Free transfer,Luxembourg,13467.0,RFCU Luxembourg ,203221,50 Th. €,Giuliano Jackson,16/17,,75.0,Unknown 
+"Dec 1, 2011",,-,Luxembourg,19312.0,RFCU Luxem. U19 ,203221,-,Giuliano Jackson,11/12,Luxembourg,13467.0,RFCU Luxembourg 
+"Jun 30, 2014",,End of loan,Luxembourg,1522.0,Avenir Beggen ,203222,-,Sidney Loes,13/14,Luxembourg,40824.0,Rumelange II 
+"Jan 1, 2014",,Loan,Luxembourg,19689.0,US Rumelange ,203222,-,Sidney Loes,13/14,Luxembourg,1522.0,Avenir Beggen 
+"Jul 1, 2013",,Free transfer,Luxembourg,2230.0,CS Grevenmacher ,203222,-,Sidney Loes,13/14,Luxembourg,19689.0,US Rumelange 
+"Jul 1, 2012",,?,Luxembourg,13467.0,RFCU Luxembourg ,203222,25 Th. €,Sidney Loes,12/13,Luxembourg,2230.0,CS Grevenmacher 
+"Jul 1, 2013",,?,Luxembourg,13467.0,RFCU Luxembourg ,203223,-,Antonio Luisi,13/14,Luxembourg,11914.0,Differdange 03 
+"Jul 1, 2011",,-,Luxembourg,29601.0,RFCU Luxem. U17 ,203223,-,Antonio Luisi,11/12,Luxembourg,13467.0,RFCU Luxembourg 
+"Jul 1, 2011",,Free transfer,Luxembourg,13467.0,RFCU Luxembourg ,203224,-,Francisco Ortet,11/12,,75.0,Unknown 
+"Jul 1, 2013",,?,Luxembourg,13467.0,RFCU Luxembourg ,203225,-,Davy Schmit,13/14,Luxembourg,21758.0,Aischdall 
+"Aug 1, 2011",,Free transfer,Luxembourg,20553.0,Oberkorn U19 ,203225,-,Davy Schmit,11/12,,75.0,Unknown 
+"Jul 1, 2009",,Free transfer,Luxembourg,20554.0,CS Pétange U19 ,203225,-,Davy Schmit,09/10,Luxembourg,20553.0,Oberkorn U19 
+"Jul 1, 2015",,Free transfer,Luxembourg,15154.0,Hamm Benfica ,203738,25 Th. €,Antonio Miguel Rodrigues Lopes,15/16,Luxembourg,29552.0,Luxemb.-Porto 
+"Jul 1, 2014",,Free transfer,Luxembourg,29561.0,SC Bettembourg ,203738,-,Antonio Miguel Rodrigues Lopes,14/15,Luxembourg,15154.0,Hamm Benfica 
+"Jun 30, 2014",,End of loan,Luxembourg,29552.0,Luxemb.-Porto ,203738,-,Antonio Miguel Rodrigues Lopes,13/14,Luxembourg,29561.0,SC Bettembourg 
+"Jul 1, 2013",,Loan,Luxembourg,29561.0,SC Bettembourg ,203738,-,Antonio Miguel Rodrigues Lopes,13/14,Luxembourg,29552.0,Luxemb.-Porto 
+"Jul 1, 2012",,-,Luxembourg,21453.0,Kayl-Tétange ,203738,-,Antonio Miguel Rodrigues Lopes,12/13,Luxembourg,29561.0,SC Bettembourg 
+"Jul 1, 2011",,Free transfer,Luxembourg,29561.0,SC Bettembourg ,203738,-,Antonio Miguel Rodrigues Lopes,11/12,Luxembourg,21453.0,Kayl-Tétange 
+"Jun 30, 2011",,End of loan,Luxembourg,15154.0,Hamm Benfica ,203738,-,Antonio Miguel Rodrigues Lopes,10/11,Luxembourg,29561.0,SC Bettembourg 
+"Jul 1, 2010",,Loan,Luxembourg,29561.0,SC Bettembourg ,203738,-,Antonio Miguel Rodrigues Lopes,10/11,Luxembourg,15154.0,Hamm Benfica 
+"Jul 1, 2012",,-,Luxembourg,21453.0,Kayl-Tétange ,203739,-,Antonio Soares,12/13,,123.0,End of career 
+"Jul 1, 2017",,End of loan,Luxembourg,1522.0,Avenir Beggen ,187871,25 Th. €,Steve Peiffer,16/17,Luxembourg,11976.0,CS Fola Esch 
+"Jul 1, 2016",,Loan,Luxembourg,11976.0,CS Fola Esch ,187871,25 Th. €,Steve Peiffer,16/17,Luxembourg,1522.0,Avenir Beggen 
+"Jul 1, 2014",,?,Luxembourg,1257.0,Jeunesse Esch ,187871,-,Steve Peiffer,14/15,Luxembourg,11976.0,CS Fola Esch 
+"Jul 1, 2011",,-,Luxembourg,20549.0,Jeun. Esch U19 ,187871,-,Steve Peiffer,11/12,Luxembourg,1257.0,Jeunesse Esch 
+"Jun 30, 2017",,End of loan,Luxembourg,21823.0,Lorentzweiler ,144356,50 Th. €,Johnny Pintar,16/17,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2016",,Free transfer,Luxembourg,21645.0,US Hostert ,144356,50 Th. €,Johnny Pintar,16/17,,75.0,Unknown 
+"Jul 1, 2016",,Loan,Luxembourg,21645.0,US Hostert ,144356,50 Th. €,Johnny Pintar,16/17,Luxembourg,21823.0,Lorentzweiler 
+"Jul 1, 2008",,Free transfer,Belgium,29622.0,RSC Athus ,144356,-,Johnny Pintar,08/09,Luxembourg,21645.0,US Hostert 
+"Jul 1, 2016",,Free transfer,Luxembourg,30400.0,Muhlenbach ,144371,75 Th. €,Denis Dragolovcanin,16/17,Luxembourg,29557.0,FF Norden 02 
+"Jun 30, 2016",,End of loan,Luxembourg,21835.0,FC UNA Strassen ,144371,75 Th. €,Denis Dragolovcanin,15/16,Luxembourg,30400.0,Muhlenbach 
+"Jul 1, 2015",,Loan,Luxembourg,30400.0,Muhlenbach ,144371,75 Th. €,Denis Dragolovcanin,15/16,Luxembourg,21835.0,FC UNA Strassen 
+"Jul 1, 2013",,Free transfer,Luxembourg,2230.0,CS Grevenmacher ,144371,-,Denis Dragolovcanin,13/14,Luxembourg,30400.0,Muhlenbach 
+"Jul 1, 2012",,Free transfer,Luxembourg,9284.0,Hesperange ,144371,-,Denis Dragolovcanin,12/13,Luxembourg,2230.0,CS Grevenmacher 
+"Jan 1, 2012",,Free transfer,Luxembourg,21641.0,Flaxweiler-B. ,144371,-,Denis Dragolovcanin,11/12,Luxembourg,9284.0,Hesperange 
+"Jul 1, 2010",,Free transfer,Luxembourg,21639.0,Colmar-Berg ,144371,-,Denis Dragolovcanin,10/11,Luxembourg,21641.0,Flaxweiler-B. 
+"Jul 1, 2008",,Free transfer,Luxembourg,20548.0,Wiltz U19 ,144371,-,Denis Dragolovcanin,08/09,Luxembourg,21641.0,Flaxweiler-B. 
+"Jul 1, 2016",,Free transfer,Luxembourg,13467.0,RFCU Luxembourg ,83961,50 Th. €,Eddire Mokrani,16/17,,75.0,Unknown 
+"Jul 1, 2014",,Free transfer,Luxembourg,21453.0,Kayl-Tétange ,83961,25 Th. €,Eddire Mokrani,14/15,Luxembourg,13467.0,RFCU Luxembourg 
+"Jun 30, 2012",,End of loan,France,25087.0,RS Magny ,83961,25 Th. €,Eddire Mokrani,11/12,Luxembourg,21453.0,Kayl-Tétange 
+"Jan 1, 2012",,Loan,Luxembourg,21453.0,Kayl-Tétange ,83961,25 Th. €,Eddire Mokrani,11/12,France,25087.0,RS Magny 
+"Aug 1, 2011",,Free transfer,Germany,245.0,SC Freiburg II ,83961,25 Th. €,Eddire Mokrani,11/12,Luxembourg,21453.0,Kayl-Tétange 
+"Jan 1, 2010",,Free transfer,Germany,5406.0,Elversberg II ,83961,-,Eddire Mokrani,09/10,Germany,245.0,SC Freiburg II 
+"Dec 1, 2009",,End of loan,France,25087.0,RS Magny ,83961,-,Eddire Mokrani,09/10,Germany,5406.0,Elversberg II 
+"Aug 1, 2009",,Loan,Germany,5406.0,Elversberg II ,83961,-,Eddire Mokrani,09/10,France,25087.0,RS Magny 
+"Jul 1, 2012",,Free transfer,Luxembourg,12346,Pr. Niederkorn ,203144,-,Cédric De Sousa,12/13,,75,Unknown 
+"Jul 1, 2011",,Free transfer,Luxembourg,21803,FC Rodange 91 ,203144,-,Cédric De Sousa,11/12,Luxembourg,12346,Pr. Niederkorn 
+,'NoneType' object has no attribute 'find_all',,,,,138600,,,,,,
+"Jul 1, 2014",,Free transfer,Luxembourg,21438,Mondercange ,229706,-,Ricardo Sousa Oliveira,14/15,,75,Unknown 
+"Jul 1, 2013",,?,Luxembourg,11976,CS Fola Esch ,229706,-,Ricardo Sousa Oliveira,13/14,Luxembourg,21438,Mondercange 
+"Jun 30, 2013",,End of loan,Luxembourg,1522,Avenir Beggen ,229706,-,Ricardo Sousa Oliveira,12/13,Luxembourg,11976,CS Fola Esch 
+"Jan 1, 2013",,Loan,Luxembourg,11976,CS Fola Esch ,229706,-,Ricardo Sousa Oliveira,12/13,Luxembourg,1522,Avenir Beggen 
+"Jul 1, 2013",,?,Luxembourg,29626,Sporting Bertrange ,123923,-,Samir Boucheraki,13/14,,75,Unknown 
+"Jul 1, 2012",,?,Luxembourg,515,Unattached ,123923,-,Samir Boucheraki,12/13,,29626,Sporting Bertrange 
+"Jan 1, 2012",,-,Luxembourg,21453,Kayl-Tétange ,123923,-,Samir Boucheraki,11/12,,515,Unattached 
+,'NoneType' object has no attribute 'find_all',,,,,196248,,,,,,

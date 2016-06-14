@@ -1,0 +1,791 @@
+date,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jan 1, 2015",Free transfer,Moldova,36136,FC Veris ,49152,200 Th. €,Petru Racu,14/15,Moldova,30686,Milsami Orhei 
+"Jul 1, 2013",-,Moldova,515,Unattached ,49152,200 Th. €,Petru Racu,13/14,,36136,FC Veris 
+"Jun 1, 2012",-,Denmark,19657,Vendsyssel FF ,49152,200 Th. €,Petru Racu,11/12,,515,Unattached 
+"Jan 1, 2012",Free transfer,Sweden,2844,IFK Norrköping ,49152,200 Th. €,Petru Racu,11/12,Denmark,19657,Vendsyssel FF 
+"Dec 1, 2008",End of loan,Finland,2688,MYPA ,49152,250 Th. €,Petru Racu,08/09,Sweden,2844,IFK Norrköping 
+"Aug 1, 2008",Loan,Sweden,2844,IFK Norrköping ,49152,75 Th. €,Petru Racu,08/09,Finland,2688,MYPA 
+"Jan 1, 2007",?,Moldova,2714,Zimbru Chisinau ,49152,-,Petru Racu,06/07,Sweden,2844,IFK Norrköping 
+"Jul 1, 2016",Free transfer,Netherlands,11055,FC Lienden ,9729,-,Guillano Grot,16/17,Netherlands,46395,WNC 
+"Jul 1, 2015",Free transfer,Netherlands,7294,WKE Emmen ,9729,-,Guillano Grot,15/16,Netherlands,11055,FC Lienden 
+"Jan 1, 2012",Free transfer,Netherlands,6160,De Treffers ,9729,100 Th. €,Guillano Grot,11/12,Netherlands,7294,WKE Emmen 
+"Jan 1, 2011",Free transfer,Finland,8042,FC Inter ,9729,100 Th. €,Guillano Grot,10/11,Netherlands,6160,De Treffers 
+"Jan 1, 2009",?,Netherlands,500,Helmond Sport ,9729,250 Th. €,Guillano Grot,08/09,Finland,8042,FC Inter 
+"Nov 1, 2008",End of loan,Finland,8042,FC Inter ,9729,250 Th. €,Guillano Grot,08/09,Netherlands,500,Helmond Sport 
+"Jul 1, 2008",Loan,Netherlands,500,Helmond Sport ,9729,150 Th. €,Guillano Grot,08/09,Finland,8042,FC Inter 
+"Aug 1, 2007",Free transfer,Netherlands,798,SBV Excelsior ,9729,150 Th. €,Guillano Grot,07/08,Netherlands,500,Helmond Sport 
+"Jun 30, 2007",End of loan,Netherlands,798,SBV Excelsior ,9729,150 Th. €,Guillano Grot,06/07,Netherlands,467,NEC Nijmegen 
+"Aug 1, 2006",Loan,Netherlands,467,NEC Nijmegen ,9729,-,Guillano Grot,06/07,Netherlands,798,SBV Excelsior 
+"Jul 1, 2005",Free transfer,Netherlands,6160,De Treffers ,9729,-,Guillano Grot,05/06,Netherlands,467,NEC Nijmegen 
+"Jan 1, 2004",Free transfer,Germany,392,1.FC Bocholt ,9729,-,Guillano Grot,03/04,Netherlands,6160,De Treffers 
+"Jul 1, 2003",Free transfer,Netherlands,467,NEC Nijmegen ,9729,-,Guillano Grot,03/04,Germany,392,1.FC Bocholt 
+"Jan 1, 2016",-,Finland,29003,Sudet Kouvola ,73729,-,Toni Lindberg,15/16,,123,End of career 
+"Aug 1, 2015",?,Finland,515,Unattached ,73729,50 Th. €,Toni Lindberg,15/16,,29003,Sudet Kouvola 
+"Jan 1, 2015",?,Finland,2688,MYPA ,73729,50 Th. €,Toni Lindberg,14/15,,515,Unattached 
+"Jan 1, 2014",Free transfer,Finland,7315,FC KTP ,73729,-,Toni Lindberg,13/14,Finland,2688,MYPA 
+"Jan 31, 2013",Free transfer,Norway,6390,Alta IF ,73729,150 Th. €,Toni Lindberg,12/13,Finland,7315,FC KTP 
+"Aug 1, 2012",Free transfer,Uzbekistan,13649,FK Mash'al Mubarek ,73729,300 Th. €,Toni Lindberg,12/13,Norway,6390,Alta IF 
+"Jan 1, 2012",Free transfer,Finland,2688,MYPA ,73729,300 Th. €,Toni Lindberg,11/12,Uzbekistan,13649,FK Mash'al Mubarek 
+"Jan 1, 2008",Free transfer,Finland,3780,FC Kuusankoski ,73729,-,Toni Lindberg,07/08,Finland,2688,MYPA 
+"Jan 1, 2014",?,Finland,20924,HIFK ,73736,75 Th. €,Shpat Qerimi,13/14,Finland,20956,Lohjan Pallo 
+"Jan 1, 2013",?,Finland,22297,FC Espoo ,73736,75 Th. €,Shpat Qerimi,12/13,Finland,20924,HIFK 
+"Jan 1, 2012",Free transfer,Finland,3776,RoPS ,73736,75 Th. €,Shpat Qerimi,11/12,Finland,22297,FC Espoo 
+"Apr 1, 2011",-,Finland,515,Unattached ,73736,50 Th. €,Shpat Qerimi,10/11,,3776,RoPS 
+"Jan 25, 2011",-,Croatia,420,RNK Split ,73736,50 Th. €,Shpat Qerimi,10/11,,515,Unattached 
+"Aug 13, 2010",Free transfer,Germany,117,E. Norderstedt ,73736,150 Th. €,Shpat Qerimi,10/11,Croatia,420,RNK Split 
+"Apr 1, 2010",Free transfer,Finland,23075,Pallohonka ,73736,-,Shpat Qerimi,09/10,Germany,117,E. Norderstedt 
+"Jan 1, 2008",Free transfer,Finland,20873,FC Inter U19 ,73736,-,Shpat Qerimi,07/08,Finland,23075,Pallohonka 
+"Jan 1, 2014",Free transfer,Finland,8807,PK-35 ,54800,-,Sami Salmi,13/14,Finland,17396,Grankulla IFK 
+"Jan 1, 2011",Free transfer,Finland,1102,VPS ,54800,200 Th. €,Sami Salmi,10/11,Finland,8807,PK-35 
+"Jan 1, 2010",Free transfer,Finland,1008,HJK Helsinki ,54800,100 Th. €,Sami Salmi,09/10,Finland,1102,VPS 
+"Jan 1, 2007",-,Finland,15665,HJK U19 ,54800,-,Sami Salmi,06/07,Finland,1008,HJK Helsinki 
+"Jul 1, 2015",-,Germany,23826,RB Leipzig ,54802,200 Th. €,Mikko Sumusalo,15/16,Germany,24293,RB Leipzig II 
+"Jun 30, 2015",End of loan,Germany,30,Hansa Rostock ,54802,250 Th. €,Mikko Sumusalo,14/15,Germany,23826,RB Leipzig 
+"Jan 30, 2015",Loan,Germany,23826,RB Leipzig ,54802,250 Th. €,Mikko Sumusalo,14/15,Germany,30,Hansa Rostock 
+"Jan 1, 2014",Free transfer,Finland,1008,HJK Helsinki ,54802,350 Th. €,Mikko Sumusalo,13/14,Germany,23826,RB Leipzig 
+"Jan 1, 2009",-,Finland,11131,Klubi-04 ,54802,50 Th. €,Mikko Sumusalo,08/09,Finland,1008,HJK Helsinki 
+"Jan 1, 2007",?,Finland,22293,FC Futura ,54802,-,Mikko Sumusalo,06/07,Finland,11131,Klubi-04 
+"Jan 1, 2010",-,Finland,3779,JJK ,54804,100 Th. €,Janne Hannula,09/10,,123,End of career 
+"Jan 1, 2006",?,Finland,11133,PP-70 ,54804,-,Janne Hannula,05/06,Finland,3779,JJK 
+"Jan 1, 2012",Free transfer,Finland,29400,FC Vaajakoski ,54810,25 Th. €,Sami Myllymäki,11/12,Finland,36282,JPS 
+"Jan 1, 2011",Free transfer,Finland,3779,JJK ,54810,25 Th. €,Sami Myllymäki,10/11,Finland,29400,FC Vaajakoski 
+"Dec 1, 2010",End of loan,Finland,29400,FC Vaajakoski ,54810,25 Th. €,Sami Myllymäki,10/11,Finland,3779,JJK 
+"Jul 1, 2010",Loan,Finland,3779,JJK ,54810,50 Th. €,Sami Myllymäki,10/11,Finland,29400,FC Vaajakoski 
+"Dec 31, 2009",End of loan,Finland,17469,FCJ Blackbird ,54810,50 Th. €,Sami Myllymäki,09/10,Finland,3779,JJK 
+"Aug 1, 2009",Loan,Finland,3779,JJK ,54810,50 Th. €,Sami Myllymäki,09/10,Finland,17469,FCJ Blackbird 
+"Jan 1, 2014",?,Finland,3779,JJK ,54813,150 Th. €,Tuomas Latikka,13/14,Finland,49069,Apollo FC 
+"Jan 26, 2015",Free transfer,Finland,2688,MYPA ,73735,100 Th. €,Juha Pirinen,14/15,Finland,3776,RoPS 
+"Mar 17, 2014",Free transfer,Finland,1225,FC Haka ,73735,-,Juha Pirinen,13/14,Finland,2688,MYPA 
+"Feb 1, 2011",?,Finland,8045,Tampere United ,73735,125 Th. €,Juha Pirinen,10/11,Finland,1225,FC Haka 
+"Jan 1, 2009",Free transfer,Finland,1225,FC Haka ,73735,50 Th. €,Juha Pirinen,08/09,Finland,8045,Tampere United 
+"Jul 1, 2014",Free transfer,Denmark,5781,Skive IK ,71215,-,Christian Andreasen,14/15,,75,Unknown 
+"Jul 24, 2013",Free transfer,Norway,11221,Flekkeroy IF ,71215,-,Christian Andreasen,13/14,Denmark,5781,Skive IK 
+"Feb 1, 2012",?,Denmark,16787,Freja (RFC II) ,71215,50 Th. €,Christian Andreasen,11/12,Norway,11221,Flekkeroy IF 
+"Jul 1, 2011",Free transfer,Denmark,9023,Thisted FC ,71215,50 Th. €,Christian Andreasen,11/12,Denmark,16787,Freja (RFC II) 
+"Jul 1, 2009",Free transfer,Denmark,16787,Freja (RFC II) ,71215,150 Th. €,Christian Andreasen,09/10,Denmark,9023,Thisted FC 
+"Jun 30, 2009",End of loan,Finland,2275,TPS ,71215,150 Th. €,Christian Andreasen,08/09,Denmark,16787,Freja (RFC II) 
+"Apr 1, 2009",Loan,Denmark,16787,Freja (RFC II) ,71215,150 Th. €,Christian Andreasen,08/09,Finland,2275,TPS 
+"Jan 1, 2009",-,Denmark,5724,Randers FC ,71215,150 Th. €,Christian Andreasen,08/09,Denmark,16787,Freja (RFC II) 
+"Jul 1, 2008",-,Denmark,16787,Freja (RFC II) ,71215,50 Th. €,Christian Andreasen,08/09,Denmark,5724,Randers FC 
+"Jan 1, 2011",?,Thailand,21285,Police Utd ,37942,50 Th. €,Ho-Jin Lee,10/11,"Korea, South",34150,Goyang KB 
+"Jun 1, 2010",-,Thailand,515,Unattached ,37942,50 Th. €,Ho-Jin Lee,09/10,,21285,Police Utd 
+"Jan 1, 2010",-,Finland,3779,JJK ,37942,50 Th. €,Ho-Jin Lee,09/10,,515,Unattached 
+"Dec 1, 2009",End of loan,Finland,17469,FCJ Blackbird ,37942,50 Th. €,Ho-Jin Lee,09/10,Finland,3779,JJK 
+"Aug 1, 2009",Loan,Finland,3779,JJK ,37942,50 Th. €,Ho-Jin Lee,09/10,Finland,17469,FCJ Blackbird 
+"Apr 1, 2009",?,"Korea, South",2996,Incheon United ,37942,750 Th. €,Ho-Jin Lee,08/09,Finland,3779,JJK 
+"Jan 1, 2008",?,"Korea, South",3535,Ulsan ,37942,750 Th. €,Ho-Jin Lee,07/08,"Korea, South",2996,Incheon United 
+"Jul 1, 2006",?,Spain,630,Racing ,37942,750 Th. €,Ho-Jin Lee,06/07,"Korea, South",3535,Ulsan 
+"Feb 1, 2006",Free transfer,"Korea, South",9156,Sungkyunkwan University ,37942,-,Ho-Jin Lee,05/06,Spain,630,Racing 
+"Feb 8, 2016",?,Norway,2761,FK Haugesund ,107577,300 Th. €,Roope Riski,15/16,Finland,23777,SJK 
+"Dec 31, 2015",End of loan,Finland,23777,SJK ,107577,300 Th. €,Roope Riski,15/16,Norway,2761,FK Haugesund 
+"Jul 17, 2015",Loan,Norway,2761,FK Haugesund ,107577,300 Th. €,Roope Riski,15/16,Finland,23777,SJK 
+"Feb 18, 2015",?,Norway,632,Hönefoss ,107577,300 Th. €,Roope Riski,14/15,Norway,2761,FK Haugesund 
+"Mar 17, 2014",?,Italy,1429,AC Cesena ,107577,150 Th. €,Roope Riski,13/14,Norway,632,Hönefoss 
+"Dec 31, 2013",End of loan,Finland,2275,TPS ,107577,100 Th. €,Roope Riski,13/14,Italy,1429,AC Cesena 
+"May 3, 2013",Loan,Italy,1429,AC Cesena ,107577,100 Th. €,Roope Riski,12/13,Finland,2275,TPS 
+"Dec 31, 2012",End of loan,Finland,2275,TPS ,107577,100 Th. €,Roope Riski,12/13,Italy,1429,AC Cesena 
+"Sep 4, 2012",Loan,Italy,1429,AC Cesena ,107577,100 Th. €,Roope Riski,12/13,Finland,2275,TPS 
+"Jun 30, 2012",End of loan,Norway,632,Hönefoss ,107577,200 Th. €,Roope Riski,11/12,Italy,1429,AC Cesena 
+"Jan 1, 2012",Loan,Italy,1429,AC Cesena ,107577,250 Th. €,Roope Riski,11/12,Norway,632,Hönefoss 
+"Dec 1, 2011",End of loan,Finland,2275,TPS ,107577,250 Th. €,Roope Riski,11/12,Italy,1429,AC Cesena 
+"Aug 1, 2011",Loan,Italy,1429,AC Cesena ,107577,250 Th. €,Roope Riski,11/12,Finland,2275,TPS 
+"Jan 1, 2011",750 Th. €,Finland,2275,TPS ,107577,150 Th. €,Roope Riski,10/11,Italy,1429,AC Cesena 
+"Jun 30, 2010",End of loan,Finland,11056,FC Viikingit ,107577,50 Th. €,Roope Riski,09/10,Finland,2275,TPS 
+"May 1, 2010",Loan,Finland,2275,TPS ,107577,50 Th. €,Roope Riski,09/10,Finland,11056,FC Viikingit 
+"Jan 1, 2009",-,Finland,15697,TPS U19 ,107577,-,Roope Riski,08/09,Finland,2275,TPS 
+"Jan 1, 2015",?,Finland,20399,FC Kiisto ,48190,50 Th. €,Benjamin Slotte,14/15,,75,Unknown 
+"Jan 1, 2011",Free transfer,Finland,11134,Vaasa IFK ,48190,50 Th. €,Benjamin Slotte,10/11,Finland,20399,FC Kiisto 
+"Jul 1, 2010",Free transfer,Finland,24558,FC Korsholm ,48190,50 Th. €,Benjamin Slotte,10/11,Finland,11134,Vaasa IFK 
+"Jan 1, 2010",Free transfer,Finland,1102,VPS ,48190,50 Th. €,Benjamin Slotte,09/10,Finland,24558,FC Korsholm 
+"Jul 1, 2007",-,Finland,15699,VPS U19 ,48190,-,Benjamin Slotte,07/08,Finland,1102,VPS 
+"Jan 1, 2016",-,Finland,3189,Ilves ,47679,-,Gustav Långbacka,15/16,,123,End of career 
+"Jan 1, 2012",Free transfer,Finland,6017,IFK Mariehamn ,47679,150 Th. €,Gustav Långbacka,11/12,Finland,3189,Ilves 
+"Jan 1, 2009",Free transfer,Finland,8043,Kokkolan PV ,47679,50 Th. €,Gustav Långbacka,08/09,Finland,6017,IFK Mariehamn 
+"Jan 1, 2008",Free transfer,Finland,11130,GBK ,47679,-,Gustav Långbacka,07/08,Finland,8043,Kokkolan PV 
+"Aug 19, 2015",Free transfer,Germany,64,SV Elversberg ,47680,300 Th. €,Sebastian Mannström,15/16,Finland,8042,FC Inter 
+"Jan 29, 2015",Free transfer,Finland,1008,HJK Helsinki ,47680,300 Th. €,Sebastian Mannström,14/15,Germany,64,SV Elversberg 
+"Jan 1, 2011",Free transfer,Finland,3650,FF Jaro ,47680,400 Th. €,Sebastian Mannström,10/11,Finland,1008,HJK Helsinki 
+"Jan 1, 2008",?,Finland,11130,GBK ,47680,-,Sebastian Mannström,07/08,Finland,3650,FF Jaro 
+"Jul 1, 2007",?,Finland,75,Unknown ,47680,-,Sebastian Mannström,07/08,,11130,GBK 
+"Jan 1, 2011",Free transfer,Finland,1102,VPS ,48199,25 Th. €,Joacim Tuuri,10/11,,75,Unknown 
+"Jul 1, 2006",-,Finland,15699,VPS U19 ,48199,-,Joacim Tuuri,06/07,Finland,1102,VPS 
+"Jan 1, 2014",?,Finland,7315,FC KTP ,73800,-,Pablo Gomez-Marttila,13/14,,75,Unknown 
+"Jan 22, 2013",Free transfer,Finland,8807,PK-35 ,73800,-,Pablo Gomez-Marttila,12/13,Finland,7315,FC KTP 
+"Jan 1, 2011",Free transfer,Finland,8042,FC Inter ,73800,-,Pablo Gomez-Marttila,10/11,Finland,8807,PK-35 
+"Dec 1, 2010",End of loan,Finland,6578,Hämeenlinna ,73800,-,Pablo Gomez-Marttila,10/11,Finland,8042,FC Inter 
+"Aug 1, 2010",Loan,Finland,8042,FC Inter ,73800,25 Th. €,Pablo Gomez-Marttila,10/11,Finland,6578,Hämeenlinna 
+"Jan 1, 2009",Free transfer,Finland,8807,PK-35 ,73800,-,Pablo Gomez-Marttila,08/09,Finland,8042,FC Inter 
+"Jan 1, 2005",?,Finland,75,Unknown ,73800,-,Pablo Gomez-Marttila,04/05,,8807,PK-35 
+"Jan 1, 2016",Free transfer,Finland,1008,HJK Helsinki ,72266,350 Th. €,Rasmus Schüller,15/16,Sweden,1109,BK Häcken 
+"Feb 7, 2012",200 Th. €,Finland,5411,FC Honka ,72266,300 Th. €,Rasmus Schüller,11/12,Finland,1008,HJK Helsinki 
+"Jan 1, 2008",-,Finland,20872,FC Honka U19 ,72266,-,Rasmus Schüller,07/08,Finland,5411,FC Honka 
+"Jan 1, 2015",-,Finland,23777,SJK ,72267,-,Juuso Simpanen,14/15,,123,End of career 
+"Apr 4, 2013",Free transfer,Finland,5411,FC Honka ,72267,250 Th. €,Juuso Simpanen,12/13,Finland,23777,SJK 
+"Jan 1, 2008",-,Finland,20872,FC Honka U19 ,72267,-,Juuso Simpanen,07/08,Finland,5411,FC Honka 
+"Jan 1, 2012",Free transfer,Finland,3776,RoPS ,73805,150 Th. €,Zakaria Abahassine,11/12,Finland,22400,Savonlinnan 
+"Apr 1, 2011",Free transfer,Finland,3779,JJK ,73805,250 Th. €,Zakaria Abahassine,10/11,Finland,3776,RoPS 
+"Jul 1, 2013",-,Luxembourg,21465,Jeunesse Canach ,19640,-,Tomasz Sajdak,13/14,,123,End of career 
+"Jan 7, 2013",?,Denmark,5784,Aarhus Fremad ,19640,-,Tomasz Sajdak,12/13,Luxembourg,21465,Jeunesse Canach 
+"Sep 1, 2012",Free transfer,Germany,222,BFC Dynamo ,19640,-,Tomasz Sajdak,12/13,Denmark,5784,Aarhus Fremad 
+"Feb 1, 2012",Free transfer,Iran,28969,Hormozgan ,19640,50 Th. €,Tomasz Sajdak,11/12,Germany,222,BFC Dynamo 
+"Jan 1, 2010",Free transfer,Bulgaria,675,Slavia Sofia ,19640,50 Th. €,Tomasz Sajdak,09/10,Iran,28969,Hormozgan 
+"Sep 1, 2009",Free transfer,Cyprus,8701,Alki Larnaca ,19640,50 Th. €,Tomasz Sajdak,09/10,Bulgaria,675,Slavia Sofia 
+"Jan 1, 2009",-,Cyprus,515,Unattached ,19640,50 Th. €,Tomasz Sajdak,08/09,,8701,Alki Larnaca 
+"Nov 1, 2008",-,Finland,1008,HJK Helsinki ,19640,50 Th. €,Tomasz Sajdak,08/09,,515,Unattached 
+"Mar 1, 2008",Free transfer,Faroe Island,10537,GI Gota ,19640,50 Th. €,Tomasz Sajdak,07/08,Finland,1008,HJK Helsinki 
+"Feb 1, 2007",Free transfer,Poland,7154,Radomiak ,19640,50 Th. €,Tomasz Sajdak,06/07,Faroe Island,10537,GI Gota 
+"Jun 1, 2006",Free transfer,Poland,2745,Pol. Warsaw ,19640,50 Th. €,Tomasz Sajdak,05/06,Poland,7154,Radomiak 
+"Jan 1, 2006",Free transfer,Poland,2118,Wisla Plock ,19640,50 Th. €,Tomasz Sajdak,05/06,Poland,2745,Pol. Warsaw 
+"Jul 1, 2005",Free transfer,Germany,1263,SC Weyhe ,19640,-,Tomasz Sajdak,05/06,Poland,2118,Wisla Plock 
+"Jul 1, 2004",Free transfer,Germany,139,Kickers Emden ,19640,-,Tomasz Sajdak,04/05,Germany,1263,SC Weyhe 
+"Jul 1, 2003",Free transfer,Germany,1065,Hannover 96 II ,19640,-,Tomasz Sajdak,03/04,Germany,139,Kickers Emden 
+"Jul 1, 2002",Free transfer,Germany,2491,W. Bremen U19 ,19640,-,Tomasz Sajdak,02/03,Germany,1065,Hannover 96 II 
+"Jan 1, 2013",?,Ukraine,75,Unknown ,92754,200 Th. €,Dmytro Voloshyn,12/13,,13017,Kremin 
+"Jan 1, 2011",Free transfer,Finland,6017,IFK Mariehamn ,92754,200 Th. €,Dmytro Voloshyn,10/11,,75,Unknown 
+"Jan 1, 2009",Free transfer,Finland,2965,Norrvalla FF ,92754,-,Dmytro Voloshyn,08/09,Finland,6017,IFK Mariehamn 
+"Jan 1, 2008",?,Ukraine,23611,Olimpik Donetsk ,92754,-,Dmytro Voloshyn,07/08,Finland,2965,Norrvalla FF 
+"Jan 1, 2007",?,Ukraine,8963,Shakhtar II ,92754,-,Dmytro Voloshyn,06/07,Ukraine,23611,Olimpik Donetsk 
+"Jul 1, 2004",-,Ukraine,31606,Shakhtar Donetsk U17 ,92754,-,Dmytro Voloshyn,04/05,Ukraine,8963,Shakhtar II 
+"Jan 1, 2000",?,Ukraine,31205,Olimpik Donetsk U17 ,92754,-,Dmytro Voloshyn,99/00,Ukraine,31606,Shakhtar Donetsk U17 
+"Jan 1, 2016",Free transfer,Gabon,38445,CF Mounana ,91235,200 Th. €,Papa Niang,15/16,Finland,3650,FF Jaro 
+"Jul 1, 2014",?,Kuwait,39460,Al-Shabab ,91235,200 Th. €,Papa Niang,14/15,Gabon,38445,CF Mounana 
+"Jan 30, 2014",Free transfer,Kazakhstan,16780,Vostok Oskemen ,91235,200 Th. €,Papa Niang,13/14,Kuwait,39460,Al-Shabab 
+"Feb 12, 2013",Free transfer,Finland,3650,FF Jaro ,91235,250 Th. €,Papa Niang,12/13,Kazakhstan,16780,Vostok Oskemen 
+"Jan 1, 2009",Free transfer,Finland,7008,AC Oulu ,91235,-,Papa Niang,08/09,Finland,3650,FF Jaro 
+"Mar 8, 2016",-,Finland,515,Unattached ,108634,-,Atte Hoivala,15/16,,6251,KuPS 
+"Jan 1, 2015",-,Finland,2688,MYPA ,108634,75 Th. €,Atte Hoivala,14/15,,515,Unattached 
+"Jan 1, 2014",Free transfer,Finland,1102,VPS ,108634,50 Th. €,Atte Hoivala,13/14,Finland,2688,MYPA 
+"Jan 1, 2013",Free transfer,Finland,6251,KuPS ,108634,50 Th. €,Atte Hoivala,12/13,Finland,1102,VPS 
+"Jan 1, 2009",-,Finland,19331,KuPS U19 ,108634,-,Atte Hoivala,08/09,Finland,6251,KuPS 
+"Jan 1, 2014",Free transfer,Finland,2925,FC Lahti ,73819,400 Th. €,Tommi Kari,13/14,Finland,3779,JJK 
+"Feb 1, 2012",Free transfer,Finland,3779,JJK ,73819,400 Th. €,Tommi Kari,11/12,Finland,2925,FC Lahti 
+"Jan 1, 2005",-,Finland,22542,JJK U19 ,73819,-,Tommi Kari,04/05,Finland,3779,JJK 
+"Jan 1, 2016",-,Finland,17469,FCJ Blackbird ,73820,-,Niko Kautto,15/16,,515,Unattached 
+"Jan 1, 2010",Free transfer,Finland,3779,JJK ,73820,50 Th. €,Niko Kautto,09/10,Finland,17469,FCJ Blackbird 
+"Dec 31, 2009",End of loan,Finland,17469,FCJ Blackbird ,73820,50 Th. €,Niko Kautto,09/10,Finland,3779,JJK 
+"Aug 1, 2009",Loan,Finland,3779,JJK ,73820,50 Th. €,Niko Kautto,09/10,Finland,17469,FCJ Blackbird 
+"Dec 31, 2009",End of loan,Finland,23381,Warkaus JK ,89182,100 Th. €,Joonas Pöntinen,09/10,Finland,6251,KuPS 
+"Jul 1, 2009",Loan,Finland,6251,KuPS ,89182,100 Th. €,Joonas Pöntinen,09/10,Finland,23381,Warkaus JK 
+"Jan 1, 2008",-,Finland,19331,KuPS U19 ,89182,-,Joonas Pöntinen,07/08,Finland,6251,KuPS 
+"Jan 1, 2016",Free transfer,Finland,3650,FF Jaro ,93456,200 Th. €,Jesse Öst,15/16,Sweden,3641,Degerfors 
+"Jan 1, 2009",Free transfer,Finland,21041,Jakobstads BK ,93456,-,Jesse Öst,08/09,Finland,3650,FF Jaro 
+"Jan 1, 2015",Free transfer,Finland,1225,FC Haka ,73827,-,Niko Markkula,14/15,Finland,3779,JJK 
+"Jan 1, 2014",Free transfer,Finland,3779,JJK ,73827,150 Th. €,Niko Markkula,13/14,Finland,1225,FC Haka 
+"Aug 7, 2013",Free transfer,Sweden,22111,Eskilstuna City ,73827,150 Th. €,Niko Markkula,13/14,Finland,3779,JJK 
+"Jan 1, 2013",Free transfer,Finland,3779,JJK ,73827,150 Th. €,Niko Markkula,12/13,Sweden,22111,Eskilstuna City 
+"Jan 1, 2016",Free transfer,Germany,5554,SpVgg Ruhmannsfelden ,87652,-,Jesse Miettinen,15/16,Germany,7895,SC 1919 Zwiesel 
+"Sep 17, 2015",-,Germany,2113,career break ,87652,-,Jesse Miettinen,15/16,,5554,SpVgg Ruhmannsfelden 
+"Jan 1, 2014",Free transfer,Finland,7315,FC KTP ,87652,-,Jesse Miettinen,13/14,,2113,career break 
+"Jan 1, 2011",?,Finland,6251,KuPS ,87652,25 Th. €,Jesse Miettinen,10/11,Finland,7315,FC KTP 
+"Jan 1, 2009",-,Finland,19331,KuPS U19 ,87652,-,Jesse Miettinen,08/09,Finland,6251,KuPS 
+"Jan 1, 2012",Free transfer,Finland,23777,SJK ,73829,-,Petter Meyer,11/12,Finland,17396,Grankulla IFK 
+"Jan 1, 2011",Free transfer,Finland,3650,FF Jaro ,73829,150 Th. €,Petter Meyer,10/11,Finland,23777,SJK 
+"Jan 1, 2009",Free transfer,Finland,17396,Grankulla IFK ,73829,-,Petter Meyer,08/09,Finland,3650,FF Jaro 
+"Jan 1, 2015",Free transfer,Finland,1225,FC Haka ,73834,-,Patrick Poutiainen,14/15,Finland,6251,KuPS 
+"Jan 28, 2014",Free transfer,Finland,3779,JJK ,73834,150 Th. €,Patrick Poutiainen,13/14,Finland,1225,FC Haka 
+"Jan 1, 2015",Free transfer,Finland,36669,EsPa ,64530,25 Th. €,Fredrik Appel,14/15,Finland,51477,FC Aland 
+"Feb 19, 2013",Free transfer,Sweden,23146,Sunds IF ,64530,25 Th. €,Fredrik Appel,12/13,Finland,36669,EsPa 
+"Jan 1, 2011",Free transfer,Finland,6017,IFK Mariehamn ,64530,25 Th. €,Fredrik Appel,10/11,Sweden,23146,Sunds IF 
+"Jan 1, 2013",-,Finland,3779,JJK ,73839,-,Mihály Szeróvay,12/13,,123,End of career 
+"Jun 30, 2012",End of loan,Finland,6578,Hämeenlinna ,73839,50 Th. €,Mihály Szeróvay,11/12,Finland,3779,JJK 
+"May 29, 2012",Loan,Finland,3779,JJK ,73839,50 Th. €,Mihály Szeróvay,11/12,Finland,6578,Hämeenlinna 
+"May 28, 2012",End of loan,Finland,1225,FC Haka ,73839,50 Th. €,Mihály Szeróvay,11/12,Finland,3779,JJK 
+"Apr 4, 2012",Loan,Finland,3779,JJK ,73839,50 Th. €,Mihály Szeróvay,11/12,Finland,1225,FC Haka 
+"Sep 1, 2010",End of loan,Finland,21520,Mikkelin ,73839,300 Th. €,Mihály Szeróvay,10/11,Finland,3779,JJK 
+"Aug 1, 2010",Loan,Finland,3779,JJK ,73839,400 Th. €,Mihály Szeróvay,10/11,Finland,21520,Mikkelin 
+"Jan 1, 2014",Free transfer,Finland,21520,Mikkelin ,73840,200 Th. €,Antto Tapaninen,13/14,Finland,3779,JJK 
+"Mar 8, 2013",Free transfer,Finland,3779,JJK ,73840,200 Th. €,Antto Tapaninen,12/13,Finland,21520,Mikkelin 
+"Jan 1, 2014",?,Finland,6017,IFK Mariehamn ,73844,350 Th. €,Jarkko Värttö,13/14,,75,Unknown 
+"Apr 1, 2011",Free transfer,Finland,8045,Tampere United ,73844,150 Th. €,Jarkko Värttö,10/11,Finland,6017,IFK Mariehamn 
+"Jan 1, 2011",Free transfer,Finland,2925,FC Lahti ,73844,150 Th. €,Jarkko Värttö,10/11,Finland,8045,Tampere United 
+"Jan 1, 2010",?,Finland,5411,FC Honka ,73844,50 Th. €,Jarkko Värttö,09/10,Finland,2925,FC Lahti 
+"Dec 1, 2009",End of loan,Finland,2925,FC Lahti ,73844,50 Th. €,Jarkko Värttö,09/10,Finland,5411,FC Honka 
+"Aug 1, 2009",Loan,Finland,5411,FC Honka ,73844,50 Th. €,Jarkko Värttö,09/10,Finland,2925,FC Lahti 
+"Jan 1, 2009",Free transfer,Finland,17396,Grankulla IFK ,73844,-,Jarkko Värttö,08/09,Finland,5411,FC Honka 
+"Jan 1, 2015",?,Finland,3780,FC Kuusankoski ,96617,50 Th. €,Niko Nakari,14/15,Finland,29003,Sudet Kouvola 
+"Jan 1, 2010",Free transfer,Finland,2688,MYPA ,96617,50 Th. €,Niko Nakari,09/10,Finland,3780,FC Kuusankoski 
+"Dec 1, 2009",End of loan,Finland,3780,FC Kuusankoski ,96617,50 Th. €,Niko Nakari,09/10,Finland,2688,MYPA 
+"Aug 1, 2009",Loan,Finland,2688,MYPA ,96617,50 Th. €,Niko Nakari,09/10,Finland,3780,FC Kuusankoski 
+"Jan 1, 2009",Free transfer,Finland,3780,FC Kuusankoski ,96617,-,Niko Nakari,08/09,Finland,2688,MYPA 
+"Jan 1, 2010",Free transfer,Finland,1102,VPS ,73911,350 Th. €,Lawrence Smith,09/10,Finland,11130,GBK 
+"Jan 1, 2009",Free transfer,Finland,8043,Kokkolan PV ,73911,50 Th. €,Lawrence Smith,08/09,Finland,1102,VPS 
+"Jan 1, 2007",Free transfer,Jamaica,1178,Harbour View ,73911,-,Lawrence Smith,06/07,Finland,8043,Kokkolan PV 
+"Aug 1, 2006",Free transfer,United States,4115,Charleston ,73911,-,Lawrence Smith,06/07,Jamaica,1178,Harbour View 
+"May 1, 2006",Free transfer,United States,75,Unknown ,73911,-,Lawrence Smith,05/06,,4115,Charleston 
+"Jul 1, 2016",-,Australia,515,Unattached ,61566,250 Th. €,Wayne Brown,16/17,,5551,Newcastle 
+"Mar 11, 2016",-,Finland,23777,SJK ,61566,250 Th. €,Wayne Brown,15/16,,515,Unattached 
+"Jun 7, 2014",?,Finland,2275,TPS ,61566,350 Th. €,Wayne Brown,13/14,Finland,23777,SJK 
+"Jan 1, 2013",Free transfer,England,2455,Bristol Rovers ,61566,500 Th. €,Wayne Brown,12/13,Finland,2275,TPS 
+"Jul 1, 2010",Free transfer,England,931,Fulham FC ,61566,"1,50 Mill. €",Wayne Brown,10/11,England,2455,Bristol Rovers 
+"Mar 1, 2010",End of loan,England,2455,Bristol Rovers ,61566,"1,50 Mill. €",Wayne Brown,09/10,England,931,Fulham FC 
+"Feb 1, 2010",Loan,England,931,Fulham FC ,61566,"1,50 Mill. €",Wayne Brown,09/10,England,2455,Bristol Rovers 
+"Nov 1, 2009",End of loan,Finland,2275,TPS ,61566,800 Th. €,Wayne Brown,09/10,England,931,Fulham FC 
+"Apr 1, 2009",Loan,England,931,Fulham FC ,61566,150 Th. €,Wayne Brown,08/09,Finland,2275,TPS 
+"May 1, 2008",End of loan,England,1148,Brentford ,61566,-,Wayne Brown,07/08,England,931,Fulham FC 
+"Feb 1, 2008",Loan,England,931,Fulham FC ,61566,-,Wayne Brown,07/08,England,1148,Brentford 
+"Jul 1, 2007",-,England,6942,Fulham FC U18 ,61566,-,Wayne Brown,07/08,England,931,Fulham FC 
+"Jan 1, 2016",Free transfer,Finland,1102,VPS ,47747,100 Th. €,Tony Björk,15/16,Finland,11134,Vaasa IFK 
+"Aug 18, 2012",End of loan,Finland,11134,Vaasa IFK ,47747,150 Th. €,Tony Björk,12/13,Finland,1102,VPS 
+"Aug 8, 2012",Loan,Finland,1102,VPS ,47747,150 Th. €,Tony Björk,12/13,Finland,11134,Vaasa IFK 
+"Jan 1, 2008",Free transfer,Finland,11134,Vaasa IFK ,47747,215 Th. €,Tony Björk,07/08,Finland,1102,VPS 
+"Jan 1, 2016",Free transfer,Finland,3781,FC YPA Ylivieska ,95425,-,Juho Alasuutari,15/16,Finland,11130,GBK 
+"Jan 1, 2010",Free transfer,Finland,1102,VPS ,95425,50 Th. €,Juho Alasuutari,09/10,Finland,3781,FC YPA Ylivieska 
+"Sep 1, 2009",End of loan,Finland,3781,FC YPA Ylivieska ,95425,50 Th. €,Juho Alasuutari,09/10,Finland,1102,VPS 
+"Jul 1, 2009",Loan,Finland,1102,VPS ,95425,-,Juho Alasuutari,09/10,Finland,3781,FC YPA Ylivieska 
+"Jan 1, 2009",Free transfer,Finland,3781,FC YPA Ylivieska ,95425,-,Juho Alasuutari,08/09,Finland,1102,VPS 
+"Jan 1, 2015",?,Finland,11134,Vaasa IFK ,47752,-,Rikard Lindroos,14/15,,75,Unknown 
+"Jan 1, 2012",Free transfer,Norway,30721,Elverum Fotball ,47752,100 Th. €,Rikard Lindroos,11/12,Finland,11134,Vaasa IFK 
+"Jan 1, 2011",Free transfer,Finland,11134,Vaasa IFK ,47752,100 Th. €,Rikard Lindroos,10/11,Norway,30721,Elverum Fotball 
+"Jan 1, 2010",Free transfer,Finland,1102,VPS ,47752,100 Th. €,Rikard Lindroos,09/10,Finland,11134,Vaasa IFK 
+"Jan 1, 2009",Free transfer,Finland,11134,Vaasa IFK ,47752,50 Th. €,Rikard Lindroos,08/09,Finland,1102,VPS 
+"Jan 1, 2015",-,Finland,35804,Turun Toverit ,88258,-,Jaakko Ruuskanen,14/15,,515,Unattached 
+"Jan 1, 2012",Free transfer,Finland,3189,Ilves ,88258,-,Jaakko Ruuskanen,11/12,Finland,35804,Turun Toverit 
+"Jan 1, 2011",-,Finland,6017,IFK Mariehamn ,37523,350 Th. €,Ante Simunac,10/11,,123,End of career 
+"Jan 1, 2009",Free transfer,Russia,2741,Baltika ,37523,100 Th. €,Ante Simunac,08/09,Finland,6017,IFK Mariehamn 
+"Jul 1, 2008",Free transfer,Croatia,918,Inter Zapresic ,37523,100 Th. €,Ante Simunac,08/09,Russia,2741,Baltika 
+"Jan 1, 2008",Free transfer,Turkey,1467,Göztepe ,37523,-,Ante Simunac,07/08,Croatia,918,Inter Zapresic 
+"Jan 1, 2006",Free transfer,Germany,3676,Anker Wismar ,37523,-,Ante Simunac,05/06,Turkey,1467,Göztepe 
+"Jul 1, 2005",Free transfer,Germany,1216,FC Ismaning ,37523,-,Ante Simunac,05/06,Germany,3676,Anker Wismar 
+"Jul 1, 2003",Free transfer,Germany,28,FC Bayern II ,37523,-,Ante Simunac,03/04,Germany,1216,FC Ismaning 
+"Jul 1, 2002",-,Germany,1462,FC Bayern U19 ,37523,-,Ante Simunac,02/03,Germany,28,FC Bayern II 
+"Jan 1, 2016",-,Finland,8042,FC Inter ,96405,50 Th. €,Eemeli Reponen,15/16,,515,Unattached 
+"Apr 1, 2015",?,Finland,22166,Kotka TP ,96405,-,Eemeli Reponen,14/15,Finland,8042,FC Inter 
+"Jan 1, 2013",Free transfer,Finland,8042,FC Inter ,96405,150 Th. €,Eemeli Reponen,12/13,Finland,22166,Kotka TP 
+"Dec 31, 2011",End of loan,Finland,20956,Lohjan Pallo ,96405,100 Th. €,Eemeli Reponen,11/12,Finland,8042,FC Inter 
+"May 1, 2011",Loan,Finland,8042,FC Inter ,96405,100 Th. €,Eemeli Reponen,10/11,Finland,20956,Lohjan Pallo 
+"Jan 1, 2009",Free transfer,Finland,15697,TPS U19 ,96405,-,Eemeli Reponen,08/09,Finland,8042,FC Inter 
+"Jan 1, 2007",?,Finland,40226,Jazz U19 ,96405,-,Eemeli Reponen,06/07,Finland,15697,TPS U19 
+"Feb 1, 2012",Free transfer,Sweden,22164,IK Sleipner ,36506,400 Th. €,Arsim Gashi,11/12,Sweden,8854,Assyriska BK 
+"Aug 1, 2011",Free transfer,Sweden,17381,Motala AIF FK ,36506,400 Th. €,Arsim Gashi,11/12,Sweden,22164,IK Sleipner 
+"Jan 1, 2011",Free transfer,Sweden,75,Unknown ,36506,400 Th. €,Arsim Gashi,10/11,,17381,Motala AIF FK 
+"Jan 1, 2010",Free transfer,Finland,6017,IFK Mariehamn ,36506,300 Th. €,Arsim Gashi,09/10,,75,Unknown 
+"Jan 1, 2009",Free transfer,Sweden,17381,Motala AIF FK ,36506,-,Arsim Gashi,08/09,Finland,6017,IFK Mariehamn 
+"Apr 1, 2007",?,Sweden,3608,IFK Stockholm ,36506,-,Arsim Gashi,06/07,Sweden,17381,Motala AIF FK 
+"Aug 1, 2006",Free transfer,Germany,3676,Anker Wismar ,36506,-,Arsim Gashi,06/07,Sweden,3608,IFK Stockholm 
+"Jan 1, 2006",Free transfer,Sweden,6139,Atvidabergs FF ,36506,50 Th. €,Arsim Gashi,05/06,Germany,3676,Anker Wismar 
+"Jan 1, 2004",?,Sweden,7401,Västerviks FF ,36506,-,Arsim Gashi,03/04,Sweden,6139,Atvidabergs FF 
+"Jan 1, 2016",-,Finland,23564,IF Gnistan ,47780,-,Nicolas Kivistö,15/16,,515,Unattached 
+"Jan 1, 2014",?,Finland,11149,Atlantis FC ,47780,-,Nicolas Kivistö,13/14,Finland,23564,IF Gnistan 
+"Jan 1, 2013",Free transfer,Finland,22298,FC Kiffen 08 ,47780,-,Nicolas Kivistö,12/13,Finland,11149,Atlantis FC 
+"Jun 7, 2012",Free transfer,Finland,20924,HIFK ,47780,-,Nicolas Kivistö,11/12,Finland,22298,FC Kiffen 08 
+"Jan 1, 2012",Free transfer,Finland,8807,PK-35 ,47780,50 Th. €,Nicolas Kivistö,11/12,Finland,20924,HIFK 
+"Jan 1, 2011",Free transfer,Finland,22222,SoVo ,47780,50 Th. €,Nicolas Kivistö,10/11,Finland,8807,PK-35 
+"Jan 1, 2010",Free transfer,Finland,23564,IF Gnistan ,47780,50 Th. €,Nicolas Kivistö,09/10,Finland,22222,SoVo 
+"Aug 1, 2009",Free transfer,Finland,1225,FC Haka ,47780,50 Th. €,Nicolas Kivistö,09/10,Finland,23564,IF Gnistan 
+"Jan 1, 2009",Free transfer,Finland,11056,FC Viikingit ,47780,50 Th. €,Nicolas Kivistö,08/09,Finland,1225,FC Haka 
+"Jan 1, 2008",Free transfer,Finland,11131,Klubi-04 ,47780,-,Nicolas Kivistö,07/08,Finland,11056,FC Viikingit 
+"Jan 1, 2005",-,Finland,15665,HJK U19 ,47780,-,Nicolas Kivistö,04/05,Finland,11131,Klubi-04 
+"Aug 4, 2015",200 Th. €,Norway,5619,Aalesunds FK ,47781,500 Th. €,Sakari Mattila,15/16,England,931,Fulham FC 
+"Jan 1, 2014",Free transfer,Finland,1008,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,13/14,Norway,5619,Aalesunds FK 
+"May 28, 2013",Free transfer,Switzerland,2047,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,12/13,Finland,1008,HJK Helsinki 
+"Dec 31, 2012",End of loan,Finland,1008,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,12/13,Switzerland,2047,AC Bellinzona 
+"Aug 5, 2012",Loan,Switzerland,2047,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,12/13,Finland,1008,HJK Helsinki 
+"Jul 1, 2011",?,Italy,410,Udinese Calcio ,47781,250 Th. €,Sakari Mattila,11/12,Switzerland,2047,AC Bellinzona 
+"Jun 30, 2011",End of loan,Switzerland,2047,AC Bellinzona ,47781,250 Th. €,Sakari Mattila,10/11,Italy,410,Udinese Calcio 
+"Jul 1, 2010",Loan,Italy,410,Udinese Calcio ,47781,250 Th. €,Sakari Mattila,10/11,Switzerland,2047,AC Bellinzona 
+"Jun 30, 2010",End of loan,Italy,408,Ascoli ,47781,250 Th. €,Sakari Mattila,09/10,Italy,410,Udinese 
+"Jul 1, 2009",Loan,Italy,410,Udinese ,47781,250 Th. €,Sakari Mattila,09/10,Italy,408,Ascoli 
+"Jan 1, 2009",800 Th. €,Finland,1008,HJK Helsinki ,47781,250 Th. €,Sakari Mattila,08/09,Italy,410,Udinese 
+"Jan 1, 2008",-,Finland,15665,HJK U19 ,47781,-,Sakari Mattila,07/08,Finland,1008,HJK Helsinki 
+"Jan 1, 2011",-,Finland,10786,FC Popa ,100014,-,Jeferson Pires,10/11,,123,End of career 
+"Aug 1, 2010",-,Finland,515,Unattached ,100014,75 Th. €,Jeferson Pires,10/11,,10786,FC Popa 
+"Jan 1, 2010",-,Finland,3776,RoPS ,100014,75 Th. €,Jeferson Pires,09/10,,515,Unattached 
+"Dec 1, 2009",End of loan,Finland,20937,FC Oulun Pallo ,100014,75 Th. €,Jeferson Pires,09/10,Finland,3776,RoPS 
+"Aug 1, 2009",Loan,Finland,3776,RoPS ,100014,75 Th. €,Jeferson Pires,09/10,Finland,20937,FC Oulun Pallo 
+"Jan 1, 2009",Free transfer,Brazil,3330,Joinville ,100014,-,Jeferson Pires,08/09,Finland,3776,RoPS 
+"Jan 1, 2008",Free transfer,Finland,12942,OPS-jp ,100014,-,Jeferson Pires,07/08,Brazil,3330,Joinville 
+"Jan 1, 2006",Free transfer,Finland,7008,AC Oulu ,100014,-,Jeferson Pires,05/06,Finland,12942,OPS-jp 
+"Jan 1, 2001",Free transfer,Finland,304,FC Jazz Pori ,100014,-,Jeferson Pires,00/01,Finland,7008,AC Oulu 
+"Mar 3, 2016",-,Turkey,3207,Boluspor ,94579,300 Th. €,Tosaint Ricketts,15/16,,515,Unattached 
+"Aug 7, 2015",Free transfer,Israel,810,Hapoel Haifa ,94579,300 Th. €,Tosaint Ricketts,15/16,Turkey,3207,Boluspor 
+"Jul 17, 2014",-,Israel,515,Unattached ,94579,400 Th. €,Tosaint Ricketts,14/15,,810,Hapoel Haifa 
+"Apr 28, 2014",-,Turkey,2750,Bucaspor ,94579,300 Th. €,Tosaint Ricketts,13/14,,515,Unattached 
+"Sep 6, 2013",?,Norway,13025,Sandnes Ulf ,94579,200 Th. €,Tosaint Ricketts,13/14,Turkey,2750,Bucaspor 
+"Jan 9, 2013",Free transfer,Norway,76,Valerenga ,94579,200 Th. €,Tosaint Ricketts,12/13,Norway,13025,Sandnes Ulf 
+"Aug 31, 2012",Free transfer,Romania,7074,Poli. Timisoara ,94579,550 Th. €,Tosaint Ricketts,12/13,Norway,76,Valerenga 
+"Jan 1, 2011",Free transfer,Finland,2688,MYPA ,94579,300 Th. €,Tosaint Ricketts,10/11,Romania,7074,Poli. Timisoara 
+"Mar 1, 2009",?,United States,21168,Badgers ,94579,-,Tosaint Ricketts,08/09,Finland,2688,MYPA 
+"Feb 9, 2016",Free transfer,Finland,6017,IFK Mariehamn ,73908,600 Th. €,Petteri Forsell,15/16,Poland,8936,Miedz Legnica 
+"Jan 31, 2014",-,Finland,515,Unattached ,73908,500 Th. €,Petteri Forsell,13/14,,6017,IFK Mariehamn 
+"Aug 22, 2013",-,Turkey,20,Bursaspor ,73908,500 Th. €,Petteri Forsell,13/14,,515,Unattached 
+"Aug 14, 2013",End of loan,Finland,6017,IFK Mariehamn ,73908,500 Th. €,Petteri Forsell,13/14,Turkey,20,Bursaspor 
+"Mar 11, 2013",Loan,Turkey,20,Bursaspor ,73908,500 Th. €,Petteri Forsell,12/13,Finland,6017,IFK Mariehamn 
+"Aug 8, 2012",500 Th. €,Finland,6017,IFK Mariehamn ,73908,550 Th. €,Petteri Forsell,12/13,Turkey,20,Bursaspor 
+"Jan 1, 2010",?,Finland,1102,VPS ,73908,300 Th. €,Petteri Forsell,09/10,Finland,6017,IFK Mariehamn 
+"Dec 1, 2009",End of loan,Finland,24290,Virkiä ,73908,300 Th. €,Petteri Forsell,09/10,Finland,1102,VPS 
+"Aug 1, 2009",Loan,Finland,1102,VPS ,73908,300 Th. €,Petteri Forsell,09/10,Finland,24290,Virkiä 
+"Jan 1, 2009",Free transfer,Finland,8043,Kokkolan PV ,73908,50 Th. €,Petteri Forsell,08/09,Finland,1102,VPS 
+"Apr 19, 2016",?,Mexico,30111,Oaxaca ,71168,-,Alberto Ramírez,15/16,Finland,26738,AC Kajaani 
+"Jul 1, 2015",?,Mexico,9980,Zacatepec ,71168,-,Alberto Ramírez,15/16,Mexico,30111,Oaxaca 
+"Jul 1, 2011",?,Mexico,4565,Estudiantes ,71168,500 Th. €,Alberto Ramírez,11/12,Mexico,12292,Indios 
+"Jan 1, 2010",Free transfer,Finland,8042,FC Inter ,71168,400 Th. €,Alberto Ramírez,09/10,Mexico,4565,UAG Tecos 
+"Mar 1, 2009",?,Mexico,4565,UAG Tecos ,71168,-,Alberto Ramírez,08/09,Finland,8042,FC Inter 
+"Dec 1, 2003",-,Mexico,25494,Estudiantes U19 ,71168,-,Alberto Ramírez,03/04,Mexico,4565,UAG Tecos 
+"Jan 1, 2012",Free transfer,Sweden,13427,Akropolis IF ,27337,450 Th. €,Alexandros Pappas,11/12,,75,Unknown 
+"Jan 1, 2010",Free transfer,Finland,6017,IFK Mariehamn ,27337,450 Th. €,Alexandros Pappas,09/10,Sweden,13427,Akropolis IF 
+"Apr 1, 2009",-,Finland,515,Unattached ,27337,100 Th. €,Alexandros Pappas,08/09,,6017,IFK Mariehamn 
+"Jul 1, 2008",-,France,1416,SC Amiens ,27337,100 Th. €,Alexandros Pappas,08/09,,515,Unattached 
+"Jan 1, 2008",Free transfer,Sweden,1118,Örgryte ,27337,-,Alexandros Pappas,07/08,France,1416,SC Amiens 
+"Jan 1, 2007",?,Sweden,7411,Jönköping ,27337,-,Alexandros Pappas,06/07,Sweden,1118,Örgryte 
+"Jul 1, 2005",Free transfer,Sweden,4380,Assyriska FF ,27337,-,Alexandros Pappas,05/06,Sweden,7411,Jönköping 
+"Nov 12, 2013",Free transfer,Iceland,1839,KA ,47288,150 Th. €,Brian Gilmour,13/14,Scotland,1192,Ayr United 
+"Jul 26, 2011",Free transfer,Scotland,3012,Stenhousemuir ,47288,200 Th. €,Brian Gilmour,11/12,Iceland,1839,KA 
+"Mar 1, 2011",-,Scotland,515,Unattached ,47288,200 Th. €,Brian Gilmour,10/11,,3012,Stenhousemuir 
+"Jul 1, 2010",-,England,1198,Lincoln City ,47288,200 Th. €,Brian Gilmour,10/11,,515,Unattached 
+"Nov 1, 2009",-,England,515,Unattached ,47288,250 Th. €,Brian Gilmour,09/10,,1198,Lincoln City 
+"May 1, 2009",-,Finland,1225,FC Haka ,47288,250 Th. €,Brian Gilmour,08/09,,515,Unattached 
+"Jul 1, 2008",Free transfer,Scotland,3001,Queen o. t. S. ,47288,-,Brian Gilmour,08/09,Finland,1225,FC Haka 
+"Jul 1, 2007",Free transfer,Scotland,2575,Clyde ,47288,-,Brian Gilmour,07/08,Scotland,3001,Queen o. t. S. 
+"Feb 1, 2007",Free transfer,Scotland,124,Rangers ,47288,-,Brian Gilmour,06/07,Scotland,2575,Clyde 
+"Jul 1, 2006",-,Scotland,7112,Rangers U20 ,47288,-,Brian Gilmour,06/07,Scotland,124,Rangers 
+"Jul 1, 2004",-,Scotland,31029,Glasgow Rangers U17 ,47288,-,Brian Gilmour,04/05,Scotland,7112,Rangers U20 
+"Jan 1, 2014",-,Finland,2925,FC Lahti ,103609,-,Toni Huuhka,13/14,,123,End of career 
+"Sep 5, 2013",End of loan,Finland,10493,FC Kuusysi ,103609,-,Toni Huuhka,11/12,Finland,2925,FC Lahti 
+"Jan 1, 2012",Loan,Finland,2925,FC Lahti ,103609,-,Toni Huuhka,11/12,Finland,10493,FC Kuusysi 
+"Oct 1, 2012",?,Australia,29855,Cockburn City SC ,43194,500 Th. €,Adrian Webster,12/13,England,4081,Bishop Auckland 
+"Jan 1, 2011",?,England,4310,Blyth Spartans ,43194,500 Th. €,Adrian Webster,10/11,Australia,29855,Cockburn City SC 
+"Jan 1, 2009",Free transfer,Finland,6251,KuPS ,43194,500 Th. €,Adrian Webster,08/09,England,4310,Blyth Spartans 
+"Aug 1, 2008",?,Finland,2688,MYPA ,43194,-,Adrian Webster,08/09,Finland,6251,KuPS 
+"Jan 1, 2008",Free transfer,England,4310,Blyth Spartans ,43194,-,Adrian Webster,07/08,Finland,2688,MYPA 
+"Oct 1, 2007",?,England,4080,Workington AFC ,43194,-,Adrian Webster,07/08,England,4310,Blyth Spartans 
+"Mar 1, 2007",?,Australia,970,Perth Glory ,43194,-,Adrian Webster,06/07,Australia,11375,Blacktown City Demons 
+"Jan 1, 2007",?,England,1089,Darlington ,43194,-,Adrian Webster,06/07,Australia,970,Perth Glory 
+"Sep 1, 2006",?,Australia,11375,Blacktown City Demons ,43194,-,Adrian Webster,06/07,England,4080,Workington AFC 
+"Jan 1, 2004",?,Australia,15316,St. George Saints ,43194,-,Adrian Webster,03/04,England,1089,Darlington 
+"Jan 1, 2003",?,England,7047,Maidstone United ,43194,-,Adrian Webster,02/03,Australia,15316,St. George Saints 
+"Jan 1, 2001",?,England,2998,Margate FC ,43194,-,Adrian Webster,00/01,England,7047,Maidstone United 
+"Jan 1, 2000",?,England,1060,Colchester Utd. ,43194,-,Adrian Webster,99/00,England,2998,Margate FC 
+"Jan 1, 1999",?,England,358,Charlton ,43194,-,Adrian Webster,98/99,England,1060,Colchester Utd. 
+"Jul 3, 2014",300 Th. €,Germany,65,Greuther Fürth ,13258,"1,00 Mill. €",Tim Sparv,14/15,Denmark,865,FC Midtjylland 
+"Jul 1, 2013",Free transfer,Netherlands,202,FC Groningen ,13258,"1,50 Mill. €",Tim Sparv,13/14,Germany,65,Greuther Fürth 
+"Jan 1, 2010",Free transfer,Sweden,1011,Halmstads BK ,13258,800 Th. €,Tim Sparv,09/10,Netherlands,202,FC Groningen 
+"Jun 30, 2008",End of loan,Finland,1102,VPS ,13258,200 Th. €,Tim Sparv,07/08,Sweden,1011,Halmstads BK 
+"May 1, 2008",Loan,Sweden,1011,Halmstads BK ,13258,200 Th. €,Tim Sparv,07/08,Finland,1102,VPS 
+"Jan 7, 2007",?,England,180,Southampton ,13258,200 Th. €,Tim Sparv,06/07,Sweden,1011,Halmstads BK 
+"Jul 1, 2006",-,England,6893,Southampton U18 ,13258,200 Th. €,Tim Sparv,06/07,England,180,Southampton 
+"Jul 1, 2003",Free transfer,Finland,2965,Norrvalla FF ,13258,-,Tim Sparv,03/04,England,6893,Southampton U18 
+"Jul 1, 2016",-,Russia,3725,Terek Grozny ,88257,200 Th. €,Juhani Ojala,16/17,,515,Unattached 
+"Dec 31, 2015",End of loan,Finland,1008,HJK Helsinki ,88257,200 Th. €,Juhani Ojala,15/16,Russia,3725,Terek Grozny 
+"Jul 29, 2015",Loan,Russia,3725,Terek Grozny ,88257,500 Th. €,Juhani Ojala,15/16,Finland,1008,HJK Helsinki 
+"Feb 12, 2013",500 Th. €,Switzerland,452,BSC Young Boys ,88257,350 Th. €,Juhani Ojala,12/13,Russia,3725,Terek Grozny 
+"Aug 1, 2011",600 Th. €,Finland,1008,HJK Helsinki ,88257,600 Th. €,Juhani Ojala,11/12,Switzerland,452,BSC Young Boys 
+"Jun 1, 2009",-,Finland,11131,Klubi-04 ,88257,50 Th. €,Juhani Ojala,08/09,Finland,1008,HJK Helsinki 
+"Jan 1, 2009",-,Finland,1008,HJK Helsinki ,88257,50 Th. €,Juhani Ojala,08/09,Finland,11131,Klubi-04 
+"Sep 1, 2008",-,Finland,11131,Klubi-04 ,88257,-,Juhani Ojala,08/09,Finland,1008,HJK Helsinki 
+"Jan 1, 2008",-,Finland,15665,HJK U19 ,88257,-,Juhani Ojala,07/08,Finland,11131,Klubi-04 
+"Jul 12, 2015",Free transfer,Albania,27116,FK Kukësi ,66754,150 Th. €,Yll Hoxha,15/16,Albania,12460,FC Flamurtari 
+"Jul 1, 2012",50 Th. €,Kosovo,27108,KF Hysi ,66754,50 Th. €,Yll Hoxha,12/13,Albania,27116,FK Kukësi 
+"Jan 1, 2010",?,Finland,2275,TPS ,66754,100 Th. €,Yll Hoxha,09/10,Kosovo,27108,KF Hysi 
+"May 1, 2009",Free transfer,Kosovo,1918,FC Prishtina ,66754,100 Th. €,Yll Hoxha,08/09,Finland,2275,TPS 
+"Jul 1, 2005",-,Kosovo,20309,KF Pristina U19 ,66754,-,Yll Hoxha,05/06,Kosovo,1918,FC Prishtina 
+"Jan 1, 2015",Free transfer,Finland,1225,FC Haka ,88259,-,Juuso Salonen,14/15,Finland,7315,FC KTP 
+"Aug 1, 2010",End of loan,Finland,10786,FC Popa ,88259,50 Th. €,Juuso Salonen,10/11,Finland,1225,FC Haka 
+"Jul 1, 2010",Loan,Finland,1225,FC Haka ,88259,50 Th. €,Juuso Salonen,10/11,Finland,10786,FC Popa 
+"Jan 1, 2010",-,Finland,8808,FC Haka U19 ,88259,50 Th. €,Juuso Salonen,09/10,Finland,1225,FC Haka 
+"Jan 1, 2013",Free transfer,Finland,2925,FC Lahti ,88260,100 Th. €,Jukka Veltheim,12/13,,75,Unknown 
+"Jan 1, 2011",Free transfer,Finland,7315,FC KTP ,88260,-,Jukka Veltheim,10/11,Finland,2925,FC Lahti 
+"Jan 1, 2010",Free transfer,Finland,2925,FC Lahti ,88260,50 Th. €,Jukka Veltheim,09/10,Finland,7315,FC KTP 
+"Jul 1, 2008",Free transfer,Finland,24460,FC City Stars ,88260,-,Jukka Veltheim,08/09,Finland,2925,FC Lahti 
+"Jan 1, 2009",Free transfer,Finland,3779,JJK ,47817,50 Th. €,Teemu Pulkkinen,08/09,Finland,22400,Savonlinnan 
+"Jan 1, 2008",Free transfer,Finland,10528,JIPPO ,47817,-,Teemu Pulkkinen,07/08,Finland,3779,JJK 
+"Jan 1, 2016",Free transfer,Sweden,23146,Sunds IF ,103626,25 Th. €,Jimmy Sundman,15/16,Finland,51477,FC Aland 
+"Jan 1, 2012",Free transfer,Finland,6017,IFK Mariehamn ,103626,25 Th. €,Jimmy Sundman,11/12,Sweden,23146,Sunds IF 
+"Jan 1, 2010",Free transfer,Sweden,23146,Sunds IF ,103626,50 Th. €,Jimmy Sundman,09/10,Finland,6017,IFK Mariehamn 
+"Jan 1, 2011",-,Finland,1008,HJK Helsinki ,100044,300 Th. €,Johannes Westö,10/11,,123,End of career 
+"Jan 1, 2010",-,Finland,11131,Klubi-04 ,100044,-,Johannes Westö,09/10,Finland,1008,HJK Helsinki 
+"Jan 1, 2009",-,Finland,15665,HJK U19 ,100044,-,Johannes Westö,08/09,Finland,11131,Klubi-04 
+"Feb 1, 2016",Free transfer,Russia,4057,Luch-Energia ,89812,300 Th. €,Maksim Votinov,15/16,Slovakia,13744,MFK Zemplin Michalovce 
+"Jul 18, 2015",Free transfer,Russia,40426,Tosno ,89812,400 Th. €,Maksim Votinov,15/16,Russia,4057,Luch-Energia 
+"Jan 13, 2015",?,Russia,3729,Arsenal Tula ,89812,650 Th. €,Maksim Votinov,14/15,Russia,40426,Tosno 
+"Jul 1, 2014",Free transfer,Russia,2741,Baltika ,89812,650 Th. €,Maksim Votinov,14/15,Russia,3729,Arsenal Tula 
+"Jan 1, 2012",Free transfer,Finland,2688,MYPA ,89812,300 Th. €,Maksim Votinov,11/12,Russia,2741,Baltika 
+"Sep 1, 2009",End of loan,Finland,21520,Mikkelin ,89812,250 Th. €,Maksim Votinov,09/10,Finland,2688,MYPA 
+"Aug 1, 2009",Loan,Finland,2688,MYPA ,89812,250 Th. €,Maksim Votinov,09/10,Finland,21520,Mikkelin 
+"Jan 1, 2009",Free transfer,Finland,3780,FC Kuusankoski ,89812,50 Th. €,Maksim Votinov,08/09,Finland,2688,MYPA 
+"Jul 1, 2008",Free transfer,Switzerland,8126,Yverdon-Sports FC II (U21) ,89812,-,Maksim Votinov,08/09,Finland,3780,FC Kuusankoski 
+"Jan 1, 2008",Free transfer,Russia,14308,Akademia Zenit St. Petersburg ,89812,-,Maksim Votinov,07/08,Switzerland,8126,Yverdon-Sports FC II (U21) 
+"Feb 12, 2016",Free transfer,Hungary,213,Vác ,47298,50 Th. €,Balázs Balogh,15/16,Hungary,29758,Felsötárkány 
+"Jul 29, 2015",Free transfer,Hungary,24032,Mezőkövesd ,47298,-,Balázs Balogh,15/16,Hungary,213,Vác 
+"Aug 12, 2014",Free transfer,Finland,3189,Ilves ,47298,-,Balázs Balogh,14/15,Hungary,24032,Mezőkövesd 
+"Feb 12, 2014",-,Finland,515,Unattached ,47298,150 Th. €,Balázs Balogh,13/14,,3189,Ilves 
+"Jun 5, 2013",-,Hungary,7682,Lombard Pápa  ,47298,150 Th. €,Balázs Balogh,12/13,,515,Unattached 
+"Jan 1, 2012",Free transfer,Finland,6251,KuPS ,47298,350 Th. €,Balázs Balogh,11/12,Hungary,7682,Lombard Pápa  
+"Jul 19, 2009",Free transfer,Germany,778,1.FC Pforzheim ,47298,400 Th. €,Balázs Balogh,07/08,Hungary,3395,FC Tatabánya 
+"Apr 1, 2009",Free transfer,Hungary,3395,FC Tatabánya ,47298,-,Balázs Balogh,08/09,Finland,6251,KuPS 
+"Jan 1, 2007",Free transfer,Hungary,42712,Maglódi TC ,47298,-,Balázs Balogh,06/07,Germany,778,1.FC Pforzheim 
+"Feb 19, 2006",Free transfer,Hungary,75,Unknown ,47298,-,Balázs Balogh,05/06,,42712,Maglódi TC 
+"Jul 21, 2003",Free transfer,Hungary,28981,Pilisvörösvári LE ,47298,-,Balázs Balogh,03/04,,75,Unknown 
+"Jul 19, 2002",Free transfer,Hungary,5378,Vasas SC ,47298,-,Balázs Balogh,02/03,Hungary,28981,Pilisvörösvári LE 
+"Jul 20, 2001",Free transfer,Hungary,708,Újpest FC ,47298,-,Balázs Balogh,01/02,Hungary,5378,Vasas SC 
+"Jul 14, 1999",-,Hungary,15913,Újpest U19 ,47298,-,Balázs Balogh,99/00,Hungary,708,Újpest FC 
+"Dec 1, 2013",?,Finland,3189,Ilves ,56028,-,Aapo Lappalainen,13/14,,515,Unattached 
+"Jan 29, 2013",Free transfer,Finland,6578,Hämeenlinna ,56028,-,Aapo Lappalainen,12/13,Finland,3189,Ilves 
+"May 1, 2011",?,Finland,8045,Tampere United ,56028,25 Th. €,Aapo Lappalainen,10/11,Finland,6578,Hämeenlinna 
+"Jul 1, 2010",?,Finland,3189,Ilves ,56028,50 Th. €,Aapo Lappalainen,10/11,Finland,8045,Tampere United 
+"Jul 1, 2007",Free transfer,Finland,8045,Tampere United ,56028,-,Aapo Lappalainen,07/08,Finland,3189,Ilves 
+"Apr 4, 2016",-,Finland,515,Unattached ,101088,200 Th. €,Kennedy Nwanganga,15/16,,8042,FC Inter 
+"Jul 1, 2015",-,Belgium,1184,KRC Genk ,101088,200 Th. €,Kennedy Nwanganga,15/16,,515,Unattached 
+"Jun 30, 2015",End of loan,Belgium,2977,KSV Roeselare ,101088,200 Th. €,Kennedy Nwanganga,14/15,Belgium,1184,KRC Genk 
+"Aug 15, 2014",Loan,Belgium,1184,KRC Genk ,101088,500 Th. €,Kennedy Nwanganga,14/15,Belgium,2977,KSV Roeselare 
+"Jun 30, 2014",End of loan,Belgium,968,KVC Westerlo ,101088,500 Th. €,Kennedy Nwanganga,13/14,Belgium,1184,KRC Genk 
+"Sep 2, 2013",Loan,Belgium,1184,KRC Genk ,101088,500 Th. €,Kennedy Nwanganga,13/14,Belgium,968,KVC Westerlo 
+"Jun 30, 2013",End of loan,Belgium,566,Beerschot AC ,101088,500 Th. €,Kennedy Nwanganga,12/13,Belgium,1184,KRC Genk 
+"Jan 3, 2013",Loan,Belgium,1184,KRC Genk ,101088,800 Th. €,Kennedy Nwanganga,12/13,Belgium,566,Beerschot AC 
+"Jan 1, 2011",Free transfer,Finland,8042,FC Inter ,101088,500 Th. €,Kennedy Nwanganga,10/11,Belgium,1184,KRC Genk 
+"Jan 1, 2009",Free transfer,Nigeria,22115,NAF FC ,101088,-,Kennedy Nwanganga,08/09,Finland,8042,FC Inter 
+"Jan 1, 2007",Free transfer,Nigeria,13254,Hearts of Abuja ,101088,-,Kennedy Nwanganga,06/07,Nigeria,22115,NAF FC 
+"Jan 1, 2005",Free transfer,Nigeria,645,Enyimba Aba ,101088,-,Kennedy Nwanganga,04/05,Nigeria,13254,Hearts of Abuja 
+"Jan 1, 2016",Free transfer,Sweden,2283,Vasalunds IF ,98023,75 Th. €,Johannes Nordström,15/16,Finland,51477,FC Aland 
+"Feb 4, 2015",Free transfer,Sweden,8584,Boo FK ,98023,75 Th. €,Johannes Nordström,14/15,Sweden,2283,Vasalunds IF 
+"Mar 18, 2014",Free transfer,Sweden,22111,Eskilstuna City ,98023,75 Th. €,Johannes Nordström,13/14,Sweden,8584,Boo FK 
+"Mar 12, 2013",Free transfer,Finland,6017,IFK Mariehamn ,98023,75 Th. €,Johannes Nordström,12/13,Sweden,22111,Eskilstuna City 
+"Jan 1, 2009",-,Finland,19375,Mariehamn U19 ,98023,-,Johannes Nordström,08/09,Finland,6017,IFK Mariehamn 
+"Jan 1, 2013",-,Finland,11477,Pallo-Sepot 44 ,53483,25 Th. €,Erkka Heinä,12/13,,123,End of career 
+"Jan 1, 2012",?,Finland,3189,Ilves ,53483,25 Th. €,Erkka Heinä,11/12,Finland,11477,Pallo-Sepot 44 
+"Jan 1, 2011",?,Finland,22180,Valkeakosken ,53483,25 Th. €,Erkka Heinä,10/11,Finland,3189,Ilves 
+"Jan 1, 2010",-,Finland,1225,FC Haka ,53483,50 Th. €,Erkka Heinä,09/10,Finland,22180,Valkeakosken 
+"Jan 1, 2009",Free transfer,Finland,11150,TPV ,53483,-,Erkka Heinä,08/09,Finland,1225,FC Haka 
+"Jan 1, 2006",Free transfer,Finland,75,Unknown ,53483,-,Erkka Heinä,05/06,,11150,TPV 
+"Jan 1, 2014",-,Germany,17847,Altglienicke ,33011,-,Maciej Truszczynski,13/14,,123,End of career 
+"Jul 1, 2013",Free transfer,Poland,12407,Stilon ,33011,250 Th. €,Maciej Truszczynski,13/14,Germany,17847,Altglienicke 
+"Jul 1, 2012",Free transfer,Poland,28033,Dab Debno ,33011,250 Th. €,Maciej Truszczynski,12/13,Poland,12407,Stilon 
+"Mar 15, 2012",Free transfer,Sweden,6165,Bodens BK ,33011,250 Th. €,Maciej Truszczynski,11/12,Poland,28033,Dab Debno 
+"Jul 18, 2010",Free transfer,Poland,12407,Stilon ,33011,250 Th. €,Maciej Truszczynski,10/11,Sweden,6165,Bodens BK 
+"Jan 1, 2009",Free transfer,Finland,1102,VPS ,33011,400 Th. €,Maciej Truszczynski,08/09,Poland,12407,Stilon 
+"Aug 1, 2008",Free transfer,Poland,12407,Stilon ,33011,225 Th. €,Maciej Truszczynski,08/09,Finland,1102,VPS 
+"Jul 1, 2008",Free transfer,Poland,7146,Warta Poznan ,33011,225 Th. €,Maciej Truszczynski,08/09,Poland,12407,Stilon 
+"Feb 1, 2007",?,Poland,7153,Zawisza ,33011,225 Th. €,Maciej Truszczynski,06/07,Poland,7146,Warta Poznan 
+"Jul 1, 2006",Free transfer,Poland,2118,Wisla Plock ,33011,225 Th. €,Maciej Truszczynski,06/07,Poland,7153,Zawisza 
+"Jan 1, 2006",Free transfer,Poland,7153,Zawisza ,33011,-,Maciej Truszczynski,05/06,Poland,2118,Wisla Plock 
+"Jul 1, 2003",Free transfer,Poland,11369,Kujawiak Wloclawek ,33011,-,Maciej Truszczynski,03/04,Poland,7153,Zawisza 
+"Jan 1, 2003",Free transfer,Poland,238,Lech Poznan ,33011,-,Maciej Truszczynski,02/03,,75,Unknown 
+"Jul 1, 2000",?,Poland,23312,Stilon U19 ,33011,-,Maciej Truszczynski,00/01,Poland,238,Lech Poznan 
+"Jan 1, 2016",-,Sweden,8485,IS Halmia ,89334,-,Wilhelm Ingves,15/16,,515,Unattached 
+"Feb 9, 2013",Free transfer,Finland,6017,IFK Mariehamn ,89334,75 Th. €,Wilhelm Ingves,12/13,Sweden,8485,IS Halmia 
+"Jan 1, 2016",Free transfer,Finland,1225,FC Haka ,89335,300 Th. €,Kalle Multanen,15/16,Finland,2925,FC Lahti 
+"Jan 2, 2014",Free transfer,Finland,3189,Ilves ,89335,-,Kalle Multanen,13/14,Finland,1225,FC Haka 
+"Jan 1, 2012",Free transfer,Finland,1225,FC Haka ,89335,75 Th. €,Kalle Multanen,11/12,Finland,3189,Ilves 
+"Dec 1, 2011",End of loan,Finland,10786,FC Popa ,89335,75 Th. €,Kalle Multanen,11/12,Finland,1225,FC Haka 
+"Nov 1, 2011",End of loan,Finland,20956,Lohjan Pallo ,89335,75 Th. €,Kalle Multanen,11/12,Finland,10786,FC Popa 
+"Aug 1, 2011",Loan,Finland,10786,FC Popa ,89335,75 Th. €,Kalle Multanen,11/12,Finland,20956,Lohjan Pallo 
+"May 1, 2011",Loan,Finland,1225,FC Haka ,89335,75 Th. €,Kalle Multanen,10/11,Finland,10786,FC Popa 
+"Jan 1, 2008",-,Finland,8808,FC Haka U19 ,89335,-,Kalle Multanen,07/08,Finland,1225,FC Haka 
+"Apr 6, 2013",-,,2077,Ban ,107772,-,Christopher Musonda,12/13,,75,Unknown 
+"Apr 6, 2011",-,Finland,3776,RoPS ,107772,-,Christopher Musonda,10/11,,2077,Ban 
+"Apr 1, 2009",Free transfer,Zambia,23037,Forest Rangers ,107772,-,Christopher Musonda,08/09,Finland,3776,RoPS 
+"Mar 16, 2016",Free transfer,Finland,1225,FC Haka ,53502,-,Jari Nikkilä,15/16,Finland,11150,TPV 
+"Jan 1, 2014",?,Finland,3189,Ilves ,53502,-,Jari Nikkilä,13/14,Finland,1225,FC Haka 
+"Jan 1, 2012",Free transfer,Finland,11150,TPV ,53502,300 Th. €,Jari Nikkilä,11/12,Finland,3189,Ilves 
+"Jul 1, 2011",?,Finland,8045,Tampere United ,53502,300 Th. €,Jari Nikkilä,11/12,Finland,11150,TPV 
+"Jan 1, 2010",Free transfer,Finland,1225,FC Haka ,53502,650 Th. €,Jari Nikkilä,09/10,Finland,8045,Tampere United 
+"Jan 1, 2008",?,Finland,11150,TPV ,53502,-,Jari Nikkilä,07/08,Finland,1225,FC Haka 
+"Dec 31, 2012",End of loan,Finland,2275,TPS ,97536,-,Konsta Rasimus,12/13,Finland,8807,PK-35 
+"Sep 1, 2012",Loan,Finland,8807,PK-35 ,97536,-,Konsta Rasimus,12/13,Finland,2275,TPS 
+"Jan 1, 2012",Free transfer,Finland,6017,IFK Mariehamn ,97536,50 Th. €,Konsta Rasimus,11/12,Finland,8807,PK-35 
+"Aug 1, 2011",?,Finland,5411,FC Honka ,97536,75 Th. €,Konsta Rasimus,11/12,Finland,6017,IFK Mariehamn 
+"Jan 1, 2009",Free transfer,Finland,11131,Klubi-04 ,97536,-,Konsta Rasimus,08/09,Finland,5411,FC Honka 
+"Jul 15, 2013",?,Ghana,31855,Medeama SC ,66821,300 Th. €,Sampson Cudjoe,13/14,Ghana,3601,Hearts of Oak 
+"Dec 31, 2008",End of loan,Finland,5411,FC Honka ,66821,300 Th. €,Sampson Cudjoe,08/09,Ghana,13604,Kessben FC 
+"Aug 1, 2008",Loan,Ghana,13604,Kessben FC ,66821,-,Sampson Cudjoe,08/09,Finland,5411,FC Honka 
+"Feb 26, 2016",Free transfer,Finland,22890,Ekenäs IF ,73728,-,Chris James,15/16,Finland,1225,FC Haka 
+"Aug 4, 2015",Free transfer,France,1081,CS Sedan ,73728,175 Th. €,Chris James,15/16,Finland,22890,Ekenäs IF 
+"Jul 22, 2014",-,France,515,Unattached ,73728,175 Th. €,Chris James,14/15,,1081,CS Sedan 
+"Jan 1, 2014",-,Finland,6251,KuPS ,73728,175 Th. €,Chris James,13/14,,515,Unattached 
+"Feb 3, 2012",?,Australia,11419,APIA Leichhardt ,73728,200 Th. €,Chris James,11/12,Finland,6251,KuPS 
+"Jul 1, 2010",Free transfer,England,2804,Barnet ,73728,200 Th. €,Chris James,10/11,Australia,11419,APIA Leichhardt 
+"Jan 1, 2010",Free transfer,Finland,8045,Tampere United ,73728,500 Th. €,Chris James,09/10,England,2804,Barnet 
+"Jan 1, 2008",Free transfer,England,931,Fulham FC ,73728,-,Chris James,07/08,Finland,8045,Tampere United 
+"Jul 1, 2004",-,England,6942,Fulham FC U18 ,73728,-,Chris James,04/05,England,931,Fulham FC 
+"Jan 11, 2016",-,United States,4274,Silverbacks ,29964,75 Th. €,Hans Denissen,15/16,,515,Unattached 
+"Feb 17, 2015",Free transfer,United States,4835,New York Cosmos ,29964,75 Th. €,Hans Denissen,14/15,United States,4274,Silverbacks 
+"Jan 2, 2014",Free transfer,United States,32567,San Antonio  ,29964,75 Th. €,Hans Denissen,13/14,United States,4835,New York Cosmos 
+"Jan 1, 2012",?,Netherlands,9005,Willem II U21 ,29964,200 Th. €,Hans Denissen,11/12,United States,32567,San Antonio  
+"Aug 1, 2011",Free transfer,Netherlands,1283,FC Emmen ,29964,200 Th. €,Hans Denissen,11/12,Netherlands,9005,Willem II U21 
+"Aug 1, 2009",Free transfer,Finland,1225,FC Haka ,29964,50 Th. €,Hans Denissen,09/10,Netherlands,1283,FC Emmen 
+"Jun 1, 2009",Free transfer,Cyprus,10816,Agia Napa ,29964,-,Hans Denissen,08/09,Finland,1225,FC Haka 
+"Jul 1, 2008",Free transfer,Netherlands,384,MVV ,29964,-,Hans Denissen,08/09,Cyprus,10816,Agia Napa 
+"Jul 1, 2007",Free transfer,Netherlands,1227,RBC Roosendaal ,29964,-,Hans Denissen,07/08,Netherlands,384,MVV 
+"Jul 1, 2006",Free transfer,Netherlands,403,Willem II ,29964,-,Hans Denissen,06/07,Netherlands,1227,RBC Roosendaal 
+"Jan 1, 2005",-,Netherlands,4778,Willem II U19 ,29964,-,Hans Denissen,04/05,Netherlands,403,Willem II 
+"Jan 1, 2012",-,Sweden,5813,Gunnilse IS ,26384,200 Th. €,Kenneth Gustafsson,11/12,,123,End of career 
+"Feb 1, 2010",Free transfer,Finland,6017,IFK Mariehamn ,26384,200 Th. €,Kenneth Gustafsson,09/10,Sweden,5813,Gunnilse IS 
+"Jan 1, 2009",Free transfer,Iceland,8037,Keflavík ÍF ,26384,-,Kenneth Gustafsson,08/09,Finland,6017,IFK Mariehamn 
+"Jan 1, 2006",Free transfer,Sweden,5200,IFK Malmö ,26384,-,Kenneth Gustafsson,05/06,Iceland,8037,Keflavík ÍF 
+"Jan 1, 2005",?,Sweden,701,Trelleborgs FF ,26384,-,Kenneth Gustafsson,04/05,Sweden,5200,IFK Malmö 
+"Jan 1, 2003",?,Sweden,496,Malmö FF ,26384,-,Kenneth Gustafsson,02/03,Sweden,701,Trelleborgs FF 
+"Dec 1, 2001",End of loan,Norway,175,FK Lyn ,26384,-,Kenneth Gustafsson,01/02,Sweden,496,Malmö FF 
+"Aug 1, 2001",Loan,Sweden,496,Malmö FF ,26384,-,Kenneth Gustafsson,01/02,Norway,175,FK Lyn 
+"Jan 1, 2000",-,Sweden,7917,Malmö FF U19 ,26384,-,Kenneth Gustafsson,99/00,Sweden,496,Malmö FF 
+"Jan 1, 2012",Free transfer,Finland,3650,FF Jaro ,88343,350 Th. €,Vitali Teles,11/12,Estonia,22783,Kalju Nömme 
+"Feb 1, 2009",Free transfer,Estonia,8964,TVMK Tallinn ,88343,-,Vitali Teles,08/09,Finland,3650,FF Jaro 
+"Jul 1, 2004",?,Estonia,26012,Tallinna JK ,88343,-,Vitali Teles,04/05,Estonia,8964,TVMK Tallinn 
+"Jan 1, 1998",-,Estonia,34166,TJK Legion U19 ,88343,-,Vitali Teles,97/98,Estonia,26012,Tallinna JK 
+"Aug 16, 2013",Free transfer,Iceland,12118,Víkingur Ó. ,106264,150 Th. €,Mate Dujilo,13/14,Sweden,17381,Motala AIF FK 
+"Jan 1, 2013",-,Norway,6390,Alta IF ,106264,150 Th. €,Mate Dujilo,12/13,Iceland,12118,Víkingur Ó. 
+"Feb 1, 2012",?,Finland,2688,MYPA ,106264,150 Th. €,Mate Dujilo,11/12,Norway,6390,Alta IF 
+"Jul 1, 2011",-,Finland,515,Unattached ,106264,400 Th. €,Mate Dujilo,11/12,,2688,MYPA 
+"Jan 1, 2011",-,Finland,6017,IFK Mariehamn ,106264,400 Th. €,Mate Dujilo,10/11,,515,Unattached 
+"Feb 1, 2009",Free transfer,Sweden,17381,Motala AIF FK ,106264,-,Mate Dujilo,08/09,Finland,6017,IFK Mariehamn 
+"Aug 1, 2007",Free transfer,Croatia,2566,NK Zadar  ,106264,-,Mate Dujilo,07/08,Sweden,17381,Motala AIF FK 
+"Jun 30, 2003",End of loan,Croatia,9515,NK GOSK Dubrovnik ,106264,-,Mate Dujilo,02/03,Croatia,2566,NK Zadar  
+"Aug 1, 2002",Loan,Croatia,2566,NK Zadar  ,106264,-,Mate Dujilo,02/03,Croatia,9515,NK GOSK Dubrovnik 
+"Jun 30, 2002",End of loan,Croatia,4424,NK Novalja ,106264,-,Mate Dujilo,01/02,Croatia,2566,NK Zadar  
+"Jul 1, 2001",Loan,Croatia,2566,NK Zadar  ,106264,-,Mate Dujilo,01/02,Croatia,4424,NK Novalja 
+"Jul 1, 2013",Free transfer,Ukraine,24288,Arsenal B. T. ,36643,50 Th. €,Dmytro Pronevych,13/14,Ukraine,39097,Obolon-Brovar 
+"Jul 1, 2011",?,Ukraine,18105,FK Lviv ,36643,50 Th. €,Dmytro Pronevych,11/12,Ukraine,24288,Arsenal B. T. 
+"Feb 1, 2011",Free transfer,Ukraine,4482,Volyn Lutsk ,36643,50 Th. €,Dmytro Pronevych,10/11,Ukraine,18105,FK Lviv 
+"Sep 1, 2010",-,Ukraine,515,Unattached ,36643,50 Th. €,Dmytro Pronevych,10/11,,4482,Volyn Lutsk 
+"Jan 1, 2010",-,Finland,6017,IFK Mariehamn ,36643,50 Th. €,Dmytro Pronevych,09/10,,515,Unattached 
+"Mar 1, 2009",Free transfer,Ukraine,18300,Knyazha ,36643,75 Th. €,Dmytro Pronevych,08/09,Finland,6017,IFK Mariehamn 
+"Jul 1, 2008",Free transfer,Vietnam,14085,CLB bong da Dong Thap ,36643,400 Th. €,Dmytro Pronevych,08/09,Ukraine,18300,Knyazha 
+"Jan 1, 2008",?,Ukraine,12515,Karpaty Lviv II ,36643,400 Th. €,Dmytro Pronevych,07/08,Vietnam,14085,CLB bong da Dong Thap 
+"Jul 1, 2007",?,Ukraine,20432,Dnipro Cherkasy ,36643,400 Th. €,Dmytro Pronevych,07/08,Ukraine,12515,Karpaty Lviv II 
+"Jul 1, 2006",?,Scotland,2760,Partick Thistle ,36643,400 Th. €,Dmytro Pronevych,06/07,Ukraine,20432,Dnipro Cherkasy 
+"Jan 1, 2006",?,Scotland,2553,Kilmarnock FC ,36643,400 Th. €,Dmytro Pronevych,05/06,Scotland,2760,Partick Thistle 
+"Jul 1, 2005",?,Ukraine,23618,Obolon Kyiv II ,36643,-,Dmytro Pronevych,05/06,Scotland,2553,Kilmarnock FC 
+"Jul 20, 2015",-,,515,Unattached ,13608,-,Cherno Samba,15/16,,123,End of career 
+"Jan 1, 2013",-,Norway,1259,FK Tönsberg ,13608,-,Cherno Samba,12/13,,515,Unattached 
+"Mar 1, 2012",?,Norway,515,Unattached ,13608,250 Th. €,Cherno Samba,11/12,,1259,FK Tönsberg 
+"Jul 1, 2010",-,Greece,6418,Panetolikos ,13608,250 Th. €,Cherno Samba,10/11,,515,Unattached 
+"Jan 1, 2010",-,Greece,515,Unattached ,13608,250 Th. €,Cherno Samba,09/10,,6418,Panetolikos 
+"Mar 1, 2009",-,Finland,1225,FC Haka ,13608,250 Th. €,Cherno Samba,08/09,,515,Unattached 
+"Aug 1, 2008",-,Finland,515,Unattached ,13608,325 Th. €,Cherno Samba,08/09,,1225,FC Haka 
+"Jan 1, 2008",-,England,2262,Plymouth Argyle ,13608,325 Th. €,Cherno Samba,07/08,,515,Unattached 
+"Feb 1, 2007",End of loan,England,1112,Wrexham ,13608,50 Th. €,Cherno Samba,06/07,England,2262,Plymouth Argyle 
+"Jan 1, 2007",Loan,England,2262,Plymouth Argyle ,13608,50 Th. €,Cherno Samba,06/07,England,1112,Wrexham 
+"Jul 1, 2006",Free transfer,Spain,2687,Cádiz CF ,13608,50 Th. €,Cherno Samba,06/07,England,2262,Plymouth Argyle 
+"May 1, 2006",End of loan,Spain,5649,Málaga B ,13608,50 Th. €,Cherno Samba,05/06,Spain,2687,Cádiz CF 
+"Aug 1, 2005",Loan,Spain,2687,Cádiz CF ,13608,50 Th. €,Cherno Samba,05/06,Spain,5649,Málaga B 
+"Jul 1, 2004",Free transfer,England,1028,Millwall ,13608,-,Cherno Samba,04/05,Spain,2687,Cádiz CF 
+"Jul 1, 2003",-,England,14620,Millwall U18 ,13608,-,Cherno Samba,03/04,England,1028,Millwall 
+"Feb 9, 2015",Free transfer,Finland,6251,KuPS ,42793,400 Th. €,Ats Purje,14/15,Estonia,22783,Kalju Nömme 
+"Apr 3, 2012",-,Finland,515,Unattached ,42793,450 Th. €,Ats Purje,11/12,,6251,KuPS 
+"Jan 1, 2012",-,Cyprus,4590,Ethnikos ,42793,450 Th. €,Ats Purje,11/12,,515,Unattached 
+"May 1, 2011",?,Cyprus,7475,AE Pafos  ,42793,450 Th. €,Ats Purje,10/11,Cyprus,4590,Ethnikos 
+"Jul 1, 2010",-,Cyprus,515,Unattached ,42793,200 Th. €,Ats Purje,10/11,,7475,AE Pafos  
+"Jan 1, 2010",-,Finland,8042,FC Inter ,42793,400 Th. €,Ats Purje,09/10,,515,Unattached 
+"Jul 1, 2007",Free transfer,Estonia,5771,Levadia ,42793,-,Ats Purje,07/08,Finland,8042,FC Inter 
+"Jan 1, 2003",-,Estonia,25535,Levadia U19 ,42793,-,Ats Purje,02/03,Estonia,5771,Levadia 
+"Jan 1, 2003",?,Estonia,25175,SC Real ,42793,-,Ats Purje,02/03,Estonia,25535,Levadia U19 
+"Jul 1, 2002",?,Estonia,25532,Trans Narva U19 ,42793,-,Ats Purje,02/03,Estonia,25175,SC Real 
+"Jan 1, 2002",?,Estonia,25175,SC Real ,42793,-,Ats Purje,01/02,Estonia,25532,Trans Narva U19 
+"Jan 1, 2001",?,Estonia,34166,TJK Legion U19 ,42793,-,Ats Purje,00/01,Estonia,25175,SC Real 
+"Mar 24, 2015",Free transfer,Finland,23195,Åbo IFK ,96046,25 Th. €,Alban Ferati,14/15,Finland,8042,FC Inter 
+"Jan 1, 2011",Free transfer,Finland,2275,TPS ,96046,25 Th. €,Alban Ferati,10/11,Finland,23195,Åbo IFK 
+"Jan 1, 2009",Free transfer,Finland,20873,FC Inter U19 ,96046,-,Alban Ferati,08/09,Finland,2275,TPS 
+"Jul 1, 2010",Free transfer,Finland,1225,FC Haka ,107828,600 Th. €,Ik-Kyung Nam,10/11,,75,Unknown 
+"Jan 1, 2010",Free transfer,Finland,3779,JJK ,107828,400 Th. €,Ik-Kyung Nam,09/10,Finland,1225,FC Haka 
+"Apr 1, 2009",Free transfer,"Korea, South",311,Pohang ,107828,-,Ik-Kyung Nam,08/09,Finland,3779,JJK 
+"Mar 1, 2011",-,United States,28171,Orlando City SC ,50998,250 Th. €,Tyler Hemming,10/11,,515,Unattached 
+"Oct 1, 2010",-,United States,16905,Austin Aztex ,50998,250 Th. €,Tyler Hemming,10/11,United States,28171,Orlando City SC 
+"Jul 1, 2010",Swap deal,United States,4078,Montreal ,50998,250 Th. €,Tyler Hemming,10/11,United States,16905,Austin Aztex 
+"Jan 1, 2010",?,United States,4115,Charleston ,50998,250 Th. €,Tyler Hemming,09/10,United States,4078,Montreal 
+"Mar 1, 2009",Free transfer,Finland,8045,Tampere United ,50998,250 Th. €,Tyler Hemming,08/09,United States,4115,Charleston 
+"Sep 1, 2008",?,United States,11141,Toronto ,50998,-,Tyler Hemming,08/09,Finland,8045,Tampere United 
+"Jan 1, 2007",trade,Canada,16857,Ottawa Fury ,50998,-,Tyler Hemming,06/07,United States,11141,Toronto 
+"Jan 1, 2005",draft,United States,9719,Hartwick College ,50998,-,Tyler Hemming,04/05,Canada,16857,Ottawa Fury 
+"Jan 1, 2015",Free transfer,Germany,1262,FSV 08 Bissingen ,93507,-,Jussi Länsitalo,14/15,Finland,2925,FC Lahti 
+"Aug 1, 2014",Free transfer,Finland,2925,FC Lahti ,93507,150 Th. €,Jussi Länsitalo,14/15,Germany,1262,FSV 08 Bissingen 
+"Jan 1, 2009",Free transfer,Finland,23164,Reipas U19 ,93507,-,Jussi Länsitalo,08/09,Finland,2925,FC Lahti 
+"Jan 1, 2014",-,Finland,3189,Ilves ,48976,-,Ilari Ruuth,13/14,,123,End of career 
+"Jul 16, 2012",Free transfer,Finland,6578,Hämeenlinna ,48976,-,Ilari Ruuth,12/13,Finland,3189,Ilves 
+"Jul 1, 2011",Free transfer,Finland,3189,Ilves ,48976,-,Ilari Ruuth,11/12,Finland,6578,Hämeenlinna 
+"May 1, 2011",Free transfer,Finland,8045,Tampere United ,48976,-,Ilari Ruuth,10/11,Finland,3189,Ilves 
+"Dec 31, 2010",End of loan,Finland,10786,FC Popa ,48976,-,Ilari Ruuth,10/11,Finland,8045,Tampere United 
+"Jul 1, 2010",Loan,Finland,8045,Tampere United ,48976,150 Th. €,Ilari Ruuth,10/11,Finland,10786,FC Popa 
+"Feb 1, 2009",Free transfer,Finland,3189,Ilves ,48976,-,Ilari Ruuth,08/09,Finland,8045,Tampere United 
+"Jan 1, 2016",Free transfer,Finland,23777,SJK ,90450,200 Th. €,Juho Lähde,15/16,Finland,1102,VPS 
+"Dec 31, 2015",End of loan,Finland,1102,VPS ,90450,200 Th. €,Juho Lähde,15/16,Finland,23777,SJK 
+"Aug 6, 2015",Loan,Finland,23777,SJK ,90450,200 Th. €,Juho Lähde,15/16,Finland,1102,VPS 
+"Jan 1, 2014",Free transfer,Finland,2275,TPS ,90450,300 Th. €,Juho Lähde,13/14,Finland,23777,SJK 
+"Jan 1, 2009",-,Finland,15697,TPS U19 ,90450,50 Th. €,Juho Lähde,08/09,Finland,2275,TPS 
+"May 1, 2012",Free transfer,Brazil,31578,Associação Esportiva Tiradentes (CE) ,102752,150 Th. €,Felipe Benevides,11/12,Brazil,22790,Guarany-CE 
+"Jan 1, 2012",Free transfer,Finland,21520,Mikkelin ,102752,150 Th. €,Felipe Benevides,11/12,Brazil,31578,Associação Esportiva Tiradentes (CE) 
+"Jan 1, 2011",Free transfer,Finland,2688,MYPA ,102752,150 Th. €,Felipe Benevides,10/11,Finland,21520,Mikkelin 
+"Aug 1, 2009",End of loan,Finland,21520,Mikkelin ,102752,50 Th. €,Felipe Benevides,09/10,Finland,2688,MYPA 
+"Jul 1, 2009",Loan,Finland,2688,MYPA ,102752,-,Felipe Benevides,09/10,Finland,21520,Mikkelin 
+"Jan 1, 2009",-,Finland,15683,MYPA U19 ,102752,-,Felipe Benevides,08/09,Finland,2688,MYPA 
+"Jul 1, 2010",-,South Africa,9370,AmaZulu FC ,54626,125 Th. €,Abdullahi Ishaka,10/11,,515,Unattached 
+"Jun 1, 2009",Free transfer,Finland,1225,FC Haka ,54626,200 Th. €,Abdullahi Ishaka,08/09,South Africa,9370,AmaZulu FC 
+"Aug 1, 2008",Free transfer,Albania,739,KS Besa Kavajë ,54626,600 Th. €,Abdullahi Ishaka,08/09,Finland,1225,FC Haka 
+"Jan 1, 2007",?,Albania,4040,FK Partizani ,54626,-,Abdullahi Ishaka,06/07,Albania,6983,KF Elbasani 
+"Jul 1, 2006",?,Albania,6983,KF Elbasani ,54626,-,Abdullahi Ishaka,06/07,Albania,739,KS Besa Kavajë 
+"Jul 1, 2005",?,Albania,739,KS Besa Kavajë ,54626,-,Abdullahi Ishaka,05/06,Albania,4040,FK Partizani 
+"Jul 1, 2004",?,Albania,12468,KF Shkumbini Peqin ,54626,-,Abdullahi Ishaka,04/05,Albania,739,KS Besa Kavajë 
+"Jul 1, 2003",?,Albania,739,KS Besa Kavajë ,54626,-,Abdullahi Ishaka,03/04,Albania,12468,KF Shkumbini Peqin 
+"Jan 1, 2014",?,Finland,36104,MaPa ,90980,50 Th. €,Jani Aaltonen,13/14,,75,Unknown 
+"Jan 1, 2013",?,Finland,23195,Åbo IFK ,90980,50 Th. €,Jani Aaltonen,12/13,Finland,36104,MaPa 
+"Jan 1, 2011",-,Finland,15697,TPS U19 ,90980,50 Th. €,Jani Aaltonen,10/11,Finland,23195,Åbo IFK 
+"Aug 19, 2012",Free transfer,Argentina,14683,Guillermo Brown ,26473,100 Th. €,Gabriel Ruiz,12/13,Argentina,19523,CD Maipu 
+"Jul 1, 2011",Free transfer,Argentina,3938,Talleres ,26473,100 Th. €,Gabriel Ruiz,11/12,Argentina,14683,Guillermo Brown 
+"Jul 1, 2010",Free transfer,Argentina,10885,G y E Jujuy ,26473,100 Th. €,Gabriel Ruiz,10/11,Argentina,3938,Talleres 
+"Jul 1, 2009",Free transfer,Finland,1225,FC Haka ,26473,400 Th. €,Gabriel Ruiz,09/10,Argentina,10885,G y E Jujuy 
+"May 1, 2009",?,Argentina,10885,G y E Jujuy ,26473,400 Th. €,Gabriel Ruiz,08/09,Finland,1225,FC Haka 
+"Nov 1, 2008",-,Argentina,515,Unattached ,26473,800 Th. €,Gabriel Ruiz,08/09,,10885,G y E Jujuy 
+"Jul 1, 2008",-,Argentina,10885,G y E Jujuy ,26473,800 Th. €,Gabriel Ruiz,08/09,,515,Unattached 
+"Jul 1, 2007",?,Argentina,7097,Union Santa Fe ,26473,-,Gabriel Ruiz,07/08,Argentina,10885,G y E Jujuy 
+"Jan 1, 2007",?,Paraguay,9875,Libertad ,26473,-,Gabriel Ruiz,06/07,Argentina,7097,Union Santa Fe 
+"Jul 1, 2006",?,Argentina,9645,Tiro Federal ,26473,-,Gabriel Ruiz,06/07,Paraguay,9875,Libertad 
+"Jan 1, 2005",?,Argentina,1286,Newell's ,26473,-,Gabriel Ruiz,04/05,Argentina,9645,Tiro Federal 
+"Jul 1, 1999",-,Argentina,15107,Newell's U19 ,26473,-,Gabriel Ruiz,99/00,Argentina,1286,Newell's 
+"Jan 1, 2016",-,Finland,2275,TPS ,103399,-,Santeri Mäkinen,15/16,,123,End of career 
+"Jan 1, 2009",-,Finland,15697,TPS U19 ,103399,-,Santeri Mäkinen,08/09,Finland,2275,TPS 
+"Jan 7, 2016",?,Guatemala,75,Unknown ,94578,-,David Monsalve,15/16,,18844,Suchitepéquez 
+"Jul 1, 2015",?,Colombia,2352,CD América ,94578,-,David Monsalve,15/16,,75,Unknown 
+"Jan 1, 2015",Free transfer,Finland,7008,AC Oulu ,94578,-,David Monsalve,14/15,Colombia,2352,CD América 
+"Jun 4, 2013",-,Finland,515,Unattached ,94578,100 Th. €,David Monsalve,12/13,,7008,AC Oulu 
+"Jan 1, 2013",-,United States,28170,FC Edmonton ,94578,100 Th. €,David Monsalve,12/13,,515,Unattached 
+"Aug 1, 2011",-,United States,515,Unattached ,94578,200 Th. €,David Monsalve,11/12,,28170,FC Edmonton 
+"Jan 1, 2011",-,Finland,8042,FC Inter ,94578,200 Th. €,David Monsalve,10/11,,515,Unattached 
+"Mar 1, 2009",Free transfer,Canada,12941,North York Astros ,94578,-,David Monsalve,08/09,Finland,8042,FC Inter 
+"Jan 1, 2008",Free transfer,United States,11141,Toronto ,94578,-,David Monsalve,07/08,Canada,12941,North York Astros 
+"Jan 1, 2016",Free transfer,Finland,1008,HJK Helsinki ,49523,900 Th. €,Demba Savage,15/16,Sweden,1109,BK Häcken 
+"Feb 7, 2012",180 Th. €,Finland,5411,FC Honka ,49523,800 Th. €,Demba Savage,11/12,Finland,1008,HJK Helsinki 
+"Sep 1, 2008",?,Finland,8043,Kokkolan PV ,49523,-,Demba Savage,08/09,Finland,5411,FC Honka 
+"Jan 1, 2006",?,The Gambia,25890,GPA ,49523,-,Demba Savage,05/06,Finland,8043,Kokkolan PV 
+"Jan 1, 2016",-,Finland,29003,Sudet Kouvola ,49524,-,Arttu Seppälä,15/16,,515,Unattached 
+"Jan 1, 2015",Free transfer,Finland,22166,Kotka TP ,49524,-,Arttu Seppälä,14/15,Finland,29003,Sudet Kouvola 
+"Mar 6, 2013",Free transfer,Finland,7315,FC KTP ,49524,-,Arttu Seppälä,12/13,Finland,22166,Kotka TP 
+"Jan 1, 2012",Free transfer,Finland,23777,SJK ,49524,-,Arttu Seppälä,11/12,Finland,7315,FC KTP 
+"Jan 1, 2011",Free transfer,Finland,1102,VPS ,49524,75 Th. €,Arttu Seppälä,10/11,Finland,23777,SJK 
+"Jan 1, 2010",Free transfer,Finland,8042,FC Inter ,49524,50 Th. €,Arttu Seppälä,09/10,Finland,1102,VPS 
+"Dec 31, 2009",End of loan,Finland,1102,VPS ,49524,50 Th. €,Arttu Seppälä,09/10,Finland,8042,FC Inter 
+"Aug 1, 2009",Loan,Finland,8042,FC Inter ,49524,50 Th. €,Arttu Seppälä,09/10,Finland,1102,VPS 
+"Jan 1, 2008",Free transfer,Finland,8043,Kokkolan PV ,49524,-,Arttu Seppälä,07/08,Finland,8042,FC Inter 
+"Jan 1, 2004",-,Finland,17571,Kokkolan U19 ,49524,-,Arttu Seppälä,03/04,Finland,8043,Kokkolan PV 
+"Jan 1, 2003",Free transfer,Finland,24290,Virkiä ,49524,-,Arttu Seppälä,02/03,Finland,17571,Kokkolan U19 
+"Jan 1, 2012",Free transfer,Macedonia,21775,Teteks Tetovo ,41845,-,Betim Aliju,11/12,,75,Unknown 
+"Oct 1, 2011",?,Albania,739,KS Besa Kavajë ,41845,75 Th. €,Betim Aliju,11/12,Macedonia,21775,Teteks Tetovo 
+"Jul 1, 2010",?,Macedonia,18506,Metalurg Skopje ,41845,75 Th. €,Betim Aliju,10/11,Albania,739,KS Besa Kavajë 
+"Jan 1, 2010",Free transfer,Finland,6251,KuPS ,41845,75 Th. €,Betim Aliju,09/10,Macedonia,18506,Metalurg Skopje 
+"Jan 1, 2009",Free transfer,Macedonia,4644,FC Shkupi ,41845,-,Betim Aliju,08/09,Finland,6251,KuPS 
+"Jan 1, 2016",-,Finland,20604,FC Santa ,89462,-,Kari-Pekka Syväjärvi,15/16,,515,Unattached 
+"Jan 1, 2010",Free transfer,Finland,3776,RoPS ,89462,50 Th. €,Kari-Pekka Syväjärvi,09/10,Finland,20604,FC Santa 
+"Jan 1, 2016",-,Finland,10493,FC Kuusysi ,73591,-,Riku Heini,15/16,,515,Unattached 
+"Mar 1, 2013",Free transfer,Finland,1102,VPS ,73591,350 Th. €,Riku Heini,12/13,Finland,10493,FC Kuusysi 
+"Jan 1, 2011",Free transfer,Finland,2925,FC Lahti ,73591,150 Th. €,Riku Heini,10/11,Finland,1102,VPS 
+"Jan 1, 2015",-,Finland,2275,TPS ,41853,200 Th. €,Jaakko Nyberg,14/15,,123,End of career 
+"Jan 1, 2009",Free transfer,Norway,1057,Bryne FK ,41853,-,Jaakko Nyberg,08/09,Finland,2275,TPS 
+"Jan 1, 2005",Free transfer,Norway,421,Kongsvinger ,41853,-,Jaakko Nyberg,04/05,Norway,1057,Bryne FK 
+"Jan 1, 2002",Free transfer,Finland,1102,VPS ,41853,-,Jaakko Nyberg,01/02,Norway,421,Kongsvinger 
+"Apr 25, 2014",-,Hungary,515,Unattached ,73598,-,Viktor Szentpéteri,13/14,,17208,Budaörs 
+"Jan 1, 2014",-,Finland,6251,KuPS ,73598,150 Th. €,Viktor Szentpéteri,13/14,,515,Unattached 
+"Aug 15, 2013",?,Hungary,21345,BKV Előre ,73598,150 Th. €,Viktor Szentpéteri,13/14,Finland,6251,KuPS 
+"Feb 27, 2013",Free transfer,Finland,2925,FC Lahti ,73598,150 Th. €,Viktor Szentpéteri,12/13,Hungary,21345,BKV Előre 
+"Jan 1, 2012",Free transfer,Hungary,13414,Rákospalota ,73598,150 Th. €,Viktor Szentpéteri,11/12,Finland,2925,FC Lahti 
+"Sep 9, 2011",Free transfer,Malta,329,Sliema Wander. ,73598,150 Th. €,Viktor Szentpéteri,11/12,Hungary,13414,Rákospalota 
+"Jul 1, 2010",Free transfer,Hungary,634,MTK Budapest ,73598,150 Th. €,Viktor Szentpéteri,10/11,Malta,329,Sliema Wander. 
+"Feb 22, 2010",Free transfer,Finland,2925,FC Lahti ,73598,200 Th. €,Viktor Szentpéteri,09/10,Hungary,634,MTK Budapest 
+"Jan 1, 2008",Free transfer,Hungary,4787,Dunaujvaros FC ,73598,-,Viktor Szentpéteri,07/08,Finland,2925,FC Lahti 
+"Feb 20, 2007",Free transfer,Hungary,13414,Rákospalota ,73598,-,Viktor Szentpéteri,06/07,Hungary,4787,Dunaujvaros FC 
+"Jul 18, 2003",Free transfer,Hungary,21345,BKV Előre ,73598,-,Viktor Szentpéteri,03/04,Hungary,13414,Rákospalota 
+"Jan 1, 2015",-,Finland,6578,Hämeenlinna ,73600,200 Th. €,Juha Tuomi,14/15,,123,End of career 
+"Jan 1, 2014",Free transfer,Finland,2925,FC Lahti ,73600,200 Th. €,Juha Tuomi,13/14,Finland,6578,Hämeenlinna 
+"Jan 1, 2008",Free transfer,Finland,23164,Reipas U19 ,73600,-,Juha Tuomi,07/08,Finland,2925,FC Lahti 
+"Apr 1, 2011",Free transfer,Finland,3776,RoPS ,101761,-,Tuomas Markkula,10/11,Finland,46545,Paimion Haka 
+"Apr 1, 2010",Free transfer,Finland,23195,Åbo IFK ,101761,50 Th. €,Tuomas Markkula,09/10,Finland,3776,RoPS 
+"Jan 1, 2009",Free transfer,Finland,15697,TPS U19 ,101761,-,Tuomas Markkula,08/09,Finland,23195,Åbo IFK 
+"Jan 21, 2013",Free transfer,Argentina,14718,CA Douglas Haig ,107403,350 Th. €,Claudio Verino,12/13,Argentina,15414,Sport. Belgrano 
+"Jul 1, 2011",Free transfer,Argentina,13339,Colegiales ,107403,350 Th. €,Claudio Verino,11/12,Argentina,14718,CA Douglas Haig 
+"Jan 1, 2010",Free transfer,Finland,8042,FC Inter ,107403,350 Th. €,Claudio Verino,09/10,Argentina,13339,Colegiales 
+"Mar 1, 2009",?,Argentina,1771,Tristan Suarez ,107403,-,Claudio Verino,08/09,Finland,8042,FC Inter 
+"Jun 30, 2008",End of loan,Argentina,8057,CA Atlanta ,107403,-,Claudio Verino,07/08,Argentina,1771,Tristan Suarez 
+"Jul 1, 2007",Loan,Argentina,1771,Tristan Suarez ,107403,-,Claudio Verino,07/08,Argentina,8057,CA Atlanta 
+"Jul 1, 2006",?,Argentina,7097,Union Santa Fe ,107403,-,Claudio Verino,06/07,Argentina,1771,Tristan Suarez 
+"Jan 1, 2005",?,Argentina,19634,San Miguel ,107403,-,Claudio Verino,04/05,Argentina,7097,Union Santa Fe 
+"Jan 1, 2011",Free transfer,Finland,15699,VPS U19 ,89489,25 Th. €,Markus Hangelin,10/11,,75,Unknown 
+"Jan 1, 2015",-,Finland,15699,VPS U19 ,89494,50 Th. €,Akseli Juslin,14/15,,515,Unattached 
+"Jan 1, 2016",Free transfer,Finland,11056,FC Viikingit ,89497,-,Einari Kurittu,15/16,Finland,22293,FC Futura 
+"Jan 1, 2015",Free transfer,Finland,27759,JäPS ,89497,-,Einari Kurittu,14/15,Finland,11056,FC Viikingit 
+"Jan 1, 2014",Free transfer,Finland,23203,FC Jazz ,89497,-,Einari Kurittu,13/14,Finland,27759,JäPS 
+"Jan 1, 2013",?,Finland,27759,JäPS ,89497,-,Einari Kurittu,12/13,Finland,23203,FC Jazz 
+"Jan 1, 2012",Free transfer,Finland,8807,PK-35 ,89497,-,Einari Kurittu,11/12,Finland,27759,JäPS 
+"Jan 1, 2011",Free transfer,Finland,2688,MYPA ,89497,50 Th. €,Einari Kurittu,10/11,Finland,8807,PK-35 
+"Sep 1, 2010",End of loan,Finland,21520,Mikkelin ,89497,50 Th. €,Einari Kurittu,10/11,Finland,2688,MYPA 
+"Aug 1, 2010",Loan,Finland,2688,MYPA ,89497,50 Th. €,Einari Kurittu,10/11,Finland,21520,Mikkelin 
+"Dec 31, 2009",End of loan,Finland,21520,Mikkelin ,89497,50 Th. €,Einari Kurittu,09/10,Finland,2688,MYPA 
+"Sep 1, 2009",Loan,Finland,2688,MYPA ,89497,50 Th. €,Einari Kurittu,09/10,Finland,21520,Mikkelin 
+"Aug 1, 2009",End of loan,Finland,22166,Kotka TP ,89497,50 Th. €,Einari Kurittu,09/10,Finland,2688,MYPA 
+"Jul 1, 2009",Loan,Finland,2688,MYPA ,89497,50 Th. €,Einari Kurittu,09/10,Finland,22166,Kotka TP 
+"Jan 1, 2009",-,Finland,15683,MYPA U19 ,89497,50 Th. €,Einari Kurittu,08/09,Finland,2688,MYPA 
+"Feb 1, 2016",Free transfer,Finland,2925,FC Lahti ,5019,250 Th. €,Henrik Moisander,15/16,Finland,8042,FC Inter 
+"Jan 1, 2014",Free transfer,Finland,2275,TPS ,5019,200 Th. €,Henrik Moisander,13/14,Finland,2925,FC Lahti 
+"Jan 1, 2011",Free transfer,Finland,23195,Åbo IFK ,5019,100 Th. €,Henrik Moisander,10/11,Finland,2275,TPS 
+"Aug 1, 2010",Free transfer,Finland,2275,TPS ,5019,50 Th. €,Henrik Moisander,10/11,Finland,23195,Åbo IFK 
+"Mar 1, 2010",Free transfer,Finland,1102,VPS ,5019,50 Th. €,Henrik Moisander,09/10,Finland,2275,TPS 
+"Jan 1, 2009",Free transfer,Finland,2275,TPS ,5019,100 Th. €,Henrik Moisander,08/09,Finland,1102,VPS 
+"Jan 1, 2008",?,Sweden,4380,Assyriska FF ,5019,150 Th. €,Henrik Moisander,07/08,Finland,2275,TPS 
+"Jul 1, 2006",Free transfer,Netherlands,2824,Ajax U19 ,5019,50 Th. €,Henrik Moisander,06/07,Sweden,4380,Assyriska FF 
+"Jul 1, 2003",100 Th. €,Finland,2275,TPS ,5019,-,Henrik Moisander,03/04,Netherlands,2824,Ajax U19 
+"Dec 1, 2010",Free transfer,"Korea, South",31000,Yongin City FC ,104862,50 Th. €,Hyun-Kwan Kim,10/11,,75,Unknown 
+"Jan 1, 2010",Free transfer,"Korea, South",35292,Changwon City ,104862,50 Th. €,Hyun-Kwan Kim,09/10,"Korea, South",31000,Yongin City FC 
+"Jul 1, 2009",Free transfer,Finland,3779,JJK ,104862,50 Th. €,Hyun-Kwan Kim,09/10,"Korea, South",35292,Changwon City 
+"Mar 1, 2009",Free transfer,"Korea, South",6500,FC Seoul ,104862,-,Hyun-Kwan Kim,08/09,Finland,3779,JJK 
+"Jan 1, 2008",Free transfer,"Korea, South",24043,Dongguk  ,104862,-,Hyun-Kwan Kim,07/08,"Korea, South",6500,FC Seoul 
+"Jan 1, 2015",?,Finland,21520,Mikkelin ,104863,-,Tuomas Kolehmainen,14/15,,75,Unknown 
+"Apr 1, 2011",?,Finland,6251,KuPS ,104863,25 Th. €,Tuomas Kolehmainen,10/11,Finland,21520,Mikkelin 
+"Jan 1, 2010",-,Finland,19331,KuPS U19 ,104863,50 Th. €,Tuomas Kolehmainen,09/10,Finland,6251,KuPS 
+"Apr 1, 2010",Free transfer,Finland,2688,MYPA ,99987,250 Th. €,Ben Webster,09/10,,75,Unknown 
+"Jan 1, 2009",Free transfer,England,12629,Newcastle Blue Star ,99987,-,Ben Webster,08/09,Finland,2688,MYPA 
+"Dec 1, 2013",?,Sweden,75,Unknown ,73657,25 Th. €,Felix Akerlund,13/14,,42263,Huddinge IF 
+"Jan 1, 2013",?,Finland,23195,Åbo IFK ,73657,25 Th. €,Felix Akerlund,12/13,,75,Unknown 
+"Jan 1, 2008",-,Finland,20873,FC Inter U19 ,73657,-,Felix Akerlund,07/08,Finland,23195,Åbo IFK 
+"Jul 1, 2016",?,Germany,25,Energie Cottbus ,73662,375 Th. €,Joni Kauko,16/17,,75,Unknown 
+"Jul 1, 2015",Free transfer,Germany,293,FSV Frankfurt ,73662,400 Th. €,Joni Kauko,15/16,Germany,25,Energie Cottbus 
+"Jul 1, 2013",?,Finland,2925,FC Lahti ,73662,500 Th. €,Joni Kauko,13/14,Germany,293,FSV Frankfurt 
+"Jan 16, 2013",Free transfer,Finland,8042,FC Inter ,73662,500 Th. €,Joni Kauko,12/13,Finland,2925,FC Lahti 
+"Jan 1, 2008",-,Finland,20873,FC Inter U19 ,73662,-,Joni Kauko,07/08,Finland,8042,FC Inter 
+"Jan 1, 2015",?,Finland,23197,FC Sinimustat ,73667,25 Th. €,Ville Mäkilä,14/15,,75,Unknown 
+"Jan 1, 2008",-,Finland,20873,FC Inter U19 ,73667,-,Ville Mäkilä,07/08,Finland,23197,FC Sinimustat 
+"Jan 1, 2016",-,Finland,11149,Atlantis FC ,73674,-,Jussi Äijälä,15/16,,515,Unattached 
+"Jan 1, 2012",Free transfer,Finland,10786,FC Popa ,73674,300 Th. €,Jussi Äijälä,11/12,Finland,11149,Atlantis FC 
+"Dec 1, 2011",End of loan,Finland,20956,Lohjan Pallo ,73674,300 Th. €,Jussi Äijälä,11/12,Finland,10786,FC Popa 
+"Sep 1, 2011",Loan,Finland,10786,FC Popa ,73674,300 Th. €,Jussi Äijälä,11/12,Finland,20956,Lohjan Pallo 
+"Jan 1, 2011",Free transfer,Finland,1102,VPS ,73674,300 Th. €,Jussi Äijälä,10/11,Finland,10786,FC Popa 
+"Jan 1, 2009",Free transfer,Finland,7008,AC Oulu ,73674,-,Jussi Äijälä,08/09,Finland,1102,VPS 
+"Jan 1, 2011",-,Finland,6017,IFK Mariehamn ,73687,25 Th. €,Simon Enqvist,10/11,,123,End of career 
+"Jan 1, 2015",-,Finland,6578,Hämeenlinna ,50650,-,Jussi Heikkinen,14/15,,515,Unattached 
+"Jan 1, 2013",Free transfer,Finland,26736,Härmä ,50650,-,Jussi Heikkinen,12/13,Finland,6578,Hämeenlinna 
+"Jun 30, 2012",End of loan,Finland,6578,Hämeenlinna ,50650,-,Jussi Heikkinen,11/12,Finland,26736,Härmä 
+"Jun 2, 2012",Loan,Finland,26736,Härmä ,50650,-,Jussi Heikkinen,11/12,Finland,6578,Hämeenlinna 
+"Jan 1, 2012",Free transfer,Finland,6578,Hämeenlinna ,50650,-,Jussi Heikkinen,11/12,Finland,26736,Härmä 
+"Jan 1, 2010",Free transfer,Finland,2925,FC Lahti ,50650,50 Th. €,Jussi Heikkinen,09/10,Finland,6578,Hämeenlinna 
+"Feb 1, 2009",Free transfer,Finland,6578,Hämeenlinna ,50650,-,Jussi Heikkinen,08/09,Finland,2925,FC Lahti 
+"Apr 6, 2011",-,Finland,3776,RoPS ,103387,-,Godfrey Chibanga,10/11,,2077,Ban 
+"Apr 1, 2009",Free transfer,Zambia,23036,Afrisports FC ,103387,-,Godfrey Chibanga,08/09,Finland,3776,RoPS 
+"Jan 1, 2016",Free transfer,Finland,2925,FC Lahti ,50652,-,Markus Joenmäki,15/16,Finland,23929,HJS 
+"Jan 1, 2013",Free transfer,Finland,6251,KuPS ,50652,200 Th. €,Markus Joenmäki,12/13,Finland,2925,FC Lahti 
+"Jan 1, 2011",Free transfer,Finland,1225,FC Haka ,50652,200 Th. €,Markus Joenmäki,10/11,Finland,6251,KuPS 
+"Jan 1, 2009",Free transfer,Finland,6578,Hämeenlinna ,50652,-,Markus Joenmäki,08/09,Finland,1225,FC Haka 
+"Jan 1, 2016",Free transfer,"Korea, South",30925,Gwangju FC ,103391,400 Th. €,Jung-Hyuk Kwon,15/16,"Korea, South",35759,Bucheon FC 
+"Jan 1, 2015",Free transfer,"Korea, South",2996,Incheon United ,103391,400 Th. €,Jung-Hyuk Kwon,14/15,"Korea, South",30925,Gwangju FC 
+"Jul 1, 2011",?,"Korea, South",75,Unknown ,103391,400 Th. €,Jung-Hyuk Kwon,11/12,,2996,Incheon United 
+"Jan 1, 2011",?,Finland,1102,VPS ,103391,400 Th. €,Jung-Hyuk Kwon,10/11,,75,Unknown 
+"Jan 1, 2010",Free transfer,Finland,3776,RoPS ,103391,400 Th. €,Jung-Hyuk Kwon,09/10,Finland,1102,VPS 
+"Feb 1, 2009",Free transfer,"Korea, South",6500,FC Seoul ,103391,-,Jung-Hyuk Kwon,08/09,Finland,3776,RoPS 
+"Jan 1, 2016",-,Finland,24753,SC Kufu-98 ,103394,-,Jussi Kolari,15/16,,515,Unattached 
+"Jan 1, 2013",Free transfer,Finland,26739,SIPS ,103394,25 Th. €,Jussi Kolari,12/13,Finland,24753,SC Kufu-98 
+"Jan 1, 2012",Free transfer,Finland,6251,KuPS ,103394,25 Th. €,Jussi Kolari,11/12,Finland,26739,SIPS 
+"Jan 1, 2009",-,Finland,19331,KuPS U19 ,103394,-,Jussi Kolari,08/09,Finland,6251,KuPS 
+"Jan 1, 2016",Free transfer,Sweden,8843,Sandvikens IF ,92753,175 Th. €,Marcus Olofsson,15/16,Sweden,7961,Söderhamns FF 
+"Jan 21, 2013",Free transfer,Finland,6017,IFK Mariehamn ,92753,175 Th. €,Marcus Olofsson,12/13,Sweden,8843,Sandvikens IF 
+"Jan 1, 2009",Free transfer,Sweden,8843,Sandvikens IF ,92753,-,Marcus Olofsson,08/09,Finland,6017,IFK Mariehamn 
+"Jan 1, 2010",Free transfer,Finland,3776,RoPS ,103404,350 Th. €,White Simwanza,09/10,,75,Unknown 
+"Apr 1, 2009",Free transfer,Zambia,23043,Young Arrows ,103404,-,White Simwanza,08/09,Finland,3776,RoPS 
+"Jan 1, 2011",Free transfer,Finland,10528,JIPPO ,103406,-,Ville Strandmann,10/11,,75,Unknown 
+"Jan 1, 2010",Free transfer,Finland,19331,KuPS U19 ,103406,50 Th. €,Ville Strandmann,09/10,Finland,10528,JIPPO 
+"Feb 1, 2011",10 Th. €,Estonia,5771,Levadia ,38389,300 Th. €,Tarmo Neemelo,10/11,Estonia,22783,Kalju Nömme 
+"Jul 1, 2009",Free transfer,Belgium,3508,Zulte Waregem ,38389,500 Th. €,Tarmo Neemelo,09/10,Estonia,5771,Levadia 
+"Jan 1, 2009",125 Th. €,Finland,2688,MYPA ,38389,500 Th. €,Tarmo Neemelo,08/09,Belgium,3508,Zulte Waregem 
+"Jan 1, 2008",Free transfer,Sweden,699,Helsingborgs IF ,38389,"1,00 Mill. €",Tarmo Neemelo,07/08,Finland,2688,MYPA 
+"Dec 1, 2007",End of loan,Sweden,2843,GIF Sundsvall ,38389,"1,00 Mill. €",Tarmo Neemelo,07/08,Sweden,699,Helsingborgs IF 
+"Jan 1, 2007",Loan fee:175 Th. €,Sweden,699,Helsingborgs IF ,38389,"1,00 Mill. €",Tarmo Neemelo,06/07,Sweden,2843,GIF Sundsvall 
+"Dec 1, 2006",End of loan,Estonia,8964,TVMK Tallinn ,38389,"1,00 Mill. €",Tarmo Neemelo,06/07,Sweden,699,Helsingborgs IF 
+"Aug 1, 2006",Loan fee:200 Th. €,Sweden,699,Helsingborgs IF ,38389,"1,00 Mill. €",Tarmo Neemelo,06/07,Estonia,8964,TVMK Tallinn 
+"Mar 1, 2006",400 Th. €,Estonia,8964,TVMK Tallinn ,38389,-,Tarmo Neemelo,05/06,Sweden,699,Helsingborgs IF 
+"Jan 1, 2004",1 Th. €,Estonia,23368,Kuressaare ,38389,-,Tarmo Neemelo,03/04,Estonia,8964,TVMK Tallinn 
+"Jan 1, 2001",?,Estonia,39094,Lelle SK ,38389,-,Tarmo Neemelo,00/01,Estonia,23368,Kuressaare 
+"Mar 15, 2015",Free transfer,Finland,5411,FC Honka ,73722,200 Th. €,Henri Aalto,13/14,Finland,23777,SJK 
+"Aug 31, 2008",End of loan,Finland,17396,Grankulla IFK ,73722,-,Henri Aalto,08/09,Finland,5411,FC Honka 
+"Jun 1, 2008",Loan,Finland,5411,FC Honka ,73722,-,Henri Aalto,07/08,Finland,17396,Grankulla IFK 
+"Apr 1, 2010",Free transfer,Finland,1225,FC Haka ,73727,50 Th. €,Niko Hoikkala,09/10,Finland,22374,OLS 
