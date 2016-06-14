@@ -96,4 +96,10 @@ def extractLeagues(leagues):
 #python lib/playerdata.py GB1 FR1 NL1 RU1
 #python lib/playerdata.py ES1 IT1 MLS1 GB2
 #python lib/playerdata.py L1 PO1 TR1 BE1
+
+#python lib/playerdata.py TS1 SLO1
+#python lib/playerdata.py SL1 FI1
+#python lib/playerdata.py LUX1 AZ1
+
+#'TS1','SLO1','SL1','FI1','LUX1','AZ1'
 extractLeagues(sys.argv[1:])
