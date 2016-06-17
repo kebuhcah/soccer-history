@@ -1,0 +1,768 @@
+date,error,fee,fromCountry,fromTeamId,fromTeamName,id,mv,playerName,season,toCountry,toTeamId,toTeamName
+"Jan 1, 2014",,-,Ireland,3909.0,Shelbourne ,36869,-,Garreth O'Connor,13/14,,123.0,End of career 
+"Jun 1, 2013",,-,Ireland,515.0,Unattached ,36869,200 Th. €,Garreth O'Connor,12/13,,3909.0,Shelbourne 
+"Jul 1, 2012",,-,Ireland,14814.0,Monaghan United ,36869,200 Th. €,Garreth O'Connor,12/13,,515.0,Unattached 
+"Jan 1, 2012",,Free transfer,Australia,28625.0,Stirling Lions ,36869,200 Th. €,Garreth O'Connor,11/12,Ireland,14814.0,Monaghan United 
+"Jan 1, 2011",,Free transfer,Ireland,1189.0,St. Patricks ,36869,200 Th. €,Garreth O'Connor,10/11,Australia,28625.0,Stirling Lions 
+"Jul 1, 2010",,Free transfer,Ireland,4277.0,Drogheda United ,36869,200 Th. €,Garreth O'Connor,10/11,Ireland,1189.0,St. Patricks 
+"Jan 1, 2010",,Free transfer,Ireland,1189.0,St. Patricks ,36869,200 Th. €,Garreth O'Connor,09/10,Ireland,4277.0,Drogheda United 
+"Feb 1, 2009",,Free transfer,England,1031.0,Luton Town ,36869,200 Th. €,Garreth O'Connor,08/09,Ireland,1189.0,St. Patricks 
+"Jul 1, 2008",,Free transfer,England,1132.0,Burnley FC ,36869,200 Th. €,Garreth O'Connor,08/09,England,1031.0,Luton Town 
+"Oct 1, 2007",,End of loan,England,989.0,Bournemouth ,36869,200 Th. €,Garreth O'Connor,07/08,England,1132.0,Burnley FC 
+"Aug 1, 2007",,Loan,England,1132.0,Burnley FC ,36869,200 Th. €,Garreth O'Connor,07/08,England,989.0,Bournemouth 
+"Jul 1, 2005",,Free transfer,England,989.0,Bournemouth ,36869,-,Garreth O'Connor,05/06,England,1132.0,Burnley FC 
+"Jul 1, 2000",,Free transfer,Ireland,9211.0,Bohemians ,36869,-,Garreth O'Connor,00/01,England,989.0,Bournemouth 
+"Jul 1, 1999",,Free transfer,Ireland,3258.0,Shamrock Rovers ,36869,-,Garreth O'Connor,99/00,Ireland,9211.0,Bohemians 
+"Jul 1, 1998",,Free transfer,Ireland,9211.0,Bohemians ,36869,-,Garreth O'Connor,98/99,Ireland,3258.0,Shamrock Rovers 
+"Jul 1, 1995",,Free transfer,Ireland,6064.0,Belvedere FC ,36869,-,Garreth O'Connor,95/96,Ireland,9211.0,Bohemians 
+"Jul 1, 2011",,-,Scotland,1192.0,Ayr United ,13323,-,Jim Lauchlan,11/12,,123.0,End of career 
+"Jan 1, 2011",,Free transfer,Ireland,8780.0,Sligo Rovers ,13323,300 Th. €,Jim Lauchlan,10/11,Scotland,1192.0,Ayr United 
+"Jul 1, 2010",,Free transfer,Scotland,511.0,Dundee FC ,13323,300 Th. €,Jim Lauchlan,10/11,Ireland,8780.0,Sligo Rovers 
+"Jul 1, 2008",,Free transfer,Scotland,3001.0,Queen o. t. S. ,13323,50 Th. €,Jim Lauchlan,08/09,Scotland,511.0,Dundee FC 
+"Jul 1, 2006",,Free transfer,Scotland,2759.0,Ross County ,13323,50 Th. €,Jim Lauchlan,06/07,Scotland,3001.0,Queen o. t. S. 
+"Jan 1, 2004",,Free transfer,Scotland,1241.0,Livingston FC ,13323,-,Jim Lauchlan,03/04,Scotland,2759.0,Ross County 
+"Jul 1, 2003",,Free transfer,Scotland,1519.0,Dundee United ,13323,-,Jim Lauchlan,03/04,Scotland,1241.0,Livingston FC 
+"Jul 1, 2000",,Free transfer,Scotland,2553.0,Kilmarnock FC ,13323,-,Jim Lauchlan,00/01,Scotland,1519.0,Dundee United 
+"Jul 1, 1994",,-,Scotland,31033.0,Kilmarnock FC U17 ,13323,-,Jim Lauchlan,94/95,Scotland,2553.0,Kilmarnock FC 
+"Jan 1, 2010",,Free transfer,Ireland,8780.0,Sligo Rovers ,105485,-,Eoin Torpey,09/10,,75.0,Unknown 
+"Jul 1, 2010",,Free transfer,Ireland,6066.0,Dundalk FC ,126478,50 Th. €,Billy Smith,10/11,,75.0,Unknown 
+"Jan 1, 2010",,-,Ireland,22825.0,Dundalk FC U20 ,126478,-,Billy Smith,09/10,Ireland,6066.0,Dundalk FC 
+"Dec 13, 2014",,Free transfer,Ireland,3472.0,Tolka Rovers ,153616,-,Lee Dixon,14/15,,75.0,Unknown 
+"Jul 1, 2013",,Free transfer,Ireland,4273.0,Athlone Town ,153616,-,Lee Dixon,13/14,Ireland,3472.0,Tolka Rovers 
+"Jan 1, 2013",,Free transfer,Ireland,3930.0,Bray Wanderers ,153616,-,Lee Dixon,12/13,Ireland,4273.0,Athlone Town 
+"Jul 1, 2012",,Free transfer,Ireland,9211.0,Bohemians ,153616,-,Lee Dixon,12/13,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2011",,-,Ireland,22468.0,BFCD U20 ,153616,-,Lee Dixon,10/11,Ireland,9211.0,Bohemians 
+"Jan 1, 2014",,-,Ireland,4286.0,Limerick FC ,57361,-,Stephen Bradley,13/14,,123.0,End of career 
+"Jan 1, 2012",,Free transfer,Ireland,1189.0,St. Patricks ,57361,200 Th. €,Stephen Bradley,11/12,Ireland,4286.0,Limerick FC 
+"Jan 1, 2011",,Free transfer,Ireland,3258.0,Shamrock Rovers ,57361,200 Th. €,Stephen Bradley,10/11,Ireland,1189.0,St. Patricks 
+"Jan 1, 2009",,Free transfer,Scotland,1191.0,Falkirk FC ,57361,200 Th. €,Stephen Bradley,08/09,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2008",,Free transfer,Ireland,4277.0,Drogheda United ,57361,-,Stephen Bradley,07/08,Scotland,1191.0,Falkirk FC 
+"Jun 1, 2007",,Free transfer,Scotland,1270.0,Dunfermline A. ,57361,-,Stephen Bradley,06/07,Ireland,4277.0,Drogheda United 
+"Oct 1, 2004",,Free transfer,England,11.0,Arsenal ,57361,-,Stephen Bradley,04/05,Scotland,1270.0,Dunfermline A. 
+"Jul 1, 2004",,-,England,5679.0,Arsenal U18  ,57361,-,Stephen Bradley,04/05,England,11.0,Arsenal 
+"Apr 27, 2012",,-,United States,75.0,Unknown ,153624,-,Orrin Farrell,11/12,,35247.0,Mississippi 
+"Jan 1, 2012",,Free transfer,United States,32371.0,Madison Dukes ,153624,-,Orrin Farrell,11/12,,75.0,Unknown 
+"Jan 1, 2011",,Free transfer,Ireland,22468.0,BFCD U20 ,153624,-,Orrin Farrell,10/11,United States,32371.0,Madison Dukes 
+"Jan 1, 2010",,Free transfer,Ireland,15279.0,Kildare County ,153624,-,Orrin Farrell,09/10,Ireland,22468.0,BFCD U20 
+"Jul 1, 2015",,Free transfer,Northern Ireland,40654.0,Warrenpoint ,107546,50 Th. €,Stephen McDonnell,15/16,,75.0,Unknown 
+"Jul 1, 2014",,Free transfer,Ireland,3909.0,Shelbourne ,107546,50 Th. €,Stephen McDonnell,14/15,Northern Ireland,40654.0,Warrenpoint 
+"Jan 1, 2014",,Free transfer,Ireland,6066.0,Dundalk FC ,107546,50 Th. €,Stephen McDonnell,13/14,Ireland,3909.0,Shelbourne 
+"Jan 1, 2010",,Free transfer,Scotland,8924.0,Celtic U20 ,107546,-,Stephen McDonnell,09/10,Ireland,6066.0,Dundalk FC 
+"Feb 2, 2015",,-,Scotland,3033.0,Stirling ,43525,-,James Creaney,14/15,,515.0,Unattached 
+"Jul 24, 2014",,Free transfer,Scotland,3020.0,Alloa AFC ,43525,75 Th. €,James Creaney,14/15,Scotland,3033.0,Stirling 
+"Jul 25, 2013",,Free transfer,Scotland,3023.0,Dumbarton FC ,43525,100 Th. €,James Creaney,13/14,Scotland,3020.0,Alloa AFC 
+"Aug 21, 2010",,Free transfer,Ireland,9212.0,Galway United ,43525,50 Th. €,James Creaney,10/11,Scotland,3023.0,Dumbarton FC 
+"Jan 1, 2010",,Free transfer,Ireland,6066.0,Dundalk FC ,43525,-,James Creaney,09/10,Ireland,9212.0,Galway United 
+"Jul 1, 2009",,Free transfer,Scotland,3034.0,Stranraer ,43525,-,James Creaney,09/10,Ireland,6066.0,Dundalk FC 
+"Oct 1, 2007",,Free transfer,Scotland,1192.0,Ayr United ,43525,-,James Creaney,07/08,Scotland,3034.0,Stranraer 
+"Jul 1, 2005",,Free transfer,Scotland,9046.0,Kilmarnock FC U20 ,43525,-,James Creaney,05/06,Scotland,1192.0,Ayr United 
+"Oct 1, 2011",,-,England,515.0,Unattached ,8737,125 Th. €,JJ Melligan,11/12,,12335.0,Solihull 
+"Jul 1, 2011",,-,England,3371.0,Cheltenham Town ,8737,125 Th. €,JJ Melligan,11/12,,515.0,Unattached 
+"Jul 1, 2010",,Free transfer,Ireland,6066.0,Dundalk FC ,8737,125 Th. €,JJ Melligan,10/11,England,3371.0,Cheltenham Town 
+"Feb 1, 2010",,Free transfer,England,1150.0,Leyton Orient ,8737,125 Th. €,JJ Melligan,09/10,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2006",,Free transfer,England,3371.0,Cheltenham Town ,8737,125 Th. €,JJ Melligan,06/07,England,1150.0,Leyton Orient 
+"Jul 1, 2004",,40 Th. €,England,543.0,Wolves ,8737,-,JJ Melligan,04/05,England,3371.0,Cheltenham Town 
+"May 1, 2004",,End of loan,England,2454.0,Doncaster Rov. ,8737,-,JJ Melligan,03/04,England,543.0,Wolves 
+"Dec 1, 2003",,Loan,England,543.0,Wolves ,8737,-,JJ Melligan,03/04,England,2454.0,Doncaster Rov. 
+"Nov 1, 2003",,End of loan,England,1195.0,Kidderminster ,8737,-,JJ Melligan,03/04,England,543.0,Wolves 
+"Oct 1, 2003",,Loan,England,543.0,Wolves ,8737,-,JJ Melligan,03/04,England,1195.0,Kidderminster 
+"May 1, 2003",,End of loan,England,1195.0,Kidderminster ,8737,-,JJ Melligan,02/03,England,543.0,Wolves 
+"Sep 1, 2002",,Loan,England,543.0,Wolves ,8737,-,JJ Melligan,02/03,England,1195.0,Kidderminster 
+"Feb 1, 2002",,End of loan,England,989.0,Bournemouth ,8737,-,JJ Melligan,01/02,England,543.0,Wolves 
+"Dec 1, 2001",,Loan,England,543.0,Wolves ,8737,-,JJ Melligan,01/02,England,989.0,Bournemouth 
+"Jul 1, 2000",,-,England,12801.0,Wolves U18 ,8737,-,JJ Melligan,00/01,England,543.0,Wolves 
+"Feb 19, 2016",,Free transfer,Ireland,1189.0,St. Patricks ,122407,50 Th. €,Aaron Greene,15/16,Ireland,4286.0,Limerick FC 
+"Jul 31, 2014",,Free transfer,Ireland,8780.0,Sligo Rovers ,122407,50 Th. €,Aaron Greene,14/15,Ireland,1189.0,St. Patricks 
+"Jan 1, 2013",,Free transfer,Ireland,3258.0,Shamrock Rovers ,122407,50 Th. €,Aaron Greene,12/13,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2012",,Free transfer,Ireland,8780.0,Sligo Rovers ,122407,50 Th. €,Aaron Greene,11/12,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2011",,Free transfer,Ireland,9211.0,Bohemians ,122407,50 Th. €,Aaron Greene,10/11,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2010",,Free transfer,Ireland,9212.0,Galway United ,122407,-,Aaron Greene,09/10,Ireland,9211.0,Bohemians 
+"Jan 1, 2012",,Free transfer,Ireland,3930.0,Bray Wanderers ,96297,50 Th. €,Chris Shields,11/12,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2009",,-,Ireland,15257.0,Bray Wanderers ,96297,-,Chris Shields,08/09,Ireland,3930.0,Bray Wanderers 
+"Feb 28, 2015",,-,Ireland,3930.0,Bray Wanderers ,96301,50 Th. €,Dean Zambra,14/15,,2113.0,career break 
+"Jan 1, 2008",,-,Ireland,15257.0,Bray Wanderers ,96301,-,Dean Zambra,07/08,Ireland,3930.0,Bray Wanderers 
+"Jan 10, 2014",,Free transfer,England,3684.0,Stevenage FC ,116791,50 Th. €,Don Cowan,13/14,Ireland,4287.0,Longford Town 
+"Sep 27, 2013",,-,England,515.0,Unattached ,116791,50 Th. €,Don Cowan,13/14,,3684.0,Stevenage FC 
+"Sep 5, 2013",,-,England,2793.0,Southend United ,116791,50 Th. €,Don Cowan,13/14,,515.0,Unattached 
+"Aug 5, 2013",,Free transfer,Scotland,511.0,Dundee FC ,116791,50 Th. €,Don Cowan,13/14,England,2793.0,Southend United 
+"Mar 15, 2013",,Free transfer,England,3684.0,Stevenage FC ,116791,50 Th. €,Don Cowan,12/13,Scotland,511.0,Dundee FC 
+"Dec 22, 2012",,End of loan,England,6340.0,Braintree ,116791,50 Th. €,Don Cowan,12/13,England,3684.0,Stevenage FC 
+"Nov 22, 2012",,Loan,England,3684.0,Stevenage FC ,116791,50 Th. €,Don Cowan,12/13,England,6340.0,Braintree 
+"Sep 13, 2011",,?,Ireland,4287.0,Longford Town ,116791,50 Th. €,Don Cowan,11/12,England,3684.0,Stevenage FC 
+"Jan 1, 2011",,Free transfer,Ireland,3258.0,Shamrock Rovers ,116791,50 Th. €,Don Cowan,10/11,Ireland,4287.0,Longford Town 
+"Dec 1, 2010",,End of loan,Ireland,4287.0,Longford Town ,116791,50 Th. €,Don Cowan,10/11,Ireland,3258.0,Shamrock Rovers 
+"Jul 1, 2010",,Loan,Ireland,3258.0,Shamrock Rovers ,116791,50 Th. €,Don Cowan,10/11,Ireland,4287.0,Longford Town 
+"Jan 1, 2010",,-,Ireland,15293.0,Shamrock Rovers ,116791,-,Don Cowan,09/10,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2009",,Free transfer,Ireland,9209.0,Crumlin United ,116791,-,Don Cowan,08/09,Ireland,15293.0,Shamrock Rovers 
+"Jan 1, 2011",,Free transfer,Ireland,6066.0,Dundalk FC ,61620,50 Th. €,Garry Breen,10/11,Northern Ireland,5594.0,Portadown 
+"Jan 1, 2010",,Free transfer,Ireland,9212.0,Galway United ,61620,-,Garry Breen,09/10,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2009",,Free transfer,England,3064.0,Hereford Utd. ,61620,-,Garry Breen,08/09,Ireland,9212.0,Galway United 
+"Jul 1, 2008",,Free transfer,England,6930.0,Man City U18 ,61620,-,Garry Breen,08/09,England,3064.0,Hereford Utd. 
+"Jan 1, 2014",,-,Ireland,920.0,Derry City ,108603,50 Th. €,Eoghan Osbourne,13/14,,515.0,Unattached 
+"Jul 8, 2013",,Free transfer,Ireland,6066.0,Dundalk FC ,108603,50 Th. €,Eoghan Osbourne,13/14,Ireland,920.0,Derry City 
+"Jan 1, 2011",,Free transfer,Ireland,4277.0,Drogheda United ,108603,50 Th. €,Eoghan Osbourne,10/11,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2013",,Free transfer,Ireland,9211.0,Bohemians ,64065,50 Th. €,Andy McNulty,12/13,Ireland,21852.0,Bluebell United 
+"Jan 1, 2012",,Free transfer,Ireland,21852.0,Bluebell United ,64065,50 Th. €,Andy McNulty,11/12,Ireland,9211.0,Bohemians 
+"Jan 1, 2010",,Free transfer,Ireland,3930.0,Bray Wanderers ,64065,-,Andy McNulty,09/10,Ireland,21852.0,Bluebell United 
+"Jul 1, 2009",,Free transfer,Scotland,2451.0,Inverness Cal. ,64065,-,Andy McNulty,09/10,Ireland,3930.0,Bray Wanderers 
+"Jun 30, 2009",,End of loan,Scotland,3028.0,Elgin City ,64065,-,Andy McNulty,08/09,Scotland,2451.0,Inverness Cal. 
+"Aug 1, 2008",,Loan,Scotland,12581.0,Inverness Caledonian Thistle Reserves ,64065,-,Andy McNulty,08/09,Scotland,3028.0,Elgin City 
+"Jul 1, 2015",,Free transfer,Northern Ireland,40654.0,Warrenpoint ,136258,50 Th. €,Johnny Breen,15/16,,75.0,Unknown 
+"Aug 1, 2014",,Free transfer,Northern Ireland,75.0,Unknown ,136258,50 Th. €,Johnny Breen,14/15,,40654.0,Warrenpoint 
+"Jan 1, 2013",,Free transfer,Ireland,4277.0,Drogheda United ,136258,50 Th. €,Johnny Breen,12/13,,75.0,Unknown 
+"Jan 1, 2012",,Free transfer,Ireland,6066.0,Dundalk FC ,136258,50 Th. €,Johnny Breen,11/12,Ireland,4277.0,Drogheda United 
+"Jan 1, 2010",,-,Ireland,22825.0,Dundalk FC U20 ,136258,-,Johnny Breen,09/10,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2013",,Free transfer,Ireland,6066.0,Dundalk FC ,108624,50 Th. €,William Woods,12/13,,75.0,Unknown 
+"Jul 19, 2012",,-,Ireland,515.0,Unattached ,108624,50 Th. €,William Woods,12/13,,6066.0,Dundalk FC 
+"Jan 1, 2011",,-,Ireland,21690.0,Drogheda U20 ,108624,50 Th. €,William Woods,10/11,,515.0,Unattached 
+"Jul 31, 2014",,Free transfer,Ireland,4273.0,Athlone Town ,152151,-,Neil Harney,14/15,Ireland,32519.0,St. Peters FC 
+"Jul 1, 2012",,Free transfer,Ireland,9211.0,Bohemians ,152151,-,Neil Harney,12/13,Ireland,4273.0,Athlone Town 
+"Jan 1, 2012",,Free transfer,Ireland,1189.0,St. Patricks ,152151,-,Neil Harney,11/12,Ireland,9211.0,Bohemians 
+"Jan 1, 2011",,-,Ireland,15436.0,St. Pats ,152151,-,Neil Harney,10/11,Ireland,1189.0,St. Patricks 
+"Jan 1, 2016",,Free transfer,Ireland,27774.0,Cork City ,39512,50 Th. €,Ross Gaynor,15/16,Northern Ireland,3471.0,Linfield 
+"Jul 30, 2014",,Free transfer,Ireland,8780.0,Sligo Rovers ,39512,50 Th. €,Ross Gaynor,14/15,Ireland,27774.0,Cork City 
+"Jan 1, 2012",,Free transfer,Ireland,6066.0,Dundalk FC ,39512,50 Th. €,Ross Gaynor,11/12,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2010",,Free transfer,Ireland,18232.0,Sporting Fingal ,39512,50 Th. €,Ross Gaynor,09/10,Ireland,6066.0,Dundalk FC 
+"Dec 1, 2009",,End of loan,Ireland,4277.0,Drogheda United ,39512,50 Th. €,Ross Gaynor,09/10,Ireland,18232.0,Sporting Fingal 
+"Jul 1, 2009",,Loan,Ireland,18232.0,Sporting Fingal ,39512,50 Th. €,Ross Gaynor,09/10,Ireland,4277.0,Drogheda United 
+"Jan 1, 2009",,?,Ireland,7039.0,Cobh Ramblers ,39512,50 Th. €,Ross Gaynor,08/09,Ireland,18232.0,Sporting Fingal 
+"Jul 1, 2008",,Free transfer,England,1028.0,Millwall ,39512,50 Th. €,Ross Gaynor,08/09,Ireland,7039.0,Cobh Ramblers 
+"Mar 1, 2007",,End of loan,England,3052.0,Sutton United ,39512,50 Th. €,Ross Gaynor,06/07,England,1028.0,Millwall 
+"Nov 1, 2006",,Loan,England,1028.0,Millwall ,39512,50 Th. €,Ross Gaynor,06/07,England,3052.0,Sutton United 
+"Jul 1, 2006",,-,England,14620.0,Millwall U18 ,39512,50 Th. €,Ross Gaynor,06/07,England,1028.0,Millwall 
+"Jul 1, 2011",,Free transfer,Ireland,15257.0,Bray Wanderers ,152153,-,Robert Lambert,11/12,,75.0,Unknown 
+"Jan 1, 2013",,Free transfer,Ireland,9211.0,Bohemians ,145498,50 Th. €,Peter McMahon,12/13,,75.0,Unknown 
+"Jan 1, 2012",,Free transfer,Ireland,4277.0,Drogheda United ,145498,50 Th. €,Peter McMahon,11/12,Ireland,9211.0,Bohemians 
+"Jul 1, 2011",,-,Ireland,515.0,Unattached ,145498,50 Th. €,Peter McMahon,11/12,,4277.0,Drogheda United 
+"Jan 1, 2011",,-,Ireland,4277.0,Drogheda United ,145498,50 Th. €,Peter McMahon,10/11,,515.0,Unattached 
+"Jul 1, 2010",,Free transfer,Ireland,6069.0,UCD ,145498,50 Th. €,Peter McMahon,10/11,Ireland,4277.0,Drogheda United 
+"Jan 1, 2009",,Free transfer,Ireland,4277.0,Drogheda United ,145498,-,Peter McMahon,08/09,Ireland,6069.0,UCD 
+"Nov 1, 2012",,?,Iceland,21875.0,UMF Stjarnan ,62050,50 Th. €,Mark Doninger,12/13,England,3866.0,Bedlington Terriers FC 
+"Jul 21, 2012",,?,Iceland,1231.0,ÍA Akranes ,62050,50 Th. €,Mark Doninger,12/13,Iceland,21875.0,UMF Stjarnan 
+"Feb 1, 2011",,-,Iceland,515.0,Unattached ,62050,50 Th. €,Mark Doninger,10/11,,1231.0,ÍA Akranes 
+"Jul 1, 2010",,-,Ireland,8780.0,Sligo Rovers ,62050,50 Th. €,Mark Doninger,10/11,,515.0,Unattached 
+"Jan 1, 2010",,Free transfer,England,4310.0,Blyth Spartans ,62050,-,Mark Doninger,09/10,Ireland,8780.0,Sligo Rovers 
+"Jul 1, 2009",,Free transfer,England,762.0,Newcastle ,62050,-,Mark Doninger,09/10,England,4310.0,Blyth Spartans 
+"Jul 1, 2008",,-,England,6943.0,Newcastle U18 ,62050,-,Mark Doninger,08/09,England,762.0,Newcastle 
+"Jan 1, 2013",,Free transfer,Ireland,3258.0,Shamrock Rovers ,12402,100 Th. €,Gary Twigg,12/13,Northern Ireland,5594.0,Portadown 
+"Jan 1, 2009",,Free transfer,Scotland,3194.0,Brechin City ,12402,100 Th. €,Gary Twigg,08/09,Ireland,3258.0,Shamrock Rovers 
+"Jul 1, 2008",,Free transfer,Scotland,2999.0,Hamilton Acad. ,12402,100 Th. €,Gary Twigg,08/09,Scotland,3194.0,Brechin City 
+"Jan 1, 2008",,30 Th. €,England,988.0,Oxford United ,12402,75 Th. €,Gary Twigg,07/08,Scotland,2999.0,Hamilton Acad. 
+"Jul 1, 2007",,Free transfer,Scotland,2802.0,Airdrie United ,12402,75 Th. €,Gary Twigg,07/08,England,988.0,Oxford United 
+"Jul 1, 2005",,Free transfer,England,22.0,Derby ,12402,75 Th. €,Gary Twigg,05/06,Scotland,2802.0,Airdrie United 
+"May 1, 2004",,End of loan,England,2455.0,Bristol Rovers ,12402,-,Gary Twigg,03/04,England,22.0,Derby 
+"Apr 1, 2004",,Loan,England,22.0,Derby ,12402,-,Gary Twigg,03/04,England,2455.0,Bristol Rovers 
+"Mar 1, 2004",,End of loan,England,2963.0,Burton Albion ,12402,-,Gary Twigg,03/04,England,22.0,Derby 
+"Sep 1, 2003",,Loan,England,22.0,Derby ,12402,-,Gary Twigg,03/04,England,2963.0,Burton Albion 
+"Jul 1, 2000",,-,England,10002.0,Derby U18 ,12402,-,Gary Twigg,00/01,England,22.0,Derby 
+"Jul 1, 2015",,-,Ireland,515.0,Unattached ,104126,50 Th. €,Keith Quinn,15/16,,21852.0,Bluebell United 
+"Jan 1, 2015",,-,Ireland,3909.0,Shelbourne ,104126,50 Th. €,Keith Quinn,14/15,,515.0,Unattached 
+"Feb 2, 2014",,Free transfer,Ireland,4287.0,Longford Town ,104126,50 Th. €,Keith Quinn,13/14,Ireland,3909.0,Shelbourne 
+"Jan 1, 2013",,Free transfer,Ireland,27774.0,Cork City ,104126,50 Th. €,Keith Quinn,12/13,Ireland,4287.0,Longford Town 
+"Jul 1, 2012",,Free transfer,Ireland,14814.0,Monaghan United ,104126,50 Th. €,Keith Quinn,12/13,Ireland,27774.0,Cork City 
+"Jul 1, 2011",,Free transfer,Ireland,7609.0,Waterford Utd. ,104126,50 Th. €,Keith Quinn,11/12,Ireland,14814.0,Monaghan United 
+"Jan 1, 2011",,Free transfer,Ireland,18232.0,Sporting Fingal ,104126,50 Th. €,Keith Quinn,10/11,Ireland,7609.0,Waterford Utd. 
+"Jan 1, 2010",,Free transfer,Ireland,21852.0,Bluebell United ,104126,50 Th. €,Keith Quinn,09/10,Ireland,18232.0,Sporting Fingal 
+"Jul 1, 2009",,Free transfer,England,350.0,Sheffield Utd. ,104126,-,Keith Quinn,09/10,Ireland,21852.0,Bluebell United 
+"May 1, 2009",,End of loan,Australia,6954.0,Central Coast Mariners ,104126,-,Keith Quinn,08/09,England,350.0,Sheffield Utd. 
+"Mar 1, 2009",,Loan,England,350.0,Sheffield Utd. ,104126,-,Keith Quinn,08/09,Australia,6954.0,Central Coast Mariners 
+"Jul 1, 2008",,-,England,12806.0,Sheff Utd U18 ,104126,-,Keith Quinn,08/09,England,350.0,Sheffield Utd. 
+"Jan 1, 2015",,Free transfer,Ireland,4277.0,Drogheda United ,132731,50 Th. €,Ciarán McGuigan,15/16,United States,53657.0,Lansdowne 
+"Jan 1, 2014",,Free transfer,Northern Ireland,40654.0,Warrenpoint ,132731,50 Th. €,Ciarán McGuigan,13/14,Ireland,4277.0,Drogheda United 
+"Sep 1, 2013",,Free transfer,Northern Ireland,75.0,Unknown ,132731,50 Th. €,Ciarán McGuigan,13/14,,40654.0,Warrenpoint 
+"Jan 1, 2012",,Free transfer,Sweden,22169.0,Syrianska IF ,132731,50 Th. €,Ciarán McGuigan,11/12,,75.0,Unknown 
+"Jan 1, 2011",,Free transfer,Ireland,6066.0,Dundalk FC ,132731,50 Th. €,Ciarán McGuigan,10/11,Sweden,22169.0,Syrianska IF 
+"Jan 1, 2009",,Free transfer,Northern Ireland,21930.0,Armagh City FC ,132731,-,Ciarán McGuigan,08/09,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2008",,Free transfer,Northern Ireland,3463.0,Glenavon ,132731,-,Ciarán McGuigan,07/08,Northern Ireland,21930.0,Armagh City FC 
+"Jan 1, 2007",,Free transfer,Ireland,22825.0,Dundalk FC U20 ,132731,-,Ciarán McGuigan,06/07,Northern Ireland,3463.0,Glenavon 
+"Jan 1, 2015",,Free transfer,Ireland,3930.0,Bray Wanderers ,92284,50 Th. €,David Webster,14/15,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2008",,-,Ireland,15257.0,Bray Wanderers ,92284,-,David Webster,07/08,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2011",,-,Ireland,6066.0,Dundalk FC ,100991,50 Th. €,John Smyth,10/11,,515.0,Unattached 
+"Jan 1, 2010",,-,Ireland,22825.0,Dundalk FC U20 ,100991,-,John Smyth,09/10,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2015",,-,Ireland,6069.0,UCD ,146560,-,Gerard Barron,14/15,,123.0,End of career 
+"Jul 1, 2008",,Free transfer,Scotland,8924.0,Celtic U20 ,146560,-,Gerard Barron,08/09,Ireland,6069.0,UCD 
+"Jan 1, 2015",,Free transfer,Ireland,1189.0,St. Patricks ,61571,50 Th. €,Lorcan Fitzgerald,14/15,Ireland,9211.0,Bohemians 
+"Jun 28, 2013",,-,Ireland,515.0,Unattached ,61571,50 Th. €,Lorcan Fitzgerald,12/13,,1189.0,St. Patricks 
+"Jan 1, 2013",,-,Ireland,3909.0,Shelbourne ,61571,50 Th. €,Lorcan Fitzgerald,12/13,,515.0,Unattached 
+"Jan 1, 2011",,Free transfer,Ireland,18232.0,Sporting Fingal ,61571,50 Th. €,Lorcan Fitzgerald,10/11,Ireland,3909.0,Shelbourne 
+"Jan 1, 2009",,Free transfer,England,379.0,West Ham ,61571,-,Lorcan Fitzgerald,08/09,Ireland,18232.0,Sporting Fingal 
+"Jul 1, 2008",,-,England,9955.0,West Ham U18 ,61571,-,Lorcan Fitzgerald,08/09,England,379.0,West Ham 
+"Jul 1, 2014",,Free transfer,England,12658.0,Guiseley ,67716,300 Th. €,Rhys Meynell,14/15,England,12020.0,Harrogate Town 
+"Jul 1, 2012",,Free transfer,England,3647.0,Stalybridge Celtic FC ,67716,300 Th. €,Rhys Meynell,12/13,England,12658.0,Guiseley 
+"Jan 31, 2011",,End of loan,England,3647.0,Stalybridge Celtic FC ,67716,300 Th. €,Rhys Meynell,10/11,Ireland,9212.0,Galway United 
+"Dec 22, 2010",,Loan,Ireland,9212.0,Galway United ,67716,300 Th. €,Rhys Meynell,10/11,England,3647.0,Stalybridge Celtic FC 
+"Jul 1, 2010",,Free transfer,Ireland,9212.0,Galway United ,67716,300 Th. €,Rhys Meynell,10/11,England,3647.0,Stalybridge Celtic FC 
+"Jan 23, 2010",,Free transfer,England,3613.0,Chester City ,67716,300 Th. €,Rhys Meynell,09/10,Ireland,9212.0,Galway United 
+"Jul 1, 2009",,Free transfer,England,3647.0,Stalybridge Celtic FC ,67716,300 Th. €,Rhys Meynell,09/10,England,3613.0,Chester City 
+"Aug 8, 2008",,Free transfer,England,349.0,Barnsley FC ,67716,250 Th. €,Rhys Meynell,08/09,England,3647.0,Stalybridge Celtic FC 
+"May 19, 2008",,End of loan,Scotland,3029.0,Gretna ,67716,250 Th. €,Rhys Meynell,07/08,England,349.0,Barnsley FC 
+"Jan 31, 2008",,Loan,England,349.0,Barnsley FC ,67716,-,Rhys Meynell,07/08,Scotland,3029.0,Gretna 
+"Jul 1, 2007",,-,England,14465.0,Barnsley U18 ,67716,-,Rhys Meynell,07/08,England,349.0,Barnsley FC 
+"Jan 18, 2015",,Free transfer,Norway,8656.0,Brumunddal Fotball ,145541,-,Pablo Rodríguez,14/15,Maldives,34876.0,Maziya S&RC 
+"Jul 15, 2014",,Free transfer,Philippines,15305.0,Kaya FC ,145541,-,Pablo Rodríguez,14/15,Norway,8656.0,Brumunddal Fotball 
+"Mar 16, 2014",,?,Honduras,4523.0,Marathón ,145541,-,Pablo Rodríguez,13/14,Philippines,15305.0,Kaya FC 
+"Aug 1, 2013",,?,India,32366.0,United Sikkim ,145541,-,Pablo Rodríguez,13/14,Honduras,4523.0,Marathón 
+"Jul 1, 2012",,Free transfer,Spain,31552.0,Rayo Cantabria ,145541,-,Pablo Rodríguez,12/13,India,32366.0,United Sikkim 
+"Jul 1, 2011",,-,Spain,515.0,Unattached ,145541,-,Pablo Rodríguez,11/12,,31552.0,Rayo Cantabria 
+"Jan 1, 2011",,-,Spain,27696.0,La Muela ,145541,-,Pablo Rodríguez,10/11,,515.0,Unattached 
+"Jan 1, 2011",,Free transfer,Ireland,3930.0,Bray Wanderers ,145541,-,Pablo Rodríguez,10/11,Spain,27696.0,La Muela 
+"Jul 1, 2010",,?,Romania,11390.0,CS Mioveni ,145541,50 Th. €,Pablo Rodríguez,10/11,Ireland,3930.0,Bray Wanderers 
+"Jul 1, 2009",,?,Spain,13235.0,Mazarron CF ,145541,-,Pablo Rodríguez,09/10,Romania,11390.0,CS Mioveni 
+"Jan 1, 2009",,?,Cyprus,4590.0,Ethnikos ,145541,-,Pablo Rodríguez,08/09,Spain,13235.0,Mazarron CF 
+"Jul 1, 2008",,?,Spain,26007.0,Olímpic Xàtiva ,145541,-,Pablo Rodríguez,08/09,Cyprus,4590.0,Ethnikos 
+"Jan 1, 2008",,?,Spain,2929.0,CD Toledo ,145541,-,Pablo Rodríguez,07/08,Spain,26007.0,Olímpic Xàtiva 
+"Jul 1, 2007",,?,Spain,11986.0,UD Almería B ,145541,-,Pablo Rodríguez,07/08,Spain,2929.0,CD Toledo 
+"Jan 1, 2007",,?,Spain,75.0,Unknown ,145541,-,Pablo Rodríguez,06/07,,11986.0,UD Almería B 
+"Jul 1, 2005",,?,Spain,25685.0,Puzol ,145541,-,Pablo Rodríguez,05/06,,75.0,Unknown 
+"Jul 1, 2004",,?,Spain,10200.0,Valencia Juv. A ,145541,-,Pablo Rodríguez,04/05,Spain,25685.0,Puzol 
+"Jul 1, 2014",,Free transfer,Ireland,6069.0,UCD ,146949,-,Dwayne Wilson,14/15,Ireland,47056.0,Crettyard 
+"Jan 1, 2014",,Free transfer,Ireland,3930.0,Bray Wanderers ,146949,-,Dwayne Wilson,13/14,Ireland,6069.0,UCD 
+"Jul 1, 2013",,Free transfer,Ireland,9211.0,Bohemians ,146949,-,Dwayne Wilson,13/14,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2012",,Free transfer,Ireland,7609.0,Waterford Utd. ,146949,-,Dwayne Wilson,11/12,Ireland,9211.0,Bohemians 
+"Jan 1, 2011",,Free transfer,Ireland,6069.0,UCD ,146949,-,Dwayne Wilson,10/11,Ireland,7609.0,Waterford Utd. 
+"Jul 1, 2012",,Free transfer,Ireland,4277.0,Drogheda United ,151181,-,Christopher Kerr,12/13,,75.0,Unknown 
+"Jan 1, 2012",,Free transfer,Ireland,22825.0,Dundalk FC U20 ,151181,-,Christopher Kerr,11/12,Ireland,4277.0,Drogheda United 
+"Jan 1, 2011",,Free transfer,Ireland,21690.0,Drogheda U20 ,151181,-,Christopher Kerr,10/11,Ireland,22825.0,Dundalk FC U20 
+"Jan 1, 2011",,Free transfer,Ireland,4277.0,Drogheda United ,151185,-,Stephen Murphy,10/11,Ireland,22472.0,Sheriff YC 
+"Jul 1, 2010",,-,Ireland,21690.0,Drogheda U20 ,151185,-,Stephen Murphy,10/11,Ireland,4277.0,Drogheda United 
+"Jan 1, 2011",,-,Ireland,21690.0,Drogheda U20 ,153746,-,Kevin Ross,10/11,,515.0,Unattached 
+"Jan 1, 2015",,Free transfer,Ireland,3258.0,Shamrock Rovers ,61587,-,Karl Sheppard,14/15,Ireland,27774.0,Cork City 
+"Jan 1, 2014",,Free transfer,England,1032.0,Reading ,61587,-,Karl Sheppard,13/14,Ireland,3258.0,Shamrock Rovers 
+"Dec 31, 2013",,End of loan,Ireland,3258.0,Shamrock Rovers ,61587,-,Karl Sheppard,13/14,England,1032.0,Reading 
+"Jan 31, 2013",,Loan,England,1032.0,Reading ,61587,-,Karl Sheppard,12/13,Ireland,3258.0,Shamrock Rovers 
+"Jan 3, 2013",,End of loan,England,3688.0,Accrington St. ,61587,-,Karl Sheppard,12/13,England,1032.0,Reading 
+"Aug 6, 2012",,Loan,England,1032.0,Reading ,61587,-,Karl Sheppard,12/13,England,3688.0,Accrington St. 
+"Jan 1, 2012",,Free transfer,Ireland,3258.0,Shamrock Rovers ,61587,50 Th. €,Karl Sheppard,11/12,England,1032.0,Reading 
+"Jan 1, 2011",,Free transfer,Ireland,9212.0,Galway United ,61587,50 Th. €,Karl Sheppard,10/11,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2010",,Free transfer,England,6920.0,Everton U18 ,61587,-,Karl Sheppard,09/10,Ireland,9212.0,Galway United 
+"Jul 1, 2006",,300 Th. €,Ireland,16154.0,Shelbourne FC ,61587,-,Karl Sheppard,06/07,England,6920.0,Everton U18 
+"Jan 1, 2016",,Free transfer,Ireland,1189.0,St. Patricks ,137419,50 Th. €,Kenny Browne,15/16,Ireland,27774.0,Cork City 
+"Jan 1, 2012",,Free transfer,Ireland,7609.0,Waterford Utd. ,137419,50 Th. €,Kenny Browne,11/12,Ireland,1189.0,St. Patricks 
+"Jan 1, 2011",,Free transfer,Ireland,18232.0,Sporting Fingal ,137419,50 Th. €,Kenny Browne,10/11,Ireland,7609.0,Waterford Utd. 
+"Jan 1, 2010",,Free transfer,Ireland,7609.0,Waterford Utd. ,137419,-,Kenny Browne,09/10,Ireland,18232.0,Sporting Fingal 
+"Jan 1, 2004",,Free transfer,Ireland,3511.0,Waterford Bohemians ,137419,-,Kenny Browne,03/04,Ireland,7609.0,Waterford Utd. 
+"Jul 1, 2013",,?,England,4282.0,Hyde FC ,48283,50 Th. €,Matthew Blinkhorn,13/14,England,22672.0,Fylde 
+"Aug 17, 2012",,Free transfer,England,1252.0,York City ,48283,50 Th. €,Matthew Blinkhorn,12/13,England,4282.0,Hyde FC 
+"Jan 1, 2012",,Free transfer,Ireland,8780.0,Sligo Rovers ,48283,50 Th. €,Matthew Blinkhorn,11/12,England,1252.0,York City 
+"Jul 1, 2009",,Free transfer,England,3697.0,Morecambe FC ,48283,-,Matthew Blinkhorn,09/10,Ireland,8780.0,Sligo Rovers 
+"Mar 1, 2007",,40 Th. €,England,1181.0,Blackpool ,48283,-,Matthew Blinkhorn,06/07,England,3697.0,Morecambe FC 
+"Feb 1, 2007",,End of loan,England,2413.0,Bury FC ,48283,-,Matthew Blinkhorn,06/07,England,1181.0,Blackpool 
+"Nov 1, 2006",,Loan,England,1181.0,Blackpool ,48283,-,Matthew Blinkhorn,06/07,England,2413.0,Bury FC 
+"Nov 1, 2004",,End of loan,England,1031.0,Luton Town ,48283,-,Matthew Blinkhorn,04/05,England,1181.0,Blackpool 
+"Aug 1, 2004",,Loan,England,1181.0,Blackpool ,48283,-,Matthew Blinkhorn,04/05,England,1031.0,Luton Town 
+"Jul 1, 2001",,-,England,15001.0,Blackpool U18 ,48283,-,Matthew Blinkhorn,01/02,England,1181.0,Blackpool 
+"Jan 1, 2011",,Free transfer,Ireland,14814.0,Monaghan United ,122012,50 Th. €,Ian McNeill,10/11,Ireland,6142.0,Cherry Orchard FC 
+"Jul 1, 2010",,Free transfer,Ireland,3930.0,Bray Wanderers ,122012,50 Th. €,Ian McNeill,10/11,Ireland,14814.0,Monaghan United 
+"Jan 1, 2010",,-,Ireland,15257.0,Bray Wanderers ,122012,-,Ian McNeill,09/10,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2015",,Free transfer,Ireland,8780.0,Sligo Rovers ,153758,-,Paul O'Conor,14/15,Ireland,4286.0,Limerick FC 
+"Jan 1, 2014",,Free transfer,Ireland,4277.0,Drogheda United ,153758,-,Paul O'Conor,13/14,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2013",,Free transfer,Ireland,6069.0,UCD ,153758,-,Paul O'Conor,12/13,Ireland,4277.0,Drogheda United 
+"Jan 1, 2010",,Free transfer,Ireland,15265.0,St. Josephs Boys ,153758,-,Paul O'Conor,09/10,Ireland,6069.0,UCD 
+"Jul 1, 2012",,Free transfer,Ireland,6069.0,UCD ,113315,50 Th. €,Danny Fallon,12/13,,75.0,Unknown 
+"Jul 1, 2009",,Free transfer,Ireland,32241.0,Sligo Rov. U20 ,113315,-,Danny Fallon,09/10,Ireland,6069.0,UCD 
+"Jul 1, 2011",,-,Ireland,4273.0,Athlone Town ,147624,-,Colm Smyth,11/12,,515.0,Unattached 
+"Jan 1, 2011",,Free transfer,Ireland,4277.0,Drogheda United ,147624,-,Colm Smyth,10/11,Ireland,4273.0,Athlone Town 
+"Jan 1, 2010",,-,Ireland,21690.0,Drogheda U20 ,147624,-,Colm Smyth,09/10,Ireland,4277.0,Drogheda United 
+"Jan 1, 2016",,Free transfer,Ireland,3909.0,Shelbourne ,140458,50 Th. €,Craig Walsh,15/16,,75.0,Unknown 
+"Jan 12, 2015",,Free transfer,Ireland,9211.0,Bohemians ,140458,50 Th. €,Craig Walsh,14/15,Ireland,3909.0,Shelbourne 
+"Jan 1, 2014",,Free transfer,Ireland,6069.0,UCD ,140458,50 Th. €,Craig Walsh,13/14,Ireland,9211.0,Bohemians 
+"Jan 1, 2013",,Free transfer,Ireland,4287.0,Longford Town ,140458,50 Th. €,Craig Walsh,12/13,Ireland,6069.0,UCD 
+"Jul 1, 2010",,Free transfer,Ireland,3258.0,Shamrock Rovers ,140458,50 Th. €,Craig Walsh,10/11,Ireland,4287.0,Longford Town 
+"Jan 1, 2010",,Free transfer,Ireland,6142.0,Cherry Orchard FC ,140458,-,Craig Walsh,09/10,Ireland,3258.0,Shamrock Rovers 
+"Jul 1, 2010",,Free transfer,Ireland,3930.0,Bray Wanderers ,29876,-,Robbie Doyle,10/11,,123.0,End of career 
+"Jan 1, 2010",,Free transfer,Ireland,18232.0,Sporting Fingal ,29876,-,Robbie Doyle,09/10,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2008",,Free transfer,Ireland,6066.0,Dundalk FC ,29876,-,Robbie Doyle,07/08,Ireland,18232.0,Sporting Fingal 
+"Jul 1, 2007",,Free transfer,England,2436.0,Macclesfield ,29876,-,Robbie Doyle,07/08,Ireland,6066.0,Dundalk FC 
+"Feb 1, 2007",,Free transfer,Ireland,3930.0,Bray Wanderers ,29876,-,Robbie Doyle,06/07,England,2436.0,Macclesfield 
+"Jul 1, 2006",,Free transfer,Ireland,1189.0,St. Patricks ,29876,-,Robbie Doyle,06/07,Ireland,3930.0,Bray Wanderers 
+"Jul 1, 2004",,Free transfer,Ireland,9211.0,Bohemians ,29876,-,Robbie Doyle,04/05,Ireland,1189.0,St. Patricks 
+"Jul 1, 2003",,Free transfer,Ireland,6069.0,UCD ,29876,-,Robbie Doyle,03/04,Ireland,9211.0,Bohemians 
+"Jul 1, 2002",,Free transfer,Ireland,3930.0,Bray Wanderers ,29876,-,Robbie Doyle,02/03,Ireland,6069.0,UCD 
+"Jul 1, 2001",,Free transfer,Ireland,1189.0,St. Patricks ,29876,-,Robbie Doyle,01/02,Ireland,3930.0,Bray Wanderers 
+"Mar 1, 2001",,Free transfer,England,164.0,Blackburn ,29876,-,Robbie Doyle,00/01,Ireland,1189.0,St. Patricks 
+"Jul 1, 1998",,-,England,6949.0,Blackburn U18 ,29876,-,Robbie Doyle,98/99,England,164.0,Blackburn 
+"Jan 1, 2016",,Free transfer,Ireland,27774.0,Cork City ,60105,100 Th. €,Billy Dennehy,15/16,Ireland,1189.0,St. Patricks 
+"Jan 1, 2014",,Free transfer,Ireland,3258.0,Shamrock Rovers ,60105,100 Th. €,Billy Dennehy,13/14,Ireland,27774.0,Cork City 
+"Jan 1, 2010",,Free transfer,Ireland,6065.0,Cork City ,60105,100 Th. €,Billy Dennehy,09/10,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2009",,Free transfer,Ireland,920.0,Derry City ,60105,100 Th. €,Billy Dennehy,08/09,Ireland,6065.0,Cork City 
+"Jul 1, 2008",,Free transfer,England,289.0,Sunderland ,60105,100 Th. €,Billy Dennehy,08/09,Ireland,920.0,Derry City 
+"Dec 31, 2007",,End of loan,England,3688.0,Accrington St. ,60105,50 Th. €,Billy Dennehy,07/08,England,289.0,Sunderland 
+"Nov 1, 2007",,Loan,England,289.0,Sunderland ,60105,50 Th. €,Billy Dennehy,07/08,England,3688.0,Accrington St. 
+"Jul 1, 2007",,-,England,12797.0,Sunderland U18 ,60105,-,Billy Dennehy,07/08,England,289.0,Sunderland 
+"Jan 1, 2016",,Free transfer,Ireland,4277.0,Drogheda United ,50360,100 Th. €,Robert Bayly,15/16,Ireland,21852.0,Bluebell United 
+"Jul 7, 2015",,Free transfer,Northern Ireland,1251.0,Cliftonville ,50360,100 Th. €,Robert Bayly,15/16,Ireland,4277.0,Drogheda United 
+"Jan 7, 2015",,Free transfer,Ireland,3258.0,Shamrock Rovers ,50360,100 Th. €,Robert Bayly,14/15,Northern Ireland,1251.0,Cliftonville 
+"Feb 17, 2014",,Free transfer,Ireland,3909.0,Shelbourne ,50360,100 Th. €,Robert Bayly,13/14,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2013",,Free transfer,Ireland,4287.0,Longford Town ,50360,100 Th. €,Robert Bayly,12/13,Ireland,3909.0,Shelbourne 
+"Jul 1, 2012",,Free transfer,Ireland,14814.0,Monaghan United ,50360,100 Th. €,Robert Bayly,12/13,Ireland,4287.0,Longford Town 
+"Jan 1, 2012",,Free transfer,Ireland,9211.0,Bohemians ,50360,100 Th. €,Robert Bayly,11/12,Ireland,14814.0,Monaghan United 
+"Jan 1, 2011",,Free transfer,Ireland,3258.0,Shamrock Rovers ,50360,100 Th. €,Robert Bayly,10/11,Ireland,9211.0,Bohemians 
+"Jan 1, 2010",,Free transfer,Ireland,18232.0,Sporting Fingal ,50360,100 Th. €,Robert Bayly,09/10,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2009",,Free transfer,England,399.0,Leeds ,50360,100 Th. €,Robert Bayly,08/09,Ireland,18232.0,Sporting Fingal 
+"Jul 1, 2006",,-,England,10161.0,Leeds United U18 ,50360,-,Robert Bayly,06/07,England,399.0,Leeds 
+"Jan 1, 2010",,Free transfer,Ireland,3258.0,Shamrock Rovers ,85689,-,Ian Bermingham,09/10,Ireland,1189.0,St. Patricks 
+"Feb 1, 2009",,?,Ireland,6069.0,UCD ,85689,-,Ian Bermingham,08/09,Ireland,3258.0,Shamrock Rovers 
+"Feb 1, 2016",,Free transfer,Northern Ireland,5594.0,Portadown ,85690,50 Th. €,Billy Brennan,15/16,Northern Ireland,3461.0,Larne FC 
+"Jul 1, 2013",,Free transfer,Northern Ireland,4421.0,Lisburn FC ,85690,50 Th. €,Billy Brennan,13/14,Northern Ireland,5594.0,Portadown 
+"Jan 1, 2011",,Free transfer,Ireland,6069.0,UCD ,85690,50 Th. €,Billy Brennan,10/11,Northern Ireland,4421.0,Lisburn FC 
+"Feb 23, 2016",,-,Ireland,2113.0,career break ,85693,100 Th. €,Sean Harding,15/16,,3930.0,Bray Wanderers 
+"Jul 30, 2015",,-,Ireland,4286.0,Limerick FC ,85693,100 Th. €,Sean Harding,15/16,,2113.0,career break 
+"Feb 16, 2015",,Free transfer,New Zealand,11396.0,Waitakere Utd. ,85693,100 Th. €,Sean Harding,14/15,Ireland,4286.0,Limerick FC 
+"Jul 1, 2014",,Free transfer,Australia,35279.0,Ballarat ,85693,50 Th. €,Sean Harding,14/15,New Zealand,11396.0,Waitakere Utd. 
+"Jan 1, 2012",,Free transfer,Ireland,6069.0,UCD ,85693,50 Th. €,Sean Harding,11/12,Australia,35279.0,Ballarat 
+"Jan 1, 2008",,Free transfer,Ireland,9209.0,Crumlin United ,85693,-,Sean Harding,07/08,Ireland,6069.0,UCD 
+"Jan 1, 2014",,Free transfer,Ireland,6069.0,UCD ,85694,50 Th. €,Michael Kelly,13/14,Ireland,15293.0,Shamrock Rovers 
+"Jul 31, 2013",,-,Ireland,515.0,Unattached ,85694,50 Th. €,Michael Kelly,13/14,,6069.0,UCD 
+"Jan 1, 2011",,-,Ireland,6069.0,UCD ,85694,50 Th. €,Michael Kelly,10/11,,515.0,Unattached 
+"Jan 1, 2010",,-,Ireland,32244.0,UCD U20 ,85694,-,Michael Kelly,09/10,Ireland,6069.0,UCD 
+"Jul 1, 2014",,-,Scotland,1192.0,Ayr United ,36543,-,Michael McGowan,14/15,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Scotland,3020.0,Alloa AFC ,36543,225 Th. €,Michael McGowan,11/12,Scotland,1192.0,Ayr United 
+"Nov 1, 2010",,-,Scotland,515.0,Unattached ,36543,225 Th. €,Michael McGowan,10/11,,3020.0,Alloa AFC 
+"Jul 1, 2010",,-,Ireland,6066.0,Dundalk FC ,36543,225 Th. €,Michael McGowan,10/11,,515.0,Unattached 
+"Jul 1, 2009",,Free transfer,Scotland,3001.0,Queen o. t. S. ,36543,225 Th. €,Michael McGowan,09/10,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2008",,Free transfer,Scotland,2575.0,Clyde ,36543,-,Michael McGowan,08/09,Scotland,3001.0,Queen o. t. S. 
+"Jul 1, 2005",,Free transfer,Scotland,511.0,Dundee FC ,36543,-,Michael McGowan,05/06,Scotland,2575.0,Clyde 
+"Jul 1, 2004",,Free transfer,Scotland,3012.0,Stenhousemuir ,36543,-,Michael McGowan,04/05,Scotland,511.0,Dundee FC 
+"Jul 1, 2002",,?,England,14488.0,Sheff Wed U18 ,36543,-,Michael McGowan,02/03,Scotland,3012.0,Stenhousemuir 
+"Jul 1, 2010",,Free transfer,Ireland,4277.0,Drogheda United ,85696,50 Th. €,Brian King,10/11,,75.0,Unknown 
+"Jan 1, 2009",,Free transfer,Ireland,6069.0,UCD ,85696,-,Brian King,08/09,Ireland,4277.0,Drogheda United 
+"Jan 1, 2007",,Free transfer,Ireland,5466.0,Kilkenny City ,85696,-,Brian King,06/07,Ireland,6069.0,UCD 
+"Jan 1, 2006",,Free transfer,Ireland,3909.0,Shelbourne ,85696,-,Brian King,05/06,Ireland,5466.0,Kilkenny City 
+"Jan 1, 2004",,-,Ireland,16154.0,Shelbourne FC ,85696,-,Brian King,03/04,Ireland,3909.0,Shelbourne 
+"Feb 2, 2016",,Free transfer,Ireland,6069.0,UCD ,85697,50 Th. €,Mick Leahy,15/16,Ireland,8780.0,Sligo Rovers 
+"Feb 10, 2015",,Free transfer,Ireland,4286.0,Limerick FC ,85697,50 Th. €,Mick Leahy,14/15,Ireland,6069.0,UCD 
+"Jan 1, 2014",,Free transfer,Ireland,6069.0,UCD ,85697,50 Th. €,Mick Leahy,13/14,Ireland,4286.0,Limerick FC 
+"Jan 1, 2010",,Free transfer,Ireland,6064.0,Belvedere FC ,85697,-,Mick Leahy,09/10,Ireland,6069.0,UCD 
+"Jan 1, 2015",,-,Ireland,4273.0,Athlone Town ,136898,50 Th. €,Graham Rusk,14/15,,515.0,Unattached 
+"Jan 1, 2014",,Free transfer,Ireland,4277.0,Drogheda United ,136898,50 Th. €,Graham Rusk,13/14,Ireland,4273.0,Athlone Town 
+"Jan 1, 2013",,Free transfer,Ireland,6069.0,UCD ,136898,50 Th. €,Graham Rusk,12/13,Ireland,4277.0,Drogheda United 
+"Jul 1, 2009",,-,Ireland,32244.0,UCD U20 ,136898,-,Graham Rusk,09/10,Ireland,6069.0,UCD 
+"Aug 1, 2013",,-,Scotland,515.0,Unattached ,36547,-,Alex Williams,13/14,,26151.0,Luncarty 
+"Jul 1, 2011",,-,Scotland,3012.0,Stenhousemuir ,36547,-,Alex Williams,11/12,,515.0,Unattached 
+"Jul 1, 2010",,Free transfer,Ireland,1189.0,St. Patricks ,36547,-,Alex Williams,10/11,Scotland,3012.0,Stenhousemuir 
+"Jan 1, 2010",,Free transfer,Ireland,6066.0,Dundalk FC ,36547,-,Alex Williams,09/10,Ireland,1189.0,St. Patricks 
+"Jul 1, 2009",,Free transfer,Scotland,1192.0,Ayr United ,36547,-,Alex Williams,09/10,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2007",,Free transfer,Scotland,2575.0,Clyde ,36547,-,Alex Williams,07/08,Scotland,1192.0,Ayr United 
+"Jun 30, 2007",,End of loan,Scotland,2759.0,Ross County ,36547,-,Alex Williams,06/07,Scotland,2575.0,Clyde 
+"Aug 1, 2006",,Loan,Scotland,2575.0,Clyde ,36547,-,Alex Williams,06/07,Scotland,2759.0,Ross County 
+"Jul 1, 2005",,Free transfer,Scotland,3001.0,Queen o. t. S. ,36547,-,Alex Williams,05/06,Scotland,2575.0,Clyde 
+"Jul 1, 2004",,Free transfer,Scotland,3026.0,Morton ,36547,-,Alex Williams,04/05,Scotland,3001.0,Queen o. t. S. 
+"Jul 1, 2002",,-,Scotland,10587.0,Stirling A. U20 ,36547,-,Alex Williams,02/03,Scotland,3033.0,Stirling 
+"Jul 1, 2002",,75 Th. €,Scotland,3033.0,Stirling ,36547,-,Alex Williams,02/03,Scotland,3026.0,Morton 
+"Jul 1, 1999",,?,Scotland,8425.0,West Park United FC ,36547,-,Alex Williams,99/00,Scotland,10587.0,Stirling A. U20 
+"Jan 5, 2015",,Free transfer,Ireland,4277.0,Drogheda United ,85700,50 Th. €,Alan McNally,14/15,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2009",,Free transfer,Ireland,6069.0,UCD ,85700,-,Alan McNally,08/09,Ireland,4277.0,Drogheda United 
+"Jan 1, 2000",,Free transfer,Ireland,6064.0,Belvedere FC ,85700,-,Alan McNally,99/00,Ireland,6069.0,UCD 
+"Jul 1, 2011",,-,Ireland,4277.0,Drogheda United ,85701,50 Th. €,Darragh McNamara,11/12,,515.0,Unattached 
+"Jan 1, 2009",,-,Ireland,21690.0,Drogheda U20 ,85701,-,Darragh McNamara,08/09,Ireland,4277.0,Drogheda United 
+"Jan 1, 2008",,Free transfer,Ireland,16154.0,Shelbourne FC ,85701,-,Darragh McNamara,07/08,Ireland,21690.0,Drogheda U20 
+"Jan 18, 2016",,Free transfer,Ireland,4273.0,Athlone Town ,85705,50 Th. €,Brian Shortall,15/16,Ireland,6069.0,UCD 
+"Aug 18, 2014",,-,Ireland,515.0,Unattached ,85705,50 Th. €,Brian Shortall,14/15,,4273.0,Athlone Town 
+"Jan 1, 2014",,-,Ireland,3909.0,Shelbourne ,85705,50 Th. €,Brian Shortall,13/14,,515.0,Unattached 
+"Jan 1, 2012",,Free transfer,Ireland,1189.0,St. Patricks ,85705,50 Th. €,Brian Shortall,11/12,Ireland,3909.0,Shelbourne 
+"Jan 1, 2011",,Free transfer,Ireland,6069.0,UCD ,85705,50 Th. €,Brian Shortall,10/11,Ireland,1189.0,St. Patricks 
+"Jan 1, 2005",,Free transfer,Ireland,6142.0,Cherry Orchard FC ,85705,-,Brian Shortall,04/05,Ireland,6069.0,UCD 
+"Jul 1, 2015",,Free transfer,England,405.0,Aston Villa ,85706,500 Th. €,Enda Stevens,15/16,England,1020.0,Portsmouth FC 
+"May 4, 2015",,End of loan,England,2454.0,Doncaster Rov. ,85706,500 Th. €,Enda Stevens,14/15,England,405.0,Aston Villa 
+"Nov 6, 2014",,Loan,England,405.0,Aston Villa ,85706,500 Th. €,Enda Stevens,14/15,England,2454.0,Doncaster Rov. 
+"Nov 3, 2014",,End of loan,England,1302.0,Northampt. Town ,85706,500 Th. €,Enda Stevens,14/15,England,405.0,Aston Villa 
+"Oct 10, 2014",,Loan,England,405.0,Aston Villa ,85706,500 Th. €,Enda Stevens,14/15,England,1302.0,Northampt. Town 
+"May 31, 2014",,End of loan,England,2454.0,Doncaster Rov. ,85706,500 Th. €,Enda Stevens,13/14,England,405.0,Aston Villa 
+"Nov 28, 2013",,Loan,England,405.0,Aston Villa ,85706,750 Th. €,Enda Stevens,13/14,England,2454.0,Doncaster Rov. 
+"Sep 24, 2013",,End of loan,England,1045.0,Notts County ,85706,750 Th. €,Enda Stevens,13/14,England,405.0,Aston Villa 
+"Aug 27, 2013",,Loan,England,405.0,Aston Villa ,85706,750 Th. €,Enda Stevens,13/14,England,1045.0,Notts County 
+"Jan 1, 2012",,285 Th. €,Ireland,3258.0,Shamrock Rovers ,85706,50 Th. €,Enda Stevens,11/12,England,405.0,Aston Villa 
+"Jan 1, 2010",,Free transfer,Ireland,1189.0,St. Patricks ,85706,-,Enda Stevens,09/10,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2009",,Free transfer,Ireland,6069.0,UCD ,85706,-,Enda Stevens,08/09,Ireland,1189.0,St. Patricks 
+"Jan 1, 2008",,Free transfer,Ireland,6142.0,Cherry Orchard FC ,85706,-,Enda Stevens,07/08,Ireland,6069.0,UCD 
+"Jan 1, 2016",,Free transfer,Ireland,4273.0,Athlone Town ,85707,50 Th. €,Derek Doyle,15/16,Ireland,4277.0,Drogheda United 
+"Jun 11, 2014",,-,Ireland,515.0,Unattached ,85707,50 Th. €,Derek Doyle,13/14,,4273.0,Athlone Town 
+"Jan 1, 2014",,-,Ireland,3909.0,Shelbourne ,85707,50 Th. €,Derek Doyle,13/14,,515.0,Unattached 
+"Jul 1, 2013",,Free transfer,Ireland,9209.0,Crumlin United ,85707,50 Th. €,Derek Doyle,13/14,Ireland,3909.0,Shelbourne 
+"Jan 1, 2012",,Free transfer,Ireland,1189.0,St. Patricks ,85707,50 Th. €,Derek Doyle,11/12,Ireland,9209.0,Crumlin United 
+"Jan 1, 2010",,Free transfer,Ireland,3909.0,Shelbourne ,85707,-,Derek Doyle,09/10,Ireland,1189.0,St. Patricks 
+"Jan 1, 2009",,?,Ireland,6066.0,Dundalk FC ,85707,-,Derek Doyle,08/09,Ireland,3909.0,Shelbourne 
+"Jul 1, 2008",,?,Ireland,6069.0,UCD ,85707,-,Derek Doyle,08/09,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2004",,-,Ireland,32244.0,UCD U20 ,85707,-,Derek Doyle,03/04,Ireland,6069.0,UCD 
+"Jan 1, 2012",,-,Ireland,7609.0,Waterford Utd. ,137420,50 Th. €,Conor Sinnott,11/12,,123.0,End of career 
+"Jan 1, 2011",,Free transfer,Ireland,4277.0,Drogheda United ,137420,50 Th. €,Conor Sinnott,10/11,Ireland,7609.0,Waterford Utd. 
+"Jul 1, 2010",,Free transfer,Ireland,1189.0,St. Patricks ,137420,50 Th. €,Conor Sinnott,10/11,Ireland,4277.0,Drogheda United 
+"Jan 1, 2010",,Free transfer,Ireland,26765.0,Wexford Youths ,137420,-,Conor Sinnott,09/10,Ireland,1189.0,St. Patricks 
+"Jan 1, 2007",,Free transfer,England,1032.0,Reading ,137420,-,Conor Sinnott,06/07,Ireland,26765.0,Wexford Youths 
+"Dec 1, 2006",,End of loan,Ireland,4286.0,Limerick FC ,137420,-,Conor Sinnott,06/07,England,1032.0,Reading 
+"Aug 1, 2006",,Loan,England,1032.0,Reading ,137420,-,Conor Sinnott,06/07,Ireland,4286.0,Limerick FC 
+"Jan 1, 2006",,Free transfer,Ireland,15257.0,Bray Wanderers ,137420,-,Conor Sinnott,05/06,England,1032.0,Reading 
+"Jan 1, 2015",,Free transfer,Ireland,3258.0,Shamrock Rovers ,85709,50 Th. €,Ronan Finn,14/15,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2011",,Free transfer,Ireland,18232.0,Sporting Fingal ,85709,50 Th. €,Ronan Finn,10/11,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2010",,Free transfer,Ireland,6069.0,UCD ,85709,-,Ronan Finn,09/10,Ireland,18232.0,Sporting Fingal 
+"Jan 1, 2005",,-,Ireland,464.0,Own U19 ,85709,-,Ronan Finn,04/05,,6069.0,UCD 
+"Jul 1, 2013",,-,Ireland,9211.0,Bohemians ,85710,50 Th. €,Shane Fitzgerald,13/14,,515.0,Unattached 
+"Jan 1, 2013",,-,Ireland,515.0,Unattached ,85710,50 Th. €,Shane Fitzgerald,12/13,,9211.0,Bohemians 
+"Jan 1, 2012",,-,Ireland,4277.0,Drogheda United ,85710,50 Th. €,Shane Fitzgerald,11/12,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Ireland,14814.0,Monaghan United ,85710,50 Th. €,Shane Fitzgerald,11/12,Ireland,4277.0,Drogheda United 
+"Jan 1, 2011",,Free transfer,Ireland,4273.0,Athlone Town ,85710,50 Th. €,Shane Fitzgerald,10/11,Ireland,14814.0,Monaghan United 
+"Jul 1, 2010",,Free transfer,Ireland,6069.0,UCD ,85710,50 Th. €,Shane Fitzgerald,10/11,Ireland,4273.0,Athlone Town 
+"Jan 1, 2010",,Free transfer,Ireland,9212.0,Galway United ,85710,-,Shane Fitzgerald,09/10,Ireland,6069.0,UCD 
+"Jan 1, 2009",,Free transfer,Ireland,6069.0,UCD ,85710,-,Shane Fitzgerald,08/09,Ireland,9212.0,Galway United 
+"Jul 1, 2015",,-,Ireland,5568.0,Finn Harps ,85711,-,Gerard O'Callaghan,15/16,,123.0,End of career 
+"Jul 31, 2014",,-,Ireland,2113.0,career break ,85711,50 Th. €,Gerard O'Callaghan,14/15,,5568.0,Finn Harps 
+"Jul 1, 2011",,-,Ireland,6069.0,UCD ,85711,50 Th. €,Gerard O'Callaghan,11/12,,2113.0,career break 
+"Jan 1, 2008",,Free transfer,Ireland,14814.0,Monaghan United ,85711,-,Gerard O'Callaghan,07/08,Ireland,6069.0,UCD 
+"Jan 1, 2016",,Free transfer,Ireland,1189.0,St. Patricks ,85713,50 Th. €,Greg Bolger,15/16,Ireland,27774.0,Cork City 
+"Jan 1, 2012",,Free transfer,Ireland,6066.0,Dundalk FC ,85713,50 Th. €,Greg Bolger,11/12,Ireland,1189.0,St. Patricks 
+"Jan 1, 2011",,Free transfer,Ireland,6069.0,UCD ,85713,50 Th. €,Greg Bolger,10/11,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2013",,Free transfer,Ireland,3909.0,Shelbourne ,85715,50 Th. €,Paul Byrne,12/13,,75.0,Unknown 
+"Jan 1, 2012",,Free transfer,Ireland,14814.0,Monaghan United ,85715,50 Th. €,Paul Byrne,11/12,Ireland,3909.0,Shelbourne 
+"Jul 1, 2011",,Free transfer,Australia,35279.0,Ballarat ,85715,50 Th. €,Paul Byrne,11/12,Ireland,14814.0,Monaghan United 
+"Jan 1, 2011",,Free transfer,Ireland,1189.0,St. Patricks ,85715,50 Th. €,Paul Byrne,10/11,Australia,35279.0,Ballarat 
+"Jan 1, 2010",,Free transfer,Ireland,3930.0,Bray Wanderers ,85715,-,Paul Byrne,09/10,Ireland,1189.0,St. Patricks 
+"Jan 1, 2009",,?,Ireland,18232.0,Sporting Fingal ,85715,-,Paul Byrne,08/09,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2008",,?,Ireland,6069.0,UCD ,85715,-,Paul Byrne,07/08,Ireland,18232.0,Sporting Fingal 
+"Jan 1, 2015",,-,Ireland,3909.0,Shelbourne ,144596,50 Th. €,Brian Gannon,14/15,,515.0,Unattached 
+"Jul 31, 2013",,Free transfer,Ireland,4277.0,Drogheda United ,144596,50 Th. €,Brian Gannon,13/14,Ireland,3909.0,Shelbourne 
+"Jan 1, 2011",,Free transfer,Ireland,18232.0,Sporting Fingal ,144596,50 Th. €,Brian Gannon,10/11,Ireland,4277.0,Drogheda United 
+"Jan 1, 2008",,Free transfer,Ireland,14814.0,Monaghan United ,144596,-,Brian Gannon,07/08,Ireland,18232.0,Sporting Fingal 
+"Jan 1, 2006",,Free transfer,Ireland,6069.0,UCD ,144596,-,Brian Gannon,05/06,Ireland,14814.0,Monaghan United 
+"Jan 1, 2005",,Free transfer,Ireland,9211.0,Bohemians ,144596,-,Brian Gannon,04/05,Ireland,6069.0,UCD 
+"Jan 1, 2003",,-,Ireland,22468.0,BFCD U20 ,144596,-,Brian Gannon,02/03,Ireland,9211.0,Bohemians 
+"Oct 1, 2010",,-,Ireland,3258.0,Shamrock Rovers ,3290,600 Th. €,Graham Barrett,10/11,,123.0,End of career 
+"Jul 1, 2009",,Free transfer,Scotland,2578.0,St. Johnstone ,3290,600 Th. €,Graham Barrett,09/10,Ireland,3258.0,Shamrock Rovers 
+"Feb 1, 2009",,?,Scotland,1191.0,Falkirk FC ,3290,600 Th. €,Graham Barrett,08/09,Scotland,2578.0,St. Johnstone 
+"Jul 1, 2006",,Free transfer,England,990.0,Coventry City ,3290,750 Th. €,Graham Barrett,06/07,Scotland,1191.0,Falkirk FC 
+"May 1, 2006",,End of loan,Scotland,1241.0,Livingston FC ,3290,750 Th. €,Graham Barrett,05/06,England,990.0,Coventry City 
+"Sep 1, 2005",,Loan,England,990.0,Coventry City ,3290,450 Th. €,Graham Barrett,05/06,Scotland,1241.0,Livingston FC 
+"Aug 1, 2003",,Free transfer,England,11.0,Arsenal ,3290,-,Graham Barrett,03/04,England,990.0,Coventry City 
+"Jun 30, 2003",,End of loan,England,1237.0,Brighton ,3290,-,Graham Barrett,02/03,England,11.0,Arsenal 
+"Jan 1, 2003",,Loan,England,11.0,Arsenal ,3290,-,Graham Barrett,02/03,England,1237.0,Brighton 
+"Jun 30, 2002",,End of loan,England,1042.0,Crewe Alexandra ,3290,-,Graham Barrett,01/02,England,11.0,Arsenal 
+"Jun 30, 2002",,End of loan,England,1060.0,Colchester Utd. ,3290,-,Graham Barrett,01/02,England,11.0,Arsenal 
+"Aug 1, 2001",,Loan,England,11.0,Arsenal ,3290,-,Graham Barrett,01/02,England,1042.0,Crewe Alexandra 
+"Jul 1, 2001",,Loan,England,11.0,Arsenal ,3290,-,Graham Barrett,01/02,England,1060.0,Colchester Utd. 
+"Jan 1, 2001",,Loan,England,11.0,Arsenal ,3290,-,Graham Barrett,00/01,England,698.0,Bristol City 
+"Dec 31, 2000",,End of loan,England,698.0,Bristol City ,3290,-,Graham Barrett,00/01,England,11.0,Arsenal 
+"Jul 1, 1999",,-,England,5679.0,Arsenal U18  ,3290,-,Graham Barrett,99/00,England,11.0,Arsenal 
+"Jan 1, 2016",,Free transfer,Ireland,3258.0,Shamrock Rovers ,85695,50 Th. €,Conor Kenna,15/16,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2014",,Free transfer,Ireland,1189.0,St. Patricks ,85695,50 Th. €,Conor Kenna,13/14,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2010",,Free transfer,Ireland,4277.0,Drogheda United ,85695,-,Conor Kenna,09/10,Ireland,1189.0,St. Patricks 
+"Jan 1, 2009",,Free transfer,Ireland,6069.0,UCD ,85695,-,Conor Kenna,08/09,Ireland,4277.0,Drogheda United 
+"Jan 1, 2004",,-,Ireland,464.0,Own U19 ,85695,-,Conor Kenna,03/04,,6069.0,UCD 
+"Feb 4, 2016",,?,England,22546.0,Colwyn ,144609,50 Th. €,John Dillon,15/16,England,36954.0,Glossop NE 
+"Jul 1, 2015",,Free transfer,Wales,22499.0,Connah's Quay ,144609,50 Th. €,John Dillon,15/16,England,22546.0,Colwyn 
+"Jul 28, 2014",,Free transfer,England,9829.0,Southport ,144609,50 Th. €,John Dillon,14/15,Wales,22499.0,Connah's Quay 
+"Jan 9, 2014",,Free transfer,Ireland,6066.0,Dundalk FC ,144609,50 Th. €,John Dillon,13/14,England,9829.0,Southport 
+"Jan 1, 2013",,Free transfer,Ireland,8780.0,Sligo Rovers ,144609,50 Th. €,John Dillon,12/13,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2010",,Free transfer,England,9527.0,Warrington Town FC ,144609,-,John Dillon,09/10,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2008",,Free transfer,England,3257.0,Witton Albion ,144609,-,John Dillon,07/08,England,9527.0,Warrington Town FC 
+"Jul 1, 2007",,Free transfer,England,53117.0,Crewe U21 ,144609,-,John Dillon,07/08,England,3257.0,Witton Albion 
+"Dec 31, 2006",,End of loan,England,22545.0,Leigh RMI ,144609,-,John Dillon,06/07,England,53117.0,Crewe U21 
+"Nov 1, 2006",,Loan,England,53117.0,Crewe U21 ,144609,-,John Dillon,06/07,England,22545.0,Leigh RMI 
+"Jul 1, 2006",,Free transfer,England,6922.0,Liverpool U18 ,144609,-,John Dillon,06/07,England,53117.0,Crewe U21 
+"Jan 1, 2010",,Free transfer,Ireland,1189.0,St. Patricks ,104683,-,Kyle Moran,09/10,Australia,3744.0,Perth SC 
+"Jan 1, 2009",,Free transfer,Northern Ireland,6068.0,Newry City ,104683,-,Kyle Moran,08/09,Ireland,1189.0,St. Patricks 
+"Jul 1, 2008",,Free transfer,Northern Ireland,12903.0,Institute FC ,104683,-,Kyle Moran,08/09,Northern Ireland,6068.0,Newry City 
+"Jan 1, 2008",,Free transfer,Northern Ireland,3461.0,Larne FC ,104683,-,Kyle Moran,07/08,Northern Ireland,12903.0,Institute FC 
+"Jul 1, 2007",,Free transfer,Northern Ireland,920.0,Derry City ,104683,-,Kyle Moran,07/08,Northern Ireland,3461.0,Larne FC 
+"Jun 30, 2007",,End of loan,Ireland,3909.0,Shelbourne ,104683,-,Kyle Moran,06/07,Northern Ireland,920.0,Derry City 
+"Mar 1, 2007",,Loan,Northern Ireland,920.0,Derry City ,104683,-,Kyle Moran,06/07,Ireland,3909.0,Shelbourne 
+"Jul 1, 2006",,Free transfer,England,5242.0,Man Utd U18 ,104683,-,Kyle Moran,06/07,Northern Ireland,920.0,Derry City 
+"Jul 1, 2015",,-,Ireland,4273.0,Athlone Town ,148721,-,Gary Burke,15/16,,515.0,Unattached 
+"Jan 20, 2015",,Free transfer,Ireland,6069.0,UCD ,148721,-,Gary Burke,14/15,Ireland,4273.0,Athlone Town 
+"Jan 1, 2012",,Free transfer,Ireland,9211.0,Bohemians ,148721,-,Gary Burke,11/12,Ireland,6069.0,UCD 
+"Jan 1, 2011",,-,Ireland,22468.0,BFCD U20 ,148721,-,Gary Burke,10/11,Ireland,9211.0,Bohemians 
+"Jul 1, 2011",,-,Ireland,1189.0,St. Patricks ,106230,50 Th. €,John Flood,11/12,,515.0,Unattached 
+"Jan 1, 2011",,Free transfer,Ireland,4277.0,Drogheda United ,106230,50 Th. €,John Flood,10/11,Ireland,1189.0,St. Patricks 
+"Jan 1, 2010",,Free transfer,Ireland,3930.0,Bray Wanderers ,106230,-,John Flood,09/10,Ireland,4277.0,Drogheda United 
+"Jan 1, 2014",,Free transfer,Ireland,8780.0,Sligo Rovers ,92545,50 Th. €,David McMillan,13/14,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2013",,Free transfer,Ireland,6069.0,UCD ,92545,50 Th. €,David McMillan,13/14,Ireland,8780.0,Sligo Rovers 
+"Jul 1, 2012",,Free transfer,Australia,30971.0,Brisbane Olympic United ,92545,50 Th. €,David McMillan,12/13,Ireland,6069.0,UCD 
+"Jan 1, 2012",,Free transfer,Ireland,1189.0,St. Patricks ,92545,50 Th. €,David McMillan,11/12,Australia,30971.0,Brisbane Olympic United 
+"Jan 1, 2011",,Free transfer,Ireland,6069.0,UCD ,92545,50 Th. €,David McMillan,10/11,Ireland,1189.0,St. Patricks 
+"Feb 24, 2016",,Free transfer,Ireland,8780.0,Sligo Rovers ,96521,50 Th. €,Keith Ward,15/16,Ireland,920.0,Derry City 
+"Jan 1, 2015",,Free transfer,Ireland,6066.0,Dundalk FC ,96521,50 Th. €,Keith Ward,14/15,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2013",,Free transfer,Ireland,9211.0,Bohemians ,96521,50 Th. €,Keith Ward,12/13,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2012",,Free transfer,Ireland,6066.0,Dundalk FC ,96521,50 Th. €,Keith Ward,11/12,Ireland,9211.0,Bohemians 
+"Jan 1, 2011",,Free transfer,Ireland,6069.0,UCD ,96521,50 Th. €,Keith Ward,10/11,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2008",,Free transfer,Ireland,22468.0,BFCD U20 ,96521,-,Keith Ward,08/09,Ireland,6069.0,UCD 
+"Jan 1, 2012",,-,Ireland,21690.0,Drogheda U20 ,147725,-,Paul Matondo,11/12,,515.0,Unattached 
+"Jan 1, 2009",,Free transfer,Ireland,32631.0,Drogheda Town ,147725,-,Paul Matondo,08/09,Ireland,21690.0,Drogheda U20 
+"Jul 1, 2007",,Free transfer,Ireland,4277.0,Drogheda United ,147725,-,Paul Matondo,07/08,Ireland,32631.0,Drogheda Town 
+"Jan 1, 2007",,-,Ireland,21690.0,Drogheda U20 ,147725,-,Paul Matondo,06/07,Ireland,4277.0,Drogheda United 
+"Jan 1, 2012",,-,Ireland,3930.0,Bray Wanderers ,119057,50 Th. €,Ian Tuohy,11/12,,515.0,Unattached 
+"Jul 1, 2009",,-,Ireland,15257.0,Bray Wanderers ,119057,-,Ian Tuohy,09/10,Ireland,3930.0,Bray Wanderers 
+"Jan 2, 2013",,Free transfer,Ireland,3909.0,Shelbourne ,145539,50 Th. €,Kevin Dawson,12/13,England,972.0,Yeovil Town 
+"Jan 1, 2011",,Free transfer,Ireland,18232.0,Sporting Fingal ,145539,50 Th. €,Kevin Dawson,10/11,Ireland,3909.0,Shelbourne 
+"Jan 1, 2009",,Free transfer,Ireland,16154.0,Shelbourne FC ,145539,-,Kevin Dawson,08/09,Ireland,18232.0,Sporting Fingal 
+"Jul 1, 2015",,Free transfer,Northern Ireland,1251.0,Cliftonville ,18197,100 Th. €,Peter Cherrie,15/16,Ireland,3930.0,Bray Wanderers 
+"Jan 15, 2015",,Free transfer,Ireland,6066.0,Dundalk FC ,18197,100 Th. €,Peter Cherrie,14/15,Northern Ireland,1251.0,Cliftonville 
+"Jul 1, 2009",,Free transfer,Scotland,2575.0,Clyde ,18197,100 Th. €,Peter Cherrie,09/10,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2005",,Free transfer,Scotland,1192.0,Ayr United ,18197,-,Peter Cherrie,05/06,Scotland,2575.0,Clyde 
+"Oct 1, 2004",,?,Scotland,10588.0,Kilsyth Rangers ,18197,-,Peter Cherrie,04/05,Scotland,1192.0,Ayr United 
+"Jan 1, 2004",,?,Scotland,2802.0,Airdrie United ,18197,-,Peter Cherrie,03/04,Scotland,10588.0,Kilsyth Rangers 
+"Aug 1, 2002",,-,Scotland,10549.0,Airdrie U20 ,18197,-,Peter Cherrie,02/03,Scotland,2802.0,Airdrie United 
+"Jan 1, 2016",,Free transfer,Ireland,6069.0,UCD ,136895,50 Th. €,Chris Mulhall,15/16,Ireland,4286.0,Limerick FC 
+"Jan 1, 2014",,-,Ireland,515.0,Unattached ,136895,50 Th. €,Chris Mulhall,13/14,,6069.0,UCD 
+"Jan 1, 2013",,-,Ireland,6069.0,UCD ,136895,50 Th. €,Chris Mulhall,12/13,,515.0,Unattached 
+"Jan 1, 2012",,Free transfer,Ireland,3909.0,Shelbourne ,136895,50 Th. €,Chris Mulhall,11/12,Ireland,6069.0,UCD 
+"Jan 1, 2011",,Free transfer,Ireland,6069.0,UCD ,136895,50 Th. €,Chris Mulhall,10/11,Ireland,3909.0,Shelbourne 
+"Jan 1, 2009",,Free transfer,Ireland,15293.0,Shamrock Rovers ,136895,-,Chris Mulhall,08/09,Ireland,6069.0,UCD 
+"Jan 1, 2007",,Free transfer,Ireland,16154.0,Shelbourne FC ,136895,-,Chris Mulhall,06/07,Ireland,15293.0,Shamrock Rovers 
+"Jul 1, 2012",,Free transfer,Ireland,3472.0,Tolka Rovers ,112927,-,Mark Hughes,12/13,Ireland,6142.0,Cherry Orchard FC 
+"Jul 1, 2011",,-,Ireland,515.0,Unattached ,112927,-,Mark Hughes,11/12,,3472.0,Tolka Rovers 
+"Jan 1, 2011",,-,Ireland,9211.0,Bohemians ,112927,-,Mark Hughes,10/11,,515.0,Unattached 
+"Dec 1, 2010",,End of loan,Ireland,3909.0,Shelbourne ,112927,-,Mark Hughes,10/11,Ireland,9211.0,Bohemians 
+"Feb 1, 2010",,Loan,Ireland,9211.0,Bohemians ,112927,-,Mark Hughes,09/10,Ireland,3909.0,Shelbourne 
+"Jan 1, 2009",,-,Ireland,22468.0,BFCD U20 ,112927,-,Mark Hughes,08/09,Ireland,9211.0,Bohemians 
+"Jul 1, 2016",,Free transfer,Scotland,1241.0,Livingston FC ,36646,200 Th. €,Craig Sives,16/17,Scotland,3027.0,Cowdenbeath FC 
+"May 8, 2016",,End of loan,Scotland,3027.0,Cowdenbeath FC ,36646,200 Th. €,Craig Sives,15/16,Scotland,1241.0,Livingston FC 
+"Mar 11, 2016",,Loan,Scotland,1241.0,Livingston FC ,36646,200 Th. €,Craig Sives,15/16,Scotland,3027.0,Cowdenbeath FC 
+"Jan 30, 2014",,Free transfer,Australia,15511.0,Hume City FC ,36646,150 Th. €,Craig Sives,13/14,Scotland,1241.0,Livingston FC 
+"Feb 15, 2013",,Free transfer,Ireland,3258.0,Shamrock Rovers ,36646,150 Th. €,Craig Sives,12/13,Australia,15511.0,Hume City FC 
+"Jan 1, 2009",,Free transfer,Scotland,43.0,Heart of Midl. ,36646,150 Th. €,Craig Sives,08/09,Ireland,3258.0,Shamrock Rovers 
+"Dec 1, 2008",,End of loan,Scotland,3001.0,Queen o. t. S. ,36646,150 Th. €,Craig Sives,08/09,Scotland,43.0,Heart of Midl. 
+"Sep 1, 2008",,Loan,Scotland,43.0,Heart of Midl. ,36646,150 Th. €,Craig Sives,08/09,Scotland,3001.0,Queen o. t. S. 
+"Jun 30, 2008",,End of loan,Scotland,511.0,Dundee FC ,36646,150 Th. €,Craig Sives,07/08,Scotland,43.0,Heart of Midl. 
+"Aug 1, 2007",,Loan,Scotland,43.0,Heart of Midl. ,36646,150 Th. €,Craig Sives,07/08,Scotland,511.0,Dundee FC 
+"May 1, 2007",,End of loan,Scotland,2760.0,Partick Thistle ,36646,150 Th. €,Craig Sives,06/07,Scotland,43.0,Heart of Midl. 
+"Dec 1, 2006",,Loan,Scotland,43.0,Heart of Midl. ,36646,150 Th. €,Craig Sives,06/07,Scotland,2760.0,Partick Thistle 
+"Jul 1, 2004",,-,Scotland,12578.0,Hearts FC U20 ,36646,-,Craig Sives,04/05,Scotland,43.0,Heart of Midl. 
+"Jul 1, 2002",,-,Scotland,30046.0,Hearts FC U17 ,36646,-,Craig Sives,02/03,Scotland,12578.0,Hearts FC U20 
+"Jul 1, 2000",,?,Scotland,3013.0,Hutchison Vale BC ,36646,-,Craig Sives,00/01,Scotland,30046.0,Hearts FC U17 
+"Jul 1, 2011",,Free transfer,Ireland,4277.0,Drogheda United ,92462,50 Th. €,Derek Kierans,11/12,Ireland,32631.0,Drogheda Town 
+"Jan 1, 2009",,-,Ireland,21690.0,Drogheda U20 ,92462,-,Derek Kierans,08/09,Ireland,4277.0,Drogheda United 
+"Jan 1, 2011",,-,Ireland,32241.0,Sligo Rov. U20 ,116017,50 Th. €,Paul Curry,10/11,,515.0,Unattached 
+"Jan 1, 2013",,Free transfer,Ireland,3930.0,Bray Wanderers ,120129,50 Th. €,Dean Marshall,12/13,,75.0,Unknown 
+"Jul 1, 2012",,Free transfer,Ireland,4277.0,Drogheda United ,120129,50 Th. €,Dean Marshall,12/13,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2012",,Free transfer,Ireland,6069.0,UCD ,120129,50 Th. €,Dean Marshall,11/12,Ireland,4277.0,Drogheda United 
+"Jan 1, 2011",,Free transfer,Ireland,6142.0,Cherry Orchard FC ,120129,50 Th. €,Dean Marshall,10/11,Ireland,6069.0,UCD 
+"Sep 1, 2010",,Free transfer,Ireland,4273.0,Athlone Town ,120129,50 Th. €,Dean Marshall,10/11,Ireland,6142.0,Cherry Orchard FC 
+"Jul 1, 2010",,Free transfer,Ireland,8780.0,Sligo Rovers ,120129,50 Th. €,Dean Marshall,10/11,Ireland,4273.0,Athlone Town 
+"Jul 1, 2009",,Free transfer,Ireland,22468.0,BFCD U20 ,120129,-,Dean Marshall,09/10,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2010",,-,Ireland,15436.0,St. Pats ,104771,-,Luke Bray,09/10,,123.0,End of career 
+"Jan 1, 2009",,-,Ireland,15436.0,St. Pats ,104771,-,Luke Bray,08/09,Ireland,1189.0,St. Patricks 
+"Jul 1, 2010",,Free transfer,Ireland,3930.0,Bray Wanderers ,120136,50 Th. €,Ger Rafter,10/11,,75.0,Unknown 
+"Jan 1, 2010",,Free transfer,Ireland,8780.0,Sligo Rovers ,120136,-,Ger Rafter,09/10,Ireland,3930.0,Bray Wanderers 
+"Jul 1, 2009",,Free transfer,Ireland,16154.0,Shelbourne FC ,120136,-,Ger Rafter,09/10,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2014",,-,Ireland,4287.0,Longford Town ,95287,50 Th. €,David O'Neill,13/14,,515.0,Unattached 
+"Jan 1, 2013",,Free transfer,Ireland,22473.0,Wayside ,95287,50 Th. €,David O'Neill,12/13,Ireland,4287.0,Longford Town 
+"Jul 1, 2011",,Free transfer,Ireland,35618.0,Arklow Town ,95287,50 Th. €,David O'Neill,11/12,Ireland,22473.0,Wayside 
+"Jul 1, 2010",,Free transfer,Ireland,3930.0,Bray Wanderers ,95287,50 Th. €,David O'Neill,10/11,Ireland,35618.0,Arklow Town 
+"Jul 1, 2009",,-,Ireland,15257.0,Bray Wanderers ,95287,-,David O'Neill,09/10,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2015",,Free transfer,Ireland,4277.0,Drogheda United ,103762,50 Th. €,Daire Doyle,14/15,Ireland,3909.0,Shelbourne 
+"Jan 24, 2014",,Free transfer,Ireland,3930.0,Bray Wanderers ,103762,50 Th. €,Daire Doyle,13/14,Ireland,4277.0,Drogheda United 
+"Jan 1, 2009",,Free transfer,Ireland,4287.0,Longford Town ,103762,-,Daire Doyle,08/09,Ireland,3930.0,Bray Wanderers 
+"Sep 1, 2007",,Free transfer,England,22615.0,Bromsgrove ,103762,-,Daire Doyle,07/08,Ireland,4287.0,Longford Town 
+"Jul 1, 2007",,Free transfer,England,9837.0,Redditch United FC ,103762,-,Daire Doyle,07/08,England,22615.0,Bromsgrove 
+"Jan 1, 2006",,Free transfer,England,4289.0,Moor Green FC ,103762,-,Daire Doyle,05/06,England,9837.0,Redditch United FC 
+"Jul 1, 2004",,Free transfer,England,3933.0,Nuneaton ,103762,-,Daire Doyle,04/05,England,4289.0,Moor Green FC 
+"Jul 1, 2003",,Free transfer,England,1195.0,Kidderminster ,103762,-,Daire Doyle,03/04,England,3933.0,Nuneaton 
+"Jan 1, 2002",,Free transfer,England,990.0,Coventry City ,103762,-,Daire Doyle,01/02,England,1195.0,Kidderminster 
+"Jul 1, 1998",,-,England,12803.0,Coventry U18 ,103762,-,Daire Doyle,98/99,England,990.0,Coventry City 
+"Jan 1, 2015",,Free transfer,Ireland,8780.0,Sligo Rovers ,85699,50 Th. €,Evan McMillan,14/15,Ireland,6069.0,UCD 
+"Jan 1, 2013",,Free transfer,Ireland,9211.0,Bohemians ,85699,50 Th. €,Evan McMillan,12/13,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2012",,Free transfer,Ireland,1189.0,St. Patricks ,85699,50 Th. €,Evan McMillan,11/12,Ireland,9211.0,Bohemians 
+"Jan 1, 2011",,Free transfer,Ireland,6069.0,UCD ,85699,50 Th. €,Evan McMillan,10/11,Ireland,1189.0,St. Patricks 
+"Jan 1, 2015",,-,Ireland,4277.0,Drogheda United ,103769,-,Paul Crowley,14/15,,123.0,End of career 
+"Jan 1, 2014",,Free transfer,Ireland,3909.0,Shelbourne ,103769,50 Th. €,Paul Crowley,13/14,Ireland,4277.0,Drogheda United 
+"Jan 1, 2013",,Free transfer,Ireland,4277.0,Drogheda United ,103769,50 Th. €,Paul Crowley,12/13,Ireland,3909.0,Shelbourne 
+"Jan 1, 2012",,Free transfer,Ireland,1189.0,St. Patricks ,103769,50 Th. €,Paul Crowley,11/12,Ireland,4277.0,Drogheda United 
+"Jan 1, 2011",,Free transfer,Ireland,4277.0,Drogheda United ,103769,50 Th. €,Paul Crowley,10/11,Ireland,1189.0,St. Patricks 
+"Jan 1, 2009",,Free transfer,Ireland,6066.0,Dundalk FC ,103769,-,Paul Crowley,08/09,Ireland,4277.0,Drogheda United 
+"Jan 1, 2007",,Free transfer,Ireland,6069.0,UCD ,103769,-,Paul Crowley,06/07,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2006",,Free transfer,Ireland,4075.0,Dublin City FC ,103769,-,Paul Crowley,06/07,Ireland,6069.0,UCD 
+"Jan 1, 2006",,Free transfer,Ireland,7609.0,Waterford Utd. ,103769,-,Paul Crowley,05/06,Ireland,4075.0,Dublin City FC 
+"Jul 1, 2005",,Free transfer,Ireland,4075.0,Dublin City FC ,103769,-,Paul Crowley,05/06,Ireland,7609.0,Waterford Utd. 
+"Jul 1, 2000",,Free transfer,Ireland,3258.0,Shamrock Rovers ,103769,-,Paul Crowley,00/01,Ireland,4075.0,Dublin City FC 
+"Jul 1, 1997",,-,Ireland,15293.0,Shamrock Rovers ,103769,-,Paul Crowley,97/98,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2013",,Free transfer,Ireland,4287.0,Longford Town ,103770,-,Jamie Duffy,12/13,,75.0,Unknown 
+"Jan 1, 2012",,-,Ireland,515.0,Unattached ,103770,-,Jamie Duffy,11/12,,4287.0,Longford Town 
+"Jul 1, 2011",,-,Northern Ireland,6068.0,Newry City ,103770,-,Jamie Duffy,11/12,,515.0,Unattached 
+"Apr 1, 2011",,?,Northern Ireland,75.0,Unknown ,103770,-,Jamie Duffy,10/11,,6068.0,Newry City 
+"Jul 1, 2010",,Free transfer,Ireland,4277.0,Drogheda United ,103770,-,Jamie Duffy,10/11,,75.0,Unknown 
+"Jan 1, 2009",,Free transfer,Ireland,6066.0,Dundalk FC ,103770,-,Jamie Duffy,08/09,Ireland,4277.0,Drogheda United 
+"Jan 1, 2008",,Free transfer,Ireland,4287.0,Longford Town ,103770,-,Jamie Duffy,07/08,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2007",,Free transfer,Ireland,3258.0,Shamrock Rovers ,103770,-,Jamie Duffy,07/08,Ireland,4287.0,Longford Town 
+"Jul 1, 2010",,Free transfer,Ireland,3930.0,Bray Wanderers ,143759,50 Th. €,Carl Donnelly,10/11,,75.0,Unknown 
+"Jul 1, 2015",,Free transfer,England,1198.0,Lincoln City ,136544,50 Th. €,Tom Miller,15/16,England,1220.0,Carlisle United 
+"Mar 21, 2012",,-,England,515.0,Unattached ,136544,50 Th. €,Tom Miller,11/12,,1198.0,Lincoln City 
+"Jan 4, 2012",,-,England,3716.0,Newport County ,136544,50 Th. €,Tom Miller,11/12,,515.0,Unattached 
+"Jan 28, 2011",,28 Th. €,Ireland,6066.0,Dundalk FC ,136544,50 Th. €,Tom Miller,10/11,England,3716.0,Newport County 
+"Feb 19, 2010",,Free transfer,Scotland,124.0,Rangers ,136544,-,Tom Miller,09/10,Ireland,6066.0,Dundalk FC 
+"Jan 23, 2010",,End of loan,Scotland,3194.0,Brechin City ,136544,-,Tom Miller,09/10,Scotland,124.0,Rangers 
+"Dec 23, 2009",,Loan,Scotland,124.0,Rangers ,136544,-,Tom Miller,09/10,Scotland,3194.0,Brechin City 
+"Jul 1, 2009",,-,Scotland,7112.0,Rangers U20 ,136544,-,Tom Miller,09/10,Scotland,124.0,Rangers 
+"Jul 1, 2008",,Free transfer,England,6898.0,Norwich U18 ,136544,-,Tom Miller,08/09,Scotland,7112.0,Rangers U20 
+"Jul 1, 2006",,Free transfer,England,10006.0,Ipswich U18 ,136544,-,Tom Miller,06/07,England,6898.0,Norwich U18 
+"Jul 1, 2010",,Free transfer,Ireland,4277.0,Drogheda United ,103777,50 Th. €,Robbie Martin,10/11,,75.0,Unknown 
+"Jan 1, 2009",,Free transfer,Ireland,6066.0,Dundalk FC ,103777,-,Robbie Martin,08/09,Ireland,4277.0,Drogheda United 
+"Jan 1, 2008",,?,Ireland,4287.0,Longford Town ,103777,-,Robbie Martin,07/08,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2012",,Free transfer,England,3716.0,Newport County ,92516,-,Wayne Hatswell,12/13,England,20877.0,Brackley 
+"Jan 1, 2011",,Free transfer,Ireland,6066.0,Dundalk FC ,92516,50 Th. €,Wayne Hatswell,10/11,England,3716.0,Newport County 
+"Jan 1, 2010",,Free transfer,England,986.0,Cambridge Utd. ,92516,50 Th. €,Wayne Hatswell,09/10,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2008",,20 Th. €,England,3536.0,Rush. & Diamon. ,92516,-,Wayne Hatswell,07/08,England,986.0,Cambridge Utd. 
+"Jan 1, 2006",,15 Th. €,England,1195.0,Kidderminster ,92516,-,Wayne Hatswell,05/06,England,3536.0,Rush. & Diamon. 
+"Oct 1, 2003",,12 Th. €,England,3613.0,Chester City ,92516,-,Wayne Hatswell,03/04,England,1195.0,Kidderminster 
+"Jul 1, 2002",,Free transfer,England,988.0,Oxford United ,92516,-,Wayne Hatswell,02/03,England,3613.0,Chester City 
+"Dec 1, 2000",,50 Th. €,England,3455.0,Forest Green ,92516,-,Wayne Hatswell,00/01,England,988.0,Oxford United 
+"Jul 1, 1999",,-,England,22582.0,Forest U19 ,92516,-,Wayne Hatswell,99/00,England,3455.0,Forest Green 
+"Jan 1, 2011",,Free transfer,Ireland,9212.0,Galway United ,103785,50 Th. €,Tom King,10/11,Ireland,26223.0,Mervue United 
+"Jan 1, 2010",,Free transfer,Ireland,4287.0,Longford Town ,103785,-,Tom King,09/10,Ireland,9212.0,Galway United 
+"Jan 1, 2009",,Free transfer,Ireland,8780.0,Sligo Rovers ,103785,-,Tom King,08/09,Ireland,4287.0,Longford Town 
+"Jan 1, 2008",,Free transfer,England,2262.0,Plymouth Argyle ,103785,-,Tom King,07/08,Ireland,8780.0,Sligo Rovers 
+"Jul 1, 2006",,-,England,14984.0,Plymouth U18 ,103785,-,Tom King,06/07,England,2262.0,Plymouth Argyle 
+"Jan 1, 2011",,Free transfer,Ireland,8780.0,Sligo Rovers ,103787,50 Th. €,Jason McCartney,10/11,Northern Ireland,21929.0,Ballinamallard 
+"Jan 1, 2010",,Free transfer,Ireland,4287.0,Longford Town ,103787,-,Jason McCartney,09/10,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2009",,Free transfer,Ireland,4273.0,Athlone Town ,103787,-,Jason McCartney,08/09,Ireland,4287.0,Longford Town 
+"Jan 19, 2016",,Free transfer,United States,40835.0,Sacramento FC ,103795,50 Th. €,Seán Houston,15/16,Ireland,5568.0,Finn Harps 
+"Jul 8, 2015",,-,United States,515.0,Unattached ,103795,50 Th. €,Seán Houston,15/16,,40835.0,Sacramento FC 
+"Jun 5, 2015",,-,Ireland,920.0,Derry City ,103795,50 Th. €,Seán Houston,14/15,,515.0,Unattached 
+"Jul 13, 2014",,-,Ireland,515.0,Unattached ,103795,50 Th. €,Seán Houston,14/15,,920.0,Derry City 
+"Jan 1, 2014",,-,Ireland,920.0,Derry City ,103795,50 Th. €,Seán Houston,13/14,,515.0,Unattached 
+"Jan 1, 2013",,Free transfer,Ireland,3930.0,Bray Wanderers ,103795,-,Seán Houston,12/13,Ireland,920.0,Derry City 
+"Jul 1, 2010",,Free transfer,Ireland,6069.0,UCD ,103795,-,Seán Houston,10/11,Ireland,3930.0,Bray Wanderers 
+"Jul 1, 2009",,Free transfer,Ireland,5568.0,Finn Harps ,103795,-,Seán Houston,09/10,Ireland,6069.0,UCD 
+"Jan 1, 2016",,Free transfer,Ireland,3258.0,Shamrock Rovers ,137591,50 Th. €,Ryan Brennan,15/16,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2014",,Free transfer,Ireland,4277.0,Drogheda United ,137591,50 Th. €,Ryan Brennan,13/14,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2012",,Free transfer,Ireland,14814.0,Monaghan United ,137591,50 Th. €,Ryan Brennan,11/12,Ireland,4277.0,Drogheda United 
+"Jan 1, 2011",,Free transfer,Ireland,4277.0,Drogheda United ,137591,50 Th. €,Ryan Brennan,10/11,Ireland,14814.0,Monaghan United 
+"Jan 1, 2010",,-,Ireland,21690.0,Drogheda U20 ,137591,-,Ryan Brennan,09/10,Ireland,4277.0,Drogheda United 
+"Jan 1, 2011",,Free transfer,Ireland,3909.0,Shelbourne ,66433,50 Th. €,Damien Brennan,10/11,Ireland,28886.0,Bangor Celtic FC 
+"Jul 1, 2010",,Free transfer,Ireland,4277.0,Drogheda United ,66433,50 Th. €,Damien Brennan,10/11,Ireland,3909.0,Shelbourne 
+"Jan 1, 2010",,Free transfer,Ireland,3909.0,Shelbourne ,66433,-,Damien Brennan,09/10,Ireland,4277.0,Drogheda United 
+"Jan 1, 2008",,?,Ireland,4287.0,Longford Town ,66433,-,Damien Brennan,07/08,Ireland,3909.0,Shelbourne 
+"Jan 19, 2016",,Free transfer,Ireland,1189.0,St. Patricks ,66435,150 Th. €,James Chambers,15/16,United States,51762.0,Bethlehem  
+"Jan 1, 2014",,Free transfer,Ireland,3258.0,Shamrock Rovers ,66435,150 Th. €,James Chambers,13/14,Ireland,1189.0,St. Patricks 
+"Jan 1, 2013",,Free transfer,Ireland,1189.0,St. Patricks ,66435,150 Th. €,James Chambers,12/13,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2012",,Free transfer,Scotland,2999.0,Hamilton Acad. ,66435,150 Th. €,James Chambers,11/12,Ireland,1189.0,St. Patricks 
+"Jan 1, 2011",,Free transfer,Ireland,3258.0,Shamrock Rovers ,66435,50 Th. €,James Chambers,10/11,Scotland,2999.0,Hamilton Acad. 
+"Jan 1, 2010",,Free transfer,Ireland,4277.0,Drogheda United ,66435,-,James Chambers,09/10,Ireland,3258.0,Shamrock Rovers 
+"Mar 1, 2009",,Free transfer,England,12335.0,Solihull ,66435,-,James Chambers,08/09,Ireland,4277.0,Drogheda United 
+"Jan 1, 2009",,Free transfer,Ireland,3909.0,Shelbourne ,66435,-,James Chambers,08/09,England,12335.0,Solihull 
+"Dec 1, 2006",,End of loan,Ireland,7609.0,Waterford Utd. ,66435,-,James Chambers,06/07,Ireland,3909.0,Shelbourne 
+"Feb 1, 2006",,Loan,Ireland,3909.0,Shelbourne ,66435,-,James Chambers,05/06,Ireland,7609.0,Waterford Utd. 
+"Jan 1, 2004",,-,Ireland,16154.0,Shelbourne FC ,66435,-,James Chambers,03/04,Ireland,3909.0,Shelbourne 
+"Jul 1, 2011",,Free transfer,Ireland,3258.0,Shamrock Rovers ,62855,100 Th. €,Alan Mannus,11/12,Scotland,2578.0,St. Johnstone 
+"Jul 1, 2009",,Free transfer,Northern Ireland,3471.0,Linfield ,62855,100 Th. €,Alan Mannus,09/10,Ireland,3258.0,Shamrock Rovers 
+"May 1, 2001",,End of loan,Northern Ireland,8714.0,Carrick Rangers ,62855,-,Alan Mannus,00/01,Northern Ireland,3471.0,Linfield 
+"Jan 1, 2001",,Loan,Northern Ireland,3471.0,Linfield ,62855,-,Alan Mannus,00/01,Northern Ireland,8714.0,Carrick Rangers 
+"Dec 1, 2000",,End of loan,Northern Ireland,3461.0,Larne FC ,62855,-,Alan Mannus,00/01,Northern Ireland,3471.0,Linfield 
+"Oct 1, 2000",,Loan,Northern Ireland,3471.0,Linfield ,62855,-,Alan Mannus,00/01,Northern Ireland,3461.0,Larne FC 
+"Jul 1, 2000",,-,Northern Ireland,41080.0,Linfield U19 ,62855,-,Alan Mannus,00/01,Northern Ireland,3471.0,Linfield 
+"Jan 1, 2014",,-,Ireland,9211.0,Bohemians ,143754,50 Th. €,Ciaran Nangle,13/14,,515.0,Unattached 
+"Jan 1, 2013",,Free transfer,Ireland,6069.0,UCD ,143754,50 Th. €,Ciaran Nangle,12/13,Ireland,9211.0,Bohemians 
+"Jan 1, 2009",,Free transfer,Ireland,15288.0,Home Farm ,143754,-,Ciaran Nangle,08/09,Ireland,6069.0,UCD 
+"May 1, 2016",,?,United States,48537.0,NYG Americans ,143755,50 Th. €,Stephen Roche,15/16,United States,53657.0,Lansdowne 
+"Jan 1, 2013",,?,United States,9749.0,Long Island RR ,143755,50 Th. €,Stephen Roche,12/13,United States,48537.0,NYG Americans 
+"Jan 1, 2012",,?,United States,23558.0,FC NY ,143755,50 Th. €,Stephen Roche,11/12,United States,9749.0,Long Island RR 
+"Mar 1, 2011",,?,Ireland,6069.0,UCD ,143755,50 Th. €,Stephen Roche,10/11,United States,23558.0,FC NY 
+"Jan 1, 2013",,Free transfer,Ireland,3909.0,Shelbourne ,143756,50 Th. €,Conan Byrne,12/13,Ireland,1189.0,St. Patricks 
+"Jan 1, 2011",,Free transfer,Ireland,18232.0,Sporting Fingal ,143756,50 Th. €,Conan Byrne,10/11,Ireland,3909.0,Shelbourne 
+"Jan 1, 2008",,Free transfer,Ireland,6069.0,UCD ,143756,-,Conan Byrne,07/08,Ireland,18232.0,Sporting Fingal 
+"Jan 1, 2012",,-,Ireland,3930.0,Bray Wanderers ,143757,50 Th. €,Nicholas Byrne,11/12,,515.0,Unattached 
+"Jan 1, 2010",,-,Ireland,15257.0,Bray Wanderers ,143757,-,Nicholas Byrne,09/10,Ireland,3930.0,Bray Wanderers 
+"Jul 1, 2016",,Free transfer,England,1302.0,Northampt. Town ,143758,50 Th. €,Paul Corry,16/17,,75.0,Unknown 
+"Aug 3, 2015",,Free transfer,England,1035.0,Sheff Wed ,143758,50 Th. €,Paul Corry,15/16,England,1302.0,Northampt. Town 
+"May 3, 2015",,End of loan,England,1220.0,Carlisle United ,143758,50 Th. €,Paul Corry,14/15,England,1035.0,Sheff Wed 
+"Mar 13, 2015",,Loan,England,1035.0,Sheff Wed ,143758,50 Th. €,Paul Corry,14/15,England,1220.0,Carlisle United 
+"Mar 18, 2013",,End of loan,England,1074.0,Tranmere Rovers ,143758,50 Th. €,Paul Corry,12/13,England,1035.0,Sheff Wed 
+"Feb 15, 2013",,Loan,England,1035.0,Sheff Wed ,143758,50 Th. €,Paul Corry,12/13,England,1074.0,Tranmere Rovers 
+"Aug 29, 2012",,90 Th. €,Ireland,6069.0,UCD ,143758,50 Th. €,Paul Corry,12/13,England,1035.0,Sheff Wed 
+"Jul 1, 2009",,Free transfer,Ireland,6064.0,Belvedere FC ,143758,-,Paul Corry,09/10,Ireland,6069.0,UCD 
+"Sep 1, 2013",,-,Scotland,515.0,Unattached ,61327,75 Th. €,Scott Gibb,13/14,,24232.0,Bo'ness United 
+"Jan 1, 2013",,?,Scotland,24232.0,Bo'ness United ,61327,75 Th. €,Scott Gibb,12/13,,515.0,Unattached 
+"Jul 1, 2011",,Free transfer,Scotland,3012.0,Stenhousemuir ,61327,75 Th. €,Scott Gibb,11/12,Scotland,24232.0,Bo'ness United 
+"Jul 1, 2010",,Free transfer,Ireland,4277.0,Drogheda United ,61327,75 Th. €,Scott Gibb,10/11,Scotland,3012.0,Stenhousemuir 
+"May 1, 2010",,End of loan,Scotland,3012.0,Stenhousemuir ,61327,75 Th. €,Scott Gibb,09/10,Ireland,4277.0,Drogheda United 
+"Jan 1, 2010",,Loan,Ireland,4277.0,Drogheda United ,61327,75 Th. €,Scott Gibb,09/10,Scotland,3012.0,Stenhousemuir 
+"Jul 1, 2009",,Free transfer,Scotland,1191.0,Falkirk FC ,61327,75 Th. €,Scott Gibb,09/10,Ireland,4277.0,Drogheda United 
+"Jun 30, 2009",,End of loan,Scotland,3033.0,Stirling ,61327,75 Th. €,Scott Gibb,08/09,Scotland,1191.0,Falkirk FC 
+"Nov 1, 2008",,Loan,Scotland,1191.0,Falkirk FC ,61327,75 Th. €,Scott Gibb,08/09,Scotland,3033.0,Stirling 
+"Jan 1, 2015",,-,,2077.0,Ban ,143761,50 Th. €,Colm James,14/15,,515.0,Unattached 
+"Jun 1, 2013",,-,Ireland,4287.0,Longford Town ,143761,50 Th. €,Colm James,12/13,,2077.0,Ban 
+"Jan 1, 2012",,Free transfer,Ireland,3909.0,Shelbourne ,143761,50 Th. €,Colm James,11/12,Ireland,4287.0,Longford Town 
+"Jan 1, 2011",,Free transfer,Ireland,18232.0,Sporting Fingal ,143761,50 Th. €,Colm James,10/11,Ireland,3909.0,Shelbourne 
+"Jan 1, 2008",,Free transfer,Ireland,4287.0,Longford Town ,143761,-,Colm James,07/08,Ireland,18232.0,Sporting Fingal 
+"Jul 1, 2007",,Free transfer,Ireland,9212.0,Galway United ,143761,-,Colm James,07/08,Ireland,4287.0,Longford Town 
+"Jan 1, 2007",,Free transfer,Ireland,3930.0,Bray Wanderers ,143761,-,Colm James,06/07,Ireland,9212.0,Galway United 
+"Jul 1, 2002",,Free transfer,Ireland,15293.0,Shamrock Rovers ,143761,-,Colm James,02/03,Ireland,3930.0,Bray Wanderers 
+"Mar 16, 2016",,-,Ireland,2113.0,career break ,143762,50 Th. €,James Kavanagh,15/16,,9211.0,Bohemians 
+"Jan 1, 2015",,Free transfer,Ireland,6069.0,UCD ,143762,50 Th. €,James Kavanagh,14/15,,2113.0,career break 
+"Jan 1, 2011",,Free transfer,Ireland,3930.0,Bray Wanderers ,143762,50 Th. €,James Kavanagh,10/11,Ireland,6069.0,UCD 
+"Jan 1, 2010",,Free transfer,Ireland,6064.0,Belvedere FC ,143762,-,James Kavanagh,09/10,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2015",,-,Ireland,5568.0,Finn Harps ,143763,50 Th. €,Mark McGinlay,14/15,,515.0,Unattached 
+"Jul 29, 2014",,Free transfer,Ireland,6069.0,UCD ,143763,50 Th. €,Mark McGinlay,14/15,Ireland,5568.0,Finn Harps 
+"Jan 1, 2010",,Free transfer,Northern Ireland,12903.0,Institute FC ,143763,-,Mark McGinlay,09/10,Ireland,6069.0,UCD 
+"Jan 1, 2010",,Free transfer,Northern Ireland,22490.0,Donegal Celtic ,143764,-,Séamus Friel,09/10,Ireland,9212.0,Galway United 
+"Jul 1, 1910",,-,Ireland,9212.0,Galway United ,143764,-,Séamus Friel,1910/11,,515.0,Unattached 
+"Jan 1, 2015",,-,Ireland,3930.0,Bray Wanderers ,143766,50 Th. €,Shane O'Connor,14/15,,515.0,Unattached 
+"Jan 1, 2013",,Free transfer,Ireland,6066.0,Dundalk FC ,66459,50 Th. €,Mark O'Brien,12/13,,75.0,Unknown 
+"Jul 1, 2012",,Free transfer,Ireland,4277.0,Drogheda United ,66459,50 Th. €,Mark O'Brien,12/13,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2011",,Free transfer,Ireland,3909.0,Shelbourne ,66459,50 Th. €,Mark O'Brien,10/11,Ireland,4277.0,Drogheda United 
+"Jul 1, 2010",,Free transfer,Ireland,3930.0,Bray Wanderers ,66459,50 Th. €,Mark O'Brien,10/11,Ireland,3909.0,Shelbourne 
+"Jan 1, 2010",,Free transfer,Ireland,3909.0,Shelbourne ,66459,-,Mark O'Brien,09/10,Ireland,3930.0,Bray Wanderers 
+"Jul 1, 2007",,Free transfer,Ireland,9211.0,Bohemians ,66459,-,Mark O'Brien,07/08,Ireland,3909.0,Shelbourne 
+"Dec 1, 2006",,End of loan,Ireland,3258.0,Shamrock Rovers ,66459,-,Mark O'Brien,06/07,Ireland,9211.0,Bohemians 
+"Jul 1, 2006",,Loan,Ireland,9211.0,Bohemians ,66459,-,Mark O'Brien,06/07,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2005",,Free transfer,Ireland,3258.0,Shamrock Rovers ,66459,-,Mark O'Brien,04/05,Ireland,9211.0,Bohemians 
+"Jan 1, 2003",,-,Ireland,15293.0,Shamrock Rovers ,66459,-,Mark O'Brien,02/03,Ireland,3258.0,Shamrock Rovers 
+"Jan 1, 2014",,-,Ireland,8780.0,Sligo Rovers ,104861,-,Ciarán Kelly,13/14,,123.0,End of career 
+"Jan 1, 2009",,Free transfer,Ireland,4273.0,Athlone Town ,104861,-,Ciarán Kelly,08/09,Ireland,8780.0,Sligo Rovers 
+"Jan 1, 2007",,Free transfer,Ireland,26104.0,Castlebar ,104861,-,Ciarán Kelly,06/07,Ireland,4273.0,Athlone Town 
+"Jan 1, 2006",,Free transfer,Ireland,9212.0,Galway United ,104861,-,Ciarán Kelly,05/06,Ireland,26104.0,Castlebar 
+"Jan 1, 2005",,Free transfer,Ireland,8780.0,Sligo Rovers ,104861,-,Ciarán Kelly,04/05,Ireland,9212.0,Galway United 
+"Jan 1, 2015",,-,Ireland,4277.0,Drogheda United ,127914,-,Austin McCann,14/15,,123.0,End of career 
+"Jan 1, 2014",,Free transfer,Ireland,32512.0,Glebe North ,127914,50 Th. €,Austin McCann,13/14,Ireland,4277.0,Drogheda United 
+"Jan 1, 2011",,Free transfer,Ireland,4277.0,Drogheda United ,127914,50 Th. €,Austin McCann,10/11,Ireland,32512.0,Glebe North 
+"Jan 1, 2010",,-,Ireland,21690.0,Drogheda U20 ,127914,-,Austin McCann,09/10,Ireland,4277.0,Drogheda United 
+"Jan 1, 2014",,-,Ireland,6066.0,Dundalk FC ,112044,50 Th. €,Nathan Murphy,13/14,,515.0,Unattached 
+"Jul 18, 2013",,-,Ireland,515.0,Unattached ,112044,50 Th. €,Nathan Murphy,13/14,,6066.0,Dundalk FC 
+"Jan 1, 2013",,-,Ireland,6066.0,Dundalk FC ,112044,50 Th. €,Nathan Murphy,12/13,,515.0,Unattached 
+"Jul 1, 2009",,-,Ireland,22825.0,Dundalk FC U20 ,112044,-,Nathan Murphy,09/10,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2008",,Free transfer,Ireland,6064.0,Belvedere FC ,112044,-,Nathan Murphy,08/09,Ireland,22825.0,Dundalk FC U20 
+,,,,,,112045,,,,,,
+"Jan 1, 2011",,-,Ireland,9212.0,Galway United ,147385,-,Daniel Keady,10/11,,515.0,Unattached 
+"Jan 1, 2010",,-,Ireland,29676.0,Galway Utd. U20 ,147385,-,Daniel Keady,09/10,Ireland,9212.0,Galway United 
+"Jan 1, 2009",,Free transfer,Ireland,32369.0,Renmore FC ,147385,-,Daniel Keady,08/09,Ireland,29676.0,Galway Utd. U20 
+"Jan 1, 2011",,-,Ireland,32242.0,Fingal U20 ,148414,-,Kevin Boyd,10/11,,515.0,Unattached 
+"Jan 1, 2011",,-,Ireland,9212.0,Galway United ,147391,-,Peadar Seoighe,10/11,,515.0,Unattached 
+"Jan 1, 2010",,Free transfer,Ireland,26223.0,Mervue United ,147391,-,Peadar Seoighe,09/10,Ireland,9212.0,Galway United 
+"Jul 1, 2013",,-,Ireland,7609.0,Waterford Utd. ,143810,50 Th. €,Robert Hughes,13/14,,515.0,Unattached 
+"Jan 1, 2012",,Free transfer,Ireland,15293.0,Shamrock Rovers ,143810,50 Th. €,Robert Hughes,11/12,Ireland,7609.0,Waterford Utd. 
+"Jan 1, 2010",,Free transfer,Ireland,6142.0,Cherry Orchard FC ,143810,-,Robert Hughes,09/10,Ireland,15293.0,Shamrock Rovers 
+"Jan 1, 2013",,Free transfer,Ireland,6066.0,Dundalk FC ,143813,50 Th. €,Paul Whelan,12/13,,75.0,Unknown 
+"Jul 1, 2012",,Free transfer,Ireland,14814.0,Monaghan United ,143813,50 Th. €,Paul Whelan,12/13,Ireland,6066.0,Dundalk FC 
+"Jul 1, 2010",,Free transfer,Ireland,8780.0,Sligo Rovers ,143813,50 Th. €,Paul Whelan,10/11,Ireland,14814.0,Monaghan United 
+"Jan 1, 2010",,Free transfer,Ireland,14814.0,Monaghan United ,143813,-,Paul Whelan,09/10,Ireland,8780.0,Sligo Rovers 
+"Jul 1, 2004",,-,Ireland,32625.0,Monaghan U20 ,143813,-,Paul Whelan,04/05,Ireland,14814.0,Monaghan United 
+"Jan 1, 2016",,-,Ireland,4277.0,Drogheda United ,49609,-,Stephen Maher,15/16,,123.0,End of career 
+"Mar 12, 2014",,-,Ireland,515.0,Unattached ,49609,50 Th. €,Stephen Maher,13/14,,4277.0,Drogheda United 
+"Jan 1, 2014",,-,Ireland,1189.0,St. Patricks ,49609,50 Th. €,Stephen Maher,13/14,,515.0,Unattached 
+"Jan 1, 2013",,Free transfer,Ireland,6066.0,Dundalk FC ,49609,50 Th. €,Stephen Maher,12/13,Ireland,1189.0,St. Patricks 
+"Aug 1, 2012",,Free transfer,Ireland,14814.0,Monaghan United ,49609,50 Th. €,Stephen Maher,12/13,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2012",,Free transfer,Ireland,6066.0,Dundalk FC ,49609,50 Th. €,Stephen Maher,11/12,Ireland,14814.0,Monaghan United 
+"Jan 1, 2010",,Free transfer,Ireland,1189.0,St. Patricks ,49609,-,Stephen Maher,09/10,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2009",,Free transfer,England,14773.0,Salisbury ,49609,-,Stephen Maher,08/09,Ireland,1189.0,St. Patricks 
+"Jul 1, 2008",,Free transfer,England,972.0,Yeovil Town ,49609,-,Stephen Maher,08/09,England,14773.0,Salisbury 
+"Nov 1, 2007",,End of loan,England,3824.0,Dorchester ,49609,-,Stephen Maher,07/08,England,972.0,Yeovil Town 
+"Sep 1, 2007",,Loan,England,972.0,Yeovil Town ,49609,-,Stephen Maher,07/08,England,3824.0,Dorchester 
+"Aug 1, 2007",,End of loan,Ireland,3258.0,Shamrock Rovers ,49609,-,Stephen Maher,07/08,England,972.0,Yeovil Town 
+"Jul 1, 2007",,Loan,England,972.0,Yeovil Town ,49609,-,Stephen Maher,07/08,Ireland,3258.0,Shamrock Rovers 
+"Jul 1, 2006",,Free transfer,Ireland,4075.0,Dublin City FC ,49609,-,Stephen Maher,06/07,England,972.0,Yeovil Town 
+"Jan 1, 2011",,-,Ireland,3930.0,Bray Wanderers ,148436,-,Dylan Vickers,10/11,,123.0,End of career 
+"Jan 1, 2010",,-,Ireland,15257.0,Bray Wanderers ,148436,-,Dylan Vickers,09/10,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2012",,-,Ireland,3930.0,Bray Wanderers ,148171,-,Adam O'Connor,11/12,,515.0,Unattached 
+"Jan 1, 2010",,Free transfer,Ireland,32204.0,Wolfe Tone ,148171,-,Adam O'Connor,09/10,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2013",,Free transfer,Ireland,3909.0,Shelbourne ,136169,50 Th. €,Andrew Boyle,12/13,Ireland,6066.0,Dundalk FC 
+"Jan 1, 2011",,Free transfer,Ireland,6069.0,UCD ,136169,50 Th. €,Andrew Boyle,10/11,Ireland,3909.0,Shelbourne 
+"Jan 1, 2009",,Free transfer,Ireland,9209.0,Crumlin United ,136169,-,Andrew Boyle,08/09,Ireland,6069.0,UCD 
+"Jan 1, 2015",,Free transfer,Ireland,4273.0,Athlone Town ,153578,-,Derek Prendergast,14/15,Ireland,9211.0,Bohemians 
+"Jan 1, 2014",,Free transfer,Ireland,4277.0,Drogheda United ,153578,-,Derek Prendergast,13/14,Ireland,4273.0,Athlone Town 
+"Jan 1, 2012",,Free transfer,Ireland,3930.0,Bray Wanderers ,153578,-,Derek Prendergast,11/12,Ireland,4277.0,Drogheda United 
+"Jul 1, 2010",,Free transfer,Ireland,28886.0,Bangor Celtic FC ,153578,-,Derek Prendergast,10/11,Ireland,3930.0,Bray Wanderers 
+"Jan 1, 2016",,Free transfer,Ireland,3930.0,Bray Wanderers ,105459,50 Th. €,Ryan McEvoy,15/16,Ireland,53135.0,McKelvey 
+"Jan 5, 2015",,Free transfer,Ireland,9211.0,Bohemians ,105459,50 Th. €,Ryan McEvoy,14/15,Ireland,3930.0,Bray Wanderers 
+"Dec 31, 2010",,End of loan,Ireland,4273.0,Athlone Town ,105459,50 Th. €,Ryan McEvoy,10/11,Ireland,9211.0,Bohemians 
+"Jul 1, 2010",,Loan,Ireland,9211.0,Bohemians ,105459,50 Th. €,Ryan McEvoy,10/11,Ireland,4273.0,Athlone Town 
+"Jun 30, 2010",,End of loan,Ireland,4287.0,Longford Town ,105459,50 Th. €,Ryan McEvoy,09/10,Ireland,9211.0,Bohemians 
+"Feb 1, 2010",,Loan,Ireland,9211.0,Bohemians ,105459,-,Ryan McEvoy,09/10,Ireland,4287.0,Longford Town 
+"Jan 1, 2009",,-,Ireland,22468.0,BFCD U20 ,105459,-,Ryan McEvoy,08/09,Ireland,9211.0,Bohemians 
+,'NoneType' object has no attribute 'find_all',,,,,112045,,,,,,
