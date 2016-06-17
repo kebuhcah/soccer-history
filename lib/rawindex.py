@@ -6,7 +6,7 @@ for season in range(2001,2016)[::-1]:
                    'GB2','MLS1','UKR1','GR1','RO1','ZYP1',
                    'C1','KR1','SER1','ISR1','SC1','BU1','LI1','MAL1',
                    'PL1','DK1','SE1','NO1','A1','BOS1','KAS1','UNG1',
-                   'TS1','SLO1','SL1','FI1','LUX1','AZ1']:
+                   'TS1','SLO1','SL1','FI1','LUX1','AZ1','IR1']:
         filename = "data/rawindex/" + league + "_" + str(season) + ".xls"
         if os.path.isfile(filename):
             print str(datetime.datetime.now()), filename, "already exists"
