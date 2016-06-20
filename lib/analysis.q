@@ -4,7 +4,7 @@ transfers:("SSZISSFSSSFSFSSSZSSFFSSSSSSSFFFSISFZZSFZSFSSZSSSFZSSSSFSFFS";enlist"
 update `date$date,`date$dateOfBirth,`date$inTheTeamSince,`date$contractUntil,`date$contractThereUntil,`date$dateOfLastContractExtension,`date$dayOfDeath from `transfers;
 update {"D"$(string 100+`year$x),"/",(string`mm$x),"/",(string`dd$x)}each date from `transfers where date<1930.01.01;
 update mvDelta:(0n,0^1_deltas mv) by id from `transfers;
-update duration:(0Ni,1_deltas date) by id from `transfers;
+update duration:(0Ni,1_deltas date) by id from `transfers where isLoan=`False;
 update {`$"\"",x,"\""}each string placeOfBirth from `transfers;
 update {`$"\"",x,"\""}each string period from `transfers;
 update {`$"\"",x,"\""}each string countryOfBirth  from `transfers;
@@ -24,7 +24,7 @@ nonloans:select from transfers where `False=isLoan;
 loans:select from transfers where `True=isLoan;
 save`:data/merged/transfers_q.csv  ;
 save`:data/merged/nonloans.csv  ;
-save`:data/merged/loans.csv  
+save`:data/merged/loans.csv  ;
 
 
 //end
