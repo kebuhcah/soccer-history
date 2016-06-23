@@ -42,6 +42,14 @@ select from transfers_q where i=49
 
 {"D"$(string 100+`year$x),"/",(string`mm$x),"/",(string`dd$x)}1903.01.01
 
+`x xdesc select count i,{((count x)&5)#x}id by fourCountry from ungroup select fourCountry:asc each{{x where 3<count each distinct each x} -3_flip(x;next x;next next x;next next next x)}{x where x<>next x}{x where not null x}((first fromCountry),toCountry) by id from transfers where isLoan=`False,Nationality=`Brazil
+`x xdesc select count i,{((count x)&5)#x}id by threeCountry from ungroup select threeCountry:asc each{{x where (first each x)<>(last each x)} -2_flip(x;next x;next next x)}{x where x<>next x}{x where not null x}((first fromCountry),toCountry) by id from transfers where isLoan=`False,Nationality=`Brazil
+`x xdesc select count i,{((count x)&5)#x}id by twoCountry from ungroup select twoCountry:{{x where (first each x)<>(last each x)} -1_flip(x;next x)}{x where x<>next x}{x where not null x}((first fromCountry),toCountry) by id from transfers where isLoan=`False,Nationality=`Brazil
+
+{x where not ` in/:x}
+{-2_flip(x;next x;next next x)}"abcdefg"
+{x where not ` in/:x}(``a`b;`a`b`c)
+
 type 0Ni
 meta transfers
 
