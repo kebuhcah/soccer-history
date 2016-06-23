@@ -5,6 +5,8 @@ update `date$date,`date$dateOfBirth,`date$inTheTeamSince,`date$contractUntil,`da
 update {"D"$(string 100+`year$x),"/",(string`mm$x),"/",(string`dd$x)}each date from `transfers where date<1930.01.01;
 update mvDelta:(0n,0^1_deltas mv) by id from `transfers;
 update duration:(0Ni,1_deltas date) by id from `transfers where isLoan=`False;
+update durationWithLoans:(0Ni,1_deltas date) by id from `transfers;
+delete from `transfers where fee=`$"End of loan";
 update {`$"\"",x,"\""}each string placeOfBirth from `transfers;
 update {`$"\"",x,"\""}each string period from `transfers;
 update {`$"\"",x,"\""}each string countryOfBirth  from `transfers;
