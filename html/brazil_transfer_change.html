@@ -5,8 +5,6 @@
 
 path.link {
   fill: none;
-  stroke: #666;
-  stroke-width: 1.5px;
 }
 
 circle {
@@ -26,7 +24,7 @@ text {
 <script>
 
 // get the data
-d3.csv("transfers.csv", function(error, links) {
+d3.csv("brazil_transfer_change.csv", function(error, links) {
 
 var nodes = {};
 
@@ -41,6 +39,11 @@ links.forEach(function(link) {
 
 var width = 1000,
     height = 800;
+
+var color = d3.scale.linear()
+    .domain([-1, 0, 1])
+    .range(["red", "gray", "green"]);
+
 
 var force = d3.layout.force()
     .nodes(d3.values(nodes))
@@ -77,7 +80,8 @@ var path = svg.append("svg:g").selectAll("path")
 //    .attr("class", function(d) { return "link " + d.type; })
     .attr("class", "link")
     .attr("opacity", function(d){return (d.value)})
-    .attr("stroke-width", function(d){return (d.value*3)})
+    .attr("stroke", function(d) {return color(d.diff)})
+    .attr("stroke-width", function(d){return 3*Math.max(Math.min(Math.abs(d.diff),1),0.5)})
     .attr("marker-end", "url(#end)");
 
 // define the nodes
