@@ -34,6 +34,9 @@ def getUrlByLeagueId(id, season=2015):
 def getUrlByClubId(id, season=2015):
     return urlprefix + 'startseite/verein/' + str(id) + '/saison_id/' + str(season)
 
+def getTableUrlByLeagueId(id, season=2015):
+    return urlprefix + 'tabelle/wettbewerb/' + id + '/saison_id/' + str(season)
+
 def getUrlByPlayerId(id):
     return urlprefix + 'profil/spieler/' + str(id)
 
@@ -134,3 +137,20 @@ def getPlayerDataFromBs(bs):
         result3['National team id'] = nationalTeamLinks[0].get("href").split("/")[-1]
     
     return result3
+
+def getTableByLeagueId(id, season=2015):
+    try:
+        bs = BeautifulSoup(urlopen(Request(getTableUrlByLeagueId(id, season), headers={'User-Agent': useragent})))
+        realSeason = int(bs.find('a', class_='vereinprofil_tooltip')['href'].split('/')[-1])
+        if season != realSeason:
+            return DataFrame([{'league': id, 'season': season,'error': 'Season not found'}])[['league','season','error']]
+        trs=[tr.find_all('td') for tr in bs.find(class_='responsive-table').find('tbody').find_all('tr')]
+        df=DataFrame([{'league': id, 'season': season, 'rank': int(tr[0].getText().strip()), 'clubId': int(tr[2].find(class_='vereinprofil_tooltip')['id']),
+            'clubName': tr[2].find(class_='vereinprofil_tooltip').getText(),
+            'matches': int(tr[3].getText()),'wins': int(tr[4].getText()),'draws': int(tr[5].getText()),'losses': int(tr[6].getText()),
+            'goalsFor': int(tr[7].getText().split(':')[0]), 'goalsAgainst': int(tr[7].getText().split(':')[-1]),
+            'goalDiff': int(tr[8].getText()), 'pointsRaw': tr[9].getText()} for tr in trs])
+        df['points']=(3*df['wins'])+(df['draws'])
+    except Exception as e:
+        return DataFrame([{'league': id, 'season': season,'error': e}])[['league','season','error']]
+    return df[['league','season','rank','clubId','clubName','matches','wins','draws','losses','goalsFor','goalsAgainst','goalDiff','points','pointsRaw']]
