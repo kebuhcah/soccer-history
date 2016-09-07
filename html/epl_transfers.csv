@@ -1,0 +1,81 @@
+source,target,id,value,decile
+France,Italy,32,1.0,10
+France,Spain,25,0.78125,10
+Italy,Spain,22,0.6875,10
+Spain,France,22,0.6875,10
+Spain,Italy,20,0.625,10
+Netherlands,Italy,20,0.625,10
+Belgium,Netherlands,19,0.59375,10
+Argentina,Spain,18,0.5625,10
+Belgium,France,16,0.5,10
+Netherlands,Spain,15,0.46875,10
+Argentina,Italy,14,0.4375,10
+Brazil,Portugal,13,0.40625,10
+Germany,Spain,12,0.375,8
+Switzerland,Germany,12,0.375,8
+France,Portugal,12,0.375,8
+Denmark,Germany,12,0.375,8
+Netherlands,Germany,12,0.375,8
+Ireland,Northern Ireland,11,0.34375,8
+Portugal,Spain,11,0.34375,8
+Italy,France,11,0.34375,8
+France,Greece,11,0.34375,8
+France,Belgium,10,0.3125,8
+Germany,Denmark,10,0.3125,8
+France,Germany,10,0.3125,8
+Greece,Cyprus,10,0.3125,8
+Austria,Germany,9,0.28125,6
+Scotland,United States,9,0.28125,6
+Scotland,Ireland,9,0.28125,6
+Italy,Greece,9,0.28125,6
+Spain,Netherlands,9,0.28125,6
+Germany,Netherlands,9,0.28125,6
+Germany,France,9,0.28125,6
+Australia,Netherlands,9,0.28125,6
+France,Switzerland,9,0.28125,6
+Spain,Portugal,9,0.28125,6
+Brazil,Spain,9,0.28125,6
+France,Turkey,9,0.28125,6
+Switzerland,Italy,9,0.28125,6
+Switzerland,France,8,0.25,4
+Turkey,France,8,0.25,4
+Netherlands,Scotland,8,0.25,4
+Spain,Germany,8,0.25,4
+Spain,Greece,8,0.25,4
+Germany,Switzerland,8,0.25,4
+Denmark,Netherlands,8,0.25,4
+Italy,Scotland,7,0.21875,2
+Germany,Italy,7,0.21875,2
+Turkey,Italy,7,0.21875,2
+Denmark,Norway,7,0.21875,2
+Norway,Belgium,7,0.21875,2
+Belgium,Germany,7,0.21875,2
+France,Qatar,7,0.21875,2
+Italy,Germany,7,0.21875,2
+Sweden,Netherlands,7,0.21875,2
+Denmark,Sweden,6,0.1875,0
+Northern Ireland,Ireland,6,0.1875,0
+Senegal,France,6,0.1875,0
+Cote d'Ivoire,Belgium,6,0.1875,0
+France,Scotland,6,0.1875,0
+Norway,Sweden,6,0.1875,0
+Greece,Italy,6,0.1875,0
+Sweden,Norway,6,0.1875,0
+Cameroon,France,6,0.1875,0
+Greece,Spain,6,0.1875,0
+Argentina,Mexico,6,0.1875,0
+Uruguay,Italy,6,0.1875,0
+Czech Republic,Germany,6,0.1875,0
+Netherlands,Turkey,6,0.1875,0
+Sweden,Italy,6,0.1875,0
+Netherlands,Belgium,6,0.1875,0
+Spain,Argentina,6,0.1875,0
+United States,Germany,6,0.1875,0
+Spain,Turkey,6,0.1875,0
+Italy,Argentina,6,0.1875,0
+Turkey,Netherlands,5,0.15625,0
+Germany,Norway,5,0.15625,0
+Germany,Greece,5,0.15625,0
+Belgium,Switzerland,5,0.15625,0
+Brazil,France,5,0.15625,0
+Belgium,United States,5,0.15625,0

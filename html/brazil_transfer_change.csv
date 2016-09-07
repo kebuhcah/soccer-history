@@ -1,101 +1,101 @@
 source,target,before,id,diff,value,decile
-Brazil,Portugal,170.0,143,-0.158823529412,1.0,8
-Portugal,Brazil,56.0,89,0.589285714286,0.622377622378,8
-Brazil,Malta,2.0,51,24.5,0.356643356643,8
-Brazil,Italy,39.0,35,-0.102564102564,0.244755244755,8
-Brazil,Romania,1.0,34,33.0,0.237762237762,8
-Malta,Brazil,1.0,30,29.0,0.20979020979,8
-Brazil,Bulgaria,10.0,27,1.7,0.188811188811,8
-Italy,Brazil,15.0,23,0.533333333333,0.160839160839,8
-Brazil,Greece,39.0,21,-0.461538461538,0.146853146853,8
-Brazil,Turkey,32.0,20,-0.375,0.13986013986,8
-Brazil,China,1.0,20,19.0,0.13986013986,8
-Greece,Brazil,18.0,19,0.0555555555556,0.132867132867,8
-Cyprus,Brazil,1.0,19,18.0,0.132867132867,8
-Azerbaijan,Brazil,1.0,19,18.0,0.132867132867,8
-Portugal,Cyprus,1.0,19,18.0,0.132867132867,8
-China,Brazil,1.0,18,17.0,0.125874125874,6
-Romania,Brazil,1.0,18,17.0,0.125874125874,6
-Ukraine,Brazil,2.0,18,8.0,0.125874125874,6
-Brazil,Cyprus,1.0,18,17.0,0.125874125874,6
-Brazil,Ukraine,16.0,18,0.125,0.125874125874,6
-Brazil,Japan,24.0,18,-0.25,0.125874125874,6
-United Arab Emirates,Brazil,4.0,17,3.25,0.118881118881,6
-Brazil,United States,2.0,17,7.5,0.118881118881,6
-Brazil,Spain,31.0,17,-0.451612903226,0.118881118881,6
-Brazil,Azerbaijan,1.0,15,14.0,0.104895104895,6
-Brazil,"Korea, South",13.0,15,0.153846153846,0.104895104895,6
-Spain,Brazil,13.0,14,0.0769230769231,0.0979020979021,6
-Bulgaria,Brazil,1.0,14,13.0,0.0979020979021,6
-Turkey,Brazil,23.0,14,-0.391304347826,0.0979020979021,6
-Brazil,United Arab Emirates,3.0,14,3.66666666667,0.0979020979021,6
-Brazil,Thailand,1.0,13,12.0,0.0909090909091,6
-France,Brazil,13.0,12,-0.0769230769231,0.0839160839161,6
-Russia,Brazil,13.0,12,-0.0769230769231,0.0839160839161,6
-"Korea, South",Brazil,8.0,11,0.375,0.0769230769231,6
-Brazil,Switzerland,34.0,11,-0.676470588235,0.0769230769231,6
-Brazil,France,31.0,11,-0.645161290323,0.0769230769231,6
-Brazil,Austria,2.0,11,4.5,0.0769230769231,6
-Brazil,Russia,23.0,11,-0.521739130435,0.0769230769231,6
-Qatar,Brazil,3.0,10,2.33333333333,0.0699300699301,4
-England,Brazil,3.0,10,2.33333333333,0.0699300699301,4
-Brazil,Poland,21.0,10,-0.52380952381,0.0699300699301,4
-Japan,Brazil,20.0,10,-0.5,0.0699300699301,4
-Brazil,Germany,37.0,10,-0.72972972973,0.0699300699301,4
-Portugal,Romania,1.0,9,8.0,0.0629370629371,4
-Brazil,Mexico,3.0,9,2.0,0.0629370629371,4
-Brazil,Serbia,1.0,9,8.0,0.0629370629371,4
-Brazil,Saudi Arabia,6.0,9,0.5,0.0629370629371,4
-Germany,Brazil,19.0,8,-0.578947368421,0.0559440559441,4
-Brazil,Hungary,6.0,8,0.333333333333,0.0559440559441,4
-Brazil,England,11.0,8,-0.272727272727,0.0559440559441,4
-Cyprus,Greece,1.0,8,7.0,0.0559440559441,4
-Portugal,Greece,3.0,8,1.66666666667,0.0559440559441,4
-Belgium,Brazil,14.0,8,-0.428571428571,0.0559440559441,4
-Cyprus,Portugal,1.0,8,7.0,0.0559440559441,4
-Iran,Brazil,1.0,7,6.0,0.048951048951,2
-Brazil,Belgium,19.0,7,-0.631578947368,0.048951048951,2
-Brazil,Israel,9.0,7,-0.222222222222,0.048951048951,2
-Brazil,Sweden,14.0,7,-0.5,0.048951048951,2
-Brazil,Croatia,8.0,7,-0.125,0.048951048951,2
-Portugal,Turkey,3.0,7,1.33333333333,0.048951048951,2
-Brazil,Hongkong,1.0,7,6.0,0.048951048951,2
-Mexico,Brazil,4.0,7,0.75,0.048951048951,2
-Brazil,Malaysia,1.0,7,6.0,0.048951048951,2
-Israel,Brazil,3.0,6,1.0,0.041958041958,2
-Brazil,Bosnia-Herzegovina,4.0,6,0.5,0.041958041958,2
-Saudi Arabia,Brazil,5.0,6,0.2,0.041958041958,2
-India,Brazil,1.0,6,5.0,0.041958041958,2
-Brazil,Slovakia,1.0,6,5.0,0.041958041958,2
-Finland,Brazil,1.0,6,5.0,0.041958041958,2
-Greece,Cyprus,1.0,6,5.0,0.041958041958,2
-Kazakhstan,Brazil,1.0,5,4.0,0.034965034965,0
-Romania,Portugal,1.0,5,4.0,0.034965034965,0
-Austria,Brazil,1.0,5,4.0,0.034965034965,0
-Spain,Italy,2.0,5,1.5,0.034965034965,0
-Sweden,Brazil,2.0,5,1.5,0.034965034965,0
-Thailand,Brazil,1.0,5,4.0,0.034965034965,0
-Bosnia-Herzegovina,Brazil,1.0,5,4.0,0.034965034965,0
-Romania,Saudi Arabia,1.0,5,4.0,0.034965034965,0
-Brazil,India,1.0,5,4.0,0.034965034965,0
-Portugal,Poland,3.0,5,0.666666666667,0.034965034965,0
-Portugal,Iran,1.0,5,4.0,0.034965034965,0
-Serbia,Brazil,1.0,5,4.0,0.034965034965,0
-Brazil,Lithuania,2.0,5,1.5,0.034965034965,0
-Portugal,Russia,4.0,5,0.25,0.034965034965,0
-Portugal,Italy,1.0,5,4.0,0.034965034965,0
-Greece,Portugal,1.0,5,4.0,0.034965034965,0
-Spain,Portugal,8.0,4,-0.5,0.027972027972,0
-Italy,England,1.0,4,3.0,0.027972027972,0
-Portugal,China,1.0,4,3.0,0.027972027972,0
-Portugal,Angola,1.0,4,3.0,0.027972027972,0
-China,Japan,1.0,4,3.0,0.027972027972,0
-Portugal,Spain,10.0,4,-0.6,0.027972027972,0
-Spain,England,4.0,4,0.0,0.027972027972,0
-Brazil,Finland,1.0,4,3.0,0.027972027972,0
-Russia,Portugal,1.0,4,3.0,0.027972027972,0
-Brazil,Kazakhstan,1.0,4,3.0,0.027972027972,0
-Greece,Turkey,1.0,4,3.0,0.027972027972,0
-Portugal,Hungary,1.0,4,3.0,0.027972027972,0
-Brazil,Iran,1.0,4,3.0,0.027972027972,0
-Moldova,Brazil,1.0,4,3.0,0.027972027972,0
+Portugal,Russia,3.0,4,0.333333333333,1.0,0
+Portugal,Italy,1.0,4,3.0,1.0,0
+Spain,Italy,1.0,4,3.0,1.0,0
+Bulgaria,Turkey,1.0,3,2.0,0.75,0
+Ukraine,Italy,1.0,3,2.0,0.75,0
+Romania,Saudi Arabia,1.0,3,2.0,0.75,0
+Portugal,Saudi Arabia,1.0,3,2.0,0.75,0
+Portugal,Spain,2.0,3,0.5,0.75,0
+Portugal,Romania,1.0,2,1.0,0.5,0
+Portugal,Poland,2.0,2,0.0,0.5,0
+Sweden,Russia,1.0,2,1.0,0.5,0
+Spain,England,3.0,2,-0.333333333333,0.5,0
+Portugal,China,1.0,2,1.0,0.5,0
+Ukraine,China,1.0,2,1.0,0.5,0
+Ukraine,Germany,1.0,2,1.0,0.5,0
+England,China,1.0,2,1.0,0.5,0
+France,Saudi Arabia,1.0,2,1.0,0.5,0
+Italy,France,1.0,2,1.0,0.5,0
+England,France,1.0,2,1.0,0.5,0
+Italy,Portugal,1.0,2,1.0,0.5,0
+Italy,England,1.0,2,1.0,0.5,0
+Turkey,Italy,1.0,1,0.0,0.25,0
+England,Spain,1.0,1,0.0,0.25,0
+France,Portugal,1.0,1,0.0,0.25,0
+Italy,Spain,1.0,1,0.0,0.25,0
+Slovakia,Belgium,1.0,1,0.0,0.25,0
+Portugal,Ukraine,1.0,1,0.0,0.25,0
+Romania,Italy,1.0,1,0.0,0.25,0
+Slovakia,Greece,1.0,1,0.0,0.25,0
+Slovenia,Portugal,1.0,1,0.0,0.25,0
+Russia,China,1.0,1,0.0,0.25,0
+Russia,United Arab Emirates,1.0,1,0.0,0.25,0
+Switzerland,Serbia,1.0,1,0.0,0.25,0
+Switzerland,France,1.0,1,0.0,0.25,0
+United Arab Emirates,China,1.0,1,0.0,0.25,0
+Spain,Portugal,1.0,1,0.0,0.25,0
+Germany,Ukraine,1.0,1,0.0,0.25,0
+Spain,Qatar,1.0,1,0.0,0.25,0
+Switzerland,Germany,1.0,1,0.0,0.25,0
+United Arab Emirates,Ukraine,1.0,1,0.0,0.25,0
+Spain,France,1.0,1,0.0,0.25,0
+Portugal,Greece,1.0,1,0.0,0.25,0
+United States,Mexico,1.0,1,0.0,0.25,0
+Ukraine,Russia,1.0,1,0.0,0.25,0
+Ukraine,England,1.0,1,0.0,0.25,0
+Ukraine,Azerbaijan,1.0,1,0.0,0.25,0
+Turkey,United Arab Emirates,1.0,1,0.0,0.25,0
+Turkey,England,1.0,1,0.0,0.25,0
+Turkey,China,1.0,1,0.0,0.25,0
+Tunisia,Turkey,1.0,1,0.0,0.25,0
+Switzerland,Ukraine,1.0,1,0.0,0.25,0
+Austria,Germany,1.0,1,0.0,0.25,0
+Russia,Portugal,1.0,1,0.0,0.25,0
+Russia,Qatar,1.0,1,0.0,0.25,0
+Russia,Turkey,1.0,1,0.0,0.25,0
+France,Spain,3.0,1,-0.666666666667,0.25,0
+Italy,Germany,2.0,1,-0.5,0.25,0
+Germany,Spain,2.0,1,-0.5,0.25,0
+Portugal,Turkey,2.0,1,-0.5,0.25,0
+Italy,United Arab Emirates,1.0,1,0.0,0.25,0
+Hungary,Switzerland,1.0,1,0.0,0.25,0
+Portugal,France,1.0,1,0.0,0.25,0
+Cyprus,Russia,1.0,1,0.0,0.25,0
+France,Qatar,1.0,1,0.0,0.25,0
+Finland,Belgium,1.0,1,0.0,0.25,0
+England,Portugal,1.0,1,0.0,0.25,0
+Denmark,Cyprus,1.0,1,0.0,0.25,0
+Belgium,Qatar,1.0,1,0.0,0.25,0
+Greece,United Arab Emirates,1.0,1,0.0,0.25,0
+Denmark,Belgium,1.0,1,0.0,0.25,0
+Croatia,Azerbaijan,1.0,1,0.0,0.25,0
+Germany,Cyprus,1.0,1,0.0,0.25,0
+Bulgaria,Ukraine,1.0,1,0.0,0.25,0
+Bulgaria,Romania,1.0,1,0.0,0.25,0
+Bulgaria,Macedonia,1.0,1,0.0,0.25,0
+Bulgaria,Germany,1.0,1,0.0,0.25,0
+Bulgaria,Azerbaijan,1.0,1,0.0,0.25,0
+Denmark,China,1.0,1,0.0,0.25,0
+Netherlands,Austria,1.0,1,0.0,0.25,0
+France,United Arab Emirates,1.0,1,0.0,0.25,0
+Portugal,Iran,1.0,1,0.0,0.25,0
+Portugal,England,1.0,1,0.0,0.25,0
+Italy,China,1.0,1,0.0,0.25,0
+Poland,Moldova,1.0,1,0.0,0.25,0
+Netherlands,Germany,1.0,1,0.0,0.25,0
+Netherlands,England,1.0,1,0.0,0.25,0
+Germany,England,1.0,1,0.0,0.25,0
+Sweden,China,1.0,1,0.0,0.25,0
+Hungary,France,1.0,1,0.0,0.25,0
+Hungary,Spain,1.0,1,0.0,0.25,0
+Italy,Qatar,1.0,1,0.0,0.25,0
+Portugal,Germany,1.0,1,0.0,0.25,0
+Germany,United Arab Emirates,1.0,1,0.0,0.25,0
+Italy,Turkey,1.0,1,0.0,0.25,0
+"Korea, South",China,1.0,1,0.0,0.25,0
+Hungary,Cyprus,1.0,1,0.0,0.25,0
+Lithuania,China,1.0,1,0.0,0.25,0
+Austria,Poland,1.0,1,0.0,0.25,0
+Belgium,Russia,1.0,1,0.0,0.25,0
+Russia,Mexico,1.0,1,0.0,0.25,0
