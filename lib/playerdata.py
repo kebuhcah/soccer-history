@@ -3,7 +3,7 @@ import sys
 
 def extractLeagues(leagues):
     for league in leagues:
-        for season in range(2001,2016)[::-1]:
+        for season in range(2001,2017)[::-1]:
             filename=league+'_'+str(season)
             personalFile='data/personal/'+filename+'.csv'
             transfersFile='data/transfers/'+filename+'.csv'
